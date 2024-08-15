@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant 1980s movie poster featuring a trail through a retro lounge setting. The poster should showcase a lively scene, with neon lights illuminating the lounge and a colorful bar filled with various drinks. Include stylishly dressed characters typical of the era, wearing bold fashion choices like oversized blazers, high-waisted jeans, and vibrant accessories. The background should feature a large window displaying a sunset with streaks of orange, pink, and purple, setting a nostalgic mood. Add elements like geometric shapes and stars to emphasize the vintage aesthetic. The title "Trail to the Lounge" should be prominently displayed in an eye-catching, 80s-style font, with a tagline below inviting viewers to experience the ultimate party. The overall composition should evoke a sense of fun, adventure, and the spirit of the 1980s.
+Seed: 1499664907
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Trail, Lounge

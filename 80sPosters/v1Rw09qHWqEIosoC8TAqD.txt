@@ -1,0 +1,10 @@
+Prompt: A dynamic and colorful 1980s movie poster featuring an heroic action hero character in the foreground, striking a powerful pose with muscular arms crossed. He wears a sleeveless leather jacket, tight jeans, and classic high-top sneakers. In one hand, he holds a futuristic laser gun, while the other hand offers a confident thumbs-up. 
+
+The background is a vibrant collage of neon lights and cityscapes, reminiscent of the retro-futuristic aesthetic of the era. A giant, stylized sun sets behind the skyline, casting golden rays across the scene. 
+
+Dramatic, bold typography spells out the movie title in an electrifying font at the top, adorned with starbursts and gradient colors, typical of the 1980s design. The poster incorporates elements of adventure and action, with silhouetted explosions and flying vehicles in the background, adding movement and excitement. 
+
+The overall color palette consists of bright pinks, electric blues, and vivid purples, evoking the nostalgic feel of 1980s pop culture, all rendered in a high-quality, cinematic style. The artwork captures the essence of retro action movie excitement and adventure.
+Seed: 1961727084
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Platform, Tranquility

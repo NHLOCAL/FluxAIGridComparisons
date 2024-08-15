@@ -1,0 +1,8 @@
+Prompt: Create an 1980s-style movie poster for a fictional film titled "Quantum Island." The design features a vibrant color palette with neon pinks, blues, and purples reminiscent of retro aesthetics. In the center, depict a mysterious tropical island surrounded by swirling quantum energy fields and ethereal light patterns. Silhouettes of a sleek, futuristic spaceship hover above the island, casting dramatic shadows on the landscape. 
+
+The foreground includes adventurous characters wearing retro-futuristic outfits, prominently displaying 1980s hairstyles and accessories. One character, a strong female lead, stands confidently at the forefront holding a glowing artifact, while another character, a rugged male with a determined expression, looks up at the sky. 
+
+The background should include dramatic mountain silhouettes, palm trees swaying with a cosmic breeze, and a starry night sky filled with swirling galaxies. Use bold, stylized typography for the film title "Quantum Island," placing it at the bottom of the poster with a tagline such as "Adventure Awaits Beyond Reality!" The overall composition should evoke a sense of nostalgia, adventure, and science fiction, resembling iconic movie posters from the 1980s.
+Seed: 2530775632
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quantum, Island

@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of four diverse heroes standing heroically on a city rooftop at sunset. The skyline behind them is filled with colorful neon lights and retro buildings, evoking a nostalgic urban atmosphere. Each hero is dressed in iconic 80s fashion, including oversized jackets, colorful leg warmers, and bold hairstyles. One hero holds a boombox, while another has a skateboard under their arm. The title of the movie, "City Warriors," is displayed in a flashy, stylized font at the top, with bright colors and a glowing effect. The overall composition should capture the energetic and adventurous spirit of the 80s, with a slightly grainy texture to enhance the retro feel, complemented by a glowing sun setting on the horizon and dramatic clouds.
+Seed: 285906256
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scenic, Bar

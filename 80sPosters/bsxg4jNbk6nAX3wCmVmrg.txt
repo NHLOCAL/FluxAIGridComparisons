@@ -1,0 +1,10 @@
+Prompt: A vibrant 1980s movie poster featuring a lively college campus scene. The foreground showcases a diverse group of students, with a mix of fashion styles typical of the era—bright colors, leg warmers, high-waisted jeans, and oversized jackets. They are engaged in various fun activities, such as throwing frisbees, playing guitar, and laughing together. 
+
+In the background, iconic college buildings with classic architecture are visible, surrounded by lush green lawns dotted with trees and colorful flowers. A bright blue sky is adorned with puffy white clouds, radiating warmth and positivity. 
+
+The title of the movie, styled in bold, retro fonts with neon colors, arches across the top, while a catchy tagline rests at the bottom. The overall aesthetic captures the essence of nostalgia, fun, and carefree moments associated with college life. The lighting is bright and cheerful, enhancing the energetic atmosphere of the scene. 
+
+The composition should feel dynamic and inviting, reminiscent of classic 80s films, invoking a sense of happiness and camaraderie. High-quality detail, bright colors, and a cinematic flair should be emphasized, creating an engaging visual experience that transports the viewer back to the joyful days of youth.
+Seed: 1425996596
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: College, Happiness

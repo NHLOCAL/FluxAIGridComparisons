@@ -1,0 +1,6 @@
+Prompt: A vibrant 1980s-style movie poster featuring a heroic figure in a stylish neon jumpsuit, striking a dynamic pose against a backdrop of a sprawling city skyline at sunset. The character, a muscular action hero with tousled hair and sunglasses, holds a futuristic weapon in one hand while flexing their other arm confidently. Surrounding this figure are colorful geometric shapes and bold stripes characteristic of the era, with electric pinks, bright greens, and luminous yellows. 
+
+In the foreground, a powerful motorcycle with glowing wheels leans at an angle, hinting at a high-speed chase. The poster features aggressive typography displaying the film's title in oversized, metallic letters at the top, dripping with neon accents. The sky above transitions from deep orange to dark purple, dotted with stylized clouds. The overall composition should convey action and excitement, capturing the essence of a classic '80s action-adventure film. Retro style, vivid colors, cinematic lighting, detailed textures.
+Seed: 47532475
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vigor, Scene

@@ -1,0 +1,8 @@
+Prompt: Create a visually striking 1980s movie poster featuring a heroic female character standing confidently in the foreground. She has wild, voluminous hair in vibrant neon colors, wearing a leather jacket adorned with patches and studs, and tight denim jeans. She sports oversized sunglasses, and her pose exudes strength and determination.
+
+The background is a retro cityscape at sunset, with tall skyscrapers silhouetted against a gradient of rich oranges, purples, and pinks. A shining full moon rises above, illuminated with soft glow, casting dramatic shadows across the city. Vintage cars zoom by, leaving trails of bright light in their wake.
+
+The title of the movie is written in bold, blocky, metallic lettering at the top, complemented by retro graphic elements such as laser beams and geometric shapes. The overall style should convey an air of nostalgia, emphasizing the bold colors and over-the-top visuals characteristic of 1980s cinema. Include elements like a synthwave gradient and pixel art effects for added authenticity, evoking the iconic aesthetics of that era.
+Seed: 1236591063
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gem, Movement

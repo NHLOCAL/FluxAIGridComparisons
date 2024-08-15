@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster featuring a retro-futuristic city skyline at sunset with neon colors dominating the scene. In the foreground, a heroic figure clad in a leather jacket and sunglasses stands confidently, arms crossed, with a futuristic motorcycle parked beside them. The character has a determined expression and windswept hair, embodying the classic 80s action hero trope. Surrounding them are dynamic action elements, such as explosions, racing cars, and futuristic hovercrafts zooming through the sky. The title of the movie is displayed in bold, stylized typography with a glowing neon effect at the bottom. The overall atmosphere reflects a blend of adventure, nostalgia, and humor, capturing the essence of iconic 1980s cinema, framed with dramatic lighting and a colorful gradient in the backdrop. Retro style, cinematic, high detail.
+Seed: 3835752899
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vibrant, Biopunk

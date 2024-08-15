@@ -1,0 +1,10 @@
+Prompt: Create an 1980s movie poster for a fictional film titled "Change: Task". The poster features a central, muscular hero wearing a sleeveless denim jacket and aviator sunglasses, striking a dynamic pose as he stands atop a graffiti-covered car. In one hand, he holds a futuristic gadget, symbolizing a high-tech mission, while the other hand points forward, inviting action. 
+
+The background is filled with vibrant neon colors like electric blue, hot pink, and bright yellow, reminiscent of the classic 1980s aesthetics. Iconic cityscape silhouettes, like skyscrapers and neon signs, frame the scene, under a night sky filled with stars and a full moon. 
+
+The title "Change: Task" is displayed prominently at the bottom in bold, stylized lettering with a retro font, glowing in neon colors to match the theme. The tagline, "The future's in his hands," appears in smaller text beneath the title. 
+
+The entire composition has a cinematic quality with dramatic lighting that highlights the hero's figure, creating an intense and adventurous atmosphere typical of 1980s action movies. Emphasis on retro details and bold colors should evoke nostalgia and excitement.
+Seed: 661003277
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Change, Task

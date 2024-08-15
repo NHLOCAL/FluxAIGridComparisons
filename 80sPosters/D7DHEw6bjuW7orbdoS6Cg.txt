@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster titled "Power Meeting." The scene features a group of diverse business professionals gathered around a sleek, glass conference table in a high-rise office. The characters should display a range of expressions, from confident to contemplative, all engaged in a dynamic discussion. The background showcases a panoramic view of a city skyline during sunset, with rich oranges and purples reflecting off the glass windows. The characters wear bold, colorful attire typical of the 1980s, complete with shoulder pads and flashy accessories. The title "Power Meeting" is prominently displayed at the top in an iconic, retro font with neon accents, adding to the overall nostalgic feel. The lighting should be warm and dramatic, accentuating the action and energy of the scene, capturing the essence of 1980s cinema.
+Seed: 3401564275
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Power, Meeting

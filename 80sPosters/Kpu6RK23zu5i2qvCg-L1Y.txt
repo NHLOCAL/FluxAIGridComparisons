@@ -1,0 +1,6 @@
+Prompt: Create an image resembling a 1980s movie poster, featuring a heroic female warrior with long flowing hair and a fierce expression, standing atop a rocky cliff. She is clad in vibrant, colorful armor adorned with neon accents that shimmer under the bright light of a sunset. In the background, a futuristic city skyline is silhouetted against a vivid pink and purple sky, blending with the fiery orange hues of the setting sun. 
+
+Add elements like flying vehicles soaring in the sky and another character, a rugged male sidekick with a tough demeanor, standing beside the warrior, ready for action. The foreground should feature dramatic lightning effects and explosive energy, enhancing the epic feel of the scene. The entire composition is framed by bold, stylized lettering at the top and bottom, capturing that classic 1980s aesthetic. The lighting is bright and saturated, ensuring a striking and dynamic visual impact.
+Seed: 1487556428
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Striking, Epic

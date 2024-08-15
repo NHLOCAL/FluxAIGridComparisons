@@ -1,0 +1,6 @@
+Prompt: A vibrant 1980s movie poster featuring a fantastical scene centered around the theme of "Gift" and "Creation". The poster showcases a powerful wizard with a flowing cloak, conjuring colorful magical energies with his hands, surrounded by swirling clouds of bright pinks, purples, and electric blues. In the foreground, a diverse group of adventurers, including a brave knight, a cunning thief, and a wise mage, stand ready for action, each adorned in classic 80s attire embellished with metallic accents. 
+
+In the background, a towering castle looms atop a mystical mountain, its spires reaching towards a starry night sky filled with swirling galaxies and shimmering constellations. The title "Gift of Creation" is emblazoned across the top in bold, retro font, featuring neon colors and an eye-catching metallic sheen. The overall atmosphere is energetic and adventurous, evoking a sense of nostalgia for classic fantasy films of the 1980s. The lighting is dramatic, with beams of light illuminating the characters, casting long shadows that enhance the epic feel of the scene. The composition emphasizes a sense of unity and adventure, inviting viewers to embark on a magical journey.
+Seed: 2414887351
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Creation

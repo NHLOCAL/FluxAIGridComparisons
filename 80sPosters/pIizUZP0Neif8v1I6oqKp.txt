@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring the main character, a determined and adventurous young woman named Faith. She is depicted with big hair, bright neon clothing, and oversized sunglasses. In the background, showcase a stunning glacier landscape with towering ice formations reflecting hues of blue and white, complemented by a majestic sunset casting a warm orange glow. 
+
+The title "Faith" should be styled in bold, retro typography at the top, adorned with a glowing neon effect. The tagline, "Facing the Chill of Adventure," appears below in a smaller, stylized font. 
+
+Include elements of adventure like a vintage snowmobile and a couple of playful dogs racing through the snow, capturing the excitement of exploration. The overall composition should evoke a sense of nostalgia with bright colors, sharp contrasts, and dramatic flair, reminiscent of classic 80s film posters, emphasizing the energy and spirit of adventure. Add dynamic lighting effects to enhance the flashy, retro vibe.
+Seed: 636958260
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Faith, Glacier

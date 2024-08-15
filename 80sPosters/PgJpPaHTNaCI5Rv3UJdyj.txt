@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Challenge." The poster features two determined, athletic characters facing each other in a dramatic showdown. The first character is a muscular man wearing a sleeveless workout top and headband, showcasing a confident stance. The second character is an equally strong and stylish woman, dressed in a colorful leotard with leg warmers, exuding a fierce expression. 
+
+In the background, depict a stylized city skyline with neon lights, typical of the 80s aesthetic. A large sun, setting low on the horizon, should cast a warm golden glow over the scene. Incorporate elements like geometric patterns and bold typography for the title "Challenge" at the top in an eye-catching font.
+
+The overall color palette should include bright pinks, electric blues, and sunny yellows, capturing the energetic vibe of the decade. Use dramatic lighting and lens flares to enhance the cinematic feel, making it a nostalgic and visually striking representation of 1980s movie poster art.
+Seed: 7791091
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Challenge, Meeting

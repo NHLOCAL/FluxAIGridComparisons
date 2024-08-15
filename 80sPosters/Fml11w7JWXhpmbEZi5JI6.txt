@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a gnome as the central character. The gnome, with a long white beard and a pointy red hat, stands confidently wielding a large, colorful paintbrush in one hand and a bottle marked "Magic Elixir" in the other. Surrounding him are whimsical, oversized flowers and brightly colored mushrooms set against a retro gradient background of orange and purple hues, typical of the 80s aesthetic. The title "Gnome of Addiction" arches at the top in bold, neon lettering, embellished with sparkles. Add fun, stylized elements like geometric shapes and abstract designs reminiscent of 80s pop culture. The overall atmosphere should be lively and playful, embodying the spirit of an adventurous fantasy film while incorporating a hint of nostalgia. Graphic, cinematic, colorful, retro.
+Seed: 3888826194
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gnome, Addiction

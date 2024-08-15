@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s-style movie poster titled "Benefit of Leadership." The poster features a diverse group of four dynamic characters: a confident woman in a power suit, a charismatic man in a trendy leather jacket, a tech-savvy individual wearing oversized glasses, and an athletic figure in casual attire. Each character stands in a heroic pose, showcasing their unique strengths. The background depicts a colorful city skyline with neon lights and a dramatic sunset, capturing the essence of the era.
+
+The title "Benefit of Leadership" is prominently displayed at the top in bold, retro typography, with a tagline underneath that reads, "Unlock Your Potential." Emphasize bright colors, geometric shapes, and a nostalgic 80s aesthetic, with lens flares and soft gradients. The overall atmosphere should be energetic and motivational, evoking a sense of empowerment and teamwork, reminiscent of classic adventure films from the decade. Include elements of fun, such as cassette tapes and boomboxes subtly incorporated into the design.
+Seed: 2780746239
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Benefit, Leadership

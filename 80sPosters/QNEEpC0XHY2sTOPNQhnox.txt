@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Care, Way." The central image features a dynamic group of five diverse characters, each showcasing distinct 80s fashion styles such as colorful windbreakers, high-waisted jeans, and oversized accessories. They are posed heroically, with confident expressions and exaggerated stances, suggesting adventure and camaraderie. 
+
+The background depicts a lively urban setting with neon lights and retro cars, capturing the essence of the 80s vibe. A sunset sky filled with warm oranges and purples fades into a starry night, adding to the nostalgic feel. The title "Care, Way" should be prominently displayed at the top in bold, stylized lettering reminiscent of popular 80s fonts, complete with a colorful gradient.
+
+Incorporate subtle elements like cassette tapes, skateboards, and vibrant geometric patterns to enhance the playful, retro aesthetic. The overall composition should evoke a sense of excitement and nostalgia, blending humor and adventure into a quintessential 80s movie poster. Cinematic style, high detail, bright colors.
+Seed: 2187591418
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Care, Way

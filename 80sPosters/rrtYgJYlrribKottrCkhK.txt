@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster that creatively embodies the theme of "Friendship" and "Division." The poster features two main characters: one wearing a bright neon tracksuit and sunglasses, showcasing a carefree attitude, while the other is dressed in a more subdued outfit with a thoughtful expression. The characters are positioned at opposite ends of the poster, symbolizing division, yet they are stretching out their hands toward each other, depicting an effort to connect amidst their differences. 
+
+The background is a kaleidoscope of neon colors, typical of the 1980s aesthetic, with geometric shapes and stylized sunburst patterns radiating outward. Include retro elements like cassette tapes and boomboxes to enhance the nostalgic vibe. The title of the movie is presented in a bold, stylized font at the top, with a tagline below that reads, "Can friendship bridge the divide?" 
+
+Lighting should be dramatic, with vibrant pinks, blues, and yellows creating contrast and depth, emphasizing the characters' expressions. The overall composition captures the energetic and adventurous spirit of classic 80s films, blending humor and heart.
+Seed: 2373842239
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Friendship, Division

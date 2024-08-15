@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster titled "Night Voyage." The poster features a dynamic, retro-styled spaceship soaring through a starry night sky, leaving a trail of neon colors behind it. The foreground showcases a silhouette of an adventurer standing on a rocky cliff, gazing at the spaceship with awe. The cliff is illuminated by soft moonlight, casting dramatic shadows and highlighting the rugged terrain. 
+
+In the background, a colorful, abstract representation of distant planets and galaxies swirls around, evoking a sense of adventure and exploration. The title "Night Voyage" is emblazoned across the top in bold, stylized typography, reminiscent of classic sci-fi films of the 1980s, with vibrant gradients that capture the essence of the era. The overall composition features high contrast colors, vivid hues, and a captivating sense of motion, embodying the excitement of space travel. Emphasize the nostalgic vibe with elements like lens flares and grainy textures, characteristic of vintage movie posters. 
+Seed: 4026388350
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Night, Voyage

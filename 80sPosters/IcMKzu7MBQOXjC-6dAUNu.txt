@@ -1,0 +1,8 @@
+Prompt: A dynamic and vibrant 1980s movie poster featuring the title "Competence" in bold, neon typography at the top. The central scene showcases a charismatic pharmacist in a white lab coat, standing confidently behind a pharmacy counter stacked with colorful prescription bottles and health products. He wears oversized, retro sunglasses and has a playful smile, embodying the spirit of the era. 
+
+In the background, a bustling pharmacy filled with eccentric customers, including a quirky old woman with a large handbag and a young couple excitedly browsing through health supplements. Neon signs and bright colors create an energetic atmosphere, while shelf boxes and product displays reflect the 80s design aesthetic with geometric patterns and pastel hues. 
+
+The lighting is bright and saturated, showcasing the vibrant colors typical of the decade. A subtle grainy texture overlays the image, enhancing the nostalgic feel. Bold taglines like “Your Health, Our Expertise!” and “Prescriptions for Adventure!” are artistically placed around the poster, completing this energetic and eye-catching design, capturing the essence of a fun 1980s cinematic experience.
+Seed: 3736012771
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Competence, Pharmacy

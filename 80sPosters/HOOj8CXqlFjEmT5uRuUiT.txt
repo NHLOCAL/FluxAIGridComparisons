@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of four diverse friends standing confidently in a dramatic pose. They are dressed in colorful, retro attire typical of the decade, such as high-waisted jeans, oversized jackets, and funky accessories. The background showcases a neon cityscape at night, illuminated with bright pinks, blues, and purples, with towering buildings and vintage cars lining the streets.
+
+In the foreground, a classic cassette tape and a boombox hint at the music culture of the time. The title of the movie should be bold and stylized in an iconic 80s font, prominently displayed at the top. Add elements like laser beams or retro geometric shapes that reflect the energetic and adventurous spirit of the decade. The overall composition is designed to evoke a nostalgic vibe that captures the essence of 1980s cinema, complete with a textured grainy effect to enhance the retro feel.
+Seed: 1362214577
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Longing, Nudity

@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s-style movie poster featuring a stunning vineyard backdrop during sunset. The vineyard should be lush with rows of grapevines stretching into the distance, bathed in warm hues of orange, pink, and purple as the sun sets behind rolling hills. In the foreground, prominently feature a confident character in 1980s fashion—think bright colors, shoulder pads, and big hair—grinning with a glass of wine in hand, surrounded by playful, whimsical elements like cartoonish grape characters or vintage wine barrels. The title "Capability" should be boldly displayed at the top in a classic 1980s font, with an eye-catching tagline underneath. The overall scene should evoke a sense of adventure and nostalgia, with dynamic composition and graphics reminiscent of iconic movie posters from that era, blending humor and charm.
+Seed: 3552846652
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vineyard, Capability

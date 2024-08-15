@@ -1,0 +1,8 @@
+Prompt: Create an image of a retro 1980s movie poster featuring a powerful, heroic character standing triumphantly in the foreground. The character, a muscular man with a distinct mullet hairstyle, is dressed in a leather jacket adorned with vibrant patches, holding a futuristic weapon in one hand. Behind him, a dramatic skyline of a neon-lit cityscape glows under a twilight sky with animated clouds. 
+
+Include a vintage muscle car parked near him, its chrome details glistening in the colorful lights. The background should feature a large moon casting an ethereal glow, framed by silhouettes of towering skyscrapers and retro-futuristic elements. The poster should have bold, stylized typography at the top in bright colors that captures the essence of 80s design, displaying the movie title in an iconic, adventure-themed font.
+
+Add texture to replicate the worn-out look of classic posters, with slight fading and scratches to enhance the nostalgic feel. The overall composition should evoke excitement and adventure, with a warm color palette dominated by neon pinks, purples, and blues. Include elements like starbursts and lens flares to amplify the dynamic energy of the scene, while maintaining a cinematic quality throughout.
+Seed: 2127814431
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Polished, Cyborg

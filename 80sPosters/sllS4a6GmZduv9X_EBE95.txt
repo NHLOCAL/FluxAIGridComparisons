@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a dramatic scene set in a historically inspired landscape that evokes themes of seduction. In the foreground, a charismatic male and female couple stand close together, their clothing reflecting the bold fashion of the era, with bright colors and large shoulder pads. The female character wears a flowing dress with intricate patterns, while the male character is dressed in a stylish suit with a flamboyant tie.
+
+The background showcases a sunset-drenched city skyline adorned with historical architecture, such as ornate buildings and classical columns, subtly blending the past with the present. Soft, warm lighting accentuates the characters, casting playful shadows and creating a sense of intimacy. Vintage typography at the top of the poster features the film's title in large, bold letters, characteristic of 1980s design, with additional text, such as a tagline, below in smaller lettering.
+
+The overall composition should evoke a sense of nostalgia, glamor, and intrigue, with a slightly grainy texture to simulate the classic poster art of the time. Rich colors like deep reds, golden yellows, and royal blues should dominate the palette, enhancing the seductive aura of the image. Elevated angles and dynamic poses will add to the excitement and drama of the scene, reflecting the adventurous spirit of 1980s cinema.
+Seed: 18988348
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: History, Seduction

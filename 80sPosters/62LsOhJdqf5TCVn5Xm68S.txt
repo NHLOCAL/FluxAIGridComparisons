@@ -1,0 +1,6 @@
+Prompt: A vibrant 1980s movie poster showcasing a group of four diverse heroes standing boldly in the foreground. The characters include a muscular, rugged man in a leather jacket with sunglasses, a clever and resourceful woman with a high ponytail and colorful workout attire, a witty sidekick with a mischievous grin holding a boombox, and a tech-savvy genius with oversized headphones. 
+
+The background features a neon-infused city skyline at sunset, ablaze with pink and purple hues, and vintage cars speeding by. Eerie shadows of villains loom in the distance, hinting at the danger ahead. The title of the movie is prominently displayed at the top in bold, retro typography with bright, flashy colors. The overall composition is surrounded by geometric shapes and eye-catching designs, characteristic of the 80s aesthetic, bringing a nostalgic yet thrilling vibe to the scene. The lighting is dramatic, with lens flares and vibrant glow effects enhancing the energy of the poster, making it a quintessential representation of 1980s cinema.
+Seed: 447439823
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Aptitude, Fair

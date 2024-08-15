@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster titled "Woodland Omega." The central focus features a heroic figure wearing a retro sci-fi suit with a sleek helmet, standing confidently in a dense, enchanted forest. The figure holds a futuristic weapon, aimed upwards as if anticipating an adventure. 
+
+Surrounding the hero, include fantastical woodland creatures, such as glowing insects and mystical animals with exaggerated features, peering curiously from behind lush, oversized leaves. 
+
+The background showcases towering trees with neon-colored foliage and glowing vines, creating an otherworldly atmosphere. The color palette should include bright greens, electric blues, and hints of pink and orange, evoking the energetic style of 80s cinema.
+
+The title "Woodland Omega" should be displayed prominently at the top, utilizing bold, stylized typography with a metallic sheen and colorful gradients. Below the title, add a tagline in smaller text, hinting at the adventure awaiting the hero. The overall design captures a playful yet adventurous spirit, reminiscent of classic 80s fantasy or sci-fi films, complete with sharp angles and dynamic lines for added excitement.
+Seed: 3839454429
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Woodland, Omega

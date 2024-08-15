@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Serene Mirage." The central focus features a mysterious, ethereal woman with flowing hair, standing in a sunlit desert landscape, her silhouette softly illuminated against a backdrop of vivid pink and orange skies reflecting a surreal sunset. Surrounding her are fantastical desert elements, like giant, colorful cacti and shimmering sand dunes that appear to undulate like waves. The typography for the title "Serene Mirage" is bold, retro, and stylized with neon colors, reminiscent of classic 80s designs. The overall composition projects a dreamlike quality, combining elements of nostalgia and fantasy, with an emphasis on bright colors, sharp contrasts, and dramatic shadows to evoke an adventurous spirit.
+Seed: 2445132601
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Serene, Mirage

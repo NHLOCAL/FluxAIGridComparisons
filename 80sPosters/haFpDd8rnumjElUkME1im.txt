@@ -1,0 +1,8 @@
+Prompt: Create an 1980s movie poster titled "Obligation Effect." The composition features a central character, a ruggedly handsome man in a leather jacket, with a determined expression, holding a briefcase. Behind him, a futuristic city skyline is illuminated by neon lights, showcasing a blend of retro-futurism and cyberpunk aesthetics. The sky is painted in vibrant shades of purple and pink, reminiscent of a neon sunset. 
+
+In the foreground, an enigmatic female character with short, stylized hair, wearing a sleek, reflective outfit, stands confidently with a high-tech gadget in hand. Various holographic advertisements and flickering lights add dynamic energy to the background. The title "Obligation Effect" is boldly displayed at the bottom in a stylized, metallic font, with a neon glow, creating a sense of urgency and action. 
+
+The overall design mimics classic 1980s movie posters, featuring dramatic lighting, exaggerated perspectives, and a slight grain texture that enhances the vintage feel. The color palette includes deep blues, electric pinks, and bright yellows, capturing the essence of the era while emphasizing the dynamic characters and setting. The artistic style is inspired by iconic movie posters from the 1980s, combining nostalgia with a modern twist.
+Seed: 4023460024
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Obligation, Effect

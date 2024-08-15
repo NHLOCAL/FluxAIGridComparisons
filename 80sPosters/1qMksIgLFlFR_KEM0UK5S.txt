@@ -1,0 +1,10 @@
+Prompt: Create an 1980s movie poster featuring an adventurous sea theme. In the foreground, depict a rugged captain with a weathered face, wearing a classic sailor's hat and a navy-blue jacket, holding a compass with determination. Surround him with a diverse crew of adventurous characters, including a daring female first mate, a quirky scientist with glasses, and a strong deckhand. 
+
+In the background, showcase a stunning seascape with towering waves crashing against a rugged cliff. A majestic ship with sails unfurled is seen battling the tumultuous sea, while a distant island with an ancient, mysterious lighthouse looms on the horizon.
+
+Incorporate vibrant colors typical of 80s design, such as bright blues, deep reds, and sunny yellows, with bold, stylized typography for the movie title “Task: Sea” at the top. Add a tagline in a smaller font at the bottom, using a dynamic, action-oriented font style.
+
+Include dramatic lighting effects, such as rays of sunlight breaking through clouds, creating a bold contrast that enhances the adventurous spirit of the scene. The overall composition should evoke a sense of nostalgia, excitement, and exploration, typical of classic 1980s adventure films.
+Seed: 2470662735
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Task, Sea

@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Epoch." The poster features a central character, a charismatic hero with neon-colored attire, sporting retro sunglasses and a leather jacket. The character stands confidently with crossed arms against a dynamic backdrop of colorful geometric shapes and neon lights, creating a sense of energy and excitement. 
+
+In the background, a futuristic skyline showcases flying cars and holographic advertisements, all rendered in bright pinks, blues, and purples characteristic of the 1980s style. The title "Epoch" appears in bold, stylized typography at the bottom, illuminated with a glowing effect. A tagline, such as "Time is the Ultimate Battleground," arcs above the character, also glowing in neon. 
+
+The overall composition should embody the iconic aesthetic of 1980s movie posters, featuring bold colors, dynamic angles, and a sense of adventure and nostalgia, with a glossy finish to enhance the retro look. The lighting should be dramatic, accentuating the character and elements in the scene, evoking a sense of action and intensity.
+Seed: 1549679034
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Epoch, Aesthetic

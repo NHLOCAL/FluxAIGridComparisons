@@ -1,0 +1,4 @@
+Prompt: A retro 1980s movie poster titled "Decay" featuring a dystopian landscape. The foreground showcases a crumbling urban environment with graffiti-covered walls and overgrown vegetation. A lone figure stands in the center, wearing a tattered leather jacket and aviator sunglasses, gazing toward a dark, smoky horizon filled with derelict buildings. The sky is painted in striking gradients of orange and purple, resembling a fiery sunset, with silhouetted birds flying in the distance. The title "Decay" is displayed in bold, vibrant neon letters at the bottom, evoking the era's classic movie aesthetics. The overall composition conveys a sense of nostalgia and adventure, combining elements of decay and resilience with a cinematic flair reminiscent of 1980s action films. 
+Seed: 1760729353
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Decay, Ardor

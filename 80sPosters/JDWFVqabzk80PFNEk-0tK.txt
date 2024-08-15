@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant 1980s movie poster titled "Delight." The scene features a colorful, sun-soaked beach with gentle waves lapping at the shore. In the foreground, a group of four diverse friends, dressed in classic 80s swimwear, are joyfully playing beach volleyball. Their expressions convey exuberance and camaraderie. The background showcases a beachside boardwalk filled with retro amusement rides and food stalls, all drenched in warm, golden sunlight. Overhead, a bright blue sky is dotted with fluffy white clouds, and seagulls float gracefully. The title "Delight" is boldly displayed at the top in a classic 80s style font, with vibrant colors that pop against the serene beach scene. The overall composition radiates a sense of nostalgia, fun, and carefree summer days, reminiscent of classic 80s films. Bold colors, retro typography, cinematic flair.
+Seed: 775836874
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Delight, Scenic

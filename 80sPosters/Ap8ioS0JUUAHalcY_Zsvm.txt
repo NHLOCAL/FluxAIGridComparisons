@@ -1,0 +1,6 @@
+Prompt: Create a dynamic 1980s movie poster featuring a diverse group of four heroes standing confidently in action poses. The central character is a muscular man with a mullet hairstyle, wearing a leather jacket and sunglasses, holding a futuristic weapon. To his left stands a strong female warrior in spandex, striking a powerful pose with a glowing sword, while to his right is a quirky nerdy sidekick, clutching an oversized gadget. Behind them, a mysterious, menacing villain looms in the background, partially shrouded in smoke, with glowing red eyes. 
+
+The backdrop features a neon-lit cityscape at night with vintage cars and retro billboards, emphasizing the '80s aesthetic. The color palette should be vibrant and saturated, employing shades of pink, blue, and purple, with a strong emphasis on contrasting lighting. The movie title, written in a bold, stylized font at the bottom, gives a nod to classic '80s sci-fi themes. The overall composition should evoke a sense of adventure and excitement typical of that era's film posters, complete with exaggerated expressions and dynamic angles.
+Seed: 1374559531
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conjurer, Metropolis

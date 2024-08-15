@@ -1,0 +1,4 @@
+Prompt: Create an 1980s-style movie poster featuring a heroic robot with a sleek metallic body and glowing blue eyes. The robot should be depicted standing in a dynamic pose, with a city skyline in the background, showcasing neon lights and towering buildings illuminated by a vibrant sunset. The sky transitions from warm oranges and pinks to a deep purple, capturing the essence of the era. The title "Pity" should be boldly displayed at the top in retro typography, with a tagline beneath it. The robot's expression conveys a sense of determination and resilience while holding a glowing energy source in one hand, hinting at its quest to save mankind. The overall color palette should be bright, with bold contrasts, capturing the nostalgic essence of 1980s sci-fi films, illustrated in a dramatic, cinematic style.
+Seed: 3804548095
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Robot, Pity

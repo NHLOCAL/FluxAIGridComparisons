@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Energy Riddle." The central image features a dynamic, neon-colored city skyline at sunset, with towering art-deco buildings reflecting vibrant hues of pink, purple, and electric blue. In the foreground, a stylish protagonist with a sleek, futuristic outfit, complete with geometric patterns and shoulder pads, stands confidently, holding a glowing puzzle cube that emits beams of radiant light.
+
+Surrounding the figure are energetic motion lines and abstract geometric shapes, suggesting action and excitement. The sky above features stylized clouds and a large, glowing moon, adding to the retro-futuristic atmosphere. The title "Energy Riddle" is prominently displayed at the bottom in bold, metallic lettering with a dramatic font typical of 1980s cinema, adorned with sparkles and gradients that enhance its energy.
+
+The overall visual style reflects the iconic aesthetics of the 1980s, blending elements of sci-fi and fantasy, while the color palette is saturated and eye-catching, invoking a sense of adventure and enthusiasm. The poster should be dynamic, with high contrast and stylized lighting that emphasizes movement and energy.
+Seed: 265237281
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Energy, Riddle

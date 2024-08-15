@@ -1,0 +1,6 @@
+Prompt: Create a retro 1980s movie poster titled "Shift." The poster features a central character, a young woman with big, voluminous hair and vibrant clothing reminiscent of the era, standing confidently in a futuristic cityscape filled with neon lights and geometric shapes. In her hands, she holds a glowing, shifting orb that emits a spectrum of colors, symbolizing curiosity and exploration. The background should be a blend of deep purples and blues with dramatic, stylized clouds. 
+
+The typography for the title "Shift" should be bold and angular, reflecting the design trends of the 1980s, with a glowing effect that draws attention. Include elements like vintage cars and an array of stars in the night sky, enhancing the nostalgic vibe. Use high-contrast lighting to create a sense of drama and excitement, while retaining the vibrant color palette typical of 80s aesthetics. Add a tagline at the bottom: "Exploring the unknown, one shift at a time," in a smaller, retro font. The overall style should evoke a sense of adventure, combining fantasy and science fiction elements characteristic of that decade.
+Seed: 3918477718
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shift, Curiosity

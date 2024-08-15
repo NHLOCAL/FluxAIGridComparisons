@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Signal, Flame." The poster features a dynamic composition with a central character, a determined young hero with big hair and retro sunglasses, standing confidently in a futuristic cityscape. He is surrounded by neon lights and glowing digital billboards, with the silhouette of towering skyscrapers in the background.
+
+To one side, a fierce robot adversary looms, its metallic features reflecting the colorful glow of the city. The robot is posed in a menacing stance, with sparks and small flames emitting from its joints, emphasizing its high-tech menace. A motorcycle with glowing lights is parked nearby, adding to the retro-futuristic feel.
+
+The title "Signal, Flame" is boldly displayed at the bottom in an iconic, bold font, with a burning flame graphic integrated into the lettering. The color palette is dominated by bright pinks, purples, and electric blues, reminiscent of classic 80s aesthetics. The lighting should be dramatic, with high contrast between the bright neon elements and the darker shadows of the city, creating an exhilarating and action-packed atmosphere. The overall design captures the essence of adventure, technology, and nostalgia.
+Seed: 1735459266
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Signal, Flame

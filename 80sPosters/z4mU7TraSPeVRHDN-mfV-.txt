@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of four diverse young heroes standing heroically in the foreground. Each character should have distinct fashion styles typical of the era: think neon colors, oversized jackets, and big hairstyles. The background showcases a retro-futuristic cityscape with neon lights and tall skyscrapers, illuminated under a dark, starry sky with a glowing sunset gradient of pink, purple, and orange hues. The title of the movie, in bold, stylized typography, should be placed at the top in a bright, metallic font. Additional elements like a cassette tape, boombox, and arcade machine can be included to accentuate the nostalgia. The entire composition should evoke a sense of adventure and fun, typical of classic 80s films, with a slightly grainy texture to mimic the vintage aesthetic.
+Seed: 3622290366
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: View, Touch

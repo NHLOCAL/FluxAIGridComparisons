@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster set in a bustling hospital. The scene features a comely female nurse, dressed in a traditional 1980s nurse uniform complete with a white cap, exuding confidence and compassion as she tends to a patient. The hospital interior is adorned with pastel-colored walls and classic medical equipment of the era. 
+
+The background showcases a hectic hospital environment, with doctors and nurses in action, bright fluorescent lighting casting a warm glow across the scene. Bold and stylized typography presents the movie title at the top, embellished with retro graphics. 
+
+The color palette should include vivid contrasts of bright colors, embodying the essence of the 1980s aesthetic. Include eye-catching elements such as a vintage ambulance outside the hospital window and a sunset sky peeking through, adding a dramatic ambiance to the poster.
+
+This piece should be designed in a classic 1980s movie poster style, capturing the nostalgia of the era with a whimsical yet dramatic flair.
+Seed: 1884354221
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Comely, Hospital

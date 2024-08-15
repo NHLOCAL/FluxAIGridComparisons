@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Impact: Soul." The foreground features a heroic figure, dressed in a retro-style leather jacket and sunglasses, striking a powerful pose with a dynamic expression. His hairstyle is big and voluminous, reflective of the 1980s fashion trends. 
+
+In the background, a city skyline is illuminated by neon colors and glowing lights, with a dramatic sunset casting warm hues across the sky. The title "Impact: Soul" should be prominently displayed in bold, stylized typography reminiscent of classic 80s action films, with a glowing effect. 
+
+Add dynamic elements such as streaks of light, abstract shapes, and colorful gradients that capture the thrilling essence of the decade. The overall color palette should feature vibrant pinks, blues, and purples, evoking a sense of adventure and nostalgia. The lighting should highlight the central figure and give the poster a cinematic, eye-catching quality, reminiscent of iconic 1980s film aesthetics.
+Seed: 3362802765
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Impact, Soul

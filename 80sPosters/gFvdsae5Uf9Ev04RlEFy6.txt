@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster titled "Duty: Hallucination." The poster features a heroic figure in a classic retro jumpsuit, prominently positioned in the center, wielding a futuristic weapon. Surrounding the figure are dream-like, surreal elements, including floating geometric shapes and abstract patterns that create a sense of a hallucinatory experience. The color palette should be bold and neon, with electric blues, hot pinks, and bright yellows dominating the scene.
+
+In the background, depict a retro-futuristic city skyline, bathed in twilight hues, with towering skyscrapers and glowing neon lights. Include stylized clouds swirling to enhance the dream-like atmosphere. The title "Duty: Hallucination" should be boldly displayed in a dynamic 80s font at the top, with a tagline beneath, such as "In a world of dreams, duty calls." Utilize lens flares and grainy texture to give the poster an authentic vintage feel, capturing the essence of classic 80s sci-fi films.
+Seed: 906610580
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Duty, Hallucination

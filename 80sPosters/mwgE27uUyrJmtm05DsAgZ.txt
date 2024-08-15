@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a fearless female action hero in a neon-lit urban setting. She is striking a powerful pose, wearing a colorful leather jacket with bold patterns, fingerless gloves, and vibrant high-waisted jeans. Her hair is styled in big, voluminous curls adorned with a few neon accessories. In the background, towering skyscrapers are illuminated by glowing billboards and retro neon signs, with an intense sunset casting a warm glow. 
+
+Add elements like a classic motorcycle parked next to her and a city skyline with a sloping horizon. The title of the movie appears in large, stylized 80s fonts at the bottom of the poster, with bright, contrasting colors. The overall composition should evoke a sense of adventure and empowerment, using exaggerated lighting effects and a high saturation color palette typical of 80s cinema. The scene should be infused with an energetic, retro vibe that invites viewers into a nostalgic world of action and excitement.
+Seed: 2492622798
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Suggestion, Originality

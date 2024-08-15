@@ -1,0 +1,10 @@
+Prompt: Create an image of a vibrant 1980s movie poster featuring a group of diverse characters in dynamic action poses, all wearing retro-inspired clothing with bold colors and geometric patterns. The central character, a determined young woman with a confident expression, holds a futuristic device that displays holographic augmented reality graphics around her. 
+
+The background should showcase a neon-lit city skyline, with towering buildings adorned with colorful lights and retro signage. The lighting should emphasize the neon aesthetic, casting bright hues of pink, blue, and yellow across the scene.
+
+Include playful elements like flying cars and retro technology, merging the classic 80s vibe with futuristic visuals. The poster should have a stylized title at the top, rendered in a classic 80s font, with a tagline at the bottom. The overall composition should evoke a sense of adventure and excitement, capturing the spirit of classic sci-fi films from the decade. 
+
+Highly detailed, cinematic, bold colors, a perfect blend of nostalgia and futurism.
+Seed: 637021009
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Augmented reality, Merit

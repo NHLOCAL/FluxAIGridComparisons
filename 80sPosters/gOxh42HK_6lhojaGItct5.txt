@@ -1,0 +1,4 @@
+Prompt: Create a retro-inspired 1980s movie poster for a fictional film titled "Work." The central character, an overworked office employee in a crisp, outdated suit, is depicted in a dynamic pose, holding a stack of paperwork that seems to be overflowing. The background features a chaotic office environment with cubicles, flickering fluorescent lights, and scattered coffee cups. The color palette should be bold and vibrant, incorporating neon pinks, greens, and yellows typical of the decade. The title "Work" is displayed prominently at the top in a stylized, vintage font with a shiny, metallic finish. Add a tagline at the bottom that reads, "Surviving the Daily Grind." The overall atmosphere is energetic yet comically overwhelming, capturing the humor and struggles of office life in a nostalgic 1980s style.
+Seed: 4096580327
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Work, Topic

@@ -1,0 +1,10 @@
+Prompt: A vibrant 1980s movie poster featuring an epic sci-fi adventure. The central focus is a charismatic hero, sporting a mullet hairstyle and wearing a colorful leather jacket, posed dramatically with a futuristic laser gun raised. In the background, a neon-lit skyline of a sprawling metropolis glows with vivid pink and blue hues, punctuated by flying cars and vibrant billboards. 
+
+Flanking the hero are two companions: a fierce, tough female warrior with striking, spiked armor and a quirky, nerdy sidekick holding high-tech gadgets. The sky is filled with swirling galaxies and bright stars, hinting at an interstellar conflict. 
+
+The title of the movie, styled in bold, retro typography, arcs dramatically across the top in bright neon colors. Below, a tagline reads, “In a world where everything is possible, their only limit is time!” The overall composition blends elements of whimsy and adventure, embodying the spirit of 1980s sci-fi cinema, with exaggerated colors and dramatic visual effects that capture the nostalgia of the era. 
+
+Art style inspired by classic movie posters, emphasizing dynamic poses, bold colors, and a sense of action.
+Seed: 3749668155
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Duty, Road

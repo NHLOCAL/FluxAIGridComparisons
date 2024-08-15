@@ -1,0 +1,8 @@
+Prompt: Create a cinematic 1980s movie poster titled "Honesty, Defeat." The central image features a rugged, determined hero with a classic mullet hairstyle, wearing a leather jacket and standing defiantly against a backdrop of a crumbling city skyline at sunset. Surrounding him are shadowy figures representing his adversaries, shrouded in neon lighting with exaggerated features that convey their menacing presence.
+
+The color palette is vibrant and nostalgic, incorporating bold purples, pinks, and blues typical of the 80s aesthetic. In the foreground, scattered elements like broken chains and crumpled papers symbolize concepts of honesty and betrayal. The title "Honesty, Defeat" is prominently displayed at the bottom in retro, stylized typography, shimmering with a metallic finish.
+
+The overall composition evokes a sense of adventure and tension, embodying themes of struggle and resilience against overwhelming odds, while the lighting emphasizes contrasts, highlighting both the hero's bravery and the dark atmosphere surrounding him. The poster should feel dynamic and inviting, reminiscent of classic action movies from the 1980s.
+Seed: 975266677
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honesty, Defeat

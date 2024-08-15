@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of four diverse heroes standing confidently in a dynamic action pose. The central character is a muscular man in a sleeveless leather jacket, showcasing intricate tattoos. Next to him is a fierce woman with neon pink hair wielding a boombox on her shoulder while dressed in colorful workout attire. The third character is a tech-savvy kid wearing oversized glasses and holding a futuristic gadget. The fourth hero is a rugged older man with a grizzled beard, wearing camouflage pants and a bandana. 
+
+The background should feature a neon-lit urban cityscape, with towering buildings and glowing billboards in an array of electric colors like blue, pink, and purple. A glowing sunset casts dramatic shadows and warm tones across the scene. The title of the movie, “Heroes of the Night,” should be emblazoned at the bottom in bold, stylized font typical of the 1980s, complemented by retro graphics and lens flares. The overall style should capture the essence of classic 1980s action and adventure films, with bright colors, exaggerated features, and a sense of fun and excitement.
+Seed: 4267266978
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Disgust, Guide

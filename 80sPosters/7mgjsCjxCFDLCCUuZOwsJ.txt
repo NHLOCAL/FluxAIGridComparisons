@@ -1,0 +1,10 @@
+Prompt: Create a vibrant and dynamic 1980s movie poster titled "Profit: Modification." The scene features a charismatic anti-hero in a sleek, retro-futuristic outfit, standing confidently in a bustling neon-lit cityscape filled with towering skyscrapers adorned with glowing advertisements. The anti-hero should have stylish sunglasses and shoulder pads, embodying the bold fashion of the era. 
+
+In one hand, the character holds a vintage briefcase overflowing with cash, while the other hand gestures towards a digital display that showcases various high-tech gadgets and modifications, hinting at a world of corporate espionage and cyber enhancements. 
+
+The background should depict a breathtaking sunset with vibrant colors—deep purples, electric blues, and bright pinks blending seamlessly to create an atmosphere of excitement and intrigue. Incorporate elements like flying cars and futuristic bicycles in the distance, emphasizing the high-tech theme. 
+
+The title "Profit: Modification" should be prominently displayed in bold, retro typography at the top, with an eye-catching tagline beneath it, written in an electrifying font. Utilize a glossy finish to give the poster an authentic '80s cinematic feel, complete with dynamic lighting and striking shadows that convey a sense of motion and drama. The overall style should evoke nostalgia, capturing the essence of classic action films from the 1980s.
+Seed: 1262311364
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Profit, Modification

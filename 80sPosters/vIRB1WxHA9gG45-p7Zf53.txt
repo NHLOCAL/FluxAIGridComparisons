@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Silence, Crystal." The poster should feature a dramatic and dynamic layout, with a central character portrayed as a mysterious figure cloaked in a shimmering, iridescent cape that reflects various colors reminiscent of crystal. The character's face should be partially obscured, casting an enigmatic air. 
+
+In the background, include a surreal urban landscape with towering skyscrapers and neon lights shining brightly against a starry night sky. Surrounding the character are abstract shapes and shards that resemble broken crystals, adding depth and intrigue to the design. 
+
+The title "Silence, Crystal" should be displayed prominently at the bottom in bold, retro typography typical of the 1980s, illuminated with a neon glow. The color palette should consist of deep blues, purples, and bright pinks to evoke a sense of mystique and allure. Include subtle gradients to create a three-dimensional effect, capturing the essence of classic cinematic flair. The overall aesthetic should combine elements of sci-fi and fantasy, embodying the iconic style of 80s movie posters.
+Seed: 3077403661
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silence, Crystal

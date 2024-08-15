@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Mirage." The central focus of the poster is a mysterious desert landscape under a brilliant sunset, casting deep orange and purple hues across the sky. In the foreground, a lone figure wearing a classic 80s windbreaker stands on a sand dune, looking into the distance, with a pair of vintage sunglasses reflecting the stunning colors of the sky. 
+
+In one hand, the figure holds an ancient artifact that glows softly, illuminating their face and suggesting a sense of adventure and intrigue. Surrounding the figure are wisps of colorful mirage-like patterns appearing to shimmer above the sand, creating an ethereal, otherworldly effect.
+
+At the top of the poster, the title "Mirage" is displayed in bold, retro font with neon accents. A tagline below the title reads, "In a world where nothing is what it seems." The bottom of the poster features the credits in a classic 80s movie style. The art style should reflect the iconic poster designs of the era, with a slightly grainy texture, emphasizing the nostalgic feel of the 1980s, and the composition should be dynamic and eye-catching.
+Seed: 2981457806
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mirage, Guide

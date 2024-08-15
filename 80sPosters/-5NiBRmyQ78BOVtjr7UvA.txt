@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a college-themed film titled "Essence". The poster should feature a diverse group of young adult characters in classic 80s fashion, such as bright colored clothes, denim jackets, and oversized accessories. The central characters are posing in a fun, dynamic way, embodying the exuberance of college life. 
+
+The background showcases a campus scene with a large, iconic college building adorned with ivy, vibrant banners, and students mingling. Flashes of neon colors like pink, yellow, and blue are used throughout the design, along with retro typography in bold fonts, capturing the essence of 80s design trends.
+
+The lighting is bright and cheerful, with lens flares to accentuate the sunny day. Include playful elements such as books, skateboards, and classic 80s tech like cassette players scattered around. The title "Essence" at the bottom should be engaging and large, with the tagline "Discover the adventure of youth!" subtly incorporated. The overall composition should evoke nostalgia and excitement, inviting viewers back to the vibrant culture of the 1980s.
+Seed: 2916277230
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: College, Essence

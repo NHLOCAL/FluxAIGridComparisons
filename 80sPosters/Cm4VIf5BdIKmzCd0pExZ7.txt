@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster titled "Impact" featuring a dynamic action scene. In the foreground, a heroic figure, clad in a classic leather jacket and sunglasses, strikes a powerful pose with an explosion of colors behind him. The background is filled with an electrifying cityscape, showcasing towering skyscrapers illuminated with neon lights. Flashes of light and motion blur encapsulate the intensity of action. Bold typography with a metallic sheen displays the title "Impact" at the top, while a tagline beneath offers an enticing glimpse into the film's adventure. The overall color palette is a striking blend of purples, golds, and fiery reds, capturing the essence of 80s cinema and evoking excitement and nostalgia. The art style reflects the graphic design trends of the era, with a glossy finish and dynamic angles enhancing the resplendent visual experience.
+Seed: 3408861889
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Impact, Resplendent

@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s movie poster for the film "Imbalance." The poster features a central character, a determined female protagonist clad in a neon-colored jumpsuit with oversized shoulder pads and a high-tech visor. She stands confidently with one hand on her hip, facing outward, while the backdrop is filled with a chaotic city skyline illuminated by neon lights in hues of pink, blue, and green. In the sky above, a looming digital clock counts down ominously, hinting at an impending crisis. 
+
+The title "Imbalance" is boldly displayed in a retro, stylized font across the top, glowing with an iridescent effect. Various supporting characters, including a grizzled mentor figure in a leather jacket and a quirky sidekick with an eccentric hairstyle, are illustrated in dynamic poses around her. 
+
+The overall style is reminiscent of classic action-adventure films from the 1980s, with a dramatic perspective that adds depth, and the use of lens flare effects to enhance the retro feel. The lighting is bright, saturated, and dramatic, capturing the thrill and excitement of the fictional narrative. The image evokes a sense of urgency and adventure, compelling the viewer to dive into this thrilling cinematic experience.
+Seed: 2021521231
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Imbalance, Fiction

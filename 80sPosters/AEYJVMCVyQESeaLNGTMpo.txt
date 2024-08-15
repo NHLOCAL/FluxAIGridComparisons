@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster titled "Matter, Vitality." The central focus should be a dynamic, muscular hero dressed in a neon tracksuit, striking an action pose with one arm raised triumphantly. His hair is styled in a voluminous mullet, and he wears oversized sunglasses reflecting vibrant city lights. 
+
+The background features a retro-futuristic city skyline illuminated by neon lights in hues of pink, blue, and purple. Flamboyant geometric shapes and grids fill the sky, creating a sense of motion and energy, typical of 80s design elements. 
+
+Above the hero, the title "Matter, Vitality" is displayed in bold retro-font, adorned with metallic highlights that shimmer against the vivid backdrop. Below, the tagline reads "Fight for the Future," in a smaller, stylized typeface, conveying urgency.
+
+The overall composition should include dramatic lighting effects highlighting the character and integrating a slight lens flare for a nostalgic, cinematic vibe. Capture the aesthetics of the 1980s with bright colors, dynamic angles, and an energetic atmosphere that invites viewers into an adventurous world.
+Seed: 4070122896
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Matter, Vitality

@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster that captures the essence of the era. The central figure is a rugged hero with a leather jacket, stylish sunglasses, and tousled hair, striking a dynamic pose in front of an oversized muscle car. The background features a neon-lit city skyline at sunset, with glowing pink and purple hues filling the sky. Surround the hero with a diverse group of companions, each embodying classic 80s archetypes: a tough female lead, a quirky sidekick, and a mysterious villain lurking in the shadows. The title should be prominently displayed in a bold, retro font, with glowing edges and starburst effects. Add elements like cassette tapes, boom boxes, and colorful geometric shapes to enhance the nostalgic feel. The overall composition should evoke excitement and adventure, embodying the fun and adventurous spirit of 1980s action films.
+Seed: 85984681
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fiction, Tenderness

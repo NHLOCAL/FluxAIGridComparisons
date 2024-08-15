@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster featuring a central character with a quirky, exaggerated disgusted expression. The character, dressed in neon-colored clothing typical of the era, has big hair styled in a wild, over-the-top fashion, and comically oversized sunglasses. Behind them, a bustling urban backdrop filled with retro cars and classic city architecture creates an energetic atmosphere. The color palette includes bright pinks, yellows, and blues, capturing the exuberance of the decade. Bold typography in a stylized font announces the movie title at the top, while fun graphic elements like lightning bolts and starbursts surround the character, enhancing the playful yet appealing vibe of the poster. The overall design is dynamic and eye-catching, reminiscent of classic 80s film aesthetics.
+Seed: 630474699
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Disgust, Appealing

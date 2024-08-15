@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Tree of Victory." The central focus is a majestic, sprawling tree with exaggerated features and intricate details, symbolizing strength and resilience. The tree's branches are adorned with colorful leaves that evoke a sense of triumph, with a bright blue sky and fluffy white clouds as the backdrop. 
+
+In the foreground, two heroic figures stand proudly beneath the tree, one holding a flag, while the other raises a trophy high in celebration. Their attire reflects classic 1980s fashion, with bright colors and distinctive styles. The overall composition should incorporate bold typography for the title "Tree of Victory," using retro-style fonts and eye-catching colors. 
+
+The lighting is warm and inviting, casting soft shadows, and creating a nostalgic atmosphere reminiscent of feel-good adventure movies from the '80s. The entire scene is framed with dynamic borders typical of movie posters of that era, enhancing the cinematic feel of the artwork. The visual style combines elements of illustration and digital art, capturing the essence of classic 1980s aesthetics.
+Seed: 4080629085
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tree, Victory

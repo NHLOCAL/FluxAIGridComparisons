@@ -1,0 +1,4 @@
+Prompt: Create a vibrant and dynamic 1980s-style movie poster featuring a sprawling fortress set against an expansive green field. The fortress should have tall, imposing walls with crenellations, surrounded by a moat and lush vegetation. In the foreground, depict a diverse group of heroes in colorful, action-ready poses, showcasing unique outfits and gadgets reminiscent of the 1980s aesthetic. The background features a dramatic sunset with bold orange and purple hues, casting a warm glow across the scene. Use retro typography for the movie title at the top, with a tag line below that captures the adventurous spirit of the film. The overall design should embody the nostalgic charm and energy of classic 80s action movies, with an emphasis on bright colors and bold contrasts.
+Seed: 1637281733
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fort, Field

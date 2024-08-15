@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster illustration featuring a group of four diverse heroes ready for action. The central figure, a muscular man in a denim jacket, strikes a heroic pose, wielding a futuristic weapon. To his left, a fierce woman with a fierce mullet hairstyle holds a boombox over her shoulder, dressed in colorful, retro workout attire. On the right, a quirky nerd with oversized glasses and a high-tech gadget grins, while a brooding figure in dark sunglasses looms behind them. 
+
+The background should depict a neon city skyline, with bright pink and blue colors dominating the scene, glowing with retro-futuristic elements, like flying cars and large neon signs. There should be a setting sun casting a warm orange glow, enhancing the nostalgic vibe. The title should be boldly illustrated at the bottom with a stylized, dynamic font typical of action films from the era. Additional details, such as explosions or action lines, can frame the characters, creating a sense of movement and excitement. The overall style should evoke a sense of adventure and fun, embodying the spirit of classic 1980s cinema.
+Seed: 415592654
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Artificial intelligence, Masterpiece

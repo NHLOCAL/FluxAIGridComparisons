@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Agency: Route." The poster should feature a dynamic composition with a stylized action hero in the foreground, wearing a leather jacket and sunglasses, confidently leaning against a classic sports car. The background should depict a sun-soaked highway with palm trees and a retro city skyline in the distance, reflecting the iconic California vibe of the era. Bold, neon colors like pink, blue, and yellow should dominate the design. The title "Agency: Route" should be prominently displayed at the bottom in large, bold, and playful retro typography, complete with a glowing outline. Add visual elements like geometric shapes and stars to capture the essence of 80s design, while creating an energetic and adventurous atmosphere, evoking nostalgia for classic action films of that time.
+Seed: 3679394352
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Agency, Route

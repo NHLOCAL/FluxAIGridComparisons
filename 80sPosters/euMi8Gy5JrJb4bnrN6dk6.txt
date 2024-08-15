@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Belief" featuring two contrasting characters: a heroic figure on the left, wearing a brightly colored retro tracksuit, determined expression, and oversized sunglasses, standing confidently. On the right, depict a shadowy, menacing antagonist dressed in black leather with a sinister smirk, partially obscured by a dark hood. 
+
+The background should showcase a neon city skyline at dusk, with glowing lights and a gradient sky transitioning from deep purple to bright pink. Add dynamic elements like stylized lightning bolts and abstract geometric patterns to enhance the retro feel. The film's title "Belief" should be displayed in a bold retro font across the top, with glowing effects.
+
+Incorporate an action tagline at the bottom reading "In a world divided by faith, only one will emerge victorious!" The overall composition should have a dramatic perspective, emphasizing the conflict between the characters, with retro textures and a glossy finish typical of classic 1980s film posters.
+Seed: 546358347
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Belief, Enemy

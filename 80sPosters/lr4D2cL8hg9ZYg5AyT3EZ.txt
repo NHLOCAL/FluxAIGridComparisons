@@ -1,0 +1,10 @@
+Prompt: Create an 1980s-style movie poster for a romance film titled "Awakening." The central focus is on a couple standing in a lush, sunlit park, their silhouettes bathed in a warm, golden glow. The woman has flowing, wavy hair and wears a pastel-colored sundress, while the man sports a classic 80s hairstyle and a casual button-up shirt with rolled-up sleeves. 
+
+In the background, vibrant cherry blossom trees are in full bloom, their petals gently falling around them, creating a magical atmosphere. The sky transitions from a soft orange to a vibrant pink, capturing the essence of a romantic sunset. 
+
+The title "Awakening" is boldly displayed at the bottom in retro typography, with a slight glow effect reminiscent of neon lights. 
+
+Art style should reflect the hand-painted movie poster aesthetics of the 1980s, emphasizing vibrant colors and dramatic shading. Soft lighting enhances the romantic theme, while the overall composition invites viewers into a nostalgic and dreamy love story.
+Seed: 2508850906
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Romance, Awakening

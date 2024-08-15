@@ -1,0 +1,6 @@
+Prompt: Create an 1980s style movie poster for a fictional film titled "Encounter." The central image features a dramatic scene of a spaceship descending through an ominous, swirling storm cloud, with lightning illuminating the sky. The spaceship should have a retro-futuristic design, reminiscent of 1980s sci-fi aesthetics, with bright colors like neon blue and metallic silver. Below the spaceship, a group of diverse characters stands on a rocky ledge, gazing upward with expressions of awe and curiosity; they should be dressed in vibrant, typical 1980s fashion, featuring mullets and bright jackets. 
+
+The title "Encounter" should be bold and stylized, placed at the bottom of the poster in a neon gradient, giving off a retro vibe. The background should include hints of a distant alien world peeking through the clouds, with additional motifs such as stars and planets scattered throughout. The overall lighting should be dramatic, enhancing the sense of adventure and intrigue, while capturing the vibrant and nostalgic feel of classic 1980s movie poster art.
+Seed: 633106220
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Encounter, Cloud

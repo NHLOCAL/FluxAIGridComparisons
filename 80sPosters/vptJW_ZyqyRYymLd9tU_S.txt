@@ -1,0 +1,6 @@
+Prompt: Create a vibrant and nostalgic 1980s movie poster featuring a group of diverse teenagers on a thrilling adventure. The main characters are standing confidently in the foreground, each showcasing unique fashion styles of the era: bright neon colors, high-waisted jeans, and oversized jackets. Behind them, a retro convertible car is parked on a coastal road with palm trees swaying in a sunset background filled with shades of pink, orange, and purple. The sky is dotted with scattered clouds, and seagulls can be seen flying above. 
+
+The title of the movie, "Summer Quest," is prominently displayed in bold, flamboyant lettering at the top, reminiscent of classic 80s typography. The poster includes iconic elements like cassette tapes, boomboxes, and roller skates subtly integrated into the design. The overall atmosphere is energetic and adventurous, capturing the spirit of friendship and summer escapades. The color palette is bright and saturated, with dramatic lighting effects to emphasize the sunset and the characters' excitement. The style should evoke a sense of nostalgia while maintaining a fun and playful feel, typical of 1980s cinematic posters.
+Seed: 462944511
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creation, Loveable

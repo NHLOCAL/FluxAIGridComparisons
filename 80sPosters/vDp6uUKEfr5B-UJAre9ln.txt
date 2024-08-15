@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of diverse characters standing triumphantly together on a scenic mountaintop. The characters are a mix of fashion styles from the era, including colorful windbreakers, high-waisted jeans, and oversized sunglasses. The backdrop reveals a stunning landscape of rolling hills and a vibrant sunset with hues of pink, orange, and purple, reminiscent of classic movie posters from that decade. The title of the movie should be bold and retro-style at the top of the poster, with a tagline at the bottom. Utilize a glossy finish to enhance the colors, creating a nostalgic yet empowering atmosphere. The overall composition should capture the spirit of camaraderie and adventure characteristic of 1980s films.
+Seed: 1008652902
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leadership, Scenic

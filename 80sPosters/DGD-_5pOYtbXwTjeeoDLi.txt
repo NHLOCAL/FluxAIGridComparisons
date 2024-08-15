@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Silence." The central focus features a lone survivor, a weathered man in a tattered leather jacket, holding a battered guitar, standing on a desolate urban street. His hair is wild and unkempt, with dirt and dust covering his face, giving him a rugged, resilient look. Behind him, crumbling skyscrapers rise against a gloomy, orange-hued sky, casting long shadows on the cracked pavement. 
+
+The background includes scattered remnants of a once-thriving city, overgrown with wild vegetation and remnants of old advertisements. In the distance, a faint silhouette of a monstrous, shadowy creature lurks, partially obscured by swirling clouds and debris. The title "Silence" is boldly displayed at the bottom in a retro, neon font, with a tagline that reads, "In a world where sound is life... silence is deadly." 
+
+The overall color palette combines deep oranges, dark grays, and hints of neon hues, radiating an intense and nostalgic 1980s vibe. The lighting should be dramatic, with strong contrast between light and shadow, evoking a sense of danger and urgency. This poster encapsulates the thrilling essence of a post-apocalyptic adventure while paying homage to the iconic style of 1980s cinema.
+Seed: 2540176472
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silence, Post-apocalyptic

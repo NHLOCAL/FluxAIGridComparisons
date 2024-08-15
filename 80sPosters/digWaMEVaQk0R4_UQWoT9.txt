@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster featuring a group of diverse, action-packed characters in a retro urban setting. In the foreground, a muscular hero in a leather jacket poses confidently with a large boombox on his shoulder. Beside him, a fierce female fighter in a neon tank top displays martial arts stances, while a quirky sidekick in oversized glasses and a colorful windbreaker holds a skateboard. The background captures a neon-lit cityscape with towering skyscrapers and glowing signs, evoking a sense of adventure and excitement. Vibrant and bold color palette dominated by pinks, purples, and electric blues, with stylized typography at the top featuring the film's title in an angular, retro font. The overall atmosphere is nostalgic, energetic, and fun, reminiscent of classic 80s action comedies, with a touch of humor and excitement, cinematic, illustration.
+Seed: 823789334
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Riddle, Mermaid

@@ -1,0 +1,6 @@
+Prompt: A vibrant and nostalgic 1980s movie poster for the fictional film titled "Today, Vigor." The poster features a dynamic action scene with a heroic protagonist, a muscular man in a colorful tracksuit, striking a powerful pose in the foreground. His expression is determined, and he holds a boombox over his shoulder. Flanked by two equally tough characters, a confident woman wielding a skateboard and a quirky sidekick wearing oversized glasses, they embody the spirit of the era. 
+
+The background showcases a neon-lit cityscape, complete with retro cars and palm trees, against a sunset gradient of purples and pinks, reminiscent of classic '80s aesthetics. Bold typography at the top reads "Today, Vigor" in a large, stylized font with starbursts. The entire scene is enhanced with energetic motion lines and sparkles, capturing the essence of adventure and excitement typical of the genre. The overall color palette features bright yellows, vibrant blues, and hot pinks, contributing to the nostalgic feel of the 1980s movie poster design. Cinematic lighting adds depth and drama to the characters and scene, creating a captivating visual experience.
+Seed: 2051839531
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Today, Vigor

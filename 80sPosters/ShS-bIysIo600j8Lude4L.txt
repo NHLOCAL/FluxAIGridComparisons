@@ -1,0 +1,4 @@
+Prompt: Create a vibrant and nostalgic 1980s movie poster featuring a group of eclectic characters, including a heroic male protagonist in a denim jacket and sunglasses, a fierce female warrior in neon armor, and a quirky sidekick with wild hair and colorful attire. They are posed heroically against a backdrop of a retro futuristic city skyline adorned with neon lights and flying cars. The film title "Time Warriors" is displayed in bold, stylized lettering at the top, with a glowing effect reminiscent of classic ’80s graphics. Below, include a tagline: "Save the Past, Change the Future!" The color palette should be vibrant with deep purples, blues, and pinks, capturing the essence of ’80s pop culture. The overall composition should evoke a sense of adventure, excitement, and nostalgia, with a cinematic flair reminiscent of classic action-adventure films from that era.
+Seed: 1617019164
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Radiant, Devotion

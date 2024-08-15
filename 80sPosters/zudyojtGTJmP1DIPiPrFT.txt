@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for an adventure film titled "Quest for the Lost Treasure". The design should feature a rugged explorer wearing a wide-brimmed hat, wielding a map in one hand and a vintage compass in the other. His outfit should include a weathered leather jacket, cargo pants, and rugged boots. Behind him, a lush jungle setting filled with exaggerated, oversized exotic plants and ancient ruins is seen, hinting at hidden treasures. 
+
+In the background, shadowy mountains rise under a dramatic sunset sky painted in vivid oranges, pinks, and purples. Include vintage-style typography for the title at the top, using bold, retro fonts with a gold sheen to evoke a sense of nostalgia. 
+
+Add a few adventure elements like a distant, majestic waterfall and scattered artifacts peeking through the vegetation. The overall look should be bright and eye-catching, reminiscent of classic 80s action-adventure films, with a slight airbrush effect to enhance the nostalgic feel. Include "Coming Soon" at the bottom in a classic cursive style to complete the poster design, drawing viewers into the thrilling adventure.
+Seed: 1182336106
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Art

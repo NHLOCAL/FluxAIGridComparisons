@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Perception." The design should feature a central, heroic figure with shoulder-length hair wearing a leather jacket, standing confidently against a colorful neon city skyline at dusk. The sky is filled with pastel hues of purple and pink, with a glowing, full moon in the background. The character has a futuristic device in one hand, emitting a blue light that illuminates their determined face.
+
+Incorporate retro typography for the title "Perception" at the bottom, using bold, stylized letters with a chrome finish that reflects the vibrant colors of the background. Add a tagline below the title in smaller text that reads, "See beyond reality." Include graphic elements like geometric shapes and neon lines to enhance the retro atmosphere. The overall composition should evoke a sense of adventure and intrigue, characteristic of classic 1980s action and sci-fi films, capturing the essence of that era's cinematic style.
+Seed: 2868971269
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Perception, Award

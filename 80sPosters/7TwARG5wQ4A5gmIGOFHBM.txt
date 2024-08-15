@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a massive, crumbling monument at the center, shrouded in neon lights and fog. The monument is an abstract, futuristic structure, resembling a blend of ancient architecture and modern design. In the foreground, a group of diverse characters—each dressed in classic 80s fashion—stands heroically with determined expressions. 
+
+The background features a frenetic cityscape, illuminated with bright neon signage, and distant pyramids under a starry night sky. The colors are bold and saturated, emphasizing electric blues, hot pinks, and bright yellows typical of the era. The title "Zone" appears in large, retro-styled font at the top, vibrant and glowing, with stylized rays emanating from it. 
+
+Light sources create dramatic lighting with deep shadows, enhancing the mysterious and adventurous theme of the scene. The overall composition should evoke feelings of nostalgia, adventure, and a sense of epic exploration. Illustrative style, capturing the essence of 80s movie classics.
+Seed: 1048667580
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monument, Zone

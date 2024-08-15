@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Specter". The poster should feature a menacing gargoyle perched atop a gothic cathedral, its stone features intricately detailed, with sharp claws and pronounced wings. The gargoyle's eyes glow with an otherworldly light, casting an eerie glow over the dark, rainy city below. 
+
+In the foreground, depict a shadowy silhouette of a heroic figure holding a glowing weapon, facing the gargoyle, creating a sense of tension and impending action. The background showcases a dramatic night sky filled with swirling clouds and hints of lightning, emphasizing the supernatural theme of the movie.
+
+The title "Specter" should be boldly displayed at the bottom in a retro, stylized font, adding to the vintage feel. The color palette should consist of deep blues, purples, and blacks, with pops of neon colors typical of 1980s aesthetics. The overall composition should exude a sense of adventure, mystery, and supernatural suspense, reminiscent of classic fantasy-horror films from the era.
+Seed: 1619096961
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Specter, Gargoyle

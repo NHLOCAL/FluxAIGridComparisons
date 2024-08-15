@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of diverse heroes standing confidently in front of a futuristic city skyline at sunset. The heroes should include a strong female character with vibrant red hair wearing a stylish leather jacket, a muscular male character with a mullet, and a tech-savvy sidekick holding a retro gadget. The skyline should be filled with neon lights and flying cars, emphasizing a retro-futuristic aesthetic. 
+
+The color palette should include bright neon pinks, blues, and yellows, capturing the lively essence of the 80s. The title of the movie, written in bold, retro typography, should be prominently displayed at the top. In the background, dramatic clouds are illuminated by the setting sun, casting colorful reflections over the scene. The overall style should evoke the classic adventure and sci-fi themes typical of 1980s cinema, brimming with excitement and nostalgia.
+Seed: 3701914498
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enlightenment, Selection

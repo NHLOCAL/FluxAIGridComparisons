@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a visually striking design that blends elements of performance and intuition. The central figure is a dynamic dancer in mid-leap, wearing a flashy, colorful outfit typical of the era, complete with leg warmers and a headband. The background features a burst of neon colors—pink, orange, and electric blue—reflecting a lively urban setting with abstract shapes and geometric patterns that evoke a sense of motion and energy.
+
+Add dynamic lighting that highlights the dancer's form, casting dramatic shadows to enhance the excitement of the scene. A large, bold title at the top reads "Performance" in a retro font, while "Intuition" is displayed below in a complementary style. The overall composition should evoke a sense of exuberance, creativity, and the exhilarating spirit of the 1980s. Include film credits at the bottom in a smaller, classic font, maintaining the authentic movie poster aesthetic. The image should be colorful, cinematic, and filled with nostalgia, encapsulating the essence of that iconic decade.
+Seed: 4134185606
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Performance, Intuition

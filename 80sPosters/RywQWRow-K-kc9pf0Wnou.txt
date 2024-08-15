@@ -1,0 +1,4 @@
+Prompt: Create an 1980s movie poster for a fictional film titled "Manner, Day." The central character is a charismatic male hero with large, flamboyant hair and wearing a colorful, retro-style suit, striking a confident pose. In the background, feature vibrant neon colors in shades of pink, blue, and yellow, with classic 1980s elements like cassette tapes, boomboxes, and cityscapes. The title "Manner, Day" should be displayed in bold, stylized typography typical of the 80s aesthetic, with a slight glow effect. Dramatic lighting from various angles should create a sense of action and adventure, alongside geometric shapes and lines that emphasize the retro vibe. The overall composition should have a nostalgic and electric feel, reminiscent of iconic 1980s movie posters.
+Seed: 1790431979
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Manner, Day

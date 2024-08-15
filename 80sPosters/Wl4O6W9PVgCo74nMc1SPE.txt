@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster titled "Artificial Intelligence: Alliance." The central focus features a heroic protagonist, a young woman with futuristic attire adorned with neon colors, standing confidently with a high-tech device in her hand. Beside her, a sleek humanoid robot exudes an air of loyalty, its metallic body reflecting the neon lights. 
+
+The background depicts a chaotic cityscape illuminated by bright, retro neon signs, showcasing flying cars and towering skyscrapers in a futuristic style. The sky is a blend of dark blue and purple hues, dotted with stars and hints of circuitry.
+
+The title "Artificial Intelligence: Alliance" should be prominently displayed at the bottom, styled with bold, retro typography. Below the title, include a tagline in smaller text that reads "In a world where technology reigns, heroes emerge." 
+
+The entire composition should capture a sense of adventure and excitement, enhanced by dramatic lighting and dynamic angles, reminiscent of classic 1980s sci-fi movie posters.
+Seed: 2909224737
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Artificial intelligence, Alliance

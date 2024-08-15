@@ -1,0 +1,8 @@
+Prompt: Create a vibrant and nostalgic 1980s movie poster titled "Moment: History." The poster features a dynamic composition with a central heroic figure dressed in classic 80s attire, such as a leather jacket and high-top sneakers, striking a powerful pose. Surrounding the hero are iconic elements from the decade, like cassette tapes, neon lights, and retro gadgets. 
+
+In the background, depict a stylized cityscape with skyscrapers silhouetted against a glowing sunset, transitioning from orange to purple, creating a warm and energetic atmosphere. Incorporate bold, blocky fonts typical of 80s design for the movie title and tagline, placed prominently at the top and bottom. 
+
+Add subtle textures reminiscent of film grain and pastel colors to enhance the nostalgic feel. The overall art style should reflect a classic 80s action-adventure vibe, with bright colors, exaggerated perspectives, and dynamic lines that create movement and excitement, making it a true celebration of the decade.
+Seed: 2719957180
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Moment, History

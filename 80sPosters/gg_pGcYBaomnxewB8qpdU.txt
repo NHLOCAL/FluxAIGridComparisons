@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster titled "Lust in the Orchard". The poster features a lush, sun-drenched orchard filled with ripe fruit trees under a bright blue sky. In the foreground, a charismatic couple stands playfully intertwined among the branches, with the woman wearing a flowing, colorful sundress and the man in a retro tank top and shorts. Their confident poses and playful expressions embody the carefree spirit of the era. 
+
+The background includes rolling hills and a warm sunset, casting a golden glow over the scene. The title "Lust in the Orchard" is displayed in bold, stylized typography reminiscent of classic 80s films, with vibrant colors like hot pink and electric blue. Surrounding the title, playful elements such as butterflies and fruit motifs add a whimsical touch. The overall composition is bright and inviting, capturing the essence of 1980s nostalgia with a fun, romantic twist. Retro film grain effect enhances the nostalgic feel of the poster.
+Seed: 3967911440
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lustful, Orchard

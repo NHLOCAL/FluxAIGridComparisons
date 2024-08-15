@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a heroic character battling against the forces of defeat and illness. The central figure, a determined individual dressed in retro athletic gear, stands with a defiant pose, fists clenched, under dramatic lighting that highlights their muscular physique. 
+
+The background is filled with dynamic, swirling colors typical of 1980s design, with neon blues, pinks, and purples creating a sense of urgency and struggle. Shadowy silhouettes of unseen adversaries loom in the background, suggesting the challenges they face. 
+
+Incorporate bold, stylized lettering at the top reading “FIGHTING BACK!” in large, eye-catching font, with a tagline below it that says “Hope is the Ultimate Cure” in a smaller font. The overall structure should mimic an action movie poster, with a cinematic flair showcasing both the resilience and the challenges faced amid the battle against illness. The colors should be saturated and vivid, capturing the essence of the 1980s aesthetic with an empowering and motivational message.
+Seed: 221982313
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Defeat, Illness

@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of diverse heroes standing confidently against a bright, neon background infused with geometric shapes and patterns typical of the decade's aesthetic. Each hero should have distinct and exaggerated features, like big hair, colorful outfits, and flashy accessories. 
+
+At the forefront, place a strong female protagonist wielding a futuristic gadget, flanked by a muscular male hero with a bandana, and a wisecracking sidekick with oversized sunglasses. The title of the movie, in bold retro typography, should be positioned at the top, glowing with neon colors. 
+
+Include action elements in the background, such as dramatic explosions, a flying car, and stylized clouds of smoke, adding a sense of adventure. The overall color palette should be bright and saturated, with oranges, pinks, and blues dominating the scene, reflecting the energetic spirit of 1980s cinema. Add film grain and a slightly worn texture to enhance the vintage feel, capturing the essence of an iconic decade in film history. 
+Seed: 1165259421
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gulf, Respect

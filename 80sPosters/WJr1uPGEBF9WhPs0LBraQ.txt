@@ -1,0 +1,4 @@
+Prompt: Create a vintage-style 1980s movie poster featuring a shadowy figure in a dimly lit alley, cloaked in a tattered trench coat. The character's face should be partially obscured by a fedora, with glints of menacing eyes peeking through. In the background, an ominous urban skyline looms under a moonlit sky, shrouded in a thick fog that gives a sense of mystery and foreboding. Neon signs flicker with vibrant colors, casting an eerie glow onto the wet cobblestone streets. The title of the movie, "Creepy Obligation," should be displayed in bold, retro typography at the top, with an unsettling tagline underneath. The overall color palette should consist of dark blues, purples, and hints of neon pink and green, embodying the retro aesthetic of the 1980s. The lighting should be dramatic, emphasizing the shadows and creating a tense atmosphere for the viewer.
+Seed: 1963095425
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creepy, Obligation

@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of four diverse friends, each showcasing distinct fashion styles characteristic of the era – bright neon colors, high-waisted jeans, oversized jackets, and funky accessories. The friends are depicted in dynamic poses, exuding confidence and excitement. In the background, a retro cityscape at dusk with glowing neon signs and classic cars on the streets sets the scene. The title of the movie is boldly displayed at the top in a stylized, vintage font, surrounded by retro elements such as cassette tapes and boomboxes. The lighting is colorful and dramatic, with a prominent sunburst effect adding a nostalgic flair. Emphasize the fun and adventurous spirit of the 1980s, capturing the essence of friendship and camaraderie in this vibrant illustration.
+Seed: 2208718321
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Direction, Emerald

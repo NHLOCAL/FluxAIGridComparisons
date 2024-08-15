@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Responsibility: Honor." The central focus features a heroic character – a strong, rugged man in a leather jacket, sporting a confident stance with a determined expression. He is holding a vintage walkie-talkie in one hand, symbolizing his commitment to duty and honor. The background depicts a neon-lit city skyline, with tall buildings illuminated in bright pinks, blues, and purples, capturing the classic 80s aesthetic.
+
+Flanking the hero are two supporting characters: a savvy female agent in a stylish jumpsuit with bold shoulder pads and a tech-savvy sidekick wearing thick glasses, showcasing their skills and teamwork. The title "Responsibility: Honor" appears in bold, stylized typography at the top, with a tagline underneath reading "When Duty Calls, They Answer."
+
+The lighting is dramatic, with a stylized sunset casting a warm glow, contrasting against the cool neon hues, enhancing the retro vibe. The overall composition is dynamic, with a sense of action and adventure, reminiscent of classic action films from the 1980s.
+Seed: 581724999
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Responsibility, Honor

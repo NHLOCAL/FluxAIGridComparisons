@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a retro-style sci-fi adventure. The central figure is a heroic space ranger, clad in a metallic silver jumpsuit with bold neon accents, wielding a futuristic ray gun. His hair is styled in a classic 80s mullet, and he strikes a dynamic pose against a backdrop of a swirling galaxy filled with bright, colorful stars and nebulae. 
+
+The bottom of the poster showcases a sleek, vintage spaceship soaring through a sparkling asteroid field, while two alien creatures, both distinct in appearance, peek from behind a large asteroid. The title of the movie, in bold, metallic font with a shimmering effect, curves across the top, while a tagline in vibrant colors sits at the bottom. 
+
+Lighting should evoke a sense of nostalgia, with neon blues, pinks, and purples dominating the palette, creating a mesmerizing and eye-catching design. The overall composition should capture the essence of classic 80s movie posters, complete with pixelated elements and geometric shapes framing the scene.
+Seed: 2240925408
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Drawing, Mesmerizing

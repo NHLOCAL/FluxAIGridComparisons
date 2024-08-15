@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster design featuring a mysterious figure standing in the center, draped in a stylish trench coat and sunglasses, exuding an air of intrigue. The background depicts an ornate, dimly lit museum filled with ancient artifacts and artwork, with soft spotlighting illuminating the exhibits and casting long shadows. Neon colors, typical of the 1980s aesthetic, are used to highlight the edges of the poster, creating a nostalgic feel. The title "Stranger" appears in bold, retro typography at the top, complemented by dramatic, stylized lines and patterns reminiscent of vintage movie posters. The overall composition captures a sense of adventure, mystery, and excitement, drawing viewers into the enigmatic world of the film. 8k resolution, ultra-detailed, cinematic lighting.
+Seed: 807717952
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stranger, Museum

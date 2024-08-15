@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a stylized museum setting. The central focus is a massive, exaggerated weightlifting champion, flexing their muscles triumphantly while holding a barbell overhead. The champion is depicted in bright neon colors, emphasizing their exaggerated physique with a colorful headband and shoulder pads typical of the era. 
+
+In the background, various iconic art pieces are displayed within a grand museum hall, illuminated by dramatic lighting. The walls are adorned with rich, detailed textures, showcasing the contrast between the art and the champion's vibrant attire. 
+
+The top of the poster features bold, retro typography, proclaiming the film title in an explosive design, while the bottom includes a tagline that evokes excitement. The overall color scheme is dominated by vivid blues, pinks, and yellows, capturing the essence of the '80s aesthetic. The atmosphere is energetic and playful, with starbursts and geometric shapes surrounding the title that enhance the retro vibe., cinematic, vibrant, illustrative style.
+Seed: 4178948388
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Weight, Museum

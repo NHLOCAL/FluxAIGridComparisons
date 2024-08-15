@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s movie poster design showcasing a classic action hero wielding a futuristic plasma gun, standing confidently in the foreground. The hero, wearing a sleeveless leather jacket and sunglasses, has a muscular physique and a chiseled jawline. Behind him, a sprawling city bathed in neon lights glows against a twilight sky, with towering skyscrapers and retro-futuristic vehicles flying by. 
+
+The poster features bold, stylized fonts at the top with the film's title in electric blue, accompanied by glowing geometric shapes and stars, reminiscent of the era's graphic design. In the background, a group of diverse supporting characters, each with distinct hairstyles and outfits reflecting 80s fashion trends, adds to the dynamic composition. 
+
+The scene is illuminated with neon pink and purple hues, giving it a cinematic flair, while the tagline at the bottom reads, "Join the fight for freedom!" Everything is framed with a flashy border, enhancing the nostalgic look of the poster, capturing the essence of 1980s action films and their artistic style.
+Seed: 1706571331
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glamorous, Warehouse

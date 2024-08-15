@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a powerful, muscular hero standing boldly in the foreground. The hero should have a chiseled jawline, wearing a sleeveless leather jacket, showcasing strong arms, and exuding an air of confidence. His hair is styled in a classic mullet, and he should be looking directly at the viewer, ready for action. 
+
+In the background, include a bustling city skyline at dusk, with neon lights glowing in bright pinks and blues, reminiscent of the era's aesthetic. Incorporate elements like vintage cars zooming down the street and an explosion in the distance, enhancing the sense of high-stakes adventure. 
+
+The title "Strength Alpha" should be boldly displayed at the bottom in large, stylized typography, with a colorful gradient effect typical of 1980s films. Use cinematic lighting that casts dramatic shadows and highlights on the hero, emphasizing his physique and determination. The overall color palette should be bright and saturated to encapsulate the energy and excitement of the 1980s film scene, creating a nostalgic yet captivating visual.
+Seed: 7706336
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Strength, Alpha

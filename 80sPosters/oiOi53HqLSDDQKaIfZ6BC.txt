@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring an action-packed scene with a heroic figure in a leather jacket and sunglasses, wielding a glowing neon weapon. The background showcases a bustling city skyline at sunset, with colorful pink and purple hues blending into a starry sky. Incorporate retro elements like grid patterns and geometric shapes to enhance the nostalgic feel. The title of the movie is displayed in bold, stylized lettering at the top, with a tagline underneath it in a smaller font. The overall atmosphere should convey excitement and adventure, encapsulated in the classic cinema style of the 1980s, with a slight grainy texture for authenticity. Cinematic composition, high contrast lighting.
+Seed: 3923730263
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Geyser, Originality

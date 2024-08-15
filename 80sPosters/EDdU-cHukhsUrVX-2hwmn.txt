@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster titled "Notion." The design features a central figure in an oversized windbreaker, sunglasses, and a headband, striking a confident pose. In the background, a neon city skyline glows under a twilight sky in gradients of purple and blue, with glowing skyline silhouettes of retro buildings and palm trees. The title "Notion" is presented in bold, stylized typography, reminiscent of classic 80s films, with vibrant, iridescent colors reflecting the era's aesthetic. Add elements like cassette tapes and boomboxes scattered throughout the background to enhance the nostalgic vibe. The overall composition is framed with a glossy finish and a slight grain effect, capturing the essence of classic movie posters from the 1980s. Cinematic lighting highlights the central figure while maintaining a playful, upbeat atmosphere.
+Seed: 2576065068
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Notion, Gray

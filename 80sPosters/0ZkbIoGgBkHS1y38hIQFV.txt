@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of diverse, colorful characters, each reflecting a typical genre of the era such as action, sci-fi, and adventure. The central character, a muscular hero with a mullet, wields a futuristic laser weapon, while a stylish woman with big hair poses beside him in a neon outfit. In the background, depict a sprawling city skyline bathed in a sunset glow, with flying cars and retro-futuristic buildings. The title of the movie should be bold, using iconic 80s typography, positioned at the bottom of the poster. Include elements such as dramatic lens flares, geometric patterns, and a colorful gradient to frame the scene, enhancing the nostalgic atmosphere. The overall color palette should be bright and saturated, with vivid pinks, blues, and yellows evoking the energetic vibe of the disco era, giving it a retro yet dynamic feel.
+Seed: 565240619
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quest, Icon

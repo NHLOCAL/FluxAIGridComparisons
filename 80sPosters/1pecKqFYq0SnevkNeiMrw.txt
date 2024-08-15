@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a dramatic cliffside scene with Monument Valley in the background. The poster should depict a lone hero, dressed in retro-style denim and a leather jacket, standing confidently at the edge of a towering cliff. The character is gazing out over a breathtaking sunset, with vivid oranges, pinks, and purples illuminating the sky. Below the cliff, a winding dirt road leads through the desert landscape dotted with iconic rock formations. The title of the movie should be in bold, stylized font at the top and include nostalgic elements like neon accents. The overall composition should evoke a sense of adventure and nostalgia, characteristic of classic action movies. The lighting should be warm and atmospheric, highlighting the rugged textures of the rocks and the hero's determined expression.
+Seed: 3036089139
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cliff, Monument

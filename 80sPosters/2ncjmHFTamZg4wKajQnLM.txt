@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Euphoria: The Wizard." The central figure is a charismatic wizard, dressed in a flamboyant, shimmering robe adorned with mystical symbols and vibrant colors. His long, flowing hair and beard are styled in a flamboyant manner, reflecting the whimsical fashion of the '80s. The wizard is striking a powerful pose, with one hand raised holding a glowing staff that emits colorful sparks and swirls of magical energy.
+
+The background features a surreal landscape filled with neon-colored mountains, sparkling stars, and whimsical clouds. A bright, oversized moon looms overhead, casting a luminous glow over the scene. Below, a fantastical cityscape glows with lights, showcasing tall, eclectic buildings in retro-futuristic designs.
+
+The poster's title "Euphoria" should be rendered in bold, stylized typography typical of the 1980s, with glittering effects and bright colors. Include tagline text at the bottom that reads "A Journey Beyond Reality." The overall lighting is bright and colorful, enhancing the feeling of adventure and wonder, capturing the essence of a classic '80s fantasy film. The art style should be illustrative, reminiscent of hand-painted movie posters from that era, emphasizing bold colors and dramatic contrasts.
+Seed: 305251780
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Euphoria, Wizard

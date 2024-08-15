@@ -1,0 +1,8 @@
+Prompt: Create a vibrant and eye-catching 1980s movie poster featuring a powerful mage as the central character. The mage should be depicted with long, flowing robes adorned with intricate mystical patterns, holding a glowing staff that emits radiant light. His hair should be wild and colorful, embodying the exuberant style of the 1980s.
+
+In the background, create a fantastical landscape with towering mountains, swirling clouds, and ancient ruins, all rendered in bold, saturated colors typical of the era. The sky should be a dramatic sunset gradient, transitioning from deep purples to bright oranges. Include mystical creatures, like dragons and magical orbs, subtly entwined within the environment.
+
+The poster should have a retro font for the movie title "Stability," prominently displayed at the bottom, with a tagline in smaller text just above it. Incorporate stylized lightning bolts and stars for added flair, encapsulating the epic feel of classic fantasy film posters from the 1980s. Emphasize a dynamic composition that draws the viewer into the exciting and magical world, using a cinematic lens effect to enhance the overall aesthetic.
+Seed: 2490902533
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mage, Stability

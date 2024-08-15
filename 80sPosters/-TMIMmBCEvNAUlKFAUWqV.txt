@@ -1,0 +1,4 @@
+Prompt: Design an eye-catching 1980s movie poster featuring a dynamic action hero. The hero, wearing a leather jacket and sunglasses, strikes a powerful pose in the foreground, with a determined expression. Behind him, a neon-lit city skyline is visible, illuminating the night sky with vibrant colors like hot pink, electric blue, and bright yellow. Flanking the hero are two strong supporting characters: a tough female fighter with a pompadour hairstyle and a rugged sidekick holding an oversized weapon. Bold, retro typography at the top reads the movie title in a stylized, angular font, while catchy taglines are displayed in a smaller font below. The overall design should evoke the classic charm of 80s action films, complete with lens flares, grainy textures, and a glossy finish, capturing a thrilling and nostalgic atmosphere. 
+Seed: 2000186882
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Talent, Grass

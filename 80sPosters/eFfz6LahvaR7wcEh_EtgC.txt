@@ -1,0 +1,8 @@
+Prompt: Create an illustration for a vibrant 1980s movie poster titled "Capability & Harmony." The poster features a diverse group of four heroes standing confidently in dynamic poses, symbolizing unity and teamwork. The characters include a muscular man in a colorful tracksuit, a determined woman in neon workout gear, a clever tech-savvy teen with oversized glasses, and a spirited skateboarder girl with a vibrant headband. 
+
+The background showcases a retro-futuristic city skyline at sunset, filled with geometric shapes and neon colors that reflect the energetic vibe of the 80s. Bright, bold color gradients of pink, orange, and purple dominate the sky, complemented by sparkling stars that hint at adventure. The characters should be highlighted under a glowing light effect, with exaggerated expressions of courage and camaraderie. 
+
+The title "Capability & Harmony" is presented in a large, stylized font at the top, infused with neon lights and 3D effects, while a tagline below hints at their quest for unity. The overall composition has a nostalgic feel, capturing the spirit of classic 80s adventure movies, emphasizing friendship and empowerment. Use a high-resolution, cinematic illustration style with vibrant colors and a polished finish to evoke the essence of that era.
+Seed: 318626546
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capability, Harmony

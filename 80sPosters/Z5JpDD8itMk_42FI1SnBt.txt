@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a lively lounge scene filled with retro design elements. In the foreground, depict a group of stylishly dressed characters, including a suave man in a pastel suit and a glamorous woman in a sparkling dress, engaging in lively conversation with cocktails in hand. The background should showcase a neon-lit bar with vintage signage, featuring glowing word art that reads "Recognition" in bold, eye-catching colors. Add details like disco balls, plush seating, and palm trees, creating an atmosphere of fun and nostalgia. Use bright, saturated colors typical of the 1980s aesthetic, and add warm lighting to evoke a lively nightlife ambiance. The entire composition should embody the playful and energetic spirit of the era, reminiscent of classic movie posters from that time.
+Seed: 2289198653
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lounge, Recognition

@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster for a film titled "Power, Lie." The poster should feature a charismatic, muscular protagonist in a stylish, shiny metallic suit, striking a confident pose in the foreground. His hair is exaggeratedly styled, embodying the classic '80s glam look. 
+
+In the background, depict a chaotic city skyline at sunset, with neon lights reflecting off glass buildings; a sense of drama and intensity should permeate the scene. A sleek, vintage sports car should be zooming past, creating a sense of speed. 
+
+Add a glamorous femme fatale with big hair and bold makeup, lurking in the shadows, suggesting mystery and intrigue. Include stylized text for the film title in a bold, illuminated font at the top of the poster, with vibrant pink and electric blue colors. 
+
+The overall color scheme should evoke nostalgia, incorporating pastel pinks, purples, and yellows. High contrast lighting enhances the details, invoking a cinematic and action-packed vibe typical of 1980s action films.
+Seed: 336278390
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Power, Lie

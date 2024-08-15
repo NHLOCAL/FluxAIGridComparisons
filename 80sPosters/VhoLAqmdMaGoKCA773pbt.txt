@@ -1,0 +1,6 @@
+Prompt: A striking 1980s movie poster for a film titled "Avatar: Augmented Reality." The design features a futuristic cityscape filled with neon lights and towering skyscrapers, reflecting the vibrant aesthetic of the 80s. In the foreground, a diverse trio of characters, styled in retro-futuristic fashion, gaze confidently at the viewer. The central character, a tall figure with augmented cybernetic enhancements, showcases glowing elements and sleek technology integrated into their attire. 
+
+The background is a kaleidoscope of colorful lights and geometric shapes that evoke a sense of movement and energy. Bold, stylized text at the top reads "Avatar: Augmented Reality" in an eye-catching font reminiscent of classic retro movie titles. The poster is accented with holographic imagery, such as floating icons and digital screens, enhancing the augmented reality theme. Dramatic lighting casts shadows, creating a dynamic and cinematic atmosphere that embodies the excitement and adventure of the 1980s sci-fi genre. The overall color palette is filled with electric blues, vivid pinks, and bright yellows, capturing the essence of the era's vibrant pop culture.
+Seed: 3687935521
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Avatar, Augmented reality

@@ -1,0 +1,4 @@
+Prompt: Create an 1980s movie poster featuring a suave, debonair character in a classic suit with slicked-back hair, confidently leaning against a vintage convertible car. The character should have a charismatic smile and sunglasses, exuding a cool, charming vibe. The background is a vibrant cityscape at sunset, with neon lights starting to glow and a retro color palette dominated by pinks, purples, and blues. A stylized title "Hearing" is prominently displayed in bold, classic typography at the top, while a tagline in a smaller font sits below. The overall design should capture the nostalgic essence of 1980s cinema, complete with starburst effects and border graphics to enhance the poster's dynamic feel. Illustration style should mimic that of iconic movie posters from the era, evoking excitement and adventure.
+Seed: 1114463418
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hearing, Debonair

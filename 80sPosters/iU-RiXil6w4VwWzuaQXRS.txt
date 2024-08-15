@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s movie poster design featuring a charismatic, action-hero character in the foreground, dressed in classic 1980s attire such as a bomber jacket and high-top sneakers. The hero strikes a dynamic pose with one fist raised, surrounded by bright neon colors and geometric patterns typical of the era. In the background, a city skyline illuminated by colorful lights and a retro-futuristic skyline sets the stage, showcasing iconic elements like vintage cars and palm trees. 
+
+The title of the movie is boldly displayed at the bottom in a stylized font reminiscent of 1980s action films, potentially with a glowing effect. The poster should have a grainy texture to enhance the vintage feel, with dramatic lighting and lens flares adding a cinematic quality. 
+
+Overall, the poster captures the essence of adventure and nostalgia from the 1980s, creating a sense of excitement and intrigue for the viewer.
+Seed: 4211410540
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Church, Division

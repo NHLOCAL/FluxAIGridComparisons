@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster titled "Rest, Sun." The central image should feature a relaxed, sun-kissed beach scene with a retro-styled character lounging on a brightly colored beach towel. The character is wearing oversized sunglasses and a Hawaiian shirt, with a refreshing drink in hand. Surround them with palm trees swaying gently in a warm breeze and a bright orange sun setting on the horizon, casting warm hues of yellow, pink, and purple across the sky.
+
+Add playful elements like a beach ball and flip-flops scattered nearby. The title "Rest, Sun" should be prominently displayed in a bold, stylized font that embodies the essence of the era, with a glowing neon effect. The background features soft waves gently lapping at the shore, enhanced by lens flare effects to evoke a nostalgic 80s summer vibe. The art style should be reminiscent of classic movie posters from the decade, combining vibrant colors and dynamic compositions that capture the carefree spirit of summer. Classic 80's illustration style, cinematic.
+Seed: 961509138
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rest, Sun

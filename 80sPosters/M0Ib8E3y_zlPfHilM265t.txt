@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vibrant 1980s movie poster. The central focus is a group of four diverse friends, dressed in bold, colorful attire typical of the era, standing confidently in a dynamic pose. The characters are set against a bright orange background that radiates energy, filled with geometric shapes and retro patterns. The top of the poster features stylized, neon text for the movie title, using a playful, exaggerated font reminiscent of classic 80s cinema. Below the characters, include a tagline in a smaller font, capturing the adventurous spirit of the film. The overall aesthetic should evoke nostalgia, incorporating elements like lens flares and starbursts to enhance the vibrant feel, with a cinematic quality that invites viewers into the world of adventure and friendship.
+Seed: 3758050168
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Orange, Feeling

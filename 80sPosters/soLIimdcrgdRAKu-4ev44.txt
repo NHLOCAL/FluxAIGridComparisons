@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a heroic figure standing boldly in the foreground. The character, clad in a classic leather jacket and sunglasses, holds a futuristic weapon, exuding confidence and determination. The background showcases a neon-lit city skyline at dusk, filled with colorful advertisements and thick fog that hints at mystery and adventure. Retro geometric shapes and bright pastel colors dominate the design, evoking the iconic aesthetic of the era. Bold, stylized typography at the top displays the movie title in an explosive, eye-catching font. Cinematic lighting highlights the character, with beams of light radiating from behind, creating a dramatic and nostalgic atmosphere. Overall, the poster captures the essence of action-packed 1980s cinema with its dynamic composition and vivid color palette.
+Seed: 2617193180
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Uniqueness, Capability

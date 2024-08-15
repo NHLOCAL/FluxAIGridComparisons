@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s-inspired movie poster featuring a heroic figure in a neon-colored spandex suit, striking a dynamic pose. The character, with a wild mane of hair and oversized sunglasses, wields a retro futuristic laser gun. The background showcases a stylized cityscape with glowing skyscrapers, a vivid sunset with bold orange and purple hues, and streaks of neon light. Incorporate elements such as a sports car with angular designs, and geometric shapes typical of the era. The title of the movie “Futuristic Warriors” is boldly displayed at the bottom in a funky, pixelated font, with an array of stars twinkling above. The overall composition is full of energy, capturing the essence of 80s action and adventure films, with a glossy finish that enhances the nostalgic aesthetic.
+Seed: 4033879023
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Attraction, Multiplicity

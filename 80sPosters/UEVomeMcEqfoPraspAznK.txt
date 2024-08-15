@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a tough, leather-clad hero standing confidently on a gritty urban street. The character, a muscular man with a flowing mane of hair, wears aviator sunglasses and has a determined expression. In one hand, he holds a gleaming motorcycle helmet, with a powerful motorcycle visible in the background. The city skyline is outlined against a glowing sunset, casting dramatic orange and purple hues across the scene. The poster includes retro elements like bold typography, colorful borders, and stylized graphics that evoke the feel of 1980s film marketing. Incorporate motifs of gratitude, such as subtle symbols of thankfulness like hearts and open hands nestled near the feet of the hero. The overall composition emits an adventurous and triumphant spirit, encapsulating the essence of classic action films from the decade.
+Seed: 798054609
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leather, Thankfulness

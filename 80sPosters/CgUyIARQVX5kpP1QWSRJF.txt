@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s movie poster captures a sexy spirit character, floating gracefully in the air. The spirit has an alluring, ethereal appearance with flowing, luminescent hair that glows in shades of pink and purple. Her outfit is reminiscent of a classic 80s style, featuring a shimmering bodysuit adorned with sequins reflecting bright neon lights. 
+
+The background features a retro city skyline at sunset, illuminated with glowing neon signs and colorful geometric patterns typical of 80s aesthetics. The poster’s title is displayed in bold, stylized typography at the bottom, with sparkling effects that enhance the nostalgic feel of the design.
+
+Cinematic lighting casts radiant beams that highlight the spirit's figure, while a dreamy haze envelops the scene, adding to the supernatural allure. The overall composition combines elements of fantasy and retro flair, creating a striking homage to 1980s movie posters.
+Seed: 4031496425
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sexy, Spirit

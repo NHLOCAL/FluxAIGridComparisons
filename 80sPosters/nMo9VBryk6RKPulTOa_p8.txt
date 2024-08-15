@@ -1,0 +1,4 @@
+Prompt: Create an 1980s movie poster featuring a vibrant gymnasium scene. In the foreground, a group of energetic teens engage in various athletic activities, like basketball, aerobics, and breakdancing, showcasing their colorful 80s workout attire, including headbands and leg warmers. The background of the gymnasium is filled with retro posters and neon-colored equipment, with a large window revealing a bright, sunny day outside. The iconic "Sprite" logo should be prominently featured, styled with classic neon lettering. The lighting is bright and lively, creating a sense of fun and excitement. The overall composition captures the nostalgic aesthetic of 80s cinema, emphasizing bold colors and dynamic poses. The poster should include a tagline at the bottom in a fun, retro font, complementing the energetic vibe of the scene.
+Seed: 4080478592
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sprite, Gymnasium

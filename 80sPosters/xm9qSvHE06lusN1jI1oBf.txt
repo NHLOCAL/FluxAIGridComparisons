@@ -1,0 +1,6 @@
+Prompt: An eye-catching 1980s movie poster featuring a retro-futuristic aesthetic centered around the theme of "Innovation on the Moon". The poster showcases a vibrant lunar landscape with a backdrop of colorful nebulae and twinkling stars in deep space. In the foreground, a sleek, chrome spacecraft, resembling a blend of 1980s design and futuristic elements, is depicted hovering above the moon's surface. Below, astronauts in shiny, reflective spacesuits explore alien technology that glows with neon colors. 
+
+The title "Innovation on the Moon" is boldly displayed at the bottom in a classic 80s font style, with a gradient effect of blues and purples, capturing the essence of the era. The lighting is dramatic and colorful, highlighting the contours of the moon and the craft, creating a sense of adventure and excitement. The overall composition has a nostalgic vibe, filled with dynamic movement and vibrant colors, emulating the spirit of 80s sci-fi film posters.
+Seed: 2514223048
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Innovation, Moon

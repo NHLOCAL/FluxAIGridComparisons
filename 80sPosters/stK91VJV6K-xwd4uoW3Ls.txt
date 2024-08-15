@@ -1,0 +1,4 @@
+Prompt: Create a dynamic 1980s movie poster featuring a fierce Griffin as the central character. The Griffin should have bold, stylized features, blending eagle and lion elements, showcasing its majestic wings and powerful stance. It should be depicted with a fierce expression, embodying the theme of "Hatred." The background should be a vibrant, retro-inspired cityscape with neon colors and geometric patterns typical of the 1980s aesthetic. Include dramatic lighting effects with a glowing sunset in the background to enhance the intensity of the scene. The title "Hatred" should be displayed prominently in a bold, retro font at the bottom, complemented by exciting tagline text. Use a mix of pastel and neon colors to evoke the nostalgia of classic 1980s movie posters, and convey a sense of action and adventure through dynamic poses and exaggerated proportions.
+Seed: 2329185702
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Griffin, Hatred

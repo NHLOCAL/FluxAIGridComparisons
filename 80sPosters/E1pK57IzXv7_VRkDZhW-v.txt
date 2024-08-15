@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster inspired scene set on a sunny Gulf coast. The foreground features a group of diverse friends enjoying a day at the beach, engaging in classic summer activities like beach volleyball, surfing, and sunbathing. Each character is dressed in colorful, retro swimwear typical of the era, with oversized sunglasses and big hairstyles. 
+
+The backdrop showcases a bright, azure ocean with stylized waves crashing gently onto the beach. In the sky above, a golden sun shines down, casting warm rays that create sparkles on the water's surface. 
+
+Incorporate elements typical of 80s aesthetics, such as neon colors, geometric shapes, and a slightly grainy texture to mimic film quality. The title of the movie is displayed in a bold, retro font at the top, with playful taglines at the bottom. 
+
+Overall, the composition should evoke a fun, carefree vibe characteristic of classic summer blockbusters from the 1980s, with an emphasis on bright colors and dynamic movement in the scene.
+Seed: 596602630
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gulf, Ocean

@@ -1,0 +1,8 @@
+Prompt: Create an illustration of a vibrant 1980s movie poster for a biopunk film titled "Selection." The central focus should be on a futuristic city skyline, dominated by towering, bioengineered skyscrapers infused with lush greenery and bioluminescent plants. A group of diverse characters stands in the foreground, showcasing futuristic fashion styles that blend organic elements and advanced technology, such as sleek body modifications and glowing tattoos. 
+
+The background should feature a twilight sky, with neon colors like deep purples, electric blues, and bright pinks creating a retro aesthetic. Above the skyline, the title "Selection" should be boldly displayed in a stylized, retro font, with glowing edges and a slight 3D effect. 
+
+Cinematic lighting should illuminate the characters from below, casting dramatic shadows that enhance their features. Incorporate elements of motion, such as flowing hair or clothing, to evoke a sense of action and liveliness. The overall composition should evoke nostalgia while simultaneously hinting at a captivating story filled with intrigue and adventure, characteristic of the biopunk genre.
+Seed: 3253589566
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Selection, Biopunk

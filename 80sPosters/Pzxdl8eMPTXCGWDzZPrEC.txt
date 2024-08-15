@@ -1,0 +1,4 @@
+Prompt: A vintage 1980s movie poster design featuring a group of diverse heroes standing confidently in dynamic poses on a bustling city street. The background showcases a neon-lit skyline, with bold colors like hot pink, electric blue, and bright yellow dominating the scene. One hero is a muscular man with a mullet, wearing a leather jacket and sunglasses, while another is a fierce woman in a colorful workout outfit, flexing her muscles. A quirky sidekick with wild hair and oversized glasses holds a comical gadget. The title of the movie is displayed in retro, stylized typography at the top, with a tagline beneath it. The lighting is vibrant with lens flares, creating a sense of action and excitement characteristic of 80s films. The overall atmosphere is nostalgic, filled with a sense of adventure and humor, reminiscent of classic blockbusters from that era.
+Seed: 2373145704
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Accomplishment, Recognition

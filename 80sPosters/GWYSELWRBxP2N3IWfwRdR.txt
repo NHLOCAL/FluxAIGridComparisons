@@ -1,0 +1,6 @@
+Prompt: A vibrant 1980s-inspired movie poster featuring a group of four diverse heroes standing confidently on a neon-lit city street. The central figure is a muscular man with a mullet haircut, wearing a leather jacket and holding a futuristic weapon. Beside him, a stylish woman with a headband and colorful workout gear strikes a power pose. To their left, a geeky sidekick with oversized glasses clutches a quirky gadget, while a skilled martial artist stands on the right, ready for action with a dynamic stance. 
+
+The background is filled with glimmering skyscrapers bathed in shades of pink, purple, and blue, with neon signs flickering and a retro sunset casting a warm glow. The title of the movie is emblazoned at the top in bold, stylized typography that screams 80s action. The overall composition features scattered geometric shapes and stars, enhancing the retro aesthetic. The illustration captures the essence of adventure and camaraderie while immersing the viewer in the nostalgic vibe of classic 80s cinema. Retro style, cinematic lighting, colorful, fun.
+Seed: 3261687902
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Midnight, Truth

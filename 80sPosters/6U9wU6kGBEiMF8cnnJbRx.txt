@@ -1,0 +1,4 @@
+Prompt: Design an eye-catching 1980s movie poster featuring a retro sci-fi action scene. The central figure should be a muscular hero with a determined expression, wearing a sleeveless leather jacket and sunglasses, holding a futuristic blaster. Behind the hero, showcase a vibrant city skyline adorned with neon lights and flying cars, creating a sense of urgency and adventure. The background should feature a dramatic sunset with deep oranges and purples, evoking a nostalgic yet dynamic feel. Add stylized text at the top that reads “Galactic Showdown”, and at the bottom, include a tagline that says “One Man, One Mission, Infinite Action!” The overall design should capture the bold colors, energetic style, and dramatic flair of classic 80s action movies, combined with retro typography and high-contrast lighting effects.
+Seed: 1129076181
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Contribution, Wonder

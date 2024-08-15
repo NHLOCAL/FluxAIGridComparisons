@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "End". The central focus should be a rugged, charismatic hero dressed in a distressed leather jacket, exuding confidence and attitude. He stands in a dynamic pose with a determined expression, holding a futuristic weapon in one hand. The background features a stylized cityscape at dusk, with neon colors illuminating the skyline, casting dramatic shadows. 
+
+Incorporate retro elements such as bold typography showcasing the title "End" at the top in bright, eye-catching colors. The poster should include hints of dystopian themes, with hints of smoke and graffiti on the buildings. The overall color palette should consist of moody blues, purples, and vibrant pinks typical of 80s aesthetics, capturing the essence of an action-packed adventure. The lighting should be dramatic, emphasizing the hero's silhouette and the energetic, cinematic feel of classic 80s films.
+Seed: 517062854
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: End, Leather

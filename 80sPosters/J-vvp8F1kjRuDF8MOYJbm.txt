@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster titled "Estuary." The central focus of the poster is a mysterious library, depicted as an elaborate, sprawling structure with towering shelves that stretch into the ceiling, filled with ancient tomes that emit a soft, glowing light. The library is surrounded by a lush, overgrown estuary, with exotic plants and vines creeping through the windows, creating an inviting yet eerie atmosphere.
+
+In the foreground, feature a group of diverse characters, including a determined young woman with a flashlight, a rugged adventurer wielding a vintage map, and a wise old librarian holding an oversized book. Their faces convey a mix of curiosity and determination, as they embark on a quest to uncover the library's secrets.
+
+The background showcases the estuary with its shimmering water and mystical fog rising from the surface, adding depth and intrigue. The color palette consists of bright neon hues typical of the 1980s, with contrasting shadows that create a dramatic effect. The title "Estuary" should be prominently displayed at the bottom in bold, retro-style font, complemented by stylized taglines and bursts of light, evoking a nostalgic film poster aesthetic. 
+
+Include elements like shooting stars or whimsical swirls of color in the sky to enhance the magical feel of the scene, capturing the essence of classic adventure films from the '80s.
+Seed: 3154468921
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Estuary, Library

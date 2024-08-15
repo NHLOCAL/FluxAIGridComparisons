@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring an action hero character named Thunder. The character is muscular with a confident pose, wearing a brightly colored sleeveless jacket, neon headband, and classic high-top sneakers. He has wild hair that catches the light, accentuating his intense expression. In his hands, he wields a glowing, futuristic weapon, exuding a sense of power and readiness for action. 
+
+The background is a dynamic cityscape at twilight, with skyscrapers silhouetted against a gradient sky of pink and purple hues, reflecting the retro aesthetic. Stylized lightning bolts arc across the poster, adding energy and motion to the composition. A large, bold title reads "THUNDER" in an iconic, 80s font across the top. At the bottom, include a tagline: "The Power Within". The overall design should evoke the nostalgic feel of classic action movies from the 80s, with vivid colors, bold outlines, and a slightly grainy texture that mimics analog film.
+Seed: 2723177146
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Character, Thunder

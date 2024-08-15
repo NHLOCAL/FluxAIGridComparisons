@@ -1,0 +1,4 @@
+Prompt: A vibrant, retro 1980s movie poster featuring a fierce iron-clad sorcerer wielding a glowing staff. The sorcerer stands confidently at the center, adorned in intricately designed armor with metallic details and mystical engravings. His long, flowing cape billows dramatically behind him, showcasing fiery orange and purple hues. In the background, a sprawling, enchanted landscape unfolds—a distant castle under a stormy sky, with bolts of lightning illuminating the scene. Surrounding the sorcerer are fantastical creatures and swirling magical energy, enhancing the sense of adventure and mystery. The title "Iron Sorcerer" is emblazoned at the bottom in bold, stylized lettering typical of classic 1980s films, with a metallic shine that reflects the sorcerer's powers. The overall composition radiates nostalgia, action, and epic fantasy, capturing the spirit of 1980s cinema.
+Seed: 944452253
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Iron, Sorcerer

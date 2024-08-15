@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster featuring a group of diverse heroes standing defiantly against a colossal, menacing spaceship looming in the background. The heroes, each showcasing iconic retro fashion, such as leather jackets and colorful jumpsuits, convey a sense of adventure and camaraderie. The spaceship is intricately designed with bright neon colors and angular shapes, reflecting the sci-fi aesthetics of the era. The sky is a gradient of purples and blues, mimicking a cosmic backdrop filled with twinkling stars. The title "Modification Empire" is displayed prominently at the bottom in bold, stylized retro font, with a metallic sheen that adds depth. The overall composition is dynamic, with dramatic lighting that emphasizes the heroes' determined expressions and the imposing spaceship, capturing the essence of classic 80s action and adventure films. 
+Seed: 3635232240
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Modification, Empire

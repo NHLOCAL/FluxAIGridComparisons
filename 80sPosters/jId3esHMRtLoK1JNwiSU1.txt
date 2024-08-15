@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a dynamic workshop scene. In the foreground, a group of diverse characters—an eclectic mix of inventors and artisans—are intensely working on various imaginative projects, showcasing retro-futuristic gadgets and creative tools. Neon colors dominate the palette, with bright pinks, yellows, and greens evoking the unmistakable aesthetic of the era. 
+
+The background is filled with starry motifs, with a large starburst design incorporating the title of the movie at the top in bold, stylized font reminiscent of classic '80s typography. The workshop itself is cluttered but organized, with sketches pinned on walls, glowing blueprints, and dazzling sparks flying from welding tools. 
+
+The lighting is dramatic, highlighting the characters with rim lights, while a vibrant glow from holographic displays adds a sci-fi touch. The overall composition has a nostalgic yet adventurous feel, embodying the energy and creativity typical of 1980s cinema, complete with vibrant colors and a sense of wonder. Captured in a retro, painterly style to enhance the nostalgic atmosphere.
+Seed: 810898552
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stars, Workshop

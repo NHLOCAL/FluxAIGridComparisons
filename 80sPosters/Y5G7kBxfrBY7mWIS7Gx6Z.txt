@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s-style movie poster featuring an adorable Djinn with a playful expression. The Djinn is depicted emerging from a swirling, colorful cloud of smoke, with bright pinks, blues, and purples blending together in a retro, neon palette. The character has large, expressive eyes, a mischievous smile, and is adorned with traditional gold jewelry and a shimmering scarf. 
+
+The background is a stylized cityscape at sunset, with angular buildings and palm trees, showcasing the vibrant colors of a classic 80s aesthetic. Bold, retro typography overlaps the image, displaying the movie title in a catchy, exuberant font. The overall atmosphere should convey a sense of whimsy and adventure, complemented by dramatic lighting effects emanating from the Djinn. The poster should capture the essence of a fun family film, immersing the viewer in a nostalgic and magical world.
+Seed: 1030268138
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adorable, Djinn

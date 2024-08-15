@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s movie poster titled "Voyage, Hush." The poster showcases a dynamic scene set in a retro-futuristic cityscape, illuminated by neon lights in shades of pink, green, and blue. In the foreground, a mysterious figure in a sleek leather jacket, with exaggerated shoulder pads and a confident stance, gazes towards a shimmering star-filled sky. 
+
+Behind them, a vintage spaceship is taking off, leaving a trail of luminous smoke that arcs dramatically through the night. The background features a sprawling metropolis with towering skyscrapers, adorned with glowing advertisements and circular shapes typical of the era's design. 
+
+The title "Voyage, Hush" is emblazoned at the bottom in bold, stylized typography, surrounded by stylized starbursts and geometric patterns, capturing the essence of 1980s aesthetics. The overall color palette is rich with deep blues and bright neon accents, creating an energetic and adventurous atmosphere. The illustration is designed to evoke a sense of excitement and intrigue, reminiscent of classic sci-fi films from the 1980s.
+Seed: 826547171
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Voyage, Hush

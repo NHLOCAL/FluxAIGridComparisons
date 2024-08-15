@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring an action hero with a muscular physique and a mullet hairstyle, wearing a colorful leather jacket and sunglasses. The character should be holding a vintage gun, with a determined expression. The background should include a neon city skyline at night, with bright pink, blue, and yellow hues radiating a retro aesthetic. Add dynamic elements like explosions and sports cars speeding through the scene, accompanied by dramatic lighting to enhance the excitement. Use bold, stylized typography at the top to display the movie title, with a tagline at the bottom in a retro font. The overall composition should capture the nostalgic essence of 80s action films, with a slightly grainy texture to mimic an analog print.
+Seed: 3663062490
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Steppe, Wetland

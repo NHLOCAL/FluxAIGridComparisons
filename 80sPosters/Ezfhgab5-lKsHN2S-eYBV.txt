@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "District: Slowness." The poster should feature a futuristic city skyline at sunset, with neon-lit buildings and a hazy atmosphere. In the foreground, showcase a diverse group of characters in retro-futuristic attire, displaying exaggerated expressions of surprise and intrigue. The central character, a young woman with big hair and a colorful outfit, is pointing at a large, surreal clock with swirling gears, symbolizing the concept of slowness.  
+
+The background should depict a faint gradient of purples and oranges to evoke a nostalgic feel, with stylized clouds and stars peeking through. Include bold, eye-catching typography for the title "District: Slowness" at the bottom, along with cinematic tagline text above. The overall art style should blend elements of retro design with a modern twist, using a combination of sharp lines and vibrant colors typical of 1980s posters. Emphasize contrasting light and shadow to create depth and a playful, adventurous atmosphere.
+Seed: 2264883630
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: District, Slowness

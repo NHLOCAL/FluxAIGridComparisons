@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s movie poster titled "Episode: Domination". The central focus features a muscular, heroic figure in a colorful spandex bodysuit, striking a dynamic pose with a laser sword in one hand, the other hand raised in a powerful gesture. His hair is styled in a distinctive mullet, and he has a confident yet determined expression on his face. Behind him, a backdrop of a futuristic city skyline glows with neon lights in shades of purple, pink, and blue. 
+
+In the foreground, there are silhouettes of ominous, shadowy villains, each with exaggerated features and menacing poses, creating a sense of tension and confrontation. The sky is dramatic, filled with swirling clouds and shooting stars, enhancing the epic feel of the scene. 
+
+The movie title "Episode: Domination" is emblazoned at the bottom in bold, retro font, with a chrome finish that reflects the vibrant colors around it. The whole design is framed with a film reel motif, and the texture imitates a slightly worn, classic VHS tape look, reminiscent of 1980s cinematic art. The overall composition is action-packed, colorful, and captures the essence of the decade's adventure and science fiction films.
+Seed: 730569925
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Episode, Domination

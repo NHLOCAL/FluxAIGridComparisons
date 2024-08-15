@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of diverse characters standing heroically on a neon-lit city skyline. In the foreground, depict a rugged hero with a mullet hairstyle, wearing a leather jacket and sunglasses, gripping a futuristic weapon. Beside him, an action-packed female character in a spandex jumpsuit, showcasing dynamic poses. A quirky sidekick with bright-colored clothes and oversized headphones adds humor to the ensemble. 
+
+The background should flaunt an array of neon colors—electric pinks, blues, and greens—with retro graphics reminiscent of vintage arcade games. A bold title in a stylized, retro font dominates the top, while the bottom holds a tagline showcasing adventure and friendship. Incorporate elements like flying cars and laser beams in the background atmosphere, with artistic lens flares. Utilize dramatic lighting to emphasize an exhilarating, action-packed vibe consistent with classic 80s movie aesthetics. The overall composition should exude nostalgia and evoke excitement for a fantastical adventure.
+Seed: 1683410262
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fashion, Sun

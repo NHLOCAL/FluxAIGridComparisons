@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s-style movie poster featuring a dynamic action scene in an urban setting. The central character, a rugged hero with a leather jacket and sunglasses, stands confidently on a rooftop, holding a futuristic weapon. His hair is styled in a mullet, and he has an intense expression. Behind him, an explosion erupts, casting bright orange and yellow flames into the night sky. The city skyline is silhouetted against the fiery backdrop, with neon lights illuminating the streets below. The poster's title is written in bold, stylized letters at the top with a retro font, and it should include elements like a cassette tape and palm trees to enhance the nostalgic 80s vibe. The overall effect is colorful and energetic, capturing the essence of classic action movies from that era. Retro art style, dramatic lighting, and a cinematic composition.
+Seed: 1745509618
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Responsibility, Boulevard

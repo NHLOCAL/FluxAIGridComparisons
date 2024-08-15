@@ -1,0 +1,8 @@
+Prompt: Create an eye-catching 1980s movie poster for a fictional film titled "Exhibition." The poster should feature a dynamic action scene with a diverse group of characters, including a heroic female protagonist with a determined expression and a charismatic male sidekick. They are positioned in the foreground amidst a bustling art gallery setting filled with vibrant, colorful artwork. The background is illuminated with dramatic lighting, highlighting the gallery's grandeur.
+
+In the upper section, incorporate stylized, bold, retro font that states the title "Exhibition," surrounded by exaggerated geometric shapes and bright colors typical of the 1980s aesthetic. Below the main characters, include a tagline in a smaller font that captures the essence of the film, such as "Where Art Meets Adventure!"
+
+Use a color palette featuring neon shades of pink, blue, and yellow, creating a sense of excitement and nostalgia. The overall design should exude a sense of adventure and camaraderie, drawing the viewer into the film's thrilling narrative. Emphasize elements like dramatic poses, facial expressions, and the atmosphere of an exhilarating exhibition, capturing the essence of 1980s movie posters.
+Seed: 2566638288
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exhibition, Prize

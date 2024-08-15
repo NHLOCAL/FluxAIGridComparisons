@@ -1,0 +1,4 @@
+Prompt: Create an 1980s movie poster featuring a menacing Griffin as the central character. The Griffin should have detailed golden feathers, massive wings spread wide, and sharp, piercing eyes. Set against an urban skyline at sunset, with vibrant oranges and purples in the sky transitioning to a dark blue night. The foreground includes city buildings with neon lights flickering, hinting at a bustling nightlife. The movie title, "Reality", should be in bold, retro typography at the bottom, adorned with chrome and neon accents typical of the 1980s style. The overall atmosphere should be dramatic and dynamic, capturing the essence of an adventurous action film. Highly detailed, colorful, vintage cinematic style.
+Seed: 3519524125
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Griffin, Reality

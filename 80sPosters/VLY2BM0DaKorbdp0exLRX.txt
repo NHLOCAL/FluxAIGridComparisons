@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster for an action-packed film titled "Trek Speed." The poster features a futuristic spacecraft zooming through a colorful nebula, leaving a trail of bright, exaggerated motion lines that suggest high-speed travel. The spacecraft has sharp, angular designs reminiscent of classic 1980s sci-fi aesthetics, adorned with neon accents. 
+
+In the foreground, a diverse team of heroes stands confidently, each equipped with retro-futuristic gadgets, wearing stylish space suits with bold colors. Include a charismatic lead character with wild hair and sunglasses, striking a dynamic pose. 
+
+The background is a cosmic landscape dotted with stars, planets, and trails of light that enhance the feeling of speed and adventure. The title "Trek Speed" is emblazoned at the top in large, retro font with neon colors, while the tagline is positioned near the bottom in a smaller font, emphasizing the thrill and excitement of the journey. 
+
+Overall, the poster should have a glossy finish, capturing the essence of iconic 1980s action films, combining elements of adventure, science fiction, and nostalgia. Emphasize bold colors, dramatic shadows, and an optimistic atmosphere that draws viewer attention.
+Seed: 1151044528
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Trek, Speed

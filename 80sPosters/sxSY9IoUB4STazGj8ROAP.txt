@@ -1,0 +1,6 @@
+Prompt: Create an iconic 1980s movie poster titled "Desire, Burden." The design showcases a dynamic, neon-lit cityscape at night, with tall buildings towering in the background, casting colorful reflections on the wet pavement. In the foreground, a conflicted male and female duo stand back-to-back, their expressions hinting at tension and determination. The male character sports a leather jacket and sunglasses, while the female wears an elegant dress with a high slit and bold accessories. 
+
+The title "Desire, Burden" should be prominently displayed in large, stylized font at the bottom, illuminated with vibrant neon colors. Add visual elements such as glowing geometric shapes and palm trees to accentuate the 1980s aesthetic. Incorporate an atmospheric gradient of purples and blues for the sky, while a subtle lens flare effect adds to the vintage cinematic feel. Emphasize bold colors, exaggerated perspectives, and vintage patterns typical of the era. The overall composition should evoke a sense of adventure, conflict, and drama, characteristic of classic 1980s action-romance films.
+Seed: 11530074
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desire, Burden

@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Arena: Hurdle". The poster features a muscular, determined athlete in a bright, neon-colored tracksuit, leaping over a high hurdle with intense focus. The background showcases a bustling stadium filled with cheering fans, illuminated by colorful spotlights and flashing lights. The sun is setting, casting a warm glow over the scene. 
+
+The athlete's hair is styled in an iconic 1980s mullet, adding to the nostalgic vibe. The title “Arena: Hurdle” is boldly displayed at the top in retro typography with a flashy gradient, dripping with colors like electric blue and hot pink. Below the title, include a tagline that reads "Jump into the Challenge!" in an exciting font. 
+
+Enhance the overall composition with dynamic motion lines to capture the high-energy atmosphere of a race, and use an intricate grain texture overlay to evoke an authentic 1980s feel. Incorporate elements like vintage film grain or poster edges to complete the retro aesthetic. The overall mood should feel exhilarating and competitive, reminiscent of classic sports films from the 80s. 
+Seed: 3324978189
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Arena, Hurdle

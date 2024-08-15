@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster featuring a powerful Shaman standing in a mystical forest. The Shaman, adorned with traditional tribal attire and intricate face paint, holds a glowing crystal staff that emits colorful light. Ethereal spirits and colorful mystical symbols swirl around him, representing belief and energy. The background is a lush, dense forest filled with ancient trees and luminescent plants that create a dreamlike atmosphere. The color palette incorporates bold neon colors typical of the 1980s aesthetics, with strong contrasts and dramatic lighting. The title "Belief" is displayed in large, retro-futuristic font at the bottom, reflecting the style of classic films from that era. The overall composition captures an adventurous spirit, combining fantasy and nostalgia, making it an eye-catching movie poster ideal for the theme.
+Seed: 3875415730
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shaman, Belief

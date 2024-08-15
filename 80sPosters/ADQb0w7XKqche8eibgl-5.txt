@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Offering." The central focus is a heroic figure, a rugged male protagonist in a leather jacket, standing confidently on a rocky cliff overlooking a breathtaking coastal sunset. His hair is tousled by the wind, and he holds a glowing artifact in one hand, which emits a soft, golden light. 
+
+The background showcases a stunning panoramic view of a serene ocean, where waves crash against the jagged rocks. Silhouetted palm trees sway gently on either side of the scene, framing the hero. The sky transitions from vibrant oranges and pinks to deep purples, suggesting the magic hour of dusk. 
+
+The movie title "Offering" is prominently displayed at the bottom in bold, retro typography with neon colors, complete with a glowing effect. The design should evoke a sense of adventure and nostalgia, capturing the essence of classic 1980s cinema aesthetics, complete with stylized action elements and a touch of mystique. Add a tagline beneath the title that reads, "A journey of sacrifice and redemption."
+Seed: 2172110579
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Offering, Scenic

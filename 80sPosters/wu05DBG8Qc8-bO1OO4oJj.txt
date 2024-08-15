@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a retro sci-fi theme. The foreground showcases a group of four diverse characters: a strong female warrior in futuristic armor, a tech-savvy hacker with oversized glasses, a charismatic leader holding a glowing sword, and a quirky robot companion. They stand heroically, backlit by a neon sunset that fades from deep purple to bright orange. 
+
+The background features a sprawling city skyline adorned with glowing neon signs and flying vehicles, creating a bustling cyberpunk atmosphere. Above, a gigantic moon looms in the starry sky, partially obscured by swirling clouds. The title of the movie, in bold, stylized retro font, arcs above the characters, decorated with bright colors and dynamic highlights.
+
+The overall aesthetic incorporates elements of dramatic lighting, vivid colors, and retro graphic design that are iconic to 1980s cinema, reflecting a sense of adventure and excitement, with a slight grainy texture to enhance the nostalgic feel of the poster.
+Seed: 1939815211
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leadership, Path

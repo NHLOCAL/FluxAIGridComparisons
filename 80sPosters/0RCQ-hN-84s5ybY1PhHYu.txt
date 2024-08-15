@@ -1,0 +1,6 @@
+Prompt: Create an eye-catching 1980s movie poster featuring a colorful and dynamic political theme. The central character, a charismatic politician, stands confidently at a podium, gesturing passionately while wearing a sharp suit in bold colors. Surrounding him are supportive figures, including enthusiastic supporters holding signs and banners with catchy slogans. The background showcases a vibrant city skyline, with the sun setting behind it, casting warm, inviting colors like orange, pink, and purple across the sky.
+
+Incorporate retro design elements typical of 1980s posters, such as angular shapes, bold fonts, and bright color contrasts. Use dramatic lighting to create a sense of excitement and energy, highlighting the central figure and the lively crowd. Add a tagline at the bottom that reads, "A Journey of Hope and Change!" in large, stylized lettering, completing this nostalgic cinematic piece that embodies political delight and promises a thrilling adventure. 
+Seed: 1518153888
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Politics, Delight

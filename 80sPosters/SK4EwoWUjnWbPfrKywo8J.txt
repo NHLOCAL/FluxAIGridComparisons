@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a sprawling city skyline at sunset, with a dramatic, multicolored rainbow arching across the sky. The city is adorned with retro neon lights, reflecting the iconic style of the decade. In the foreground, a diverse group of charismatic characters in colorful 80s fashion strike dynamic poses, embodying adventurous spirits. The title of the movie, styled in bold, stylized typography typical of the era, floats above the rainbow. The poster should convey a sense of fun and excitement, with vivid colors, a nostalgic aesthetic, and a cinematic quality that evokes the adventurous spirit of classic 80s films. The background should be filled with fluffy clouds catching the warm light of the setting sun, creating a whimsical yet adventurous atmosphere.
+Seed: 354246197
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: View, Rainbow

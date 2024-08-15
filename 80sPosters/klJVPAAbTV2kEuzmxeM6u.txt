@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a heroic figure standing confidently in the foreground. The character is dressed in a retro leather jacket, sunglasses, and has a distinctive mullet hairstyle, embodying the iconic style of that era. Behind them, a city skyline bathed in neon lights with a dramatic sunset sets the backdrop. The streets below are bustling with vintage sports cars and skateboarders, showcasing the energetic vibe of the decade. 
+
+The title of the movie, styled with bold, angular fonts and colorful neon effects, arcs across the top, while the tagline is positioned at the bottom in a slightly smaller, playful font. Include elements like pixelated graphics, geometric shapes, and lens flares to enhance the nostalgic aesthetic of 80s cinema. The color palette should consist of bright pinks, electric blues, and vivid yellows, embodying the vibrant spirit of the era. The overall composition should evoke the excitement of action-adventure films from the 1980s.
+Seed: 3469581262
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Babe, Chemistry

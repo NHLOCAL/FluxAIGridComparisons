@@ -1,0 +1,4 @@
+Prompt: Create a vintage 1980s movie poster featuring a debonair dwarf as the central character. He should be dressed in a stylish, colorful suit with a sharply tailored jacket, complete with a bow tie and shiny shoes. His hair is slicked back, and he has a confident, charming expression. The dwarf holds a sparkling cocktail in one hand while striking a heroic pose, standing in front of a glitzy city skyline at sunset. The background should include neon lights and retro elements to evoke the 80s aesthetic, with vibrant colors like hot pink, electric blue, and gold accents. The title of the movie should be written in bold, stylized typography at the bottom, capturing the essence of the era. The overall design should have a glossy finish, creating a nostalgic and vibrant atmosphere reminiscent of classic adventure and comedy films from the 1980s.
+Seed: 4273233056
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dwarf, Debonair

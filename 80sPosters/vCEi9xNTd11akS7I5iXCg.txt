@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Mesmerizing Journey." The poster should feature a retro-styled spaceship soaring through an ethereal cosmic landscape filled with colorful nebulae and bright stars. The spaceship should have a sleek design reminiscent of classic sci-fi films, adorned with neon accents and glowing lights.
+
+In the foreground, depict a group of diverse adventurers, including a rugged hero with a bandana, a wise alien with colorful skin, and a daring female pilot equipped with gadgets. They should be striking dynamic poses, showcasing determination and excitement. The background should feature swirling galaxies with vivid shades of purple, blue, and pink, creating a captivating sense of depth.
+
+The title "Mesmerizing Journey" should be prominently displayed at the top in bold, stylized neon lettering, with a glowing effect to enhance the retro vibe. Include additional elements typical of 80s movie posters, such as stars and beams of light radiating from the title. The overall composition should evoke a sense of adventure and intrigue, appealing to fans of classic sci-fi films.
+Seed: 2617326776
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mesmerizing, Journey

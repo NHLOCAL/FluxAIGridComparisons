@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a strong female lead named Gale, depicted in an action pose. She has shoulder-length, wind-swept hair and wears a stylish leather jacket, reflecting the iconic fashion of the era. Gale is surrounded by a dynamic city skyline at sunset, with neon lights flickering against a backdrop of deep purples and oranges, capturing the essence of urban cool.
+
+In the foreground, include elements like vintage cars and dramatic shadows to give a sense of movement. The title "Esteem" should be bold and colorful, prominently displayed at the bottom, styled in a retro font typical of 1980s films. The overall composition should be eye-catching and filled with nostalgic elements, emphasizing action and empowerment, with a slight grain texture to enhance the vintage feel of the poster. High-resolution, cinematic quality, and vibrant colors should be used throughout the design.
+Seed: 790147284
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gale, Esteem

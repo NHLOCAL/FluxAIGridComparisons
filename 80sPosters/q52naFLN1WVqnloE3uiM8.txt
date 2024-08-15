@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a tropical atoll setting. The central focus is on a rugged protagonist with a stylish mullet and a leather jacket, striking a confident pose on a white sandy beach. Surrounding him are vivid palm trees and colorful, oversized flowers typical of the era. In the background, a clear turquoise lagoon reflects the bright blue sky, while distant mountains add depth to the scene.
+
+The title "ATOLL" is emblazoned across the top in bold, retro typography with vibrant gradient colors and neon outlines. Below, an overlay of the word "IDENTITY" appears, incorporating a glitch effect. Incorporate dramatic sunset lighting with pink and orange hues, casting enchanting shadows across the sand and enhancing the nostalgic feel of the poster. Add subtle film grain for an authentic vintage aesthetic and include small details like a vintage surfboard partially buried in the sand and a classic convertible car parked nearby. The overall composition should evoke adventure and intrigue, typical of 1980s action films.
+Seed: 1722136833
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Atoll, Identity

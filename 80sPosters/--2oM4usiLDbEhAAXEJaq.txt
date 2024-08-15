@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster titled "Gratitude." The central focus should be a diverse group of four unique characters, each representing different aspects of individuality, standing confidently against a colorful, retro-inspired background featuring geometric shapes and neon colors. The characters should be depicted in dynamic poses, showcasing their distinctive hairstyles, clothing, and accessories typical of the 80s fashion era. 
+
+The lighting should be bright and bold, with sun flares and highlights that create a sense of energy and excitement. The title "Gratitude" should be displayed prominently at the top in an iconic, stylized font that embodies the essence of 80s cinema. Below the title, include a tagline such as "Celebrate Every Unique Story." Add elements like cassette tapes or boomboxes in the background to enhance the nostalgic feel. The overall composition should exude a sense of joy, vibrancy, and community, capturing the spirit of individuality in a fun, cinematic way.
+Seed: 1868730020
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gratitude, Individuality

@@ -1,0 +1,8 @@
+Prompt: Create an 1980s movie poster featuring the title "Curiosity" displayed boldly at the top in neon pink lettering. The central image should portray a mysterious, ancient crypt shrouded in mist, nestled in a dark forest. The crypt's entrance is partially illuminated by a flickering lantern, revealing ornate carvings and eerie shadows. 
+
+In the foreground, a group of four diverse adventurers – a rugged male hero with a leather jacket, a smartly dressed female explorer with a backpack, a tech-savvy young man with glasses holding a gadget, and a brave teenage girl wielding a flashlight – stand in dynamic poses, looking intrigued and slightly apprehensive. The background features towering, menacing trees silhouetted against a starry night sky, with hints of glowing eyes peering from the shadows.
+
+The color palette should include vibrant neon hues like blues, purples, and pinks, contrasted with dark colors to create depth and intrigue. The lighting should be dramatic, emphasizing the contrasts between light and shadow to enhance the mysterious atmosphere. The overall composition should evoke a sense of adventure and suspense, reminiscent of classic 1980s action and fantasy films.
+Seed: 1966811898
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Curiosity, Crypt

@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a heroic character surrounded by flame. The character should be depicted in a dynamic pose, with muscular features, wearing a leather jacket and sunglasses, showcasing their extraordinary abilities. The flames should whirl around them, illuminating their face with an intense glow. The background should feature a retro city skyline at dusk, with neon lights reflecting a colorful sunset. The title of the movie should be displayed at the bottom in bold, stylized typography reminiscent of the 80s, surrounded by stars and a cosmic element, capturing the adventurous and thrilling essence of the era. The overall color palette should include bright oranges, fiery reds, and electric blues, contributing to a nostalgic, action-packed atmosphere.
+Seed: 3097375931
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Flame, Ability

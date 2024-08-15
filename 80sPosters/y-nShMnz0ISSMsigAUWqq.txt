@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of diverse heroes standing triumphantly on a city rooftop at sunset. The central figures include a muscular, action-hero man with a leather jacket, a strong female warrior with a bow and arrow, and a quirky sidekick with a large boombox. Neon lights from the surrounding skyscrapers cast a colorful glow, creating a nostalgic retro atmosphere. The sky is filled with gradient shades of orange, pink, and purple, capturing the essence of a classic 80s film. The title of the movie is artistically displayed at the bottom in bold, stylized font typical of the era. The overall composition is dynamic, with exaggerated poses and an emphasis on vibrant color contrast, evoking a sense of adventure and excitement.
+Seed: 1237552978
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Arresting, Theme

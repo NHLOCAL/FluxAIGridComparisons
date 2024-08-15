@@ -1,0 +1,4 @@
+Prompt: Create an illustration for a 1980s movie poster titled "Rune: Soul." The central image features a mysterious, ethereal figure, half in shadow, with intricate runic tattoos glowing in vibrant neon colors against a dark background. The character, dressed in a rugged leather jacket and holding a glowing artifact, stands heroically with a fierce gaze. The background is a dystopian cityscape teeming with towering skyscrapers and flickering neon lights, evoking a sense of danger and adventure. The top of the poster should display bold, retro-style typography with the title "Rune: Soul" in bright colors, capturing the classic 80s aesthetic. The overall atmosphere is cinematic and electrifying, with dramatic lighting that highlights the figure and creates a sense of urgency and excitement. Add subtle textures to mimic the worn feel of vintage movie posters.
+Seed: 29261077
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rune, Soul

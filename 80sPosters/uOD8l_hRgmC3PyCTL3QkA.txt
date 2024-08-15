@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster set in a grand museum. The central focus is a group of adventurous characters, including a charismatic male lead wearing a leather jacket and sunglasses, a smart female archaeologist with a map, and a quirky sidekick holding a vintage camera. They are posed dramatically in front of an ancient artifact, like a glowing crystal or mystical statue, which emits a soft, colorful light, casting intriguing shadows on their faces. 
+
+The background features towering stone columns and intricate mosaic walls, adorned with art pieces from various cultures. The lighting is warm and nostalgic, reminiscent of classic movie posters, with lens flares adding a dynamic touch. The top of the poster features bold, retro typography with the movie title and tagline in striking neon colors. The overall aesthetic captures the adventurous spirit and playful humor typical of 1980s films, with a slight lens distortion and grain texture for that authentic vintage feel.
+Seed: 3196844275
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Museum, Scenic

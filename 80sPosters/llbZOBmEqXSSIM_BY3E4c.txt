@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Selection Lagoon." The poster features a dynamic and colorful illustration of a lush, tropical lagoon surrounded by vibrant foliage and exotic wildlife. In the foreground, a group of diverse characters, dressed in retro 80s fashion, stand heroically, ready for adventure. The characters include a muscular male with a flowing mullet, a strong female with vibrant neon workout gear, and a quirky character with oversized glasses and a colorful shirt.
+
+Above them, the film's title "Selection Lagoon" bursts forth in bold, stylized lettering, with neon colors and glowing effects. The lagoon itself shimmers under a bright, golden sun, reflecting shades of turquoise and emerald green water. To the side, a vintage speedboat slices through the water, leaving a wake behind, suggesting excitement and adventure. In the background, silhouette of a distant mountain range and colorful sunsets enhance the overall mood of the scene, embodying the spirit of adventure and fun typical of the 1980s films.
+
+The poster should include characteristic 80s elements like lens flares, bold lines, and a playful, slightly exaggerated comic art style, reminiscent of popular action-adventure films from that era.
+Seed: 3958933917
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Selection, Lagoon

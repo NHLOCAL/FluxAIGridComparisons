@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a muscular, confident male mage standing confidently at the center. He is wearing elaborate, tattered robes with metallic embellishments that catch the light, leaving his upper body bare to showcase intricate tattoos of magical symbols. Behind him, a mystical, swirling vortex of vivid colors—deep purples, blues, and golds—creates a dramatic backdrop, highlighting his powerful silhouette.  
+
+The lower part of the poster reveals a fantastical landscape filled with crumbling castles, towering mountains, and mythical creatures like dragons and griffins, all rendered in a retro style. The title of the movie is displayed in bold, stylized lettering at the bottom, resembling classic 80s fonts. The overall lighting is dynamic, with strong contrasts and lens flares reminiscent of the era, while the edges are slightly worn to emphasize that vintage aesthetic. 
+
+Add film credits at the bottom in smaller, retro-type font, enhancing the nostalgic feel. The entire composition conveys a sense of adventure and magic, capturing the essence of 1980s fantasy films.
+Seed: 1801844376
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Naked, Mage

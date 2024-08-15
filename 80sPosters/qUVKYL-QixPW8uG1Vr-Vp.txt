@@ -1,0 +1,6 @@
+Prompt: Create an eye-catching 1980s movie poster for a fictional film titled "Fire, Cry." The central image should feature a brave firefighter on the front lines, clad in bright yellow gear, holding a blazing red fire hose with flames erupting around him. His determined stance is highlighted against a dramatic backdrop of a raging fire consuming a building in the background. The sky above is painted in shades of orange and red, depicting an intense sunset filtering through the smoke.
+
+The title "Fire, Cry" should be prominently displayed at the bottom in bold, retro-style typography with a fiery gradient color. Include an additional tagline that reads "When the heat rises, courage ignites!" in a slightly smaller font. Add a subtle texture to the poster to give it an authentic 1980s film aesthetic, reminiscent of classic adventure and action movies. The overall composition should evoke excitement, danger, and heroism, with vibrant colors and dynamic angles capturing the intensity of the scene.
+Seed: 1215542603
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fire, Cry

@@ -1,0 +1,8 @@
+Prompt: Create a vintage-inspired 1980s movie poster featuring a mystical woodland scene infused with biomechanics. The central focus should be a striking biomechanical creature seamlessly blending elements of nature, like tree branches and leaves, with metallic and mechanical features. The creature should have glowing eyes and intricate details showcasing gears and circuitry intertwined with bark and vines. 
+
+The background should depict a lush, vibrant forest filled with towering trees and dappled sunlight filtering through the leaves, casting playful shadows. Include elements like glowing mushrooms and ethereal wisps floating through the air, enhancing the enchanting atmosphere. 
+
+The title of the movie should be bold and stylized in retro typography, positioned at the top of the poster. The overall color palette should be rich with greens, browns, and metallic tones, capturing the essence of the 1980s aesthetic. The lighting should be dramatic, emphasizing the contrast between the organic and mechanical aspects of the scene, with a slightly grainy texture for an authentic retro feel.
+Seed: 356639945
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Woodland, Biomechanics

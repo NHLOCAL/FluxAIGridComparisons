@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a powerful metal gift box at its center, radiating a captivating glow. The box should have intricate designs and metallic textures reminiscent of the era, with geometric patterns and neon colors like electric blue, hot pink, and bright yellow. In the foreground, a group of diverse characters, dressed in classic 80s attire—ripped jeans, leather jackets, and big hair—are striking dynamic poses around the box, expressing excitement and wonder. 
+
+The background is a stylized cityscape at dusk, with towering buildings silhouetted against a radiant sunset enhanced by a pixelated sun. Scattered among the structures are glowing neon signs and synthwave elements, creating a nostalgic atmosphere. The title of the movie, "Gift of Metal," should be boldly displayed at the bottom in a sharp, angular font that evokes the spirit of 80s action films. The poster should incorporate a retro grainy texture to complete the vintage look, emphasizing the nostalgic feel of an iconic era.
+Seed: 3624568017
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Metal

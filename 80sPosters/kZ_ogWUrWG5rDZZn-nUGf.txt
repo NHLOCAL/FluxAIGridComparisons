@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster featuring a group of diverse, dynamic characters standing in a heroic pose against a backdrop of a neon-lit city skyline at dusk. The main character, dressed in a colorful leather jacket, sports retro sunglasses and a confident smirk. Flanking them are a strong female fighter wielding a futuristic weapon and a quirky sidekick holding a comic book. The background is filled with iconic elements of the decade: cassette tapes, boomboxes, and graffiti art. The sky transitions from a deep purple to a fiery orange, with stars beginning to twinkle. The film title is in bold, stylized typography, glowing with a neon gradient. The overall aesthetic is reminiscent of classic action-adventure films, with high contrast lighting and a bold color palette, capturing the essence of 1980s pop culture.
+Seed: 3221742560
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gem, Station

@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a heroic action figure, dressed in classic retro attire with a leather jacket, sunglasses, and a muscular build. He is poised dramatically with one fist raised in a powerful stance. The background should depict a neon-lit cityscape at sunset, with tall buildings and glowing advertisements in bright pinks, blues, and yellows. Retro-style rays of light burst outward from behind the figure, creating a sense of action and excitement. The title of the movie, "City Warriors," should be prominently displayed at the bottom in bold, stylized typography typical of the era, accompanied by a tagline reading, "Fighting for Justice in a Neon World." The overall composition should have a grainy texture, reminiscent of the classic films of the 1980s, with an emphasis on dynamic colors and dramatic lighting.
+Seed: 2772352463
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Night, Bitterness

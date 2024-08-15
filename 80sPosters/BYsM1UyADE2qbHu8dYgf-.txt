@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s movie poster for a film titled "Balance." The poster features a dynamic composition of two central characters standing back-to-back, one dressed in a retro neon pink leather jacket and the other in a teal windbreaker, both wearing oversized sunglasses. The character in the pink jacket has shaggy hair, while the one in teal sports a side ponytail. Behind them, a stylized city skyline at sunset is drenched in warm oranges and cool purples, glowing with neon lights. 
+
+In the foreground, a symbolic balancing scale sits, with one side featuring a heart and the other a set of weights, representing the theme of yearning. The poster includes a bold, stylized font at the top displaying the movie title "Balance" in bright yellow, with a tagline at the bottom that reads "Find the harmony within." 
+
+The entire scene radiates energetic, nostalgic vibes with an electric color palette, very reminiscent of 1980s graphic design. The lighting is vibrant and dramatic, evoking a sense of adventure and emotion, alluding to a journey filled with challenges and longing. The overall aesthetic blends retro motifs and cinematic flair, drawing viewers into the whimsical world of the film.
+Seed: 1979757435
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Balance, Yearning

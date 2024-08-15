@@ -1,0 +1,8 @@
+Prompt: Create a captivating 1980s movie poster for a fictional film titled "Atoll, Promise." The central image features a picturesque tropical atoll surrounded by vibrant turquoise waters, with a small, idyllic island at the center. In the foreground, a sun-kissed hero wearing a sleeveless tank top and sunglasses stands confidently, holding a surfboard with bold, retro graphics. The background showcases palm trees swaying gently in the breeze and a radiant sunset casting vivid hues of orange, pink, and purple across the sky.
+
+Above the atoll, stylized clouds reminiscent of classic 80s graphic design add a nostalgic touch. The title "Atoll, Promise" is prominently displayed at the bottom in large, bold, and colorful lettering, capturing the essence of the era with a playful font that echoes adventure and excitement. Additional elements like playful dolphins jumping out of the water and a vintage convertible parked on the beach enhance the atmosphere of the poster.
+
+The overall color palette is bright and saturated, evoking a sense of fun and adventure. The lighting is warm and inviting, reminiscent of a sun-soaked summer day. The poster design embraces the whimsical and adventurous spirit of classic 80s films, drawing the viewer into a nostalgic world of sun, surf, and promises of escapism.
+Seed: 3066608474
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Atoll, Promise

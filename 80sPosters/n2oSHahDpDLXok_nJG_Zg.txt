@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster design. The central image features a group of four diverse friends, each with distinct fashion styles from the era - think colorful windbreakers, leg warmers, and oversized sunglasses. They are standing in front of a retro-looking convertible car, striking dynamic poses that convey camaraderie and adventure. 
+
+The background showcases a neon-lit city skyline at sunset, with vivid pinks, purples, and oranges blending together, creating a warm yet electric atmosphere. Add cassette tapes and vinyl records scattered around, enhancing the nostalgic vibe. 
+
+The title of the movie should be boldly displayed at the top in stylized, chunky typography characteristic of the 1980s, with a tagline just underneath. The overall composition should exude a sense of fun, adventure, and youthful energy, encapsulating the spirit of films from that iconic decade. Use highly saturated colors and dynamic lighting to further emphasize the retro aesthetic, ensuring the final image is a visually striking homage to 1980s cinema.
+Seed: 1295891980
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Celebration, Leadership

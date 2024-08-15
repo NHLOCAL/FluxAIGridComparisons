@@ -1,0 +1,4 @@
+Prompt: Create a striking 1980s movie poster featuring a retro-style action hero in a leather jacket, complete with sunglasses and a confident pose. The hero stands in the foreground, wielding a futuristic sci-fi weapon, with a cityscape set ablaze behind him. Neon colors dominate the scene, incorporating electric blues and hot pinks along with a faded gradient, typical of 80s aesthetics. Adding to the nostalgic feel, a vintage film grain effect subtly overlays the entire image. The title of the movie appears in bold, stylized typography at the bottom, with a tagline promising “Action like you’ve never seen!” Shadows and dramatic lighting emphasize the hero's physique and the chaotic background, creating a sense of excitement and adventure typical of classic 80s action films.
+Seed: 828999346
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scent, Chuckle

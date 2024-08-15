@@ -1,0 +1,4 @@
+Prompt: Create a retro-style 1980s movie poster for a film titled "Insight: Enigma." The central focus should feature a mysterious figure standing under a neon-lit skyline, wearing a long trench coat and sunglasses. The figure's face is partially obscured, adding an air of intrigue. The background should include bold, geometric shapes and vibrant colors such as hot pink, electric blue, and bright yellow, typical of '80s aesthetics. Incorporate digital elements, like circuit patterns or pixelated designs, to evoke a sense of technology and mystery. The title "Insight: Enigma" should be displayed at the bottom in a stylized, bold font reminiscent of classic thriller movie posters, with a slight glow effect. The overall atmosphere should feel nostalgic yet captivating, combining elements of suspense and adventure.
+Seed: 1346849001
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Insight, Enigma

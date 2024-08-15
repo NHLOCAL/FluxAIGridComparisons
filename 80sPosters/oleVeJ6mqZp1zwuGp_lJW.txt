@@ -1,0 +1,4 @@
+Prompt: Create an 1980s-style movie poster featuring a dynamic action scene with a muscular hero in a sleeveless denim jacket, sporting a mullet and sunglasses. He wields a laser gun, striking a heroic pose atop a futuristic motorcycle. In the background, there are towering neon-lit skyscrapers and a setting sun casting vibrant oranges and purples across the sky. A menacing-looking villain in a leather jacket lurks in the shadows, subtly reflected in the motorcycle's chrome. The title of the movie, written in bold, retro typography with sharp edges and bright colors, arches across the top. Include additional elements like laser beams and explosions to enhance the action-packed atmosphere. Retro graphic style, emphasis on bold colors and high contrast, evoking a nostalgic vibe of the 1980s cinema.
+Seed: 589462645
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Imbalance, Addict

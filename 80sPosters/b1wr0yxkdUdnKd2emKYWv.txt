@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s-style movie poster for a fictional film titled "Bitterness." The main visual element should feature a central character, a rugged individual in a leather jacket with a determined expression, standing confidently in front of a neon city skyline. The background should be filled with retro-futuristic elements, such as flying cars and bright neon lights in shades of pink, blue, and yellow, reflecting the stylized aesthetic of the era.
+
+Include a digital, pixelated algorithm pattern subtly woven into the background to emphasize the theme of technology and computation. The title "Bitterness" should be prominently displayed at the top in bold, stylized fonts typical of 1980s action film posters, with a slight glow effect.
+
+The lighting should evoke a nighttime atmosphere with dramatic shadows enhancing the character's features, creating a sense of tension and urgency. Include additional elements such as a glowing moon and scattered geometric shapes to create depth and intrigue, with an overall composition reminiscent of classic 1980s cinematic artworks.
+Seed: 600431637
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bitterness, Algorithm

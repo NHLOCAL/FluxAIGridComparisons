@@ -1,0 +1,6 @@
+Prompt: A vibrant 1980s movie poster featuring a retro science fiction theme. In the center, a group of four diverse heroes stands confidently, each wearing colorful, futuristic outfits with neon accents. The main hero, a muscular man with a striking mullet, holds a laser gun, while a fierce woman with vibrant pink hair wields a glowing sword. The background is a cosmic landscape filled with exploding planets and bright, swirling galaxies in shimmering shades of blue, purple, and pink. 
+
+Above them, a vintage-style, bold-font title reads “Galactic Warriors”, with a glowing neon border. The skies are filled with stylized shooting stars, and an imposing spaceship hovers in the upper background, hinting at an epic battle. The overall visual style emulates classic hand-drawn artwork, with exaggerated proportions, dynamic poses, and a slightly worn, nostalgic finish that captures the essence of 80s cinema. The color palette is vibrant and electric, enhancing the sense of adventure and excitement.
+Seed: 1623684773
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Personality, Consciousness

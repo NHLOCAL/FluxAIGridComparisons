@@ -1,0 +1,8 @@
+Prompt: Create a captivating 1980s movie poster featuring a creepy, supernatural theme. In the foreground, depict a shadowy figure with a slightly distorted face, illuminated by an eerie green light, suggesting something otherworldly. The character should wear retro clothing typical of the 1980s, complete with oversized jackets and sneakers. Surrounding the figure, include ghostly apparitions and faint outlines of haunted landscapes, evoking a sense of mystery and fear.
+
+The background should feature a dark, foreboding forest with twisted trees shrouded in fog, creating a feeling of isolation and dread. Above the scene, a large, ominous full moon glows, casting an unsettling light on the entire composition. The title of the movie, "Revelation," should be prominently displayed at the bottom in bold, stylized lettering reminiscent of classic horror films of the era, with a slight glow effect to enhance its prominence. 
+
+Use a color palette of dark blues, greens, and purples, with sharp contrasts and vibrant highlights to capture the essence of a haunting thriller. The overall style should reflect the aesthetics of 1980s horror posters, with dramatic lighting and intricate details that invite viewers into a world of suspense and intrigue.
+Seed: 2183328913
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creepy, Revelation

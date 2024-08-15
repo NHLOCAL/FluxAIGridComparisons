@@ -1,0 +1,4 @@
+Prompt: Create an 1980s-style movie poster featuring a group of four diverse characters: a rugged male hero with a leather jacket, a strong female warrior with a determined expression and wielding a sword, an eccentric scientist with wild hair and goggles, and a cool sidekick with sunglasses and a relaxed demeanor. They stand triumphantly in the foreground with action poses. The background depicts a vibrant city skyline bathed in neon colors, interspersed with explosions and flying cars, capturing the essence of 1980s sci-fi and action films. The title is boldly displayed at the top in retro typography, with a tagline below, all enhanced by dramatic lighting and lens flares to create an epic, high-energy atmosphere. The overall color palette features bright yellows, electric blues, and deep purples, evoking nostalgia for the iconic movie posters of the era.
+Seed: 992000344
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Truth, Adventure

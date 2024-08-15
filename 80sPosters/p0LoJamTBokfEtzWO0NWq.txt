@@ -1,0 +1,10 @@
+Prompt: Create an 1980s-style movie poster for a film titled "Violet: Eternity." The poster features a striking, central character, a female figure with flowing violet hair styled in voluminous, bold waves, wearing a dazzling, metallic jumpsuit adorned with geometric patterns. Her expression is fierce yet confident, as she gazes out into the distance. 
+
+In the background, depict a neon-lit, futuristic cityscape filled with towering skyscrapers, glowing signs, and an electric color palette of purples, pinks, and blues that evokes the vibrant energy of the 1980s. Incorporate stylized elements like grid patterns and abstract shapes to enhance the retro feel. 
+
+The title "Violet: Eternity" should be bold and prominently displayed at the bottom, using a classic neon font with a gradient of electric blue and purple. Add subtle glowing effects around the title to make it pop against the background. 
+
+Include dramatic lighting that creates sharp contrasts, casting shadows that enhance the character's features and the depth of the cityscape. The overall composition should evoke a sense of adventure and intrigue, reminiscent of classic 1980s sci-fi movie posters. 
+Seed: 4122712021
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Violet, Eternity

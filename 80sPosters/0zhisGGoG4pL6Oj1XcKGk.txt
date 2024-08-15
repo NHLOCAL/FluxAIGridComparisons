@@ -1,0 +1,8 @@
+Prompt: Create a dynamic 1980s movie poster for a fictional film titled "Serenity, Strength." The central figure should be a strong, confident female character, wearing a retro-style jumpsuit with bold colors and geometric patterns typical of the '80s. Her hair is voluminous and styled in a classic high-energy manner, reminiscent of iconic hairstyles from that era. 
+
+The background features a vibrant sunset skyline with shades of orange, pink, and purple, symbolizing tranquility amidst strength. Silhouettes of mountains and a serene lake reflect the sunset colors, adding depth to the scene. 
+
+Include retro elements such as neon light accents and a stylized title at the bottom, "Serenity, Strength," in a bold, flashy font. Surround the title with graphic elements like stars and sparkles, capturing the playful essence of 80s cinema. The overall design should have a slightly grainy texture to give it an authentic vintage look, while maintaining a sense of empowerment and energy. The color palette should be bright and eye-catching, emphasizing the vibrant, adventurous spirit of the decade.
+Seed: 1084562524
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Serenity, Strength

@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Flavor of Peace." The poster features a dynamic, colorful background showcasing a bustling city skyline at sunset, with neon pinks, purples, and blues dominating the color palette. In the foreground, depict a diverse group of friends with big hairstyles and colorful outfits typical of the era, all laughing and sharing food from a street vendor. 
+
+The characters should include a young man with a distinct mullet, a woman with large hoops and a bright jacket, and a couple of kids with rollerblades, showcasing carefree joy. Each character should be holding different types of food, like tacos, hot dogs, and ice cream cones, emphasizing a festival-like atmosphere. 
+
+Include stylish, retro fonts at the top that read "Flavor of Peace," with additional text below proclaiming "Coming Soon!" The entire composition should have a glossy finish, capturing the essence of 1980s cinema with bold colors and an energetic vibe. Dramatic, colorful lighting should enhance the picturesque scene, invoking a sense of nostalgia and celebration.
+Seed: 93043957
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Flavor, Peace

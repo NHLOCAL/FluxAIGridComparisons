@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a film titled "Loyalty". The central figure should be a heroic character, a rugged adventurer dressed in a mix of retro clothing and tactical gear, holding a vintage map in one hand and a compass in the other. His determined expression conveys a sense of purpose and bravery. The background should depict a sweeping Taiga landscape, showcasing tall coniferous trees, sprawling hills, and distant snow-capped mountains under a bright, cloudless blue sky. 
+
+Incorporate bold, eye-catching typography at the top, reminiscent of classic 80s films, with the title "Loyalty" splashed across the center in metallic gold and red hues, casting a slight shadow for depth. Below the title, add a tagline in smaller text: "In a world of betrayal, one man stands strong." 
+
+Use vibrant colors and dramatic lighting to create a nostalgic, cinematic atmosphere, and include subtle film grain to evoke the classic movie poster aesthetic of the 1980s. The overall composition should feel energetic and adventurous, drawing viewers into the epic tale of loyalty and courage.
+Seed: 2885151737
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Loyalty, Taiga

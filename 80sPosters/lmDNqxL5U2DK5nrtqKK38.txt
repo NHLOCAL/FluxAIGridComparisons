@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Exoplanet." The poster should feature a dramatic landscape of a distant alien world filled with colorful, oversized flora and bizarre fauna. In the foreground, a rugged space explorer in a retro-futuristic spacesuit, complete with a large helmet and neon accents, stands heroically with one hand on his hip, gazing into the horizon. 
+
+Behind him, a swirling nebula sky filled with vibrant purples, blues, and pinks serves as a backdrop, dotted with shining stars and distant planets. A massive, glowing spaceship can be seen soaring through the sky, trailing a colorful vapor plume. 
+
+Include stylized typography for the title “Exoplanet” at the bottom in bold, retro fonts colored in neon greens and oranges. The overall artwork should evoke a sense of adventure and exploration, blending classic science fiction elements with high saturation and dramatic lighting typical of 80s movie posters. The scene should be finely detailed, capturing the essence of a thrilling yet whimsical alien adventure.
+Seed: 808147157
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exoplanet, Masterpiece

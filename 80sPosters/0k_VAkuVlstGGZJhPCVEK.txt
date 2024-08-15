@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s-style movie poster for a fictional film titled "Multiplicity: Energy." The poster features a dynamic composition of multiple versions of a central character, each exuding unique energy and characteristics, showcasing colorful outfits typical of the era, including bright neon colors and bold patterns. 
+
+The background is a colorful, abstract graphic design reminiscent of retro aesthetics, with geometric shapes and wavy lines in electric blues, pinks, and yellows. Each character has a distinct pose, conveying a sense of action and playfulness.
+
+Above the characters, the title "Multiplicity: Energy" is written in a bold, stylized font characteristic of 80s cinema, with bright gradient colors that reflect the vibrant theme of the film. Beneath the title, include a tagline that perfectly captures the essence of the movie, with a playful catchphrase written in a smaller font.
+
+The lighting is bright and electric, with lens flares and spark effects adding movement and excitement to the scene. Add subtle textures to mimic the appearance of older print materials, enhancing the nostalgia of the 1980s. The overall atmosphere is energetic and fun, perfectly embodying the spirit of classic adventure-comedy films from that era.
+Seed: 2623443128
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Multiplicity, Energy

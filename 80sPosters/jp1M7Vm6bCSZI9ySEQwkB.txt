@@ -1,0 +1,8 @@
+Prompt: A captivating 1980s-style movie poster depicting a thrilling country adventure featuring a massive basilisk. The poster showcases a dramatic landscape with rolling hills, a rustic log cabin, and a clear blue sky overhead, complemented by vibrant, nostalgic color tones typical of the era. The basilisk, rendered in an imposing and fantastical design, towers over the scene with vivid emerald green scales and fiery red eyes, partially coiled around a large boulder. 
+
+In the foreground, a rugged cowboy dressed in classic denim jeans and a wide-brimmed hat stands defiantly, gripping a lasso, ready to take on the beast. His expression radiates determination and bravery. Surrounding him are hints of other characters, including a daring heroine and a wise old sage, positioned dynamically to add intrigue to the composition. 
+
+The film title, bold and stylized with neon colors, arches across the top, while a tagline at the bottom highlights the adventure waiting to unfold. The poster is enhanced by retro graphic elements, such as starbursts and lens flares, evoking the iconic aesthetic of 1980s adventure films. The overall design combines a sense of excitement, nostalgia, and fantasy in a captivating visual narrative.
+Seed: 1249604228
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Country, Basilisk

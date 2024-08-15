@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster that features a charismatic hero with wild, styled hair, wearing a bright neon jacket and sunglasses, holding a boombox on his shoulder. Surround him with a diverse group of characters: a tough female sidekick wielding a skateboard, a quirky scientist with wild hair, and a mysterious villain in a dark leather outfit. The backdrop showcases a city skyline at sunset, with neon lights glowing in pink and blue against the sky. Add artistic elements like swirling geometric shapes and vintage film grain for an authentic retro feel. The title should be emblazoned at the top in bold, dynamic lettering, capturing the adventurous essence of the film. High saturation colors, dramatic lighting, and an overall sense of excitement should dominate the composition, evoking the classic 80s action-adventure genre.
+Seed: 36411700
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Journey, Infinity

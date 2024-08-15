@@ -1,0 +1,6 @@
+Prompt: A vibrant 1980s-style movie poster featuring an adventurous group of teenagers on a quest. The scene is set against a colorful, retro sunset with neon hues of pink, purple, and orange. The teenagers, dressed in classic 80s attire like high-waisted jeans, colorful jackets, and oversized sunglasses, are posing heroically in the foreground, each holding iconic objects like a skateboard, a boom box, or an old-school camera. 
+
+In the background, a mysterious abandoned warehouse looms, partially shrouded in mist, hinting at the adventure that awaits. The title of the movie, in bold, stylized font reminiscent of 80s typography, arcs above the group. Add elements like a glowing cassette tape or a vintage car to enhance the nostalgia. The overall design should evoke a sense of fun, excitement, and youthful rebellion, capturing the spirit of iconic 80s films. Include classic 80s action motifs like lightning bolts or stars for added effect. The lighting should be bright and dynamic, creating an engaging and eye-catching composition.
+Seed: 887058445
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hurricane, Fact

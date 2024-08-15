@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a heroic character standing confidently in the foreground. The character should be clad in a colorful, retro jumpsuit with bold patterns and be sporting big hair, reminiscent of the era. In one hand, they hold a futuristic gadget while striking a powerful pose. The background is filled with neon lights, a cityscape, and a setting sun casting warm pink and orange hues across the sky. Stylized clouds and geometric shapes resembling the aesthetics of classic 80s design elements enhance the scene. The title of the movie is displayed in large, bold, vintage font at the top, with a tagline below in smaller print. The overall composition radiates a sense of adventure, excitement, and nostalgia, capturing the essence of 1980s cinema.
+Seed: 4053552522
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Direction, Intrigue

@@ -1,0 +1,4 @@
+Prompt: Create a retro 1980s movie poster featuring an action hero in a dramatic pose, wielding a futuristic laser gun. The hero, with tousled hair and wearing a sleeveless leather jacket, stands confidently in a neon-lit cityscape, with towering buildings and bright, flashing billboards in the background. A whirlwind of colors, including vibrant pinks, blues, and yellows, fills the sky, evoking the iconic 80s aesthetic. The title of the movie, in bold, stylized font, spans the top of the poster, with a tagline just below it. The lighting is dynamic, adding a cinematic flair, and the overall composition encapsulates the energy and excitement of classic 80s action films. The poster should also feature vintage film grain texture to enhance the nostalgic feel.
+Seed: 1575629575
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Favor, Marina

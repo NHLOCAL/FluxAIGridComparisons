@@ -1,0 +1,4 @@
+Prompt: Create an 1980s-style movie poster for a sci-fi adventure film. The central figure is a rugged hero with a futuristic visor and spiky hair, wearing a leather jacket adorned with colorful patches. He stands confidently in a dynamic pose, holding a glowing laser gun, surrounded by an array of neon-lit alien landscapes in the background, featuring strange, vibrant flora and bizarre futuristic vehicles. A towering, menacing robot looms in the distance, casting a shadow over the hero. The color palette should be dominated by bright pinks, electric blues, and neon greens, giving it a retro feel. Bold, stylized text at the top reads the film title in an eye-catching, angular font typical of 80s blockbusters. The overall composition captures the essence of classic adventure films, balanced with a sense of nostalgia and excitement.
+Seed: 3306113004
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Prairie, Conservatory

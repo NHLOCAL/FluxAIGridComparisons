@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of whimsical, cartoonish characters embarking on an imaginative adventure. The main character, a cheerful young boy wearing a colorful cap and oversized glasses, leads the group with a bright smile. Beside him, a quirky, talking dog with exaggerated features and a playful expression mirrors his enthusiasm. 
+
+In the background, a fantastical landscape unfolds, showcasing giant, colorful mushrooms, swirling clouds, and oversized toys scattered throughout the scene. The sky is painted in vivid hues of pink and purple, capturing the retro aesthetic of the decade. 
+
+At the top of the poster, bold, stylized text reads "IMAGINATION: CHUCKLE!" in neon colors, embodying the playful spirit of the movie. The overall composition has a nostalgic feel with a slight grainy texture, evoking the essence of 1980s cinema. The characters appear larger than life, emphasizing the theme of adventure and creativity. The lighting is bright and cheerful, enhancing the lively atmosphere of the scene.
+Seed: 1854497557
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Imagination, Chuckle

@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of four diverse young adventurers standing heroically on a rocky cliff. Each character has distinct styles representative of the era, including big hair, colorful jackets, and retro sunglasses. In the background, a dramatic sunset casts rich oranges and purples across the sky, while a futuristic cityscape looms on the horizon with neon lights. The foreground has scattered VHS tapes, cassette players, and classic arcade game machines, emphasizing the nostalgia of the '80s. The title of the movie is in bold, stylized typography with a metallic sheen at the bottom of the poster, surrounded by glowing stars. The overall feel should be adventurous, energetic, and playful, capturing the essence of classic '80s action films.
+Seed: 1920379859
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Agency, Pointer

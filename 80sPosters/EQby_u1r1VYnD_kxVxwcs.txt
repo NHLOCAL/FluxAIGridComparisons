@@ -1,0 +1,8 @@
+Prompt: Create an 1980s-style movie poster that captures the essence of a thrilling ocean adventure featuring a mysterious black hole. The poster should prominently display a vast, tumultuous ocean with dramatic waves crashing against one another. In the center, depict a swirling, ominous black hole looming above the waterline, sucking in waves and creating a vortex of energy. 
+
+Incorporate retro elements such as bold, neon-colored typography at the top with a catchy film title, and include stylized, illustrated characters, such as a brave diver and a group of explorers in small boats, looking towards the black hole with expressions of awe and determination. 
+
+The background should showcase a sunset sky filled with vibrant pinks, oranges, and purples, contrasting against the darkness of the black hole. Utilize a grainy texture to give the poster a vintage feel, reminiscent of classic 1980s adventure films. Add some stylistic embellishments, like stars and light flares around the black hole, to enhance the sense of mystery and excitement.
+Seed: 4278125090
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ocean, Black hole

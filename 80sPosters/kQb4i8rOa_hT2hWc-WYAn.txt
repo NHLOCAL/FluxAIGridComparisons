@@ -1,0 +1,6 @@
+Prompt: A vibrant 1980s movie poster design featuring two central characters embodying power and blessing. The first character, a muscular hero in a bright, flashy outfit, strikes a commanding pose with dynamic lighting highlighting his chiseled features. His outfit is adorned with neon colors and geometric patterns, representative of 80s style. The second character, a graceful figure dressed in flowing, ethereal clothing, radiates warmth and positivity, with golden light cascading around her, symbolizing blessing.
+
+The background features a neon-lit cityscape with towering buildings and starry skies, capturing the energetic spirit of the decade. A retro font at the top boldly spells out the movie title, with film grain texture enhancing the vintage feel. The color palette bursts with vibrant blues, pinks, and purples, creating a dramatic atmosphere. Light flares and lens effects add to the cinematic quality, inviting viewers into a world of adventure and uplifting journeys. The overall composition is eye-catching and encapsulates the essence of a classic 1980s movie poster.
+Seed: 3885381226
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Power, Blessing

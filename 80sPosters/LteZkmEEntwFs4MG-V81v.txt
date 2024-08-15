@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of four quirky heroes standing together in dynamic poses. The heroes should include a muscular, shirtless man with a mullet and sunglasses, a smart woman with big hair and a denim jacket, a tech-savvy kid holding a retro gadget, and a mysterious figure in a leather jacket with a moody expression. The background is a neon-lit cityscape at dusk, filled with bright pink, blue, and purple hues, with slightly grainy textures reminiscent of old film. The title of the movie appears in bold, stylized lettering at the top, accompanied by exaggerated highlights and shadows. A classic tagline sits at the bottom, framed with sparkling effects. Overall, the composition should exude excitement and adventure while capturing the iconic aesthetics of 1980s pop culture. Retro cinematic styling, highly detailed, bold colors.
+Seed: 1071453316
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intimacy, Scent

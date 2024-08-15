@@ -1,0 +1,10 @@
+Prompt: Create a dynamic 1980s movie poster titled "Thought: Firewall." The composition should feature a central character, a tech-savvy hacker with neon-colored hair and retro sunglasses, sitting at a futuristic computer console filled with glowing screens and digital interfaces. This character should be portrayed in a dramatic pose, fingers flying over the keyboard, with a look of determination on their face. 
+
+In the background, illustrate a vibrant city skyline at night, illuminated by bright neon lights in shades of blue, pink, and purple, creating a cyberpunk atmosphere. Alongside the skyline, add stylized binary code cascading down like rain, hinting at the digital world being manipulated.
+
+The title "Thought: Firewall" should be prominently featured at the bottom in large, blocky, metallic font with a glowing neon outline. To complete the retro vibe, incorporate small visual elements typical of 1980s design, such as geometric shapes and lens flares.
+
+The overall color palette should reflect the bright, saturated colors of the 1980s, and the lighting should be dramatic, with high contrast to evoke a sense of action and tension. This cinematic composition should encapsulate the nostalgia and excitement of classic 80s sci-fi thrillers, with a modern twist.
+Seed: 2427298874
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Thought, Firewall

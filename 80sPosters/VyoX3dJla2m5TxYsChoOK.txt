@@ -1,0 +1,8 @@
+Prompt: A vibrant and nostalgic 1980s movie poster titled "Advice". The design features a charismatic group of three friends: a young woman with big, voluminous hair in a colorful windbreaker, a guy in a headband and oversized sunglasses, and another friend sporting a graphic t-shirt and ripped jeans. They stand confidently against a retro city backdrop with neon lights and palm trees, conveying a sense of adventure. 
+
+The title "Advice" is prominently displayed in bold, stylized typography at the top, with a glowing effect reminiscent of classic neon signs. The background features a sunset gradient with hues of pink, orange, and purple, enhancing the nostalgic vibe. 
+
+Cinematic lighting casts interesting shadows, adding depth to the characters, while a whimsical tagline below reads "Sometimes you just need a little good advice!" Retro elements like cassette tapes and cassette players are subtly integrated into the design, enhancing the 1980s theme. The overall composition is colorful, energetic, and reminiscent of classic adventure comedies from the era, inviting viewers into a fun, light-hearted experience.
+Seed: 2663976798
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Advice, Creation

@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster titled "Belief," depicting a bustling mall scene. The foreground features a diverse group of teenagers, each displaying distinctive fashion styles, including high-waisted jeans, colorful windbreakers, and oversized accessories, all radiating youthful energy. One character holds a boombox over their shoulder, while another sports a skateboard, capturing the essence of the era. 
+
+The background showcases a lively mall environment, including shop signs with retro logos, bright neon lights, and a food court bustling with patrons. The color palette should be a mix of bold neon colors like pink, blue, and yellow, evoking a sense of nostalgia. 
+
+The title "Belief" is prominently displayed in an eye-catching font at the top in a rainbow gradient, reminiscent of classic 80s film typography. The lighting is bright and vivid, emphasizing the cheerful atmosphere of the mall. 
+
+The overall composition should convey a sense of adventure, friendship, and the carefree spirit of the 1980s, encapsulated in a cinematic and stylized illustration.
+Seed: 3675606863
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Belief, Mall

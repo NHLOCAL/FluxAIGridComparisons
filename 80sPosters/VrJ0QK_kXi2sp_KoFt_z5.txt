@@ -1,0 +1,8 @@
+Prompt: Create an 1980s movie poster for a fictional film titled "Rune." The poster features a central character, a heroic warrior with long flowing hair, wearing a leather battle outfit adorned with mystical symbols. He is holding an ancient rune stone, glowing with a bright blue energy. Surrounding him are various mythical creatures like dragons and ethereal spirits, all depicted in a dynamic, action-packed pose. 
+
+The background showcases a fantastical landscape with towering mountains, a dark forest, and a swirling night sky filled with stars and a prominent full moon. The color palette should consist of vibrant neon hues typical of the 1980s, with dramatic lighting that emphasizes the adventure and magical elements of the scene. 
+
+The title "Rune" should be prominently displayed at the bottom in large, bold, retro typography, stylized with gradients and a slight metallic sheen, capturing the essence of classic 1980s movie posters. Additional taglines can include "Unleash the Power Within!" at the top. The overall aesthetic should resemble a vintage action-fantasy film poster, full of excitement and adventure.
+Seed: 2450829609
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rune, Presentation

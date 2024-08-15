@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a majestic basilisk poised menacingly atop a moss-covered rock in the heart of an exotic rainforest. The basilisk should be depicted in intricate detail, showcasing its iridescent scales and elongated, serpentine body coiling around the rock. Surrounding the creature, lush tropical foliage with large green leaves and vibrant, colorful flowers frame the scene, creating a vivid contrast. In the background, dappled sunlight filters through the dense canopy, casting dramatic shadows and highlighting the moisture in the air.
+
+Include a bold, retro-style title at the bottom of the poster, using a metallic font that evokes a sense of adventure. The overall color palette should be rich and saturated, with a mix of deep greens, bright yellows, and hints of pink and blue to enhance the fantasy feel. The poster should convey a sense of thrill and mystery, characteristic of classic 1980s adventure films, with dramatic lighting and a slightly grainy texture to mimic the style of that era.
+Seed: 992135704
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rainforest, Basilisk

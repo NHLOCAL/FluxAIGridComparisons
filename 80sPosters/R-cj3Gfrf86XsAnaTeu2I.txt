@@ -1,0 +1,8 @@
+Prompt: Create a vintage 1980s movie poster featuring a central character, a confident woman with voluminous, curly hair styled in classic 80s fashion. She’s wearing a bright neon outfit with oversized accessories, embodying the vibrant style of the era. In her hand, she holds a futuristic gadget that emanates a soft glow. 
+
+The background showcases an urban cityscape at dusk with colorful neon lights reflecting on wet asphalt, evoking the vibrant nightlife of the time. Prominent figures like a muscular, rugged hero, clad in a leather jacket, and a quirky sidekick with wild attire flank her, adding comedic elements. The title "Brown Potency" is boldly displayed in retro typography at the top, with a tagline underneath in a smaller font.
+
+The color palette emphasizes warm browns and neon hues, while a subtle grainy texture gives the poster an authentic vintage feel. The lighting should be a blend of dramatic shadows and bright highlights, capturing the essence of 80s action and adventure cinema. The overall composition should evoke excitement, adventure, and nostalgia.
+Seed: 1997462944
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Brown, Potency

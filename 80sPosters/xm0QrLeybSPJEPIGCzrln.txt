@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a dynamic, action-packed scene. The central character, a muscular hero with a mullet hairstyle, is wearing a bright, neon-colored tank top and holding a futuristic laser gun. He stands confidently in a dramatic pose, with one foot on a rock, showcasing a rugged desolate landscape behind him.
+
+In the background, a massive explosion erupts, sending colorful sparks and debris flying into the air, with an intense sunset sky blending hues of orange, pink, and purple. A futuristic city skyline can be seen in the distance, with towering buildings and neon lights flickering. 
+
+The poster features bold, stylized typography at the top, reminiscent of classic 80s films, with the film title in bright, gradient colors. The overall design should have a slightly retro grainy texture, emphasizing the nostalgic feel, and the colors should be saturated and energetic, evoking a sense of excitement and adventure. Include elements like palm trees and vintage vehicles to enhance the retro theme. The composition should capture the essence of 1980s action films.
+Seed: 1618168427
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Harmony, Intimacy

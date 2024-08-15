@@ -1,0 +1,6 @@
+Prompt: Create a retro 1980s movie poster for a film titled "Proficiency." The poster should feature two main characters: a confident, sharply dressed man in a suit with bold colors and geometric patterns, and a stylish woman with big hair and a vibrant dress typical of the 80s. The background should showcase a classic urban skyline at sunset, with neon lighting in shades of pink and blue, reflecting the iconic visual style of that era. 
+
+Include large, stylized text for the movie title "Proficiency" at the top in a font characteristic of the 80s, surrounded by dynamic wave patterns. The tagline at the bottom reads "Love, Power, and Rivalry," in a smaller font. The overall design should have a glossy, dramatic flair, evoking a sense of adventure and romance, with lens flares and bold color contrasts. The color palette should be rich and vibrant, encapsulating the essence of 1980s filmmaking.
+Seed: 1213168081
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Proficiency, Spouse

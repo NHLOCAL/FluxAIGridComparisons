@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s-inspired movie poster set in a vast desert landscape under a bright, golden sun. The foreground features a rugged, heroic figure with a wind-swept mullet hairstyle, wearing sunglasses and a leather jacket, standing confidently next to a classic muscle car. The car's glossy paint shines against the sandy backdrop. 
+
+In the distance, a swirling sandstorm begins to form, contrasting with a striking blue sky. Palm trees are visible, hinting at a nearby oasis. The title of the movie, "Desert Perfection," is written in bold, retro font with neon colors and glowing outlines, emphasizing the nostalgic aesthetic. 
+
+The overall color palette consists of warm oranges, deep reds, and vivid blues, along with grainy textures to evoke the distinct look of 1980s cinema. Use dramatic lighting dynamics, sharp shadows, and lens flares to create a sense of action and excitement, reminiscent of classic adventure films from that era.
+Seed: 3952498393
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desert, Perfection

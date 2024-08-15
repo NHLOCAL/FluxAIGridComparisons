@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a film titled "Doubt: Animal." The main focus is a stylized, muscular anthropomorphic animal, like a wolf or tiger, standing heroically against a dramatic sunset backdrop. The character is wearing a leather jacket and sunglasses, exuding a tough and confident attitude. 
+
+The poster should feature dynamic typography for the title "Doubt: Animal" in bold, neon colors typical of the 80s style, with lens flares and a slight 3D effect. Surrounding the central character are action-packed elements like explosions and silhouettes of other animals in the background, hinting at a potential conflict or adventure.
+
+The color palette should consist of bright pastels, contrasting dark shadows, and electric blues and pinks to capture the essence of 1980s cinematic aesthetics. The overall composition should convey excitement, adventure, and nostalgia, reminiscent of classic action movies from that era.
+Seed: 2287527528
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Doubt, Animal

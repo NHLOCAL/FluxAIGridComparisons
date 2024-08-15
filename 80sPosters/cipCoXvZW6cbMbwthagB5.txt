@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster design, featuring a heroic action figure in a leather jacket, striking a powerful pose with sunglasses reflecting a neon city skyline in the background. The character, a muscular male with wild, wind-blown hair, holds a futuristic weapon glowing with blue and purple lights. The poster is adorned with retro graphics, including geometric shapes and bold text displaying the film's title in a flashy, neon font. The color palette includes bright pinks, electric blues, and deep purples, capturing the essence of the era. The lighting is dramatic, with rays of neon light illuminating the character and casting colorful shadows across the scene, creating an iconic and nostalgic 80s vibe. The background features flying cars and skyscrapers, completing the futuristic urban landscape.
+Seed: 1973734631
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Biopunk, Modification

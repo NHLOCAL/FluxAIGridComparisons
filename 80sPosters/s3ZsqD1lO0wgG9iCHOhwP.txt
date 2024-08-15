@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster showcasing a lively dance scene set in a vast desert landscape. The foreground features a diverse group of dancers caught mid-movement, wearing eclectic, neon-colored outfits typical of the era, with oversized hairstyles, leg warmers, and bright accessories. The background showcases rolling sand dunes under a dramatic sunset, with hues of orange, purple, and pink lighting up the sky. Incorporate retro-style typography for the movie title at the top, with a slight glow effect, and include additional text for taglines at the bottom. The overall composition should convey a sense of energy, excitement, and nostalgia, channeling the iconic aesthetics of 1980s cinema.
+Seed: 1310540801
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dance, Desert

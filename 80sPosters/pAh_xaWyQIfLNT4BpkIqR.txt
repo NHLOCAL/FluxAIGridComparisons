@@ -1,0 +1,4 @@
+Prompt: Design a vibrant 1980s movie poster featuring a heroic protagonist in a leather jacket, sporting big hair and sunglasses, striking a dynamic pose. The protagonist stands confidently in the foreground against a neon-lit city skyline at twilight, with glowing pink and blue hues. Behind them, a menacing villain appears, cloaked in shadows with glowing red eyes, surrounded by chaos. The title of the film, "Neon Warriors," should be prominently displayed in bold, retro typography at the top, along with the tagline "Fight for the Future!" at the bottom. The overall composition should embody a sense of adventure and excitement, with stylized graphics, dynamic action elements, and a slightly grainy film texture to evoke the essence of classic 80s cinema.
+Seed: 1816835491
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Diner, Illusion

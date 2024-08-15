@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Result Authority." Central to the design is a bold, stylized title in retro font, with neon colors like hot pink and electric blue. The background features an urban cityscape at twilight, with glowing skyscrapers and a dramatic sunset in shades of purple and gold. 
+
+In the foreground, depict a confident, heroic character wearing a leather jacket and aviator sunglasses, holding a futuristic gadget in one hand, and a determined expression on their face. To one side, a sleek motorcycle parked on the street adds a sense of action. The other side features a shadowy figure looming in the background, hinting at the impending conflict. 
+
+The poster should include vintage design elements like lens flares, geometric shapes, and a tagline at the bottom reading "Success has a price." Use a glossy finish to enhance the retro aesthetic, and ensure the overall composition captures the thrilling tone typical of 1980s action films.
+Seed: 3840850288
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Result, Authority

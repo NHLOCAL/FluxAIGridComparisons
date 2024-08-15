@@ -1,0 +1,6 @@
+Prompt: A vibrant 1980s movie poster featuring a group of four diverse, heroic characters standing back-to-back in dynamic poses. The central figure is a charismatic male with a leather jacket and sunglasses, wielding a futuristic laser gun. Beside him is a fierce female warrior with vibrant, neon armor, brandishing a sword that glows with electric energy. To the left, a wisecracking comic relief character with a quirky hairstyle holds a quirky gadget, and on the right, a mysterious figure cloaked in shadows clutches a shimmering crystal. 
+
+The background is an explosive mix of neon colors, with geometric shapes and retro-style patterns, reminiscent of classic arcade games. The title of the movie is displayed in bold, retro typography at the top, with a tagline that captures the essence of adventure. The overall composition is filled with action lines and visual energy that draw the eye, creating a sense of excitement and nostalgia. The lighting is dramatic, highlighting the characters and enhancing the vibrant colors that define the 1980s aesthetic.
+Seed: 2969316577
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sight, Change

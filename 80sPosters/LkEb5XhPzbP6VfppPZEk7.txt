@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s movie poster featuring a dynamic group of diverse characters standing heroically against a fiery sunset backdrop. The central character, a muscular action hero with a bandana, is wielding a futuristic laser gun, flanked by a fearless female warrior clad in a sleek leather outfit, showcasing her fierce expression and combat stance. A quirky sidekick, sports a bright-colored tracksuit and oversized sunglasses, adding a touch of humor. 
+
+In the background, a menacing hovercraft hovers above a futuristic city skyline with neon lights and towering buildings. The sky is filled with dramatic cloud formations, contrasting shades of orange, purple, and blue, typical of the era's aesthetic. 
+
+The title of the movie is prominently displayed at the bottom in a bold, neon font, framed by glowing stars and geometric shapes that evoke a retro vibe. The overall composition exudes a sense of adventure, excitement, and nostalgia, creating an iconic 1980s cinematic atmosphere. Retro art style, bright color palette, dramatic lighting, and eye-catching visuals for a classic action-adventure theme.
+Seed: 541481651
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Morning, Selection

@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Fulfillment." The central focus is a heroic character standing confidently atop a hill, bathed in warm sunset colors of orange, pink, and purple. The character is dressed in iconic 80s fashion, featuring a leather jacket, denim jeans, and aviator sunglasses. Below the hill, a bustling city skyline can be seen, illuminated with neon lights, showcasing a mix of retro skyscrapers and vintage cars on the streets.
+
+In the foreground, a group of diverse friends is gathered around a classic convertible, laughing and enjoying their time together, with playful poses that capture the essence of friendship. The title "Fulfillment" is emblazoned in bold, stylized lettering at the top, with a tagline underneath reading, "Together, they chase the dream." 
+
+The overall style is reminiscent of classic 80s action-comedy posters, with dramatic lighting and a touch of nostalgia. The vibrant color palette should reflect the lively spirit of the era, and the entire scene should evoke a sense of adventure, fun, and camaraderie. Include starbursts and dynamic lines in the background to enhance the retro feel.
+Seed: 1978087301
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fulfillment, Mass

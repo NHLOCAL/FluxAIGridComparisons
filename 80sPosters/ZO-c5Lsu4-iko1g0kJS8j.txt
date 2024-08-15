@@ -1,0 +1,6 @@
+Prompt: Create a vintage 1980s movie poster featuring a dramatic scene with two main characters standing at opposite ends of a futuristic barrier. The first character is a heroic figure, clad in a dark leather jacket with a determined expression, wielding a high-tech gadget. The second character is a formidable antagonist, dressed in sleek, silver armor, exuding an air of menace. The barrier between them is a glowing, translucent wall, showcasing intricate patterns and circuitry. 
+
+The background is a vibrant cityscape bathed in neon colors and dotted with futuristic skyscrapers, all under a moody, purple-hued sky. Stylized font at the top boldly announces the film title "EMPIRE" and below it, in smaller print, "BARRIER." The overall composition captures the essence of a thrilling sci-fi adventure, with electric blues, vivid pinks, and bold contrasts. Add lens flare effects and dramatic lighting to enhance the cinematic feel, making it a captivating homage to 1980s movie art.
+Seed: 2914101408
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Empire, Barrier

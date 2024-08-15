@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Project Era." The central focus should be a group of heroes, each representing a different iconic 80s style — think bright neon colors, big hairstyles, and classic accessories. They should be posed heroically in the foreground, with determined expressions and strong stances. The background features a retro-futuristic city skyline with neon lights, flying cars, and a colorful sunset, reflecting an inspiring yet slightly dystopian ambiance. 
+
+Incorporate elements like VHS tapes, cassette players, and classic arcade game references subtly in the background to enhance the nostalgic vibe. The title "Project Era" should be displayed in bold, stylized typography that captures the essence of the 80s design. The overall composition should be bright, energetic, and filled with fun patterns and geometric shapes common to the era, embodying the spirit of adventure and camaraderie typical of classic 80s films. Use high saturation colors and dramatic lighting to give the poster a striking, eye-catching finish., vibrant, retro, illustration, cinematic, best quality.
+Seed: 591894377
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Project, Era

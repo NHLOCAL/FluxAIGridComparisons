@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of metal band members standing triumphantly on a rocky cliff at sunset. The band should consist of four members: one with long flowing hair and a leather jacket adorned with spikes, another with a mohawk and a guitar slung over his shoulder, a bassist wearing sunglasses and a colorful tank top, and a drummer with bandana and ripped jeans, holding drumsticks. 
+
+Behind them, a neon-colored sky transitions from deep orange to purple, with stylized lightning bolts arcing through the clouds. In the foreground, a roaring crowd holds up their hands, silhouettes against the bright backdrop. 
+
+The title, “Metal Development,” is emblazoned at the top in bold, metallic font with a chrome finish, reflecting the vibrant colors around it. The overall style should have a retro feel, incorporating flashy graphics, dramatic lighting effects, and a sense of energy and excitement typical of 1980s movie posters.
+Seed: 4000112334
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Metal, Development

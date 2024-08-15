@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of diverse characters posed heroically in a dramatic night-time cityscape. The central figure is a futuristic warrior clad in metallic armor with neon accents, wielding an oversized laser sword. To the left, a fearless female hacker with a vibrant pink mohawk is hunched over a glowing laptop; her attire is a mix of leather and colorful retro fashion. To the right, an athletic mechanic with oversized goggles holds a wrench, while a robotic dog stands beside him, illuminated by city lights. 
+
+The background showcases a sprawling skyline adorned with neon signs, flying cars, and a large, glowing moon casting a bluish hue. An electrifying gradient of purples, pinks, and blues fills the sky, enhancing the retro-futuristic vibe. The title of the movie is emblazoned in bold, flashy typography at the bottom, accompanied by taglines in smaller fonts. The overall atmosphere is energetic, emphasizing action, adventure, and retro aesthetics, with pixelated patterns and playful visual elements paying homage to classic 80s films.
+Seed: 1650525575
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vigor, Amulet

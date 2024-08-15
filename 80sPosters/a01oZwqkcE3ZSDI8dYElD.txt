@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster inspired by the themes of a high school setting and the concept of a witness. The central focus should be a group of diverse high school students engaged in a tense but engaging discussion, representing various cliques such as jocks, nerds, and goths. The characters should be depicted in exaggerated poses, emphasizing drama and camaraderie, with bold 80s fashion such as neon colors, oversized jackets, and distinctive hairstyles. 
+
+The background should include iconic elements of a school environment, such as lockers, a chalkboard with chaotic notes, and a bustling hallway. The title "Witness" should be prominently displayed at the top in a retro font, with vibrant colors and metallic effects, capturing the essence of 80s design.
+
+The overall lighting should be dramatic, with a slight lens flare effect, giving an energetic and nostalgic feel. The color palette should be vivid and saturated, including electric blues, pinks, and yellows, evoking the essence of 80s pop culture. Art style should emulate classic poster illustrations reminiscent of that decade, with dynamic composition and an engaging atmosphere that draws the viewer in.
+Seed: 1852540457
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: School, Witness

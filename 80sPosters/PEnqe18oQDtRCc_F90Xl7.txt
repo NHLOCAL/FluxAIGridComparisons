@@ -1,0 +1,6 @@
+Prompt: A visually striking 1980s movie poster featuring a group of diverse adventurers standing confidently atop a rocky cliff against a surreal, vibrant sunset. The characters include a rugged hero with a leather jacket and aviator sunglasses, a daring female warrior with a flowing cape and a bow, a quirky sidekick in colorful attire, and a wise old guide holding a mystical map. 
+
+In the background, a sprawling, fantastical oasis teems with lush palm trees, glistening waters, and exotic flora under the glowing sky filled with vivid shades of orange, pink, and purple. Stylized fonts showcase the title "Ideal Oasis" in bold, retro typography, complete with neon accents. The lighting is dramatic, casting long shadows and highlighting the characters’ features, creating a sense of adventure and nostalgia. The overall art style is reminiscent of classic action-adventure films from the 1980s, with a touch of whimsy and vibrant color saturation, perfectly capturing the essence of the era.
+Seed: 3398717382
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ideal, Oasis

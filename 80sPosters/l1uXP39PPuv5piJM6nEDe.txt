@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster inspired illustration featuring a group of four diverse heroes in dynamic action poses. Each character should showcase distinct retro fashion styles, such as neon-colored outfits, high-top sneakers, and sunglasses. The background consists of a colorful city skyline at sunset, with dynamic geometric shapes and abstract patterns that capture the essence of the 80s aesthetic. 
+
+Include elements like vintage vehicles speeding down the street, palm trees lining the roads, and neon light accents creating a nostalgic atmosphere. The title of the movie should be prominently displayed in bold, stylized lettering at the top, adorned with retro effects. Add details like a glowing sunset, exaggerated shadows, and lens flares for a cinematic feel. The overall color palette should include bright pinks, electric blues, and vibrant yellows to reflect the playful and adventurous spirit of the era. Make sure the characters have distinct expressions of determination and camaraderie, depicted from a slightly tilted angle for added dynamism.
+Seed: 2921416009
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Breathtaking, Likelihood

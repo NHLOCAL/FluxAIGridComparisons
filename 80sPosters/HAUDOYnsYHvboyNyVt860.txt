@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Serenity." The poster features a futuristic city skyline illuminated by a captivating sunset, with neon lights reflecting off the sleek glass buildings. In the foreground, depict a diverse group of heroes, each with distinct styles reminiscent of 80s fashion: bright colored jackets, headbands, and sunglasses. They strike dynamic poses, exuding confidence and camaraderie.
+
+The central figure holds a glowing crystal that emits rays of light, symbolizing hope and illumination. In the background, soft pastel clouds blend into the vibrant oranges and purples of the sunset, enhancing the serene yet adventurous theme. The title "Serenity" is bold and stylized in a retro font, with the tagline “Illuminate Your Future” positioned just below it. The overall aesthetic should be colorful, dramatic, and eye-catching, capturing the essence of classic 80s movie posters, with a focus on action, teamwork, and optimism.
+Seed: 1064083227
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Serenity, Illumination

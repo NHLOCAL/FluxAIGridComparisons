@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a retro-futuristic city skyline at sunset, with neon-colored buildings reflecting hues of pink, purple, and orange. In the foreground, a heroic figure wearing an electric blue leather jacket and sunglasses stands confidently, holding a glowing laser gun. The figure's hairstyle is reminiscent of the period, with voluminous hair styled high. Surrounding the figure are iconic elements of the 80s, such as cassette tapes, boomboxes, and flying cars zipping through the sky. The title of the movie, in bold, stylized font, is emblazoned at the top, with an explosion graphic framing it. The overall composition has a grainy texture typical of vintage posters, and the lighting is dramatic with high contrast to emphasize the neon colors, creating a nostalgic yet adventurous atmosphere.
+Seed: 3271187571
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Splendid, Past

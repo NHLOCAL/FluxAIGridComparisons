@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster featuring a fearless female hero standing confidently against a retro city skyline at sunset. The hero has a determined expression, wearing a bright neon-colored jacket and high-waisted jeans. Her hair is styled in big, voluminous curls typical of the era, adorned with scrunchies. 
+
+In the foreground, include a classic convertible car with its top down, parked beside the hero. Surround the scene with retro neon signs and palm trees swaying in the breeze. The sky transitions from orange to pink with dramatic clouds, capturing the essence of a lively sunset.
+
+In the background, add silhouettes of skyscrapers, emphasizing the urban setting, and highlight the title of the movie in bold, stylized typography reminiscent of 1980s action films. 
+
+Use a color palette rich in vibrant blues, pinks, and yellows, invoking a sense of adventure and nostalgia. The overall composition should radiate the energetic and adventurous spirit of classic 80s cinema, filled with dynamic angles and eye-catching graphics.
+Seed: 1703249070
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ideal, Authority

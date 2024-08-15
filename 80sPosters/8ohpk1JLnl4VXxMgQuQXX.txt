@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring an adventurous hero with an iconic mullet hairstyle, wearing a colorful windbreaker and sunglasses. The hero stands boldly in the foreground, holding a futuristic weapon. Behind him, a retro city skyline is bathed in neon colors, with flickering lights and towering skyscrapers. 
+
+In the background, a mysterious villain lurks in the shadows, partially obscured by a dense fog, with a menacing expression. The sky is a dramatic gradient of purple and orange, indicating twilight. Large, stylized block text at the top reads the movie title in a retro font, while taglines are written in smaller text at the bottom. 
+
+The overall composition should emulate the classic 1980s design style, featuring exaggerated perspectives, highly saturated colors, and a nostalgic feel. This cinematic poster captures the essence of adventure, excitement, and the unique flair of the 1980s film aesthetic.
+Seed: 3854926310
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alchemist, Firewall

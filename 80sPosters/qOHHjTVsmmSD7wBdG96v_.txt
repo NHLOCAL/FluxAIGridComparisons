@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant 1980s movie poster for a fictional film titled "Mastery." The poster features a dynamic, muscular hero in a bright, neon tracksuit striking a dramatic pose, with one arm raised as if ready to fight. Surround the hero with a diverse cast of characters, including a tech-savvy sidekick with oversized glasses and a daring love interest with big hair and bold makeup. The background is filled with geometric shapes and stylized cityscape silhouettes, glowing in shades of pink, blue, and green, typical of the 80s aesthetic. The title "Mastery" is prominently displayed at the bottom in a retro, bold font with a glossy finish. The lighting is vibrant, casting bright reflections, and the overall composition exudes energy and adventure, reminiscent of classic action films from the decade.
+Seed: 2349160317
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fiction, Mastery

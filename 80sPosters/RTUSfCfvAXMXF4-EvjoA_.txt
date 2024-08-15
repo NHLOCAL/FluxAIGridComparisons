@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Cry, Serenity." The poster should feature a striking central image of a young woman with big, defined hair and bold, colorful makeup, reminiscent of the 1980s pop culture. She wears a stylish, oversized jacket adorned with geometric patterns, and dramatic expressions on her face suggest a sense of urgency and determination.
+
+The background should have a retro aesthetic, showcasing a neon-lit cityscape with eye-catching colors like electric blue, hot pink, and bright yellow. Incorporate elements such as cassette tapes, boomboxes, and classic cars to evoke the era's vibe. The title "Cry, Serenity" should be displayed at the bottom in a gritty, bold font, reminiscent of classic action films, illuminated with a glowing effect.
+
+Overall, the composition should have a slightly grainy texture, mimicking the feel of an old movie poster, with a dramatic color palette that captures the essence of the 1980s cinematic style. Emphasize dynamic angles, contrasting shadows, and highlights to create an eye-catching vintage appeal.
+Seed: 3094335031
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cry, Serenity

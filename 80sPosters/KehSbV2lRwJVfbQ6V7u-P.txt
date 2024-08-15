@@ -1,0 +1,8 @@
+Prompt: Design a vibrant 1980s movie poster featuring a heroic character, a muscular man in a bright red leather jacket wielding a futuristic laser gun. His hair is styled in a classic 80s mullet, and he's striking a dynamic pose against a neon backdrop filled with geometric shapes and pastel colors. The skyline of a retro-futuristic city with glowing skyscrapers glimmers behind him. 
+
+In the bottom corner, place an iconic 80s car, sleek and glossy, with neon underglow lighting. The font for the movie title should be bold and angular, with a metallic sheen, reflecting the era's design trends. Surrounding the character, include shadows of mysterious villains and intersecting laser beams, enhancing the action theme. The overall feel should be nostalgic and energetic, reminiscent of classic action-adventure films from the 1980s. 
+
+Use dramatic lighting with bright contrasts, emphasizing the character's heroic stance. The poster should capture the essence of 80s aesthetics with a retro-futuristic vibe, aiming for a cinematic quality suitable for a blockbuster movie.
+Seed: 2467148054
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Faith, Shrine

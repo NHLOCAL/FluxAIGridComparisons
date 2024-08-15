@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s movie poster titled "Terminal," featuring an adventurous scene set in a bustling airport terminal. The foreground showcases a diverse group of travelers, each displaying distinct, retro fashion typical of the 1980s, including high-waisted jeans, colorful windbreakers, and bold accessories. In the background, the terminal is alive with neon signs, vintage flight departure boards, and a bustling crowd moving in various directions. 
+
+Cinematic lighting bathes the scene in a warm golden hue, reminiscent of sunset, adding a nostalgic feel. The title "Terminal" is emblazoned at the top in large, stylized, block letters typical of the era, with a tagline below that teases the adventure to unfold. The composition is dynamic, showcasing a sense of movement, with a plane visible through the large glass windows, hinting at the journey that awaits. The poster captures the excitement and essence of adventure, tinged with the unique flair of 1980s design. 
+
+Art style inspired by classic movie posters of the 80s, illustration, high contrast, bold colors, and nostalgic aesthetics.
+Seed: 835399830
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Terminal, Adventure

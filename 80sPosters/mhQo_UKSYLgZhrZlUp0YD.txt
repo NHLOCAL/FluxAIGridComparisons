@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Injustice, Method." The poster features a dynamic, action-packed scene with a rugged hero in a leather jacket, wielding a futuristic weapon, standing defiantly in the foreground. His hair is styled in an exaggerated mullet typical of the era, and he has a fierce expression. 
+
+In the background, a city skyline is illuminated at dusk, with neon lights and dark clouds hinting at chaos and danger. An imposing, shadowy villain lurks behind the hero, partially obscured by smoke and dramatic lighting, wearing a metallic helmet and a menacing grin. 
+
+The title "Injustice, Method" is prominently displayed at the bottom in bold, stylized lettering, dripping with metallic textures. Include retro design elements, such as geometric shapes and splashes of vibrant colors like electric blue, hot pink, and neon green. The overall atmosphere should evoke the classic action and adventure of 1980s cinema, with a slightly retro grain filter applied for authenticity.
+Seed: 2041626757
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Injustice, Method

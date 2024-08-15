@@ -1,0 +1,8 @@
+Prompt: A vibrant 1980s-style movie poster featuring a diverse ensemble of characters set against a fantastical sci-fi backdrop. The poster prominently displays a heroic figure in a sleek, silver spacesuit with a reflective visor, wielding a glowing laser sword. To their left, a quirky inventor with wild hair and oversized glasses holds a futuristic gadget, while to their right, a fierce warrior clad in colorful armor is poised for action. 
+
+In the background, a cosmic landscape features swirling galaxies and bright, neon-colored planets, casting a radiant glow over the scene. Iconic retro elements such as floating cassette tapes and vintage arcade machines subtly populate the environment to enhance the nostalgic feel. The title "Today, Stars" is emblazoned at the top in bold, stylized typography with a glowing gradient effect reminiscent of 80s action films. 
+
+The lighting is bright and colorful, showcasing a palette rich in purples, blues, pinks, and yellows, evoking the playful and adventurous spirit of the decade. The overall composition has a dynamic, exciting layout with an exaggerated sense of perspective, capturing the essence of classic 1980s movie posters.
+Seed: 814237541
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Today, Stars

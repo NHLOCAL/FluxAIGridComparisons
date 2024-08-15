@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Edifice, Gaze." The poster should feature a towering, imposing skyscraper with a sleek, glass facade, reflecting neon colors of pink, blue, and purple typical of retro futuristic design. In the foreground, a character with stylish 80s attire — a leather jacket, high-waisted jeans, and sunglasses — gazes up at the skyscraper with a look of determination. 
+
+The background should display a dramatic sunset, casting long shadows across the city streets and enhancing the vibrant colors of the poster. Bold, stylized typography for the title "Edifice, Gaze" should be prominently displayed at the top, along with a tagline in smaller text at the bottom. The overall style should be reminiscent of classic action-adventure films from the 1980s, with sharp lines, exaggerated features, and a sense of intensity and excitement. Ensure the poster's composition captures the edgy vibe of the era, making it both eye-catching and memorable.
+Seed: 707018037
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Edifice, Gaze

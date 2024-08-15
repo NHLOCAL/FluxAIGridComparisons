@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a classic retro action hero in a leather jacket, striking a powerful pose with a neon city skyline in the background. The hero is holding a laser gun, adorned with colorful geometric shapes and patterns around him. The color palette should include bold neon pinks, blues, and greens, reminiscent of 80s aesthetics. An electric sunset bathed in purple and orange hues casts a dramatic glow over the scene. The title of the movie, in stylized retro font, should be prominently displayed at the bottom, with a tagline beneath it. The overall composition should evoke a sense of adventure and excitement, capturing the essence of the era’s iconic action films, with a glossy finish and vibrant colors.
+Seed: 3916613664
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yellow, Influence

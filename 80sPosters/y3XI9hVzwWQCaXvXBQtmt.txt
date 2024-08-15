@@ -1,0 +1,8 @@
+Prompt: Create a striking 1980s movie poster for a fictional film titled "Shift." The poster features a vibrant, colorful landscape of an enchanted garden bursting with oversized flowers, lush greenery, and whimsical elements like glowing butterflies and swirling fog. Prominently displayed in the foreground is a heroic figure, dressed in retro, stylish clothing typical of the 1980s, with determined expression and dynamic pose. 
+
+The background features a dark, starry sky that transitions into a twilight gradient, enhancing the dreamy atmosphere. The film title "Shift" is boldly emblazoned at the bottom in stylized, neon typography, reflecting the iconic design aesthetics of the period. Soft rays of light filter through the colorful foliage, creating an enchanting and inviting ambiance that beckons the viewer into the magical world. 
+
+The overall composition should evoke a sense of adventure and wonder, combining elements of fantasy with classic 1980s cinema flair, accompanied by a tagline like "Uncover the secrets within..." at the top of the poster. The art style should resemble traditional hand-drawn illustrations, capturing the nostalgic feel of 1980s movie memorabilia.
+Seed: 137367449
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shift, Garden

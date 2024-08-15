@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a magical Griffin soaring majestically through a colorful sunset sky. The Griffin, with its majestic wings spread wide, should have a lavish plumage featuring gold, bronze, and deep hues of purple and blue. Below, a retro-style cityscape is depicted, with neon lights and vintage cars on the streets, capturing the essence of the era. The title of the movie should be prominently displayed in bold, stylized typography at the top, featuring electric colors typical of 80s design. Incorporate playful details such as stars and sparkles around the Griffin, giving it a whimsical, adventurous feel. The overall composition should be reminiscent of classic fantasy films from the 1980s, with a slightly grainy texture to enhance the nostalgic vibe.
+Seed: 185273456
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Griffin, Past

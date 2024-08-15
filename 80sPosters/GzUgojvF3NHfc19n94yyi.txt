@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a menacing gargoyle perched on a stone ledge overlooking a mystical grove at night. The gargoyle, with intricate details revealing its weathered stone texture and fierce expression, is illuminated by moody neon lighting that reflects shades of deep purple and teal. The background showcases a lush, enchanted grove, filled with oversized flora and mysterious glowing orbs hanging from the trees, casting an ethereal glow. The title of the movie, "Gargoyle: Guardian of the Grove," is boldly displayed at the bottom in retro font, while dramatic rays of light radiate from the gargoyle, highlighting its imposing presence. The overall composition should embody the stylized aesthetics of 1980s action-adventure films, complete with action-packed vibes and a sense of intrigue.
+Seed: 1943314643
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gargoyle, Grove

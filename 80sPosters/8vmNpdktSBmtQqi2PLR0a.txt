@@ -1,0 +1,10 @@
+Prompt: A vibrant 1980s movie poster featuring a dynamic urban landscape infused with elements of both work and poverty. In the foreground, a determined protagonist, dressed in typical 1980s fashion with a denim jacket, is seen hustling on a bustling city street. Surrounding them are various characters representing different facets of working life: a factory worker, a street vendor, and an office worker, all in bold, chunky styles typical of the era. 
+
+The background showcases towering skyscrapers juxtaposed with dilapidated buildings, illustrating the stark contrast between wealth and hardship. Neon signs flicker with bright colors of pink, blue, and yellow, capturing the essence of the 1980s aesthetic. 
+
+The title of the movie is emblazoned across the top in large, stylized, retro lettering with a slight glow effect. The lighting is high contrast, with dramatic shadows emphasizing the characters' expressions filled with determination against the backdrop of a setting sun. 
+
+Overall, the composition exudes a sense of grit and determination, representative of the struggles and tenacity of working-class life in an urban environment, rendered in a nostalgic, cinematic style reminiscent of classic 1980s films.
+Seed: 3481737262
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Work, Poverty

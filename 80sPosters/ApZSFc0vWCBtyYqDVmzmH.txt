@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster for a film titled "Bonding." The poster features a large, stylized title in bold, neon lettering with a glowing effect, prominently placed at the top. In the center of the composition, depict a diverse group of four friends, clad in colorful retro outfits typical of the 80s, sharing laughs and joy in a bustling hall setting filled with disco lights and geometric patterns. Each character should express a sense of camaraderie and adventure. 
+
+The background captures the essence of an energetic 1980s party scene, with shimmering disco balls and colorful lights sparkling throughout the hall. Incorporate soft, warm lighting that highlights the characters and adds a nostalgic feel. The lower section of the poster can showcase smaller action scenes or fun moments from the film, featuring roller skating, arcade games, and dance floors.
+
+Overall, ensure the color palette is bright and bold, with a blend of pinks, blues, and yellows typical of 1980s aesthetics. The overall style should evoke a sense of excitement and nostalgia, reminiscent of classic 80s movie posters, creating an inviting atmosphere for viewers.
+Seed: 1523461319
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bonding, Hall

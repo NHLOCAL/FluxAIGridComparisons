@@ -1,0 +1,4 @@
+Prompt: Create a retro 1980s movie poster featuring a heroic character in a leather jacket, sporting big hair and sunglasses. The character stands boldly in the foreground, wielding a futuristic weapon that emits colorful beams of light. Behind them, depict a neon-lit cityscape with towering skyscrapers and a bright sunset casting a warm glow over the scene. Add stylized elements like geometric shapes and dynamic lines that capture the essence of 80s design. Include a bold, vintage font at the top displaying the movie title, and a tagline at the bottom. The overall color palette should feature vibrant neon colors such as hot pink, electric blue, and bright yellow, enhancing the nostalgic vibe. The lighting should be dramatic, emphasizing the character's stance and the energetic atmosphere, evoking the adventurous spirit of classic action films from the era. 
+Seed: 939472585
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Recognition, Witch

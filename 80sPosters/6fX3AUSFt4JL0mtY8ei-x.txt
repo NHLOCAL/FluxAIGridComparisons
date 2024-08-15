@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster for a film titled "Murmur: Specter." The poster features a shadowy, ghostly figure draped in flowing, translucent fabric, with swirling energy emanating around it, creating an eerie yet captivating presence. The figure stands in a dramatic pose, partially silhouetted against a backdrop of a misty, moonlit forest filled with thick fog and dark, towering trees. Neon colors such as electric blue, hot pink, and vivid purple dominate the scene, adding to the retro aesthetic. 
+
+The title "Murmur" is prominently displayed at the top in bold, stylized font reminiscent of 80s horror films, with the word "Specter" in a slightly smaller size beneath it, glowing like a spectral light. The lighting is dramatic and low-key, casting long shadows and highlighting details in the fabric of the ghostly figure, with ethereal beams of light cutting through the mist. Incorporate elements like a vintage film strip border and a tagline at the bottom that reads, "What whispers in the dark will haunt forever." The overall composition should evoke nostalgia while maintaining a sense of mystery and intrigue, typical of classic horror films from the 80s.
+Seed: 886683073
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Murmur, Specter

@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster featuring the title "Merit Hearing" at the top in bold, retro font. The central image should showcase a determined female protagonist, wearing a neon-colored jacket and high-waisted jeans, standing confidently with a futuristic audio device in her hand. Surround her with nostalgic elements like cassette tapes, boomboxes, and vibrant geometric shapes, all in bright colors such as electric blue, hot pink, and neon green.
+
+In the background, depict a stylized city skyline at sunset with yellow and orange hues, integrating dynamic elements like flying cars or neon-lit signs to enhance the retro futuristic feel. The lighting should have a glowing, ethereal quality, reflecting the energetic and adventurous tone of the film. Add a tagline at the bottom in a sleek, italicized font that reads, "Listen to the Future!" 
+
+The overall design should evoke the essence of classic 80s cinema, with high contrast and a playful, adventurous atmosphere.
+Seed: 210441689
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Merit, Hearing

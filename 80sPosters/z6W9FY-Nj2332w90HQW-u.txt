@@ -1,0 +1,8 @@
+Prompt: Create an illustration of a vibrant 1980s movie poster featuring a group of diverse, heroic characters standing together against a neon-lit city skyline. The main character, a rugged hero with tousled hair and a leather jacket, stands prominently in the center, wielding a futuristic weapon. To his left, a fierce female warrior in a colorful jumpsuit brandishes a glowing sword, while to his right, a comical sidekick in oversized sunglasses holds a gadget with a quirky expression. 
+
+The background showcases a retro-futuristic city filled with towering skyscrapers, vintage cars, and bright neon lights in shades of pink, blue, and green, capturing the essence of 1980s synthwave style. The sky is filled with dramatic, colorful clouds, and a large moon is positioned on the horizon, adding to the cinematic atmosphere. 
+
+The title of the movie, in bold, stylized typography, arcs across the top, glowing in neon colors. The overall piece should convey a sense of adventure and excitement, with sharp contrasts between dark shadows and vibrant highlights, emphasizing the retro aesthetic and action-packed theme.
+Seed: 2897718271
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Journey, Faithfulness

@@ -1,0 +1,8 @@
+Prompt: Create a retro-style 1980s movie poster featuring a heroic figure standing triumphantly at the forefront. The character, a muscular man with a mullet hairstyle and wearing a leather jacket, holds a fiery explosion in one hand while gripping a futuristic weapon in the other. His expression exudes confidence and determination. 
+
+In the background, depict a colorful city skyline at sunset, with neon-lit skyscrapers and flying cars. Surround the character with dynamic, action-packed scenes of chaos and adventure, such as explosions, sleek motorcycles, and a hoverboard. The color palette should be vibrant and bold, incorporating electric blues, hot pinks, and fiery oranges to capture the essence of the era.
+
+Include the title of the movie at the bottom in a stylized font reminiscent of 1980s action films, with a tagline beneath it. The overall design should evoke a sense of nostalgia and excitement, emulating the iconic style of classic 80s action movie posters. 
+Seed: 913043915
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Self, Headquarters

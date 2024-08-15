@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster featuring a charismatic protagonist: a young, stylish man with tousled hair, wearing a colorful denim jacket adorned with patches and oversized sunglasses. He stands confidently in the foreground, with a playful grin on his face, framed by neon lights. Behind him, a retro cityscape is illuminated by vivid pinks, blues, and purples, depicting bustling streets with vintage cars and lively pedestrians.
+
+The title of the movie, "Fetching," is boldly designed in eye-catching, dramatic typography at the top, featuring a gradient color scheme that reflects the vibrant aesthetic of the era. To enhance the nostalgic feel, incorporate iconic 80s elements such as cassette tapes and boomboxes scattered throughout the scene. The lighting should evoke a sense of adventure and excitement, with rays of neon light creating a dynamic atmosphere. Overall, the poster should embody the energetic and flamboyant spirit of the 1980s cinema, inviting viewers into a fun and fantastical world.
+Seed: 3538994159
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Era, Fetching

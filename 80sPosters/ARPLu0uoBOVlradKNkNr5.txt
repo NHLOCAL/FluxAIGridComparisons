@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster for a fictional film titled "Vision." The poster should feature a central character dressed in classic 80s attire, such as a leather jacket and brightly colored sunglasses, striking a confident pose. The character should have an intense expression, as if brimming with determination. In the background, depict a stylized rural landscape, with rolling hills and a picturesque sunset casting warm, golden hues across the sky. 
+
+Include elements that evoke a sense of adventure and exploration, such as a classic motorcycle parked nearby and a faint silhouette of a mountain range. Use bold typography for the title "Vision," emphasizing the retro font characteristic of the 1980s, with stars and sparkles surrounding it. The colors of the poster should be vibrant and saturated, using a palette of blues, pinks, and yellows to capture the nostalgic essence of the decade. The overall composition should exude a sense of excitement and anticipation, reminiscent of adventure films from the era.
+Seed: 3692874512
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vision, Country

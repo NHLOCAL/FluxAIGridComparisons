@@ -1,0 +1,6 @@
+Prompt: Create a vibrant 1980s movie poster titled "Illusion: Transformation". The central image features a charismatic magician in a flamboyant costume, with a top hat and glittering cape, casting a spell that creates swirling colorful lights around him. The background showcases a mystical landscape filled with enchanting illusions, such as floating playing cards, a vanishing rabbit, and a dramatic lightning bolt illuminating the sky. 
+
+Include a mysterious figure appearing from a cloud of smoke, symbolizing transformation, with striking makeup and a captivating expression. The color palette should be bold and saturated, featuring neon pinks, purples, and blues, evoking the iconic style of the 1980s. The title "Illusion: Transformation" should be prominently displayed at the bottom in an eye-catching, retro font, with a subtle glow effect. The poster should radiate a sense of magic and excitement, capturing the essence of a fantastical adventure in a nostalgic cinematic style. Include dramatic lighting and a classic film grain texture to enhance the vintage feel.
+Seed: 1184544274
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Illusion, Transformation

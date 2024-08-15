@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s movie poster featuring a charismatic male lead with slicked-back hair and an extravagant suit, exuding confidence and charm. He stands in a dynamic pose, one hand on his hip and the other holding a vintage microphone, capturing the essence of the era. The background is a dazzling city skyline at sunset, with neon lights beginning to glow, creating a lively atmosphere. Bright pastel colors dominate the poster, featuring bold geometric shapes and lines typical of 80s design. The title “TALENT” is displayed prominently in a stylish, retro font with a glimmering effect. The tagline below reads “Seductive Vibes, Unforgettable Nights,” encapsulated in a playful script. The overall composition is energetic, playful, and dripping with nostalgia, embodying the quintessential 80s movie aesthetic.
+Seed: 1981649986
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Talent, Seductive

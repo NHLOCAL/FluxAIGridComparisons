@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s movie poster titled "Donation," featuring a retro-futuristic design. The central character, a confident young woman with big hair and colorful attire typical of the era, is holding a giant novelty check. She stands on a bustling city street, surrounded by a diverse group of quirky friends, all dressed in 80s fashion. 
+
+The background should display a neon-lit skyline, with bold geometric shapes overlapping in bright pink, blue, and yellow shades, embodying the distinctive graphic style of the time. The title "Donation" should be prominently featured at the top in large, stylized lettering, reminiscent of popular 80s action or comedy films. 
+
+Incorporate elements representing gravity, such as floating objects (e.g., balloons and dollar signs) and a whimsical depiction of a low-gravity environment. The lighting should have a soft glow effect to enhance the nostalgic feel, and the overall composition must evoke a sense of fun, adventure, and the spirit of the 1980s, with a slight humorous undertone.
+Seed: 1770121648
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Donation, Gravity

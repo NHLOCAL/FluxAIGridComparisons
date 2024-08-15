@@ -1,0 +1,10 @@
+Prompt: A vibrant and dynamic 1980s movie poster depicting an action-packed time travel adventure featuring a sleek, futuristic vehicle bursting through a time portal engulfed in flames. The vehicle, designed with retro-futuristic aesthetics, should have chrome accents and neon lights that reflect the vibrant colors of the portal. 
+
+In the foreground, a heroic figure wearing a classic 80s leather jacket and aviator sunglasses stands with one hand on their hip, while the other dramatically points towards the fiery portal. The character's expression is determined and adventurous, embodying the spirit of the era.
+
+The background showcases a swirling vortex of orange and yellow flames seamlessly blending with hues of purple and blue, symbolizing the passage through time. Neon grid lines extend outward from the portal, enhancing the sense of motion and excitement. The overall composition is infused with exaggerated typography reminiscent of 80s film posters, with the title "Timefire Adventures" boldly displayed at the bottom in eye-catching, neon lettering.
+
+The lighting is dramatic, casting sharp shadows and highlighting the bold colors typical of the decade's action films, creating a nostalgic yet captivating atmosphere. The scene should embody the thrill of adventure and the iconic style of 1980s cinema.
+Seed: 1071806993
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fire, Time travel

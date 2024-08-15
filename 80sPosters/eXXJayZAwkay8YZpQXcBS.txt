@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a dynamic action hero in the center, clad in a leather jacket and sunglasses with a confident stance. Surrounding him are retro-futuristic elements like neon lights, a bright moon, and an old-school convertible car. The background includes a sunset skyline of a bustling metropolis with a color palette of pinks, purples, and electric blues, reflecting the bold aesthetics of the '80s. The title of the movie is prominently displayed at the top in an exaggerated, stylized font, reminiscent of classic action films. Incorporate geometric patterns and lens flares to enhance the nostalgic vibe. The overall composition should evoke a sense of adventure and excitement, capturing the spirit of 1980s cinema, designed as a retro-inspired artistic masterpiece.
+Seed: 3215671318
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Iceberg, Photograph

@@ -1,0 +1,10 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of diverse, retro-styled characters positioned dramatically in the foreground. The central character, a heroic young man in a bright leather jacket, wields a gleaming laser gun while striking a heroic pose. Flanking him are a tough female warrior with a wild, neon-colored mohawk, and a quirky, tech-savvy sidekick wearing oversized glasses and holding a futuristic gadget. 
+
+The background showcases a neon cityscape with towering skyscrapers, illuminated in bright pinks, blues, and greens. Above them, a massive, glowing sun sets on the horizon, casting an array of warm colors across the sky. 
+
+In the upper portion of the poster, bold, stylized text announces the title of the movie in flashy, retro typography. The tagline, written in a smaller font, captures the adventurous spirit of the movie. 
+
+The overall composition is enhanced by dynamic action lines and vibrant geometric shapes typical of 80s graphic design, creating a lively and nostalgic atmosphere. The lighting is bright and colorful, emphasizing the characters and their energetic poses, while the aesthetic embodies the classic cinematic flair of the decade.
+Seed: 1740290564
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Astonishment, Diversity

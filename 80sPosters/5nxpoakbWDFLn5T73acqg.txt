@@ -1,0 +1,4 @@
+Prompt: A vibrant 1980s-style movie poster featuring a fearless female action hero in a dynamic pose, brandishing a futuristic weapon. She has big, voluminous hair with brightly colored highlights, wearing a leather jacket adorned with patches and high-waisted jeans. The background showcases a neon-lit city skyline at dusk, with retro sports cars and glowing skyscrapers creating a high-energy ambiance. Bold typography at the top reads "SHE STRIKES BACK!" in an exaggerated font reminiscent of classic action films from that era. Bright colors, such as electric blue, hot pink, and neon yellow dominate the scene, capturing the quintessential 80s aesthetic. The overall composition conveys a sense of adventure, excitement, and nostalgia, styled like a classic blockbuster poster.
+Seed: 1025583063
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Territory, Nation

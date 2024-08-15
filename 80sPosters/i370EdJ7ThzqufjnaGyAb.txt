@@ -1,0 +1,4 @@
+Prompt: Create an 1980s retro-style movie poster for a film titled "Chronicle." The poster should feature a group of four diverse friends standing confidently against a neon-lit city skyline, bathed in vibrant purples and blues. Each character should have unique styles reflective of the 1980s fashion—think colorful windbreakers, high-waisted jeans, and big hairstyles. The background should depict glowing skyscrapers and shooting stars, enhancing the nostalgic sci-fi aesthetic. The title "Chronicle" should be prominently displayed at the bottom in bold, iridescent lettering, with a tagline beneath it in a smaller font. The overall composition should feel dynamic and energetic, representative of adventure and friendship, with soft lighting and slight graininess to evoke the vintage movie poster vibe.
+Seed: 2626575655
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chronicle, Fondness

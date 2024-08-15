@@ -1,0 +1,4 @@
+Prompt: Create an eye-catching 1980s-style movie poster featuring a vibrant warehouse scene. The warehouse should have large, bold graffiti art splashed across the walls, showcasing colorful patterns and abstract shapes. In the foreground, depict a stylish young woman with big hairspray-enhanced hair and retro clothing, striking a confident pose. Surround her with iconic 80s elements like boom boxes and cassette tapes, creating a lively atmosphere. The lighting should be bright and saturated, highlighting neon colors that exude an energetic, nostalgic vibe. The title of the movie, presented in an exaggerated, flashy font typical of the 80s, should be prominently displayed at the bottom, along with whimsical taglines in contrasting colors to enhance the retro aesthetic. The overall design should evoke a sense of fun and adventure, reminiscent of classic 1980s films.
+Seed: 2181587461
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Warehouse, Pretty

@@ -1,0 +1,8 @@
+Prompt: Create a vibrant 1980s-style movie poster for a fictional film titled "Zeal." The poster should feature an intense, muscular hero in a brightly colored leather jacket with dramatic shoulder pads and a stylized mullet hairstyle, striking a heroic pose. In his hand, he holds a futuristic gadget emitting pulsating neon lights. 
+
+In the background, a sprawling cityscape at sunset is bathed in shades of orange and purple, depicting an energetic urban environment with neon signs and classic cars. Floating above the city is a large, stylized signal icon radiating waves of energy in bright, fluorescent colors, adding a sense of urgency to the imagery.
+
+The title "Zeal" should be placed prominently at the bottom in bold, retro-style typography, surrounded by bright, dynamic outlines and a glowing effect. The overall composition should have a grainy texture to mimic the vintage look of 80s film posters, complemented by a dramatic flair typical of that era, with lens flares and starbursts enhancing the energetic atmosphere.
+Seed: 1909539112
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Zeal, Signal

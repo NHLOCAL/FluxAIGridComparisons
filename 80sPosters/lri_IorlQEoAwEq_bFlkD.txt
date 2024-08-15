@@ -1,0 +1,6 @@
+Prompt: Design an image of a vibrant 1980s movie poster featuring a central character named Crystal, a strong and confident young woman. She is dressed in classic 80s attire with bold colors, high-waisted jeans, and oversized accessories, striking a dynamic pose against a colorful, retro city skyline. The skyline is illustrated with neon lights and geometric shapes, embodying the quintessential techno-optimism of the decade. 
+
+Include a stylized title, “Aptitude,” in a bold, eye-catching font at the top, drenched in neon colors that resemble a mix of pink and turquoise. The background features dramatic, sunset hues transitioning into a starry night sky, representing adventure and potential. The overall composition should have hints of grid patterns and chrome elements to emphasize the retro aesthetics, with cinematic lighting that highlights Crystal and gives her an empowered presence. The poster should convey a sense of excitement, action, and a hint of mystery, capturing the quintessential vibe of 1980s cinema.
+Seed: 2799773614
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Crystal, Aptitude

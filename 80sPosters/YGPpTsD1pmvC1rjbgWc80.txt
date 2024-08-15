@@ -1,0 +1,6 @@
+Prompt: Create a retro 1980s movie poster featuring a futuristic cityscape. The scene is set in a vibrant metropolis filled with neon lights and towering skyscrapers. In the foreground, a heroic figure stands poised, with a determined expression, dressed in a sleek, high-tech suit adorned with glowing patterns. The character holds a metal staff, symbolizing balance, raised triumphantly against the backdrop of a setting sun.
+
+Above, the sky is a swirling mix of deep purples and electric blues, peppered with pixelated clouds, adding a nostalgic digital aesthetic. In the background, flying cars zip through the air, while holographic advertisements flicker. The title of the movie is boldly displayed at the top in vintage-style typography, glowing with neon colors. The overall composition should convey a sense of adventure and optimism typical of 80s sci-fi films, with bold colors, dynamic angles, and a cinematic lighting scheme that enhances the energy of the scene.
+Seed: 3261803109
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Future, Balance

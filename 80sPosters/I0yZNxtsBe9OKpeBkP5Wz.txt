@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a group of eclectic heroes standing confidently against a neon-lit city skyline. The central figure is a muscular man with a leather jacket and sunglasses, striking a dynamic pose, flanked by a fierce woman in a colorful jumpsuit holding a boombox. Add a quirky sidekick, a small robot with oversized eyes, perched on the shoulder of the man. The background features towering buildings with bright neon signs, reflecting a retro-futuristic style, and a sunset casting a warm glow. Use bold, stylized typography at the top for the movie title, with tagline at the bottom, all designed in a classic 80s font. Incorporate elements like lightning bolts and cassette tapes in the corners for extra flair, with a color palette rich in hot pinks, electric blues, and vibrant yellows, capturing the essence of 1980s pop culture.
+Seed: 4017698052
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sand, Conflict

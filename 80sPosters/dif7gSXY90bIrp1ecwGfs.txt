@@ -1,0 +1,6 @@
+Prompt: A nostalgic 1980s movie poster design featuring a captivating scene inside a grand museum. The poster showcases a central figure, a charismatic young man dressed in colorful, retro athletic wear, confidently holding a glowing artifact that radiates vibrant, neon colors. Surrounding him are intriguing museum exhibits, including ancient statues and priceless paintings, bathed in dramatic lighting that highlights their details.
+
+The background displays tall marble columns and intricately designed ceilings, capturing the elegance of the museum. A neon grid pattern overlays the bottom edge of the poster, enhancing the retro aesthetic. The title "Attachment" is displayed in bold, stylized lettering at the top, with a tagline below that reads, "Discover the Past, Save the Future!" The overall color palette features rich purples, electric blues, and bright pinks, evoking the vibrant and colorful feel typical of 1980s film art. The composition should convey an exciting sense of adventure, merging the worlds of history and modernity in a cinematic style.
+Seed: 401689452
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Attachment, Museum

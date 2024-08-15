@@ -1,0 +1,8 @@
+Prompt: Create a vibrant and nostalgic 1980s movie poster titled "Earth Lane." The central focus is a retro-styled sports car speeding down a neon-lit highway that stretches infinitely into a colorful sunset, with shades of orange, pink, and purple dominating the sky. The car is sleek and shiny, featuring exaggerated lines characteristic of 1980s design, and showcases bold colors like electric blue and hot pink.
+
+In the foreground, include palm trees silhouetted against the backdrop of the setting sun, creating an iconic Californian vibe. The title "Earth Lane" should be positioned at the bottom, in a dynamic, stylized font reminiscent of classic 1980s films, with a glowing effect emanating from the letters.
+
+The overall composition exudes a sense of adventure and excitement, combining elements of retro aesthetics, cinematic flair, and vibrant colors to capture the essence of the era. The lighting should be warm and inviting, enhancing the nostalgic feel of the artwork, reminiscent of classic movie posters from the 1980s.
+Seed: 4141723173
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Earth, Lane

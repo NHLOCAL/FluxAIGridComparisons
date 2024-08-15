@@ -1,0 +1,4 @@
+Prompt: Create a vibrant 1980s movie poster featuring a charismatic hero with wild, spiked hair and a leather jacket, wielding a futuristic ray gun. The hero stands confidently in the foreground, with a determined expression. In the background, a neon-lit cityscape glows with oversized billboards and flying cars, capturing the essence of retro-futurism. The sky is a gradient of purple and pink, dotted with stars and a large, colorful moon. A group of quirky allies, including a tough female fighter and a comedic sidekick, flank the hero. The title, in bold, flashy typography, arcs across the top of the poster, surrounded by dynamic action lines. Utilize a classic film grain texture and bright, saturated colors to enhance the nostalgic feel of the artwork, reminiscent of iconic 80s sci-fi and action films. 
+Seed: 948568955
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sanctuary, Vow
