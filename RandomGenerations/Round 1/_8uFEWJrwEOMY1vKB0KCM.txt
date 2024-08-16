@@ -1,0 +1,4 @@
+Prompt: A futuristic forest landscape during twilight, illuminated by a bioluminescent emerald glow emanating from the flora. Towering, ethereal trees with translucent leaves stretch towards the sky, their trunks and branches adorned with intricate, glowing patterns. Amidst the trees, humans in sleek, metallic suits engage in a graceful, ballet-like game with luminous orbs that glide and twirl in midair. The background showcases a distant, high-tech cityscape with shimmering, crystal-like structures. The sky is a gradient of deep purple and indigo, peppered with stars and faint silhouettes of flying vehicles. The scene is captured in the style of a hyper-realistic digital painting, with meticulous attention to detail and a vibrant yet harmonious color palette.
+Seed: 4102815631
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Emerald, Play

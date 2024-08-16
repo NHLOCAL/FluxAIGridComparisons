@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk, illuminated by a blend of neon lights and the soft glow of the setting sun. Towering skyscrapers with sleek, reflective surfaces, interspersed with floating gardens and hover vehicles traversing the air. In the foreground, a diverse group of people in avant-garde fashion, engaging in vibrant street markets and tech displays. Background features a skyline with a large, transparent dome encapsulating the city's center, displaying holographic advertisements. The scene is a digital painting with hyper-realistic details, capturing the seamless integration of nature and advanced technology. The lighting portrays a harmonious mix of artificial and natural light, casting long, dramatic shadows and reflections on the glossy surfaces.
+Seed: 1655641165
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fact, Uniqueness

@@ -1,0 +1,4 @@
+Prompt: Create an oil painting of a futuristic landscape dominated by towering crystalline skyscrapers that shimmer in shades of blue and silver under the light of a setting sun. In the foreground, a young woman dressed in vintage 1920s attire stands by an old, rusted car, looking up longingly at the skyline, her hand shielding her eyes. Beside her, a loyal dog sits attentively, gazing up at her. The background consists of a vast, desolate plain, dotted with remnants of buildings from a bygone era. The lighting casts long shadows, with the warm hues of the sunset blending into the cool tones of the approaching twilight, highlighting the contrast between the past and the future.
+Seed: 2809173803
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Loyalty, Yearning

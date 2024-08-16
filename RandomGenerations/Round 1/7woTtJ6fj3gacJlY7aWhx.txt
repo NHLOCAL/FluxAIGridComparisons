@@ -1,0 +1,4 @@
+Prompt: Create a detailed black and white sketch of a futuristic cityscape. In the foreground, three tall, sleek skyscrapers with diamond-shaped patterns on their glass exteriors dominate the skyline. The buildings are interconnected by suspended walkways. Tiny silhouettes of people, some with robotic enhancements, are seen walking on these bridges. In the mid-ground, flying cars with smooth, aerodynamic designs roam the skies, casting intricate shadows on the streets below. The background features a setting sun just barely visible over the horizon, its last rays creating long, dramatic shadows and giving a sense of depth to the scene. The entire sketch emphasizes clean lines and sharp contrasts, capturing a high-tech, meticulously organized world.
+Seed: 2037853011
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sketch, Diamond

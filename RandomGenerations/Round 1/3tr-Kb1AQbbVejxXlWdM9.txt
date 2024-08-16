@@ -1,0 +1,9 @@
+Prompt: A surreal oil painting depicting a whimsical circus event at twilight. In the foreground, three acrobats, two young women and one young man, are mid-air in gravity-defying poses. The first young woman, around 20 years old, has long, flowing red hair and wears a sparkling, emerald-green leotard adorned with silver stars. The second young woman, also around 20, has short, curly black hair and is dressed in a deep purple leotard with golden accents. The young man, around 25, has short brown hair and wears a royal blue leotard with white lightning bolt patterns. They are all barefoot, with their toes pointed gracefully.
+
+The background reveals a fantastical circus tent with vibrant red and white stripes, illuminated by strings of fairy lights that cast a warm, magical glow across the scene. Behind the tent, a deep, star-studded night sky is visible, with a large, luminescent full moon hanging low, casting a silvery light over everything.
+
+The mid-ground features a ringmaster, a man in his 40s with a tall, black top hat, a red tailcoat with golden epaulets, and white gloves. He stands on a small wooden platform, holding a cane with a silver handle, directing the attention of an enthralled audience. The audience, a diverse group of men, women, and children of various ages and ethnicities, are seated on colorful wooden benches, all dressed in vintage attire from the early 1900s, with wide-brimmed hats, suspenders, and lace dresses.
+
+The lighting of the scene is a mix of the soft, ethereal glow from the fairy lights and the cool, mystical illumination from the moon, creating a dreamlike contrast that enhances the surreal atmosphere. The painting style is highly detailed, with rich, vibrant colors and intricate textures, capturing the fantastical essence of the event.
+Seed: 1667351121
+Flux URL: https://fal.run/fal-ai/flux/schnell

@@ -1,0 +1,7 @@
+Prompt: An oil painting depicting an ancient, colossal Leviathan entwined around a grand, ruined temple in the depths of a dense, misty jungle. The Leviathan, with iridescent scales reflecting shades of emerald and sapphire, has piercing, intelligent eyes and massive, coiling body that seems both serpentine and dragon-like. The temple, a marvel of forgotten architecture, features towering columns wrapped in overgrown vines, intricate carvings of mythical creatures, and partially collapsed stone arches. 
+
+In the foreground, a group of explorers, comprising a mix of genders and ages from mid-20s to late 40s, are clad in weathered, Victorian-era expedition attire with wide-brimmed hats, khaki trousers, and leather satchels. They are frozen in a moment of awe and trepidation, with their eyes wide and mouths slightly agape, clutching their tools and maps. 
+
+The lighting is diffused, with beams of sunlight piercing through the dense canopy overhead, casting dappled light and shadow across the scene. The background reveals more of the untamed jungle with twisted trees, giant ferns, and distant mountains obscured by mist. The style of the painting is hyper-realistic, capturing every minute detail from the texture of the Leviathan’s scales to the moss-covered stones of the ancient temple.
+Seed: 1760058342
+Flux URL: https://fal.run/fal-ai/flux/schnell

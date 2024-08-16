@@ -1,0 +1,4 @@
+Prompt: A lush, enchanted forest at twilight, bathed in the soft glow of bioluminescent plants and the last light of the setting sun. A clear, trickling brook winds through the scene, reflecting the vibrant hues of the flora. In the center of the clearing, a majestic centaur stands poised, blending the elegance of a noble horse with the strength and grace of a human warrior. The breeze gently tousles the leaves and the centaur's flowing mane. Ancient, towering trees with thick, twisted branches and dense foliage form a protective canopy overhead. Ethereal wisps of mist float through the air, catching the light to create a magical atmosphere. The style is a detailed, fantasy-themed oil painting with rich textures and deep, saturated colors. No human technology or modern elements are present, emphasizing a timeless, mythical setting.
+Seed: 3256418435
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Centaur, Breeze

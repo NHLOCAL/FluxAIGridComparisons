@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape set in a landscape featuring gleaming skyscrapers with integrated lush green terraces, surrounded by floating wind turbines and solar panels. In the foreground, a diverse group of people are gathered around a sleek donation station made of transparent, holographic panels. The scene is lit by a soft, golden sunset that bathes the city in a warm glow, reflecting off glass surfaces and creating long, intricate shadows on the ground. The style is a hyper-realistic digital illustration, with precise details and vibrant colors. The background showcases distant mountains and a calm, azure sea with floating solar islands, offering a sense of balance between technology and nature. Elevated walkways and eco-friendly vehicles move seamlessly in this utopian setting, illustrating a harmonious blend of human innovation and environmental stewardship.
+Seed: 1638232905
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Balance, Donation

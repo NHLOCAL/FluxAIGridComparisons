@@ -1,0 +1,4 @@
+Prompt: Create an oil painting of a future landscape where an advanced, bioluminescent forest meets the edge of a crystalline city. The scene is lit by the warm, golden light of a setting sun casting long shadows, while the forest glows with shades of blue and green. In the foreground, a couple dressed in elegant, futuristic clothing stands holding hands, facing the city as if marking a significant moment. Behind them, the forest’s bioluminescent flora and fauna illuminate the path they walked. The city in the background features towering, transparent skyscrapers that sparkle like gems, blending seamlessly with the natural landscape. The sky above is painted with hues of pink, purple, and orange, adding an ethereal quality to the scene. This painting not only captures the fusion of nature and advanced civilization but also marks a moment of unity and progress.
+Seed: 1696886777
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ward, Anniversary

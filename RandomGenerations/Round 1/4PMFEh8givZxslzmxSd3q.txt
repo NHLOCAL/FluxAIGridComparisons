@@ -1,0 +1,10 @@
+Prompt: Create an imaginative scene of a futuristic cityscape at twilight. The city is built within the cavity of a gigantic, hollowed-out asteroid floating in space. The asteroid's rocky interior is dotted with sleek, domed buildings with glowing windows that give off a soft, bluish light. The buildings have organic, flowing shapes, reminiscent of ocean waves or the curves of a nautilus shell, symbolizing the concept of "Shape."
+
+In the sky above the city, a colossal, whitish full moon hangs, casting silvery beams across the scene, reflecting off the metallic surfaces and creating a sense of depth and scale. Visible through the openings of the asteroid's shell are distant stars and distant nebulae, painted in soft purples, blues, and pinks, giving a cosmic backdrop to the scene.
+
+In the foreground, a futuristic monorail, an Omega-shaped loop, traverses the city, gliding silently above the ground with sleek, streamlined cars. A few humanoid figures in futuristic attire can be seen walking along the pathways, their figures illuminated by holographic signboards and displays that occasionally flicker with advertisements.
+
+The overall style is a hyper-realistic digital painting, with highly detailed textures and a mix of sharp and soft focuses that highlight the intricate details of the buildings and the ethereal beauty of the nebulae outside. The lighting captures the transitional time between day and night, with the city's artificial lights blending harmoniously with the moon's natural glow, casting gentle shadows and creating a serene yet awe-inspiring ambiance.
+Seed: 4044690422
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shape, Omega

@@ -1,0 +1,7 @@
+Prompt: Create an oil painting of a cozy 1950s American diner at dusk. The scene captures the moment from the perspective of someone approaching the diner from the outside. The diner has a classic neon sign that reads "Open 24 Hours" in vibrant red and blue colors, illuminating the surroundings. The large windows of the diner reveal a warm, inviting interior with checkered floors and red vinyl booths. 
+
+Inside, a young waitress in her early 20s with curly blonde hair tied back in a ponytail, wearing a classic pink uniform dress with a white apron, is carrying a tray of milkshakes. She has a focused expression as she navigates through the booths. A middle-aged man with salt-and-pepper hair, wearing a brown leather jacket and a white t-shirt, sits at the counter, sipping coffee and reading a newspaper. 
+
+In the background, a jukebox glows with colorful lights, and a few other patrons can be seen enjoying their meals and engaging in quiet conversation. The lighting inside the diner is warm and inviting, contrasting with the cool, dusky blues of the evening sky outside. The exterior of the diner is surrounded by classic 1950s cars parked neatly in the lot, and a few trees with autumn leaves add a touch of nature to the scene.
+Seed: 890879229
+Flux URL: https://fal.run/fal-ai/flux/schnell

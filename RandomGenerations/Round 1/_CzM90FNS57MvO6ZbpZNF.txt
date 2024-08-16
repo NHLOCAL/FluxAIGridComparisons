@@ -1,0 +1,7 @@
+Prompt: Create an oil painting of a mysterious and enchanting scene set in an ancient, mist-covered bog at twilight. The background features twisted, gnarled trees with dark, wet bark and patches of luminescent moss. A narrow, winding path of ancient cobblestones leads to a half-submerged, crumbling stone altar in the center of the bog, illuminated by the soft, ethereal glow of floating will-o'-the-wisps. 
+
+In the foreground, a young woman of about 25 years old stands in front of the altar. She has long, wavy auburn hair cascading over her shoulders and wears a flowing, deep green medieval-style gown with intricate gold embroidery. Her fair skin contrasts with the dark, mystical surroundings. She is gazing in awe at a translucent, spectral figure emerging from the altar, a wise-looking elderly man with flowing silver hair and a long, ornate robe covered in ancient runes. His eyes are glowing with a soft, otherworldly light as he extends a hand towards her.
+
+The lighting is soft and diffused, with the eerie glow from the will-o'-the-wisps casting a gentle, blue-green hue on the scene, while shadows from the dense foliage add depth and mystery. The style of the painting is reminiscent of the Romantic era, with rich, detailed brushstrokes capturing the interplay of light and shadow and the intricate textures of the moss, trees, and flowing garments.
+Seed: 4144479314
+Flux URL: https://fal.run/fal-ai/flux/schnell
