@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of two masks positioned on a table, one mask depicting a joyful expression and the other a sorrowful one. The masks should be crafted with intricate detail, showcasing fine textures and colors that enhance their emotions. The background is softly blurred, providing a muted gradient that transitions from light to dark, emphasizing the masks' contrasting expressions. Soft, diffused lighting highlights the contours of the masks, casting gentle shadows. A single, wilted flower lies between the masks, symbolizing fragility and the passage of time. The overall composition invites contemplation of the complexities of human emotion, juxtaposing joy and sorrow in a striking visual narrative.
+Seed: 10838421
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opera, Avenue

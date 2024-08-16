@@ -1,0 +1,4 @@
+Prompt: A visually striking depiction of a majestic Griffin perched atop an ancient stone pedestal, its eyes reflecting a deep, duality of emotions associated with love. The Griffin is beautifully detailed, showcasing its regal feathers in hues of gold and deep crimson, against the backdrop of a twilight sky that transitions from rich purples to soft pinks. Surrounding the pedestal are intricately carved hearts, symbolizing love's complexity and duplicity. The scene is illuminated by the gentle glow of ethereal lanterns that hang from surrounding trees, casting soft shadows and highlights on the Griffin's powerful form. This enchanting atmosphere is enhanced by a subtle mist that envelops the ground, creating a sense of mystery and depth in the artwork., cinematic, intricate details, romanticism, high fantasy.
+Seed: 626481305
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Century, Griffin

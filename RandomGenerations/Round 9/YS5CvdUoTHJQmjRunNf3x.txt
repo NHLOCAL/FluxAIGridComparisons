@@ -1,0 +1,4 @@
+Prompt: Create a captivating black and white photograph of a weathered old man sitting alone on a park bench. His wrinkled hands clasp a worn-out hat, resting in his lap. The background features tall trees with drooping branches, partially obscured by a light fog that adds depth to the scene. The soft, diffused light of a late afternoon sun filters through the leaves, casting delicate shadows on the ground. The man's face, lined with years of experience, is turned slightly away from the camera, with his gaze lost in thought, reflecting a sense of solitude and contemplation. The overall composition invites viewers to ponder the passage of time and the stories etched into one person's life, with stark contrasts highlighting the textures of the man's face and surroundings. The image should evoke a poignant, contemplative mood through visual storytelling.
+Seed: 1116795683
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Parish, Boredom

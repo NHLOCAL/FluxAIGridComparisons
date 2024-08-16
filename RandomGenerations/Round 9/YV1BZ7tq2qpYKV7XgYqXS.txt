@@ -1,0 +1,4 @@
+Prompt: A beautiful landscape photograph capturing the serene tranquility of a misty early morning by a quiet lake. The still water reflects the soft pastel colors of the dawn sky, transitioning from light lavender to gentle peach. Silhouettes of tall, slender trees border the lake, their outlines softened by a delicate layer of fog hovering above the water’s surface. In the foreground, a single wooden dock extends into the lake, inviting viewers to imagine themselves stepping into this peaceful scene. The overall atmosphere is calm and serene, highlighting the beauty of nature at dawn, emphasizing the quietness and stillness of the moment. A subtle, ethereal light enhances the details, creating a dreamlike quality to the image.
+Seed: 654456740
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Form, Mermaid

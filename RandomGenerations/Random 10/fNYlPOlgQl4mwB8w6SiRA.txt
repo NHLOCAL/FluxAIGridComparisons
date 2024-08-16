@@ -1,0 +1,6 @@
+Prompt: A high-action photograph capturing a thrilling daredevil stunt performed by an otherworldly extraterrestrial being. The alien features a unique, elongated body with iridescent skin that shimmers in various shades of blue and green under bright lights. Its distinct head showcases large, expressive eyes and multiple antennae, adding to its bizarre appearance. The stunt involves the extraterrestrial soaring through the air on a futuristic hoverboard, executing a gravity-defying flip. 
+
+The background is a vibrant, neon-lit urban landscape at night, with towering skyscrapers adorned with glowing advertisements. Spotlights from below illuminate the scene, creating dramatic contrasts and enhancing the sense of speed and excitement. The angle of the shot is dynamic, taken from a low perspective to emphasize the height and daring nature of the stunt. The overall composition conveys a thrilling and energetic atmosphere, celebrating the uniqueness of the alien daredevil. Photorealistic style, capturing fine details and vibrant colors.
+Seed: 1145307590
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: The End, Tension

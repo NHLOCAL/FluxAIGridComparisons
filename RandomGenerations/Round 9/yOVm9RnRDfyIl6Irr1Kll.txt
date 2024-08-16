@@ -1,0 +1,6 @@
+Prompt: A stunning portrait of a feminine figure embodying the concept of duality. One half of her face is ethereal and light, with delicate features adorned in flowing, luminescent fabrics that shimmer in iridescent hues. The other half is darker and mysterious, with bold, angular features and a flowing robe that appears to absorb light, featuring intricate patterns that evoke ancient symbols. Her hair transitions smoothly from bright, soft pastels on one side to deep, rich jewel tones on the other, creating a captivating contrast. 
+
+The background is a swirling cosmic landscape, blending soft pastel nebulae with dark, starry voids, symbolizing the balance of light and dark. Wisps of translucent energy arcs dance around her, enhancing the sense of magic and divination. The overall lighting is dramatic, casting soft highlights on the light side of her face while allowing the shadows to deepen the mystery of the dark side. The scene captures a sense of enchanting beauty and wisdom, seamlessly merging elements of nature and the cosmos. High resolution, cinematic quality.
+Seed: 2053430414
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Era, Diviner

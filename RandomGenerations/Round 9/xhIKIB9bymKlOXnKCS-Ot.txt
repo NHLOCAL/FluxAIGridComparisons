@@ -1,0 +1,4 @@
+Prompt: Create a photograph of an expansive, abandoned warehouse bathed in warm, golden sunlight filtering through broken windows. The interior is filled with remnants of forgotten machinery and scattered debris, juxtaposed against vibrant patches of wildflowers growing through cracks in the concrete floor. Dust particles dance in the rays of light, enhancing the tranquil atmosphere. In the foreground, an old wooden crate is adorned with moss, while the background reveals towering shelves, some sagging under the weight of rusted tools and forgotten items. The overall scene reflects a sense of serene decay and nature reclaiming its space, combining industrial elements with elements of natural beauty. Capture this moment in a hyper-realistic style, emphasizing detailed textures and a rich color palette, inviting the viewer to contemplate the passage of time.
+Seed: 138604498
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Warehouse, Idyllic

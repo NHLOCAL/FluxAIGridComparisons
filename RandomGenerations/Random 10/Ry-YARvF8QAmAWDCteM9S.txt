@@ -1,0 +1,4 @@
+Prompt: Create a black and white photograph featuring a striking portrait of a beautiful woman set against a backdrop of war-torn ruins. The woman should be depicted with delicate features, her hair gently blowing in the wind amidst the chaos. Behind her, show crumbling buildings, scattered debris, and remnants of war, creating a stark contrast with her serene expression. The lighting should emphasize her face, highlighting her beauty with soft shadows while the background remains darker and more chaotic. Add a subtle play of light and texture across her figure and the ruins, capturing the essence of resilience and the notion that beauty can emerge from destruction. The overall composition should evoke a sense of hope amidst despair, combining elements of strength and fragility. Photorealistic, high detail, dramatic lighting.
+Seed: 3239135039
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sincerity, Illusion

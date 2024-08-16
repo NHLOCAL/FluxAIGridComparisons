@@ -1,0 +1,4 @@
+Prompt: A powerful black and white photograph of a striking woman standing amidst a war-torn landscape. The background features crumbling buildings, shattered windows, and desolate streets, emphasizing destruction and chaos. The woman, elegantly dressed in a flowing gown, contrasts sharply with the harsh surroundings, her expression determined and resilient. Soft, diffused lighting highlights her features, creating a radiant glow that suggests hope and beauty in adversity. The composition focuses on the interplay between the delicate elegance of the woman and the stark, rugged environment, encapsulating the theme that from destruction, beauty can arise. The photograph captures intricate details, textures, and contrasts, creating an emotional and thought-provoking visual narrative.
+Seed: 530341121
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Story, Smoke

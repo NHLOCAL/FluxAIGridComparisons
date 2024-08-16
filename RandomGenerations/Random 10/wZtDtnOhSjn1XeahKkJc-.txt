@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph capturing the essence of resilience, featuring a beautiful woman standing confidently amidst a war-torn landscape. The background is composed of crumbling buildings, debris scattered across the ground, and smoke rising in the distance, creating an atmosphere of devastation. The woman is elegantly dressed, with her hair flowing gracefully, contrasting sharply with the harsh environment. Her expression is strong and determined, symbolizing hope amidst destruction. The lighting is dramatic, with high contrast emphasizing her features and the surrounding chaos, creating a powerful visual narrative of beauty emerging from turmoil. The overall composition evokes a sense of strength and renewal, drawing the viewer's eye to the juxtaposition of beauty and destruction. Ultra-high resolution, professional quality, artistic depth.
+Seed: 3926539940
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Perception, Utopia

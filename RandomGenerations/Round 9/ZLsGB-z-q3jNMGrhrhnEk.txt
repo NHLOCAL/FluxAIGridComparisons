@@ -1,0 +1,4 @@
+Prompt: A dramatic, high-contrast illustration of two figures standing on opposite sides of a dark, ancient stone wall, their hands reaching out to each other but unable to touch. The figures should be dressed in richly textured, contrasting garments—one in flowing white silk and the other in dark leather. The background features a moody twilight sky with swirling storm clouds and lightning illuminating the scene. The ground is cracked, with hints of deep shadows lurking beneath. Light should cast long, dramatic shadows of the figures against the wall, emphasizing the tension and longing between them. The overall color palette should explore deep reds and blues, creating an atmosphere of intense passion and desire, infused with mystery and secrecy. The scene invokes themes of yearning and separation without explicitly showing emotions.
+Seed: 3412471951
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Impact, Captivity

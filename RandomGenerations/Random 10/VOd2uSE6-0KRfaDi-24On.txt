@@ -1,0 +1,6 @@
+Prompt: A dynamic photograph capturing a daredevil stunt performed by a uniquely designed extraterrestrial being. The alien features elongated limbs and a vibrant, iridescent skin texture, showcasing a blend of colors such as deep blues, purples, and neon greens. It is mid-air, executing an acrobatic flip on a hoverboard, with details of its intricate, bioluminescent markings glowing against the backdrop. 
+
+The setting is a futuristic cityscape, filled with soaring skyscrapers displaying holographic advertisements under a twilight sky. The scene is illuminated by ambient neon lights, casting colorful reflections on the surfaces below. The angle is slightly below eye level, emphasizing the height and daring nature of the stunt, while capturing the alien with expressions of excitement and daring focus. The overall composition conveys a sense of exhilaration and adventure, emphasizing the peculiarity of the extraterrestrial’s appearance and the high-energy atmosphere of the stunt. High-resolution, vibrant colors, cinematic lighting.
+Seed: 2836831611
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vibrant, Mind

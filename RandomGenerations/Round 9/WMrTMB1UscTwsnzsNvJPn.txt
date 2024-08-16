@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a mesmerizing feminine figure that embodies the concept of duality. The figure stands in an elegant pose, with one half adorned in delicate, flowing fabrics, with intricate floral patterns and soft colors, while the other half is dressed in bold, geometric shapes, and sharp lines with darker, contrasting shades. The background blends a serene landscape transforming into an abstract, chaotic swirl of colors, representing perception and subconscious. The lighting should be dreamlike, with ethereal glows surrounding the figure, highlighting the contrasts between the two sides. The angle should be slightly elevated, capturing the intertwining of beauty and complexity within the composition. The artwork should embody a vibrant, surreal style, inviting observers to contemplate the dual nature of identity.
+Seed: 1564567718
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Perception, Subconscious

@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a dense misty forest at twilight, where a massive, majestic werewolf stands atop a rocky outcrop, overlooking a hidden valley. The werewolf, with intricately detailed fur, glowing amber eyes, and sharp claws, appears powerful and watchful. Surrounding the creature, towering ancient trees loom, their gnarled branches stretching toward the twilight sky, which is painted in deep purples and blues, speckled with bright stars. A soft, ethereal light filters through the mist, illuminating patches of vibrant green moss on the forest floor. The atmosphere is charged with a sense of mystery and anticipation, enhancing the fantastical nature of the scene. Cinematic lighting emphasizes the contrast between the shadows of the forest and the softly illuminated werewolf, creating an immersive, otherworldly experience.
+Seed: 521098147
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peek, Werewolf

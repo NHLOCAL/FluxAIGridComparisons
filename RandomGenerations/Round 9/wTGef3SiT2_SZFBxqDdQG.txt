@@ -1,0 +1,8 @@
+Prompt: Create a striking illustration that embodies the concept of duality within a Dieselpunk setting. The scene should depict two contrasting characters: one represents the industrial and mechanical side, showcasing a heavily armored soldier with intricate gears and steam-powered machinery integrated into his armor. The other character symbolizes nature and harmony, featuring a warrior adorned with flowing fabrics and organic elements like vines and flowers intertwined with her armor.
+
+The background is an urban landscape with imposing factory buildings and smokestacks on one side, gradually transitioning into a lush, overgrown forest on the other side. The lighting should be dynamic, with harsh, artificial lighting illuminating the industrial side, contrasting against soft, natural light filtering through the trees on the organic side. The angle of the shot should be slightly elevated, capturing both characters in the foreground and the dramatic shifts in environment behind them.
+
+The overall mood should reflect tension and coexistence, emphasizing the clash and balance between technology and nature. The art style should be a blend of realism with stylized elements typical of the Dieselpunk genre, showcasing rich, earthy tones alongside metallic hues.
+Seed: 1748083276
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dieselpunk, Encounter

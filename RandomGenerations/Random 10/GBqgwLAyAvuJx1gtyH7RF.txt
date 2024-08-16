@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a unique extraterrestrial performing a daring stunt mid-air. The alien should have an elongated, slender body with vibrant, multicolored skin featuring intricate patterns and glowing markings. Its large, expressive eyes are filled with excitement as it dives through the air. The background showcases a dramatic, otherworldly landscape, with towering, luminescent rock formations and floating islands under a starry sky filled with vibrant nebulae and swirling galaxies. The scene is illuminated by a mix of ethereal lighting, creating an otherworldly glow around the alien. The angle of the shot highlights the height and adrenaline of the stunt, emphasizing the alien’s unique features against the cosmic backdrop.
+Seed: 2961487640
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Romance, Artistic

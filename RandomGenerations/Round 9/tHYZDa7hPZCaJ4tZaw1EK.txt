@@ -1,0 +1,8 @@
+Prompt: Create an image depicting a striking scene that embodies feminine beauty and duality. The focal point should be a graceful female figure standing at the edge of a cliff, overlooking a vast, vibrant landscape. Half of the scene highlights a lush, colorful valley filled with blooming flowers and a clear blue sky, symbolizing adventure and exploration. The other half should contrast with a dark, mysterious forest shrouded in mist and shadow, representing introspection and acknowledgment.
+
+The female figure is elegantly adorned with flowing garments that transition from light, airy fabrics on the adventurous side to darker, textured materials on the introspective side. Her hair is styled in a way that reflects both sides, with one half bright and flowing, while the other is braided and adorned with subtle, dark elements.
+
+Lighting is dramatic, with warm sunlight casting a golden hue over the valley, while the forest side is illuminated by soft, ethereal moonlight, enhancing the sense of mystery. The angle of the shot should be from slightly below the figure, emphasizing her connection to both worlds, and the overall atmosphere balances both elements of elegance and enigma, inviting the viewer to explore the depths of feminine beauty and the concept of duality.
+Seed: 1722135201
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Acknowledgment, Adventure

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary tree standing alone on a barren hill under a stormy sky. The tree's branches are gnarled and twisted, silhouetted against the dark, swirling clouds that threaten rain. Below, the ground is cracked and dry, scattered with fallen leaves. Strips of soft light occasionally break through the clouds, illuminating the tree and creating a stark contrast with the dark surroundings. The overall atmosphere conveys a sense of isolation and resilience, heightened by the dramatic lighting and moody color palette of deep blues, grays, and browns. 
+Seed: 2132795341
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Insect, Boutique

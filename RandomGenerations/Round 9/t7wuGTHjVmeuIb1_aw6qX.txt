@@ -1,0 +1,8 @@
+Prompt: Create an image showcasing the concept of "duality" through a striking representation of a Basilisk. The creature should be depicted with two heads, each exhibiting contrasting features – one head with vibrant, glowing green scales and fierce, piercing blue eyes, while the other head is shrouded in dark, shadowy tones with haunting red eyes. The body should be coiled in an intricate, serpentine manner, emphasizing the dual nature.
+
+The setting is a mysterious, moonlit forest at night. The background is filled with towering black trees, their twisted branches casting eerie shadows. Wisps of fog float around the Basilisk, enhancing the sense of unease. The ground is scattered with luminous mushrooms that emit a soft glow, creating a surreal atmosphere.
+
+Lighting should be dramatic, with a strong light source highlighting the creature's features, while the rest of the scene remains in shadows, intensifying the duality theme. The overall style should blend elements of dark fantasy and hybrid realism, capturing the ominous yet captivating nature of the Basilisk, with intricate details in the creature's scales and the surrounding environment.
+Seed: 72977856
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Basilisk, Night

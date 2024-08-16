@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of an elderly man sitting alone on a park bench, surrounded by a blanket of autumn leaves. The man has deep lines on his weathered face that tell a story of a long life, and he is gazing pensively into the distance. The trees around him are vibrant with shades of orange, yellow, and red, their leaves gently falling with the breeze. Soft golden light filters through the branches, creating a warm yet melancholic atmosphere. The background is slightly blurred, emphasizing the man as the focal point, capturing a moment of solitude and reflection amid the beauty of change. The scene is framed with a slight depth of field, highlighting the intricate textures of the leaves and the man's expressive features.
+Seed: 4216560891
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enchanter, Addiction

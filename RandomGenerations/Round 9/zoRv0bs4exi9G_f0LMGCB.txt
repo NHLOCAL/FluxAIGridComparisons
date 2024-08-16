@@ -1,0 +1,4 @@
+Prompt: Create an intricate historical scene depicting a vibrant Union ballroom in the mid-19th century, with elegantly dressed couples dancing in sweeping gowns and tailored suits. The room is adorned with lavish decorations, including ornate chandeliers and draped fabrics, reflecting the opulence of the era. In the foreground, a pair of dancers share an intimate moment with subtle longing in their postures, while other couples elegantly glide across the polished wooden floor. Warm, ambient lighting casts a soft glow over the scene, creating a romantic atmosphere. The background showcases large windows, revealing a starry night sky, enhancing the sense of grandeur and allure of the ballroom setting. The style should evoke classical painting techniques with a focus on intricate details and rich colors, capturing the essence of this historical union.
+Seed: 2164317593
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: History, Union

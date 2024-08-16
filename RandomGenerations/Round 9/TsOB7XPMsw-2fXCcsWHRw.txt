@@ -1,0 +1,6 @@
+Prompt: Create an elegant and visually striking illustration of a feminine figure representing duality. The figure is gracefully positioned in the center, facing forward and embodying both light and dark aspects. Half of her body is depicted in soft, warm colors with flowing hair, surrounded by delicate floral motifs that symbolize beauty and truth. The other half is rendered in cool, deep tones, featuring a more intricate and geometric design, symbolizing mystery and complexity. 
+
+The background is a smooth gradient transitioning from light to dark, enhancing the contrast between the two halves. Include a soft glow around the figure to emphasize her beauty and presence. Lighting should create shadows that accentuate her curves and fine details, while the overall composition evokes a sense of balance and harmony. The art style should be ethereal and refined, combining elements of realism with a touch of surrealism to capture the essence of feminine beauty and duality.
+Seed: 269411183
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Truth, Capacity

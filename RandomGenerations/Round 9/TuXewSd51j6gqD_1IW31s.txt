@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of an ornate, antique mirror in a dimly lit room. The subject, a middle-aged woman with long, flowing hair, gazes into the mirror with a look of contemplation. The mirror's surface reflects her image, but there is a magical twist: the reflection shows her younger self, vibrant and full of life, dressed in bright clothing. The background features richly textured wallpaper and an elegant wooden floor, softly illuminated by warm, ambient lighting. The room feels intimate and personal, with delicate shadows enhancing the overall depth of the scene. The focus is on the contrast between the woman and her youthful reflection, capturing a moment of introspection and self-discovery.
+Seed: 2368351738
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Skill, Lover

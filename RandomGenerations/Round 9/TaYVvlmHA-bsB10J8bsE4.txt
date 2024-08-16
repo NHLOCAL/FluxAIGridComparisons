@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a fjord landscape in a sci-fi fantasy setting. The scene features towering cliffs with intricate rock formations, cascading waterfalls that gleam with iridescent colors, and a serene, reflective body of water at the center. Above the fjord, vibrant auroras dance across a twilight sky, casting a mesmerizing glow in shades of green, purple, and blue. In the distance, futuristic structures resembling ancient ruins are visible, partially overgrown with luminescent plants. The atmosphere is tranquil yet otherworldly, with distant mountains silhouetted against the illuminated sky. The scene is captured in ultra-high resolution, showcasing every detail from the textures of the cliffs to the ethereal light of the auroras. The lighting is soft, enhancing the magical quality of this spectacular landscape.
+Seed: 4004407735
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fjord, Return

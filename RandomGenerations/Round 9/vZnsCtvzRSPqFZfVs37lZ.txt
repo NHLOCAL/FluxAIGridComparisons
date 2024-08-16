@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a lone figure standing on a foggy bridge at dawn. The figure is cloaked in a dark, flowing trench coat, with a hat obscuring their face, creating an air of mystery. In one hand, they hold a vibrant red rose, symbolizing love and passion; in the other hand, a rusted dagger, evoking danger and betrayal. The fog rolls over the surface of a calm river below, reflecting the soft pastels of the morning sky. Distant silhouettes of trees frame the scene, and the sunlight begins to break through, casting long shadows. The overall composition plays with contrasts of light and dark, beauty and menace, inviting the viewer to contemplate the duality of the figure's intentions. Photorealistic style, high detail, cinematic atmosphere.
+Seed: 201772465
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Babe, Surprise

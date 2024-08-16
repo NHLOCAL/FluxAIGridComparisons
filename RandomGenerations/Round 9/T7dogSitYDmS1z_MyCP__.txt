@@ -1,0 +1,4 @@
+Prompt: Capture a striking, hyper-realistic photograph of a masked figure standing in an ornate, dimly lit room filled with rich, dark tones. The figure, wearing an intricate, half-mask adorned with delicate lace and shimmering jewels, gazes into a cracked, antique mirror, creating a sense of duplicity. The mask’s expression is serene, yet the reflection in the mirror reveals a sneering, shadowed version of the figure, hinting at hidden motives. The background features elaborately detailed wallpaper depicting swirling patterns, enhancing the sense of intrigue and concealment. Soft candlelight flickers, casting long shadows across the room, amplifying the atmosphere of mystery and tension. The overall composition should evoke a sense of hidden depths and emotional complexity.
+Seed: 2792474533
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heart, Shaman

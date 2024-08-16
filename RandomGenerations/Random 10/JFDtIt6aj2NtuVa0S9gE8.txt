@@ -1,0 +1,4 @@
+Prompt: A high-contrast black and white photograph capturing a striking female figure amidst a war-torn landscape. The woman stands confidently in the foreground, her elegant features illuminated by soft, diffused light. Her hair flows gracefully, contrasting against the jagged remnants of collapsed buildings and twisted metal debris in the background. Cracked pavement and shattered glass litter the ground, enhancing the sense of destruction surrounding her. In the distance, darkened clouds loom overhead, yet rays of light break through, subtly illuminating the scene, symbolizing hope and resilience. The overall composition emphasizes the contrast between her beauty and the harsh environment, creating a poignant visual narrative that reflects the theme of emerging strength from chaos. 
+Seed: 3121587654
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Temple, Corporation

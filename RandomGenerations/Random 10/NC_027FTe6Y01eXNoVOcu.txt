@@ -1,0 +1,4 @@
+Prompt: Create an image of a stunning woman standing amidst a war-torn landscape, her vibrant colors contrasting sharply with the bleak surroundings. The backdrop features crumbling buildings, twisted metal, and scattered debris, hinting at the aftermath of conflict. Despite the destruction, the woman radiates resilience with flowing, brightly colored garments that flutter in the wind. Her expression is strong and defiant, showcasing her beauty and strength. The lighting is dramatic, with rays of sunlight breaking through dark, smoky clouds, illuminating her figure and creating a radiant aura around her. The scene captures the juxtaposition of beauty and destruction, rendered in a hyper-realistic style, emphasizing intricate details like dust particles in the air and textures of the debris around her.
+Seed: 81255107
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Duty, Alchemist

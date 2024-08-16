@@ -1,0 +1,4 @@
+Prompt: A solitary wooden bench positioned on a cliff's edge overlooking a stormy sea. The sky is filled with dark, swirling clouds, illuminated by flashes of lightning. The churning waves crash against the rocks below, sending spray into the air. The bench, weathered and worn, is surrounded by tall grass swaying in the wind. A single raindrop is captured mid-fall, suspended in the air, while the distant horizon glows faintly with the last remnants of twilight. The scene is devoid of people, emphasizing the desolation and solitude, and the lighting creates a dramatic contrast between dark shadows and bright flashes of light. Photorealistic style, high detail, and 4K resolution.
+Seed: 2221166439
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hallucination, Topic

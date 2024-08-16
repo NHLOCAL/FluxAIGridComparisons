@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a lush, vibrant tree filled with rich green leaves and the silhouette of a human figure. The tree should occupy the background, showcasing intricate details in its bark and foliage. The human silhouette should be central, with elements of the tree merging seamlessly into the figure, symbolizing the connection between life and nature. Bright sunlight filters through the tree branches, casting dappled shadows across the silhouette. The overall color palette should consist of earthy greens, warm browns, and soft golden hues. The scene conveys a sense of harmony and unity between humanity and the natural world, with an ethereal and organic feel. Use a photorealistic style, with high detail and depth of field for a dreamy, immersive effect.
+Seed: 2941171037
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Life, Tree

@@ -1,0 +1,4 @@
+Prompt: Create a visually striking image of a graceful, feminine figure in a pose that embodies change. The figure should be depicted with flowing hair that transitions from deep crimson red to soft auburn tips. She wears an ethereal gown that blends various shades of red, creating a sense of movement and fluidity. The background is a dreamy, impressionistic landscape with swirling patterns of red and orange hues, reminiscent of a sunset. Delicate petals and leaves in complementary colors float around her, symbolizing transformation. Use soft, radiant lighting to highlight the contours of her form and create a warm, inviting atmosphere. The scene should evoke a sense of beauty and renewal, captured from a slightly elevated angle to enhance the gracefulness of the figure. Artistic style should be reminiscent of soft, romantic illustrations.
+Seed: 2127943021
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Change, Red

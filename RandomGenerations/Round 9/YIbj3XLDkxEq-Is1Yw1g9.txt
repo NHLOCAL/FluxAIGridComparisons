@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly woman sitting alone on a weathered wooden bench in a park. The woman has deep wrinkles that tell a story of her long life, and she is gazing pensively at a faded photograph in her hands. The background should feature golden autumn leaves falling from trees, creating a carpet of red and orange around her. Soft, diffused natural light filters through the branches, casting gentle shadows. The scene is framed with blurred outlines of people enjoying the park, emphasizing her solitude. The photograph captures intricate details such as the texture of her hands, the wear on the bench, and the serene yet melancholic atmosphere. The overall composition conveys a sense of nostalgia, reflection, and quiet beauty, inviting the viewer to contemplate the passage of time.
+Seed: 258600551
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sleep, Trust

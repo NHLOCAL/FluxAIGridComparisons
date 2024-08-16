@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly person sitting alone on a park bench, surrounded by fallen autumn leaves. The person, a woman with silver hair tied in a loose bun, is wearing a cozy, knitted sweater and has a distant gaze, looking out towards a serene pond. The background features soft, golden sunlight filtering through the colorful trees, creating a warm yet melancholic atmosphere. The ground is covered in vibrant orange, yellow, and brown leaves, reflecting the essence of autumn. The focus of the image should be on the woman's weathered hands resting on her lap, showcasing wrinkles and age, while the bokeh effect in the background adds depth and a sense of nostalgia, capturing the passage of time. The lighting is soft and natural, evoking a calm and reflective mood, emphasizing the beauty of solitude and the changing seasons.
+Seed: 3504118084
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chance, Gift

@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of a split-faced figure, half human and half robot, capturing the juxtaposition of humanity and technology. The human side should have intricate details, showcasing expressive features and subtle imperfections in the skin, while the robotic side appears sleek and polished with glowing circuitry. The background should be a blurred urban landscape at twilight, with sparkling city lights contrasting the darkness. The lighting is focused, highlighting the expression on the human side, while casting shadows that hint at the complexity of identity. The angle should be slightly tilted to create a sense of dynamic tension, emphasizing the theme of duplicity and the coexistence of man and machine.
+Seed: 811999857
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gem, Animal

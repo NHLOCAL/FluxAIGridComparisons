@@ -1,0 +1,4 @@
+Prompt: Create an eerie and unsettling illustration depicting a quarter with a sinister face etched onto its surface. The quarter should be oversized and prominently placed in the foreground, with deep shadows revealing sharp, menacing features that evoke a sense of fear. The background is a dark and twisted alleyway, illuminated by a faint, flickering streetlight casting elongated shadows. Surrounding the quarter are ghostly figures, their faces obscured, peering out from the darkness, creating an ominous atmosphere. The scene should have a gritty texture with a cold color palette dominated by blacks and grays, punctuated by dull hints of green and blue. The overall composition should evoke feelings of dread and suspense, reminiscent of horror films.
+Seed: 2135222936
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quarter, Scary

@@ -1,0 +1,6 @@
+Prompt: Create an illustration showcasing a feminine figure symbolizing beauty and duality in a mythical setting. The figure should be elegantly poised at the center, with one half of her adorned in a radiant gown shimmering with golden tones, while the other half is draped in a dark, flowing robe that appears to absorb light. She holds a compass in one hand, intricately designed with celestial motifs, while the other hand reaches out towards a shimmering portal behind her that bursts with vibrant colors, depicting a fantastical landscape of both serene skies and turbulent storms, representing a voyage of discovery. 
+
+The background should feature elements of both nature and technology, blending lush greenery with ethereal, futuristic structures. The overall lighting should transition from warm, golden illumination behind the beauty to cool, moody shadows on the dark side, creating a striking contrast. The scene should be captured from a slightly low angle, emphasizing her stature and the grandeur of the surrounding environment, in a style reminiscent of high fantasy art. 
+Seed: 218904105
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Expertise, Voyage

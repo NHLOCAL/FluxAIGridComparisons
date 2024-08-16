@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of an ornate vintage mirror. The individual, a middle-aged woman, gazes intently into the mirror, where instead of her reflection, a shimmering, ethereal silhouette of her younger self appears. The younger version of herself should radiate a soft, inviting glow, contrasting against the more serious expression of the woman. Surrounding the mirror is an elegant dressing room filled with vintage decor, including a plush velvet armchair and subtle warm lighting that highlights the intricate details of the mirror's frame. The background should be adorned with soft pastel colors, creating a soothing, introspective atmosphere, while the photograph captures a moment of introspection and self-discovery. Ultra-high detail, cinematic lighting, 4K resolution.
+Seed: 1414548510
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Island, Multiplicity

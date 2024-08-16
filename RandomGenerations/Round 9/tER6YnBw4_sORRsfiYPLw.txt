@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of an elderly man sitting alone on a weathered park bench, surrounded by autumn leaves in various shades of red, orange, and yellow. His face is deeply etched with lines that tell stories of a long and eventful life. He gazes into the distance, with soft, diffused sunlight filtering through the branches of nearby trees, casting dappled shadows on the ground. The background features a serene lake reflecting the vibrant colors of the trees, with ripples breaking the surface as a gentle breeze sweeps through. The overall composition captures a moment of quiet reflection, emphasizing the passage of time and the beauty of nature, evoking a sense of nostalgia and tranquility. Photorealistic style, warm color palette, high detail, cinematic lighting.
+Seed: 3341922962
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Werewolf, Dungeon

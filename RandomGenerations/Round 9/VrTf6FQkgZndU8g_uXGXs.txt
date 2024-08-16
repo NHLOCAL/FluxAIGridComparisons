@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an empty, weathered park bench under a large, leafless tree. The scene is set during the late autumn afternoon, with golden and crimson leaves scattered across the ground. Frosty light filters through the gray, overcast sky, casting soft shadows on the bench and a misty atmosphere around the area. The focus is on the bench, which shows signs of wear and age, with chipped paint and creaking wood. In the background, a slightly blurred path winds through the park, leading into a dense, foggy forest that hints at solitude and tranquility. The overall composition emphasizes the feeling of quietness and contemplation in a serene but melancholic setting.
+Seed: 3949950913
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Respect, Gulf

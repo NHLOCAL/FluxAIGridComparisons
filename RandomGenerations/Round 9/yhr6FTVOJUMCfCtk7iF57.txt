@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines an aquarium and a pharmacy. In the foreground, depict a stunning underwater scene featuring vibrant coral reefs, various colorful fish, and aquatic plants. Overlay this with the silhouette of a pharmacy, featuring shelves stocked with medicine and health products. The pharmacy's outline should blend seamlessly with the aquatic elements, creating a harmonious fusion of both environments. Use soft, natural lighting to enhance the colors of the fish and coral while casting gentle shadows on the pharmacy elements. The background should be a gradient of soothing blues and greens, giving the entire composition a calming and surreal ambiance. Aim for a high level of detail and clarity in both the aquarium life and the pharmacy elements, emphasizing the contrast and connection between the two worlds.
+Seed: 769419636
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Aquarium, Pharmacy

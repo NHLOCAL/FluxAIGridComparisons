@@ -1,0 +1,6 @@
+Prompt: Create a striking illustration of a feminine cyborg, embodying the concept of duality. Half of her face is an intricately designed human visage with delicate features, soft skin, and flowing hair, while the other half reveals advanced cybernetic enhancements, featuring metallic plating, neon circuits, and glowing eyes. The cyborg is posed in a graceful stance, highlighting her balance between humanity and technology. 
+
+The background features a futuristic city skyline at dusk, with neon lights reflecting on sleek glass buildings and a vibrant sunset casting hues of orange and purple across the sky. The scene is illuminated by a combination of soft, ambient lighting and harsh neon glows, creating a dynamic contrast. The angle is slightly low, emphasizing the stature and presence of the cyborg, as if she is standing on a rooftop overlooking the city. The artwork should have a high level of detail, emphasizing the textures of human skin and the sleekness of technology, bringing forth a harmonious blend of beauty and machine.
+Seed: 2963982626
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Concept, Cyborg

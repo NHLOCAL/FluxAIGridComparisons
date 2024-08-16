@@ -1,0 +1,4 @@
+Prompt: Create a photograph that captures a serene lake at twilight, surrounded by dense, looming fog. In the foreground, a solitary, gnarled tree leans awkwardly over the water, its twisted branches reflecting in the glossy surface below. The sky transitions from deep indigo to soft lavender, casting an ethereal glow on the scene. Perched on a low branch of the tree is a pair of bright white doves, positioned back-to-back with their heads turned away from each other, symbolizing duplicity. The water is still, creating a mirror-like effect that enhances the sense of duality. The lighting is soft and diffused, creating a moody and enigmatic atmosphere that invites the viewer to ponder the contrasts within the image. The overall composition emphasizes both tranquility and tension, blending elements of nature and emotion in a captivating visual narrative.
+Seed: 3129212363
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Steppe, Chance

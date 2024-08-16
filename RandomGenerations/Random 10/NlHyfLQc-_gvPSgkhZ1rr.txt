@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph of a beautiful woman standing amidst a war-torn landscape. The backdrop features dilapidated buildings, rubble, and twisted metal, symbolizing destruction. The woman's expression is serene and resilient as she stands confidently at the center of the composition, her hair gently blown by the wind. She wears an elegant, flowing dress that contrasts with the harsh environment, creating a striking visual juxtaposition. The lighting is dramatic, with sharp contrasts between the light and dark areas, casting deep shadows that enhance the sense of depth. The overall scene captures a blend of beauty and resilience, illustrating that from chaos, grace can endure. The focus is on the woman, with the war-torn background emphasizing her presence. High-resolution, cinematic quality, and detailed textures.
+Seed: 3304498095
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Victory

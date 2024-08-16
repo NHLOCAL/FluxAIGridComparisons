@@ -1,0 +1,4 @@
+Prompt: Create a breathtaking photograph of a fantasy landscape featuring a vast, shimmering bronze-colored lake under a twilight sky. The lake reflects the rich hues of purple and deep orange scattered throughout the clouds. In the foreground, ancient, towering stone formations covered in luminescent moss rise dramatically from the earth, adding a mystical touch to the scene. Ethereal wisps of mist hover above the water's surface, intertwining with the stones, creating an otherworldly atmosphere. A lone figure, clad in flowing robes, stands at the edge of the lake, gazing into the horizon, their silhouette contrasted against the glowing landscape. This visual should embody elements of both sci-fi and fantasy, capturing a sense of wonder and adventure, framed with sharp focus and high detail.
+Seed: 627151236
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Likelihood, Bronze

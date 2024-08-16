@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph of a beautiful woman standing amidst the ruins of a war-torn landscape. The background features crumbling buildings, scattered debris, and twisted metal, evoking a sense of desolation. The woman's expression is serene and composed, with her flowing hair softly framing her face, creating a stark contrast against the harsh surroundings. Sunlight breaks through the dark clouds, casting ethereal rays that illuminate her figure, adding a sense of hope and resilience. The scene captures intricate details of both the destruction and the woman's beauty, emphasizing the theme of finding strength and grace in adversity. The composition focuses on the juxtaposition of fragility and strength, with dramatic shadows and highlights enhancing the emotional depth of the image.
+Seed: 3028271719
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Laughter, Cyberspace

@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a futuristic cityscape and a holographic figure of a person. The cityscape should be filled with towering skyscrapers, illuminated with neon lights and digital billboards showcasing various advertisements. In the foreground, the holographic figure should appear semi-transparent and ethereal, incorporating elements like circuits and abstract patterns, suggesting a blend of humanity and technology. The lighting should be dynamic, with bright neon colors reflecting off the figure and buildings, creating a high-tech atmosphere. The angle should be a mixed perspective, capturing both the expansive city and the close-up detail of the holographic figure, enhancing the concept of adjustment between the two realms. The overall style should emphasize a sleek, cyberpunk aesthetic with vivid contrasts and sharp clarity.
+Seed: 819561054
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hologram, Adjustment

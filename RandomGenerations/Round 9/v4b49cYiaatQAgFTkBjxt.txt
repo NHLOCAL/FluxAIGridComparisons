@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph showcasing a split scene of two contrasting expressions of a person. On the left side, depict the individual smiling vividly, with bright, natural lighting illuminating their features, surrounded by an uplifting atmosphere filled with vibrant flowers and sunlight. On the right side, the same person appears sorrowful, features shadowed and softened by dim, moody lighting, set against a backdrop of muted colors, like an overcast sky or a quiet, desolate street. The overall composition should artfully highlight the stark differences between joy and sadness, making it visually striking while focusing on the sharp contrast of expression, light, and background elements.
+Seed: 1048476587
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Edifice, Area

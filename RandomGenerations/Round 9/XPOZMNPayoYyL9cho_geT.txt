@@ -1,0 +1,8 @@
+Prompt: Create an image depicting the concept of duality through a striking visual contrast between two identical landscapes on either side of a central vertical line. On the left, portray a serene, harmonious scene characterized by lush greenery, calm waters, and clear blue skies, evoking a sense of order and tranquility. On the right, create a chaotic and turbulent landscape with dark, swirling clouds, jagged mountains, and turbulent waters, suggesting disorder and unrest. 
+
+At the center, place an orb representing singularity, glowing with a soft light that radiates into both sides, linking the two contrasting environments. The orb should appear as a black hole, surrounded by vibrant colors that blend the elements of both landscapes. The background features a starry sky that transitions seamlessly from light to dark, enhancing the theme of duality. 
+
+Use a hyper-realistic art style with sharp details, rich colors, and dramatic lighting to emphasize the stark differences between order and chaos while celebrating the connection between them. The overall composition should evoke a sense of introspection and evoke the philosophical themes of balance and existence.
+Seed: 2547635526
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Singularity, Order

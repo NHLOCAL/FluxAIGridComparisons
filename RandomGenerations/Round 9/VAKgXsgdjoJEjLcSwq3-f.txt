@@ -1,0 +1,6 @@
+Prompt: A stunning landscape photograph depicting a vast and vibrant harvest scene in a sci-fi fantasy setting. The foreground features rolling hills adorned with golden fields of waving grain, punctuated by clusters of bioluminescent plants and alien fruit trees with shimmering leaves. In the background, towering sci-fi mountains rise, their peaks glowing with iridescent colors that contrast with the deep blue sky.
+
+Gentle breezes cause the crops to sway rhythmically, creating a sense of movement throughout the scene. Wispy clouds casually drift across the sky, and beams of soft sunlight penetrate the atmosphere, casting ethereal highlights on the landscape. The overall color palette is rich and warm, emphasizing the lushness of the harvest and the otherworldly beauty of this unique world. The photograph is framed with a wide-angle perspective to capture the expansive vista, immersing the viewer in a tranquil yet extraordinary environment. Photorealistic, high resolution, and detailed.
+Seed: 1447165367
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Breeze, Harvest

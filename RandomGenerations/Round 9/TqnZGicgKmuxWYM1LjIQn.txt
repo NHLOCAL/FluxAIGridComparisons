@@ -1,0 +1,4 @@
+Prompt: A close-up photograph of a weathered, cracked mirror reflecting a distorted self-portrait of a person standing behind it. The person has half of their face obscured by shadows, while the other half is illuminated by soft, warm light, revealing a serene expression. The background is a hazy blur, filled with muted, earthy tones that create an atmosphere of nostalgia and introspection. The mirror's frame is ornate but worn, hinting at the passage of time. Subtle reflections of candlelight flicker in the mirror, adding a touch of warmth and depth to the composition. The overall image captures a sense of duality, contrasting light and shadow, revealing the complexities of identity and perception.
+Seed: 2991916769
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Uniqueness, Narrative

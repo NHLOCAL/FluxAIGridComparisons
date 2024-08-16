@@ -1,0 +1,4 @@
+Prompt: Create a black and white photograph featuring a strikingly beautiful woman standing amidst a war-torn landscape. The background should include remnants of destruction, such as crumbling buildings, shattered glass, and debris scattered across the ground. The woman should have an expression of strength and resilience, with her hair slightly tousled by the wind, and wearing a flowing, elegant dress that contrasts with the harsh environment. The lighting should be dramatic, casting high-contrast shadows and highlights to accentuate her features and the textures of the ruined surroundings. The composition should evoke a sense of hope and beauty emerging from chaos, focusing on the juxtaposition between her grace and the devastation around her, creating a powerful and moving visual narrative.
+Seed: 1048522073
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mind, Romance

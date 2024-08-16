@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a vibrant sci-fi fantasy landscape. The foreground features lush, bioluminescent plants with iridescent leaves that glow softly in various shades of blue and green. Towering crystalline structures rise majestically in the background, reflecting the light from a multi-colored aurora overhead. The sky is a swirling blend of purple and turquoise, dotted with distant, shimmering stars. A tranquil river weaves through the landscape, its waters sparkling with ethereal light and surrounded by smooth, rounded stones. The scene is bathed in soft, atmospheric lighting that enhances the sense of peace and growth, inviting the viewer to explore this serene, otherworldly realm. High resolution, ultra-detailed, and composed with a balanced perspective.
+Seed: 272044334
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Growth, Tranquility

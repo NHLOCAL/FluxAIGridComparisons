@@ -1,0 +1,10 @@
+Prompt: Create a surreal artwork representing the concept of duality, featuring two contrasting figures: one side embodies a serene, peaceful presence with soft, luminous colors, while the other side depicts a chaotic, dark entity with jagged shapes and deep shadows. The figures should be positioned in such a way that they appear to be intertwined, emphasizing their connection even in contrast. 
+
+At the center of the composition, include a heart symbol that pulsates with vibrant energy, split down the middle, half glowing with warm hues like gold and pink, and the other half shrouded in cooler tones like deep blue and violet. 
+
+The background should transition smoothly between these two realms, with a gradient pattern that reflects the contrasting natures of the figures. The lighting should enhance the sense of duality, with soft, warm light illuminating the peaceful figure while harsh, erratic light sources cast unsettling shadows on the chaotic entity. This should create a dreamlike atmosphere, inviting the viewer to explore themes of balance and contradiction. 
+
+The overall art style should lean towards a blend of fantasy and abstract, focusing on vivid colors and sharp contrasts to highlight the interplay between tranquility and turmoil.
+Seed: 1746900700
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peek, Heart

@@ -1,0 +1,4 @@
+Prompt: Create an image showcasing a feminine figure embodying duality, set against a stark tundra landscape. The figure should be split down the middle, one half adorned in a flowing white gown, radiating a soft glow, representing purity and serenity, while the other half is dressed in darker, rugged attire made of fur and leather, symbolizing strength and resilience. The backdrop features a snowy tundra with gentle slopes and scattered ice formations under a cloudy, pastel sky. The lighting is soft and diffused, enhancing the ethereal quality of the scene. The angle is slightly elevated, allowing a full view of the figure and the expansive tundra that surrounds her. The overall atmosphere should blend elements of tranquility and raw nature, capturing the essence of feminine beauty through contrasting themes, rendered in a realistic art style.
+Seed: 2013343705
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fair, Tundra

@@ -1,0 +1,4 @@
+Prompt: A close-up photograph of two masks placed side by side on a textured wooden table. The left mask, painted in a vibrant, cheerful yellow with a wide smile, is adorned with intricate floral designs. In contrast, the right mask is a somber, dark blue with a sorrowful frown, detailed with teardrop patterns. The lighting is soft and diffused, casting gentle shadows that accentuate the masks' features. The background is blurred, creating a sense of depth and focusing attention on the masks. The overall composition invites viewers to reflect on the themes of duality and the contrast between joy and sorrow, captured through the careful arrangement of colors and expressions.
+Seed: 1940147524
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tundra, Skepticism

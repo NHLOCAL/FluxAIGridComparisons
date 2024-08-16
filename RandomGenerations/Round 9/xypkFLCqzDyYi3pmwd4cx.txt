@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a split landscape, where one half depicts a vibrant, sunny day with blooming flowers, children playing, and a clear blue sky. The other half contrasts starkly, showcasing a dark, stormy environment with ominous clouds, lightning striking, and deserted streets. In the center, place a solitary figure standing at the divide, half in the light and half in the shadow, appearing contemplative. The lighting should be dramatic, enhancing the tension between the two sides, with sharp contrasts and vivid details on each side. This visual metaphor highlights the juxtaposition of joy and despair, creating a striking representation of emotion and duplicity.
+Seed: 1503781899
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Courtship, Feeling

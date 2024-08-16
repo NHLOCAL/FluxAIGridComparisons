@@ -1,0 +1,8 @@
+Prompt: A powerful black and white photograph capturing a striking portrait of a beautiful woman amid war-torn surroundings. The woman stands confidently at the center, her expression serene and poised despite the chaos around her. She has flowing dark hair, accentuating her graceful features, and wears a tattered yet elegant dress that flutters gently in the breeze. 
+
+In the background, crumbling buildings and debris litter the scene, symbolizing the destruction of war. Completing the atmosphere, smoky clouds loom overhead, and fragments of shattered glass glisten in the light. However, there are hints of life breaking through the ruin, such as resilient wildflowers pushing through the cracks in the pavement, adding a subtle contrast to the devastation. 
+
+The lighting is soft yet dramatic, emphasizing the woman's beauty and the juxtaposition of hope within destruction. The composition captures a blend of strength and fragility, evoking a narrative of resilience and rebirth through stunning contrasts. High-resolution, photographic clarity, and nuanced textures.
+Seed: 1703775982
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Boutique, Enchanter

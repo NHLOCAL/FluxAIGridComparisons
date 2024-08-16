@@ -1,0 +1,4 @@
+Prompt: A dynamic photograph capturing a daring stunt performed by a uniquely designed extraterrestrial. The alien has an elongated, vibrant green body adorned with intricate patterns and iridescent scales that catch the light. Its large, expressive eyes and multiple appendages add an element of surrealism. The scene is set against a dramatic backdrop of a futuristic city with towering skyscrapers, neon lights, and a darkening sky. The alien is mid-action, soaring through the air on a hoverboard or jetpack, with trails of colorful energy emitting from behind. The angle of the shot emphasizes the height and the thrill of the stunt, while dynamic lighting highlights the details of the alien's features and the surrounding environment. The overall atmosphere is exhilarating, filled with energy and a sense of adventure, creating a visually captivating moment.
+Seed: 3230291463
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hallucination, Age

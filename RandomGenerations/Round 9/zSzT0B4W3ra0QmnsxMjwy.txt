@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of a large, ornate mirror, gazing at their younger self reflected within it. The adult figure, dressed in casual modern clothing, appears contemplative, with a thoughtful expression on their face. The younger self, depicted as a child in vibrant, playful attire, looks back with innocence and curiosity. The background should be a softly lit, cozy room filled with personal items and memorabilia that reflect the adult's life journey, such as framed photographs, books, and mementos. Warm, ambient lighting casts gentle shadows, creating a nostalgic atmosphere. The focus should be sharp on both figures in the mirror, while the room gradually fades into a soft blur, emphasizing the connection between the past and present. The scene evokes a sense of reflection and introspection, captured in stunning detail.
+Seed: 3541691987
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ranch, Dragon

@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a vibrant college campus during the golden hour of sunset. The scene features a group of engaged students sitting on a grassy quad, surrounded by historic buildings with ivy creeping up the walls. The students are diverse in appearance, laughing and interacting with one another, holding books and laptops. The atmosphere is lively and energetic, with warm golden light casting long shadows across the grass. Soft rays of sunlight filter through the trees, creating dappled patterns on the ground. In the background, a striking silhouette of a clock tower stands against a colorful sky, filled with pinks and oranges, enhancing the sense of warmth and camaraderie in this collegiate environment. The style is a blend of realistic detail and a slightly impressionistic touch, emphasizing the beauty of the moment.
+Seed: 320565808
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: College, Light

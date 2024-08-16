@@ -1,0 +1,4 @@
+Prompt: Create a captivating illustration of a graceful feminine figure embodying the essence of spring. The figure should be elegantly adorned in a flowing, pastel-colored gown that seamlessly blends with a vibrant garden setting filled with blooming flowers, lush greenery, and delicate butterflies fluttering around. Soft, golden sunlight filters through the treetops, casting a warm glow on the scene. A gentle breeze causes the gown to billow lightly, emphasizing the figure's poise and beauty. The background is a dreamy landscape of blossoming cherry trees and colorful wildflowers, creating a harmonious connection with nature. The overall composition should convey a sense of renewal, growth, and ethereal grace, rendered in a soft, painterly style with an emphasis on rich colors and intricate floral details.
+Seed: 1812699455
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spring, Endowment

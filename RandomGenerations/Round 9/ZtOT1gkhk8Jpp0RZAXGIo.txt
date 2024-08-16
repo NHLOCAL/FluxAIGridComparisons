@@ -1,0 +1,4 @@
+Prompt: A breathtaking, hyper-realistic photograph of a majestic palace set against a vibrant sci-fi fantasy landscape. The palace features intricate architecture with towering spires, adorned with glistening crystals and illuminated by radiant, multicolored lights. Surrounding the palace is a lush, otherworldly garden filled with exotic flora and luminescent plants that glow softly in the twilight. The sky above is a swirling spectacle of captivating colors, reminiscent of a cosmic sunset, with two moons visible in the distance, casting gentle reflections on a tranquil water body in the foreground. Soft, warm lighting envelops the scene, creating an atmosphere of peace and serenity. The composition invites the viewer to immerse themselves in this enchanting world, showcasing the harmonious blend of elegance and fantasy.
+Seed: 2290284368
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Palace, Peace

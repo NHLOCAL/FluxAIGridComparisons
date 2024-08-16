@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split scene featuring two faces merging into one. On one side, depict a joyful, smiling face with bright, vibrant colors and soft, warm lighting, representing happiness and contentment. On the opposite side, illustrate a sorrowful, frowning face shrouded in darker, muted tones, with shadows accentuating the features to convey a sense of sadness. The background should blend seamlessly from a sunny outdoor setting with blooming flowers on the joyful side to a gloomy, rainy scene with overcast skies on the sorrowful side. The transition between the two sides should be visually striking, illustrating the concept of duplicity and the coexistence of contrasting emotions. Emphasize high detail, sharp focus, and an ultra-realistic style to capture the intricate textures of the skin and the depth of expression.
+Seed: 2276020808
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creek, Earth

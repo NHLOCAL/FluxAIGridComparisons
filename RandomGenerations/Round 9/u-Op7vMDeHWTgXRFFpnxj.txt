@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph capturing a split image of a young girl in two contrasting environments. On one side, she is joyfully playing in a vibrant meadow filled with colorful flowers and sunshine, wearing a bright dress and laughing. On the other side, she is standing in a dimly lit room, her expression solemn and reflective, amidst scattered toys and shadows. The lighting should emphasize the stark difference between the two scenes: warm, inviting sunlight on the meadow side, and cold, muted tones in the room. The camera angle should be centered on the girl, creating a powerful visual dichotomy that highlights the theme of duplicity, emphasizing how one person can exist in contrasting emotional states. The depth of field should keep both scenes in focus, inviting viewers to explore the complexities of her experience.
+Seed: 3103013978
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Noon, Aesthetic

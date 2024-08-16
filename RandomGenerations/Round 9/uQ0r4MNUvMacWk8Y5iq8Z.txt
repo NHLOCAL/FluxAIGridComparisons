@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution photograph that features an old, weathered tree standing alone on a foggy hillside at dawn. The tree's gnarled branches stretch dramatically against the soft light of the sunrise, which casts a warm golden glow contrasting with the cool, misty background. Drops of dew cling to the leaves, sparkling subtly in the rising light. The ground should be covered in soft, lush grass, and small wildflowers peek through, adding hints of color to the serene scene. The composition should be framed from a low angle, emphasizing the tree's towering presence amidst the low-hanging fog. Capture the essence of solitude and quiet beauty through the intricate details of the bark and delicate petals, all while utilizing soft, natural lighting for a calm atmosphere.
+Seed: 1036257836
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awakening, Uniqueness

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph featuring a hauntingly beautiful, abandoned carnival at dusk. The scene is illuminated by a mix of flickering neon lights, casting colorful reflections on the cracked pavement. In the foreground, a worn, empty carousel stands still, its intricate horses frozen in motion, with peeling paint and faded colors. In the background, a shadowy figure can be seen wandering between the dilapidated game stalls, partially obscured by swirling mist. The sky is a dramatic blend of deep blues and purples as twilight sets in, with a crescent moon hanging low. The overall composition emphasizes contrast, capturing both the whimsical charm and the eerie desolation of the scene, inviting viewers to contemplate themes of nostalgia and abandonment. Cinematic lighting, high detail, and a sense of mysterious allure.
+Seed: 3917995515
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gray, Trust

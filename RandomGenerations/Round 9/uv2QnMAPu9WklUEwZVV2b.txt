@@ -1,0 +1,4 @@
+Prompt: Create an image showing a cracked mirror standing upright in a dimly lit room. The reflections in the shattered glass should depict two contrasting scenes: on one side, a vibrant, lively party filled with laughter and bright colors, and on the other side, a dark, moody corner of the same room with a solitary figure sitting in shadows, appearing lost and melancholic. The lighting should be soft and moody, casting long shadows across the floor. A single flickering candle illuminates the scene, creating uneven light patterns and enhancing the sense of duplicity. The overall composition should highlight the stark contrast between the joy of the party and the solitude of the figure, inviting viewers to reflect on the complexity of emotions. Style reminiscent of chiaroscuro, focusing on depth and light interplay.
+Seed: 3358106599
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Happiness, Norm

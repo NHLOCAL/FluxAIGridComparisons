@@ -1,0 +1,4 @@
+Prompt: Create a captivating image showcasing the concept of feminine beauty and duality. It features a female figure gracefully posed, half of her body radiating a warm, vibrant glow depicting life, adorned with delicate flowers and soft hues of pink and gold. The other half is enveloped in a cold, ethereal darkness, incorporating elements of antimatter, such as translucent, dark textures with a cosmic shimmer. The background depicts a surreal cosmic landscape, filled with swirling galaxies and distant stars, emphasizing the contrast between light and dark. The lighting should be dramatic, illuminating the figure with soft highlights on the glowing side and stark shadows on the dark side, enhancing the duality theme. The overall atmosphere is both enchanting and mysterious, inviting the viewer to explore the intersection of beauty and the cosmos.
+Seed: 3416053030
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Smell, Antimatter

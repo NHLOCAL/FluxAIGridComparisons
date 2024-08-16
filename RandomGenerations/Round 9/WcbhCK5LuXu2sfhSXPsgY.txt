@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an abandoned, rusting carousel in a quiet park, overgrown with wildflowers and tall grass. The carousel is intricately detailed with faded paint and chipped horses frozen in mid-gallop, their eyes glazed and expressionless. Soft, muted colors dominate the scene, with a dusky sunset casting a warm, golden light that contrasts against the cool tones of the rust. In the background, faint silhouettes of leafless trees stand against a cloudy sky, creating a sense of desolation. Gentle breezes scatter petals and debris around the carousel, while long shadows stretch across the ground. The overall composition invites a contemplative reflection on nostalgia and the passage of time, emphasizing the beauty in decay and forgotten joy.
+Seed: 918002359
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Skyscraper, Present

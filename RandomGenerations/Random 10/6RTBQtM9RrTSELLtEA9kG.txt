@@ -1,0 +1,6 @@
+Prompt: Capture a hyper-realistic photograph of a unique extraterrestrial performing a breathtaking stunt on a hoverboard. The alien should have an elongated, colorful body with shimmering scales that reflect the surrounding light, multiple limbs, and large expressive eyes. It is leaping off a futuristic ramp that appears to be made of a smooth, metallic material. The background is a vibrant alien landscape filled with strange, bioluminescent flora and a swirling purple sky dotted with stars. 
+
+The scene is illuminated with dynamic lighting, casting dramatic shadows and highlighting the intricate textures of the alien's skin. The angle is slightly low, emphasizing the height of the jump and the alien's impressive athleticism. Add a hint of motion blur to convey speed and excitement as the extraterrestrial performs a flip mid-air, creating a thrilling atmosphere that showcases the uniqueness of the stunt and the character.
+Seed: 3285863842
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stillness, Conjurer

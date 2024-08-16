@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph featuring a captivating woman standing amidst war-torn scenes. The background showcases the remnants of destruction, with crumbling buildings and scattered debris, framing the woman in a stark and powerful contrast. She is dressed in elegant attire, exuding grace and resilience, with soft light illuminating her face, accentuating her delicate features. The composition emphasizes textures, highlighting the juxtaposition of beauty against the harshness of the environment. Shadows create depth and drama throughout the scene, while the overall monochromatic palette enhances the emotional weight of the image, symbolizing the emergence of beauty from devastation. The photograph conveys a sense of strength and hope amidst chaos, capturing a moment of defiance and elegance in a challenging setting.
+Seed: 2203575185
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Flower, Sunrise

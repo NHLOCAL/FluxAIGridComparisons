@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a scene at an abandoned amusement park during twilight. The rusted rides, such as a Ferris wheel and merry-go-round, are overgrown with weeds and vines, highlighting nature reclaiming the space. The sky is a gradient of deep purples and oranges as the sun sets in the background, casting long shadows across the cracked pavement. A lone teddy bear, worn and faded, sits on a bench, with patches of grass growing around it, indicating how long it has been forgotten. The lighting is soft, creating an atmospheric yet eerie mood, with a natural vignette that draws attention to the central focus of the photograph. The overall scene conveys a sense of nostalgia, loss, and the passage of time, evoking feelings of melancholy.
+Seed: 540765735
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Movement, Commitment

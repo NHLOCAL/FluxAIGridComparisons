@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of an ornate, vintage mirror, gazing at their younger self reflected within. The older individual, depicted with subtle wrinkles and a contemplative expression, is dressed in casual clothing, with soft warm lighting accentuating their features. The younger self appears vibrant and full of life, wearing a bright outfit and a curious look. The background should be a cozy room with warm tones, bookshelves filled with books, and a window allowing gentle sunlight to stream in. The mirror frame is intricately carved, adding to the nostalgic atmosphere. The scene conveys a sense of introspection, blending realism with an emotional connection between the two reflections.
+Seed: 1010228656
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heart, Gratitude

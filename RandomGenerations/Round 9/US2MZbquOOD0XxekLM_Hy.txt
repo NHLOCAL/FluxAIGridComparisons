@@ -1,0 +1,4 @@
+Prompt: Create a photograph featuring a half-shadowed face of a woman with striking features. One half of her face should be illuminated by soft, warm lighting, showcasing a serene and genuine smile, while the other half is enveloped in deep shadows, highlighting a frown or a look of sadness. The background should be a textured dark gradient that enhances the contrast between light and shadow, adding depth to the composition. The focus should be on the intricate details of her skin, the play of light across her features, and the striking dichotomy of expression. Captured in ultra-high resolution, the image should invoke a sense of duality and introspection, emphasizing the complexities of human emotion in a stark yet beautiful manner.
+Seed: 2766722234
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cloning, Sexy

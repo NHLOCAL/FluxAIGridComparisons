@@ -1,0 +1,4 @@
+Prompt: A visually striking portrait of a woman embodying the concept of duality. The scene is split down the middle, with one half showcasing a soft and ethereal version of her, surrounded by delicate pastel colors and blooming flowers. The lighting is gentle and warm, creating an inviting atmosphere. The other half depicts a powerful and fierce persona, with bold, high-contrast shadows and a backdrop of jagged mountains and stormy skies. Her expression is confident, with sharp features accentuated by dramatic lighting. The background features intricate patterns that symbolize influence and certainty, intertwining elements from both halves. The overall composition combines elements of realism and surrealism, rich in color and detail, inviting contemplation on the balance of feminine beauty and strength.
+Seed: 2868266974
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Influence, Certainty

@@ -1,0 +1,6 @@
+Prompt: Create a captivating photograph of a sci-fi/fantasy landscape featuring a mysterious bog enveloped in a dense, swirling mist. In the foreground, intricate roots of ancient trees emerge from the murky water, creating a natural labyrinth. Scattered ruins of an old, forgotten civilization can be seen peeking through the fog, with crumbling stone pillars and weathered arches partially submerged in the bog. 
+
+The background reveals a surreal sky painted in dramatic hues of purple and deep blue, illuminated by two crescent moons casting ghostly reflections on the water's surface. Bioluminescent plants line the edges of the bog, glowing softly in contrasting greens and whites, adding a magical ambiance to the scene. The overall composition should evoke a sense of intrigue and adventure, transporting the viewer to a forgotten world filled with potential mysteries. Utilize sharp focus on the foreground details, while allowing the background to fade softly in the mist, creating depth and a dreamlike quality.
+Seed: 1959650973
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bog, Ruin

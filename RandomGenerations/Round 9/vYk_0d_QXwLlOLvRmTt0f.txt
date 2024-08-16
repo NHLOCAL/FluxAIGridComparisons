@@ -1,0 +1,4 @@
+Prompt: Create a captivating photograph of a split-face portrait of a human, half portraying a smiling face with bright, vibrant colors and an array of butterflies fluttering around it, while the other half presents a somber expression in muted, dark tones, with shadows cast across the features. The background should transition smoothly from a sunny, floral environment on the smiling side to a dark, stormy setting with swirling clouds and raindrops on the somber side. The lighting should be dramatic, enhancing the contrast between the two halves of the face, illustrating a strong sense of duplicity. The focus should be sharp on the facial features, while the background elements gently blur to create an immersive depth.
+Seed: 74670859
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hyperdrive, Shoreline

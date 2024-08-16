@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a small wooden boat drifting in a foggy lake at dawn. The boat is weathered and slightly worn, with peeling paint and moss growing along its edges. Mist hovers above the calm water, creating a sense of serenity and stillness. In the background, silhouettes of tall trees emerge from the fog, their outlines softened by the haze. The soft light of the rising sun filters through the mist, casting warm golden tones that contrast with the cool grays of the fog. The overall scene conveys tranquility and solitude, inviting the viewer to reflect on nature's beauty and the passage of time.
+Seed: 2428367758
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ice, Satisfaction

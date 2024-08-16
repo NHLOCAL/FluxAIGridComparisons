@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly person sitting alone on a weathered wooden bench in a park. The person's face, etched with deep lines and a wistful expression, reflects a lifetime of stories and memories. In their hands, they hold an old, faded photograph, barely visible, hinting at the past. The background features autumn leaves falling gently around them, with hues of orange, yellow, and red creating a nostalgic atmosphere. Soft, diffused afternoon sunlight filters through the trees, casting a warm golden glow on the scene, enhancing the feeling of solitude. The overall composition captures the profound beauty of reflection and the passage of time in a serene, natural setting.
+Seed: 4011452378
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Partner, Fidelity

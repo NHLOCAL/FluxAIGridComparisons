@@ -1,0 +1,4 @@
+Prompt: Create a captivating double exposure artwork featuring a multi-headed Hydra intertwined with scenes of urban development. The Hydra's sinuous, serpent-like bodies should be vividly detailed, with each head exhibiting fierce expressions and intricate scales. The background should showcase a bustling cityscape under construction, with cranes, scaffolding, and buildings rising into the sky. The contrast between the mythical creature and the modern metropolis should create a striking visual balance, highlighting themes of power and evolution. The lighting should be dynamic, with dramatic shadows and highlights that emphasize the forms of both the Hydra and the urban environment. Rendered in a hyper-realistic style, the image should evoke a sense of wonder and surrealism, with a high level of detail that captivates the viewer.
+Seed: 1685695442
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hydra, Development

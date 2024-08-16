@@ -1,0 +1,4 @@
+Prompt: A stunning portrait of a beautiful woman standing in the midst of a war-torn landscape, surrounded by remnants of destruction such as crumbling buildings and scattered debris. Her expression is serene, contrasting with the chaos around her. The woman is adorned in an elegant, flowing gown that appears almost ethereal, with vibrant colors that stand out against the muted tones of the ravaged environment. Sunlight filters through dark storm clouds, casting a warm glow on her figure, symbolizing hope and resilience. In the background, faded graffiti and the silhouette of a ruined cityscape add depth, while wildflowers bloom in patches of earth, representing the emergence of beauty from despair. The style combines photorealism with elements of fine art, enhanced by soft, dramatic lighting to create a striking yet inspiring image.
+Seed: 768902932
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Specter, Ice

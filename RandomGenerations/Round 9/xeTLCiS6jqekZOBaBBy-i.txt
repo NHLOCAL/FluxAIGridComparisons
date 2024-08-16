@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a pulchritudinous landscape featuring a majestic gargoyle perched atop a craggy cliff. The gargoyle, intricately detailed with ornate carvings and a graceful yet formidable stance, gazes into the distance. The background showcases an expansive, otherworldly landscape filled with vibrant colors—emerald green valleys, bubbling turquoise rivers, and distant mountains that seem to kiss the sky. Dramatic, swirling clouds illuminated by light rays create a striking contrast against the deep hues of the setting sun. The scene is enriched by an ethereal glow from bioluminescent flora dotted throughout the foreground, enhancing the fantasy atmosphere. Shot with high-resolution detail to capture every nuance of the gargoyle's textured surface and the vivid colors of the landscape, creating a visually stunning and immersive experience.
+Seed: 434010377
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gargoyle, Pulchritudinous

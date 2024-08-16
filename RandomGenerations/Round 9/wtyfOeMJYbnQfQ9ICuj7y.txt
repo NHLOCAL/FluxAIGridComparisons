@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting on a weathered wooden bench in a quiet park during autumn. The man has a long, gray beard and deep wrinkles on his face, showcasing a lifetime of experiences. He wears a cozy, oversized sweater and holds a tattered book in his hands. Surrounding him are vibrant autumn leaves in shades of orange, yellow, and red, gently falling from the trees. The background features a soft-focus view of a tranquil pond reflecting the colorful trees. Golden hour lighting bathes the scene in warm hues, creating a soft and nostalgic atmosphere. The composition captures a moment of solitude and reflection, emphasizing the delicate beauty of life’s fleeting moments.
+Seed: 3777405215
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Seer, Resplendent

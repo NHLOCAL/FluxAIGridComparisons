@@ -1,0 +1,4 @@
+Prompt: A stunning photograph depicting a surreal landscape on an exoplanet, featuring a massive, intricately detailed gargoyle perched atop a jagged rock formation. The gargoyle's stone surface is adorned with celestial patterns and vibrant alien flora weaving around its feet. In the background, a breathtaking sky transitions through hues of deep purple and vivid turquoise, scattered with strange, luminous clouds. Multiple distant moons and a bright, swirling galaxy are visible, adding to the otherworldly atmosphere. The lighting is ethereal, with radiant beams filtering through the clouds, casting dramatic shadows on the rocky terrain. This sci-fi/fantasy landscape evokes a sense of adventure and mystery, inviting the viewer to explore the unknown.
+Seed: 3027602089
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exoplanet, Gargoyle

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary man sitting on a weathered wooden bench in a foggy park. The man, dressed in a dark, tattered coat, gazes into the distance with a forlorn expression. Surrounding him are leafless trees shrouded in thick mist, their branches appearing ghostly and bare. The soft gray lighting creates an atmosphere of melancholy, with shadows deepening around the figure. Puddles on the ground reflect the muted tones of the scene, while distant streetlights emit a faint, warm glow that barely pierces the fog. The overall composition invites introspection, capturing the essence of solitude and contemplation amidst a desolate landscape.
+Seed: 521637330
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Borough, Djinn

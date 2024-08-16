@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a vintage mirror reflecting a split scene. On one side, a vibrant, sunny garden filled with blooming flowers, bright colors, and a cheerful atmosphere. On the other side, a dark, gloomy forest with twisted trees, muted colors, and an air of mystery. The mirror itself is ornately framed, with intricate carvings, showing age and character. The lighting is soft and diffused, casting gentle shadows on both sides, creating a surreal contrast between the joyous garden and the foreboding forest. The overall composition invites the viewer to explore themes of duality and choice, with a focus on rich textures and intricate details in both environments.
+Seed: 3456296928
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Orc, Luscious

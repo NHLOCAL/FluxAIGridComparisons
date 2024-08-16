@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph capturing the essence of resilience and beauty in a war-torn landscape. The central figure is a beautiful woman with flowing hair, her expression poised and contemplative, symbolizing strength amidst chaos. Surrounding her are remnants of destruction: crumbling buildings, scattered debris, and twisted metal, creating a stark contrast to her serene presence. The lighting is dramatic, with sharp shadows and highlights that accentuate her features and the intricate details of the ruins. The background features a smoky sky, hinting at the aftermath of conflict, while soft rays of light break through the clouds, illuminating her and suggesting hope. This composition emphasizes the juxtaposition of beauty against a backdrop of devastation, rendered in high contrast to enhance the emotional impact of the scene.
+Seed: 932147783
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Memorial, Work

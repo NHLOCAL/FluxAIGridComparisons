@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a determined businessperson standing confidently in a bustling cityscape. The businessperson's silhouette is filled with vibrant images representing success, such as skyscrapers, upward-trending graphs, and a sunrise over a city skyline. Overlaying this is a serene landscape depicting loyal companions, such as a pack of dogs running joyfully in a lush green park. The contrast between the energetic city and the tranquil nature creates a harmonious blend of ambition and loyalty. The lighting should be bright and uplifting, emphasizing the themes of achievement and emotional connection. The angle should be a slight low-angle shot to convey a sense of empowerment, with soft focus on the background elements, keeping the figure detailed and sharp, enhancing the overall depth of the image.
+Seed: 2709570170
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Success, Loyalty

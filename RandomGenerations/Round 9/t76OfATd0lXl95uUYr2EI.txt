@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a mirrored lake reflecting a stunning mountainous landscape. On one side of the image, depict a bright, sunlit scene with vibrant green trees, colorful wildflowers, and a clear blue sky. On the opposite side, show a darker, stormy atmosphere, with ominous gray clouds, silhouetted trees, and a turbulent water surface creating a sense of unease. The contrast between the two halves should be striking, with the calmness of the sunny side juxtaposed against the chaos of the stormy side. The lighting should enhance the duplicity, highlighting the sharp divide between the tranquil and tumultuous environments. This visually arresting image invites viewers to explore the theme of duality in nature.
+Seed: 1447228159
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fair, Diamond

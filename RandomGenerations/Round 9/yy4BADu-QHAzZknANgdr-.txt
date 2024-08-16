@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting on a weathered wooden bench in a quiet park during autumn. The man should have deep lines on his face, showing years of life experiences, and his soft, gray hair is slightly tousled by a gentle breeze. Surrounding him are vibrant autumn leaves in shades of red, orange, and yellow, creating a warm, nostalgic atmosphere. The background features softly blurred trees, and hazy sunlight filters through, casting dappled shadows on the ground. A few leaves fall gracefully, capturing a moment of time's passage. The scene is bathed in golden hour lighting, emphasizing the rich colors and textures, creating a serene and contemplative environment. The overall composition, framed from a slight angle, suggests solitude and reflection, inviting viewers to appreciate the beauty of life and nature.
+Seed: 3010394248
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Norm, Crush

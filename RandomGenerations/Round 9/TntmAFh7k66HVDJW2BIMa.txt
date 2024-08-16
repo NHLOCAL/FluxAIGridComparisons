@@ -1,0 +1,6 @@
+Prompt: Create a striking illustration of an alchemist standing in a dimly lit laboratory, adorned with ancient symbols and various glass vials containing colorful potions. The alchemist, a middle-aged woman with flowing auburn hair and a long, flowing robe decorated with alchemical signs, is hunched over a large, mysterious book, pouring a shimmering, luminescent liquid into a glass flask. The background is filled with towering shelves filled with glowing substances, illuminated by flickering candles casting soft shadows. 
+
+In one hand, she holds a heart-shaped pendant radiating an ethereal glow, signifying the theme of "duplicity in love." The contrasting elements of the lab represent the duality of love—its beauty and danger. The lighting is warm and shadowy, creating a mystical atmosphere, accentuated by deep reds and golds. Captured from a slight low angle to emphasize the alchemist's focus and the intricate details of her surroundings. The overall artwork combines fantasy elements with an alchemical theme, creating an enchanting and captivating scene.
+Seed: 716030872
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alchemist, Effect

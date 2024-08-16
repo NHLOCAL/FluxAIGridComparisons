@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring a feminine figure artistically carved from a large, ornate stone. The figure should embody a blend of elegance and grace, with flowing robes that seem to merge into the texture of the stone. Surrounding the figure, depict vibrant, swirling flames that create a stark contrast against the cool texture of the stone. The flames should incorporate warm hues of red, orange, and yellow, illuminating the scene with a dynamic glow. The background should be dark to enhance the brightness of the flames and the intricate details of the stone figure. Use dramatic lighting to cast soft shadows, accentuating the contours and details of both the stone and the flames, capturing a sense of enchanting beauty and mystique. The overall composition should blend elements of realism and surrealism, creating an evocative visual experience.
+Seed: 2285850937
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stone, Flame

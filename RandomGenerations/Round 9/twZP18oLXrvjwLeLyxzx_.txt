@@ -1,0 +1,8 @@
+Prompt: Create a stunning illustration that embodies the concept of feminine beauty and duality within a theatrical setting. The scene features two graceful female figures poised elegantly on opposite sides of a grand stage. One side portrays a radiant goddess in flowing white garments, exuding light and perfection, while the other presents a mysterious enchantress dressed in deep, shadowy hues, embodying allure and intrigue. 
+
+The backdrop should be a dramatic, velvet curtain in rich crimson, accentuated with ornate golden trim, enhancing the theatrical aspect. Soft, ethereal lighting illuminates the goddess with a warm glow, while the enchantress is enveloped in cooler, bluish shadows, emphasizing the contrast between light and dark.
+
+In the center stage, an ornate vintage mirror reflects their qualities, symbolizing clarity and the dual nature of beauty. The scene captures intricate details, such as the delicate fabrics of their dresses, the embellishments in their hair, and the expressions on their faces, revealing the complexity of femininity. The overall composition should convey a sense of harmony and balance, merging elegance with a hint of drama. The illustration should be highly detailed, vibrant, and imaginative, resulting in a visually captivating masterpiece.
+Seed: 1447675334
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Theater

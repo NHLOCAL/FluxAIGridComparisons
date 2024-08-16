@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph capturing a split face of a person, showcasing a stark contrast between two emotions. The left side of the face should display a serene smile with soft lighting, and warm pastel colors in the background featuring blooming flowers. In contrast, the right side of the face should depict a pained expression, illuminated by harsh, cold lighting, with dark and shadowy tones in the background reflecting a stormy scene. The juxtaposition of the two sides should be striking, with intricate detail in the facial features, showcasing the tension between joy and sorrow, enhanced by the lighting differences and color palettes. The scene should be shot in a close-up, focusing on the intricate textures of skin and emotion.
+Seed: 469263792
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Utopia, Route

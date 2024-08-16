@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph capturing a cracked mirror reflecting two contrasting scenes. On one side, a vibrant cityscape filled with bustling streets, colorful lights, and happy pedestrians, while the other side reveals a dark, abandoned alley shrouded in shadows, littered with broken glass and graffiti. The mirror itself shows a slight distortion, enhancing the sense of duplicity. The scene is illuminated with dramatic lighting, casting long shadows that stretch between both worlds. The overall atmosphere invites the viewer to reflect on the contrast between joy and despair, emphasizing the complexity of urban life. Highly detailed, high resolution, cinematic.
+Seed: 3241239682
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Seduction, Relaxation

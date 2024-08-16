@@ -1,0 +1,6 @@
+Prompt: Create an image of a bustling subway station, filled with diverse passengers waiting for their train. In the foreground, prominently feature a couple sharing a passionate kiss, their body language expressing intimacy and connection amidst the crowd. The subway's metallic architecture casts reflections and shadows, creating a sense of movement and energy in the scene. 
+
+In the background, through large glass windows, depict a breathtaking observatory overlooking a starry night sky filled with vibrant celestial bodies, planets, and swirling galaxies. The contrast between the warm, intimate embrace of the couple and the vast, mysterious universe creates an intriguing juxtaposition. Use soft, ambient lighting to enhance the mood, giving the scene a romantic yet surreal atmosphere. The overall composition should highlight the themes of love and desire against a backdrop of urban life and cosmic wonder.
+Seed: 4152759215
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Subway, Observatory

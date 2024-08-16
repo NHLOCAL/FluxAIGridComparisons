@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a vintage mirror framed in ornate, golden detailing, set against a dimly lit room filled with shadows. In the reflection of the mirror, depict a serene landscape featuring a bright, sunny meadow filled with vibrant flowers and fluttering butterflies. The foreground of the photograph should feature a cloaked figure standing with their back to the viewer, their face hidden in the shadows, holding a wilted flower that contrasts with the lively scene in the mirror. The room itself should have a muted color palette, with flickering candlelight casting soft, elongated shadows on the walls, enhancing the sense of duplicity between the calm outside and the somber inside. The overall composition should evoke a sense of intrigue and contemplation, inviting the viewer to ponder the contrast between reality and reflection.
+Seed: 1706891816
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Force, Apocalypse

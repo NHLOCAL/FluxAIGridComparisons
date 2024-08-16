@@ -1,0 +1,4 @@
+Prompt: Create an image of a riverbank scene at sunset, where a graceful, feminine figure stands at the edge of the water. Her silhouette is backlit by the warm hues of orange and pink in the sky, which reflects off the tranquil surface of the river. The woman's flowing dress, made from light, sheer fabric, billows gently in the breeze, accentuating her form. Surrounding the riverbank, lush greenery and wildflowers add vibrant colors to the scene, while soft light filters through the leaves, casting dappled shadows. The angle should be wide, capturing both the figure and the serene landscape, emphasizing a sense of harmony between nature and beauty. The overall atmosphere should evoke an enticing and captivating serenity, inviting the viewer into a moment of fleeting allure and grace. Photorealistic style, high detail, cinematic lighting.
+Seed: 3410032085
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Riverbank, Work

@@ -1,0 +1,4 @@
+Prompt: Create an image capturing a dramatic landscape that embodies the theme of duplicity. In the foreground, depict a serene and vibrant sunset over a calm lake, with trees and wildflowers reflected perfectly in the water, showcasing an idyllic scene. However, as the eye moves upward, the background transitions into a stormy sky filled with dark, menacing clouds and lightning illuminating a turbulent horizon. This juxtaposition creates a striking contrast between tranquility and chaos. The lighting should emphasize the warm hues of the sunset in the lower part of the image while casting cold shadows above. The overall composition should draw the viewer's attention to the duality of the scene, blending elements of beauty and danger in a hyper-realistic style, high resolution, and intricate detail.
+Seed: 1733925697
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Appreciation, Icon

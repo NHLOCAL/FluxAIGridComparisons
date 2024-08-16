@@ -1,0 +1,4 @@
+Prompt: A captivating photograph of an old, weathered key resting on a cracked wooden surface, surrounded by scattered dried rose petals. The key’s intricate designs shine softly in the low, warm light, casting delicate shadows that dance across the surface. In the background, blurred and faded, a partially open handwritten letter reveals a heartfelt message with smudged ink, hinting at lost love or a secret. The atmosphere captures a sense of nostalgia and bittersweet memory with contrasting elements of beauty and decay, creating a visually striking representation of emotional depth and complexity. The color palette features rich browns and deep reds, enhancing the sense of warmth and longing.
+Seed: 1982918354
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Temple, Begin

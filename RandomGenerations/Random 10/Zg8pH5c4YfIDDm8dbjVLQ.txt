@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph capturing a beautiful woman standing amidst a war-torn landscape. The backdrop features crumbling buildings and debris, symbolizing destruction. The woman, dressed in a flowing, ethereal gown, contrasts sharply with the harsh environment. Her expression is serene, embodying grace and resilience. The lighting highlights her features, casting soft shadows that create depth and texture. A gentle breeze ruffles her hair, adding movement to the stillness of the scene. The composition emphasizes the juxtaposition of beauty and desolation, showcasing a powerful visual narrative of hope arising from destruction. The overall image has a sharp focus, deep contrast, and a cinematic quality that enhances its dramatic impact.
+Seed: 3690044480
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mirage, Intrigue

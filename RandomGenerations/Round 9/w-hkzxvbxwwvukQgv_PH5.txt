@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph capturing a person standing in front of a large, ornate mirror. The individual, a middle-aged woman with shoulder-length dark hair, gazes into the mirror with an expression of contemplation. The reflection in the mirror depicts not just her physical appearance but an ethereal version of herself, glowing slightly with a soft, warm light. The inner self looks serene and confident, dressed in a flowing, white gown, contrasting with the casual attire of the woman. The background features a softly lit room with warm wood tones and subtle textures, enhancing the intimate atmosphere. The lighting is soft and diffused, coming from a nearby window, creating an inviting and introspective scene. Overall, the image conveys a sense of self-discovery and reflection, blending reality with a touch of surrealism.
+Seed: 44391888
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Paper, Library

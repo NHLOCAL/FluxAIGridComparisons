@@ -1,0 +1,4 @@
+Prompt: A breathtaking sci-fi/fantasy landscape featuring a colossal black tower rising majestically against a twilight sky. The tower, constructed from sleek, obsidian-like materials, features intricate carvings and glowing runes that pulse with an otherworldly light. Surrounding the tower is a vast, desolate terrain littered with jagged rocks and alien flora, creating a stark contrast. The atmosphere is illuminated by the soft glow of distant stars and a shimmering, celestial aurora that dances across the sky, casting ethereal hues of purple, blue, and green onto the landscape. In the foreground, a winding path leads toward the tower, lined with luminescent stones that guide the viewer's eye, inviting exploration of this mysterious and captivating world. The scene is captured with high detail and dynamic lighting to emphasize the grandeur and surreal beauty of the landscape.
+Seed: 3472895938
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tower, Black

@@ -1,0 +1,4 @@
+Prompt: A breathtaking illustration of a feminine figure embodying the concept of duality. The subject is split down the center, displaying two contrasting aspects: one half is adorned with vibrant flowers, flowing pastel fabrics, and gentle curves, exuding a sense of grace and femininity. The other half features sharp metallic armor, geometric patterns, and bold colors, conveying strength and power. The background seamlessly transitions from a serene, sunlit garden on one side to a dark, futuristic cityscape on the other, highlighting the contrast between nature and technology. The lighting should create dramatic shadows and highlights, emphasizing the intricacies of both sides. The composition exudes an air of confidence and balance, showcasing the multifaceted nature of beauty in a stunning and captivating manner, cinematic, vibrant, illustration.
+Seed: 104208905
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Likelihood, Demonstration

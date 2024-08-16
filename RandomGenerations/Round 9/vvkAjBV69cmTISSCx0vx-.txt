@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man's hand holding a faded photograph of a young woman, likely his long-lost love. The man's skin is wrinkled and weathered, showing lines that tell stories of a lived life. The photograph in his hand appears worn, with frayed edges and a sepia tone, evoking nostalgia. The background features a soft-focus of a cozy room filled with warm golden lighting, with shadows that hint at a winter evening outside. A warm cup of tea rests on a table beside him, steam rising gently, adding to the intimate atmosphere. The overall composition focuses on the connection between memory and present, highlighting the intricate details of both the man's hand and the treasured photograph.
+Seed: 1836695155
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Genetic engineering, Task

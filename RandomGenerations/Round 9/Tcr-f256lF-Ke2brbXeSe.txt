@@ -1,0 +1,4 @@
+Prompt: Create an image of a rustic wooden cabin in a dense, foggy forest during early morning. The cabin, with its weathered wooden walls and a slight slant in the roof, emits a soft, warm glow from the single window. Surrounding the cabin are towering pines, their silhouettes blurred by the thick fog rolling in. A narrow, winding path leads to the front door, partially obscured by fallen leaves and moss. Soft light filters through the fog, creating a serene atmosphere, with muted greens and browns dominating the color palette. The scene captures a sense of tranquility and solitude, evoking a peaceful connection to nature. Photorealistic style, high detail, cinematic lighting.
+Seed: 1979506735
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Jungle, Respect

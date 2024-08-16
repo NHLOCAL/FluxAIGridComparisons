@@ -1,0 +1,4 @@
+Prompt: A surreal representation of feminine beauty personified as a graceful figure, elegantly poised in a contrasting setting of an industrial factory. The figure, with soft, flowing lines and delicate features, is adorned in a gown made of shimmering metal and intricate gears, symbolizing excellence and duality. One half of the factory is filled with vibrant flowers and greenery, representing life and beauty, while the other half is dominated by dark, rusted machinery and pipes, conveying a juxtaposition of nature and industry. Bright, ethereal lighting falls on the figure, highlighting her features and creating a striking contrast against the dim, gritty backdrop of the factory. The scene captures a sense of elegance amid a harsh environment, emphasizing the harmony between beauty and the industrial world. Detailed, cinematic, vibrant colors, high resolution.
+Seed: 1942390774
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Excellence, Factory

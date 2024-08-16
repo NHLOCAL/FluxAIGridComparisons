@@ -1,0 +1,4 @@
+Prompt: A close-up shot of a broken mirror reflecting a beautifully chaotic room. The shards create a fragmented image of a woman staring pensively, her expression a mix of sorrow and determination. The background shows a blend of soft, warm lighting and harsh shadows, emphasizing the contrasting feelings. Flower petals scatter across the floor, partially in focus, while the reflections hint at a vibrant life behind her, with glimpses of bright colors and lively decor. The scene invites the viewer to explore themes of isolation and resilience through the intricate play of light, shadow, and reflection.
+Seed: 849073008
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Discovery, Bay

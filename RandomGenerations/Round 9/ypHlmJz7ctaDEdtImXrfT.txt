@@ -1,0 +1,4 @@
+Prompt: Create a stunning photograph of a lush sci-fi fantasy landscape featuring a vibrant, verdant valley filled with oversized alien flora. Towering, bioluminescent trees with spiraling branches stretch toward a swirling, colorful sky filled with dynamic clouds in shades of purple, teal, and gold. The ground is carpeted in thick, emerald grass interspersed with glowing flowers that pulse gently with light. A serene river, shimmering with ethereal colors, snakes through the valley, reflecting the kaleidoscopic sky above. In the distance, majestic mountains rise, their peaks dusted with iridescent snow, enhancing the dreamlike setting. The overall composition is vivid and inviting, combining elements of wonder and tranquility, with soft, diffused lighting illuminating the scene, creating a sense of warmth and allure.
+Seed: 3833107101
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Beloved, Luscious

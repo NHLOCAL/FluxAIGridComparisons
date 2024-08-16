@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a serene landscape that features a tranquil lake reflecting a stunning sunset. On one side, the left half of the image should display bright, warm hues of orange, pink, and yellow, creating an inviting atmosphere. The right half, however, transforms into a darker scene, with stormy gray clouds rolling in and hints of thunderous rain. In the foreground, a lone tree stands, half illuminated by the warm light and half obscured in shadow, symbolizing the contrast between peace and turmoil. The water's surface acts as a perfect mirror, showcasing the duplicity of the environment, where tranquility meets impending chaos. High resolution, sharp details, and a captivating depth of field should be emphasized, enhancing the overall observational experience.
+Seed: 1176724761
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Idea, Scenic

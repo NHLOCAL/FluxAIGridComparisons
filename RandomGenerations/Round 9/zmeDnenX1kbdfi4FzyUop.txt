@@ -1,0 +1,4 @@
+Prompt: Create an image of a broken mirror reflecting a dimly lit, empty room. The shards of the mirror are scattered on a worn wooden floor, creating a fragmented view of the space. Each reflection captures different elements of the room: a dusty corner with a cobweb, a single wilted flower in a vase, and shadows that hint at an unseen presence. Soft, muted colors dominate the scene, with warm light from a window casting long, eerie shadows. The overall composition conveys a sense of solitude and introspection, while the disjunction of the mirror shards symbolizes duplicity and the fractured nature of reality. The atmosphere should be still and quiet, evoking contemplation and unease.
+Seed: 3713886304
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Passage, Motif

@@ -1,0 +1,4 @@
+Prompt: Create a captivating double exposure image featuring a fashionable woman in a glamorous evening gown, standing gracefully at a sophisticated event. The woman's silhouette should blend seamlessly with a bustling city skyline at twilight, showcasing illuminated skyscrapers and vibrant nightlife. The gown's flowing fabric should ripple as if caught in a gentle breeze, while the city lights twinkle through her figure, creating a magical effect. The lighting should be soft and romantic, with warm tones highlighting her features. The angle should be a slightly elevated perspective, enhancing the grandeur of the scene. The overall composition should evoke a sense of elegance and excitement, combining the beauty of the woman with the dynamic energy of the city.
+Seed: 3520265640
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sexy, Event

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a lone wooden boat gently bobbing on a fog-covered lake at dawn. The surface of the water is calm, with a slight mist enveloping the scene. The boat, weathered and aged, has peeling blue paint, and a single, tattered fishing net is draped over the side. In the background, silhouetted trees rise from the fog, their outlines obscured, creating a sense of mystery. Soft, diffused sunlight breaks through the fog, casting a warm glow on the scene, creating gentle reflections on the water's surface. This tranquil scene encompasses themes of solitude and quietness, inviting the viewer to contemplate the beauty and serenity of nature. Photorealistic, soft focus, high-resolution.
+Seed: 3467725635
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Current, Wife

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph depicting a mirrored reflection of a cityscape at dusk. On one side, a vibrant, bustling metropolis with colorful lights, busy streets, and people engaged in lively activities. On the opposite side, a stark contrast reveals a hauntingly empty version of the same city, veiled in shadows and shrouded in mist. Wisps of fog weave through the darkened, deserted streets, with the flickering lights appearing dim and ghostly. The lighting should blend soft oranges and blues from the sunset, highlighting the duality of the scene. The perspective should be from street level, emphasizing the magnificence of the buildings while showcasing the emptiness that lies beneath the surface. The overall composition invites viewers to reflect on the dichotomy of urban life, capturing both vibrancy and isolation within a single frame.
+Seed: 2492427451
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Success, Peninsula

@@ -1,0 +1,6 @@
+Prompt: Capture a breathtaking photograph of an extraterrestrial performing a daring stunt in mid-air. The alien has an unusual and striking appearance, featuring vibrant, iridescent skin that shimmers in shades of green, blue, and purple. Large, expressive eyes dominate its slender face, while its elongated limbs are adorned with intricate patterns resembling circuitry. The background is a dramatic sky at dusk, filled with swirling clouds and vivid hues of orange and purple, creating a sense of excitement and adventure.
+
+The stunt involves the extraterrestrial executing a complex aerial maneuver, perhaps somersaulting or flying through fiery hoops, with trails of colorful light following its movements. The lighting is dynamic, highlighting the alien's features and casting interesting shadows on its body. The image should evoke a sense of thrill and uniqueness, showcasing the extraordinary abilities of this otherworldly daredevil. Emphasize the motion blur around the alien to convey speed and agility, creating an exhilarating and visually captivating experience.
+Seed: 2183362662
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Journey, Marina

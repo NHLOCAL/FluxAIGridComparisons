@@ -1,0 +1,8 @@
+Prompt: Create an image depicting a dramatic and intense embrace between two figures, a man and a woman, in a dimly lit, elegant ballroom. The male figure is dressed in a sharp black suit with subtle silver detailing, while the female figure wears a flowing, deep red gown that cascades around her. Their bodies are slightly turned away from each other, creating a sense of tension and forbidden connection. 
+
+The background is adorned with ornate golden chandeliers casting warm, soft lighting, highlighting the couple's features and creating dramatic shadows across the polished marble floor. Elegant, swirling patterns adorn the walls, enhancing the atmosphere. 
+
+The focus is on the details of their expressions, suggesting longing and passion without directly showing their faces, leaving an air of mystery. The angle is slightly above the figures, capturing the depth of their connection against the lavish setting. The overall color palette features rich, deep tones with a hint of dramatic contrasts to emphasize the themes of desire and secrecy.
+Seed: 892090206
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fog, Destruction

@@ -1,0 +1,8 @@
+Prompt: Create a striking image capturing the duality of feminine beauty set against an apocalyptic backdrop. On one side, depict a serene and ethereal woman draped in flowing, luminescent fabrics that shimmer like starlight. Her hair should cascade down in soft waves, adorned with delicate flowers sprouting from her locks. Surround her with a tranquil, celestial landscape featuring soft pastel colors, glimmering stars, and a glowing moon.
+
+On the contrasting side, depict a fierce, empowered woman surrounded by chaotic elements, illustrating the harshness of the apocalypse. Her clothing should be rugged and battle-worn, with darker, muted colors and sharp metallic accents. The background should feature crumbling buildings and swirling storm clouds with flashes of lightning. 
+
+The lighting should alternate between soft, ethereal light in the serene area and dramatic, high-contrast shadows in the chaotic section, emphasizing the contrasts in beauty. The angle should be slightly tilted to enhance the tension and sense of duality between the two women, inviting the viewer to explore the contrasts of vulnerability and strength in the context of an apocalyptic world. The overall style should blend realism with a touch of surrealism to highlight this intriguing juxtaposition.
+Seed: 3765304950
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Recommendation, Apocalypse

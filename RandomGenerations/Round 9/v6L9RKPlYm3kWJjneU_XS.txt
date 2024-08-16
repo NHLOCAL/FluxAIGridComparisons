@@ -1,0 +1,4 @@
+Prompt: Create an image of a feminine figure seamlessly split into two halves, each representing a different aspect of beauty. One side embodies a natural theme, adorned with lush green grass and delicate wildflowers, showcasing soft, flowing hair that blends into the landscape. This half features gentle, warm lighting that emphasizes organic forms. The other side presents a striking contrast, sparkling with diamonds that reflect light in various dazzling colors. This half has a more angular, geometric design, with sharp, crystalline features. The background should be a gradient that transitions smoothly from earthy tones on the nature side to shimmering silver and blue hues on the diamond side. The overall composition highlights the theme of duality in beauty, blending the elements of nature and luxury.
+Seed: 3769635906
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Grass, Diamond

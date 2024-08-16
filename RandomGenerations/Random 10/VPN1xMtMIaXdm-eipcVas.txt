@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph capturing an extraordinary stunt performed by a uniquely designed extraterrestrial. The alien, with vibrant green skin, elongated limbs, and oversized eyes, is mid-air executing a daring somersault off a futuristic hoverboard. Its intricate, colorful patterns and textures create a mesmerizing visual effect against the backdrop of a bustling futuristic city with sleek skyscrapers and neon lights. The alien's expression is one of thrill and excitement, adding to the dynamic nature of the scene. The lighting is dramatic, with spotlights illuminating the alien and casting long shadows on the ground below, while the sky transitions from twilight to night, filled with twinkling stars and flying vehicles creating a sense of rapid movement and adrenaline in this unprecedented moment.
+Seed: 1770064448
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: River, Rest

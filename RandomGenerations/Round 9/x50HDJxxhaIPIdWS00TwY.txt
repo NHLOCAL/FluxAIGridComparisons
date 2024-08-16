@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a person standing in front of a large, ornate mirror. The mirror reflects the individual’s face, but transforms the reflection into an ethereal version of their inner self—depicting vibrant, swirling colors and abstract shapes that represent their emotions and thoughts. The background is a softly lit room with warm tones, adorned with intricate patterns and textures. The person stands in an introspective pose, with soft, diffused lighting illuminating their features, creating a sense of serenity and contemplation. The image should focus on the contrast between the ordinary reality of the person and the dreamlike quality of their reflection, showcasing a blend of realism and surrealism.
+Seed: 3555793430
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Slowness, Wooing

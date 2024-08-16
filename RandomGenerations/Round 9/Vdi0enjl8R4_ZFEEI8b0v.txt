@@ -1,0 +1,4 @@
+Prompt: A close-up photograph of a cracked, weathered mirror reflecting a vibrant, colorful street scene. The surrounding areas are lively, filled with bustling people, street vendors, and bright umbrellas, depicting joy and energy. However, in the glass's fragmented reflections, the image distorts, revealing dark, shadowy figures lurking in the background, creating an unsettling contrast. The lighting should be bright on the vibrant side, while the mirrored side appears darker and more ominous, enhancing the theme of duplicity. The focus should be on the cracks and distortions in the mirror, emphasizing the contrast between the lively street and the hidden darkness within the reflections.
+Seed: 1782924
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Devotion, Expertise

@@ -1,0 +1,4 @@
+Prompt: A portrait of a feminine figure representing duality, half adorned in elegant, flowing garments and the other half cloaked in darker, dramatic attire. The figure stands confidently in a dynamic pose, blending grace and strength. The left side features soft, pastel colors and delicate floral patterns, illuminated by warm, ethereal lighting that highlights the beauty of the fabric. The right side contrasts with deep, rich colors and intricate geometric designs, shrouded in cool, shadowy lighting that creates a sense of mystery. The background consists of a surreal blend of light and dark elements, seamlessly merging to depict the theme of duality. The image captures the essence of balance, showcasing the harmonious coexistence of opposing forces, rendered in a hyper-realistic style with intricate details and sharp focus.
+Seed: 1618627690
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Presentation, Act

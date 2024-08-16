@@ -1,0 +1,4 @@
+Prompt: Create a breathtaking digital photograph of a sci-fi/fantasy landscape featuring two massive, intertwined trees with bioluminescent leaves that illuminate the scene with a soft, ethereal glow. The trees should be set against a backdrop of a starry night sky filled with vibrant colors of purple, blue, and hints of green from distant galaxies. A tranquil lake reflecting the luminescence of the trees and the twinkling stars adds to the romantic atmosphere. In the foreground, a stone pathway lined with delicate, glowing flowers leads to a small wooden bridge connecting both trees, symbolizing connection and love. The lighting should be soft and ambient, enhancing the dreamlike quality of the vibrant landscape. The angle should be slightly elevated, providing a panoramic view of this enchanting scene.
+Seed: 308301009
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yearning, Romance

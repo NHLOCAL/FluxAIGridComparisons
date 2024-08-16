@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that merges a serene landscape with a dreamlike atmosphere. The first layer should depict a tranquil forest scene, with soft, dappled sunlight filtering through the leaves, creating a warm, inviting ambiance. The second layer should transition seamlessly into a night sky filled with swirling constellations and ethereal clouds, enhancing the dreamlike effect. The forest's treetops should intertwine with the stars, suggesting a magical connection between nature and the cosmos. Use vibrant colors, such as deep greens and rich blues, with hints of soft purples and golds to harmonize the two elements. The overall composition should evoke a sense of wonder and variation, showcasing the beauty of both the natural world and the cosmos while creating a surreal and captivating effect.
+Seed: 2281829609
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dream, Variation

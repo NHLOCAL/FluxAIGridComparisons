@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a serene landscape of a tranquil lake surrounded by lush green forests, merging with the silhouette of a thoughtful person sitting cross-legged in meditation. The lake should reflect the vibrant colors of a sunset, with warm oranges, soft pinks, and deep purples, creating a calming atmosphere. The person's outline should include subtle elements like flowing water and gentle ripples that embody the idea of restfulness. The overall composition should balance the natural elements with the figure's calm presence, using soft lighting to enhance the harmony and tranquility of the scene. High resolution, cinematic quality, hyper-realistic details.
+Seed: 4293529942
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honesty, Rest

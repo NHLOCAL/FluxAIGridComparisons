@@ -1,0 +1,4 @@
+Prompt: A striking digital painting of a beautiful woman standing amidst a war-torn landscape, symbolizing resilience and hope. The scene is set in a desolate city, with crumbling buildings and debris strewn about, bathed in the warm, golden light of a setting sun. The woman, with flowing hair and a serene expression, wears a delicate, ethereal gown that contrasts with the harsh surroundings. Around her, vibrant flowers and lush greenery bloom from the cracks in the concrete, signifying beauty emerging from chaos. The overall color palette merges soft pastels with the darker, muted tones of destruction, creating a balanced and powerful visual representation. The composition has a cinematic feel, with dramatic lighting highlighting the woman as the focal point against the backdrop of resilience in nature.
+Seed: 2179504931
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Health, Mausoleum

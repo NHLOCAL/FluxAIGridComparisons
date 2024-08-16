@@ -1,0 +1,4 @@
+Prompt: Create a stark black and white photograph of an elderly person's hands gently holding a faded photograph of a loved one. The hands, with deep wrinkles and age spots, should convey a sense of history and tenderness. The background should be softly blurred, allowing the viewer's focus to remain on the hands and the photograph. Subtle lighting should create soft shadows and highlights that add depth to the image. The scene should feel intimate and nostalgic, inviting viewers to reflect on the passage of time and cherished memories.
+Seed: 1046219211
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shift, Heartthrob

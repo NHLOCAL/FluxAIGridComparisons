@@ -1,0 +1,4 @@
+Prompt: A powerful image showcasing a beautiful woman amidst a war-torn cityscape. The background features crumbling buildings, shattered glass, and remnants of destruction, illuminated by soft, golden light breaking through swirling clouds of smoke. The woman stands confidently in the foreground, her flowing hair and elegant dress contrasting with the harsh environment. She gazes upwards, as if embracing hope and resilience, while vibrant flowers bloom around her feet, symbolizing beauty arising from chaos. The scene captures a dramatic angle, emphasizing the juxtaposition between her grace and the surrounding devastation. Photorealistic style, high detail, cinematic lighting, rich color palette.
+Seed: 4163807372
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Snicker, Amulet

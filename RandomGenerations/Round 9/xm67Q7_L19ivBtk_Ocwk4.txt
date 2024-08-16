@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph capturing a person standing in front of a full-length mirror. The subject is a young woman with long, flowing hair, wearing a simple white dress that contrasts with the dark, moody background. The mirror reflects her image, but instead of her physical self, it reveals a luminous, ethereal version of herself, surrounded by a soft, golden glow. This inner self appears to emanate warmth and serenity, with intricate patterns of light swirling around her form, symbolizing her deeper essence. The lighting is dramatic, highlighting the contrast between the dark room and the bright reflection in the mirror. The angle is slightly below eye level, emphasizing the significance of the moment. The atmosphere is contemplative, evoking a sense of self-discovery and introspection.
+Seed: 2216804556
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Current, Eternity

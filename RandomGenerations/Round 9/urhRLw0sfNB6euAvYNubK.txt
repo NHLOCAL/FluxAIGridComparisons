@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a majestic forest landscape seamlessly layered with a close-up of a serene human face. The forest should include towering trees, lush greenery, and dappled sunlight filtering through the leaves. The human face, with a look of gentle surprise, should be softly blended into the forest, with the textures of the skin merging with the natural elements. The overall color palette should consist of soft greens and earthy tones, with tranquil, diffused lighting that creates a harmonious connection between the human and nature. The angle should emphasize the interweaving of the face and forest, creating a captivating and immersive visual experience.
+Seed: 2538940132
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pointer, Surprise

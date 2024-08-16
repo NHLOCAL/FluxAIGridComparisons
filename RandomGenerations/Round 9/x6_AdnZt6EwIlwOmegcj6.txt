@@ -1,0 +1,4 @@
+Prompt: Create an image illustrating the transformation of two intertwined figures representing love. The figures should be depicted as elegant silhouettes against a vibrant background that transitions from warm reds and pinks to cool blues and greens, symbolizing the duality of emotions in love. The figures' forms should merge and twist together, showcasing intricate details, such as delicate floral patterns or flowing fabric elements, that embody the concept of transcending love. The lighting should be soft and ethereal, with hints of glowing accents enhancing the transformation theme. The angle should be slightly above the figures, offering a unique perspective that invites viewers to appreciate the depth and complexity of love's duplicity, evoking a sense of wonder and intrigue in a surreal art style.
+Seed: 455605574
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Transformation, Sublime

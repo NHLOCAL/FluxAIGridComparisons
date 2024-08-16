@@ -1,0 +1,4 @@
+Prompt: A black and white photograph featuring a strikingly beautiful woman standing amidst a war-torn landscape. The background depicts remnants of destruction, including crumbling buildings, twisted metal, and desolate streets. The woman, with flowing hair and a serene expression, is elegantly posed, exuding grace and resilience. Her attire is simple yet sophisticated, contrasting sharply with the harsh surroundings. Rays of soft, diffused light break through the clouds above, illuminating her figure and creating a sense of hope among the debris. The overall composition emphasizes the juxtaposition of beauty and desolation, highlighting the possibility of rebirth and renewal in the face of adversity. Cinematic lighting and high contrast accentuate the intricate details, creating a profound and evocative image.
+Seed: 2469247179
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: White, Narrative

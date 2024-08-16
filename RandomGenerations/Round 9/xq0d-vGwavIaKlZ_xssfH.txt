@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining elements of a grand, ancient cathedral with a serene landscape of mountains and forests. The cathedral's intricate architecture should be beautifully defined, showcasing its towering spires, ornate windows, and detailed stonework. The natural landscape within the exposure should feature majestic peaks covered in lush greenery, with a clear blue sky above. The merge of the two elements should create a harmonious blend, emphasizing a theme of belief and reverence. The lighting should be soft and diffused, casting gentle shadows and highlighting the details of both the architectural and natural elements. The overall tone should convey a sense of tranquility and spiritual connection, using a balanced color palette of earthy tones and warm sunlight.
+Seed: 944256643
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Belief, Architecture

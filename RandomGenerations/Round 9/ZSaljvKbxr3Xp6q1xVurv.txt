@@ -1,0 +1,4 @@
+Prompt: Create an image that depicts a serene, ethereal scene representing duplicity in love. In the center, illustrate two intertwined trees with distinct, contrasting foliage—one side blooming with vibrant pink flowers and the other side revealing dark, twisted branches adorned with withered, gray leaves. The background features a tranquil lake that reflects the trees, with gentle ripples on the water surface. Soft, heavenly light filters through the scene, casting delicate shadows and creating a dreamy ambiance. The overall color palette should blend lush pastels on one side with muted, somber tones on the other, emphasizing the juxtaposition of love's beauty and its darker sides. The composition should have a painterly quality, capturing the delicate nuances of the theme.
+Seed: 705783054
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quiet, Heavenly

@@ -1,0 +1,4 @@
+Prompt: A captivating portrait of a feminine figure, artistically split down the middle to represent duality. One side features a radiant woman with flowing golden hair, adorned in a luxurious, shimmering gown that reflects soft, warm lighting, emphasizing her elegance and beauty. The other side contrasts with a more mysterious persona, featuring dark, flowing hair, a sleek, fitted outfit with deep jewel tones, illuminated by cooler, shadowy lighting that enhances the sense of intrigue. The background should blend elements of a romantic evening setting, with soft candlelight on one side and moonlit shadows on the other, creating an enchanting and seductive atmosphere. The overall composition should evoke feelings of grace, allure, and the complex nature of attraction, presented in a high-resolution, illustrative style.
+Seed: 1022114636
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Date, Seduction

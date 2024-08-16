@@ -1,0 +1,4 @@
+Prompt: Capture a close-up photograph of a weathered, open journal resting on a rustic wooden table. The pages are filled with faded handwritten notes and sketches, accompanied by a delicate, pressed flower tucked between the sheets. Soft rays of golden sunrise light filter through a nearby window, casting a gentle glow on the journal and illuminating the intricate details of the flower. In the background, a steaming cup of tea sits in a cozy, chipped mug, with a soft, knitted scarf draped on the side. The overall scene should convey a sense of nostalgia and tranquility, with warm, muted colors, and a shallow depth of field that draws attention to the journal and tea, creating an inviting, intimate atmosphere.
+Seed: 1640756053
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Life, Lust

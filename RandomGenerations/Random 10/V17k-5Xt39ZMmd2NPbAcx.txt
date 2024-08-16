@@ -1,0 +1,6 @@
+Prompt: Create a hyper-realistic photograph capturing a daredevil stunt performed by a uniquely designed extraterrestrial. The alien, with elongated limbs and vibrant, iridescent skin that changes colors in different lighting, is mid-air as it performs an impressive flip over a futuristic motorcycle. The motorcycle has an otherworldly design, featuring sleek lines, glowing elements, and an anti-gravity mechanism, hovering just above the ground.
+
+The background showcases an urban alien landscape with towering, abstract buildings and neon lights, with curious extraterrestrial spectators watching the thrilling act. Dramatic dusk lighting illuminates the scene, casting dynamic shadows and highlighting the alien's detailed features, such as large expressive eyes and intricate patterns across its skin. The angle of the shot is low, emphasizing the height and energy of the stunt, while capturing the excitement and uniqueness of the extraterrestrial performer. Overall, the scene conveys a sense of adrenaline and adventure within a vibrant, futuristic setting. Photorealistic, cinematic quality, high detail.
+Seed: 751070727
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Memorial, Understanding

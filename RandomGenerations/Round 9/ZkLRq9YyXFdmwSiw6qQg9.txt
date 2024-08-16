@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph capturing a person standing in front of a vintage, ornate mirror. The individual, a middle-aged Asian man, gazes intently at his reflection. The mirror reveals not only his physical appearance but also a ghostly image of his inner self: a younger version of himself, dressed in vibrant clothing, surrounded by swirling colors representing vitality and dreams. The background features a softly lit, elegant room adorned with antique furnishings and warm, subdued lighting. The scene is rich in detail, with the play of light creating soft reflections and shadows that enhance the depth of the moment. The composition emphasizes the contrast between the present and the vibrant inner self, evoking a sense of introspection and self-discovery. Photorealistic style, high resolution, cinematic quality.
+Seed: 65353616
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awakening, Steampunk

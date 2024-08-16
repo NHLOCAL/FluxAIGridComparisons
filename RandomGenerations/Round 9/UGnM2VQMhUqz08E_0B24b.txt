@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a beautiful, serene park scene during sunset. On one side of the image, a vibrant, sunlit picnic is taking place, with people laughing, sharing food, and enjoying each other's company. The colors are warm and inviting, with golden sunlight filtering through the trees. However, on the opposite side, there is a dark and stormy scene within the park, with ominous clouds rolling in, rain pouring down, and a solitary figure standing under a tree, appearing lost and melancholic. The contrast between the bright and the dark scenes creates an evocative sense of duplicity, as if two different emotions co-exist within the same space. The lighting should emphasize the stark difference between the sunny picnic area and the gloomy, rain-soaked side, capturing the complexity of human experiences.
+Seed: 1748217190
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peace, Desert

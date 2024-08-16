@@ -1,0 +1,4 @@
+Prompt: A striking illustration of a beautiful woman standing amidst a war-torn landscape, with remnants of destruction surrounding her. She is adorned in tattered yet elegant clothing that reflects resilience, with vibrant colors contrasting against the bleak background. The scene includes crumbling buildings, scattered debris, and a smoky sky, while soft beams of sunlight break through the clouds, illuminating her figure. The woman’s expression is serene and determined, embodying grace in the face of adversity. Wildflowers bloom around her feet, symbolizing beauty and hope emerging from despair. The overall composition creates a poignant, cinematic atmosphere, emphasizing the coexistence of beauty and destruction. High detail, dramatic lighting, and an emphasis on color contrasts enhance the emotional impact of the artwork.
+Seed: 3432358025
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Union, Black hole

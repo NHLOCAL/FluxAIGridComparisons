@@ -1,0 +1,6 @@
+Prompt: A hyper-realistic photograph capturing a daring stunt performed by an otherworldly extraterrestrial being. The alien has a unique, vibrant appearance, with iridescent skin that shimmers in shades of blue, green, and purple, adorned with intricate patterns and bioluminescent markings. The alien is depicted mid-air, executing an impressive acrobatic maneuver, with limbs extended and a dynamic pose that showcases agility and precision. 
+
+In the background, a dramatic sunset sky paints the scene in warm oranges and deep purples, contrasting with the cool tones of the alien's skin. Below, a crowd of amazed onlookers watches the performance, their expressions of awe and excitement visible. The setting is an alien landscape with unusual rock formations and glowing flora, enhancing the extraterrestrial atmosphere. The lighting should be bright and vibrant, emphasizing the details of the alien and the action of the stunt. This captivating image combines elements of adventure, fantasy, and the surreal.
+Seed: 3101483562
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intimacy, Nudity

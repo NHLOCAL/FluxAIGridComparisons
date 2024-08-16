@@ -1,0 +1,4 @@
+Prompt: Create a stunning photograph of a sci-fi/fantasy landscape featuring a vast, alien meadow filled with bioluminescent plants that emit a soft, inviting glow. The scene is set during twilight, where the sky transitions from deep purple to a soft teal, dotted with shimmering stars. In the foreground, a crystalline waterfall flows gently, reflecting the luminescent colors of the surroundings. There should be strange, floating rock formations in the background, adorned with lush, vibrant vegetation. The lighting should be soft and diffused, creating an intimate atmosphere, while the overall composition invites the viewer into this captivating, otherworldly environment, with intricate details that showcase the beauty and richness of this fantasy landscape.
+Seed: 2421001064
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sumptuous, Intimacy

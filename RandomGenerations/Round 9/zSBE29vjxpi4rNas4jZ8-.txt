@@ -1,0 +1,4 @@
+Prompt: Create an image of a stunning sci-fi fantasy landscape featuring a futuristic laboratory nestled on a lush green hillside. The laboratory is an architectural marvel, with sleek, flowing lines and glass exteriors that reflect the scenic surroundings. Bright bioluminescent plants and colorful alien flora thrive around its perimeter, adding vibrant colors to the scene. A clear blue sky with fluffy clouds dominates the background, and futuristic drones hover gently above the lab, transporting materials. The foreground showcases a serene pond with shimmering surface reflections that mirror the laboratory, enhancing the ethereal and innovative ambiance. Natural sunlight bathes the entire scene in a warm, inviting glow, creating a picturesque and harmonious blend of technology and nature. Photorealistic style with high detail and vibrant colors.
+Seed: 830507638
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pretty, Laboratory

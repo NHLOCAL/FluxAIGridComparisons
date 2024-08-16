@@ -1,0 +1,4 @@
+Prompt: A captivating fantasy landscape depicting a winding, illuminated path through a lush, enchanted forest. The path, made of shimmering cobblestones, glows softly under the light of bioluminescent plants and flowers that line the sides. Tall, ancient trees with twisted trunks and vibrant green leaves create a dense canopy, allowing only dappled moonlight to filter through. In the distance, a mysterious, ornate archway made of intertwining vines and flowers hints at a hidden realm. The atmosphere is rich with vibrant colors, and soft, ethereal lighting enhances the enchanting mood. The composition invites the viewer to explore and get lost in this magical setting, filled with intrigue and allure. Hyper-detailed, cinematic, fantasy illustration.
+Seed: 3292119041
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Path, Site

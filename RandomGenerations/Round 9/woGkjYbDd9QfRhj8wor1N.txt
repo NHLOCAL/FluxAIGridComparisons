@@ -1,0 +1,8 @@
+Prompt: A striking representation of duality set in a lush, vibrant oasis. On one side of the image, depict a serene, tranquil scene with crystal-clear water reflecting the bright blue sky and surrounded by lush greenery, abundant flowers, and peaceful wildlife. The trees should be in full bloom, showcasing vibrant colors like rich greens, bright yellows, and deep reds. 
+
+On the opposite side, create a starkly contrasting atmosphere, where the oasis is engulfed in shadow and dark tones, suggesting a haunting and eerie environment. The water appears murky, and ghostly figures or skeletal trees depict decay and desolation. The sky is stormy, with swirling dark clouds and faint lightning illuminating the scene.
+
+In the center, subtly blend the two sides, where the light and dark collide, creating a visually captivating boundary that signifies the concept of duality. The art style should be influenced by hyperrealism, with an emphasis on intricate details and sharp contrasts. The lighting should shift from warm golden hues on the tranquil side to cold blues and purples on the dark side, creating a dramatic and immersive visual experience.
+Seed: 1182263124
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gallery, Oasis

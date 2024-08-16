@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a stunning female figure, elegantly poised with one half draped in vibrant floral elements and the other entwined with intricate wooden textures. The contrast between the organic flowers in vivid reds, yellows, and greens, and the smooth browns and grains of the wood creates a striking duality. The background is a softly blurred forest setting, bringing a sense of depth and harmony. The lighting is warm and dappled, filtering through the tree leaves above, casting delicate shadows on her face, highlighting her feminine features. The angle is slightly above eye level, emphasizing her graceful posture and the beauty of the surrounding nature. The art style is a blend of realism and fantasy, focusing on the details of both the floral and wooden elements to enhance the enchanting atmosphere.
+Seed: 3758522556
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Infatuation, Wood

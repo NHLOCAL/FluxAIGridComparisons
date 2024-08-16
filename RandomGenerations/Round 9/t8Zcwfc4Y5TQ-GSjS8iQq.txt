@@ -1,0 +1,4 @@
+Prompt: A stunning photograph of a futuristic boutique set against a breathtaking sci-fi landscape. The boutique features sleek, transparent exteriors with neon accents that glow softly, reflecting a blend of modern architecture and organic curves. Surrounding the boutique is a vibrant alien landscape filled with bioluminescent plants in various colors, casting an ethereal light. In the background, majestic mountains shimmer under a sky filled with swirling, iridescent clouds. A tranquil stream flows gently beside the boutique, with soft reflections of the neon lights dancing on the water surface. The lighting is soft and ambient, creating a sense of serene contentment in this otherworldly setting. The overall composition blends elements of fantasy and futuristic design, inviting the viewer into a world of beauty and tranquility.
+Seed: 2258694831
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Contentment, Boutique

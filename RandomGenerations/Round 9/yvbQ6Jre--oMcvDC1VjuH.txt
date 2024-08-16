@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a close-up of a human eye as the base layer. The eye should reflect a gradient of sepia tones to evoke a sense of nostalgia and insight into the past. In the upper layer, depict a hazy landscape filled with silhouettes of ancient trees, crumbling ruins, and faded photographs overlapping. The trees should tower elegantly, their branches creating intricate patterns in the composition, while the ruins hint at forgotten history. The background should be softly illuminated with warm tones, creating a blend of soft focus and clarity that enhances the dreamlike quality. The overall atmosphere should convey an ethereal and reflective mood, emphasizing the connection between the present gaze and the remnants of the past, blending realism with a touch of surrealism.
+Seed: 510483214
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stare, Past

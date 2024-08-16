@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a split scene featuring two contrasting landscapes. On one side, depict a stormy night sky filled with dark clouds, heavy rain, and flashes of lightning illuminating a desolate urban street. The pavement glistens with water, reflecting the chaotic atmosphere. On the opposite side, illustrate a serene, sunlit meadow with vibrant wildflowers and a clear blue sky. A gentle breeze causes the flowers to sway, creating a sense of tranquility. In the middle, a figure stands at the divide, half-drenched from the rain and half bathed in sunlight, capturing the essence of duplicity. The contrast between the dark, tumultuous side and the bright, peaceful side emphasizes the theme of emotional conflict. The photograph should have sharp focus, high detail, and a cinematic quality, inviting viewers to explore the juxtaposition of the two worlds.
+Seed: 3254975492
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sexy, Commitment

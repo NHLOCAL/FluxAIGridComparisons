@@ -1,0 +1,4 @@
+Prompt: A surreal photograph featuring a split image of a cityscape transitioning from day to night. The left side is a vibrant daytime scene filled with bustling streets, bright blue skies, and lively crowds. The right side morphs into a dark, shadowy version of the same city, enveloped in deep blues and blacks, with ominous clouds and flickering streetlights. The contrast between the two halves highlights the duality of urban life, depicting both joy and solitude. Incorporate a grand clock tower in the center, with its hands frozen at midnight, serving as a focal point that blends the two sides. The lighting should seamlessly transition from warm sunlight to cold, muted lamplight, enhancing the sense of duplicity. Cinematic style, with strong color contrasts and sharp focus on details in each scenario.
+Seed: 151687306
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Direction, Criterion

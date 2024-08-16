@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines the silhouette of a couple gently embracing against a stunning sunset backdrop. The sunset should display vibrant colors, including deep oranges, soft pinks, and purples, casting a warm glow over the scene. The couple's contours should blend harmoniously with the sunset, creating an ethereal effect. The background features a calm ocean reflecting the sunset hues, with light waves lapping at the shore. The overall composition should evoke a sense of tranquility and connection, with focus on the harmonious blending of the subjects and background. The image should have a soft, dreamy quality, emphasizing the beauty of the moment.
+Seed: 2282527877
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sunset, Closeness

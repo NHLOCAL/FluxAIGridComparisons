@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an old, weathered tree standing alone in a vast, open field under a stormy sky. The tree's gnarled branches stretch outward, with patches of lichen and moss covering its bark, evidence of its long life. The sky is filled with dark, ominous clouds, occasionally illuminated by flashes of lightning, casting dramatic shadows on the ground. The grass surrounding the tree is wild and overgrown, swaying in the gusty wind. Rain droplets are visible splashing on the ground, and in the distance, faint silhouettes of mountains can be seen, partially shrouded in mist. The overall atmosphere feels heavy and dramatic, emphasizing the resilience of nature in the face of adversity, captured in sharp detail and high resolution.
+Seed: 3413288292
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Defeat, Duty

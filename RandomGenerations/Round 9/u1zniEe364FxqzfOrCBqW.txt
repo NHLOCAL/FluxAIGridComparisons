@@ -1,0 +1,4 @@
+Prompt: Please provide specific details about the subject, background, art style, lighting, and angle for the image you would like to generate. This will help create a precise prompt for Flux AI.
+Seed: 1388024405
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: White, Empathy

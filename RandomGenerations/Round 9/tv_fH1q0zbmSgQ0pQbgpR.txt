@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph capturing a reflective, split image of a serene lake and an ominous stormy sky. The lake, calm and smooth, mirrors the contrasting turbulent clouds above, creating a sense of duplicity. Silhouetted trees frame the scene on either side, their twisted branches reaching toward the sky as if seeking the light. The foreground features a solitary figure standing at the water's edge, their posture suggesting contemplation or conflict. The lighting highlights the dramatic contrasts between the tranquil water and the chaotic atmosphere, emphasizing the duality between peace and turmoil. This composition invites viewers to ponder the complexities of nature and human experience.
+Seed: 3151230598
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Avalanche, Stadium

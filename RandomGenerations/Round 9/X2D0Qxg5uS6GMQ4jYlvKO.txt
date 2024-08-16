@@ -1,0 +1,4 @@
+Prompt: Create a captivating photograph of a vibrant cyberpunk landscape on a distant planet. The scene includes towering skyscrapers with neon lights and holograms illuminating the skyline, reflecting a futuristic metropolis. Below, a network of bustling streets filled with diverse characters in cybernetic enhancements, riding futuristic vehicles. The sky is a gradient of deep violet and electric blue, scattered with glowing stars and distant celestial bodies. Wisps of fog snake through the streets, with bright neon colors illuminating the atmosphere, creating a surreal ambiance. High-resolution, showcasing intricate details of the architecture and characters, with a dramatic angle that emphasizes the vast urban expanse. Cinematic lighting enhances the sci-fi elements, highlighting the glowing technology and bustling life in this extraordinary landscape.
+Seed: 2709288325
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cyberpunk, Planet

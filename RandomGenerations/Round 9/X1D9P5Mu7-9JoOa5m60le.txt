@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a vintage, ornate mirror located in a dimly lit room filled with shadows. The mirror reflects a beautiful, serene landscape outside the window, showcasing vibrant flowers in full bloom under a clear blue sky. However, the actual room itself is dark and cluttered, with cobwebs, dust, and forgotten trinkets scattered around. The contrast between the vibrant reflection and the dreary room creates a sense of duplicity. Soft, warm light streams through the window, illuminating the flowers but leaving the interior in a mysterious, muted darkness. The angle should be slightly tilted, enhancing the feeling of unease and dissonance. This scene emphasizes the stark contrast between beauty and neglect. Highly detailed, photorealistic, capturing the intricate textures of the mirror and room.
+Seed: 3719706932
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desire, Hush

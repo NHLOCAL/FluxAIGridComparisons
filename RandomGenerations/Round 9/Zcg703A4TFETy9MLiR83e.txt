@@ -1,0 +1,6 @@
+Prompt: Create an image of a picturesque landscape showcasing a grand, ancient cathedral set in a lush, verdant valley. The cathedral, characterized by intricate Gothic architecture and towering spires, is partially overgrown with nature. In the foreground, a feminine figure dressed in a flowing gown stands gracefully, embodying the essence of beauty and duality. Her gown is split in two; one side is vibrant and colorful, while the other is dark and muted, representing the contrasting aspects of her character. 
+
+Surrounding her are elements of an expedition theme, such as a vintage compass, an old map unfurled at her feet, and a small group of whimsical, mythical creatures peeking out from behind the cathedral. The lighting should be soft and warm, as if bathed in the golden glow of sunset, casting long shadows and enhancing the atmosphere of exploration and discovery. The background features rolling hills, dotted with wildflowers, under a sky adorned with fluffy, pastel clouds. The overall composition conveys a sense of wonder, adventure, and the delicate balance of light and dark. Art style should be vibrant yet ethereal, resembling a blend of realism and fantasy.
+Seed: 302238475
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Expedition, Parish

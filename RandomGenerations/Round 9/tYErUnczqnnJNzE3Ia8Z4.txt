@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a dual-faced clock, where one side depicts a sunny day with vibrant colors - a bright blue sky, lush green trees, and blooming flowers. The other side showcases a dark, stormy scene with ominous clouds, heavy rain, and barren branches. The clock is elegantly designed, with intricate details on both sides, symbolizing the contrast between light and dark, joy and sorrow. The background fades from light to dark, enhancing the theme of duplicity. Soft diffused lighting highlights the clock, creating a sense of depth and intrigue, with subtle reflections of both scenes on the clock's glass surface. The overall composition conveys the passage of time and the duality of human experience.
+Seed: 1188643850
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Insight, Belief

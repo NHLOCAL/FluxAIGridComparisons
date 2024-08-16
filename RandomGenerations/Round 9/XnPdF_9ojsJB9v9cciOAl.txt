@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a sprawling fantasy landscape, featuring a grand, ancient alchemist's laboratory nestled within towering cliffs. The laboratory is adorned with intricate stone carvings and glowing runes, casting a soft, ethereal light. In the foreground, a bubbling cauldron emits wisps of colorful smoke, intertwining with the mist rolling across a crystalline lake that reflects the vibrant hues of a distant sunset. A massive ancient tree with luminescent leaves stands to one side, surrounded by curious magical creatures peering from behind rocks and foliage. The sky is filled with swirling galaxies and shooting stars, creating a mystical ambiance. The lighting is warm and inviting, highlighting the details in the alchemist's workshop and surrounding nature, evoking a sense of wonder and exploration in this fantastical realm.
+Seed: 1475867283
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Thought, Alchemist

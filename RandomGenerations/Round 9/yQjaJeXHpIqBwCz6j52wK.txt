@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi fantasy landscape featuring a colossal, iridescent bird soaring through a vivid, surreal sky. The bird has an intricate pattern of luminescent feathers that shift colors as it glides, resembling a mixture of a peacock and a mythical creature. Below, a vast expanse of alien terrain unfolds, dotted with unusual flora that glows softly in hues of blue and purple. Towering crystal formations jut out from the ground, reflecting the colorful light from the sky and creating a dreamlike atmosphere. In the background, a distant mountain range is silhouetted against the vibrant sunset, layered in shades of pink, orange, and deep indigo. The overall composition invites the viewer into a fantastical narrative, blending elements of nature and imagination with cinematic lighting and ethereal beauty.
+Seed: 3610736192
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bird, Narrative

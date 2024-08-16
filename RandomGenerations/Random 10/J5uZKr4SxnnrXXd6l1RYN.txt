@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph depicting an extraterrestrial performing a daring stunt in mid-air. The alien character features vivid green skin, large expressive eyes, and a unique head shape with elongated features. Sporting an eclectic mix of futuristic gear including a glowing helmet and shimmering body suit, the extraterrestrial executes a death-defying somersault off a hovering hoverboard. Below, a vibrant cityscape brimming with neon lights sets the background, showcasing towering skyscrapers and a starry night sky above. The scene is shot from a low angle, capturing the action in dynamic motion with a slight motion blur, emphasizing the thrill of the stunt. Bright, colorful lighting accentuates the alien's features and enhances the electrifying atmosphere of this adventurous moment. Ultra-high resolution, sharp focus.
+Seed: 1684942927
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Midnight, Wave

@@ -1,0 +1,4 @@
+Prompt: A striking illustration of a beautiful woman standing amidst a war-torn landscape, with crumbling buildings and remnants of destruction in the background. Her flowing dress, crafted from tattered fabric, billows gently in the wind, creating a stark contrast against the harsh environment. The woman's radiant features, highlighted by soft, golden light, evoke a sense of resilience and hope. Delicate flowers bloom from the cracks in the ground around her, symbolizing beauty emerging from despair. The scene is framed by a dramatic sky, tinted with hues of orange and purple, suggesting either dawn or dusk, enhancing the sense of rebirth. The overall composition blends elements of contrast, emphasizing both the devastation and the enduring beauty, rendered in a hyper-detailed, cinematic style.
+Seed: 616594939
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Symbol, Breathtaking

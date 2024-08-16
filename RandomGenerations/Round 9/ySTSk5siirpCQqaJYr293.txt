@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution photograph of an isolated wooden bench facing a tranquil lake at dawn. The surface of the water is mirror-like, reflecting the soft colors of the sunrise in shades of orange, pink, and purple. Mist gently rises from the lake, creating a serene and peaceful atmosphere. Surrounding the bench are lush green trees, their leaves glistening with morning dew. A single, vivid red flower blooms at the edge of the bench, providing a pop of color against the soft tones of the scene. The lighting is soft, with golden sunbeams breaking through the branches, creating a warm and inviting ambiance. The overall composition invites contemplation and connection with nature, evoking a sense of tranquility and solitude.
+Seed: 3435490086
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Matter, Sweetie

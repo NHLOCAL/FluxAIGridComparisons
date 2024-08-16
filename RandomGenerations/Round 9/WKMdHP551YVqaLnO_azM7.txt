@@ -1,0 +1,4 @@
+Prompt: Create a photograph capturing a vast, otherworldly landscape dominated by a sprawling, iridescent forest of luminescent trees with intricate, spiraling patterns on their bark. The ground is covered in soft, neon moss that glows in shades of blue and purple, creating a striking contrast against the dark, starry night sky above. Wisps of fog weave through the scene, creating an ethereal atmosphere. In the distance, majestic mountains rise with sharp peaks, their surfaces shimmering with unusual geological patterns. A gentle stream flows through the foreground, reflecting the colors of the forest and sky, with delicate, bioluminescent creatures adorning its banks. The overall mood is mesmerizing and enchanting, inviting viewers to explore this fantastical realm. High detail, vibrant colors, cinematic perspective, and sharp focus.
+Seed: 1618924405
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Identity, Pattern

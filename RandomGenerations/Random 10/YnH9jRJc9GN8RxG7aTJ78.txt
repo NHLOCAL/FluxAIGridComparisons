@@ -1,0 +1,4 @@
+Prompt: A black and white photograph featuring a stunning woman with serene features amidst a war-torn landscape. The background showcases destroyed buildings, rubble, and remnants of conflict, capturing the devastation and chaos of the scene. The woman stands elegantly in the foreground, her expression calm and confident, with soft lighting illuminating her face, highlighting her beauty against the stark surroundings. Her flowing dress contrasts against the harsh environment, symbolizing resilience amidst destruction. The composition emphasizes the interplay between fragility and strength, inviting the viewer to reflect on the juxtaposition of beauty and turmoil, with dramatic shadows and high contrast enhancing the emotional depth of the image. The overall mood conveys a powerful narrative of hope and rebirth rising from chaos.
+Seed: 3673535633
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reality, Crop

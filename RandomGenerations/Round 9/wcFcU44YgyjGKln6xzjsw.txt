@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a masked figure standing in front of a cracked mirror. The figure, shrouded in a dark cloak, is gazing intently at their reflection. The mask is ornate, featuring intricate designs that contrast with the broken shards of the mirror, creating a sense of duplicity. The cracked glass reflects multiple fragmented images of the figure, each showcasing a different emotion. The background should be dim and shadowy, illuminated only by a single, dim light source that casts dramatic shadows, enhancing the mood of intrigue and complexity. The overall color palette should be dark, with hints of metallic tones from the mask and shards of glass, creating an atmospheric, cinematic feel.
+Seed: 4195233053
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fort, Depot

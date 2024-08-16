@@ -1,0 +1,4 @@
+Prompt: A vibrant nighttime scene in Havana, Cuba, depicting a lively street filled with colorful vintage cars, palm trees, and colonial architecture bathed in moonlight. Lanterns and string lights illuminate the scene, casting warm yellow and orange hues on the cobblestone streets. The atmosphere is bustling with street musicians playing traditional Cuban music, dancers in flowing attire showcasing lively salsa movements, and locals enjoying the nightlife at outdoor cafés. The background features a classic cathedral and distant mountains under a deep indigo sky speckled with stars. The composition captures the essence of cultural richness and vibrant life, showcasing dynamic movements and the intricate details of the surroundings, with an emphasis on bright colors and the warmth of the tropical setting.
+Seed: 3246789327
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Winsome, Silver

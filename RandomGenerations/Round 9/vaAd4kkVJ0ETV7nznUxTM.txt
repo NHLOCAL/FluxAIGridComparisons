@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a cracked mirror reflecting a serene outdoor scene of a peaceful garden, filled with vibrant flowers, lush greenery, and a tranquil pond. The reflection shows a distorted version of the garden, with dark shadows creeping in and the colors appearing faded and muted. The light in the background should be warm, suggesting a sunset, while cold blue tones dominate the reflections. The photograph should focus closely on the mirror, showcasing its intricate details and imperfections, while the garden in the background sits blurred, creating a sense of duality between tranquility and somberness. The contrast between the serene garden and its unsettling reflection evokes feelings of duplicity and contemplation, drawing viewers to reflect on their interpretations of reality.
+Seed: 3012247549
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Green, Rest

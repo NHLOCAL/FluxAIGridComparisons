@@ -1,0 +1,6 @@
+Prompt: Capture a hyper-realistic photograph of a daredevil stunt performed by a unique extraterrestrial character. The creature should have an elongated body, vibrant skin colors ranging from electric blue to neon green, and large, expressive eyes. Its limbs are disproportionate, with three flexible arms and legs. The extraterrestrial is mid-air, performing an acrobatic flip against the backdrop of a futuristic city skyline, filled with towering, sleek buildings and flying vehicles. 
+
+The setting is during twilight, casting a mix of deep purples and oranges in the sky. Bright neon lights from the buildings below reflect on the creature's skin, enhancing its vivid colors. A crowd of onlookers can be seen in the foreground, their faces filled with astonishment, all in sharp focus. The lighting is dramatic, focusing on the stunt performer, creating a sense of energy and excitement in this captivating scene. The overall composition should emphasize the thrill of the stunt and the uniqueness of the extraterrestrial performer.
+Seed: 930735777
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Difficulty, Bridge

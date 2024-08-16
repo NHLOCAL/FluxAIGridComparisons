@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a double exposure effect that combines a close-up of an elegant wristwatch with the silhouette of a graceful dancer in mid-motion. The watch should be detailed, showing intricate gears and a shimmering metallic finish, while the dancer's form is fluid and dynamic, capturing the essence of movement. The background is a soft, blurred gradient, transitioning from deep blues at the top to lighter shades at the bottom, enhancing the ethereal quality of the composition. The lighting should be soft and diffused, casting a gentle glow that highlights both the watch and the dancer's features. The overall art style should lean toward a high-fashion, artistic photography approach, emphasizing the harmony between time and elegance.
+Seed: 3246263662
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Watch, Graceful

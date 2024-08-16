@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a breathtaking sci-fi fantasy landscape, where towering crystal formations rise dramatically from an iridescent lake. The foreground features lush, vibrant greenery with bioluminescent plants casting a soft glow, while the background showcases a sky filled with swirling nebulae and two vibrant moons hanging low on the horizon. The color palette should be rich and vivid, emphasizing deep blues, purples, and electric greens. The scene is captured from a low angle, emphasizing the grandeur of the landscape and the ethereal quality of the light reflecting off the crystals and water. Overall, the image should evoke a sense of wonder and otherworldly beauty, blending elements of fantasy and advanced technology seamlessly.
+Seed: 3793386873
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glance, Level

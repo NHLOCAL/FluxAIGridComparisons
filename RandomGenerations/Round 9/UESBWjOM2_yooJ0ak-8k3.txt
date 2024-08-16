@@ -1,0 +1,4 @@
+Prompt: Capture a stunning landscape photograph of an exoplanet dominated by a diverse array of surreal vegetation and geological formations. The scene features a majestic enchanter figure, adorned in intricate robes that shimmer with iridescent colors, standing at the edge of a vibrant, luminescent river. The river flows through the landscape, reflecting the unusual hues of the flora around it. Surreal floating rocks hover in the sky above, casting intricate shadows on the ground. The background displays towering alien mountains, bathed in a gradient of purple and teal hues, rising majestically against a deep, starry sky sprinkled with distant galaxies. The lighting should create dramatic contrasts, accentuating the detailed textures of the enchanter's robe and the glowing materials in the landscape, giving the entire scene an otherworldly, magical atmosphere.
+Seed: 2210370891
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enchanter, Exoplanet

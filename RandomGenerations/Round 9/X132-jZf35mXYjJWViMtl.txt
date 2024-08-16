@@ -1,0 +1,6 @@
+Prompt: Create an image of a feminine figure embodying the concept of duality, positioned gracefully at the center of a compelling composition. One half of her appearance features soft, ethereal beauty, draped in flowing, light fabrics that shimmer delicately. The lighting on this side is warm and golden, illuminating her features with a soft glow. The other half of her figure exudes a more powerful, grounded presence, dressed in bold, dark materials with intricate textures. This side is characterized by cool, blue lighting, casting deep shadows that accentuate her strength.
+
+The background should depict an enchanting landscape, with one side filled with blooming flowers and gentle, floating wisps of light that symbolize gifts, while the other side features rocky terrain and abstract representations of gravity pulling objects downward. The entire scene should be painted in a surreal art style, emphasizing the contrast between light and darkness, softness and strength, embodying the concept of duality. The overall image should create a harmonious blend of the two sides, inviting viewers to contemplate the complexity of feminine beauty.
+Seed: 3673969791
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Gravity

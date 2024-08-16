@@ -1,0 +1,6 @@
+Prompt: Create an illustration featuring a striking feminine figure that embodies duality, depicted as a beautiful woman with half of her face in soft, radiant light and the other half enshrouded in shadows, creating an intriguing illusion. The illuminated side showcases delicate features, flowing hair adorned with flowers, and a gracefully flowing gown with intricate patterns that reflect elegance. The shadowed side appears more mysterious, with sharper facial features and dark, cascading hair that blends into the background. 
+
+The background should be a surreal blend of light and dark elements, with swirling patterns of stars and ethereal colors on the illuminated side, while the shadowed side features deep, rich tones with abstract shapes that evoke a sense of intrigue and depth. The contrast between the two sides enhances the theme of duality, with soft, warm lighting illuminating the radiant side, and cooler, dim lighting enveloping the darker half. The scene should capture a sense of balance, merging beauty with enigma in a captivating and visually engaging manner, rich in detail and vibrant colors.
+Seed: 1811911318
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pointer, Illusion

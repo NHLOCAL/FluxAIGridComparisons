@@ -1,0 +1,4 @@
+Prompt: A dramatic illustration depicting two elegantly dressed figures, a man and a woman, standing back-to-back in a lavish ballroom with ornate chandeliers hanging above. The woman has a slight smirk, holding a crimson rose, while the man looks forward with a confident expression, holding a sleek glass of champagne. The background features intricate gold and silver decorations, with reflections from the grand mirrors creating a sense of depth. Shadows cast by the chandeliers give an air of mystery, while a soft, warm light illuminates their faces, enhancing the tension between them. The overall composition combines elements of elegance, complexity, and the allure of deception.
+Seed: 3373397230
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conflict, Intrigue

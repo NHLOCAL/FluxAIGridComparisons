@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a solitary wooden boat gently floating on a foggy lake at dawn. The water is glassy and perfectly reflects the muted colors of the pale blue and soft pink sky, creating a serene atmosphere. The boat, weathered and old, is anchored to a wooden post, partially submerged in mist. Wisps of fog beckon around it, shrouding the scene in mystery. In the background, silhouettes of dense trees fade into the haze, contributing to the tranquil yet poignant mood. The lighting is soft and diffused, enhancing the overall sense of calm and solitude, inviting the viewer to reflect on themes of isolation and serenity.  
+Seed: 2170352915
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Citadel, Voyage

@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph capturing a beautiful woman standing amidst a war-torn landscape. The background features crumbling buildings, scattered debris, and a smoky horizon, symbolizing destruction and chaos. The woman is positioned in the foreground, exuding grace and resilience; her delicate features are highlighted by soft, natural lighting that contrasts with the harshness of the environment. Her hair flows gently in the wind, and she wears a flowing white dress that seems to radiate purity amidst the ruin. The overall composition emphasizes a synergy of beauty and destruction, inviting viewers to reflect on the strength that can emerge from adversity. The image should have a high level of detail, sharp contrasts, and a cinematic quality, creating an emotional yet powerful narrative.
+Seed: 2861691742
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Institute, Ability

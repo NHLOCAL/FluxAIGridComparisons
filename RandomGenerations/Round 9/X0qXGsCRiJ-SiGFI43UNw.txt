@@ -1,0 +1,4 @@
+Prompt: Capture a high-resolution photograph of a surreal fantasy landscape featuring a futuristic pharmacy building nestled within a vibrant alien forest. The pharmacy's architecture is sleek and avant-garde, with luminous neon signs and digital displays projecting health-related holograms. Surrounding the pharmacy, the forest is filled with bioluminescent plants and towering, colorful trees with otherworldly shapes. The atmosphere is illuminated by a mesmerizing twilight sky, featuring multiple moons and swirling galaxies in the backdrop. Soft, iridescent light filters through the leaves, casting a magical glow across the scene. The angle should be slightly elevated, providing a panoramic view of the pharmacy against the breathtaking landscape, inviting the viewer to explore this enchanting sci-fi world. Cinematic quality, hyper-detailed, vibrant colors.
+Seed: 1776122389
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pharmacy, Moment

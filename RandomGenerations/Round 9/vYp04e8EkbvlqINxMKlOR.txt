@@ -1,0 +1,4 @@
+Prompt: A tranquil mountain landscape at dawn, where a glassy lake perfectly reflects the surroundings. Mysterious mist hovers above the water, slowly lifting as the first rays of sunlight break over the peaks, illuminating the rugged mountain faces with soft golden light. In the foreground, a solitary figure in a simple hiking outfit stands at the water's edge, looking contemplatively across the lake. The peaceful scene is enhanced by the vibrant greens of the surrounding pine trees and wildflowers blooming along the shoreline. The overall composition emphasizes serenity and connection with nature, invoking a sense of calm and introspection. High-resolution, hyper-realistic photo.
+Seed: 2542214183
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Castle, Utopia

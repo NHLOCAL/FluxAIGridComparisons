@@ -1,0 +1,6 @@
+Prompt: A hyper-realistic photograph of a masked figure standing in front of a cracked mirror. The figure, dressed in an elegant black suit with a white shirt, holds a delicate, shimmering masquerade mask in one hand, while the other hand rests on the edge of the mirror. The reflection in the mirror shows the figure's face in stark detail, but with a sad, longing expression. In contrast, the actual figure's face is hidden behind a playful smile, creating an intriguing sense of duplicity. 
+
+The background is softly blurred, featuring dimly lit chandelier lights casting gentle shadows, enhancing the mood of mystery and intrigue. The scene is bathed in warm, ambient lighting that highlights the rich textures of the suit and the intricate details of the masquerade mask. Focused depth enhances the emotional tension between the masked features and the reflective expression, inviting viewers to ponder the complexities of identity and emotion. Photorealistic, high detail, cinematic lighting.
+Seed: 4042932897
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Epiphany, Sign

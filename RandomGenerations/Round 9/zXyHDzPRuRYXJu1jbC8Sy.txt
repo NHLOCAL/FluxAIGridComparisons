@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph featuring a lone, weathered tree standing in the middle of a vast, empty field. The tree's gnarled branches reach upward against a dramatically cloudy sky, with cracks in the bark highlighting its age and resilience. The ground beneath is parched and cracked, with patches of dried grass strewn about. In the background, a faint silhouette of distant mountains looms under a moody, overcast sky, casting a sense of isolation. Soft rays of light break through the clouds, illuminating the tree and creating a stark contrast against the shadows. The overall composition should evoke a sense of solitude and endurance, rendered in high detail and realism, capturing the essence of nature's beauty and struggles.
+Seed: 979726449
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tree, Respect

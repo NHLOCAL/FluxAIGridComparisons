@@ -1,0 +1,4 @@
+Prompt: Create a black and white photograph of a strikingly beautiful woman standing confidently amidst a war-torn landscape. The background features crumbling buildings, debris, and a smoky sky, all rendered in varying shades of gray to emphasize the devastation. The woman has flowing hair that billows in the wind, her facial features conveying resilience, with soft, natural makeup enhancing her beauty. She wears a delicate, flowing gown that contrasts against the roughness of the environment, suggesting grace amidst chaos. The lighting is dramatic, with strong contrasts and deep shadows, creating an ethereal atmosphere. The composition should focus on the woman as the central figure, symbolizing the emergence of beauty and strength from destruction, offering a poignant and inspiring visual narrative. 
+Seed: 4162769952
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shape, Harmony

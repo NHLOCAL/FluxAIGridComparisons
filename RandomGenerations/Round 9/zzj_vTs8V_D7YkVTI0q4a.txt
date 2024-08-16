@@ -1,0 +1,4 @@
+Prompt: Create a captivating illustration depicting the theme of "duplicity in love" set against a serene ocean backdrop. The scene features two pairs of hands reaching for each other from opposite sides of the image, one pair adorned with delicate rings and the other with tattered bracelets, suggesting contrasting emotions. In the background, a vast, calm ocean stretches toward a vibrant sunset, with hues of orange, pink, and purple blending into one another, reflecting off the water's surface. The hands should be positioned close yet not touching, illustrating the tension between connection and distance. The overall atmosphere should be cinematic, with soft, warm lighting casting gentle shadows, enhancing the emotional complexity of the moment. The composition should evoke a sense of longing, exploring the theme of love and its dual nature.
+Seed: 3292139627
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ocean, Notion

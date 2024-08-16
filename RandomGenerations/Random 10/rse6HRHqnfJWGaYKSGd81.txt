@@ -1,0 +1,4 @@
+Prompt: A black and white photograph featuring a striking portrait of a beautiful woman amidst a war-torn landscape. The woman stands confidently, her expression serene and resilient, with flowing hair gently caught in the wind. In the background, crumbling buildings, scattered debris, and remnants of war provide a stark contrast to her grace. Sparse vegetation peeks through the rubble, symbolizing resilience and beauty in destruction. The lighting is high-contrast, emphasizing the textures of her features and the surrounding devastation. The overall composition highlights the juxtaposition of beauty against a backdrop of chaos, creating a powerful visual narrative of hope emerging from despair. Photorealistic style, dramatic, high detail, cinematic quality.
+Seed: 3021770390
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nude, Blizzard
