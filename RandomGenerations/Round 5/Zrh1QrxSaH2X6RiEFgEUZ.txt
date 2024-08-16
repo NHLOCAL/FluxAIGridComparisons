@@ -1,0 +1,12 @@
+Prompt: The photograph captures an immense warehouse interior, with towering industrial shelves stocked uniformly with identical cardboard boxes. The neatly arranged rows stretch into the distance, the repetitive patterns creating a rhythmic visual symmetry that emphasizes equal importance of each item stored. The scene is devoid of any human presence, evoking a sense of solemn stillness. 
+
+Overhead, large fluorescent lights cast a cool, even illumination, eliminating shadows and ensuring every minute detail is visible, suggesting transparency and uniformity. The lighting highlights the textures of the metal shelves and the simple, unadorned surfaces of the boxes, creating a stark, almost minimalist aesthetic.
+
+The style is hyper-realistic, with a focus on sharp details and a high dynamic range, giving the photograph an almost surreal quality where every element is crisply defined. The background shows a high ceiling with exposed beams and industrial fixtures, reinforcing the warehouse’s utilitarian purpose.
+
+At ground level, the concrete floor is spotless and subtly reflective, doubling the symmetry of the shelves above. In the far distance, a large, roll-up door is partially open, revealing a glimpse of the outside world bathed in natural light, hinting at the broader context beyond the organized interior.
+
+The photograph, intended for a gallery setting, masterfully balances on the line between functionality and art, turning an everyday industrial environment into a visually captivating study of order and equality.
+Seed: 3591690706
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Warehouse, Equality

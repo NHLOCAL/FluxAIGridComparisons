@@ -1,0 +1,4 @@
+Prompt: In a moonlit cityscape, an elegant boulevard stretches endlessly into the horizon, flanked by grand century-old buildings adorned with intricate wrought iron balconies and ornate stone facades. The cobblestone street reflects the soft glow of vintage gas lamps, their amber lights casting long, enchanting shadows that dance across the pavement. Majestic trees, their branches swaying gently in the night breeze, line the boulevard and intermingle with the muted, flickering lights of old-fashioned street vendors. The air is thick with the scent of blooming jasmine and the distant sound of an accordion playing a haunting, timeless melody. High above, the city’s skyline merges with the starlit heavens, creating a tapestry where the past and present blend into a single, mystical scene.
+Seed: 3215111834
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bewitching, Century, Boulevard

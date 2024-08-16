@@ -1,0 +1,4 @@
+Prompt: A breathtaking aerial view of a futuristic utopian city, showcasing sleek, towering skyscrapers made of glass and metal, intertwining with lush green parks and vibrant gardens. The skyline is punctuated by stunning solar panels and wind turbines, symbolizing sustainable energy. Below, people of diverse backgrounds engage in harmonious interactions, some commuting on hover vehicles while others enjoy outdoor cafes. The background features a clear blue sky with soft, fluffy clouds, casting gentle sunlight over the scene. The art style is a blend of hyper-realism and digital illustration, with an emphasis on bright, vivid colors, showcasing a hopeful and idyllic future. The scene conveys a sense of innovation, tranquility, and community, with high-resolution details revealing intricate architectural designs and lush flora, creating a mesmerizing visual experience.
+Seed: 532859549
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Witness, Utopia

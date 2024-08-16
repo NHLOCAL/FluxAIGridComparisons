@@ -1,0 +1,4 @@
+Prompt: Create an image of a grand mausoleum, intricately designed with ornate carvings and a majestic dome at the top. The mausoleum is set in a serene, overgrown garden filled with vibrant flowers and ancient trees, their branches gracefully arching over the structure. The sky is painted with a warm golden hue, suggesting the time is just before sunset, casting long shadows across the scene. In the foreground, an impressive stone pathway leads up to the mausoleum, lined with flickering lanterns that add a soft glow to the atmosphere. The overall composition should convey a sense of reverence and beauty, with the details of the mausoleum's architecture highlighted by the warm, inviting lighting. Rendered in a hyper-realistic style, capturing intricate details of the stonework and the lush greenery surrounding it.
+Seed: 1813031300
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Award, Mausoleum

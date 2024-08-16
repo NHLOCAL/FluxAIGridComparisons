@@ -1,0 +1,8 @@
+Prompt: A cozy outdoor picnic scene set in a lush green park during a warm, golden hour. In the foreground, a beautifully arranged picnic blanket is spread out, adorned with an array of delicious treats including fresh fruits, artisanal bread, and sparkling drinks in glass bottles. A charming wicker basket, overflowing with colorful goodies, sits nearby. Two sets of porcelain plates, each with intricate floral patterns, are positioned thoughtfully on the blanket. 
+
+To the side, a couple is seated close to each other, their comfortable body language reflecting a deep connection. They are dressed in casual yet stylish outfits, the woman wearing a light summer dress, and the man in a soft, checked shirt. The sunlight filters through the trees, casting dappled patterns on their faces and the picnic spread, creating a warm and inviting atmosphere. 
+
+In the background, the park is dotted with blooming flowers and tall, swaying trees, while a small pond glimmers under the sun, reflecting the vibrant colors of the scene. A family nearby enjoys their own picnic, with children playing and laughing, adding to the lively ambiance. The scene is illustrated in a soft, painterly style, enhancing the serene and harmonious setting around them. The lighting is soft and diffused, accentuating the beauty of the moment, while the color palette is rich and warm, pulling the viewer into this idyllic family and romance-themed setting.
+Seed: 910539749
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Romance, Family

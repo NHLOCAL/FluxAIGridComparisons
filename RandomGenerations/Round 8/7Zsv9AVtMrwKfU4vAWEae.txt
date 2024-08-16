@@ -1,0 +1,4 @@
+Prompt: Create a striking illustration of a gargoyle perched on a rocky cliff overlooking a turbulent ocean. The gargoyle should be intricately detailed, with weathered stone texture, fierce facial features, and large, spread wings that appear slightly raised as if catching the ocean breeze. Below, massive waves crash against the rocks, sending sprays of white foam into the air. The sky is dramatic with dark stormy clouds, illuminated by occasional flashes of lightning that highlight the gargoyle's silhouette and enhance the intensity of the scene. The overall mood conveys a sense of power and mystery, with a color palette dominated by deep blues, grays, and hints of silver. The perspective should be dynamic, with the viewer looking up at the gargoyle from a low angle to emphasize its formidable presence against the vast ocean.
+Seed: 1668590404
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ocean, Gargoyle

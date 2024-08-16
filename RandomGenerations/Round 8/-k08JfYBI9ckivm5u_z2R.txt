@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring an elegant, humanoid character draped in a flowing, ornate gown. The gown is a blend of deep blue and silver, adorned with intricate patterns resembling celestial bodies, enhancing the character's ethereal appearance. The character stands in a grand, opulent library with towering bookshelves filled with ancient tomes and shimmering globes. Soft, warm candlelight casts delicate shadows, highlighting the character's striking features and graceful pose. The background is rich with dark wood textures and gold accents, creating a refined atmosphere. The angle is slightly low, emphasizing the character's elegance and stature while drawing attention to the enchanting surroundings. The overall mood is one of sophistication and mystery, with a touch of fantasy.
+Seed: 988687937
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elegant, Division

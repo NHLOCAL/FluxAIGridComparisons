@@ -1,0 +1,8 @@
+Prompt: A captivating digital artwork depicting an expansive cosmic landscape where a multitude of vibrant stars glimmer in a deep, velvety black sky. In the foreground, a colossal, ancient astronomical instrument, resembling a mix between a telescope and an astrological wheel, is meticulously detailed with intricate engravings and glowing celestial symbols. This instrument is positioned on a high cliff overlooking a swirling nebula painted in bright hues of purple, blue, and pink, accentuated by contrasting streams of golden light. The stars vary in size, with some shining intensely while others twinkle gently, creating a complex tapestry of light.
+
+The lighting is dramatic, with soft halo effects around the stars, providing a surreal glow that interacts with the shadows cast by the astronomical instrument. Wisps of luminous clouds drift lazily through the scene, adding depth and emphasizing the vastness of space. The background features distant cosmic phenomena like supernova remnants and more star clusters, enhancing the richness of the cosmos.
+
+The overall style combines hyperrealism with elements of surrealism, inviting viewers to explore the mysteries of the universe and the transformative nature of celestial adjustments through time and space. The scene is meticulously crafted to draw the eye toward the stars, suggesting a vast depth while invoking a sense of wonder and curiosity about the cosmos.
+Seed: 765339046
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Star, Adjustment

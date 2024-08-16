@@ -1,0 +1,10 @@
+Prompt: Create an oil painting that depicts a quiet study, illuminated by a single antique brass lamp with a warm light casting gentle shadows. The scene centers around an intricately carved wooden desk, rich in dark mahogany hues, with a timeworn leather-bound book open to a page filled with elegant, flowing script. Behind the desk, a tall wooden shelf filled with dusty, leather-bound volumes reaches towards the ceiling. 
+
+On the wall to the right, there is a crafted glass display case holding a gleaming golden trophy, its polished surface reflecting the soft light, casting minute, ever-changing patterns on the wooden wall. The trophy’s base bears inscriptions of achievements. Further accentuating the scholarly atmosphere, an old wooden chair, with dark green cushioning, is slightly ajar from the desk, indicating recent use.
+
+The background is a softly toned, aged wallpaper with a subtle floral pattern, slightly distressed to enhance the vintage feel of the room. A large, sash window draped with heavy, dark green velvet curtains is partially open, allowing a spill of pale moonlight to intermingle with the lamp's glow, creating a soothing, almost ethereal ambiance.
+
+Every element of the scene speaks to a harmony of intellectual pursuit and a reverence for accomplishment, as detailed through tangible objects and precise visual composition, distinguished by a balance of warm and cool tones, intricate textures, and atmospheric play of light and shadow.
+Seed: 3499126577
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Thought, Trophy, Ward

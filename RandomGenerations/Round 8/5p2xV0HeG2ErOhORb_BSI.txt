@@ -1,0 +1,6 @@
+Prompt: A surreal illustration depicting the concept of inequality as a large, ornate gift box placed in a divided landscape. The gift box is extravagant, adorned with vibrant ribbons and an intricate design, symbolizing wealth and privilege. Half of the landscape is bright and colorful, filled with lush greenery and blooming flowers, while the other half is dark, barren, and desolate, representing poverty and neglect. A contrast between the two sides is emphasized with stark lighting changes; one side basking in sunlight, the other shrouded in shadow. Floating above the scene, a shattered scale balances unevenly, further highlighting the imbalance. The overall composition blends elements of fantasy and realism, inviting thought on societal disparities in a visually striking manner. 
+
+Art style: Surrealism, high detail, vivid colors. 
+Seed: 2305257452
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Inequality, Gift

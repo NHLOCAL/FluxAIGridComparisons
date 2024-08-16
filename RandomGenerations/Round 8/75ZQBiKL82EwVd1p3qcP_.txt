@@ -1,0 +1,4 @@
+Prompt: A detailed illustration of a giant globe representing a fictional nation, intricately designed with vibrant colors and symbols embodying various cultural influences. Surrounding the globe are iconic landmarks from different countries, such as the Eiffel Tower, Great Wall of China, and Pyramids of Egypt, each connected with glowing lines to signify cultural exchange and influence. The background features a dynamic sky with swirling clouds in warm hues, suggesting a sunrise, symbolizing hope and unity. The art style should be a blend of realism and fantasy, enhancing the details of the globe and landmarks, with cinematic lighting that highlights their features vividly. The entire scene conveys a sense of interconnectedness and diversity, inspiring a feeling of global unity and collaboration.
+Seed: 3599198890
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nation, Influence

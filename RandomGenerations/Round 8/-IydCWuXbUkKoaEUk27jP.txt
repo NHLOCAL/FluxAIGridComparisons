@@ -1,0 +1,4 @@
+Prompt: A stunning close-up illustration of a pair of intertwined birds, symbolizing faithfulness, perched on a delicate branch. The birds are vividly colored, with intricate feather details showcasing vibrant shades of blue, green, and gold. Each bird has its head turned towards the other, as if sharing a moment of tenderness. The branch is adorned with tiny blossoms, adding a touch of softness and romance to the scene. The background features a softly blurred, sunlit forest with dappled light filtering through the leaves, creating an inviting and harmonious atmosphere. The overall depiction emphasizes the concept of loyalty and connection in nature, capturing the intimate bond between the two birds. Highly detailed, illustration, realistic, vibrant colors.
+Seed: 1591217379
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bird, Faithfulness

@@ -1,0 +1,6 @@
+Prompt: In a hyper-realistic digital painting, depict two intertwined, complex hands made up of intricate, delicate circuit patterns, representing the theme of friendship and control. The hands are suspended in mid-air, each holding a glowing, translucent orb that emits a soft, warm light. The background is a futuristic cityscape at dusk, with sleek skyscrapers featuring large screens displaying data streams and holographic advertisements. Soft pink and orange hues of the setting sun blend seamlessly into the twilight sky, creating a rich gradient that enhances the overall scene. 
+
+The lighting focuses on the orbs, casting soft glows onto the hands, illuminating the intricate circuitry, which reflects a blend of deep blues and silvers, indicating advanced technology. The atmosphere is serene yet powerful, highlighting the balance of connection and control. Wisps of digital data float around the hands, symbolizing the flow of information and the bond formed through technology. The overall style is a combination of realism and digital art, emphasizing clarity and detail in both the hands and the environment, creating a captivating visual narrative that speaks to the complexities of friendship and the nature of control in a digital age.
+Seed: 4167059140
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Friendship, Control

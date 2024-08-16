@@ -1,0 +1,4 @@
+Prompt: Create a highly detailed close-up image of a textured leather surface in a deep indigo color. The leather should exhibit intricate grain patterns and subtle variations in hue, showcasing its natural beauty. A soft, diffused light source from the upper left casts gentle shadows, accentuating the contours and textures of the leather. The background should be a muted gray, enhancing the richness of the indigo without distraction. The overall emphasis is on the tactile quality and luxurious appearance of the leather, creating a captivating visual experience.
+Seed: 1718146534
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leather, Indigo

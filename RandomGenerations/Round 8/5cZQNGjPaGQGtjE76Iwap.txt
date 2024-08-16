@@ -1,0 +1,4 @@
+Prompt: A breathtaking nocturnal scene on a high plateau under a starry sky. The landscape features rugged, rocky formations bathed in soft moonlight, casting gentle shadows across the terrain. In the foreground, a solitary ancient tree with twisted branches stands proudly, its silhouette stark against the shimmering starlit sky. The Milky Way arcs overhead, creating a dazzling display of celestial colors with hints of blues, purples, and whites. The atmosphere is serene, with a hint of fog drifting through the valley below, adding depth and mystery to the scene. The overall composition is enhanced by the intricate details of the rocks, tree, and the vastness of the night sky, creating a captivating visual experience that invites contemplation and awe. Photorealistic style, high resolution, and cinematic quality.
+Seed: 2699458139
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Night, Plateau

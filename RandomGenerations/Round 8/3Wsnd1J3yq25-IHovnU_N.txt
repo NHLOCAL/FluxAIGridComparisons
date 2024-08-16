@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a captivating Diviner, a mystical figure adorned in elaborate, flowing robes embroidered with intricate celestial patterns. The Diviner stands atop a rocky cliff, gazing into an ethereal crystal ball that glows with iridescent colors. The background showcases a surreal, starry night sky filled with swirling galaxies and vibrant nebulae, creating a cosmic atmosphere. Soft beams of moonlight cascade down, illuminating the Diviner's wise and serene expression. The scene is framed with silhouetted trees on either side, their branches reaching outward. The overall art style should reflect a blend of fantasy and realism, with emphasis on vibrant colors and intricate details, evoking a sense of wonder and mystery.
+Seed: 1549593345
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ravishing, Diviner

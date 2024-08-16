@@ -1,0 +1,4 @@
+Prompt: A captivating portrait of an enchanter standing in a lush, enchanted forest. The enchanter is dressed in intricate robes adorned with shimmering runes and symbols, reflecting the magic they wield. Their long, flowing hair glows with a faint aura, and they are holding a luminous staff that radiates vibrant colors. The background is filled with ancient trees with twisting branches draped in soft, glowing vines, and ethereal creatures can be seen flitting between the foliage. The scene is illuminated by dappled sunlight filtering through the leaves, creating a mystical atmosphere. The angle is slightly upward, emphasizing the enchanter's presence and the grandeur of the enchanting forest, blending elements of fantasy and magic in high detail.
+Seed: 458456322
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enchanter, Recognition

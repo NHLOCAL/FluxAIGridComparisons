@@ -1,0 +1,6 @@
+Prompt: A bustling construction site under a vibrant, overcast sky, with dynamic, swirling winds sending dust and debris swirling through the air. A group of workers, clad in bright orange safety vests and hard hats, are engaged in various activities, including welding, hammering, and lifting large steel beams. The foreground features a half-constructed skyscraper, with cranes towering above, their metal frames silhouetted against the clouds. The ground is scattered with construction materials such as wooden planks, metal girders, and stacks of concrete blocks. 
+
+In the background, a cityscape emerges, with other buildings standing tall against the sky, their glass windows gleaming dimly. Dark gray clouds hang ominously, casting shadows across the site, while the wind causes the tarps and safety barriers to flap and ripple. The scene is alive with movement, as light illuminates the hardworking figures, creating sharp contrasts between light and shadow. The overall atmosphere reflects an industrious and gritty environment, infused with a sense of energy and determination. The art style is hyper-realistic, with an emphasis on sharp details and dynamic lighting, showcasing every element with clarity and precision.
+Seed: 3309342592
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wind, Construction

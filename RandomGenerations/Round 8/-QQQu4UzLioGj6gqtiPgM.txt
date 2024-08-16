@@ -1,0 +1,4 @@
+Prompt: A serene illustration of a utopian landscape, featuring lush, rolling hills adorned with vibrant flowers and thriving trees. In the distance, a crystal-clear lake reflects the surrounding nature, with gently flowing water cascading over smooth stones. Peaceful animals wander freely in harmony, including deer and rabbits. Above, a bright blue sky dotted with fluffy, white clouds creates a tranquil atmosphere. The art style should be reminiscent of classical landscapes, capturing the essence of perfection and tranquility, with soft lighting creating a warm and inviting ambiance. The foreground should include delicate wildflowers swaying gently in the breeze, enhancing the overall sense of calm and peace in this idyllic setting.
+Seed: 1161869512
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Utopia, Hush

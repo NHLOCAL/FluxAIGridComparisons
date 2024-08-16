@@ -1,0 +1,4 @@
+Prompt: Create a detailed illustration of an ancient library, filled with towering bookshelves that stretch towards a high, vaulted ceiling adorned with intricate frescoes depicting scenes of knowledge and enlightenment. In the center of the library, a wise sage sits at a wooden table, deeply engrossed in a large, ancient tome, illuminated by the warm glow of candles placed around him. The room is bathed in soft, golden lighting that highlights the dust particles dancing in the air. The background features large stained glass windows depicting mythical creatures and legendary scholars, casting colorful reflections on the polished stone floor. Add a sense of depth with scattered books, scrolls, and a globe resting nearby. The style should evoke a sense of timeless wisdom and adventure, capturing the essence of exploration and the pursuit of knowledge.
+Seed: 2142840615
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Counsel, Observe

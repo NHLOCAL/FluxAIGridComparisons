@@ -1,0 +1,4 @@
+Prompt: Create an image of a wedding ceremony set in a lush garden during the golden hour. In the foreground, a happy couple is exchanging vows under a beautifully adorned wooden arch draped with white and lavender fabric, surrounded by fresh flowers in soft pastels. The bride is wearing a flowing lace gown, while the groom is in a classic navy suit with a lavender tie. The guests are seated on white chairs, smiling and holding bouquets of flowers. In the background, tall trees are bathed in warm sunset light, creating a serene and romantic atmosphere. The scene captures the essence of love and commitment, highlighted by soft, golden lighting that enhances the joyful ambiance. The angle is slightly elevated, offering a comprehensive view of the ceremony and the surrounding garden.
+Seed: 2055290530
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awareness, Marriage

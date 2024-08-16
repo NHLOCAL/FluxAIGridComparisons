@@ -1,0 +1,4 @@
+Prompt: In an expansive, serene cemetery at dusk, the sun dips below the horizon, casting elongated shadows and bathing the scene in a soft, amber glow. The meticulously ordered gravestones stand in rows, divided by narrow cobblestone pathways that crisscross the landscape like a master-crafted grid, symbolizing the division of past lives from the present. The pathways are flanked by ancient oaks, their dense, intertwined branches forming intricate patterns against the dusky sky, shadows interlacing like the threads in a complex weave, emblematic of life's delicate balance and control. The atmosphere is cool and still, interrupted occasionally by a gentle rustling of leaves, and the headstones themselves are a mix of polished marble and weathered stone, their varied inscriptions standing as silent sentinels against the encroaching twilight.
+Seed: 308213361
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Division, Cemetery, Control

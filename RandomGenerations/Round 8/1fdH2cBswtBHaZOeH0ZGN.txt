@@ -1,0 +1,4 @@
+Prompt: Create an image of a narrow, picturesque lane lined with charming cobblestone streets. The lane is flanked by quaint, colorful cottages with flower boxes overflowing with vibrant blooms. On either side, lush greenery and climbing vines weave around the homes, creating a cozy, inviting atmosphere. The background features a soft blue sky with fluffy white clouds, suggesting a pleasant day. The lane should be bathed in warm, golden sunlight, casting gentle shadows that accentuate the textures of the cobblestones and the intricate details of the cottages. A hint of distant mountains or hills can be seen in the background, enhancing the scenic beauty of the image. The art style should be a blend of realism and impressionism, capturing the charm and tranquility of a beautiful countryside setting.
+Seed: 3685392636
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lane, Attractive

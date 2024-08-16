@@ -1,0 +1,4 @@
+Prompt: A wise old owl perched on a gnarled branch of a pink-hued cherry blossom tree, its feathers intricately detailed with shades of deep browns and hints of iridescent green. The background features a twilight sky transitioning from soft pastel pink to deep purples, dotted with twinkling stars. The delicate cherry blossoms surround the owl, their vibrant pink petals gently falling like confetti, creating an atmosphere of tranquility and contemplation. Spotlight illumination from a low-hanging moon casts a soft, silvery glow on the owl, highlighting its large, amber eyes that appear to be absorbing the serene landscape. The scene is rendered in a realistic style, with high details emphasizing the textures of the owl's feathers and the delicate flowers, creating a serene and insightful moment in nature, inviting reflection on wisdom and beauty.
+Seed: 460619251
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wisdom, Pink

@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a grand medieval abbey rising majestically on a hill, surrounded by lush green fields and a winding river in the foreground. The abbey features gothic architecture with tall spires, intricate stone carvings, and large stained-glass windows that catch the light of the setting sun. The sky is painted in warm hues of orange and purple, reflecting the golden hour. In the foreground, an emblematic shield is displayed, intricately designed with a lion and a cross, symbolizing strength and faith. The scene is bathed in soft, diffused lighting, enhancing the details of the abbey and the surrounding landscape. The perspective is slightly elevated, providing a comprehensive view of the abbey and its environment, capturing a sense of timeless beauty and serenity.
+Seed: 4275998518
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Abbey, Emblem

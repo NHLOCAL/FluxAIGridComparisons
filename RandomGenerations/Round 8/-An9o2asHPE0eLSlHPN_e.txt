@@ -1,0 +1,4 @@
+Prompt: Create an image depicting two charming foxes nestled together in a lush, tranquil forest clearing. The first fox is a vibrant orange with white accents, while the second is a soft gray with lighter fur. Their tails are intertwined, and they are gazing softly at one another. The background is filled with tall, green trees and colorful wildflowers, with dappled sunlight filtering through the leaves, creating a warm, inviting atmosphere. The scene should convey a sense of serenity and connection, emphasizing the intricate fur patterns of the foxes and the rich greenery of their surroundings. The angle should be slightly elevated to capture the embrace of the foxes within the natural landscape, showcasing the harmonious coexistence in this idyllic setting. Render in a highly detailed, illustrative style with a focus on vivid colors and gentle lighting.
+Seed: 2930581875
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intimacy, Charming

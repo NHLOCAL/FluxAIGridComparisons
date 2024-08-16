@@ -1,0 +1,4 @@
+Prompt: A brightly lit gymnasium filled with lively activity. Agile gymnasts are caught mid-air, defying gravity with their impressive flips and twists. The gymnasium's walls are adorned with colorful banners and equipment like balance beams, uneven bars, and mats. In the background, large, sunlit windows let in natural light, casting cheerful, warm hues across the room. The gymnasts' outfits are vibrant and detailed, with shimmering leotards and sparkling accessories. The floor is polished, reflecting the dynamic motion of the scene. The overall style is photorealistic, capturing every intricate detail like beads of sweat, focused expressions, and the smooth texture of the gym equipment.
+Seed: 947902878
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gymnasium, Delightful, Gravity

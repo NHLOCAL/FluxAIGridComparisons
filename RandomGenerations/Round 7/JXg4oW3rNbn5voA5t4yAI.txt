@@ -1,0 +1,8 @@
+Prompt: A mesmerizing illustration of an ancient relic encased within a translucent, elemental crystal. The relic, resembling a weathered, magical orb, is inscribed with intricate runes that shimmer softly, reflecting hues of deep blue and emerald green. The crystal itself is surrounded by swirling tendrils of elemental energy that shift between fire, water, earth, and air, creating a dynamic visual of contrasting forces. 
+
+In the background, a mystical landscape unfolds, showcasing towering mountains shrouded in mist, and lush greenery illuminated by ethereal beams of moonlight filtering through dense trees. The ground is covered in vibrant, bioluminescent flora that gently pulsates in response to the elemental energies around it. 
+
+The scene is illuminated by a soft, ambient glow emanating from the relic and the elemental wisps, casting intricate shadows that dance across the rocky terrain. The art style is a blend of fantasy realism and high detail, emphasizing the textures of the crystal and relic, while the surrounding landscape is painted in rich, vivid colors, creating a compelling and immersive environment.
+Seed: 1577448216
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elemental, Relic

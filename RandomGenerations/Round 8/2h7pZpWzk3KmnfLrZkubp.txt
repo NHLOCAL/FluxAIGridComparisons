@@ -1,0 +1,4 @@
+Prompt: Create a dramatic scene of a post-apocalyptic cityscape, viewed from a high vantage point. The foreground features crumbling skyscrapers covered in vines and debris, with shattered windows and exposed steel beams. In the background, a dark, ominous sky is filled with swirling storm clouds, casting a bleak atmosphere over the desolate landscape. A faint glimmer of dying sunlight breaks through, illuminating patches of the city in a soft, golden hue. Scattered remnants of civilization, such as rusted vehicles and discarded belongings, litter the streets below. In the distance, a massive structure resembling a once-great monument stands tall but in ruins, symbolizing the remnants of a lost world. The art style should resemble a mix of hyperrealism and digital art, focusing on intricate details and textures to convey the sense of decay and abandonment.
+Seed: 3853354614
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Apocalypse, Observe

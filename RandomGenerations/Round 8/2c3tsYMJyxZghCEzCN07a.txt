@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a towering, muscular figure representing Power, standing atop a colossal stack of gleaming gold bars and shimmering coins. The figure should be adorned in ornate armor, intricately detailed with patterns symbolizing strength and authority. In one hand, they hold a massive, gleaming scepter, topped with a glowing gem radiating energy. The background should feature a dramatic, stormy sky with dark clouds illuminated by flashes of lightning, enhancing the sense of raw power. The ground around the figure is lit by a warm, golden light reflecting off the wealth below, casting dynamic shadows that accentuate the heroism of the character. The scene is highly detailed and rendered in a hyper-realistic style, emphasizing strength and grandeur.
+Seed: 3853318687
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Power, Quantity

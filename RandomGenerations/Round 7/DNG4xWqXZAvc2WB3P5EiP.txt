@@ -1,0 +1,4 @@
+Prompt: Create an intricate, luxurious scene depicting an ornate golden motif designed to symbolize strength and resilience. The golden patterns should weave and intertwine gracefully across the scene, capturing the viewer’s attention with their elaborate detail. The background features a rich, deep purple velvet fabric that contrasts dramatically with the gold, enhancing the richness of the motif. Soft, warm lighting should be employed to illuminate the gold, creating a shimmering effect that highlights every curve and line of the design. The polished surfaces of the gold catch the light, casting subtle reflections onto the surrounding fabric, while shadows deepen the intricate textures of the motifs, giving a three-dimensional quality. The overall composition is opulent and regal, emphasizing the beauty and intricacy of the golden motif against the luxurious backdrop.
+Seed: 1725926834
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gold, Motif

@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a serene landscape featuring a quiet, tranquil lake surrounded by lush greenery. The water is still, creating a perfect mirror reflecting the soft pastel colors of a sunrise. Gentle mist hovers above the lake's surface, adding to the peaceful ambiance. In the foreground, a small wooden boat is gently swaying, with a single white swan gliding gracefully alongside it. The background showcases tall trees with vibrant leaves, and a clear sky transitioning from soft pinks to light blues. The overall lighting is soft and diffused, creating a calming atmosphere, reminiscent of traditional impressionist paintings. Emphasize the harmony of nature in a realistic and soothing style.
+Seed: 696462623
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Present, Tranquility

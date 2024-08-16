@@ -1,0 +1,8 @@
+Prompt: A dynamic and intricate illustration depicting a massive, ancient stone door embedded in a rugged mountain cliff, partially ajar, revealing a faint glow emanating from within. The door is adorned with intricate carvings of swirling patterns and enigmatic symbols, suggesting a secretive and powerful force hidden beyond. The surrounding rock face is weathered and cracked, with patches of vibrant green moss seeping through the crevices. 
+
+In the foreground, a cloaked figure stands in silhouette, their posture conveying determination as they hold an ancient staff topped with a glowing crystal that mirrors the light from the door. The lighting is dramatic, casting long shadows that stretch across the stony terrain, enhancing the sense of mystery and anticipation surrounding the scene. 
+
+In the background, a dark, stormy sky looms with swirling clouds catching hints of violet and deep blue, punctuated by fleeting streaks of lightning illuminating the scene intermittently. The atmosphere is charged with energy, emphasizing the door's significance as a passage to an unknown power. The overall art style combines elements of high fantasy and intricate detail, creating a visually striking and immersive experience, emphasizing the allure and danger of the secrets that lie beyond the door.
+Seed: 3748909567
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Force, Secret

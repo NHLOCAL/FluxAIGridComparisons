@@ -1,0 +1,12 @@
+Prompt: Under a sky layered with thick, dark clouds that obscure the setting sun, a weathered farmhouse stands alone in a vast field, its wooden walls faded and splintered by years of exposure to the elements. Surrounding the farmhouse is a large expanse of land divided by rickety wooden fences, some of which are broken and lie on the ground, neglected. Crops fight to survive in the dry, cracked soil, their leaves wilted and struggling to stretch toward the sparse light filtering through the dense canopy of clouds.
+
+The scene is illuminated by the faint, diffused light of the overcast sky, casting long shadows that stretch over the distressed landscape. There's a cold, harsh quality to the lighting, which accentuates the desolation of the farm. The colors of the scene are muted, with browns and grays dominating the palette and only occasional hints of green where plants clinging to life manage to thrive.
+
+In the background, near the edge of the property, sits a dilapidated barn, leaning precariously as if resisting collapse by sheer will. Its rusty roof is peppered with holes, through which beams of pale light penetrate, casting weak, streaking rays onto the barn's decaying interior. Nearby, a forlorn tractor, long past its prime, rests motionless, coated in a layer of dust and grime, as if waiting for a purpose that may never come again.
+
+The absence of animals and workers underscores the abandonment, while the silence of the scene is nearly palpable, broken only by the occasional creak of the farmhouse's loose boards swaying in the wind.
+
+This farm speaks of untold stories of perseverance against an oppressive force, years of backbreaking labor met with harsh conditions that yield little reward. It hints at the struggle of those who lived and worked here, their efforts unappreciated and unrewarded, a testament to the quiet and relentless injustice that has bled the life from this once-vibrant land.
+Seed: 575499744
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Farm, Injustice, Story

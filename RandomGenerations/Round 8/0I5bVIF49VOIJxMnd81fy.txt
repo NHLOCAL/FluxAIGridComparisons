@@ -1,0 +1,4 @@
+Prompt: Create an image of a steadfast knight standing tall in a lush, green glade surrounded by ancient oak trees. The knight, clad in polished silver armor adorned with intricate engravings, holds a gleaming sword upright in one hand, while the other rests on a shield emblazoned with a heraldic emblem of a lion. The sunlight filters through the leaves above, casting dappled light across the scene, highlighting the knight's determined expression. A serene river flows gently in the background, reflecting the vibrant colors of the setting. The atmosphere is grounded, strong, signifying loyalty and commitment, with no human presence except the knight in the foreground. The overall composition evokes a sense of valor and unwavering duty, captured in a realistic and heroic style.
+Seed: 2830336518
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Faithfulness, Duty

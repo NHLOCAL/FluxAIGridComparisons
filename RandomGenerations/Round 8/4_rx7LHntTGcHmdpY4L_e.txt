@@ -1,0 +1,4 @@
+Prompt: A vibrant oil painting that captures the essence of two adorable animals, a fluffy golden retriever and a playful orange kitten, nestled together in a sunny meadow. The golden retriever has a wide, cheerful expression, with its tongue out, while the kitten playfully paws at the dog's ear. Surrounding them are colorful wildflowers in shades of pink, purple, and yellow, swaying gently in a light breeze. The background features a bright blue sky dotted with fluffy white clouds, creating a warm and inviting atmosphere. The sunlight bathes the scene in a golden glow, accentuating the soft fur of the animals and enhancing the cheerful colors of the meadow. The overall composition radiates warmth, charm, and a sense of companionship, inviting viewers to appreciate the beauty of friendship in nature.
+Seed: 2431648708
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Painting, Loveable

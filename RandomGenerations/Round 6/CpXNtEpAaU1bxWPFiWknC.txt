@@ -1,0 +1,10 @@
+Prompt: A large oil painting depicts a monumental scene in which an ancient, fortified city, situated atop a rocky cliff, overlooks a misty, expansive valley at dawn. The sky is a painful red hue, as if the sun itself was a wound in the sky, casting a harsh, raw light upon the stone structures and the rocky ground. At the foreground, survivors of a brutal conquest gather in fragmented groups. Some are on their knees, their bodies frail and defeated, with faces that scream in silent anguish. Their garments are tattered and worn, indicative of prolonged hardship and suffering.
+
+In the middle ground, the conquerors stand tall and imposing, their armor glinting coldly in the oppressive light. The leader, striding confidently atop a massive black stallion, holds a tattered banner emblazoned with an ancient insignia. Around them, soldiers methodically sort through the spoils of their conquest. Their faces remain expressionless, almost surreal, as if hardened by endless warfare.
+
+The background details a vast province covered in swirling mists that blend into the dawn, suggesting both the enormity and the desolation of the conquered land. The dilapidated remnants of an older, more peaceful civilization scatter the landscape, now overshadowed by the stark, intimidating architecture of the new rulers.
+
+The painting style uses rich, thick brushstrokes to imbue the scene with a sense of tangible texture and weight. Color contrasts are extreme, with dark, foreboding shadows and harsh, glaring highlights, enhancing the stark reality of the scene. The overall composition is meticulously structured, drawing the viewer's eye from the poignant sorrow in the foreground, through the cold dominance of the middle ground, to the ominous, mist-shrouded expanse in the background.
+Seed: 2292275526
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Province, Scream, Conquest

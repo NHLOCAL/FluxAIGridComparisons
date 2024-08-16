@@ -1,0 +1,10 @@
+Prompt: A colossal Leviathan rising from the depths of a stormy sea, its massive form partially submerged, displaying intricate scales that shimmer in varying shades of deep blue and charcoal gray. Each scale reflects the turbulent waves crashing against its body, creating a dramatic interplay of light and shadow. The Leviathan's elongated tail unfurls behind it, trailing tendrils of dark water that swirl around in chaotic patterns.
+
+The sky above is dark and foreboding, filled with swirling storm clouds that crackle with sporadic lightning, casting brief illuminations across the scene. The light from the lightning highlights the Leviathan’s imposing silhouette, revealing the razor-sharp spines along its back, glistening ominously against the backdrop of the menacing atmosphere.
+
+A distant rocky coastline is barely visible through the veil of rain, jagged cliffs rising up sharply, slick with moisture, contrasting the wild, uncontrollable nature of the ocean. The ocean itself is a tempestuous expanse, each wave a frothy crest of white, crashing against unseen rocks below, creating sprays of salty mist that dance in the air.
+
+The scene is rendered in a highly detailed cinematic style, emphasizing the grandeur and scale of the Leviathan within the vastness of the tumultuous sea. Lighting is dramatic and dynamic, highlighting the contours of the creature and the chaos surrounding it, with a color palette dominated by dark blues, grays, and intermittent flashes of bright white from the lightning. The overall atmosphere conveys a sense of raw power and primal nature, capturing the awe-inspiring presence of the ancient Leviathan.
+Seed: 4193370404
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leviathan, Volume

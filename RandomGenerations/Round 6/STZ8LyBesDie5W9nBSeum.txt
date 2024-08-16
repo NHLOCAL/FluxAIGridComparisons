@@ -1,0 +1,8 @@
+Prompt: In the center of the composition, a grandiose, highly detailed starship activates its warp drive, illustrated with vibrant, twisting tendrils of turquoise and electric violet light. The starship hovers serenely above a sprawling, ancient dojo set on a remote, otherworldly landscape. The dojo, constructed from dark, weathered wood and ornate jade carvings, stands resilient and timeless against a backdrop of swirling nebula clouds and distant, twinkling stars.
+
+Suspended in the sky, the celestial phenomenon casts an ethereal glow that illuminates the scene with soft, otherworldly light, creating deep, dramatic shadows on the rough-hewn wood and stone of the dojo. The starry expanse above is depicted with meticulous precision, each star rendered with care, adding depth and a sense of infinite expanse. 
+
+The entire scene is executed as a hyper-realistic oil painting, capturing the intricate details of the starship and the ancient textures of the dojo with equal fidelity. The warp drive's radiant energy creates a visual interplay of light and shadow that heightens the sense of realism and otherworldly wonder, making the painting a stunning representation of futuristic technology meeting timeless tradition in a heavenly spectacle.
+Seed: 234747573
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Warp drive, Dojo, Heavenly

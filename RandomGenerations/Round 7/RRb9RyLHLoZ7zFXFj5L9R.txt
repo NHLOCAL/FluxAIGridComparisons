@@ -1,0 +1,8 @@
+Prompt: A vibrant, bustling factory filled with rows of intricate machinery and assembly lines producing colorful candies. A wide-angle view captures the scene, where workers in bright uniforms are joyfully engaged in their tasks, meticulously wrapping each piece of candy in shiny, translucent wrappers. The lighting is warm and inviting, with overhead lights casting a friendly glow across the room, emphasizing the rich colors of the candies—reds, greens, yellows, and blues—as they move along the conveyor belts.
+
+The backdrop features walls adorned with playful murals depicting candy landscapes and whimsical characters, enhancing the cheerful atmosphere. Steam billows from various parts of the equipment, adding a sense of movement and liveliness to the environment. Large windows allow sunlight to pour in, illuminating the scene with a golden hue, reflecting off the polished surfaces of the machines.
+
+In one corner, a large glass jar is filled to the brim with assorted candies, while another section displays workers carefully inspecting quality. The entire setting conveys a sense of productivity, satisfaction, and the joy of creating sweet treats in a whimsical, colorful world where the art of candy-making is celebrated. The style of the illustration is hyper-realistic, with an emphasis on detail that showcases the textures and colors of both the environment and the candies, ensuring that every element is vibrant and engaging.
+Seed: 3796499259
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pleasure, Factory

@@ -1,0 +1,4 @@
+Prompt: A minimalist scene featuring two identical wooden blocks, positioned side by side on a smooth, pale wooden table. The blocks are crafted from light oak, with a natural finish that highlights their grain and texture, creating a sense of warmth and simplicity. Soft, diffused daylight filters through a nearby window, casting gentle shadows that emphasize the clean lines and geometric shapes of the blocks. The background is a soft-focus, muted white wall that enhances the serene atmosphere, free from distractions. The overall composition is designed with a balanced harmony, highlighting the connection between the two blocks, while the natural light brings a sense of calmness and tranquility to the scene. The style leans towards ecological simplicity, focusing on the natural beauty of the materials and the space they occupy.
+Seed: 1596523809
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Simplicity, Bonding

@@ -1,0 +1,4 @@
+Prompt: Create a picturesque scene of a tranquil forest during the golden hour of sunset. Towering trees with vibrant green leaves dominate the landscape, their trunks covered in moss and delicate ferns at their base. Soft, dappled sunlight filters through the branches, casting warm, golden rays across the forest floor, which is blanketed with colorful wildflowers in shades of purple, yellow, and white. A gently flowing stream weaves through the scene, reflecting the warm hues of the sunset sky, which is painted in shades of orange, pink, and lavender. The angle should be slightly elevated, providing a wide view of the serene forest, enhancing the sense of peace and natural beauty. The overall atmosphere invites a sense of calm and connection with nature, rendered in a realistic and vibrant art style.
+Seed: 2651013267
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Picturesque, Forest

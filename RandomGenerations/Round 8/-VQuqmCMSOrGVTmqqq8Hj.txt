@@ -1,0 +1,4 @@
+Prompt: A stunning, high-definition illustration of Earth from a unique perspective, captured from space. The planet is beautifully rendered, showcasing vibrant blue oceans, lush green continents, and swirling white clouds. The backdrop features an expansive cosmic landscape with deep blackness punctuated by distant stars and a shimmering Milky Way galaxy arching across the scene. A soft halo of light surrounds the Earth, suggesting hope and vitality. The overall composition emphasizes the beauty and fragility of our planet, inviting viewers to appreciate the interconnectedness of life. The use of rich colors and crisp details creates a breathtaking visual experience that celebrates the grandeur of Earth. Ultra-high resolution, cinematic lighting, vibrant colors, and emphasis on realism.
+Seed: 4280802222
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Earth, Esteem

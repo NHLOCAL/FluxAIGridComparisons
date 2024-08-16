@@ -1,0 +1,8 @@
+Prompt: Create an image depicting a vast, swirling wormhole in the depths of space, its vibrant colors contrasting sharply against the inky black background. The wormhole should be intricately detailed, with layers of deep blues, purples, and brilliant whites spiraling inward, creating a sense of movement and depth. Surrounding the wormhole, tiny celestial bodies like distant stars and planets scatter throughout the scene, giving a glimpse of the cosmos beyond. 
+
+In the foreground, a sleek, futuristic spaceship is poised at the entrance of the wormhole, its polished metallic surface glinting under radiant lighting emanating from the wormhole itself. The ship features vivid neon accents that glow in harmony with the brightness of the wormhole, enhancing the scene’s dynamic energy. The overall perspective is slightly tilted upward, capturing the grandeur of the wormhole and the spaceship, emphasizing the vastness of space. 
+
+The lighting in the scene should be dramatic, with harsh contrasts between the bright illumination from the wormhole and the surrounding darkness of space, creating an awe-inspiring visual impact. The art style is hyper-realistic, focusing on intricate details like the sheen of the spaceship's surface and the swirling patterns of energy within the wormhole. The background is filled with nebulous cloud formations and scattered asteroids, lending a sense of depth and complexity to the cosmic environment.
+Seed: 401611611
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wormhole, Recognition

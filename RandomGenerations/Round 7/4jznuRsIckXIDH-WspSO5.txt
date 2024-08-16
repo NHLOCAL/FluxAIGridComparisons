@@ -1,0 +1,8 @@
+Prompt: A captivating illustration features a grand, ancient relic in the center, intricately designed with ornate carvings and a glowing core. The relic is surrounded by a misty, dimly lit environment, hinting at a hidden temple setting filled with flickering torches creating warm, golden light. Vines and flowers entwine around the relic, displaying vivid hues of deep red and lush greens, symbolizing life amidst decay. 
+
+The background depicts crumbled stone structures, partially covered in moss and illuminated by shafts of moonlight breaking through cracks in the ceiling. The overall atmosphere is rich with details of ancient civilization, with hints of erosion and timelessness. The lighting emphasizes the relic, casting dramatic shadows that enhance its mysterious allure, while subtle glimmers reflect off the surface, drawing the viewer's eye.
+
+In the corners of the scene, shadows whisper of elegant, loosely draped fabric that hints at a sense of sensuality, mimicking curves and soft edges, suggesting an appreciation for beauty and form. The entire composition is painted in an ornate, baroque art style, blending historical reverence with elements of intrigue, crafting a visual story of allure and reverence for the forgotten past.
+Seed: 978636165
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Relic, Sex

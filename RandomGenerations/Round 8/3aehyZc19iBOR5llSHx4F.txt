@@ -1,0 +1,4 @@
+Prompt: A detailed illustration of a vibrant flower in full bloom, captured at noon. The flower should be large and colorful, showcasing intricate petal structures in shades of red, yellow, and purple. Each petal should glisten under the bright midday sun, with dewdrops reflecting the light. The background should consist of a lush green garden with subtle hints of other flowers and greenery, enhancing the main subject. The lighting should be bright and warm, casting sharp shadows that highlight the flower's features. The angle should be slightly below eye level to emphasize the flower's height and beauty. The overall composition should focus on clarity and vividness, creating a striking visual appeal, with a hint of surrealism in the colors.
+Seed: 1377062889
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Flower, Noon

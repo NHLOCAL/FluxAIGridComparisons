@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a lush, enchanted grove filled with vibrant, oversized flowers in various colors and intricate patterns. The grove is bathed in warm, dappled sunlight filtering through the thick canopy of ancient trees. In the center, a whimsical wooden bench adorned with intricate carvings attracts the viewer's eye. The ground is carpeted with soft, green moss and dotted with delicate butterflies fluttering about. Ethereal wisps of soft luminescent light weave through the trees, enhancing the magical atmosphere. The scene is portrayed in a vibrant, fantasy art style, with sharp focus on the details, highlighting the delicate textures of the plants and the play of light and shadow.
+Seed: 1452374567
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Grove, Ward

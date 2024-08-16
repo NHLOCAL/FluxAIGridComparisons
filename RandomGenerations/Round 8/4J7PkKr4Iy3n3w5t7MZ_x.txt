@@ -1,0 +1,4 @@
+Prompt: Create an imaginative scene featuring a whimsical troll sitting on a floral hilltop. The troll is depicted with vibrant green skin and wearing a patchwork tunic made from various colorful fabrics. Its large, expressive eyes gleam with a mischievous sparkle, and it sports a wild mane of tangled hair adorned with flowers. In one hand, the troll holds a large wooden staff topped with a glowing crystal. The background displays a fantastical landscape with rolling hills, a bright blue sky dotted with fluffy white clouds, and a rainbow arching above. The scene is bathed in warm sunlight, casting playful shadows and creating a cheerful atmosphere. The art style combines elements of fantasy illustration with bright, saturated colors, emphasizing the troll's playful yet enchanting nature.
+Seed: 2122390902
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Love, Troll

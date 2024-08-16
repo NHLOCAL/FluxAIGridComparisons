@@ -1,0 +1,4 @@
+Prompt: A hauntingly surreal illustration capturing a ghostly figure from the past, with its translucent body emanating a soft, eerie glow. The figure, wearing tattered clothes reminiscent of an ancient era, is frozen in a scream, mouth wide open in a silent expression of horror. Surrounding the figure is a swirling mist that blends shades of gray and black, creating a foggy atmosphere. The background features an old, crumbling landscape with partially visible ruins and twisted trees, adding a sense of desolation and mystery. The lighting is dim and moody, emphasizing shadows that dance around the scene, enhancing the overall feeling of dread and haunting presence. The artwork combines elements of dark fantasy and surrealism, immersing the viewer in a chilling yet captivating moment in time.
+Seed: 4062953452
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Past, Scream

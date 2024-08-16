@@ -1,0 +1,4 @@
+Prompt: A hyper-detailed illustration of a futuristic elf pilot inside a sleek spaceship, navigating through a vibrant cosmic landscape at hyperdrive speed. The elf has elegantly pointed ears and radiant, emerald green eyes, wearing a high-tech helmet with a holographic visor displaying star maps and navigational data. The spaceship's interior is adorned with intricate elven designs, glowing with blue and silver accents. In the background, colorful nebulae and distant galaxies blur by as streamers of light indicate the hyperdrive effect. The scene is illuminated with a mix of cool and warm lighting, emphasizing the energetic motion and otherworldly atmosphere. The composition should showcase a dynamic angle, capturing the thrill of interstellar travel, blending fantasy with sci-fi elements in a captivating manner.
+Seed: 3261237008
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elf, Hyperdrive

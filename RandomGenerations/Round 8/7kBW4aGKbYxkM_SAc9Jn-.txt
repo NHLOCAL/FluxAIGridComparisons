@@ -1,0 +1,6 @@
+Prompt: Create an image of a grand mausoleum set in a serene, overgrown cemetery at twilight. The mausoleum is constructed from weathered gray stone, featuring intricate carvings of celestial symbols and floral patterns that hint at its historical significance. Surrounding the structure are tall, ancient trees with gnarled branches, their leaves rustling gently in the evening breeze. The sky is painted in deep shades of indigo and violet, with scattered stars beginning to twinkle.
+
+Soft, diffused moonlight bathes the mausoleum in a silvery glow, casting gentle shadows that stretch across the moss-covered ground. A faint fog rolls in, enhancing the ethereal atmosphere. In the foreground, delicate wildflowers bloom among the cemetery stones, adding a touch of color to the scene. The overall composition evokes a sense of tranquil reverence, inviting contemplation and connection to the past. Style of romantic realism, highly detailed, cinematic lighting.
+Seed: 3929274947
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Feeling, Mausoleum

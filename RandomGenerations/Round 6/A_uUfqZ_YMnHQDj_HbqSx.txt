@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting portrays a grand cathedral interior, alive with vibrant hues and meticulous detail. The focal point is a majestic stained-glass window, illuminated by the sunlight streaming through, casting a spectrum of colors across the polished marble floor and the ornate wooden pews. The light creates sharp, defined shadows that add depth and dimension to the scene. The cathedral's lofty arches and intricate carvings add to the sense of awe and grandeur. In the foreground, a group of finely dressed individuals stand with a sense of accomplishment, their posture confident, basking in the glow of the light. The background captures the cathedral's intricate artwork, including gold-leafed religious icons and detailed frescoes, contributing to the sense of divine presence and opulence.
+Seed: 2761753186
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vibrant, Success, Religion

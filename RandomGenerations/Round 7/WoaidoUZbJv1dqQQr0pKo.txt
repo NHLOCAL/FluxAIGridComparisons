@@ -1,0 +1,8 @@
+Prompt: A breathtaking scene depicting a mysterious, ancient library nestled within a dark, enchanted forest. Towering trees with thick, gnarled roots surround the structure, their leaves glowing softly in shades of luminescent green. The library is crafted from dark, weathered stone, intricately carved with arcane symbols and patterns that hint at untold knowledge. The massive wooden door is slightly ajar, revealing a warm, inviting golden light spilling out into the shadows. 
+
+Inside, rows of towering bookshelves filled with dusty tomes stretch towards a high ceiling adorned with intricate frescoes of celestial bodies, giving the impression of being in the cosmos. The lighting is ethereal, emanating from floating orbs that hover just above the shelves, illuminating the spines of the books with a soft, flickering glow. A spiral staircase made of ancient oak winds upwards, disappearing into mist, adding an air of mystery to the scene.
+
+In the background, the silhouette of a grand telescope, peeking out from a vast arched window, frames the night sky, where stars twinkle in a breathtaking array of colors. The atmosphere feels profound and timeless as shadows dance softly across the floor, inviting exploration of the secrets held within this magical library, captured in a style reminiscent of dramatic fantasy art, emphasizing intricate details and a captivating ambiance.
+Seed: 931301042
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intrigue, Breathtaking

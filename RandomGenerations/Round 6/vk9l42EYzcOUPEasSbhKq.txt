@@ -1,0 +1,4 @@
+Prompt: In a spacious underwater cavern bathed in the soft, bioluminescent glow of anemones and jellyfish, a mermaid weaves together a tapestry of shimmering pearls and corals. The cavern walls are adorned with intricate seaweed patterns and shells that reflect the gentle, azure light, creating a serene and intimate atmosphere. The mermaid's scales glisten as she moves with exact precision, her deft fingers crafting delicate, ornate designs with practiced ease. Behind her, an expansive view of the open ocean is visible through a large, natural window in the rock, where schools of fish glide gracefully, casting fleeting shadows in the water. The scene is a harmonious blend of deep, tranquil colors and detailed, masterful craftsmanship, capturing a moment of serene beauty and expert artistry in an underwater world.
+Seed: 1277648896
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intimacy, Mermaid, Competence

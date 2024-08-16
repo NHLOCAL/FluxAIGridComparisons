@@ -1,0 +1,4 @@
+Prompt: An awe-inspiring hyper-realistic illustration featuring a gigantic ancient tree with vibrant green leaves and deeply textured bark, symbolizing profound connection. The tree’s branches spread wide and high, creating an expansive canopy that shelters a quaint village nestled at its roots, showcasing capacity. Each house is intricately woven into the tree's vast structure, connected by delicate wooden bridges and winding staircases, blending seamlessly with nature. Golden, dappled sunlight filters through the leaves, casting soft, warm light on the scene and creating a tender, serene atmosphere. The background is a lush, verdant forest, fading into misty mountains under a clear blue sky with wisps of white clouds. The details and the ethereal glow highlight the beauty of unity and interconnectedness."/
+Seed: 2781909646
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tenderness, Capacity, Connection

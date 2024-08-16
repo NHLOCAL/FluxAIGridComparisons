@@ -1,0 +1,4 @@
+Prompt: A vibrant and bustling playground scene filled with children joyfully playing on various structures. The foreground features a colorful jungle gym and a towering slide, with kids climbing, sliding, and swinging. Surrounding the playground, lush green trees provide shade and a backdrop of blue sky with fluffy white clouds. The scene is alive with activity, showcasing kids of diverse backgrounds laughing and engaging in games. Brightly colored swings sway in the gentle breeze. The lighting is warm and sunny, creating a cheerful and inviting atmosphere. Capturing the essence of childhood and adventure, the playground is adorned with playful elements like balloons and kites flying above, reflecting a sense of freedom and imagination.
+Seed: 2382903344
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Playground

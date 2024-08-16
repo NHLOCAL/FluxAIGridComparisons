@@ -1,0 +1,8 @@
+Prompt: A vibrant battlefield scene depicting two majestic, intricately detailed flags fluttering against a backdrop of a stormy sky. The flags, adorned with intricate symbols representing loyalty and allegiance, are positioned atop a weathered stone wall, standing defiantly amidst the chaos in the foreground. Below, a diverse group of warriors, clad in elaborate armor showcasing different cultural motifs, are locked in an epic struggle, their expressions fierce and determined, with powerful stances and dynamic movements. 
+
+The ground is littered with battle-worn equipment, while flashes of lightning illuminate the scene, casting dynamic shadows that enhance the intensity of the moment. Rich colors of red, blue, and gold dominate the warriors' attires, contrasting sharply with the dark and moody sky. The lighting is dramatic, with stormy gray clouds swirling overhead, and sporadic bursts of lightning highlight the scene in a stark, vivid manner, emphasizing the grandeur of the flags and the resilience of the warriors. 
+
+In the distance, a sprawling landscape of rolling hills fades into the horizon, with hints of villages in the background, rendered in muted tones to provide depth and perspective. The overall atmosphere conveys a sense of unwavering allegiance and determination, as the flags symbolize hope and unity amidst the turmoil of battle, capturing the essence of courage and collective strength in a vivid, action-packed style.
+Seed: 1539295507
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vibrant, Allegiance

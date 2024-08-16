@@ -1,0 +1,8 @@
+Prompt: A vivid oil painting captures an early evening scene at a historic coastal town, illuminated by the warm, golden hues of the setting sun. The cobblestone streets are lined with quaint, centuries-old houses, their exteriors painted in a palette of muted pastels. Each house is adorned with flower boxes brimming with vibrant blooms, providing bursts of color against the weathered facades. 
+
+In the foreground, a group of townsfolk are depicted, engaged in lively activity. A vendor with a wooden cart full of fresh produce discusses his wares with a woman in a flowing, sunlit dress, while a pair of children chase a small, scruffy dog nearby. The shadows are long and soft, casting an intricate web of light and shade that adds depth and dimension to the scene. 
+
+In the background, the ocean glimmers with the reflection of the setting sun, its tranquil waves mirroring the sky’s gradient from golden amber to pale pink. A solitary sailboat drifts lazily on the horizon, its sails catching the last light of the day. The overall style of the painting is realistic yet romanticized, with meticulous attention to detail and a soft blending of colors that convey the timeless charm and serene atmosphere of a moment frozen in time.
+Seed: 3646119122
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Notion, Scenic, Date

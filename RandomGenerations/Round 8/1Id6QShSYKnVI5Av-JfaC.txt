@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a retro-style gaming console with a vibrant, colorful motif. The console should feature bold, geometric patterns, reminiscent of 80s and 90s design, with bright blues, pinks, and yellows. The controllers are connected by retro cables, featuring similar patterns. The background should showcase a nostalgic living room setup, with a pixelated TV displaying an iconic retro game scene. Soft, warm lighting from lamps and scattered game cartridges should create a cozy atmosphere. The angle is slightly above eye level, capturing the console and its environment in a dynamic, inviting composition. High detail, photorealistic style.
+Seed: 2130029316
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Console, Motif

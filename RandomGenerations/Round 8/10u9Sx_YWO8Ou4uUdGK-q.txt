@@ -1,0 +1,4 @@
+Prompt: A dramatic illustration of a tension-filled scene inside an ancient convent. The setting features high vaulted ceilings, stone walls adorned with faded religious paintings, and flickering candlelight casting long shadows. In the foreground, a cloaked figure stands with their back to the viewer, holding a weathered book close to their chest. Their body language appears tense, as if caught in a moment of ominous contemplation. The air is heavy with an eerie silence, and outside the narrow, arched windows, dark storm clouds roll in, creating a sense of impending doom. The color palette consists of deep browns, muted golds, and grays, enhancing the atmospheric tension. The angle captures the figure in a slight profile, highlighting the tension in their posture against the gothic backdrop, rendered in a hyper-detailed, dark fantasy art style.
+Seed: 2054385173
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tension, Convent

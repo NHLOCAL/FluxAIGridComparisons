@@ -1,0 +1,4 @@
+Prompt: Create an image of a majestic, futuristic city skyline at dusk, glowing with vibrant neon lights reflecting off glass surfaces. The scene features towering skyscrapers with sleek, angular designs and intricate architectural details. Above the city, a massive, luminous moon casts a soft, ethereal glow, illuminating clouds that weave through the structures. In the foreground, a powerful figure dressed in advanced armor stands triumphantly on a rooftop, surveying the city with an air of authority. The lights of the city pulse rhythmically, enhancing the atmosphere of energy and potential. The angle should be slightly tilted, emphasizing the height of the buildings and the figure's commanding presence. The overall color palette should be rich with deep blues, purples, and bright neon accents, creating an enticing and powerful visual composition.
+Seed: 2822940687
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enticing, Power

@@ -1,0 +1,4 @@
+Prompt: An oil painting capturing a winding forest path just after a downpour. The path is a mixture of damp earth and scattered ruby-red leaves, glistening under the soft, diffused light breaking through a thick canopy of trees. Each leaf is detailed with glistening water droplets, reflecting the muted light in tiny sparkles. The trees themselves are tall and ancient, their bark textured and rough, with deep greens and earthy browns creating a natural frame around the path. The background extends into a dense forest, shrouded in a light mist that suggests depth and distance. The entire scene is rendered with meticulous brushwork, capturing the intricate details of the foliage, the wet texture of the path, and the serene yet vibrant atmosphere of the forest.
+Seed: 2460139625
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Path, Ruby, Pressure

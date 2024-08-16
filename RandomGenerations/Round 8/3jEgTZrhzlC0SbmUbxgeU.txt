@@ -1,0 +1,4 @@
+Prompt: Create a striking image of an ancient citadel perched majestically on a rocky cliff, overlooking a sprawling valley below. The citadel is built from weathered stone with intricate carvings and tall, narrow windows, showcasing a blend of various architectural styles. Surrounding the citadel, a lush forest stretches out, with vibrant green trees providing a stark contrast to the rugged terrain. A clear blue sky, dotted with wispy clouds, bathes the scene in warm sunlight, while the sunlight also casts long shadows across the citadel's walls. The viewer's perspective is from a slightly elevated angle, capturing both the immense scale of the citadel and the exquisite details of its structure. The artwork combines elements of realism and fantasy, emphasizing the grandeur and historical significance of the citadel against the backdrop of nature's beauty. 
+Seed: 3975483175
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Competence, Citadel

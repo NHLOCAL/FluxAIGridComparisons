@@ -1,0 +1,10 @@
+Prompt: Create an oil painting of a scholarly, sunlit library room. The setting is an elegantly designed room with high, arched windows made of stained glass casting intricate, vibrant patterns onto polished walnut wood floors. The walls are covered with floor-to-ceiling bookshelves filled with leather-bound books that exude wisdom and knowledge. In the center of the room, a regal mahogany desk is adorned with a neatly arranged collection of old parchment scrolls, an ornate quill pen placed in an inkpot, and an open, gilded-edged book displaying ancient texts and diagrams.
+
+A distinguished figure, dressed in an impeccably tailored dark suit, sits behind the desk, engrossed in the open book. A warm, golden light filters through the windows, illuminating this character's poised, wise features and casting a gentle halo of light that highlights their dignified posture. The light contrasts with the deep, rich shadows in the corners of the room, emphasizing the timeless tranquility and intellectual ambiance of the scene.
+
+In the background, you can see a finely crafted wooden ladder leaning against one of the bookshelves, symbolizing the ascent of knowledge and achievement. On one side of the room, a glass-fronted cabinet displays various prestigious awards, certificates, and an antique globe, underscoring a life dedicated to learning and academic excellence. At the edge of the desk, a second figure, slightly younger, stands attentively holding a notepad and pen, leaning in to glean advice from the seated elder, signifying mentorship and the transfer of wisdom.
+
+The overall style of the painting reflects the detailed, realistic technique reminiscent of the Dutch Golden Age, with meticulous attention to textures and light, evoking an atmosphere of deep respect and admiration for education, achievement, and scholarly success.
+Seed: 3056496805
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Success, Esteem, Advice

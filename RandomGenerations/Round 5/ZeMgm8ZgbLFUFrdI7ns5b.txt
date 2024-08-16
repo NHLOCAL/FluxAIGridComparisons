@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic photograph capturing a meticulously curated modern living room corner that doubles as an aquascape display. The scene features a sleek, minimalist white bookshelf with geometric shapes, placed next to a floor-to-ceiling window. This window allows soft, natural sunlight to filter in, casting gentle shadows and creating an inviting, airy ambiance. 
+
+Centered on the lower shelf, a state-of-the-art cube-shaped aquarium with crystal-clear glass showcases an underwater world. The aquarium contains vibrant, meticulously arranged aquatic plants of varying heights and textures, creating a lush, green backdrop. Brightly colored fish glide gracefully among the intricate network of driftwood and rocks, their scales catching the light and adding dynamic movement to the scene.
+
+The background wall is painted in a subtle, elegant matte gray, enhancing the crisply lit scene and allowing the verdant greenery within the aquarium to stand out. A softly textured, light beige carpet covers the floor, adding warmth and comfort to the setting. Above the aquarium, a modern, black matte pendant lamp with a sleek design provides focused light, illuminating the scene with a soft glow that accentuates the texture and dimension of both the plants and the fish inside the tank.
+
+Every element in the photograph, from the exquisite arrangement of products on the bookshelf to the pristine condition of the aquarium and its inhabitants, is captured with sharp, high-definition detail, turning the everyday space into an artistic masterpiece suitable for a gallery display.
+Seed: 2958395333
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Product, Aquarium

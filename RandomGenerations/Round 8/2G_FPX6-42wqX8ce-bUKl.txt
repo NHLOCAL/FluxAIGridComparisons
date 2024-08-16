@@ -1,0 +1,4 @@
+Prompt: Create an illustration of two hands reaching out towards each other, hovering in a starry night sky filled with shimmering stars and distant galaxies. The hands, one illuminated with a warm golden glow and the other with a cool blue light, symbolize partnership and connection. The background is filled with a rich, deep navy blue that transitions into vibrant purples and blacks, enhancing the sense of depth and space. Tiny sparkles and soft light trails surround the hands, creating a magical and ethereal atmosphere. The overall composition should be visually striking, combining elements of fantasy and cosmic wonder, with a focus on the intricate details of the hands against the expansive celestial backdrop. Deep focus, high-resolution, beautifully lit.
+Seed: 538339375
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Partnership, Stars

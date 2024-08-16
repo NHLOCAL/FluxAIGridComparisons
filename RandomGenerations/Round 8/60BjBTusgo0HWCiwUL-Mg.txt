@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic illustration of a grand, ancient monument intricately carved from stone, set amidst a lush forest. The monument should feature towering pillars adorned with detailed engravings of nature and mythical creatures, rising majestically above vibrant foliage. In the foreground, a large, beautifully detailed leaf with intricate vein patterns lies gently on the ground, its surface glistening with morning dew. The lighting is soft and dappled, filtering through the trees, casting gentle shadows and creating a serene, almost magical atmosphere. The colors are rich and earthy, ranging from deep greens to warm browns, inviting viewers into a tranquil and captivating natural setting. Cinematic quality, highly detailed, nature-inspired illustration.
+Seed: 3695907752
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monument, Leaf

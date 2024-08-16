@@ -1,0 +1,4 @@
+Prompt: A serene scene depicting a majestic ancient monastery perched on a cliffside, surrounded by lush green mountains under a clear blue sky. The monastery's architecture features intricate stone carvings and tall spires, with soft sunlight illuminating its facade. In the foreground, two monks dressed in traditional robes, deep in conversation, walk along a peaceful stone pathway lined with blooming wildflowers. A gentle breeze causes the trees to sway, and the distant sound of a trickling stream can be heard. The atmosphere is tranquil and inviting, emphasizing the concept of companionship through the shared moment between the monks. The art style should be realistic, capturing the intricate architectural details and the natural beauty of the landscape, with warm, inviting lighting.
+Seed: 4141074735
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monastery, Companionship

@@ -1,0 +1,4 @@
+Prompt: A grand, cinematic illustration featuring a colossal Leviathan emerging from the depths of a stormy ocean. The creature's massive, textured body is adorned with ancient runes and glowing bioluminescent patterns, showcasing its immense size and power. Dark, turbulent waves crash around it, sending sprays of water high into the air as lightning illuminates the scene, revealing fleeting details of the Leviathan's enormous fins and menacing eyes. The background is filled with ominous storm clouds, creating a dramatic interplay of light and shadow. The overall composition captures a sense of awe and terror, embodying the ancient mythos of this legendary creature in a hyper-detailed, vibrant, and atmospheric style.
+Seed: 724479482
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leviathan, Chronicle

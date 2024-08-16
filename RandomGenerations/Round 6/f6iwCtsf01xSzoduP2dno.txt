@@ -1,0 +1,4 @@
+Prompt: An oil painting capturing a serene oasis nestled between a shimmering, turquoise ocean and an expansive, cloud-dotted azure sky. Lush, verdant palm trees and tropical plants encircle a crystal-clear pool of water, reflecting the vivid hues of the surroundings. The foreground showcases the intricate textures of golden sands, with gentle waves lapping softly at the shore. The sky, painted in a gradient of deep blues to light sky-blue as it meets the horizon, is adorned with soft, wispy clouds, adding depth and dimension. Delicate rays of a setting sun cast a warm, golden light over the scene, highlighting the rich colors and details. The background is an endless expanse of ocean meeting sky, creating a tranquil and awe-inspiring vista.
+Seed: 3813518956
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Oasis, Sky, Ocean

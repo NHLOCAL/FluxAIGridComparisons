@@ -1,0 +1,4 @@
+Prompt: In the majestic hall of an ancient cathedral situated at the edge of a timeless realm, grandiose arches reach endlessly toward an ethereal ceiling. Bathed in a soft, golden light emanating from intricately designed chandeliers suspended high above, each beam of light creates a shimmering pattern that dances across the marbled floors, weaving between colossal, ornate pillars carved with symbols of infinity. At the central nave, a sprawling mosaic projects images of interconnected pathways, representing an eternal journey. The scene is adorned with intricate patterns that reflect an unending cycle of creation and completion. The atmosphere is imbued with a sense of solemn purpose and unwavering commitment, captured in the meticulous alignment of every stone and detail, reflecting a dedication to both tradition and future generations.
+Seed: 1004707109
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Eternity, Project, Duty

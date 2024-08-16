@@ -1,0 +1,4 @@
+Prompt: A majestic, fiery phoenix rising from a bed of violet flames, its luminous feathers blazing with vibrant shades of orange, red, and yellow. The phoenix is in mid-flight, with its wings fully spread, showcasing intricate feather details that shimmer like molten lava. Below, the violet flames create a dynamic contrast, swirling upwards and illuminating the dark landscape beneath. The background features a twilight sky fading from deep indigo to a warm, golden horizon, dotted with distant stars. Soft, dramatic lighting highlights the contours of the phoenix and the flames, creating a mesmerizing glow that reflects off the surrounding clouds. The scene captures the moment of rebirth and transformation, combining elements of fire and twilight in a hyper-realistic, fantasy art style, emphasizing the beauty and power of this mythical creature.
+Seed: 2667848206
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Phoenix, Violet

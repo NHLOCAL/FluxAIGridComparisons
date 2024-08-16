@@ -1,0 +1,8 @@
+Prompt: In a dimly lit, opulent Victorian parlor, an elegant vampire stands at the center of the room, their sharp features accentuated by the soft, flickering light of an ornate chandelier hanging above. The scene is crafted in the style of a hyper-realistic oil painting, capturing every intricate detail with precision. The vampire is dressed in luxurious 19th-century attire, a deep crimson velvet coat with gold embroidery, contrasted by a pristine white silk shirt and black leather gloves. 
+
+Their eyes, a piercing icy blue, are fixed intently on a lavish banquet table set with an array of succulent, ripe fruits and crystal goblets filled with dark red wine, suggesting an indulgence in both opulence and lifeblood. The room's rich mahogany panels and intricately patterned wallpaper in deep, warm hues serve as a refined backdrop, creating an atmosphere of wealth and sophistication.
+
+Dim, ambient lighting casts dramatic shadows, highlighting the contours of the vampire's face and the luscious textures of the surroundings. Each object in the room, from the antique furniture to the delicate lace curtains partially drawn to reveal a moonlit night outside, is rendered with meticulous attention to detail. This masterful control over the environment evokes a sense of serene domination and timeless allure in the figure, establishing a scene worthy of a gallery.
+Seed: 894984421
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vampire, Delight, Control

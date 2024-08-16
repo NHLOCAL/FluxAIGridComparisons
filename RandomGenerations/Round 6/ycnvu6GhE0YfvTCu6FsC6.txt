@@ -1,0 +1,10 @@
+Prompt: A panoramic vista captures the stark contrast between the ethereal beauty of a towering glacier and the dark, foreboding expanse of a swamp. The glacier, a colossal mass of ice and snow, glistens under the crisp, clear light of a fading sun, casting long, sharp shadows over its chiseled surface. Its edges are jagged, with cracks and crevices hinting at the relentless power of nature. The ice appears almost blue in places, reflecting the purity and chill of its frozen form.
+
+In the foreground, a dense, murky swamp spreads out, its waters still and opaque, shrouded in a heavy mist that clings to the gnarled, twisted roots protruding from the blackened soil. Moss-covered trees with hanging tendrils stretch towards the glacier, their leafless branches forming a stark silhouette against the shimmering ice. The swamp is dimly lit by the diffused light filtering through the overcast sky, creating a somber, twilight effect that contrasts sharply with the glacier's brilliance.
+
+Between the glacier and the swamp lies a narrow strip of land where change is evident. Small streams of melting ice snake their way down from the glacier, mingling with the dark waters of the swamp, gradually transforming the landscape. Patches of rich, green moss cling to the scattered rocks, and tiny flowers peek through the thawing ground, suggesting the slow but inevitable shift from frozen stasis to vibrant life.
+
+The background features towering mountain peaks, their rocky faces partially covered in snow, rising majestically against a canvas of clear, dusky sky. The juxtaposition of the glacier's clean, cold purity with the swamp's dark, complex ecosystem, all under the serene yet evolving light, creates a scene of both stark division and seamless transition, capturing the essence of nature's relentless cycle of change.
+Seed: 2999961560
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glacier, Change, Swamp

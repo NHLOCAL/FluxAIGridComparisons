@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a vast, otherworldly landscape filled with floating islands at sunset. The foreground features a large, serene body of water reflecting the vibrant oranges, pinks, and purples of the sky. On one of the floating islands, a massive ancient tree with bioluminescent leaves extends its branches, illuminating the surroundings with an ethereal glow. In the background, distant islands soar into the clouds, their edges adorned with cascading waterfalls. The atmosphere is tranquil and magical, enhanced by the soft, warm light of the setting sun casting long shadows. The art style is a blend of fantasy and realism, with intricate detail on the tree's bark, the shimmering water, and the delicate clouds. The angle is slightly elevated, providing a panoramic view of the entire scene, inviting the viewer into this enchanting world.
+Seed: 2411551205
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Result, Possibility

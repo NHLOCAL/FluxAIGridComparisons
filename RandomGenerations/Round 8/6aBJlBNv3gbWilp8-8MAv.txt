@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a massive, intricate crystal formation that emanates a sense of stability and strength. The crystal should be sharply defined, with facets reflecting light in a brilliant array of colors, ranging from deep blues to vibrant purples and shimmering whites. The background features a serene landscape, with gently rolling hills under a clear sky, accentuating the tranquility of the scene. Soft, ambient light bathes the crystal, highlighting its surface textures, with subtle rays of sunlight filtering through, creating delicate shadows around it. The angle should be slightly elevated, providing a dynamic perspective that showcases both the crystal and its grounding nature within the landscape. Rendered in a photorealistic style with ultra-high detail, the image should convey a sense of harmony between the crystal and its environment.
+Seed: 1894465073
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Crystal, Stability

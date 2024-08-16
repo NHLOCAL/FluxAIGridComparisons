@@ -1,0 +1,10 @@
+Prompt: A grand oil painting captures a splendid ballroom illuminated by the golden glow of crystal chandeliers hanging from an ornately decorated ceiling. The room is opulent with exquisite details; golden filigree frames the tall windows, through which a dusky, star-lit sky is visible, adding a deep blue contrast to the warm interior. The polished marble floor reflects the light like a mirror, creating an ethereal ambiance.
+
+In the foreground, a distinguished couple in the midst of a dance is the focal point. The man, with meticulously groomed hair, is dressed in a crisply tailored black tuxedo with a white bow tie and polished black shoes. His posture is upright and confident, exuding an aura of grace and sophistication. The woman, his dancing partner and presumably his wife, is dressed in a magnificent floor-length crimson gown adorned with intricate beadwork that captures and reflects the chandelier’s glow. Her hair is elegantly styled in cascading waves, and she wears a delicate tiara that suggests nobility. Her graceful hand rests gently in his, and her eyes are fixed on his face with a sense of unwavering trust and mutual respect.
+
+Around them, other couples in equally splendid attire subtly fade into the background, their figures slightly blurred to emphasize the central characters. The backdrop features towering, gilded mirrors interspersed with lush, green potted plants that add a touch of natural beauty to the otherwise regal interior. Fine architectural details, like marble columns and richly patterned rugs, complete the setting, grounding the scene in timeless elegance.
+
+The overall style of the painting echoes the grand masters, with meticulous attention to realism and an undercurrent of romanticism, capturing the essence and character of the couple's marriage and the scene’s opulence.
+Seed: 1705108651
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Splendid, Character, Marriage

@@ -1,0 +1,8 @@
+Prompt: A high-resolution, gallery-quality photograph of an urban construction site set against the backdrop of a modern city skyline during the golden hour. The scene is meticulously framed: the foreground features a coalition of construction workers, clad in high-visibility vests and hard hats, collaborating around a partially erected steel framework of a high-rise building. The machinery around them, including cranes and excavators, is caught in dynamic motion. To the side, a large blueprint spread out atop a make-shift table indicates meticulous planning.
+
+Natural lighting softly bathes the entire scene in a warm, amber hue, creating long shadows that stretch over the rugged terrain covered with dirt, tools, and building materials. The background showcases the city’s contemporary architecture with towering glass buildings reflecting the rich colors of the setting sun. Flecks of light glint off the metallic structures, while the deepening blue of the sky above transitions smoothly into the warm tones below. Patches of green from distant trees are visible, contrasting subtly with the urban environment.
+
+The style is hyper-realistic, capturing intricate details with precise clarity—the texture of the workers' worn gloves, the fine grain of the concrete, and the sleek surfaces of modern skyscrapers. The composition maintains a balance between the pragmatism of construction in the foreground and the aspiration embodied by the city's skyline, encapsulating a moment where human effort and urban dreams converge.
+Seed: 1404496674
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Coalition, Construction

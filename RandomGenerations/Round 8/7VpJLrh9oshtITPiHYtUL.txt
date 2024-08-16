@@ -1,0 +1,4 @@
+Prompt: Create a serene landscape scene depicting a gently blowing breeze sweeping through a lush, vibrant meadow filled with colorful wildflowers in full bloom. The meadow is surrounded by rolling green hills under a clear blue sky, adding to the tranquility of the setting. A group of delicate butterflies flit gracefully among the flowers, their wings showcasing intricate patterns in a variety of colors. Soft sunlight bathes the scene in warm golden light, casting gentle shadows and highlighting the vivid colors of the flora. The angle of the image should be from a low perspective, capturing the flowers swaying in the breeze, enhancing the sense of movement and harmony in nature. The overall composition should evoke a feeling of peacefulness and connection to the natural world, with rich detail and high-resolution quality.
+Seed: 2411807813
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Breeze, Recognition

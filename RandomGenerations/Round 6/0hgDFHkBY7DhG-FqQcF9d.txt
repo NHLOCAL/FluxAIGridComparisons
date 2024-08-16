@@ -1,0 +1,14 @@
+Prompt: In an industrial-chic style gallery, a scene is artfully composed depicting a rustic bakery. The gallery’s adaptive lighting casts a warm, golden hue throughout, enhancing the ambiance with an inviting glow. On a wooden countertop, positioned centrally, various pastries are artfully arranged: crusty baguettes, golden croissants, and vibrant fruit tarts. Each pastry has a deeply textured crust, reflecting the meticulous craftsmanship.
+
+Behind the counter, wooden shelves line the wall, stacked with loaves of bread, some with flour dusting. The shelves have an aged, reclaimed look, with subtle imperfections that add character. The scent of freshly baked bread seems almost palpable.
+
+The bakery walls are painted in soft pastel colors, blending seamlessly with the ambient light to create a harmonious backdrop. A large window to the left allows natural light to filter through, casting dappled shadows that interplay with the interior lighting. The light creates a dynamic range of highlights and shadows, illuminating the baked goods to showcase their rich colors and textures.
+
+This combination of natural and artificial lighting draws attention to the details of the pastries, accentuating the golden browns and the occasional vibrant reds and blues of fruits. The scene as a whole conveys the abundance and nurturing nature of a bakery, juxtaposed with the methodical yield of perfectly baked goods.
+
+In terms of human presence, behind the counter, a baker’s hands are captured in mid-motion, gently arranging pastries with precision. The baker's sleeves are rolled up, revealing strong, skilled forearms dusted lightly with flour. This snapshot of human interaction provides a dynamic element against the static background.
+
+The floor is made of polished concrete, adding to the industrial feel and reflecting the hues of the warm lighting, creating a seamless blend of warmth and modernity. Each element in the scene — the lighting, the backdrop, and the objects displayed — is designed to draw the observer’s eye methodically from one detail to another, ensuring a visually balanced and engaging composition.
+Seed: 2675026371
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bakery, Color, Yield

@@ -1,0 +1,4 @@
+Prompt: A moonlit beach stretches infinitely, each grain of sand meticulously defined, sparkling under the silver luminescence. The rolling waves, appearing like liquid glass, glide gracefully towards the shore, leaving behind delicate foam patterns that resemble ancient calligraphy. In the distance, towering cliffs catch the moonlight, their rugged silhouettes casting elongated shadows over the pristine beach. Above, the sky is a canvas of deep indigo, dotted with myriad stars that twinkle with a crystalline clarity. A steady gale, cool and invigorating, sweeps across the landscape, causing the long, feathery grass atop the cliffs to sway rhythmically. The entire scene is devoid of human presence, focusing entirely on the interplay of natural elements – the ever-present waves, the swift gale, and the steadfast cliffs.
+Seed: 1795933628
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Topic, Wave, Gale

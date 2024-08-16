@@ -1,0 +1,8 @@
+Prompt: A large, pristinely detailed oil painting: In the center of the composition stands a nude woman, illuminated by a gentle yet radiant sunlight pouring in from a high arched window behind her. Her skin glows with a warm, golden hue, accentuated by soft, meticulous brush strokes that capture the delicacy of her form. Her pose is poised yet relaxed, with a slight turn of the head as if discovering something significant, eyes softly widened. The light falls across her body, revealing every curve and contour, casting subtle, soft shadows that accentuate depth. 
+
+The background is a grand, almost cathedral-like room with tall, ornate columns and aged, marble floors, partially bathed in the soft interplay of light and shadow. In the distance, through the window, a serene landscape of rolling hills and a distant horizon line can be seen, bathed in the warm glow of a late afternoon sun. The overall style of the painting echoes the grandiosity of the Renaissance, with a modern touch in the vividness of colors and fine details.
+
+The lighting in the painting is natural, with rays of sunlight that create a dramatic play of light and shadow, defining the scene and characters with a sense of divine revelation. The atmosphere is serene and contemplative, while the intricate detailing and masterful use of light give the artwork a sense of realism and depth, evoking a timeless, almost sacred moment captured on canvas.
+Seed: 2681258890
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nudity, Sun, Revelation

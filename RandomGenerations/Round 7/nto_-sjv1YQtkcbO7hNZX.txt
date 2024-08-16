@@ -1,0 +1,8 @@
+Prompt: A vivid illustration of a grand gymnasium filled with vibrant banners representing different factions in a fictional Alliance. The gymnasium features polished wooden floors that reflect a warm, golden light from numerous overhead chandeliers, creating a welcoming atmosphere. In the background, large windows let in streams of natural light, illuminating the space and casting dynamic shadows across the floor. 
+
+Central to the scene is a massive basketball court with a large emblem of the Alliance at center court, adorned with intricate patterns that highlight its significance. Along the sidelines, athletes from various factions in colorful uniforms are engaged in intense practice drills, their movements sharp and focused. The gym is bustling with energy, with a few spectators sitting in the bleachers, capturing the excitement on their smartphones.
+
+The walls of the gymnasium are lined with trophies and achievements from past tournaments, each piece carefully displayed under warm spotlighting. At one end of the court, there is a stage set up for an upcoming event, draped with royal blue fabric and flanked by shining podiums, ready to honor champions. The overall style leans towards a modern and professional aesthetic, with sleek lines and vibrant colors accentuating the spirit of competition and unity represented by the Alliance.
+Seed: 899473165
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alliance, Gymnasium

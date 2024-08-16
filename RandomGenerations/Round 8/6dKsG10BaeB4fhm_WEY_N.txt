@@ -1,0 +1,4 @@
+Prompt: Create an image of a contemporary, sleek designer chair engulfed in flames. The chair should be modern, featuring clean lines and an ergonomic form, crafted from a mixture of smooth leather and polished metal elements. The flames should be vivid and dynamic, capturing various shades of orange, red, and yellow, curling around the chair in an intense yet graceful fashion. The background should be a minimalist setting, perhaps a chic, dark room with soft shadows, to accentuate the fiery display. The lighting should highlight the contrast between the cool design of the chair and the warm, vibrant flames, creating a striking visual contrast. The overall atmosphere should be bold and captivating, emphasizing the fusion of design and fire in an artistic manner.
+Seed: 772238161
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Design, Flame

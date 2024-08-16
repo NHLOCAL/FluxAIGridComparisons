@@ -1,0 +1,12 @@
+Prompt: A gallery-worthy photograph captures a serene, solitary chapel perched on a rocky hillside at twilight. The chapel is built from aged stone, with ivy creeping up its sides and a small, humble steeple that points skyward. The scene is framed by a vast, darkening sky transitioning from the last hues of sunset to the deep blues of impending night. 
+
+The primary light source is a solitary flame flickering from a lantern mounted by the chapel's rustic wooden door. This modest flame casts a soft, warm glow on the chapel entrance, illuminating the texture of the stone and the thick wooden beams. 
+
+In the background, a dense, ancient forest with tall, shadowy trees forms a natural frame on either side of the chapel, leading the eye into a slightly cloud-covered horizon where stars are just beginning to emerge. 
+
+The photograph employs a chiaroscuro lighting style, emphasizing the contrast between the lit chapel doorway and the encroaching darkness surrounding it. The style is reminiscent of a classic oil painting, where soft gradients of light and shadow play across the scene, creating depth and emphasizing the solitary flame as a beacon of sanctity and hope.
+
+In the distance, a worn footpath winds its way down the hillside, hinting at the passage of believers drawn to the chapel over generations. This subtle detail, combined with the weathered look of the chapel and its ethereal lighting, roots the scene in a timeless, almost mystical quality. This image captures a moment frozen in time, exuding an aura of reverence and continuity.
+Seed: 2288263757
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Belief, Flame

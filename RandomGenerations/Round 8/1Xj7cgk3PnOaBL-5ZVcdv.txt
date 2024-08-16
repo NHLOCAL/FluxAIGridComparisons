@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant exoplanet set in a distant galaxy. The landscape features rolling hills of colorful, bioluminescent vegetation pulsating with light. A massive, swirling storm of vivid teal and violet clouds looms in the sky, casting shadows over the surface. Two large moons, one orange and one blue, hover above, illuminating the scene with a surreal glow. In the foreground, a group of alien creatures with intricate patterns on their skin can be seen gathering around a sparkling, crystalline lake that reflects the colors of the sky. The overall atmosphere is rich in detail with a hyper-realistic style, showcasing the diverse and stunning features of the exoplanet. Dramatic lighting enhances the surreal complexity of the environment, showcasing a blend of vivid colors and textures throughout the scene.
+Seed: 571575149
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exoplanet, Quantity

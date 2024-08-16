@@ -1,0 +1,8 @@
+Prompt: A captivating cosmic scene that depicts a vibrant galaxy teeming with life. In the foreground, a lush, alien landscape made up of bioluminescent plants and towering crystalline structures stretches out. The flora exudes a rainbow of colors, glowing softly in shades of blue, purple, and green. Small, ethereal creatures flit amongst the foliage, their delicate wings sparkling like stars against the twilight.
+
+Above, a breathtaking galaxy swirls with vivid hues of pink, orange, and deep blue, filled with countless stars and clusters of gas clouds that create an ornate tapestry of cosmic wonder. The Milky Way is prominently visible, arcing gracefully across the sky, its bright core pulsing with energy. Shooting stars occasionally streak across the expanse, adding a sense of dynamic motion to the serene yet awe-inspiring environment.
+
+The lighting is soft and ambient, with the bioluminescent flora illuminating the scene and mirroring the colors of the galaxy above. Gentle shafts of light filter through the extraterrestrial vegetation, casting intricate shadows on the ground and creating a sense of depth and dimension. The overall style is a blend of surrealism and hyperrealism, capturing the intricate details of both the alien landscape and the majestic celestial bodies above, inviting the viewer to immerse themselves in this vibrant, life-filled galaxy.
+Seed: 1418226632
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Galaxy, Life

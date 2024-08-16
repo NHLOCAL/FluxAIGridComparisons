@@ -1,0 +1,4 @@
+Prompt: A captivating black-and-white photograph captures an elderly woman's hands delicately piecing together a quilt. The scene is set in a cozy, sunlit room that hints at years of returning and cherished memories. The lighting is gentle and natural, streaming through a nearby window, casting soft, defined shadows that highlight the intricate details of the fabric and the delicate wrinkles of her hands. The background is a blur of wooden furniture and vintage decor, adding a sense of timeless certainty to the scene. The quilt itself, partially draped over her lap, reveals a patchwork of various aged fabrics, each square telling a subtly different story that suggests a life well-lived. The photograph is steeped in rich textures and patterns, emphasizing the meticulous and deliberate nature of her craft.
+Seed: 3020775484
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Return, Certainty

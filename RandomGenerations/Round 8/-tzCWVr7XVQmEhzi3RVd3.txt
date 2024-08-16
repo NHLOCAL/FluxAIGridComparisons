@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic illustration of a massive, intricately wrapped gift box, symbolizing the concept of scale. The gift box is adorned with a shimmering silver ribbon that cascades down the sides, reflecting light in vibrant hues. The box itself is placed in a lush green landscape, surrounded by towering trees that dwarf its presence, emphasizing its enormous size. Various animals, such as squirrels and birds, interact curiously with the box, adding a sense of whimsy. The sky is painted with a gradient of warm sunset colors, creating a surreal contrast against the lush greenery. The overall atmosphere is vibrant and cheerful, inviting viewers to wonder about the contents of the giant gift. The artwork is highly detailed, showcasing the textures of the ribbon and the intricate patterns on the box's surface, resulting in a captivating visual experience.
+Seed: 1526991004
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scale, Gift

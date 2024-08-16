@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a steampunk-inspired cityscape at sunset. The city should be filled with intricately designed brass and copper buildings adorned with gears, pipes, and illuminated clock towers. Airships and hot air balloons float gracefully through the sky, against a backdrop of vibrant oranges and purples as the sun sets on the horizon. Below, cobblestone streets are bustling with elegantly dressed citizens in period clothing, wearing goggles and mechanical accessories. The scene should include steam rising from vents and streetlamps casting a warm glow over the surroundings, creating a nostalgic yet vibrant atmosphere. The overall perspective should be slightly elevated, providing a panoramic view of this bustling steampunk world.
+Seed: 3814097721
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yesterday, Steampunk

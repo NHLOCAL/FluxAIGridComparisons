@@ -1,0 +1,4 @@
+Prompt: Create an image of a majestic golden retriever sitting proudly with its head held high, surrounded by a lush green park. The dog should have a glossy coat and bright, expressive eyes, embodying loyalty and companionship. Behind it, a vibrant rainbow arcs across a clear blue sky, symbolizing joy and fulfillment. The background features blooming flowers and tall trees that sway gently in a soft breeze, adding to the serene atmosphere. The sunlight filters through the leaves, casting dappled shadows on the ground, creating a warm and inviting scene. The artwork should be in a realistic style, emphasizing detail in the dog's fur and the vivid colors of the environment.
+Seed: 4177804842
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Faithfulness, Reward

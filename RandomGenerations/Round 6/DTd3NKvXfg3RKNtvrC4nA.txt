@@ -1,0 +1,10 @@
+Prompt: In a subterranean cavern, transformed into a contemporary avant-garde gallery space, you find yourself within a dungeon-inspired setting woven with academic influences. The floor is an uneven mix of ancient, rugged stone tiles interspersed with polished concrete, creating a striking blend of old-world and modern elements. Walls are lined with heavy gray stone, carved with cryptic symbols and labyrinthine patterns reminiscent of medieval academia. 
+
+The lighting is a careful choreography of cold, stark LED spotlights that sharply illuminate specific features and artifacts, casting dramatic, elongated shadows that dance across the rugged stone walls. Integrated within the stone pillars are display shelves crafted from dark, rich mahogany, upon which lie archaic scrolls and dusty tomes, their pages filled with esoteric, hand-written script. A diffuse, ambient underglow emerges from hidden sources beneath the floor’s crevices, giving the space an ethereal, scholarly aura.
+
+Suspended from the ceiling by nearly invisible wire are abstract sculptures of twisted metal and glass, reflecting light in prismatic patterns. These sculptures project the illusion of modern chandeliers, evoking the blend of innovation and tradition seen within collegiate art forms. The air is subtly imbued with the scent of aged parchment and candle wax, as wall-mounted sconces flicker with synthetic, flame-shaped bulbs, further enhancing the blend of medieval dungeon and contemporary gallery aesthetics.
+
+Background sounds are a low murmur of distant scholarly debate and the occasional creak of ancient wooden doors, subtly immersing you in a realm where knowledge and history converge in a space that feels both timeless and avant-garde, a unique confluence of eras and disciplines encapsulated within the gallery’s four stony, storied walls.
+Seed: 370749674
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dungeon, Uniqueness, College

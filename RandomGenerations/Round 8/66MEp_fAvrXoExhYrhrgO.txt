@@ -1,0 +1,4 @@
+Prompt: Create an image of a majestic, towering tree with its trunk made of intricate golden coins, symbolizing wealth and growth. The tree's branches are lush and vibrant, adorned with sparkling emerald leaves that catch the light. In the background, depict a serene landscape of rolling hills and a bright blue sky, dotted with fluffy white clouds. The lighting should be warm and inviting, with sunbeams filtering through the leaves, creating a shimmering effect on the coins. The angle should be slightly low, emphasizing the height of the tree and the richness of its details, while maintaining a sense of tranquility. The overall artwork should convey themes of prosperity and harmony, with a whimsical, enchanting art style reminiscent of classic fairy tales.
+Seed: 1477901333
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awareness, Capital

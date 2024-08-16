@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vibrant wormhole swirling through the fabric of space. The wormhole should be depicted as a dynamic spiral of colors, transitioning from deep purple and blue in the center to fiery oranges and yellows at the edges. Surrounding the wormhole, include stars and celestial bodies being pulled towards its core, giving a sense of motion and depth. The background should be a dark cosmic expanse, speckled with distant galaxies and nebulae, enhancing the otherworldly ambiance. The lighting should create a luminous effect, with the wormhole emanating a soft glow that casts reflections on nearby stars. The overall artistic style should evoke a sense of wonder and vastness, highlighting the mysterious nature of space travel.
+Seed: 4127151110
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Path, Wormhole

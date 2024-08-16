@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic close-up image of a vibrant, luminescent insect, specifically a dragonfly, resting on a delicate leaf. The dragonfly's wings should have intricate patterns that shimmer with iridescent colors, reflecting hues of green, blue, and gold. Its large, complex eyes should exhibit stunning detail, capturing the surrounding environment. The background should be softly blurred, showcasing a lush, sun-drenched forest with dappled sunlight filtering through the leaves. The lighting should create a warm, inviting atmosphere, enhancing the vivid colors of the dragonfly and the leaf it rests on. The overall composition should convey a sense of tranquility and harmony within nature, focusing on the intricate beauty of this insect. Ultra-high definition, sharp focus, macro photography style.
+Seed: 1767901177
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Recognition, Insect

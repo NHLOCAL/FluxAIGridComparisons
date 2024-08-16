@@ -1,0 +1,8 @@
+Prompt: A vibrant, bustling college campus scene during a sunny afternoon. In the foreground, a diverse group of students sit at wooden picnic tables under blooming cherry blossom trees, their laptops open and textbooks scattered around. The sunlight filters through the delicate pink petals, creating a dappled lighting effect on the tables. 
+
+The background features a grand, ivy-covered brick building with large windows reflecting the blue sky, surrounded by well-manicured lawns and vibrant flower beds. Students can be seen walking in the distance, some holding hands, while others are engaged in animated conversations. The air is filled with the bright colors of spring, with students dressed in light clothing, enjoying the warmth of the day.
+
+The scene is illustrated in a crisp, realistic style, emphasizing the intricate details of the campus architecture and the textures of the cherry blossoms. The overall atmosphere is lively and inviting, enhanced by the vivid colors reflecting the joy of academic life and social interactions. The perspective captures a slightly elevated view, showcasing the harmony of nature and education in the college environment.
+Seed: 1079001498
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: College, Lovely

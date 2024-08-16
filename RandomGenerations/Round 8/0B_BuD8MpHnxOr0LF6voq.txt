@@ -1,0 +1,6 @@
+Prompt: Create a lush garden scene filled with vibrant, colorful flowers in full bloom, including roses, orchids, and tulips, surrounded by lush green foliage. A winding stone path meanders through the garden, leading to a secluded area bathed in soft, golden sunlight that filters through the canopy of leaves overhead. In the center, place an elegantly designed wrought-iron bench adorned with intricate patterns, inviting the viewer to sit and take in the surroundings.  
+
+The atmosphere should be rich with detail, showcasing delicate butterflies fluttering around and small birds perched on branches, adding life to the scene. The lighting should be warm and inviting, creating a sense of intimacy and allure. Position the angle slightly above the bench, offering a panoramic view of the garden, while the background should feature gently swaying willow trees, their branches cascading elegantly. Emphasize the intricate textures of the petals and leaves, combining natural beauty with a hint of enchanting charm, all rendered in a realistic painting style.
+Seed: 1204922529
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Garden, Seduction

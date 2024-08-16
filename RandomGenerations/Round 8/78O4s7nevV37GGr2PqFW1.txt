@@ -1,0 +1,4 @@
+Prompt: Create an illustration depicting a serene, sunlit meadow filled with vibrant wildflowers of various colors—pinks, yellows, and blues. In the foreground, a graceful deer stands calmly, its fur illuminated by soft, warm sunlight filtering through the trees. The background features a gentle slope covered in lush green grass, with a few trees providing dappled shade. A tranquil blue sky with wispy clouds completes the scene, enhancing the sense of peaceful coexistence in nature. The overall composition should emphasize warmth with rich colors and clear, natural lighting, evoking a feeling of harmony and connection with the environment.
+Seed: 3460989180
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Change, Fondness

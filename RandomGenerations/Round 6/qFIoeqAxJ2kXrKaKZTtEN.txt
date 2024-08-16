@@ -1,0 +1,4 @@
+Prompt: An oil painting depicting a lone, weathered hacker in a dimly lit, industrial loft. The room is filled with vintage computer equipment, with tangled wires and old monitors casting a faint, flickering blue glow. The hacker, illuminated by a single, overhead swing lamp, has their back turned and is hunched over a cobbled-together machine. Various tools and electronic components are strewn across a large, wooden workbench. In the background, large windows with cracked panes offer a glimpse of a dark city skyline bathed in the deep red hues of a setting sun, casting long shadows across the metallic surfaces within the room. The painting is rendered in a realistic style, capturing intricate details like the texture of the hacker's worn leather jacket and the rust on the loft’s exposed metal beams.
+Seed: 1494877585
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Artwork, Hack, Red

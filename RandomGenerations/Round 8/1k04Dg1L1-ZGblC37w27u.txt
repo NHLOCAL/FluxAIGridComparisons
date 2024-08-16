@@ -1,0 +1,4 @@
+Prompt: Create a serene illustration featuring a majestic, glowing tree with vibrant, emerald leaves. The tree is situated in a tranquil meadow under a clear blue sky filled with soft, fluffy clouds. Sunlight filters through the branches, creating dappled patterns on the ground. At the base of the tree, a wise old owl with intricate feather patterns perches thoughtfully, its eyes shining with wisdom. Surrounding the tree are delicate wildflowers in shades of purple, yellow, and white, adding a touch of color to the scene. The overall composition should convey a sense of peace and harmony, with crisp details and soft lighting, encapsulating a moment of natural beauty and grace. Style reminiscent of classical nature paintings, with a focus on vibrant colors and intricate details.
+Seed: 464267450
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Blessing, Dear

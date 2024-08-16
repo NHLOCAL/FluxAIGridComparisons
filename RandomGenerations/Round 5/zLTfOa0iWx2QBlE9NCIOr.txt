@@ -1,0 +1,10 @@
+Prompt: In the midst of a desolate, post-apocalyptic urban landscape, a solitary figure stands on a cracked, desolate street scattered with debris. The sky overhead is cloaked in an oppressive, stormy gray, tinged with a sickly, yellow haze, casting the entire scene in a grim, murky light. Broken, skeletal remnants of skyscrapers loom in the background, their jagged silhouettes piercing the horizon like forgotten sentinels.
+
+The ground is littered with the remnants of once bustling human life—shattered glass, rusted vehicles overturned, and tattered remnants of billboards flapping weakly in the wind. Weeds and the first signs of encroaching nature begin to claim the ruins, sprouting defiantly through cracks in the pavement.
+
+The lone figure, clad in torn and patched clothing, leans wearily against the rusted frame of a lamppost that stands crookedly, casting long, distorted shadows in the dim light. Their head is bowed, and a worn, threadbare cloak obscures their face, but their posture speaks of resignation and weariness. Clutched in their hand is a single, faded photograph, the image barely discernible, hinting at lost loved ones or a forgotten time of happiness.
+
+This is a high-resolution photograph, with an emphasis on hyper-realistic detail, capturing every nuance of texture—the rough, corroded metal, the cracked asphalt, the griminess embedded in every surface. The lighting is predominantly natural but heavily filtered by the polluted sky, lending a suffused, melancholic glow to the scene.
+Seed: 3744370638
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sadness, Apocalypse

@@ -1,0 +1,6 @@
+Prompt: A grand opera house interior, dimly lit by ornate chandeliers with flickering candles casting shadows across the richly decorated walls. The scene features a large, elegantly draped stage at the front, with heavy velvet curtains in deep crimson and gold. In the foreground, a nervous audience seated in plush, burgundy velvet chairs, whispers echoing softly through the air. The lighting creates stark contrasts, with bright spots illuminating the stage while the audience remains in relative darkness, their anxious silhouettes barely discernible. 
+
+A sinister figure cloaked in black stands at the edge of the stage, their face obscured by shadows. The background features towering columns adorned with intricate carvings and a painted ceiling resembling a stormy night sky, the dark hues of blue and gray swirling ominously. Hangings of black and gold fabric flutter gently as if stirred by a chilling breeze. Above, the chandelier casts eerie reflections, amplifying the oppressive atmosphere. The entire scene is rendered in a dramatic, high-contrast style reminiscent of a classic theatrical poster, emphasizing the tension and overwhelming presence of the cloaked figure, creating a palpable sense of fear within the opulent setting.
+Seed: 1097038693
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opera, Fear

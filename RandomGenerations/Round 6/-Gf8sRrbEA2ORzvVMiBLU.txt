@@ -1,0 +1,8 @@
+Prompt: A large, intricately detailed oil painting showcases a windswept coastal landscape just before twilight. In the foreground, jagged rocks form natural tidal pools that reflect the fading light of the setting sun. The ocean waves, captured in mid-motion, are painted with a blend of deep blues and emerald greens, their crests tipped with frothy white. A solitary fisherman stands on one of the larger rocks, his posture erect and determined as he casts his line into the churning waters. The fisherman’s weathered attire and the tension in his stance indicate the challenge he faces against the might of the sea.
+
+The background features a steep cliff, dotted with purple heather and hardy grass that cling tenaciously to the rocky surface. Seagulls glide effortlessly overhead, their white feathers catching the last glimmers of sunlight, adding a dynamic touch to the serene sky painted in soft gradients of orange, pink, and purple. The distant horizon blends seamlessly with the sky, creating a harmonious transition from the vibrant ocean to the ethereal atmosphere.
+
+The lighting is a masterful mix of natural twilight, casting long shadows and a warm, golden hue over the scene, enhancing the textures of the rocks and the sea. The overall style is realistic yet subtly romanticized, with meticulous attention to detail and a rich color palette that captures the winsome beauty of nature's rugged charm. The balance of powerful natural elements and the solitary figure creates a compelling, narrative-driven composition that invites the viewer to appreciate the harmony between mankind and the untamed world.
+Seed: 4063642598
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Winsome, Challenge, Harmony

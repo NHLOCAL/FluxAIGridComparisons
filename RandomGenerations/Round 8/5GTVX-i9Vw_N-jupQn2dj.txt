@@ -1,0 +1,4 @@
+Prompt: A stunning illustration of a glowing wormhole seamlessly merging into a colossal, intricate bridge that spans across the cosmos. The wormhole, swirling with vibrant colors such as electric blues, deep purples, and shimmering golds, emits bright beams of light that stretch outward, illuminating the surrounding star-filled void. The bridge, constructed from a futuristic metallic material, showcases detailed patterns and engravings, creating a sense of advanced technology. It arches gracefully, as if inviting travelers from different dimensions to cross. The background is a breathtaking starry sky, with distant galaxies and celestial bodies adding depth to the scene. The overall atmosphere is one of wonder and adventure, combining science fiction elements with a dreamlike quality, cinematic lighting emphasizing the otherworldly feel.
+Seed: 2745166459
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wormhole, Bridge

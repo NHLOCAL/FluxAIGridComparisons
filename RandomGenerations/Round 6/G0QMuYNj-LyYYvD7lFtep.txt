@@ -1,0 +1,8 @@
+Prompt: A sprawling, dystopian cityscape stretches out beneath an iron-gray sky, dominated by towering, jagged skyscrapers bristling with antennas and satellite dishes. The scene is illuminated by the dim, cold glow of neon lights and massive, flickering billboards that cast an eerie, neon blue and green tint across the soot-streaked buildings and rain-slicked streets. The air is thick with mist and industrial smoke, interspersed with the hum and occasional spark of electrical wiring and machinery. 
+
+In the foreground, a group of individuals clad in rugged, oil-stained leather armor stand at attention in a disciplined formation. Each wears intricately designed cybernetic enhancements, from gleaming, piston-driven limbs to optical implants that pulsate with a faint, internal light. They exude a palpable sense of purpose and precision through their polished, metallic prosthetics, backlit periodically by flashes from large, diesel-powered engines that chug rhythmically in the background.
+
+The backdrop is dominated by looming factories with towering smokestacks belching plumes of dark smoke into the overcast sky. Metallic, riveted structures and heavy-duty gears move in a mechanical symphony beneath the controlled chaos of steel bridges and railways. This world is a blend of cold, utilitarian design and sophisticated technology, a testament to human ingenuity harnessed by rigid codes of duty and mechanical augmentation. The entire scene reflects an austere grandeur, with each element meticulously maintained and every surface bearing the wear of relentless pursuit of progress and efficiency.
+Seed: 3896255085
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honor, Cybernetics, Dieselpunk

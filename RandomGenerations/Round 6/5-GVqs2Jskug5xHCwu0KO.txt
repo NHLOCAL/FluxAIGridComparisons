@@ -1,0 +1,8 @@
+Prompt: Create an oil painting that showcases a bustling urban rooftop setting during a contemporary garden party at dusk. The rooftop is enveloped by the warm, golden hues of the setting sun, casting long, soft shadows and giving everything a serene and sophisticated ambiance. The sky is painted with a gradient of oranges, pinks, and purples, transitioning into a deep blue as night approaches.
+
+Attendees, dressed in elegant, trendy outfits inspired by the latest fashion, mingle around modern outdoor furniture and large, potted plants that add a lush, verdant feel to the rooftop. Some small groups are seated on sleek, minimalist couches, engaged in animated conversation, while others stand by a long, wooden bar where a mixologist is inventing colorful, exotic cocktails. The bar itself is lit by subtle, string lights that twinkle as the light dims.
+
+In the background, the city skyline stretches out, with modern skyscrapers and historical buildings blending together, signifying a fusion of new and old. A nearby table holds a prototype of a futuristic gadget, attracting the attention of several tech enthusiasts who discuss its innovative design. The overall style is hyper-realistic, capturing every intricate detail from the texture of the rooftop tiles to the reflections in the glassware, with a slight hint of impressionism in the depiction of the fading light and the bustling interactions, creating a sense of movement and life.
+Seed: 2734187133
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Meeting, Trend, Invention

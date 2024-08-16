@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic illustration of a dimly lit room filled with crumpled papers and broken picture frames scattered around. A single chair sits in the center of the room, empty and forlorn, with a dark cloth draped over it. Shadows are cast on the wall from a flickering, cold blue light source in the corner, creating an atmosphere of despair and isolation. The walls are painted in muted grays and blues, enhancing the feeling of sadness. A solitary tear is visibly rolling down a cracked mirror against the wall, reflecting the room's emptiness. The overall composition captures a sense of loneliness and the remnants of a story left untold.
+Seed: 3699493845
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lie, Sadness

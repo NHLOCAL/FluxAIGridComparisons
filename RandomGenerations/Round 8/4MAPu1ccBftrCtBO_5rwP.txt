@@ -1,0 +1,4 @@
+Prompt: Create an image of a large, empty stadium shrouded in thick fog. The stadium's seating is composed of vibrant colors, but the fog obscures much of the detail, creating a mysterious atmosphere. The field is softly illuminated by scattered floodlights, casting long, muted shadows across the grass. A few faint outlines of stadium structures can be seen in the background, partially swallowed by the dense mist. The overall color palette includes cool blues and grays, evoking a sense of eeriness and anticipation. The angle of the shot is a wide perspective, offering a sense of scale to the daunting presence of the fog and the stadium combined. The style is hyper-realistic, capturing the intricate details of the stadium's architecture while blending it with the ethereal effect of the fog.
+Seed: 2820971249
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fog, Stadium

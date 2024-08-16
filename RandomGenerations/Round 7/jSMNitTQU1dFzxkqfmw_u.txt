@@ -1,0 +1,6 @@
+Prompt: A grand mausoleum set in an expansive, ancient graveyard, surrounded by crumbling tombstones and overgrown ivy. The structure itself is made of dark, weathered stone, intricately carved with ornate details depicting historical figures and swirling patterns. At the top, a large, domed roof is adorned with a dilapidated statue of a mythical creature, partially covered in moss. The lighting is dim and atmospheric, with soft beams of pale moonlight breaking through the thick, low-hanging fog, casting eerie shadows across the ground. 
+
+The scene possesses a muted color palette dominated by deep grays, shadowy blacks, and hints of emerald green from the surrounding foliage. Scattered throughout the graveyard are flickering lanterns, their light illuminating patches of the path and highlighting the textures of the stones and moss, creating a sense of depth and age. In the background, ancient oak trees loom, their gnarled branches stretching skyward as if reaching for the forgotten memories of those buried beneath. A sense of timelessness pervades the scene, as though the mausoleum stands as a solemn guardian of history, whispering tales of the past to the wind. The overall atmosphere is one of reverence, capturing the enduring weight and mystery of time itself.
+Seed: 3628690417
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mausoleum, Age

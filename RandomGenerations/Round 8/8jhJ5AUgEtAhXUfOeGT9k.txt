@@ -1,0 +1,4 @@
+Prompt: A whimsical illustration of a duo named Path and Norm, depicted as playful, anthropomorphic animals. Path is a cheerful fox wearing a colorful scarf and carrying a small backpack, while Norm is a wise owl sporting reading glasses perched on its beak and holding a map. They are standing at the beginning of a vibrant, winding path that meanders through a fantastical forest filled with oversized mushrooms and glowing flowers. The sunlight filters through the lush canopy overhead, casting dappled light on the forest floor, which is covered in rich greenery. The art style is cartoonish with bright, saturated colors, creating an inviting and adventurous atmosphere. The angle captures both characters in profile as they look down the winding path, suggesting a journey awaits them. Illustration, vibrant, playful, conceptual art.
+Seed: 1029743891
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Path, Norm

@@ -1,0 +1,6 @@
+Prompt: Create a powerful image of an apocalyptic exhibition set in a vast, derelict warehouse. The space is filled with remnants of a once-thriving civilization, featuring destroyed art installations and broken sculptures scattered across the concrete floor. Piles of rubble and twisted metal are illuminated by haunting, flickering overhead lights that cast long shadows throughout the scene. The walls are plastered with faded, tattered posters showcasing lost works of art, while large broken windows reveal a barren, ash-colored landscape outside, touched by wisps of creeping fog. 
+
+In the foreground, a lifelike mannequin dressed in tattered clothing stands beside an oversized canvas, half-covered in cracks and peeling paint, depicting a world in chaos. The atmosphere is thick with dust particles sparkling in the sparse light, creating a ghostly and eerie vibe. The color palette is dominated by grays, muted browns, and dark blues, evoking a sense of despair and loss, while strategic use of dramatic lighting enhances the melancholic beauty of the apocalypse. The exhibition captures the haunting remnants of human creativity and culture, frozen in time amidst destruction.
+Seed: 2837668756
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Apocalypse, Exhibition

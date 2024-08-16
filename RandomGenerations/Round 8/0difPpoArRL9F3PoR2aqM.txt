@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene urban park during the early afternoon, with vibrant green trees and neatly arranged flower beds bursting with color. A well-maintained path winds through the park, lined with benches for relaxation. In the foreground, a family enjoys a picnic on a checkered blanket, with a basket of food and a frisbee nearby. The background features a small pond, with ducks swimming and a fountain gently spraying water into the air. Soft sunlight filters through the leaves, casting dappled shadows on the ground, creating a warm and inviting atmosphere. The overall composition should have a realistic style, emphasizing the beauty of nature juxtaposed with urban life.
+Seed: 3505696568
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Park, Adjustment

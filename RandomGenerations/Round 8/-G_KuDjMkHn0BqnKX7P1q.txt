@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a serene marina at sunset. The scene features several luxurious yachts and sailboats docked peacefully, their reflections shimmering on the calm waters. In the background, a vibrant sunset paints the sky in hues of orange, pink, and purple, blending seamlessly with the horizon. Silhouettes of palm trees line the marina, swaying gently in the breeze, while seagulls soar above. The foreground includes a wooden dock with a few colorful fishing boats, adding character to the scene. The lighting is warm and inviting, creating a tranquil atmosphere, emphasizing the beauty of the marina as the day transitions to night. The art style should be a blend of realism and impressionism, capturing the vibrant colors and gentle movement of the water.
+Seed: 2148145132
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stream, Marina

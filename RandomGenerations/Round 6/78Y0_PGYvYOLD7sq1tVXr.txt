@@ -1,0 +1,8 @@
+Prompt: In the center of a vast, desolate plain shrouded in a twilight haze, stands a solitary, colossal figure—an avatar of immense power. The figure is draped in flowing, ethereal robes that ripple despite the absolute stillness in the air. The sky above is a turbulent tapestry of swirling, dark clouds lit by erratic flashes of eerie, blue-white lightning, illuminating the scene in harsh, spectral bursts. The ground is a barren expanse, cracked and parched, stretching infinitely in all directions, offering no refuge or distraction to the eye.
+
+In the distance, a monstrous tornado tears through the horizon, its enormous funnel churning with debris, yet emitting no sound. It is an embodiment of silent destruction, spiraling violently but eerily devoid of the roaring fury one would anticipate. This oppressive silence blankets the entire landscape, enhancing the sense of impending chaos.
+
+Behind the avatar, faint silhouettes of ancient, crumbling structures jut out from the ground, remnants of a civilization long forgotten, now reduced to mere shadows against the backdrop of impending doom. The lighting is stark and unforgiving, casting deep, elongated shadows that stretch unnaturally across the plain. The scene is frozen in a moment of tense anticipation; every element is poised in a delicate balance between stillness and the potential for unleashed cataclysm. The silent interplay between the avatar and the distant, mute tornado creates a surreal, almost otherworldly atmosphere, charged with silent, unpredictable energy.
+Seed: 807282985
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silence, Tornado, Avatar

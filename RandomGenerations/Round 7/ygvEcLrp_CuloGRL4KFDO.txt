@@ -1,0 +1,8 @@
+Prompt: A desolate urban landscape at twilight, where shattered buildings loom against a gradient sky transitioning from deep indigo to a muted gray. In the foreground, a lonely figure stands atop a crumbling ledge, silhouetted against the fading light. Their posture is hunched, casting an elongated shadow that stretches toward the fractured pavement below. The lighting is dim, with cold blue hues dominating the scene, accentuating the bleak atmosphere. The remnants of graffiti on the walls depict lifeless figures, mirroring a sense of despair. 
+
+In contrast, a lush garden blooms vibrantly on one side of the scene, bursting with rich colors of orange, pink, and yellow flowers. Delicate strands of twinkling fairy lights dangle from the branches of the nearby trees, illuminating the garden with a warm, inviting glow. The brightness from the garden spills slightly onto the worn path, creating an enticing contrast to the surrounding decay. 
+
+The scene captures the complexities of existence, with the figure torn between the sorrow of the desolate city and the tantalizing allure of the thriving garden, inviting contemplation on the duality of pleasure and sadness in life. The artistic style combines elements of realism and surrealism, emphasizing sharp details, vibrant colors against muted tones, and an intricate play of light and shadow to enhance the overall visual impact.
+Seed: 1136759389
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sadness, Pleasure

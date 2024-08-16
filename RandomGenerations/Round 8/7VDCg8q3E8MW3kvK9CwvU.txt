@@ -1,0 +1,4 @@
+Prompt: Create a beautifully curated aesthetic scene inside a vibrant zoo. The foreground features a variety of habitats, each with unique animals, such as a majestic lion lounging under a tree, a playful group of monkeys swinging on ropes, and colorful tropical birds perched among lush greenery. The background showcases a stunning skyline of a city, blending nature with urban elements. Soft, warm sunlight filters through the foliage, casting dappled shadows on the ground, and enhancing the vivid colors of the animals and surroundings. The path is lined with blooming flowers and carefully placed benches, inviting visitors to explore. The overall atmosphere is serene and harmonious, capturing the essence of a lively yet tranquil zoo experience, rendered in a dreamy, soft-focus style to emphasize the aesthetic quality of the scene.
+Seed: 2537269503
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Zoo, Aesthetic

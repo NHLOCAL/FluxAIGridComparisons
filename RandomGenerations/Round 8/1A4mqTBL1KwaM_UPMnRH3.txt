@@ -1,0 +1,8 @@
+Prompt: Create a detailed portrait of a character named Violet. She is a young woman with striking violet hair that cascades in loose waves down her shoulders. Her eyes are a vivid shade of purple, sparkling with curiosity and intelligence. She wears a fitted, dark leather jacket adorned with various patches and symbols, hinting at her adventurous personality. 
+
+The background is a bustling urban street at twilight, with neon lights reflecting vibrant colors on the wet pavement after rain. Street vendors and colorful stalls can be seen in the distance, adding life to the scene. Soft, diffused lighting gives the image a cinematic ambiance, enhancing the richness of her features and the texture of her hair.
+
+The angle is slightly low, emphasizing Violet's confident stance as she crosses her arms and gazes off into the distance, embodying a spirit of determination and exploration. The artwork should combine the styles of urban realism and cinematic storytelling, with high detail, sharp focus, and a vibrant color palette, capturing the essence of Violet in a dynamic urban environment.
+Seed: 2063154634
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Character, Violet

@@ -1,0 +1,8 @@
+Prompt: A chilling scene unfolds in a dimly lit, abandoned library filled with dusty shelves and crumbling books. The atmosphere is thick with shadows, and the air is tinged with a faint mustiness that suggests years of neglect. Flickering candlelight casts ghostly shapes on the walls, illuminating the worn spines of ancient tomes whose titles have faded into obscurity. A large, gnarled tree branches through the shattered ceiling, its twisted limbs reaching toward the moonlight filtering through broken windows, casting elongated shadows across the cracked wooden floor. 
+
+In the center of the room stands a tall, eerie figure draped in tattered, translucent fabric that billows around it as if caught in a spectral wind. The figure is obscured, its features indistinct and vague, enhancing the unsettling vibe of the scene. Strange, bioluminescent mushrooms grow in clusters along the bases of the bookshelves, emitting a pale green glow that mingles with the waning candlelight, creating an otherworldly ambiance. 
+
+The background features an intricately detailed mural of swirling clouds and an ominous full moon that appears both beautiful and foreboding. Wisps of fog snake along the ground, creeping toward the figure as if drawn by an unseen force. The overall color palette is muted, with deep shadows and pale highlights, emphasizing the decay and disquieting essence of this once-vibrant space. The juxtaposition of the beautiful yet creepy elements intensifies the scene, leaving the viewer with a sense of foreboding isolation and spectral wonder.
+Seed: 3877626701
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creepy, Essence

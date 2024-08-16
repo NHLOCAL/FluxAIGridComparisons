@@ -1,0 +1,4 @@
+Prompt: A dazzling cyborg figure standing confidently in a futuristic cityscape. The cyborg is composed of sleek metallic components that reflect vibrant colors, with intricate circuits glowing in blues, greens, and purples. Its face features a blend of human-like features and robotic enhancements, including luminous eyes and a smooth, polished surface. The background showcases a vibrant urban environment filled with towering skyscrapers adorned with neon lights and holographic advertisements, creating a lively atmosphere. The lighting is bright and colorful, with dynamic light flares highlighting the cyborg's features. The perspective is slightly low angle, emphasizing the stature of the cyborg and the grandeur of the city. The overall composition radiates a sense of advanced technology, energy, and innovation, creating a captivating visual experience.
+Seed: 40703628
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cyborg, Dazzling

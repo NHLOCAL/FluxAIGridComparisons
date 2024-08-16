@@ -1,0 +1,4 @@
+Prompt: Create an image of a bustling marina at sunset, with a variety of boats docked along the wooden piers. The sky is a vibrant gradient of oranges, pinks, and purples, reflecting beautifully on the calm water. Small fishing boats, sleek yachts, and sailboats are moored, while a few seagulls glide overhead. In the foreground, include a couple of people enjoying a leisurely walk along the pier, their silhouettes highlighted against the colorful backdrop. The marina's architecture features charming coastal buildings with balconies overlooking the water, adorned with colorful flowers. The scene should have a warm, inviting atmosphere, with soft shadows and golden sunlight casting a gentle glow on the surroundings. Photorealistic style, highly detailed, 4K resolution.
+Seed: 2338352485
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Province, Marina

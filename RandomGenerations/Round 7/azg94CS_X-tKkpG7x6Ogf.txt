@@ -1,0 +1,4 @@
+Prompt: A vibrant, sprawling landscape features a lush green meadow, dotted with colorful wildflowers swaying gently in the breeze. The sky above is a brilliant blue, with a magnificent rainbow arcing gracefully across the horizon, its vivid colors reflecting off the dewdrops on the grass. The lighting is bright and cheerful, casting warm, golden rays from the sun, which creates a lively play of shadows and highlights across the terrain. In the distance, rolling hills fade into soft curves, painted in shades of green that complement the meadow. The artwork should be rendered in a hyper-realistic style, emphasizing the clarity and detail of each blade of grass and flower petal, creating a sense of depth and immersion within this picturesque scene. The background is dotted with fluffy white clouds, adding a lighthearted feel to the serene environment.
+Seed: 871940675
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rainbow, Grass

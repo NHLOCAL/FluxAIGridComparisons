@@ -1,0 +1,10 @@
+Prompt: Underneath a vast, midnight-blue sky dotted with clusters of shimmering stars, the scene unfolds in an otherworldly realm reminiscent of both dream and reality. The lighting is soft and ethereal, casting a silvery glow that bathes the surroundings in an almost magical luminescence. In the foreground, an ancient amphitheater emerges from the mist, its stone seats arranged in a semi-circle, their edges softened by the passage of time. The seats are adorned with vibrant, yet weathered, banners that hint at former grandeur, emblazoned with symbols of a powerful, yet now mythical, nation.
+
+Rising in the center of this grand stage is a towering structure, blending the architectural grandeur of a sprawling castle with the intricacies of an ornate stage set. Moss and ivy climb its walls, intertwining with the stonework, while torches flicker along the edges, casting long, dancing shadows that suggest a realm caught between past and present, reality and dream. Above, a majestic, spectral canopy drapes between the castle spires, woven from threads of light and shadow, making it appear both imposing and timeless.
+
+The background stretches into a dense, enchanted forest, where trees with silver leaves whisper in a silent breeze. The forest floor, a patchwork of fallen leaves and delicate wildflowers, extends to a tranquil lake reflecting the celestial canopy above. The placid water holds a mirrored image of the heavens, creating an illusion of infinite depth and space.
+
+In the midst of this dreamscape, a ghostly figure resembling Hamlet stands on the amphitheater’s stage, clad in flowing, archaic garments. His visage, illuminated by the soft, silvery light, evokes a depth and complexity that reflect the timeless nature of human struggle and contemplation. The figure holds a spectral skull, its hollow eyes gazing into the distance, as if searching for answers within the dreamlike expanse, bridging the echoes of a bygone nation with the mysteries of the eternal night.
+Seed: 2065305882
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dream, Nation, Hamlet

@@ -1,0 +1,4 @@
+Prompt: Create an illustration showcasing a beautifully arranged dessert platter featuring an array of colorful, intricately designed pastries and fruits. The centerpiece is a lavish, multi-tiered cake adorned with edible gold leaf and delicate sugar flowers in various hues like pink, lavender, and sky blue. Surrounding the cake, place an assortment of macarons, éclairs, and fresh berries, all meticulously detailed with glistening coatings. The background features a soft-focus, elegantly decorated banquet table with ambient fairy lights, creating a warm and inviting atmosphere. The lighting is soft and diffuse, enhancing the vibrant colors of the desserts while casting gentle shadows that add depth to the scene. The overall aesthetic is luxurious and enchanting, evoking a sense of indulgence and celebration.
+Seed: 670940026
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pleasure, Acknowledgment

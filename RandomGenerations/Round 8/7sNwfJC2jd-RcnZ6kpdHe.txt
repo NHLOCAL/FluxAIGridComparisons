@@ -1,0 +1,4 @@
+Prompt: Create an image of a mystical workshop set in an ethereal forest. The workshop is a cozy wooden cabin with large, ornate windows revealing a warm, inviting glow from within. Outside, wisps of glowing light—representing friendly spirits—float around the cabin, illuminating the trees with a soft, magical light. The surrounding foliage is lush and vibrant, with sparkling fairy lights hanging from branches above. Inside, shelves are filled with various enchanted tools, jars of shimmering ingredients, and ancient books open to pages filled with spell recipes. The overall atmosphere is enchanting and whimsical, with gentle beams of moonlight filtering through the trees, casting intricate shadows on the ground. The art style is reminiscent of a storybook illustration, with vivid colors and intricate detailing, creating a sense of wonder and magic.
+Seed: 4128961356
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spirit, Workshop

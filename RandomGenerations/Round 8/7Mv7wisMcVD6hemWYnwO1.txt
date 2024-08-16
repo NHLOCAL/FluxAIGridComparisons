@@ -1,0 +1,4 @@
+Prompt: A vibrant, futuristic cityscape bathed in bright daylight, showcasing advanced architecture with sleek lines and towering skyscrapers. The buildings are constructed from shimmering glass and eco-friendly materials, featuring lush vertical gardens climbing up their sides. Flying vehicles zip through the sky, leaving trails of glowing energy in their wake. The streets are bustling with people dressed in colorful, modern attire, and diverse cultures are represented. Solar panels and wind turbines adorn the rooftops, emphasizing sustainability. The background includes clear blue skies with fluffy white clouds, and a massive, bright sun casting warm light across the scene. The atmosphere radiates a sense of harmony, progress, and technological advancement, rendered in a hyper-realistic style with vivid colors and high detail, emphasizing the idealism of a utopian future.
+Seed: 489064023
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Energy, Utopia

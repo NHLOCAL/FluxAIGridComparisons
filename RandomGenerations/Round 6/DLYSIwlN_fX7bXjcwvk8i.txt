@@ -1,0 +1,10 @@
+Prompt: A vast industrial warehouse stretches out in front of you, its high ceilings lost in the shadows. The metallic structure of the building is a maze of steel beams and metal plates, all bathed in the cold, artificial light of overhead fluorescents. The main area, or region, of the warehouse is filled with rows of massive, empty shelves that rise like monolithic sentinels, their surfaces gleaming faintly under the harsh lights. 
+
+In the background, a single door stands ajar, leading to what seems to be an office space. A flickering neon sign above this door reads "Office" in worn-out letters, casting sporadic flashes of red and blue onto the concrete floor. A dimly lit tip of an old ladder protrudes from one of the shelves, barely catching the fluorescence above, creating elongated shadows across the floor.
+
+The walls of the warehouse have patches of rust and dirt, hinting at years of heavy use. Thick industrial pipes snake around the periphery, some dripping moisture that collects in small puddles on the gritty concrete floor. In one corner, a disused loading dock opens onto the dark void outside, the cold night air sending intermittent drafts into the warehouse, causing the hanging chains and hooks to sway gently.
+
+Massive windows on one side of the warehouse are smudged with grime, letting in only the faintest traces of the moonlight, which contrasts sharply with the sterile glow of the interior lights. This contrast creates an interplay of shadows and illumination, making the entire space feel both abandoned and watched, every corner hiding untold secrets.
+Seed: 2677537906
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Region, Tip, Warehouse

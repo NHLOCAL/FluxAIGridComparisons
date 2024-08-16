@@ -1,0 +1,4 @@
+Prompt: A dramatic scene depicting a stormy landscape with dark, swirling clouds illuminated by vivid flashes of lightning. The terrain is barren and rugged, with jagged rocks and sparse vegetation. The ground is wet from recent rain, creating puddles that reflect the bright lightning strikes. In the foreground, a solitary tree stands with twisted branches, its leaves blowing violently in the wind. The overall color palette is dominated by deep grays and blues, contrasting with the white and yellow hues of the lightning. The atmosphere is heavy and oppressive, amplified by the intensity of the storm and the darkening sky, creating a visual representation of loneliness and despair.
+Seed: 2652969722
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lightning, Sadness

@@ -1,0 +1,4 @@
+Prompt: A dimly lit room with soft, golden light casting long shadows from a single, vintage table lamp in the corner. The wallpaper, a muted blue with intricate floral patterns, has faded with time, as if carrying stories of days long gone. On a weathered wooden table in the center, an antique music box lies partially open, revealing a delicate silver ballerina suspended in mid-dance. Beside it, a small stack of handwritten letters tied with a frayed ribbon and a slightly tarnished locket rests. In the background, an old phonograph gently plays a comforting, nostalgic melody while dusty bookshelves laden with classic novels and family photo albums line the walls, giving the space a sense of timelessness and quiet reverence.
+Seed: 326946991
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Melancholy, Enjoyment, Gift

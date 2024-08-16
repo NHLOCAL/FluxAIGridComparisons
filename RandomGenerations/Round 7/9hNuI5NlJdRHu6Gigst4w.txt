@@ -1,0 +1,8 @@
+Prompt: An enchanting scene set inside a vibrant, futuristic marketplace illuminated by a myriad of colorful neon lights. Various stalls surround the space, each adorned with intricate patterns and shimmering displays of exotic fruits, shimmering textiles, and unique trinkets reflecting a sense of attraction. The atmosphere is lively with vendors animatedly showcasing their goods, drawing in a diverse crowd of patrons from across the galaxy. The lighting is dynamic, showcasing a blend of bright pink, electric blue, and vivid yellow hues that accentuate the busy bazaar's energy. 
+
+In the center of the marketplace, a mesmerizing fountain serves as a focal point, with crystal-clear water cascading down intricate stone carvings, glistening like diamonds under the neon glow. The background consists of towering, sleek buildings with reflective surfaces that mirror the illumination of the market, creating a sense of depth and bustling activity. 
+
+Above, a dark night sky dotted with stars creates a stunning contrast to the vibrant scene below. The entire environment captures a sense of wonder and attraction, drawing viewers into a world filled with vivid detail and a captivating atmosphere, presented in a hyper-realistic style showcasing intricate textures and luminous colors. The angle focuses on eye-level, inviting viewers to immerse themselves in the market's rich details and lively ambiance.
+Seed: 678760751
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Attraction, Present

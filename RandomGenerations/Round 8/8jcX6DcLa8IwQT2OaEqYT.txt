@@ -1,0 +1,4 @@
+Prompt: Create an image of a beautiful conservatory filled with a variety of vibrant, tropical plants. The structure is made of glass with intricate metal framing, allowing sunlight to filter through and cast a warm glow over the interior. Large palm trees tower over smaller ferns and flowering orchids, creating a lush and inviting atmosphere. In the center, a mosaic-tiled fountain bubbles gently, surrounded by colorful stone benches. Natural light streams through the glass, creating dappled patterns on the tiled floor. The background features a serene garden view, with hints of greenery and blooming flowers visible through the glass. The overall composition should have a bright, refreshing feel, emphasizing the beauty of nature within an architectural space, in a realistic art style with rich colors and sharp detail.
+Seed: 1579707093
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conservatory, Recommendation

@@ -1,0 +1,6 @@
+Prompt: A large oil painting depicts a tranquil scene of a small Italian village during the late afternoon. The village is nestled among rolling hills blanketed with vibrant green vineyards and olive trees. Cobblestone pathways wind between rustic, sun-worn buildings with terracotta rooftops and ivy creeping up their walls. In the foreground, an elderly man in a straw hat kneels to repair a stone wall, his detailed features captured with precise brushstrokes that reveal the texture of his weathered skin and humble attire. A classic Vespa scooter is parked beside a wooden wine cart next to him. 
+
+The background unveils a distant mountain range under a turquoise sky, touched with the golden hues of the setting sun. The light casts long, soft shadows and bathes the scene in a warm glow, emphasizing the texture of the earthly elements and the inhabitants' simple, enduring way of life. The style of the painting is hyperrealistic to almost photographic accuracy, capturing every meticulous detail from the tiny pebbles on the path to the delicate veins on the vine leaves. The support of the artwork is a grand canvas supported by a classic wooden frame, intricately carved with Mediterranean motifs.
+Seed: 3237324263
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sketch, Measure, Support
