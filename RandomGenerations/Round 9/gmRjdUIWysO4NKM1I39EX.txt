@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring a stunning, ethereal figure of feminine beauty, emerging from a mysterious, ancient tomb. The figure is adorned in flowing, intricate garments that shimmer with soft, luminescent colors, accentuating her graceful curves. Surround her with enchanted artifacts and treasures dimly lit by flickering torches, casting playful shadows. The tomb's stone walls are etched with elaborate carvings and vines, creating a sense of mystical history. The lighting should be warm and inviting, enhancing the figure's radiant presence. The angle should be slightly low, showcasing her as the central focal point within the enchanting sanctuary. Overall, the tone is one of allure and mystery, inviting the viewer to explore the depths of this atmospheric setting, blending beauty with the enchanting allure of the tomb. 
+Seed: 44497685
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fulfillment, Tomb

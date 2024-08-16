@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of a large, ornate mirror in a softly lit room. The subject, a young adult wearing casual clothing, gazes intently at their reflection. The mirror's frame is intricately designed with floral patterns, and the glass surface is slightly fogged to give a dream-like quality. The reflection reveals not just their physical appearance but also an ethereal representation of their inner self, depicted as a glowing figure with vibrant colors swirling around it. The background features warm, ambient lighting, with shadows softly embracing the edges of the room, adding to the contemplative atmosphere. The angle should capture both the subject and their reflection within the frame, focusing on the contrast between reality and the surreal inner self.
+Seed: 709822839
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honesty, Journey

@@ -1,0 +1,10 @@
+Prompt: Create an image that showcases the theme of feminine beauty and duality set on a picturesque beach. On one side, depict a traditional feminine figure with flowing hair, wearing a delicate, flowing sundress, basking in the warm sunlight. Her features are soft and serene, embodying grace and tranquility. 
+
+On the opposite side, illustrate a more fierce and strong feminine figure, with bold features, a confident posture, and sporting a striking, modern swimsuit. This figure should exude empowerment and strength, with elements such as tattoos or accessories that symbolize independence.
+
+The beach setting should be vibrant, with golden sands, swaying palm trees, and a bright blue sky, transitioning into a more turbulent sea on the fierce figure’s side, with waves crashing and dark clouds overhead. 
+
+The lighting should shift from soft and warm around the traditional figure to dramatic and intense on the empowered figure, highlighting the contrast between the two representations of femininity. The angle of the shot should allow the viewer to see both figures clearly, creating a harmonious balance between beauty and strength. The overall composition should emphasize the duality of feminine identity, rendered in a highly detailed, photorealistic style.
+Seed: 3983510809
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Norm, Beach

@@ -1,0 +1,4 @@
+Prompt: An ultra-realistic photograph of a split-faced human, with one half portraying a serene smile and the other half contorted in a grimace, set against a neutral gray background. The split is seamless, emphasizing the stark contrast between the two expressions. The lighting is soft and diffused, casting gentle shadows that add depth to the facial features. The subject is centered in the frame, with a close-up view that captures intricate details such as pores, skin texture, and the subtle play of light on the face. The overall composition invites viewers to reflect on the complexity of human emotion and the duality within. The background is muted to focus attention on the striking dichotomy of the expressions. High-resolution, photorealistic style.
+Seed: 4003547503
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Beach, Satyr

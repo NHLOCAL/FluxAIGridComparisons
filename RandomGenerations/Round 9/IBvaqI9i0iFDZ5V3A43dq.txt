@@ -1,0 +1,4 @@
+Prompt: Create a stunning landscape photograph that blends elements of science fiction and fantasy, showcasing a vast kingdom under a swirling cosmic sky. The kingdom should be depicted with towering, intricately designed castles made of glistening crystal and polished metal, reflecting the light from the vibrant nebulae above. In the foreground, ethereal creatures roam the lush, vibrant fields filled with glowing flora. A colossal, glowing moon hangs low on the horizon, casting an enchanting light on the entire scene. The overall color palette should feature deep purples, radiant blues, and sparkling golds, creating a magical and otherworldly atmosphere. The photograph should capture the majestic architecture of the kingdom along with the rich, dynamic textures of the landscape.
+Seed: 3286584343
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Date, Kingdom

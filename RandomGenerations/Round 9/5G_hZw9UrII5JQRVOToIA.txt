@@ -1,0 +1,4 @@
+Prompt: A captivating photograph featuring a split-faced portrait of a woman. One side displays her with a warm, inviting smile and bright, cheerful makeup, while the other side reveals a somber expression, accentuated by darker makeup and shadows. The lighting softly highlights the contrasting halves of her face, creating a dramatic effect. The background is blurred and monochromatic, directing focus to her expressive features. The photograph's overall composition employs subtle reflections and textures, emphasizing the theme of duplicity in her appearance, evoking curiosity and contemplation. Ultra-high resolution, artistic, highly detailed.
+Seed: 2357921447
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Magnitude, Duty

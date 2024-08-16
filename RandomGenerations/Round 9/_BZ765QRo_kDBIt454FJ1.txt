@@ -1,0 +1,4 @@
+Prompt: A beautifully composed photograph of a solitary wooden bench overlooking a tranquil lake at sunrise. The bench is weathered, with intricate wood grain patterns and small patches of moss, suggesting time and solitude. Soft golden light spills over the horizon, casting delicate reflections on the calm water. In the distance, mist rises off the lake, creating a dreamy atmosphere. The sky is painted in soft pastels of pink, orange, and lavender, complementing the stillness of the scene. Surrounding the lake are lush green trees, their colors vibrant in the morning light. The overall composition invites a sense of peaceful contemplation and connection with nature, emphasizing simplicity and beauty. Photorealistic, high resolution, serene ambiance.
+Seed: 2210563770
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Award, Ash

@@ -1,0 +1,6 @@
+Prompt: Create an image showcasing a captivating figure that embodies feminine beauty with a duality theme. The figure should be half illuminated by a warm, golden light that symbolizes a bountiful harvest, and the other half shrouded in cool, dark shadows representing skepticism. Her attire should reflect these contrasting aspects, featuring floral patterns on one side and more structured, angular designs on the other. 
+
+The background should depict a lush, green field with ripe crops on the illuminated side, transitioning to a barren, foggy landscape on the shadowed side. The lighting should create a dramatic contrast, emphasizing the dual nature of the scene. The angle should be slightly low, capturing both the grace of her pose and the stark difference in surrounding environments, enhancing the theme of duality and beauty in nature. Render in a hyper-realistic art style with intricate details, focusing on the textures of the clothing and the natural elements.
+Seed: 1063100817
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Harvest, Skepticism

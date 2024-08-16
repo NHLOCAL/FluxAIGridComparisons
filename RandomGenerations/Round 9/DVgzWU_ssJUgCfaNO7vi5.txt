@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a weathered park bench in a quiet, overgrown park. The man has a deeply lined face and silver hair, wearing a faded, plaid shirt and old brown trousers. He gazes thoughtfully at a small, withered flower in his hands, capturing a sense of longing and nostalgia. The soft, golden light of the late afternoon sun casts long shadows across the ground, with dappled sunlight filtering through the lush green leaves overhead. The background features blurred outlines of distant trees and a winding path, creating an intimate and serene atmosphere. A gentle breeze stirs the fallen leaves around him, adding to the sense of stillness and solitude in the moment. The overall composition highlights the intricate textures of the man's skin and clothing, emphasizing the passage of time in a poignant scene.
+Seed: 3107386361
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Friend, Presentation

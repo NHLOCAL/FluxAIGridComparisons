@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene forest glade bathed in warm, golden sunlight filtering through the dense canopy of leaves. In the center, depict a rustic wooden table elegantly set for a feast, adorned with an array of colorful fruits, artisanal cheeses, and a selection of fine wines, sparkling in the sun's glow. Surrounding the table, emphasize an inviting atmosphere with lush green ferns and whimsical wildflowers dotting the forest floor. The scene conveys a sense of indulgence and abundance, captured in a hyper-realistic style that highlights texture and detail. Soft lens flares from the sunlight create an ethereal ambiance, making the woodland feel alive and vibrant. The perspective should be at eye level, allowing the viewer to feel immersed in this tranquil woodland setting.
+Seed: 351344445
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Taste, Woodland

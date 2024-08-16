@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph capturing a reflective glass window in a bustling city. The window should show a split view: on one side, the vibrant, lively scene of city life with people walking, bright neon signs, and bustling traffic. On the other side, the reflection reveals a calm, serene park with lush greenery, tranquil water, and individuals peacefully reading or picnicking. The lighting should transition smoothly between the bright city lights and the soft, warm glow of the park, highlighting the contrast between the chaotic urban environment and the peaceful natural setting. The focus should be sharp on the window, creating an intricate detail that emphasizes the duality of the two worlds, blending them harmoniously yet distinctly. The overall composition should invite viewers to contemplate the balance between chaos and tranquility in urban life.
+Seed: 3643571120
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spirit, Truth

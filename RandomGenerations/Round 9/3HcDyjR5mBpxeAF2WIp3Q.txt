@@ -1,0 +1,4 @@
+Prompt: Capture an intricate, hyper-realistic photograph of a cracked mirror reflecting a serene landscape and a chaotic city scene simultaneously. The left side of the mirror showcases a tranquil sunset over a peaceful lake adorned with lush greenery, while the right side reveals a bustling cityscape with tall skyscrapers, heavy traffic, and bright neon lights. The split reflection symbolizes the contrast between tranquility and chaos, evoking a sense of duplicity. The lighting should be soft and warm on the serene side, transitioning to harsh, cold hues on the city side. The photograph should be composed with a focus on the mirror's surface, emphasizing the intricate cracks and the reflections, creating a thought-provoking visual experience.
+Seed: 1079181578
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Union, Boredom

@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a double-sided mask, with one half displaying a joyful, smiling face and the other half depicting a sorrowful, weeping expression. The mask should be intricately designed with fine details and vivid colors, contrasting the bright hues of joy with the muted tones of sadness. The background should be a dark, blurred environment, emphasizing the mask as the focal point. Soft, diffused lighting highlights the texture and features of the mask, creating a dramatic contrast between light and shadow. The overall composition should invite contemplation on the duality of human emotions, blending realism with an artistic interpretation of duplicity.
+Seed: 34674912
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pointer, Measure

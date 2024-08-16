@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary tree standing on a windswept hilltop during a dramatic sunset. The tree's gnarled branches stretch out against the vibrant sky, which displays a gradient of fiery oranges, deep reds, and soft purples. Wispy clouds are illuminated by the setting sun, casting warm light that highlights the textured bark of the tree and the rolling hills in the foreground. The grass on the hill sways gently in the breeze, and shadows dance across the landscape, adding depth to the scene. The overall composition invites contemplation and a sense of serenity, showcasing the beauty of nature's transitions. Sharp focus, high resolution, cinematic lighting, and attention to detail emphasize the magnificence of this tranquil moment.
+Seed: 3914186380
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Minotaur, Degree

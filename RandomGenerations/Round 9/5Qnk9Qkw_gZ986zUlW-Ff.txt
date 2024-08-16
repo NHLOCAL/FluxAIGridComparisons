@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary, weathered human skull resting on a moss-covered stone in a dense, ancient forest. The surrounding trees are tall and imposing, their branches twisting and intertwined, casting dappled shadows on the forest floor. Soft, diffused light filters through the canopy above, illuminating the skull and highlighting its intricate details, such as cracks and texture. Small wildflowers in vibrant colors bloom around the base of the skull, contrasting with the earthy tones of the stone and foliage. The atmosphere feels quiet and reflective, inviting contemplation and a sense of the passage of time. The background remains slightly blurred, drawing focus to the skull as the central subject, creating a captivating and thought-provoking image.
+Seed: 513707749
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Area, Partner

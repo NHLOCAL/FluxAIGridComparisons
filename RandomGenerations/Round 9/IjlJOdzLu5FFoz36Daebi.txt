@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a cozy lounge interior with elements of curiosity. The first layer should feature a warm and inviting lounge setting, complete with plush sofas, soft lighting, and decor such as bookshelves filled with intriguing books and artwork. The second layer should overlay an exploration theme, incorporating silhouettes of curious animals like owls or foxes peeking throughout the scene, coupled with abstract elements such as question marks or magnifying glasses. The color palette should have warm earth tones with soft focus, creating an inviting, yet mysterious atmosphere. The lighting should be soft and diffused to enhance the sense of comfort and intrigue. Ensure sharp contrast between the lounge and curiosity elements to create a seamless blend of the two concepts.
+Seed: 473791916
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lounge, Curiosity

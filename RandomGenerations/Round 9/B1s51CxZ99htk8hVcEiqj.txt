@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that blends a bustling cityscape with an astronomical observatory nestled on a hillside. The city skyline should be illuminated with vibrant lights at night, showcasing skyscrapers and bustling streets below. Overlay this with the observatory's dome, featuring its large telescope pointed towards the starry sky. The stars and galaxies should be vividly visible within the dome, creating a sense of exploration and discovery. The contrasting elements of urban life and cosmic wonder highlight the theme of results stemming from curiosity and knowledge. The overall lighting should be a mix of warm city lights and cool, luminous celestial bodies, creating a visually striking and harmonious composition. The style should lean towards realism, capturing intricate details in both the city and the observatory.
+Seed: 3250672546
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Result, Observatory

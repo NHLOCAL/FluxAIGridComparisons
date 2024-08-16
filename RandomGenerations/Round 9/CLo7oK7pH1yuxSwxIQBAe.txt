@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a weathered park bench, surrounded by falling autumn leaves. His face is deeply lined, capturing a lifetime of stories and experiences, with a hint of sadness in his eyes. In his hands, he gently cradles an old, faded photograph of a younger couple, radiating warmth and nostalgia. The background features a serene park setting, with soft, golden sunlight filtering through the trees, casting dappled shadows on the ground. The colors should be rich and warm, with the vibrant oranges and yellows of the leaves contrasting against the muted tones of the man's clothing. The scene should evoke a sense of reflection and longing, highlighting the passage of time and the beauty of memories. High resolution, stunning detail, dramatic lighting.
+Seed: 3275818901
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Region, Romance

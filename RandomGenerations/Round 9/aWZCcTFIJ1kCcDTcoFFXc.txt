@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a lone wilted flower with drooping petals, resting on a cracked, dry earth surface. The flower's faded colors contrast against the desolate background, emphasizing its fragility and struggle for life. Soft, diffused sunlight filters through a cloudy sky, casting gentle shadows and highlighting the delicate texture of the petals. The surrounding earth should appear parched and barren, with hints of gray and brown tones, creating a sense of abandonment. The depth of field should focus sharply on the flower while blurring the background, inviting the viewer's gaze to linger on its poignant beauty amidst decay.
+Seed: 3893696281
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elevator, Murmur

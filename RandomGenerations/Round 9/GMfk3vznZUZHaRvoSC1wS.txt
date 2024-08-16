@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a person gazing into a large, ornate antique mirror. The subject, a middle-aged individual dressed in casual attire, is positioned slightly to the side, with their reflection prominently visible in the glass. The mirror's frame is intricately carved, showcasing vintage floral patterns. The background features a softly lit room, adorned with warm, golden hues emanating from vintage lamps, casting gentle shadows. The person's expression is one of contemplation, reflecting a connection to their inner thoughts. The lighting is warm and inviting, enhancing the serene atmosphere, while the composition focuses on both the individual and their reflection. The scene should evoke a sense of introspection and self-discovery, rendered in ultra-high detail, capturing the nuances of light and shadow on the skin and reflective surface.
+Seed: 659523826
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Family, Bar

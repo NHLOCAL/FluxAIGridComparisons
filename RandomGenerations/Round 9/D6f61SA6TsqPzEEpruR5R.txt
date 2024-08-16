@@ -1,0 +1,4 @@
+Prompt: Create a surreal illustration depicting the concept of duality through a striking bronze statue split down the center. On one side, represent sorrow with a figure seated, head buried in its hands, intricately detailed with textured bronze, capturing the memory of tears and anguish. This side should be bathed in dim, cold lighting, casting elongated shadows that enhance the feeling of despair. The other side transforms into a vibrant figure, standing tall with arms outstretched, embodying hope and resilience through smooth, polished bronze that reflects warm sunlight. The background should transition from shadowy darkness behind the sorrowful figure to a radiant sunrise illuminating the hopeful side, creating a stark contrast. The overall scene should emphasize the juxtaposition of these two states, capturing both the beauty and heaviness of existence.
+Seed: 4225635040
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bronze, Sorrow

@@ -1,0 +1,6 @@
+Prompt: Create an image of a feminine figure embodying duality, positioned in the center of the composition. Half of her appearance should exude a sense of strength, with bold features, confident posture, and a vibrant light illuminating her face from the side. The other half should convey fragility, with softer features, a slight slouch, and gentle shadows casting across her form, creating a contrast. 
+
+The background should feature a gradient transition from warm golden hues on the strong side to cooler, muted colors on the fragile side. Incorporate a soft, ethereal glow around her, emphasizing the theme of illumination. The figure’s hair should flow gracefully, blending seamlessly with the background colors, while delicate floral elements emerge from the shadowed side, symbolizing beauty and resilience in weakness. The scene should be rendered in a realistic art style, focusing on detailed facial expressions and lush, organic elements that enhance the overall atmosphere.
+Seed: 1270067353
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Weakness, Illumination

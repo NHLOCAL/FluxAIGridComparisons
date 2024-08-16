@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary wooden bench in a desolate park during autumn. The ground is carpeted with vibrant orange and yellow leaves, gently falling to the earth. In the background, bare trees create a stark silhouette against a soft, gray sky. Light mist lingers low to the ground, and a distant street lamp casts a warm, golden glow on the bench, creating a point of focus. The scene has sharp details, with droplets of dew on the leaves and bench surface. The overall atmosphere is quiet and melancholic, inviting contemplation and reflection, suggestive of change and the passage of time.
+Seed: 1477249890
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shape, Contribution

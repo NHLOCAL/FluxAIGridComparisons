@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a single, withered flower standing resiliently in a cracked, dry landscape. The flower should have vibrant colors that contrast sharply with the desolate earth, showcasing its delicate petals and intricate details. The lighting is soft and golden, reminiscent of the last rays of sunset, casting gentle shadows and enhancing the textures of the cracked ground. In the background, a distant silhouette of a barren horizon creates an atmosphere of solitude and perseverance. Focus on the flower as the central point, capturing its beauty and determination against all odds. High detail, shallow depth of field, with an emphasis on the fragility and strength of life in a harsh environment.
+Seed: 3933072120
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fear, Nanotechnology

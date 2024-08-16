@@ -1,0 +1,4 @@
+Prompt: A somber, black-and-white photograph of an empty park bench under a large, gnarled tree during a rainy day. Raindrops cascade from the leaves, blurring the view, while puddles form on the ground, capturing distorted reflections of the tree. The bench, slightly rusted, is adorned with moss, symbolizing neglect and solitude. In the background, fog drifts over the horizon, shrouding distant trees and paths in mystery. The overall composition uses soft, diffused lighting and deep shadows to create a melancholic atmosphere, inviting contemplation about absence and the passage of time.
+Seed: 946153533
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Realm, Union

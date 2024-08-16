@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split-faced individual, showing one side with a serene, calm expression and the other side displaying a look of intense anguish. The subject should have striking features, large expressive eyes, and a smooth complexion. The serene side is bathed in soft, warm golden light, while the anguished side is shrouded in harsh shadows and cool blue tones, creating a stark contrast. The background should be softly blurred, allowing the subject to be the focal point of the image. Utilize a shallow depth of field to emphasize the duality, and include subtle details like a single tear on the anguished side, highlighting the theme of duplicity. The lighting should enhance the emotional tension, evoking feelings of conflict and complexity in the scene.
+Seed: 498306415
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spirituality, Yield

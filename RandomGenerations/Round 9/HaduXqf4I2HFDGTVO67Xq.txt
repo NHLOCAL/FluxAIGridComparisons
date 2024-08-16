@@ -1,0 +1,4 @@
+Prompt: A surreal, high-resolution photograph of a split landscape, where one side depicts a vibrant, sunlit meadow full of blooming flowers and butterflies, while the other side portrays a dark, stormy forest with twisted trees and shadows lurking. In the center, a lone figure stands at the division, half-draped in sunlight wearing bright, colorful clothing, and half shrouded in shadows wearing muted, dark clothing. The contrasting lighting creates a stark division, with the bright side exuding warmth and joy, while the dark side emanates a sense of foreboding and mystery. The overall composition emphasizes the theme of duality, blending elements of light and dark in a striking, visual narrative. Ultra-detailed, vibrant colors on the sunny side, muted tones on the dark side, cinematic lighting enhancing the sense of depth and contrast.
+Seed: 3262940326
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Delusion, Crush

@@ -1,0 +1,4 @@
+Prompt: Create a stunning photograph of a vibrant sunset over a serene lake, the sky awash with deep oranges, purples, and pinks. In the foreground, a solitary wooden rowboat floats gently on the mirrored surface of the water, reflecting the colors of the sky. Silhouettes of tall grasses border the lake, gently swaying in a light breeze. The distant mountains are shadowed against the colorful sky, creating a sense of depth and tranquility. The overall composition captures the peacefulness of nature, encouraging moments of reflection and calmness. The lighting is warm and inviting, enhancing the rich colors of the sunset and the natural elements in the frame. Hyper-realistic, high-resolution, and with an emphasis on detail and color saturation.
+Seed: 3086090106
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cemetery, Future

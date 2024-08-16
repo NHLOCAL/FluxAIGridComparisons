@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image of a rugged adventurer standing on a mountain peak. The adventurer is looking confidently into the distance, adorned in climbing gear and with a determined expression. Overlaying this figure, depict an intricate forest landscape filled with towering trees and hidden paths, symbolizing a quest for knowledge. In the background, softly blend in shadowy silhouettes of questioning figures or faint question marks to represent skepticism. The lighting should be dramatic, with soft light filtering through the trees, creating a sense of mystery and depth. The overall composition should seamlessly blend the natural elements with the adventurer, capturing the essence of exploration and contemplation in a striking, visually captivating manner. Ultra-high detail, cinematic quality, and vibrant colors.
+Seed: 2019156076
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quest, Skepticism

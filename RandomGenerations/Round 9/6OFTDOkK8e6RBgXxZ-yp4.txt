@@ -1,0 +1,4 @@
+Prompt: Please provide specific details or elements you would like included in the photograph, such as the subject, background, lighting, and any other specific characteristics or themes you have in mind. This will help create a detailed and vivid image generation prompt for you.
+Seed: 3649334376
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Structure, Exoplanet

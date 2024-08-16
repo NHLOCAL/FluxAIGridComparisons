@@ -1,0 +1,4 @@
+Prompt: Please provide details such as subject, setting, style, or specific elements you would like included in the image, so I can create an appropriate prompt for you.
+Seed: 872750669
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heart, Griffin

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of an ornate, antique mirror. The subject is a middle-aged man with contemplative features, his expression reflecting introspection as he gazes at his younger self, who is visible in the mirror. The younger version appears vibrant and youthful, with a carefree smile, capturing a stark contrast to the man's current appearance. The background is a softly lit, elegant room with warm wooden tones, intricate detailing on the walls, and a hazy light filtering through a nearby window, casting gentle shadows. The lighting should emphasize the reflections in the mirror, creating a thoughtful and serene atmosphere. The focus is sharp on both the man and his reflection, showcasing the emotional depth of the moment without any distractions.
+Seed: 1676209661
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Witch, Future

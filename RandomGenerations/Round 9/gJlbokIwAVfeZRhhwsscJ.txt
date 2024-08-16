@@ -1,0 +1,4 @@
+Prompt: A powerful orc standing in a futuristic urban landscape inspired by the Matrix. The orc, muscular and imposing, wears a long, tattered black leather trench coat that flutters in the wind. His skin is a deep green, with intricate tribal tattoos glowing under the city lights. The background features towering skyscrapers with digital rain cascading down and neon green and black color schemes, echoing the Matrix aesthetic. The scene is illuminated by the eerie glow of holographic advertisements and digital code floating through the air, creating a high-tech yet gritty atmosphere. The orc holds a glowing sword, poised in a dynamic stance as if about to charge into battle, with a menacing, determined expression. Shot from a low angle to emphasize his size and power, with dramatic lighting casting harsh shadows, accentuating the details of the scene.
+Seed: 3387372409
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Orc, Matrix

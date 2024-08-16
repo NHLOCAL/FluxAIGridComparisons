@@ -1,0 +1,4 @@
+Prompt: Create a captivating image of a beautiful Norse woman dressed in intricate medieval armor, standing confidently amidst a backdrop of roaring flames. Her long, flowing hair cascades like a waterfall around her shoulders, and her piercing blue eyes reflect the flickering firelight. She holds a gleaming sword in one hand, its blade catching the glow of the fire around her. The background features a dramatic, fiery landscape with embers swirling through the air. The overall atmosphere is intense and powerful, with warm hues of orange and red dominating the scene. The art style should emphasize the intricate details of her armor and the mesmerizing play of light from the flames, evoking a sense of strength and capability. Dramatic lighting enhances the contours of her face and armor, creating a striking contrast against the fiery background.
+Seed: 4229936415
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fire, Capability

@@ -1,0 +1,4 @@
+Prompt: Create an image of a graceful female figure standing in a sunlit meadow filled with blooming flowers. The woman possesses flowing hair that cascades down her back, adorned with delicate floral crowns and ribbons. She is wearing a flowing, ethereal gown that shimmers in pastel colors, blending harmoniously with the surrounding nature. The background features rolling hills and a clear blue sky with soft, fluffy clouds that enhance the tranquil atmosphere. The lighting is warm and golden, emphasizing the vibrant colors of the flowers and the gown, creating a sense of serenity and beauty. The angle is slightly elevated, capturing both the woman and the expansive landscape of the meadow. The style reflects romantic realism, showcasing intricate details in the fabric and flower petals.
+Seed: 1530676541
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Essence, Idea

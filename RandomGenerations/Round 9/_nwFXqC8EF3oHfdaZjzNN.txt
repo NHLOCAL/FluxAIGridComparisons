@@ -1,0 +1,8 @@
+Prompt: Create a captivating artwork showcasing the theme of feminine beauty through duality. The central figure should be an ethereal woman, split in half to represent contrasting elements: one side embodying light and warmth with flowing golden hair, luminous skin, and vibrant floral adornments, while the other side reflects darkness and mystery, featuring deep black hair, shadowy textures, and silver accents. 
+
+The background should depict an intricate barrier made of translucent, shimmering crystals that separate the two halves, symbolizing the coexistence of contrasting forces. On the light side, incorporate a serene landscape with soft pastel colors and blooming flowers, while the dark side should feature a dramatic night sky filled with deep blues and sparkling stars. 
+
+Use soft, diffused lighting to enhance the ethereal quality of the piece, with highlights emphasizing the textures and details. Include a slight upward angle to convey a sense of aspiration and growth. This illustration should evoke a sense of balance and reward, celebrating the multifaceted nature of feminine beauty. Art style inspired by classical and digital fantasy portraiture, high detail, vibrant colors.
+Seed: 1052088847
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Barrier, Reward

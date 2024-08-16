@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary tree standing on a rocky cliff, overlooking a vast, tumultuous ocean. The tree has twisted branches and gnarled roots, showcasing its resilience against the harsh elements. The sky is painted in dramatic hues of deep orange and purple as the sun sets on the horizon, casting a warm glow on the scene. The ocean below is filled with crashing waves, creating a frothy white foam against the rugged rocks. The lighting is golden and soft, highlighting the textures of the tree bark and the rocky cliff. The perspective should be from a low angle, emphasizing the grandeur of the tree against the expansive backdrop of sky and sea. The overall composition conveys a sense of solitude, strength, and the beauty of nature.
+Seed: 2203522297
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Begin, Hush

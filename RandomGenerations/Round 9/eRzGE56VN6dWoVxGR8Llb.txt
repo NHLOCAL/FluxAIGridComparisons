@@ -1,0 +1,4 @@
+Prompt: A vibrant, high-energy illustration depicting a lively street scene in Havana at night. The image features colorful colonial buildings adorned with ornate balconies and bright streetlights illuminating the cobblestone streets. In the foreground, a group of dancers, dressed in traditional Cuban attire, perform a spirited salsa dance, their movements full of rhythm and passion. Classic vintage cars in vivid hues are parked along the street, adding to the nostalgic atmosphere. The sky is a deep indigo, speckled with stars, while hanging string lights provide a warm, inviting glow throughout the scene. The overall composition exudes a festive, celebratory vibe, showcasing the rich culture and nightlife of Havana. Cinematic, vibrant, and bustling with life.
+Seed: 1631442133
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Being, Beloved

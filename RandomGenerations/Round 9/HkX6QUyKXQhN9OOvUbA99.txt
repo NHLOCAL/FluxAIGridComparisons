@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an abandoned playground on a cloudy day, with rusted swings swaying gently in the wind. The ground is overgrown with weeds and wildflowers, creating a stark contrast against the weathered metal equipment. The clouds above are dark and heavy, casting shadows that add a somber tone to the scene. A single faded stuffed animal sits on one of the swings, its colors faded and eyes dulled, inviting a sense of nostalgia and loneliness. Soft, diffused lighting enhances the melancholic atmosphere, while the overall composition invites reflection on lost childhood and memories. The background features a blurred silhouette of an overgrown forest, adding to the feeling of isolation.
+Seed: 249814108
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Openness, Wonder

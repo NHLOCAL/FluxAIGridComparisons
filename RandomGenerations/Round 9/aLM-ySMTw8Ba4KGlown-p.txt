@@ -1,0 +1,4 @@
+Prompt: Create an image of a grand medieval fashion show taking place in an opulent castle hall, adorned with rich tapestries and grand chandeliers. Models dressed in extravagant medieval attire showcase their outfits on a beautifully crafted runway made of polished wood. The audience is composed of nobles in traditional medieval attire, captivated by the dazzling display. The fashion pieces should include flowing gowns with intricate embroidery, luxurious fabrics, and ornate accessories like jeweled crowns and cloaks. Lighting should be warm and golden, enhancing the elegance of the scene while maintaining a regal atmosphere. The angle is from an elevated perspective, capturing a wide view of the runway and audience, emphasizing the grandeur and flair of the event.
+Seed: 2005866607
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Giggle, Choice

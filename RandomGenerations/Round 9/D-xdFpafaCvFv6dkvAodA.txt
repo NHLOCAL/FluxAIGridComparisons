@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man's weathered hands clasped together in front of a window. The hands show deep lines and age spots, telling stories of a long life. Outside the window, a soft, golden sunset bathes the scene in warm light, casting gentle shadows across the room. In the background, a blurry vase of wilted flowers suggests a sense of loss and nostalgia. The warm color palette contrasts with the cool blue of the approaching night sky, creating a bittersweet atmosphere. The focus should be on the intricate details of the hands, emphasizing texture and age, while keeping the background softly blurred to draw the viewer's eye to the central subject. The lighting should create a tender and reflective feel, inviting viewers to ponder the passage of time and memories.
+Seed: 1703745193
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Island, Tenderness

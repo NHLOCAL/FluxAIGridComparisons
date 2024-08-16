@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a serene landscape blending gently with a close-up of a human hand in a gesture of blessing. The background should depict a lush, green valley under a soft sunrise, with rays of light filtering through the trees. The hand, showcasing intricate details of the skin and fingers, should be positioned prominently in the foreground, its gentle curve symbolizing acceptance and acknowledgment. The overall color palette should feature soft pastels blended harmoniously, creating a tranquil atmosphere. The lighting should be warm and inviting, enhancing the peaceful connection between the two layers. The photograph should evoke a sense of harmony, unity, and appreciation within the composition.
+Seed: 269167540
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Blessing, Acknowledgment

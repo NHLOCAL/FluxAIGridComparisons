@@ -1,0 +1,4 @@
+Prompt: An intriguing photograph capturing a double-exposure of a serene landscape and a human face. The face is partially obscured by flowing clouds and mist, with the serene landscape of rolling hills and a calm lake seamlessly merging with the contours of the person's features. The eyes are clear and expressive, evoking a sense of contemplation and depth, while the lower half of the face transitions into the vibrant colors of a sunset, creating a striking contrast. Soft, golden lighting adds a warm glow, and the background reflects a hazy twilight sky, enhancing the dreamlike quality of the image. The overall composition beautifully blends elements of nature and humanity, inviting the viewer to explore themes of duality and introspection.
+Seed: 2292639815
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monochrome, Passage

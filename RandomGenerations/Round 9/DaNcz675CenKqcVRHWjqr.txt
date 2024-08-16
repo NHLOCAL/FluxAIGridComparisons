@@ -1,0 +1,8 @@
+Prompt: Create a visually striking illustration that embodies the concept of feminine beauty and duality. The central figure should be an ethereal woman, split down the middle to represent two contrasting aspects of her being. One side should showcase a radiant appearance adorned with vibrant colors and floral motifs, embodying grace and light. The other side should depict a darker, more mysterious aesthetic, with deep colors, intricate patterns resembling shadows, and wisps of smoke, symbolizing courage and strength.
+
+The background should reflect this duality as well, transitioning from a bright, picturesque landscape on one side to a dark, starry cosmic expanse on the other. The lighting should vary accordingly; the light side should feature soft, golden sunlight filtering through lush trees, while the dark side showcases cool, ambient moonlight accentuating stars and nebulae.
+
+The angle of the illustration should be slightly elevated, allowing the viewer to appreciate both aspects of her beauty simultaneously. The overall atmosphere should evoke a sense of harmony in contrast, blending elements of fantasy and realism while incorporating an ultra-detailed art style inspired by contemporary digital artists.
+Seed: 2378286879
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Task, Hyperdrive

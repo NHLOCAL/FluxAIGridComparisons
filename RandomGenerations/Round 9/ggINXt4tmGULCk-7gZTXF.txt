@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a striking, split-faced figure that embodies duplicity. On one side, illustrate a serene expression with soft, inviting features and bright colors, adorned in light pastel clothing and surrounded by blooming flowers. The other half should depict a sinister version of the character, with sharp angles, intense shadows, and dark, tattered clothing, set in a dimly lit, desolate background filled with twisted branches and muted hues. The lighting should create a stark contrast between the two sides, emphasizing the duality in expression and atmosphere. The figure’s gaze should connect with the viewer, inviting contemplation of the conflicting nature of human emotion.
+Seed: 48499081
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spacecraft, Date

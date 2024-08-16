@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an abandoned, dilapidated house standing alone in a misty forest. The house is overgrown with vines, with broken windows and a sagging roof, conveying a sense of neglect and isolation. Soft, diffused gray light filters through the mist, casting a somber tone over the scene. The ground is covered in fallen leaves, and a few scattered branches frame the foreground, adding depth to the composition. In the background, dark silhouettes of towering trees create a haunting atmosphere, enhancing the feeling of abandonment. The overall lighting is subdued and moody, emphasizing the texture of the weathered wood and the tranquility of the surrounding nature. The image captures a powerful sense of solitude and a connection to the past, evoking contemplation and reflection.
+Seed: 3796083278
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heart, Black hole

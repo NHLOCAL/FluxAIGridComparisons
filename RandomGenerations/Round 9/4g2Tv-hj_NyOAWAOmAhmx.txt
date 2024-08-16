@@ -1,0 +1,4 @@
+Prompt: Create a captivating double exposure image featuring a tranquil scene of a serene forest with slow-moving mist enveloping the trees as the primary layer. In the second layer, overlay the silhouette of a meditative person sitting cross-legged, surrounded by soft blue and green hues that reflect calmness and peace. The forest should have tall, slender trees with intricate branches, while the mist layers blend seamlessly into the figure, highlighting the connection between nature and mindfulness. The overall lighting should be soft and diffused, with gentle shadows enhancing the sense of depth. The atmosphere should convey a feeling of harmony and slowness, inviting the viewer to reflect upon the beauty of stillness and introspection. The style should be ethereal and dreamlike, emphasizing a sense of tranquility.
+Seed: 1705409384
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fidelity, Slowness

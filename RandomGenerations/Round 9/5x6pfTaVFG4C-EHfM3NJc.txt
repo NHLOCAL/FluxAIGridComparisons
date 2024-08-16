@@ -1,0 +1,4 @@
+Prompt: A captivating portrait of a woman embodying duality, with one side of her face representing elegance and femininity, adorned with delicate floral patterns and soft pastel colors. The other side contrasts sharply, showcasing a fierce and commanding presence, with angular features and bold, dark colors such as deep reds and blacks. The background transitions seamlessly between tranquil, serene floral elements on one side, and dynamic, chaotic abstract shapes on the other, representing ecstasy and intensity. The lighting is dramatic, with soft, ethereal lighting on the feminine side and harsh, contrasting shadows on the commanding side, highlighting the juxtaposition of beauty and strength. A close-up shot emphasizes the intricate details of her expressions and the vibrant colors, creating a powerful visual narrative of duality in feminine beauty.
+Seed: 1797580984
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Command, Ecstasy

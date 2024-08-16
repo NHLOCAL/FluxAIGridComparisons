@@ -1,0 +1,4 @@
+Prompt: Create an image of a close-up shot of a vintage mirror reflecting a beautiful, serene landscape of rolling hills under a bright blue sky. However, within the reflection of the mirror, depict a dark, stormy sky looming over the landscape, with ominous clouds swirling and hints of lightning. The foreground should feature an elegant, old-fashioned vanity table adorned with delicate trinkets and a wilted flower, symbolizing fading beauty. Soft, diffused lighting should illuminate the scene, casting gentle shadows that create a sense of depth and contrast. The angle should be slightly tilted, enhancing the feeling of duality between the tranquil landscape and the dark reflection, evoking a sense of tension and unease within the beauty. High detail, photorealistic style, 4k resolution.
+Seed: 283058571
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Djinn, Consequence

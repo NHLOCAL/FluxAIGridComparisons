@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a sci-fi/fantasy landscape featuring a serene, idyllic valley enveloped in delicate wisps of colorful smoke. The landscape is dominated by rolling hills covered in lush, vibrant greenery, interspersed with iridescent flowers that shimmer under the soft, ethereal light. In the distance, towering, futuristic structures blend harmoniously with the natural surroundings, their sleek designs illuminated by multicolored lights. A gently flowing river meanders through the landscape, reflecting the captivating colors of the smoke above. The sky is painted in pastel hues of dawn, adding a tranquil atmosphere to the scene. This composition captures the perfect fusion of nature and advanced technology, evoking a sense of wonder and peace within this otherworldly realm. High-resolution, ultra-detailed, cinematic lighting.
+Seed: 4250770229
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Smoke, Idyllic

@@ -1,0 +1,6 @@
+Prompt: A stunning portrait of a feminine figure embodying duality, with one side representing ice and the other side depicting infinity. The left half of her face is adorned with intricate ice crystals and frosty patterns, showcasing a cold, shimmering elegance. Her skin shimmers with icy blues and whites, while her hair flows like cascading icicles. The right half of her face features swirling patterns reminiscent of galaxies, with vibrant shades of purple, blue, and hints of gold, symbolizing infinity and cosmic energy. The hair on this side flows in a wave-like motion, resembling celestial streams. 
+
+The background transitions from a frosty, icy landscape with glistening snowflakes on the left to a vast, starry cosmic panorama on the right. The lighting is ethereal, with a soft glow emanating from the center, illuminating both sides of her face, creating a beautiful contrast. Emphasize the fine details in the textures of ice and the swirling stars, merging realism with surrealism in this masterpiece. The artwork captures the essence of feminine beauty, duality, and the infinite in a captivating and stunning presentation, showcasing a seamless blend of elements.
+Seed: 4008201596
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ice, Infinity

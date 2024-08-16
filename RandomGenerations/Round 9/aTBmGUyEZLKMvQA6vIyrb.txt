@@ -1,0 +1,4 @@
+Prompt: Capture a poignant photograph of a split scene featuring a cracked, aged mirror on a wooden table. The left side of the mirror reflects a vibrant, sunny garden with blooming flowers, lush greenery, and a clear blue sky. In contrast, the right side reveals a dark, stormy landscape with heavy rain, thunderclouds, and wilted plants. A single drop of water is seen trickling down the cracked surface of the mirror, symbolizing the passage of time. The tabletop is adorned with a small, wilting flower that matches the right side's colors, creating a visual connection. The lighting should be soft yet highlight the drastic differences between both scenes, amplifying the theme of duplicity and the juxtaposition of beauty and decay. High-resolution, realistic style.
+Seed: 2296005941
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Expedition, Talent

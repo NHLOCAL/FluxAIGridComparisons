@@ -1,0 +1,8 @@
+Prompt: Create an image of a strikingly beautiful female figure standing confidently at the edge of a volcanic landscape. She should represent the theme of duality, with one half of her body adorned in flowing, ethereal robes that shimmer with iridescent colors, symbolizing light and serenity. The other half should be depicted in rugged, earthy textures, featuring charred, volcanic rock and hardened lava flows, representing strength and resilience. 
+
+In the background, a dramatic volcano erupts with vibrant orange and red lava cascading down its sides, contrasting with the dark, smoky sky filled with ash clouds. The sunlight breaking through the clouds creates a warm, intense glow, casting striking shadows and highlights across the scene. 
+
+The angle should focus on the figure from a slightly below perspective, emphasizing her stature against the chaotic natural environment. The overall composition should blend elements of beauty and raw power, showcasing the intricate balance of light and dark. The artwork should be rendered in a hyper-detailed, cinematic style, enhancing both the figure's elegance and the tumultuous landscape surrounding her.
+Seed: 1086557465
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Level, Volcano

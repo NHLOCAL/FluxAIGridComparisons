@@ -1,0 +1,6 @@
+Prompt: Create an image illustrating the concept of 'duality' by depicting a vibrant pharmacy split into two contrasting halves. One side of the pharmacy is filled with bright, colorful shelves stocked with health products, vitamins, and vibrant packaging, illuminated by warm, welcoming lighting. The atmosphere is friendly and inviting, with cheerful customers engaging with friendly pharmacists. 
+
+The other half of the pharmacy is dark and moody, with shelves lined with eerie-looking products like ghostly tonics and dubious medication. The lighting is dim, casting shadows with hints of neon green and purple elements, creating a sense of mystery. Darker, more mysterious figures lurk in the shadows, buying cryptic items. The two halves are divided by a central aisle, emphasizing the stark contrast between the lively pharmacy and its darker, more enigmatic counterpart. The overall composition aims to capture the concept of duality through visual extremes in color, lighting, and atmosphere.
+Seed: 2153826107
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Occasion, Pharmacy

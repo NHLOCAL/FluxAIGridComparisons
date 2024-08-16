@@ -1,0 +1,4 @@
+Prompt: A high-resolution photograph capturing a striking scene of a cracked and weathered mirror reflecting a blossoming cherry tree on one side and a wilted, barren landscape on the other. The left side of the mirror showcases vibrant pink flowers and lush green foliage, illuminated by soft, warm sunlight filtering through delicate petals. In contrast, the right side reveals a desolate, dry area with cracked earth and grey, lifeless branches under harsh, stark lighting. The juxtaposition of vibrant life and desolation invites contemplation about beauty and decay. The background is softly blurred, drawing attention to the mirror's surface, and a faint mist hovers above the ground, adding to the surreal quality of the scene. Ultra-detailed, capturing every texture and reflection.
+Seed: 3200817255
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Might, Synagogue

@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a close-up portrait of a woman with a confident expression. The first layer should showcase a bustling city skyline at dusk, filled with structured architectural designs symbolizing order. The second layer should blend in soft, flowing waves crashing against each other, representing seduction through their curves and movement. The color palette should blend warm sunset hues with cooler tones from the ocean, creating a harmonious balance. The lighting is soft yet striking, highlighting the woman's features while also accentuating the contrast between the rigidity of the cityscape and the fluidity of the ocean. The overall composition merges these two contrasting elements into a cohesive and beautifully intricate piece.
+Seed: 2784883591
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Seduction, Order

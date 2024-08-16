@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi/fantasy landscape photograph of a vibrant alien world, characterized by a sprawling terrain filled with luminescent flora and towering, crystalline structures. The sky is a mesmerizing gradient of deep purples and blues, scattered with multiple moons and distant stars shimmering brightly. In the foreground, a tranquil river of flowing liquid light winds through the landscape, reflecting the radiant colors of the sky. Unusual creatures, resembling a blend of earthly animals and fantastical beings, roam the terrain, adding a sense of life and wonder to the scene. The overall composition conveys an ethereal and dreamlike quality, with intricate details and vivid colors that draw the viewer into this enchanting world. High-resolution, cinematic lighting enhances the fantastical atmosphere, inviting exploration and imagination.
+Seed: 1954814005
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tip, Guide

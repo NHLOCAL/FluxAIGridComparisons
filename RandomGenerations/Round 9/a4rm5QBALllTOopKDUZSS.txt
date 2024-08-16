@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an abandoned, overgrown cottage in an enchanting forest. The cottage, with its weathered wooden beams and cracked windows, is partially hidden by dense, creeping vines and vibrant wildflowers. Soft golden rays of sunlight filter through the lush green canopy above, creating dappled light on the forest floor. A few butterflies flutter around, adding a touch of life to the scene. The atmosphere is serene and peaceful, inviting the viewer to explore the mysterious, forgotten home. The background includes tall trees with intricate bark textures, and a gentle, meandering stream can be seen, reflecting the sunlight. The overall color palette features warm greens, soft browns, and hints of floral colors, enhancing the feeling of nostalgia and connection with nature.
+Seed: 1523594588
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: End, Fashion

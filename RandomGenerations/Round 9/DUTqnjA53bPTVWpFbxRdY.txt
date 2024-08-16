@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a striking portrait of a human figure with elements representing fire and water. The human silhouette should be intricately blended with vibrant flames and cascading water, creating a harmonious fusion of the two elements. The flames should wrap around the figure, showcasing warm tones of red, orange, and yellow, while the water element cascades with shades of deep blue and turquoise. The background should be a dark, atmospheric gradient to enhance the visual impact of the elements. The overall composition should emphasize sharp contrasts between the fiery and watery aspects, creating a dynamic and captivating visual effect. High-resolution, highly detailed, artistic, with a focus on texture and movement.
+Seed: 1998195690
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lust, Elemental

@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining the interior of a rustic workshop filled with vintage tools, wooden workbenches, and scattered sheets of blueprints. Layered within this scene, depict a time travel vortex swirling with vibrant colors, such as deep blues, purples, and hints of bright gold and silver. The vortex should seamlessly blend into the contours of the workshop, creating a sense of movement and energy. The lighting in the workshop should be warm and inviting, with sunlight filtering through dusty windows, casting dramatic shadows across the tools. The overall composition should evoke a sense of curiosity and adventure, merging craftsmanship with the imaginative concept of time travel. Photorealistic style, high detail, and vibrant colors.
+Seed: 3554079749
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Workshop, Time travel

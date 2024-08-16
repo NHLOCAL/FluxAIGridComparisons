@@ -1,0 +1,4 @@
+Prompt: A captivating close-up shot of a perfectly mirrored lake surrounded by towering mountains under a dramatic sky. The lake's surface is smooth and reflective, perfectly mirroring the jagged peaks and the swirling clouds above. On one side of the lake, a bright and sunny landscape with blooming wildflowers and vibrant green grass creates a sense of harmony. In contrast, the other side depicts dark, looming storm clouds and sparse, barren trees, highlighting an impending storm. The dynamic lighting enhances the sense of duplicity, as warm sunlight clashes with ominous shadows. The photograph captures the essence of two opposing worlds within one scene, inviting viewers to contemplate the balance between beauty and turmoil. Photorealistic, high resolution, dramatic composition.
+Seed: 3814582834
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Village, Euphoria

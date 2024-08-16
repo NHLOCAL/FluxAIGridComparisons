@@ -1,0 +1,4 @@
+Prompt: Please provide specific details about the subject, background, art style, lighting, and any other elements you'd like to include in the photograph prompt for Flux AI.  For example, you can share whether you want a portrait, a landscape, or a still life, and what kind of atmosphere or setting you'd prefer.
+Seed: 893214573
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pretty, Today

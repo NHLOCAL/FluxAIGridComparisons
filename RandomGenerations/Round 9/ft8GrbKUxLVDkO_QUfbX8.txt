@@ -1,0 +1,4 @@
+Prompt: A surreal photograph capturing two identical twin girls standing back-to-back in a foggy forest, both wearing vintage white dresses. One girl has a serene expression, while the other appears shadowed and grimacing, creating a stark contrast between the two. The background features tall, shadowy trees enveloped in mist, giving a mystical quality to the scene. Soft diffused light filters through the fog, casting ethereal shadows and creating an otherworldly atmosphere. The overall composition invites introspection, contrasting innocence with a sense of foreboding, and enhancing the theme of duplicity. The photograph is rendered in high detail, with a focus on the intricate features of the girls' faces and the serene beauty of the natural setting.
+Seed: 1440955878
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cloud, Stadium

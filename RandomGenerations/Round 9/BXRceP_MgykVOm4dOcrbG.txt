@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a cracked, weathered porcelain mask sitting on a rough wooden table. The mask is split down the middle, one half painted in vibrant, cheerful colors with exaggerated features, while the other half is dull, faded, and cracked, representing sadness. Shadows play dramatically across the surface, accentuating the mask's intricate details and the contrast between the two halves. In the background, out of focus, a dimly lit room is visible, with soft, warm light illuminating dusty shelves, hinting at forgotten memories. The image captures the essence of duplicity in a quiet, yet powerful manner.
+Seed: 1669642782
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awareness, Rainbow

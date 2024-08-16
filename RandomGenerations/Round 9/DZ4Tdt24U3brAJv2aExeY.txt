@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a sprawling, otherworldly park set within a vibrant sci-fi fantasy landscape. The park features towering, luminescent trees with iridescent leaves that shimmer in hues of blue and purple. Bioluminescent flowers carpet the ground, illuminating winding pathways that lead through the picturesque scenery. An ethereal river with shimmering water flows through the center of the park, reflecting the sky's vivid colors. In the distance, majestic mountains embellished with crystalline structures rise against a swirling, starry sky filled with nebulae. Adventurers in futuristic attire can be seen embarking on a quest, equipped with sci-fi gadgets, walking along the paths and interacting with fantastical creatures. The lighting is soft yet vibrant, enhancing the magical atmosphere of this enchanting park, inviting viewers to explore its wonders. 
+Seed: 1525209210
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Park, Quest

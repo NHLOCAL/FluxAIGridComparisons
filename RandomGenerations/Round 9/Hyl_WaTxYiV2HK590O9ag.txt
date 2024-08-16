@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that blends the silhouette of an astronaut in a sleek, advanced spacesuit with a vast, starry outer space backdrop. The silhouette should be filled with intricate details, showcasing planets, galaxies, and celestial objects, emphasizing the theme of exploration and mission. The background should feature a shadowy depiction of an inner cityscape, illustrating the contrast between the vastness of space and the complexity of urban life. Use vibrant colors in the celestial elements, while the astronaut silhouette and the cityscape should be rendered in deep blacks and grays, creating a striking visual contrast. The lighting should be soft yet dramatic, adding depth to the double exposure effect and highlighting the merging of the two worlds.
+Seed: 4053157801
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mission, Black

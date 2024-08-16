@@ -1,0 +1,4 @@
+Prompt: Create an image that showcases feminine beauty through a central figure of a woman with flowing hair adorned with delicate flowers. She is positioned gracefully on a lavish silk drapery, surrounded by intricate patterns of lace and soft fabrics. The background features a dreamy, atmospheric landscape with ethereal light filtering through, creating a soft glow that highlights her features. Rich colors, such as deep purples and golds, should enhance the sense of opulence. The woman’s attire is elegant and flowing, accentuating her form, while details like shimmering accessories and soft fabrics emphasize the beauty around her. The overall composition captures a harmonious blend of elegance and allure. The lighting should be warm and inviting, with subtle shadows that add depth to the scene, creating an immersive and captivating visual experience.
+Seed: 3864847695
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Togetherness, Imbalance

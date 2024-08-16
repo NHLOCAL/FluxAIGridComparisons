@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary, fallen tree in a vast, empty field at sunset. The tree, with gnarled branches extending outward, is silhouetted against the warm, golden hues of the setting sun, which casts a soft glow across the landscape. The sky is painted with vibrant oranges, pinks, and purples, gradually fading into deep blue as night approaches. The foreground is covered in tall, dried grass, gently swaying in the cool breeze. A few scattered clouds reflect the sunset colors, adding depth to the scene. The overall composition creates a stark contrast between the vibrant sky and the dark silhouette of the tree, emphasizing themes of solitude and nature's beauty, with an emphasis on delicate lighting and atmospheric perspective.
+Seed: 526381926
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nostalgia, Bridge

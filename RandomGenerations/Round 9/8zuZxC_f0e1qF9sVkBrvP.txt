@@ -1,0 +1,4 @@
+Prompt: Create a captivating photograph depicting a vintage mirror with ornate details, reflecting a split scene. On one side, a vibrant, sunlit garden filled with blooming flowers, lush greenery, and a cheerful blue sky, symbolizing happiness and vitality. On the opposite side, a dark, shadowy room with crumbling walls, dim lighting, and wilted flowers, representing despair and decay. The mirror itself should show intricate craftsmanship with faint scratches that add character. The lighting should create a striking contrast, with warm sunlight illuminating the garden and cold, muted tones enveloping the shadowy room. The photograph focuses on enhancing the juxtaposition between the two contrasting realities, showcasing the theme of duplicity. 
+Seed: 3776856317
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Iceberg, Federation

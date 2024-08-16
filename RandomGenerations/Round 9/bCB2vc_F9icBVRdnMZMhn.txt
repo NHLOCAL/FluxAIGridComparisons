@@ -1,0 +1,4 @@
+Prompt: A striking depiction of a Chimera standing majestically on a rocky cliff overlooking a vibrant peninsula at sunset. The Chimera features the body of a lion, a goat's head protruding from its back, and a serpent as its tail, with its fur detailed and textured to capture its mythical essence. The peninsula is lush and green, with golden beaches and calm turquoise waters glistening below. The sky is ablaze with fiery hues of orange, pink, and purple as the sun sets on the horizon, casting warm light across the scene. The Chimera's piercing eyes are focused on the water, creating a sense of intensity and power. This cinematic artwork emphasizes the contrast of the mythical creature against the serene beauty of nature, rendered in hyper-realistic detail, evoking a sense of wonder and captivating allure.
+Seed: 1971654604
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chimera, Peninsula

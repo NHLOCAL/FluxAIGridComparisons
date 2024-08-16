@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a stunning mirror lake surrounded by towering mountain peaks under a vivid twilight sky. The lake's surface is perfectly still, reflecting the breathtaking colors of the sky, with deep purples, fiery oranges, and soft pinks blending seamlessly. In the foreground, a solitary figure stands at the water's edge, encased in a flowing coat, their face partially obscured by shadows, hinting at a sense of mystery. The mountains, with sharp contrasts between light and dark, enhance the feeling of depth and duality in the landscape. Soft rays of light break through the clouds, creating an ethereal glow that illuminates both the serene water and the ruggedness of the peaks, emphasizing the juxtaposition of tranquility and the untamed wilderness. Cinematic quality, high detail, ethereal atmosphere.
+Seed: 1887766128
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Portrait, Vitality

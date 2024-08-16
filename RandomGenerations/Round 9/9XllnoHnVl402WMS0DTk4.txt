@@ -1,0 +1,4 @@
+Prompt: A stunningly detailed photograph of an old, weathered tree standing alone in a vast, empty field under a dramatic sky. The tree's gnarled branches reach out in every direction, adorned with sparse, vibrant green leaves that contrast against its rough, dark bark. Below, patches of wildflowers bloom in a mix of yellows and purples, creating a soft foreground. The sky is a mixture of deep blues and warm oranges, as the sun sets on the horizon, casting long shadows and a golden light across the field. A gentle breeze stirs the grass, creating a sense of movement, while wispy clouds slowly drift above, contributing to the tranquil atmosphere. The overall scene captures the beauty of solitude and the passage of time, rendering a moment of quiet reflection against nature's splendor.
+Seed: 572636064
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Union, Failure

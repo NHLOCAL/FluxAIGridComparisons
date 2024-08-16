@@ -1,0 +1,6 @@
+Prompt: Create an image illustrating a vibrant Havana street scene at night. The composition should feature colorful colonial buildings with intricate facades, adorned with beautiful wrought-iron balconies. Streetlights cast a warm, golden glow onto the cobblestone road, reflecting the pastel colors of the architecture. Classic vintage cars, painted in bright hues of blue, yellow, and red, are parked along the street, adding to the lively atmosphere. 
+
+In the foreground, depict a group of musicians playing traditional Cuban music with instruments like guitars and maracas, their clothing reflecting tropical patterns. A soft breeze brings movement to palm trees lining the street, their silhouettes contrasting against the starry sky. The overall mood is festive and inviting, with subtle hints of tropical greenery peeking through, emphasizing the essence of a lively Havana night. Use a cinematic art style with rich colors and dynamic shadows to enhance the scene's vibrancy.
+Seed: 4141700367
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Galaxy, Gem

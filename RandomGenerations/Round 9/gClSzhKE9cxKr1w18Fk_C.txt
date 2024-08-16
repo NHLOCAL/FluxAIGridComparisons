@@ -1,0 +1,6 @@
+Prompt: Capture a breathtaking sci-fi/fantasy landscape featuring a colossal Djinn emerging from a swirling sandstorm in the heart of a vast desert. The Djinn's form is intricately designed, showcasing swirling smoke and ethereal wisps that blend into the storm, with glowing azure eyes piercing through the swirling sands. The desert is bathed in warm, golden hues under a dramatic twilight sky, accented by bursts of vibrant oranges and purples. 
+
+In the foreground, resolve the details of ancient ruins partially buried in the sand, with intricate carvings visible on the stone structures. The overall composition should emphasize the scale of the Djinn against the vast expanse of the desert, creating a formidable presence. The lighting should evoke a mystical, otherworldly atmosphere, casting long shadows and highlighting the ethereal nature of the Djinn. Ultra-high detail, cinematic quality, and a focus on the interplay of light and shadow will enhance the enchanting scene.
+Seed: 896359577
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Djinn, Tip

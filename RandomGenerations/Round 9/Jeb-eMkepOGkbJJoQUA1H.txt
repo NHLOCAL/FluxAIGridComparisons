@@ -1,0 +1,4 @@
+Prompt: Create a highly detailed illustration of a beautiful Norse woman in medieval attire, standing inside a grand cathedral adorned with intricate stone carvings and stained glass windows. She wears a flowing, embroidered dress with rich colors and silver accessories. Her long, braided hair is interwoven with small flowers. The cathedral's interior is illuminated by soft, warm light shining through the stained glass, casting colorful patterns on the stone floor. In her hands, she holds an ancient, open book filled with runes, symbolizing knowledge and wisdom. The angle of the shot is slightly below eye level, allowing the grandeur of the cathedral’s vaulted ceilings to be showcased in the background, enhancing the sense of majesty and reverence surrounding the scene. The overall atmosphere blends a sense of serenity with an air of mystery.
+Seed: 4087959036
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cathedral, Knowledge

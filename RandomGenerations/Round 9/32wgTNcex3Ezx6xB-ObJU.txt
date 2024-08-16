@@ -1,0 +1,8 @@
+Prompt: A breathtaking photograph of a sprawling landscape featuring an ancient abbey set atop a lush, green hill. The abbey's architecture is a fusion of Gothic and fantasy styles, with towering spires, intricate stained glass windows, and expansive stone arches embellished with vines and flowers. Surrounding the abbey, a vibrant wildflower meadow blooms in a riot of colors, creating a stunning contrast against the weathered stone.
+
+In the background, majestic mountains rise under a sky painted with dramatic hues of orange, pink, and purple, suggesting a breathtaking sunset or sunrise. Wisps of clouds drift lazily, reflecting the warm colors of the sky. Soft, golden light bathes the scene, illuminating the abbey's details and adding a magical glow to the landscape.
+
+The photograph is taken from a slight elevation, providing a panoramic view of the abbey and its surroundings. The composition emphasizes both the grandeur of the abbey and the beauty of the natural landscape, capturing a serene yet awe-inspiring moment in this enchanting sci-fi/fantasy realm. Highly detailed, masterpiece quality, vibrant colors, and dramatic lighting.
+Seed: 3196469644
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Abbey, Criterion

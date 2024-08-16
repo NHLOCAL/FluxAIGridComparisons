@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a vibrant outdoor scene during a sunny afternoon in a park. In the foreground, a child with curly hair is joyfully flying a colorful kite high in the clear blue sky. The kite is adorned with a bright pattern, and its tail flows freely in the gentle breeze. Surrounding the child are lush green grass and a variety of vivid flowers in full bloom, showcasing a spectrum of colors including reds, yellows, and pinks. In the background, families are picnicking on blankets, couples are strolling hand in hand, and a group of friends is laughing while playing frisbee. The sunlight bathes the entire scene in a warm golden hue, enhancing the brightness and vibrancy of the colors. Capture the essence of happiness and carefree moments, with soft focus on the child in front and clear detail of the joyful park atmosphere.
+Seed: 4186379925
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Aptitude, Joy

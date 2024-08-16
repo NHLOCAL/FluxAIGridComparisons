@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a solitary child sitting on a weathered swing in an empty playground. The child, wearing a frayed baseball cap and a faded t-shirt, gazes off into the distance. The swing is creaking gently, casting a delicate shadow on the cracked, sun-bleached ground. Surrounding the playground, tall grass sways softly in the breeze, and a rusted chain-link fence encloses the area, hinting at a forgotten past. In the background, dark storm clouds gather, contrasting with a single beam of sunlight breaking through, illuminating the swing and the child. The overall color palette consists of muted, desaturated tones, creating a sense of nostalgia and stillness. The composition captures a poignant moment of solitude and reflection.
+Seed: 2704929915
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Earth, Creepy

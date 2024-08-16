@@ -1,0 +1,4 @@
+Prompt: Create an image of a perfectly mirrored landscape where one side depicts a vibrant, sunny day with blooming flowers, clear skies, and people enjoying a picnic, while the other side is a dark, stormy scene with heavy rain, wilted flowers, and abandoned picnic items. The split should be seamless, emphasizing the stark contrast between joy and despair. The art style should be hyper-realistic, capturing intricate details such as raindrops on the wilted flowers and the warmth of sunlight on the bright colors of the sunny side. Atmospheric lighting should highlight the duality, with bright, cheerful tones on one side and dark, ominous shadows on the other. The angle should be a panoramic view, enhancing the sense of duplicity in the scene.
+Seed: 3607024437
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Acknowledgment, Comfort

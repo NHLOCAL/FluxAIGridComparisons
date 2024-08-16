@@ -1,0 +1,4 @@
+Prompt: A close-up shot of a weathered, cracked pair of hands gently holding a single, vibrant red rose. The hands, marked with age and toil, contrast against the soft, delicate petals of the rose, which appear fresh and alive. The background is softly blurred with warm, golden light filtering through, casting a gentle glow over the scene. Subtle droplets of dew rest on the rose’s petals, enhancing its freshness. The photograph has a shallow depth of field, bringing sharp focus to the hands and the rose, capturing the beauty of nature and the passage of time, creating an intimate and poignant moment. Photorealistic style, high detail, natural lighting.
+Seed: 1847970911
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hatred, Truth

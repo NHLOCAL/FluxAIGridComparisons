@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a weathered wooden swing hanging from a single tree branch in a misty, overgrown forest. The swing, adorned with delicate wildflowers and soft moss, gently sways in a light breeze. The surrounding trees are tall and rugged, with dappled sunlight filtering through the thick canopy above, casting soft, golden rays onto the ground. A close-up shot captures the intricate texture of the swing's wood, with the grains prominently displayed. The background is blurred, but hints of lush green foliage create an atmosphere of tranquility and nostalgia. Overall, the image should convey a sense of timelessness and the beauty of nature, inviting the viewer to imagine serene moments spent in this secluded spot.
+Seed: 578761025
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Closeness, Fetching

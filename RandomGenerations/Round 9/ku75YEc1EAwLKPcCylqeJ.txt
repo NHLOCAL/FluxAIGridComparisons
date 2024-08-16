@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an old, abandoned house in the middle of a dense, dark forest. The house should have peeling paint, broken windows, and overgrown vines, suggesting decades of neglect. Moonlight filters through the trees, casting eerie shadows on the ground and illuminating the house's worn features. The atmosphere is haunting and desolate, with a fog rolling in to add a layer of mystery. The foreground should include a cracked stone path leading to the house, bordered by wilted flowers struggling to survive. The colors should be muted and somber, emphasizing the mood of abandonment and decay. The overall composition should convey a sense of isolation and forgotten memories, encouraging deep contemplation of the past.
+Seed: 3858958105
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Era, Justice

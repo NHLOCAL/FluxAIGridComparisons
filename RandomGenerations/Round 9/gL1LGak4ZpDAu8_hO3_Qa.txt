@@ -1,0 +1,4 @@
+Prompt: Create a photograph capturing a striking architectural reflection in a calm body of water. The image should show a modern glass skyscraper reflected perfectly on the surface, with details of both the building and the sky visible. The background should feature a contrasting traditional building with an ornate façade, its details slightly distorted in the reflection. The lighting should be soft during the golden hour, with warm hues from the setting sun casting gentle shadows. The angle of the shot should be low, emphasizing the water's surface and the duality of the two architectural styles. The atmosphere should blend tranquility with a sense of intrigue, highlighting the juxtaposition between the modern and the classic, manifesting a visual exploration of duplicity and harmony.
+Seed: 2676692288
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Beloved, Friendship

@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a mysterious warlock standing in an enchanted forest. The warlock, clad in dark, intricately detailed robes adorned with mystical symbols, has piercing eyes that glow with an otherworldly light. Surrounding him are towering trees with twisted roots and vibrant, luminescent fungi casting an eerie glow. Wisps of mist curl around the forest floor, enhancing the mystique. The scene is illuminated by fragmented beams of moonlight filtering through the thick canopy above, creating dappled shadows that dance across the ground. The warlock's outstretched hand holds a glowing orb of magic, shimmering with colors reminiscent of the aurora borealis. The overall composition conveys a captivating and alluring atmosphere, blending elements of dark fantasy and enchanting beauty.
+Seed: 1030727426
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Forest, Warlock

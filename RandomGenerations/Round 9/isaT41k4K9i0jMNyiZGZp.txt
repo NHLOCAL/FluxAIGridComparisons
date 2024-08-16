@@ -1,0 +1,6 @@
+Prompt: Create an image illustrating the theme of "duplicity in love". The scene should feature two human figures standing back-to-back, with half of each figure's body cloaked in shadows and the other half bathed in soft, warm light. The figure on the left is a woman wearing a flowing gown, her expression serene yet mysterious, and her hands delicately holding a single rose. The figure on the right is a man in a tailored suit, his face showing intrigue and a hint of sadness, with one hand placed thoughtfully on his chin. 
+
+The background should be split to reflect contrasting environments: one side represents tranquility with gentle, pastel colors and soft, blurred trees, while the other side depicts chaos with dark storm clouds and swirling winds. The lighting should create stark contrasts, with sharp shadows on one side symbolizing secrecy, and warm, glowing light on the other signifying love and honor. The overall composition should evoke a sense of tension and complexity in relationships, rendered in a realistic painting style.
+Seed: 976347485
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hearing, Honor

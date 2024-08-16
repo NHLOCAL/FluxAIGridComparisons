@@ -1,0 +1,8 @@
+Prompt: Create an illustration of a feminine figure symbolizing beauty and duality. The character stands elegantly, showcasing one side adorned in vibrant emerald green flowing garments, rich in intricate patterns and textures. Her hair cascades in soft waves, highlighted with glimmers that mirror the color of emeralds. 
+
+On the opposite side, the figure wears darker, more muted tones, featuring sharp, angular designs that contrast with her softer side. Her stance is balanced, representing harmony between the two sides, with subtle facial features reflecting both fragility and strength.
+
+The background consists of an ethereal landscape blending lush emerald hills on one side, transitioning into a shadowy, twilight forest on the other. Soft, diffused lighting highlights the character's silhouette while casting intricate shadows around her, enhancing the sense of duality. The colors are rich and vivid, creating an enchanting atmosphere that captivates the viewer. The art style combines elements of fantasy realism with a touch of surrealism, emphasizing the intricate details and the dynamic interplay of light and shadow.
+Seed: 2009275559
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fiction, Emerald

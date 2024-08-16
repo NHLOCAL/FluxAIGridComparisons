@@ -1,0 +1,10 @@
+Prompt: Create an image of a grand monument representing duality, standing majestically on a rocky cliff overlooking a stormy sea. The monument is intricately designed to mirror two contrasting themes, with one side featuring elegant white marble and flowing forms symbolizing purity and light, while the other side is composed of dark obsidian with sharp, angular shapes representing chaos and shadow. The contrasting materials should seamlessly blend at the center, highlighting the theme of duality. 
+
+In the foreground, depict a reflective pool of water that captures the monument's duality, creating a perfect mirror image. Above, the sky transitions from a vibrant sunset with warm hues of orange and pink on the light side to a tumultuous storm cloud formation on the dark side, showcasing the balance between harmony and turmoil.
+
+The scene is illuminated by a soft, ethereal glow emanating from the monument itself, casting gentle light onto the surrounding landscape. The angle is slightly elevated, providing a sweeping view of the monument against the dramatic backdrop of the sea and sky. The overall atmosphere should evoke a sense of awe and contemplation, emphasizing the interplay between light and dark, and the complex nature of existence. 
+
+Art style: Hyper-realistic, with a focus on intricate details and rich colors, 4K resolution for enhanced clarity.
+Seed: 1859263160
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monument, Pearl

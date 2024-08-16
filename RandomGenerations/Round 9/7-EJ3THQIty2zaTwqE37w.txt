@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a close-up of a luminous pearl set against a backdrop of intricate patterns. The pearl should appear iridescent, capturing light with soft glimmers of color, reflecting hues of pink, blue, and gold. The patterns could be geometrical and floral designs, seamlessly blending with the pearl's surface, creating an interesting contrast between the natural beauty of the pearl and the complexities of the patterns. The background should have a subdued, deep blue or black tone to allow the pearl and patterns to stand out vibrantly. The lighting should be soft and diffused, enhancing the ethereal quality of the pearl while allowing the patterns to emerge subtly but distinctly. Utilize a high level of detail to create a stunning, artistic interpretation, emphasizing both elements in the composition.
+Seed: 2330996471
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pearl, Pattern

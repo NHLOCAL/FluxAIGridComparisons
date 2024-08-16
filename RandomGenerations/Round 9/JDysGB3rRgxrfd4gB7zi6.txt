@@ -1,0 +1,4 @@
+Prompt: Create a captivating illustration of a feminine figure representing duality, with one half embodying light and beauty, adorned in flowing, ethereal garments that cascade like water, shimmering with pastel hues. The other half contrasts sharply, featuring darker elements with jagged textures and deep, rich colors, such as deep purples and blacks. The figure stands gracefully in a dreamlike landscape, where soft clouds meet a starlit night sky, blending the two halves seamlessly at the center. Ethereal lighting creates a surreal ambiance, illuminating the radiant side while casting intriguing shadows on the darker half. The art style should be reminiscent of fantasy illustrations, with intricate details and a focus on the harmony between contrasting elements, creating a masterful visual experience that evokes the theme of duality in beauty and mastery.
+Seed: 591736673
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dream, Mastery

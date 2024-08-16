@@ -1,0 +1,8 @@
+Prompt: Create a visually striking image that embodies the concept of duality through a captivating scene of a split landscape. On one side, depict a serene underwater world with vibrant schools of fish swimming gracefully among colorful coral reefs, illuminated by soft, dappled sunlight filtering through the water. The fish should exhibit a variety of species and colors, enhancing the beauty of the aquatic environment. 
+
+On the other side, illustrate a contrasting rainy cityscape above water, with dynamic reflections of neon lights bouncing on the wet pavement. Raindrops should be captured mid-fall, creating ripples in shallow puddles. The sky is filled with dark clouds, adding to the dramatic effect of the scene. 
+
+In the center, blend these two worlds seamlessly, illustrating the physical boundary where water meets land, showcasing fish jumping out of the water as if defying gravity, while rain falls into the aquatic realm. The overall style should be hyper-realistic, with an emphasis on detail and color contrast, creating a visually complex and thought-provoking representation. The lighting should vary between the cheerful underwater sunlit hues and the moody, dramatic tones of the rain-soaked city above. Captured from an elevated angle, this image creates a sense of depth and immersion.
+Seed: 4245479269
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rain, Fish

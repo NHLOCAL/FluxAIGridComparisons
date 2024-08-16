@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a breathtaking sci-fi/fantasy landscape bathed in golden sunlight. The scene features rolling hills covered in bioluminescent flora that glows softly under the sun's warm rays. In the foreground, a crystalline lake reflects the vibrant colors of the sky, transitioning from deep blue to warm orange and pink hues as the sun sets on the horizon. Above, towering mountains with jagged, otherworldly peaks loom majestically, partially shrouded in thin, ethereal clouds. A few floating islands with lush greenery hover in the sky, softly illuminated by the sun. The lighting is dramatic and emphasizes the intricate details of the landscape, creating a sense of depth and wonder in this enchanting world, with an emphasis on volumetric light filtering through the mist. The overall composition invites the viewer to explore this surreal realm.
+Seed: 140823458
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sun, Volume

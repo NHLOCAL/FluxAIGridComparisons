@@ -1,0 +1,6 @@
+Prompt: A dramatic illustration depicting a futuristic dystopian cityscape where two distinct characters, representing love and betrayal, stand at opposite ends of a crumbling urban environment. The character symbolizing love is a woman adorned in a flowing, vibrant dress, her features illuminated by soft, warm lighting, surrounded by blooming neon flowers that contrast with the desolate concrete landscape. Meanwhile, the character embodying betrayal is a man clad in dark, tattered attire, his expression obscured by shadows, with cold, harsh lighting emphasizing the starkness of his features. 
+
+The background reveals tall, dilapidated skyscrapers covered in digital graffiti and flickering advertisements, with clouds of smog hovering above. The atmosphere is heavy with a mix of bright neon colors and muted gray tones, evoking a sense of tension and contrast. A broken heart symbol made of shattered glass hovers between the two figures, reflecting the fractured nature of their relationship. The scene captures the essence of duplicity in love, emphasizing the duality of their emotions through a visually striking, cinematic composition.
+Seed: 3707912478
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Artifact, Dystopia

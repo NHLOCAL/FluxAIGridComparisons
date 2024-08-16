@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a futuristic landscape, showcasing a massive, ancient tree with glowing blue leaves, towering over a sprawling cityscape beneath. The city is a blend of sleek, metallic skyscrapers and organic forms, intertwining nature with advanced technology. Hovering vehicles zip between the structures, leaving trails of light in their wake. The background features a vivid sky painted in vibrant shades of pink and purple, hinting at a sunset. Wisps of ethereal clouds drift lazily, adding a dreamlike quality to the scene. The lighting casts dramatic shadows, enhancing the textures of both the tree and the architecture. This stunning composition captures the essence of a harmonious coexistence between nature and futuristic civilization, inviting the viewer to explore this enchanting world.
+Seed: 1026170324
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gain, Difficulty

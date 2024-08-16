@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary tree standing on a hilltop during a dramatic sunset. The tree's twisted branches stretch out against the vibrant sky, which is ablaze with hues of orange, pink, and purple. Below, the rolling hills are bathed in a warm golden light, while dark shadows creep in from the edges, enhancing the contrast. The ground is dotted with patches of wildflowers, their delicate petals illuminated by the fading light. Wispy clouds drift across the horizon, catching the last glimmers of sunlight as they reflect vivid colors. The scene is captured at eye level, emphasizing the tree as an enduring symbol amidst the fleeting beauty of nature. The overall atmosphere combines elements of warmth and solitude, inviting contemplation and reflection.
+Seed: 2886621018
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heart, Photon

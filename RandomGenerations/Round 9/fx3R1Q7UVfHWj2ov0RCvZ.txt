@@ -1,0 +1,6 @@
+Prompt: Create an intriguing illustration that visually represents the concept of duality through two contrasting characters. On the left, depict a serene and calm figure surrounded by soft pastel colors and gentle flowing lines, symbolizing peace and harmony. This character wears white flowing garments, standing in a peaceful meadow filled with blooming flowers under a bright blue sky. On the right, contrast this with a fierce and chaotic figure shrouded in dark, jagged shapes and deep crimson tones, representing turmoil and intensity. This character wears black armor, standing atop a craggy mountain landscape with stormy clouds and flashes of lightning.
+
+In the center, where the two characters meet, introduce a flowing river with musical notes rising from it, symbolizing a song that resonates between the two opposites. The river should transition in color from soft pastels on the left to deep, dark hues on the right, visually reinforcing the theme of duality. The overall scene should be rendered in a dynamic art style that emphasizes the contrast between the two realms, using lighting to highlight the differences—soft and warm on the left, harsh and shadowy on the right.
+Seed: 3591683902
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Measure, Song

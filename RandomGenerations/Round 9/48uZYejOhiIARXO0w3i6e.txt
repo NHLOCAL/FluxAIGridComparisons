@@ -1,0 +1,4 @@
+Prompt: Create an illustration that visually represents the theme of duplicity in love through a split-faced character. The left side of the face should depict a fair, serene expression with gentle features, adorned with soft pastel colors and delicate floral elements in the background. The right side should exhibit a disgusted, twisted expression with harsh, jagged lines and darker, more muted colors, surrounded by thorny vines and stormy clouds. The character should be set against a contrasting background that transitions from light and airy on the left to dark and chaotic on the right. Use dramatic lighting to highlight the stark difference between the two expressions, emphasizing the tension between beauty and darkness in the realm of love. The overall artwork should combine elements of realism and surrealism, creating a striking visual narrative.
+Seed: 3622215277
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fair, Disgust

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary, old tree standing atop a windswept hill. The tree is gnarled and twisted, with its bark weathered and cracked, showcasing its long history. Surrounding the tree are rolling, golden fields that sway gently in the breeze, under a dramatic sky filled with dark storm clouds. Rays of sunlight pierce through the clouds, illuminating the tree and creating a striking contrast between light and shadow. The scene is captured from a low angle, emphasizing the tree's grandeur against the expansive landscape. The overall composition is rich in detail and texture, highlighting the beauty and resilience of nature, while evoking a sense of solitude and reflection. Photorealistic, high-resolution, vibrant colors, dramatic lighting.
+Seed: 3275136770
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Effect, Design

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split scene featuring two contrasting faces. On the left, a joyful person with a bright smile, showcasing vibrant colors and warm lighting. On the right, the same person with a frown, drenched in dark tones and shadowy lighting, highlighting deep lines and a somber expression. The background should blend seamlessly between a sunny outdoor setting on the left and a dark, rainy alleyway on the right, emphasizing the stark difference in mood. The photograph captures the duality of human expression, showcasing the potential for both happiness and sorrow within the same individual. Emphasize sharp details in facial features, including textures of skin and contrasting colors, enhancing the overall effect of duplicity.
+Seed: 4019276041
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Charming, Disgust

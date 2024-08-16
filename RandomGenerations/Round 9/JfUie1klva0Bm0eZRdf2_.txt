@@ -1,0 +1,6 @@
+Prompt: A surreal illustration depicting the concept of duplicity in love set in a vast tundra landscape. The image features two figures, one on each side of the composition, standing at an angle to emphasize asymmetry. Each figure showcases contrasting elements in their appearance: one adorned in bright, vibrant colors symbolizing joy, while the other is clothed in muted, somber tones representing sorrow or betrayal. 
+
+The background should be a striking tundra scene under an overcast sky, with gentle snowflakes falling and patches of frost-covered ground. A soft, diffused light enhances the atmosphere, casting long shadows and creating a sense of depth. The visual elements of the composition come together to evoke a narrative of love's contrasting emotions, while the tundra serves as a solitary and poignant backdrop, underscoring the theme of isolation amidst conflicting feelings.
+Seed: 1538036524
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Asymmetry, Tundra

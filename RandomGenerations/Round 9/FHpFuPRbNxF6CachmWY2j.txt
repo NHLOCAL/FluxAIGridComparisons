@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a surreal scene of an open book lying on a wooden table. The pages of the book are animated, morphing into a swirling mist that transforms into various faces, displaying contrasting expressions of joy and sorrow. Each face should be highly detailed, featuring ornate features and different skin tones, capturing the essence of duplicity. The background is softly blurred, hinting at a cozy, dimly lit room with bookshelves stacked with literature. A warm golden light emanates from a nearby lamp, casting gentle shadows and highlighting the intricate textures of the book and the faces formed from the mist, creating a sense of intrigue and depth. The overall composition should emphasize the theme of emotion and duplicity through tangible elements without relying on abstract concepts.
+Seed: 4183363103
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enlightenment, Fairy

@@ -1,0 +1,4 @@
+Prompt: Create a captivating sci-fi/fantasy landscape photograph featuring an expansive alien terrain under a vibrant, swirling aurora sky. The foreground should showcase towering, crystalline formations glimmering in various shades of blue and purple, resembling massive chandeliers of light. A winding river of luminescent liquid flows through the landscape, reflecting the colors of the aurora above. In the background, floating islands hover in the atmosphere, adorned with lush, bioluminescent vegetation. The lighting should be dramatic, with beams of light piercing through the clouds, creating a sense of openness and vastness in this otherworldly scene. The overall composition should evoke a sense of guidance through a beautiful, uncharted realm, inviting the viewer to explore its mysteries. High resolution, stunning detail, captivating colors.
+Seed: 3505421634
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Guidance, Openness

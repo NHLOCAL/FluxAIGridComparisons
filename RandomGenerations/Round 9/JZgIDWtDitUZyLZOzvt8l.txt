@@ -1,0 +1,4 @@
+Prompt: Create a captivating sci-fi fantasy landscape photograph featuring an otherworldly region. The scene should include towering, crystalline mountains that shimmer in various shades of blue and purple under a radiant, three-sun sky, casting vibrant reflections on a serene, turquoise lake below. Fluffy, surreal clouds float in the sky, adorned with glimmers of starlight. In the foreground, a futuristic product—a sleek, floating vehicle designed for exploration—hovers gracefully above the water, showcasing its aerodynamic design and luminous accents. The overall composition highlights the harmonious blend of nature and advanced technology, inviting a sense of wonder and adventure in this enchanting landscape. The atmosphere should be illuminated with ethereal ambient lighting that enhances the magical quality of the scene.
+Seed: 4023241379
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Region, Product

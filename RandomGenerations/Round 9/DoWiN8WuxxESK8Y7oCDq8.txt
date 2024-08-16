@@ -1,0 +1,4 @@
+Prompt: A striking photograph capturing a half-shattered mirror reflecting a solitary flower, such as a vibrant red rose, sprouting from cracked concrete. The flower is in sharp focus, displaying intricate details of its petals and droplets of water, contrasting with the rough, muted texture of the concrete. The other half of the mirror reflects an empty, desolate urban landscape with faded buildings and distressed colors, creating a sense of abandonment. Soft, diffused natural light casts gentle shadows, adding depth to the scene. The composition evokes a sense of duality, highlighting the contrast between beauty and decay, hope and desolation.
+Seed: 3094402041
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enthusiasm, Soul

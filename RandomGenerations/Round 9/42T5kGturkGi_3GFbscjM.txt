@@ -1,0 +1,8 @@
+Prompt: Create an intricate portrait of a feminine figure split down the center, embodying the concept of duality. One side showcases a serene, graceful goddess adorned in flowing, luminescent robes, her hair cascading elegantly, with soft, warm lighting illuminating her features. The background features a tranquil garden filled with blooming flowers and soft pastel colors, creating a peaceful atmosphere. 
+
+On the opposite side, depict a fierce warrior with a determined expression, clad in dark, glimmering armor contrasted by intense, dramatic lighting that casts sharp shadows on her face. This side is set against a stormy backdrop with lightning illuminating distant mountains, conveying tension and strength. 
+
+The transition between the two halves of the figure should be seamless, with elements of both beauty and power blending at the center. Emphasize the juxtaposition of the soft, nurturing qualities with the strong, resilient aspects of femininity, in a hyper-detailed, high-resolution illustration.
+Seed: 416933996
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tension, Achievement

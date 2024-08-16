@@ -1,0 +1,4 @@
+Prompt: Create a photo of a weathered wooden bench overlooking a tranquil lake at sunset. The scene should capture the warm hues of the setting sun reflecting off the water, casting a golden glow onto the surface. In the background, lush green trees frame the lake, their silhouettes contrasting against the vibrant sky filled with shades of orange, pink, and purple. Soft ripples on the water's surface ripple gently as a few scattered clouds drift by. The bench, with its worn-out texture and a few scattered autumn leaves resting on it, invites the viewer to ponder the passing of time. A slight mist rises from the water, adding depth to the serene atmosphere. The overall composition should evoke a sense of nostalgia, peace, and connection with nature, encouraging contemplation and reflection.
+Seed: 201784897
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Beloved, Dazzling

@@ -1,0 +1,4 @@
+Prompt: A highly detailed close-up photograph of a single, dew-covered rose petal lying on a cracked, aged wooden surface. The petal should be a vibrant red, contrasting sharply with the muted browns and grays of the wood beneath it. Soft, diffused natural light filters in from one side, creating gentle highlights and soft shadows that accentuate the delicate texture of the petal and droplets. The background should be softly blurred, focusing solely on the rose petal, evoking a sense of fragility and transience in a serene and contemplative setting. Photorealistic style, emphasizing intricate details and color saturation.
+Seed: 1251384864
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Influence, Zone

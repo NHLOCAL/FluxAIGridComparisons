@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a cracked mirror reflecting a serene landscape on one half and a stormy, chaotic scene on the other. The tranquil side showcases a calm lake surrounded by blooming cherry blossom trees under a clear blue sky, while the chaotic side features dark, swirling clouds, lightning strikes, and turbulent waves crashing against a rocky shore. The mirror's edges are jagged and rough, creating a stark contrast between the softened reflection of beauty and the harsh reality of turmoil. The lighting is dramatic, illuminating the serene side softly and casting menacing shadows on the stormy side, emphasizing the duality of the scene. The ground below the mirror is scattered with fallen petals, hinting at the transient nature of peace in the face of chaos.
+Seed: 853759849
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pleasure, Aesthetic

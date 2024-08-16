@@ -1,0 +1,6 @@
+Prompt: Create an image of a feminine figure embodying beauty and duality, positioned elegantly in a cozy pub setting. The character should have symmetric features and flowing hair that transitions from light to dark hues, representing the duality concept. One half of her attire should be adorned with delicate floral patterns in vibrant colors, while the other half features a more muted, shadowy design, emphasizing a sense of contrast. 
+
+The pub background should be warmly lit with soft amber tones, showcasing rustic wooden beams and an inviting bar filled with vintage bottles. A classic dartboard and a couple of pints on a mahogany table add to the pub's ambiance. The angle should be slightly low and wide, capturing both the character and the rich textures of the surroundings. Cinematic lighting should highlight her features, creating an ethereal glow that draws attention to the theme of duality. The overall feel should combine warmth with a hint of mystery, reflecting the intriguing balance of beauty within the feminine form.
+Seed: 594493318
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pointer, Pub

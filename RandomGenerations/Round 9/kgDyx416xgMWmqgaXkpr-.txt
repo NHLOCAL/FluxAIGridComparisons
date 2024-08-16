@@ -1,0 +1,4 @@
+Prompt: A close-up photograph of a porcelain doll lying on a dusty, abandoned wooden floor. The doll has a cracked face with one eye half-closed, giving it a haunting expression. Its frayed dress is a faded pastel color, hinting at once being vibrant and loved. Surrounding the doll are scattered dried flowers, petals curling and discolored, further emphasizing the passage of time and forgotten memories. The lighting is dim and atmospheric, casting long shadows that create a sense of unease. The background is slightly blurred, focusing attention on the doll while suggesting remnants of a once-lively room now steeped in silence, evoking themes of nostalgia and loss.
+Seed: 43294245
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fear, Club

@@ -1,0 +1,4 @@
+Prompt: Create a stunning photograph that blends sci-fi and fantasy elements in a vibrant landscape featuring a futuristic zoo named "Norm." The scene should depict exotic, bioluminescent creatures in large, transparent enclosures surrounded by lush, alien vegetation that glows in various colors. Towering spires made of glass and steel reflect the radiant environment, with visitors interacting with holographic displays of the exotic animals. The sky should showcase a captivating sunset with swirling hues of purple, pink, and orange, casting a warm light on the scene. Include intricate details like floating lanterns and futuristic pathways that lead to different sections of the zoo. The overall atmosphere should be lively and enchanting, inviting the viewer into this imaginative world.
+Seed: 3241158225
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Norm, Zoo

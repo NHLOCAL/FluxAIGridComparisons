@@ -1,0 +1,4 @@
+Prompt: Create an image that showcases the duality of a vampire character, embodying both elegance and menace. The vampire should be depicted in a lavish Victorian setting, lavishly decorated with rich red and black drapery. Half of the vampire's face is illuminated by a soft, warm light, revealing sharp features and an alluring smirk, while the other half is shrouded in shadows, emphasizing their sinister nature. In one hand, they delicately hold an intricately designed goblet filled with dark red liquid, symbolizing passion and temptation. The background features gothic architecture with ornate chandeliers casting flickering candlelight, creating an atmospheric contrast of light and dark. The overall color palette should be deep and dramatic, with rich textures that enhance the sense of intrigue and duality in the scene.
+Seed: 423432983
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vampire, Passion

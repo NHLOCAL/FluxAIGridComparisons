@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that intricately blends the silhouette of a majestic horse with the texture of a sprawling forest. The horse's form should be gracefully detailed, with its mane gently flowing, merging seamlessly into the leaves and branches of the forest. The background should be a soft, blurred green hue to evoke a sense of nature. Sunlight filters through the trees, casting ethereal rays that illuminate parts of the horse's body, enhancing the connection between the animal and its natural habitat. The overall composition should create a tranquil yet powerful feel, embodying the unity between form and nature, with a high level of detail and clarity.
+Seed: 1901491534
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Form, Animal

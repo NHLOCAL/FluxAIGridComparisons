@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary, fully bloomed cherry blossom tree standing in the middle of a vast, empty field under a dramatic sunset. The sky is painted in vibrant shades of orange, pink, and purple, creating a breathtaking backdrop. Soft, warm light bathes the tree and the surrounding grass, accentuating the delicate petals that are gently falling in the breeze. A wooden bench sits beneath the tree, slightly weathered but inviting, as if inviting contemplation. The field is dotted with hints of green, while distant mountains provide a serene horizon. Emphasis on sharp detail, soft lighting, and a tranquil atmosphere that highlights the fleeting beauty of nature, encouraging a sense of reflection.
+Seed: 2841698114
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sunset, Probability

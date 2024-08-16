@@ -1,0 +1,4 @@
+Prompt: Create a double exposure illustration featuring a heartthrob character blending seamlessly with a simple, serene landscape. The character should be depicted with defined facial features and an expressive gaze, surrounded by a soft, ethereal glow. The second layer of the illustration reveals a tranquil meadow filled with delicate wildflowers swaying gently in a breeze, under a pastel-colored sunset. The sky should have a gradient of warm oranges and soft pinks, reflecting on the character's outlined figure. The overall composition should emphasize harmony and simplicity, capturing the essence of love and nature in a visually striking way. The art style should be a blend of realism and impressionism, enhancing the emotional connection between the character and the landscape. Lighting should be soft and diffuse, creating a dreamlike quality to the scene.
+Seed: 674890562
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heartthrob, Simplicity

@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a person standing in front of a large, ornate mirror in a dimly lit room. The person, a young adult with medium-length hair, gazes intently into the mirror, where their reflection reveals a more abstract, surreal version of themselves with ethereal features, like glowing eyes and softly shimmering skin. The mirror’s frame is intricately carved and aged, with elegant details. The background is slightly blurred, showing shadows of an enigmatic and mystical landscape outside the window, illuminated by ethereal light streaks. The lighting is soft and dramatic, creating a focus on the mirrored image and enhancing the dreamlike atmosphere of self-discovery. The overall scene should convey a sense of introspection and transformation, emphasizing the contrast between the physical and inner self.
+Seed: 3974671101
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Taiga, Excellence

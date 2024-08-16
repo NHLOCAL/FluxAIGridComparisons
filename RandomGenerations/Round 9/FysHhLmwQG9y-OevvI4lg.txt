@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of an old, weathered tree standing alone in a vast, open field. The tree's gnarled branches stretch out towards a dramatic sky filled with dark storm clouds, while rays of sunlight break through, illuminating the surrounding area. The ground is slightly cracked and parched, with patches of vibrant green grass stubbornly sprouting around the tree's roots. The background should feature distant hills fading into the horizon, emphasizing the tree's isolation. The overall composition highlights the struggle between light and darkness, creating a contrast that draws the viewer's attention to the resilience of life amidst adversity. The lighting should be dramatic, with a warm glow around the tree, enhancing its presence in the somber setting. Hyper-detailed, atmospheric, and cinematic quality, capturing the essence of endurance in nature.
+Seed: 583710691
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Naked, Symbol

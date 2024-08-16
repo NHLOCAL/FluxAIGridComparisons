@@ -1,0 +1,4 @@
+Prompt: A hyperrealistic photograph of an abandoned playground overtaken by nature. The rusted swings and slide are entwined with lush green vines and colorful wildflowers. The ground is covered with a thick layer of fallen leaves, suggesting the passage of time. The sky is overcast, casting a soft, diffused light across the scene, enhancing the feeling of nostalgia. In the background, remnants of old wooden benches can be seen, some covered in moss. A faint mist gently envelops the area, adding to the eeriness and beauty of the abandoned space. The overall composition emphasizes the contrast between the once vibrant playground and its now forgotten state, capturing the essence of loss and the relentless passage of time.
+Seed: 513864725
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Druid, Lie

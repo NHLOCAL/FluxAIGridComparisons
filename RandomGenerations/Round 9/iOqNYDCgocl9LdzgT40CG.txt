@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a young child sitting alone on a park bench in the rain. The child has a small, colorful umbrella that is barely shielding them from the downpour. Their clothes are slightly soaked, and they have a somber expression on their face as they gaze down at a puddle at their feet. Raindrops can be seen splashing into the puddle, creating ripples that distort their reflection. The background features blurred shapes of trees and a path, drenched in gray tones, enhancing the feeling of loneliness. Soft, diffused lighting adds to the dreary atmosphere, resulting in a poignant moment captured in time. The overall composition focuses on the child, inviting the viewer to reflect on the themes of solitude and melancholy in the midst of a vibrant, busy world.
+Seed: 3702532128
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Technique, Lagoon

@@ -1,0 +1,4 @@
+Prompt: Create an image of an abandoned, dilapidated old house standing alone in a misty forest. The house should have peeling paint, broken windows, and a sagging roof, conveying a sense of neglect and decay. In the foreground, place a vibrant, blooming rose bush, its vivid red flowers contrasting sharply with the faded colors of the house. The background should be shrouded in a thick fog, adding an element of mystery and eeriness to the scene. Soft, diffused lighting filters through the trees, casting gentle shadows and enhancing the atmosphere. The overall composition should capture the juxtaposition of beauty and decay, inviting the viewer to contemplate the stories hidden within the abandoned structure. Photographic style, realistic detail, 4k resolution.
+Seed: 2334025845
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Expedition, Work

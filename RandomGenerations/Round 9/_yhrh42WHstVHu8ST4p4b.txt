@@ -1,0 +1,4 @@
+Prompt: Capture a photo of an abandoned, overgrown house at twilight. The structure is weathered with peeling paint and broken windows, surrounded by dense vegetation and wildflowers reclaiming the space. A single, flickering lantern hangs by the porch, casting a faint golden glow that contrasts with the deepening blue and purple hues of the twilight sky. Shadows stretch across the ground, accentuating the eerie stillness of the scene. The image should have a slight mist hovering over the landscape, enhancing the sense of nostalgia and mystery. The composition should be slightly angled to provide depth, drawing the viewer into this hauntingly beautiful moment.
+Seed: 1034668661
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Loyalty, Ocean

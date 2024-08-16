@@ -1,0 +1,4 @@
+Prompt: A surreal, hyper-realistic photograph depicting a person standing in front of an ornate, antique mirror. The room is dimly lit, with soft, warm ambient lighting creating a gentle glow around the mirror. The person, a young adult with a neutral expression, gazes intently into the mirror's reflection. Their reflection presents an alternate version of themselves—vibrantly colored and ethereal, with flowing light that seems to emanate from within. The background features intricate wallpaper with subtle patterns that hint at a vintage aesthetic. Soft shadows dance across the scene, adding depth and a mysterious atmosphere. The photograph captures the moment of introspection and self-discovery, emphasizing the contrast between the physical form and the vibrant inner self in the reflection.
+Seed: 1785105872
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Option, Heartthrob

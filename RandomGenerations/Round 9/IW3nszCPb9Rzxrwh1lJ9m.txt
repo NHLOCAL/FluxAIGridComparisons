@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly person sitting alone on a weathered park bench under a large, gnarled oak tree. The person has deep lines etched in their face, and their hands are clasped in their lap, with visible age spots. Around them, vibrant autumn leaves are scattered on the ground, their rich reds and golds contrasting with the muted gray sky overhead. The light is soft and diffused, casting gentle shadows on the scene. In the background, a blurred silhouette of children playing can be seen, adding depth to the composition. The overall atmosphere feels nostalgic and contemplative, highlighting the passage of time.
+Seed: 2897366676
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Contribution, Way

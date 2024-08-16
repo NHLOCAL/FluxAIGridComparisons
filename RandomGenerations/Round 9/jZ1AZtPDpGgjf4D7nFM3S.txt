@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that seamlessly blends two distinct elements. The first layer features a towering mountain range, majestic peaks illuminated by the warm glow of a setting sun. The second layer depicts an intricate city skyline at night, with vibrant lights twinkling against a deep blue sky. The contrast between the natural beauty of the mountains and the dynamic energy of the city creates a captivating visual harmony. The overall color palette should combine earthy tones from the mountains and bright neon colors from the city lights. The composition should evoke a sense of adventure and exploration, showcasing the epic scale of nature alongside the intricate details of urban life. Consider a high-angle view that captures both elements cohesively, emphasizing the artistry of double exposure photography.
+Seed: 4254129091
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tip, Epic

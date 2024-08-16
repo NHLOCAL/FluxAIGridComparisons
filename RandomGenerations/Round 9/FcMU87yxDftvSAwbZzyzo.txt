@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that blends the silhouette of a person standing at the edge of a cliff with a sprawling cityscape and a distant galaxy. The figure should be facing towards the horizon, symbolizing a sense of ambition and challenge. The cityscape should feature towering skyscrapers with illuminated windows, suggesting a vibrant urban life. The galaxy should encompass stars, nebulae, and swirling cosmic colors, creating a contrast between the grounded reality of the city and the boundless possibilities of space. The overall lighting should be a mix of warm city lights and cooler cosmic blues and purples, enhancing the dreamlike quality of the double exposure. The composition should seamlessly integrate both elements, symbolizing the intersection of real-world challenges and imaginative fiction. Cinematic style, high detail, and vibrant colors.
+Seed: 2202283858
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Challenge, Fiction

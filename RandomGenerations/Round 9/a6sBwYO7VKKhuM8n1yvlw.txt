@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a park bench during autumn. His wrinkled face is framed by wispy gray hair, and he wears a worn, faded sweater. The setting sun casts golden light through the colorful leaves, creating a warm yet melancholic atmosphere. Fallen leaves in vibrant reds, oranges, and yellows surround the bench, while the background hints at distant, softly blurred families enjoying the day. The man gazes off into the distance, with his hands clasped, capturing a moment of quiet reflection amidst the lively park scenery. High detail, warm lighting, and an emphasis on texture in the man's skin and the leaves create a poignant and inviting scene that invites contemplation.
+Seed: 1974680230
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nostalgia, Pond

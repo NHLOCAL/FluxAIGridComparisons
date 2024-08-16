@@ -1,0 +1,6 @@
+Prompt: Create an image of a feminine figure personifying beauty, split into two contrasting halves. One side should exemplify a serene and ethereal aesthetic with soft pastel colors, flowing hair, and delicate floral accents, adorned with a gentle smile. The other half should represent a more assertive and dynamic persona, featuring bold colors, sharp angles, and captivating makeup, with piercing eyes and a confident stance. 
+
+The setting is a modern pharmacy, beautifully illuminated with warm, inviting lighting that enhances both sides of the figure. Shelves lined with various health products provide a detailed backdrop, symbolizing the theme of duality in wellness. The foreground features whimsical elements such as floating heart-shaped pills and vibrant flowers that represent the concept of wooing. The angle should be slightly angled to emphasize the split persona, highlighting the harmony and contrast between the two halves. The overall composition should blend realism with a touch of surrealism, creating a captivating visual narrative around beauty and duality.
+Seed: 1808923261
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pharmacy, Wooing

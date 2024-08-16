@@ -1,0 +1,8 @@
+Prompt: Create a detailed illustration depicting the concept of duality through a fantastical landscape split into two contrasting halves. On the left side, portray a dark and foreboding environment filled with shadowy figures, gnarled trees, and a stormy sky. The lighting should be dim with deep blues and blacks, creating an atmosphere of fear. Features like twisted branches reaching out and ominous silhouettes lurking add to the tension.
+
+On the right side, depict a vibrant and wondrous landscape bathed in bright sunlight and filled with colorful flowers, lush greenery, and clear blue skies. The lighting should be warm and inviting, with golden sunlight cascading through the trees. Elements like joyful creatures frolicking and gentle streams flowing should evoke a sense of wonder and serenity.
+
+The central dividing line should be seamless, blending the two worlds while emphasizing their stark contrasts. Use a dynamic perspective to draw the viewer's eye towards the center, showcasing how fear and wonder coexist in a fantastical setting. The entire scene should be rich in detail, with a focus on color contrast and texture.
+Seed: 2975704773
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fear, Wonder

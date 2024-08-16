@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph capturing a dual-sided human face, split down the middle. One half features a joyful expression with bright, vibrant colors, while the other half displays a sorrowful, somber look in muted, dark tones. The joyful side is adorned with a backdrop of a sunny day in a lively park, filled with blooming flowers and laughter; the somber side contrasts sharply with an overcast sky, a desolate urban landscape featuring crumbling buildings and barren trees. The lighting should be dramatic, spotlighting the juxtaposition between the two emotions, creating a sense of tension and dichotomy. Sharp focus on the details of the face, with each side conveying a distinct narrative, invites the viewer to contemplate the complexities of human emotions and experiences.
+Seed: 3546860943
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Evolution, Asymmetry

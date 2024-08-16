@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution photograph of a solitary tree standing on a barren hillside during a dramatic sunset. The sky is filled with vibrant hues of orange, pink, and purple, casting warm light across the landscape. The tree, gnarled and twisted, has a textured bark that catches the light, emphasizing its resilience against the harsh environment. In the foreground, faded wildflowers are wilting, their colors muted in contrast to the radiant sky. A gentle breeze stirs, causing subtle movement in the grass. The overall composition highlights the contrast between the beauty of nature and the stark, desolate landscape, creating an evocative scene that invites contemplation. The lighting is soft and warm, enhancing the poignant atmosphere of the moment. Photorealistic style, highly detailed, and cinematic quality.
+Seed: 1206014298
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bonding, Millennium

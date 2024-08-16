@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a park bench, surrounded by autumn leaves in muted shades of orange, brown, and gold. The man has a weathered face with deep wrinkles, wearing a soft, faded sweater, and looking pensively at a distant point. The background features a serene park setting with tall trees and a soft-focus effect, allowing the colorful leaves to be the main focal point. Gentle, golden hour lighting casts long shadows and adds warmth to the scene, highlighting the man's features and the textures of the leaves. The atmosphere is peaceful yet reflective, inviting the viewer to contemplate the passage of time.
+Seed: 2006207825
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Advice, Secret

@@ -1,0 +1,8 @@
+Prompt: Create a visually striking image of a feminine figure representing duality, embodying both light and shadow. The figure stands gracefully at the center, adorned with a flowing gown that seamlessly transitions from bright, iridescent colors on one side to deep, muted tones on the other. Her hair flows like liquid gold on the light side, while the darker side features cascading locks in rich ebony. 
+
+In her hands, she holds two ornate compasses, one glowing with a warm, inviting light, the other shrouded in darkness. The background should feature a dramatic contrast, showcasing a split environment: one half bathed in soft, serene daylight with blooming flowers and gentle greenery, and the other half enveloped in deep twilight, with twisted silhouettes of trees and a shimmering starry sky.
+
+The lighting should accentuate the fine details of her features, capturing a sense of elegance and strength. The overall composition should evoke a feeling of balance and harmony between opposing forces, celebrating the complexity of feminine beauty and understanding. The style should be hyper-realistic with intricate details, emphasizing elegance and depth.
+Seed: 674628778
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Understanding, Direction

@@ -1,0 +1,8 @@
+Prompt: Create an illustration that embodies the concept of duality through a striking visual representation. The scene is split down the middle, with one half depicting a serene, sunlit landscape featuring gentle rolling hills, bright flowers, and a tranquil river. In contrast, the other half reveals a dark, stormy environment filled with jagged cliffs, ominous clouds, and fierce lightning strikes. 
+
+At the center, a large hourglass stands upright, with sand flowing from the sunny side to the stormy side, symbolizing the passage of time and the constant interplay between light and dark elements. The character on the sunny side is a joyful figure dressed in bright colors, while the figure on the dark side is cloaked in dark, muted tones, with their face partially obscured. Both figures extend their arms towards the hourglass, creating a dynamic visual link between the two contrasting realms.
+
+The overall color scheme enhances the duality, with warm golds and vibrant greens on the sunny side, while icy blues and deep purples dominate the stormy side. A soft, ethereal light bathes the hourglass, showcasing intricate designs etched into its glass surface, capturing the essence of mystery. The atmosphere should evoke a sense of intrigue, prompting viewers to ponder the balance and relationship between these two opposing forces. Highly detailed, cinematic illustration style.
+Seed: 4085780701
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mystery, Quantity

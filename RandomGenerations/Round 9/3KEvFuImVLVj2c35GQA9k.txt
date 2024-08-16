@@ -1,0 +1,6 @@
+Prompt: A striking visual representation of "duplicity in love" portrayed through an intricately designed sculpture. The sculpture features two intertwined figures, each crafted from different materials - one side sculpted in glossy, polished marble symbolizing purity and beauty, while the other side is made of rough, textured metal representing struggle and conflict. The figures are positioned in a dynamic, flowing pose that captures the tension and harmony of a loving relationship. 
+
+The background is a soft, ethereal gradient that transitions from warm pinks to cool blues, enhancing the sense of duality. Delicate, swirling patterns of mist or fragrance can be seen emanating from the base of the sculpture, swirling upward in a cloud of soft colors, evoking the essence of love and aroma. This exquisite piece is illuminated with gentle, ambient lighting that creates subtle highlights on the figures and casts soft shadows, enhancing the depth and complexity of the artwork. The entire composition merges elements of fine art and sensory experience, creating a captivating and thought-provoking scene.
+Seed: 1090861191
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fragrance, Sculpture

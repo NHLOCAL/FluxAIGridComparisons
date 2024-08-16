@@ -1,0 +1,4 @@
+Prompt: An intricately detailed photograph capturing the juxtaposition of an aged, weathered face with a youthful reflection in a cracked mirror. The elderly person's features are etched with deep lines, portraying a lifetime of experiences and wisdom. The young reflection within the mirror showcases a vibrant, youthful visage filled with vigor and potential. The background is softly blurred, with warm, muted tones that enhance the contrast between the two faces. Subtle light filters through dusty window panes, casting gentle shadows and highlighting the duality of age and youth. The image is rich in texture, showcasing the imperfections of the mirror while emphasizing the inherent beauty in both stages of life. Photorealistic, highly detailed, atmospheric, and thought-provoking.
+Seed: 1944954056
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Plateau, Politics

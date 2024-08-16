@@ -1,0 +1,8 @@
+Prompt: Create an image that explores the theme of duality set against a vast galaxy backdrop. The scene should feature two celestial beings, one radiant and light-filled, the other dark and shadowy, representing balance and contrast. The radiant being should emit vibrant, swirling colors of blues, pinks, and golds, while the dark being is composed of deep purples, blacks, and hints of silver. 
+
+Both beings should be positioned dynamically, as if they are in a dance or a cosmic struggle, surrounded by twinkling stars, swirling nebulae, and distant planets that emphasize their contrasting natures. The galaxy should appear expansive and ethereal, with a shimmering starfield creating a sense of depth. 
+
+The art style should be digital fantasy illustration, with a focus on high detail and vivid color saturation. The lighting should be dramatic, highlighting the differences between the beings and creating a captivating celestial ambiance. The angle should be wide, capturing the grandeur of the galaxy and the intricate details of the duality theme.
+Seed: 1566215816
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Experience, Galaxy

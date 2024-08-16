@@ -1,0 +1,4 @@
+Prompt: Please provide specific details about the subject, background, style, lighting, and any other elements you would like to include in the image generation prompt. This will help create a tailored and detailed prompt for Flux AI.
+Seed: 2040396406
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Picture, Fire

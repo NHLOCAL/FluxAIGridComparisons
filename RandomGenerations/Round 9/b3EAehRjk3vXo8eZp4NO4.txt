@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution photograph of a surreal sci-fi landscape that juxtaposes elements that evoke both delight and fear. The scene features a vibrant, alien forest with luminescent flora, glowing in shades of teal and purple. Towering trees with twisted branches reach up to a swirling sky filled with ominous clouds, intermittently lit by bright flashes of lightning. In the foreground, a serene, reflective pond mirrors the colorful vegetation, creating a sense of tranquility amidst the surrounding chaos. A shadowy figure can be seen partially obscured by the mist, instilling a sense of tension and unease. The overall composition should balance vibrant colors with dark undertones, capturing the enchanting yet foreboding mood of this otherworldly environment.
+Seed: 3961611168
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Delight, Fear

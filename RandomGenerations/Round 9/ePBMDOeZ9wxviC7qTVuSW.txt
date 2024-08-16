@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph capturing a lush, fantastical landscape inhabited by a small, curious goblin. The goblin, with vibrant green skin and large, expressive eyes, stands at the forefront of the image, surrounded by whimsical oversized mushrooms and flowering plants with luminescent petals. The background showcases a sprawling alien horizon with towering, iridescent mountains and a sky filled with swirling pink and purple clouds. Soft, ethereal light filters through the mist, creating a magical ambiance that highlights the goblin's features and the vivid colors of the surrounding flora. The scene conveys a sense of adventure and wonder, inviting the viewer to explore this enchanting world. High-resolution, vibrant colors, cinematic lighting.
+Seed: 1362479023
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Goblin, Light

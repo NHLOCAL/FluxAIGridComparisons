@@ -1,0 +1,4 @@
+Prompt: Create a vibrant and lively scene set in a bustling Havana street at night. The foreground includes colorful vintage cars from the 1950s parked along the cobblestone road, with palm trees swaying in the warm breeze. Couples dance salsa on the street, dressed in bright, tropical attire, while musicians play lively rhythms on traditional instruments. The backdrop features stunning colonial architecture illuminated by warm, inviting street lamps, and the sky is filled with deep navy blues and hints of purple as the stars begin to twinkle. The overall atmosphere is festive and energetic, capturing the essence of a lively Havana night, with a vivid color palette accentuating the joyful ambiance. Style of traditional Latin American art, rich in detail, with an emphasis on cultural vibrancy and warmth.
+Seed: 332704453
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mill, Cloning

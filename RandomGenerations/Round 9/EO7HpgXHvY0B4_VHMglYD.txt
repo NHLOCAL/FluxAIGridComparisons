@@ -1,0 +1,4 @@
+Prompt: Create an image of an abandoned, overgrown house standing in a dense forest at twilight. The house should have broken windows, a sagging roof, and vines creeping up its walls, suggesting years of neglect. In the foreground, include a rusted swing set, swaying slightly in the gentle breeze, with a few scattered leaves around it. The lighting should be dim and moody, with soft, diffused light filtering through the trees, casting long shadows on the ground. The atmosphere should feel eerie yet tranquil, drawing the viewer into a sense of nostalgia and quiet reflection. The sky above should exhibit deep purples and blues, hinting at the onset of night.
+Seed: 3893433632
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Surprise, Tomorrow

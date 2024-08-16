@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining the majestic features of a Chimera with a refined, elegant background. The Chimera should prominently showcase its lion's head, goat's body, and serpent's tail in a harmonious blend, with intricate detailing emphasizing its mythical nature. The background should depict an ethereal landscape of soft, flowing clouds and subtle golden light, creating a serene and dreamlike atmosphere. The image should merge seamlessly, allowing the Chimera to appear both fierce and graceful, with the lighting casting gentle shadows that highlight its powerful form. The overall color palette should feature soft pastels and muted golds, enhancing the refined quality of the composition while ensuring the mythical creature remains the focal point. Ultra-high definition, elegant, surreal, masterpiece.
+Seed: 2090082726
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chimera, Refined

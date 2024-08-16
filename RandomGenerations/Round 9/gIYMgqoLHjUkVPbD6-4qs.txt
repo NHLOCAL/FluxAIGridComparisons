@@ -1,0 +1,4 @@
+Prompt: A poignant photograph featuring a split-image composition showcasing a beautiful, serene landscape on one side and a chaotic, stormy scene on the other. The tranquil half depicts an idyllic beach at sunrise, with calm waters reflecting pastel colors and gentle waves lapping at the shore. In contrast, the dark side captures a furious ocean during a tempest, with towering waves crashing violently against jagged rocks under a sky filled with dark, ominous clouds. The image highlights the stark contrast between peace and turmoil, using vibrant colors on the tranquil side and muted, dramatic tones on the stormy side. The horizon seamlessly blends the two worlds, creating an engaging visual narrative that invites contemplation on the duality of nature and existence. High resolution, sharp focus, cinematic lighting that enhances the emotional impact of both sides.
+Seed: 3318295816
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vigor, Smoke

@@ -1,0 +1,4 @@
+Prompt: Create a breathtaking photograph of a serene sci-fi/fantasy landscape. The scene features a vast, ethereal valley bathed in soft, golden light from a double sunset, casting elongated shadows across the terrain. In the foreground, a delicate, angelic figure with translucent wings gently hovers above a crystal-clear lake that reflects the vibrant colors of the sky. Surrounding the lake are lush, luminescent flowers and towering alien trees with shimmering leaves. In the background, majestic mountains rise dramatically, shrouded in mist and adorned with glowing crystals. The atmosphere is tranquil and otherworldly, with faint sparkling particles floating in the air, enhancing the fantastical quality of the scene. The overall composition is designed to evoke a sense of peace and wonder, blending elements of sci-fi and fantasy art styles.
+Seed: 1560444931
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Serenity, Angel

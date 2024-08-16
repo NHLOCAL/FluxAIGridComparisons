@@ -1,0 +1,8 @@
+Prompt: A striking high-contrast photograph of a split-faced human figure. One side of the face displays a serene, peaceful expression, with soft, warm lighting illuminating delicate features and a gentle smile. The skin appears flawless, reflecting a sense of calmness. The other side features a stark, shadowed expression, with deep furrows across the brow and haunting, hollow eyes that create an unsettling tension. This side is engulfed in harsh, cool lighting that emphasizes the starkness of the features and the dark shadows. 
+
+The background transitions from a soft pastel gradient on the peaceful side to a dark, chaotic swirl of monochrome tones on the shadowed side. Subtle elements like a small flower on the serene side contrast with thorny vines creeping in from the dark side, enhancing the theme of duplicity. The photograph captures the juxtaposition between tranquility and turmoil, inviting the viewer to contemplate the complexities of human emotion and experience. 
+
+Style: Hyper-realistic, High Dynamic Range (HDR), ultra-high detail, capturing intricate textures, expressions, and lighting contrasts.
+Seed: 708576568
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gem, Wonder

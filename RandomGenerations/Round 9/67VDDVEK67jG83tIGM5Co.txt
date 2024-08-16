@@ -1,0 +1,4 @@
+Prompt: Create an image of a majestic, ethereal bird with iridescent feathers reflecting a spectrum of vivid colors. The bird is perched gracefully on a blossoming branch adorned with vibrant flowers. Its elongated feathers flow elegantly, creating a sense of movement. The background features a soft, dreamy sky at dawn, with wispy clouds gently illuminated by the first light of the day. Delicate rays of sunlight filter through the branches, casting a warm golden glow over the scene. The composition should be highly detailed, blending elements of realism and fantasy, evoking a sense of wonder and enchantment. The overall atmosphere should feel lush and inviting, celebrating the beauty of nature and the allure of the mystical.
+Seed: 1310636536
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ability, Bird

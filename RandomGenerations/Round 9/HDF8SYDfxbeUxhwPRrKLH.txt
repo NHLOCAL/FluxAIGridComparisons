@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of a rugged old man sitting alone on a wooden bench in a desolate park. His weathered face is lined with deep wrinkles, and his gray hair blows gently in the breeze. He is wearing a faded, unbuttoned coat and holding a weathered guitar in his lap. Around him, autumn leaves fall softly, creating a vibrant carpet of reds, oranges, and yellows on the ground. The sky overhead is filled with dramatic gray clouds, threatening rain. The lighting is soft, with rays of light breaking through the clouds, illuminating his face but leaving the background in shadow. The scene is composed to capture the solitude of the moment, emphasizing the contrast between the man's intricate details and the muted surroundings, inviting the viewer to reflect on the passage of time and solitude.
+Seed: 2296000375
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vision, Return

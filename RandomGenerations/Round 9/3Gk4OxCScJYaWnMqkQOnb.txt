@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a serene landscape featuring a mirror-like lake reflecting a breathtaking sunset. On one side of the lake, vibrant colors of orange, pink, and purple fill the sky, creating a tranquil and idyllic scene. On the opposite side, the landscape transforms into stormy darkness, with ominous gray clouds and sharp flashes of lightning illuminating the scene. In the foreground, a solitary tree stands, half adorned with blooming flowers and half with dead branches, symbolizing the duality of nature. The lighting should dramatically highlight the contrast between warmth and turmoil, inviting contemplation on the coexistence of beauty and chaos in the natural world. Ultra-high resolution, cinematic quality, emphasis on color saturation and reflection details.
+Seed: 1846147551
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quantum, Memorial

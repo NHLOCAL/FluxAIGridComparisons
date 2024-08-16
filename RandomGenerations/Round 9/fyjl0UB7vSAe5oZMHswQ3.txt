@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a serene landscape of a vast, open field with a dramatic silhouette of a powerful king standing tall. The landscape should feature gentle rolling hills under a clear blue sky, symbolizing simplicity and tranquility. The king’s silhouette should be filled with intricate patterns of a city skyline, showcasing dominance and strength, with tall skyscrapers and fortified castles. The merging of the two images should be seamless, creating an ethereal effect where the calmness of the landscape contrasts with the regal stature of the king. The overall lighting should be warm and inviting, enhancing the feeling of harmony between simplicity and domination. Ultra-high detail, photorealistic style, sharp focus, cinematic quality.
+Seed: 1393312700
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Simplicity, Domination

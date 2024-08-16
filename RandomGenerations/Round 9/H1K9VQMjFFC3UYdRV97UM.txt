@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a solitary, weathered tree standing on a cliffside at sunset. The branches of the tree are gnarled and twisted, silhouetted against a vibrant sky filled with shades of orange, pink, and purple. The sun is low on the horizon, casting warm, golden rays that create a striking contrast with the cool hues of the surrounding landscape. Below the cliff, a rugged sea crashes against the rocks, with foamy waves adding a dynamic element to the serene scene. The perspective is slightly from below, emphasizing the towering presence of the tree against the vast sky, capturing a moment of tranquility amidst nature's drama. The photograph is infused with rich colors, intricate textures of the bark, and the gentle motion of the waves, inviting viewers to reflect on resilience and solitude.
+Seed: 501140923
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reward, Strain

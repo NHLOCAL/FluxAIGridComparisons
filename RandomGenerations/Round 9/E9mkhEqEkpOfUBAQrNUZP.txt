@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of an elderly man's hands, weathered and worn, gently holding a delicate, blooming white rose. The details of the hands reveal deep wrinkles, age spots, and a sense of tenderness conveyed through their position. The background is softly blurred, focusing attention on the hands and the rose, with warm, diffused lighting cascading from one side, creating soft shadows that enhance the texture of the skin. The image captures the contrasting fragility of the flower and the strength represented by the man's hands, symbolizing a connection to nature and the passage of time. The color palette consists of warm earth tones and soft whites, creating a peaceful, contemplative atmosphere.
+Seed: 3889637746
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Delight, Reserve

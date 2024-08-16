@@ -1,0 +1,4 @@
+Prompt: Capture a striking photograph of a solitary wooden canoe floating on a misty lake at dawn. The surface of the water is smooth, reflecting the soft pastel colors of the sunrise, with hues of pink, orange, and lavender bleeding into the sky. The backdrop features a dense, fog-laden forest, shrouded in early morning mist, creating a sense of isolation and tranquility. A single droplet of water drips from the canoe's edge, creating ripples that gently disturb the perfect reflection. Overall, the scene should convey a sense of calmness and stillness, with natural lighting emphasizing the ethereal quality of the moment. The composition should focus on the canoe as the central subject, inviting the viewer to contemplate the serenity of nature.
+Seed: 193545602
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adorable, Company

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a lone street lamp casting an intense, warm light on a deserted cobblestone street at night. The street is lined with old, weathered buildings whose dark, shadowy silhouettes loom around the scene, hinting at hidden stories and secrets. A single, colorful butterfly flutters just above the cobblestone, illuminated by the lamp's glow, contrasting sharply with the dark surroundings. Mist rises gently from the ground, curling around the lamp post, creating an ethereal atmosphere. The photograph should capture intricate details of the lamp's glass and metalwork, as well as the texture of the cobblestones, under the soft light. The overall mood should reflect a sense of isolation, yet the butterfly introduces an element of unexpected hope and beauty, emphasizing the theme of duplicity.
+Seed: 1984886956
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Volume, Lovely

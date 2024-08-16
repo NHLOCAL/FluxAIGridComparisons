@@ -1,0 +1,4 @@
+Prompt: Create an illustration depicting a grand arena filled with spectators, showcasing a dramatic duel between two figures representing the concept of "duplicity in love." One figure is cloaked in dark, flowing garments, symbolizing deception, while the other is adorned in shimmering, light-colored attire, signifying honesty. The arena should be surrounded by towering stone walls, with intricate carvings and glowing torches illuminating the scene with a warm, amber light. The sky above is a deep indigo, creating a contrast against the characters. The angle is slightly elevated, capturing the intensity of the duel and the captivated audience. The overall atmosphere conveys tension and intrigue, blending elements of fantasy and a classical art style.
+Seed: 2435027474
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Arena, Indigo

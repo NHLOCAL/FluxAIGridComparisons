@@ -1,0 +1,4 @@
+Prompt: Create an image of an ethereal feminine figure, embodying beauty and strength in a surreal, dreamlike landscape. The figure is depicted with one half bathed in soft pastel colors, representing grace and serenity, while the other half adorned in bold, contrasting hues, symbolizing power and resilience. Surrounding her, a landscape seamlessly transitions from gentle, flowing curves to jagged, dynamic forms, illustrating duality. The background features a gradient sky merging day and night, with celestial elements like stars and clouds blending together. Use dramatic lighting to accentuate the figure's features, creating a striking contrast that highlights her commitment to embodying both elegance and strength. The art style should blend realism with fantasy, capturing the essence of feminine beauty and duality.
+Seed: 2180231502
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Impact, Commitment

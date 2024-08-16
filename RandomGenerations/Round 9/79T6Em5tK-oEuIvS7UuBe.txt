@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split landscape, where one half depicts a serene, sunlit meadow filled with vibrant wildflowers and a clear blue sky, while the other half reveals a dark, stormy scene with lightning striking a desolate, barren wasteland. The meadow is filled with a gentle breeze, as butterflies flutter around, while the wasteland is characterized by jagged rocks and swirling dust. In the center, the divide should be a distinct, sharp line, emphasizing the contrast between tranquility and chaos. The overall lighting transitions dramatically, with warm, soft light on one side and harsh, stark lighting on the other. The scene embodies a sense of duplicity, blending beauty and destruction in a harmonious yet jarring manner.
+Seed: 1705392925
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Potency, Tension

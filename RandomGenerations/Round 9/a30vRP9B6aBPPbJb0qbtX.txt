@@ -1,0 +1,4 @@
+Prompt: Create a vibrant nighttime scene set in Havana, Cuba. The cobblestone streets are alive with retro cars in vibrant colors, such as teal, yellow, and red. Streetlamps cast warm, golden light over the sidewalk, illuminating lively salsa dancers in traditional attire, swirling gracefully in rhythm. Old colonial buildings with ornate balconies line the streets, displaying a mix of faded pastels. Tropical plants peep through iron-grilled windows, adding lush greenery to the scene. In the background, a silhouette of the iconic El Capitolio stands tall against a deep indigo sky dotted with stars. The overall composition should reflect a lively, festive atmosphere, capturing the essence of Cuban nightlife in an artistic illustration style, with a vivid color palette and dramatic lighting to enhance the celebratory mood.
+Seed: 2101124449
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sadness, Radiant

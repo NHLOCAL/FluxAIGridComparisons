@@ -1,0 +1,4 @@
+Prompt: A close-up photograph of a cracked mirror reflecting half of a person's face. The visible half exhibits a serene expression with soft, warm lighting highlighting delicate features, while the other half is obscured in shadows, creating a distorted, slightly menacing appearance. The cracked surface introduces an element of chaos and fragmentation, hinting at duality. Surrounding the mirror is a dimly lit room with muted tones, casting a somber atmosphere. The overall composition emphasizes the contrast between light and dark, inviting viewers to contemplate the themes of identity and inner conflict. Photorealistic style, high detail, 4K resolution, cinematic lighting.
+Seed: 4034641700
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Energy, Platform

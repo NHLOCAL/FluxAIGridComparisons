@@ -1,0 +1,6 @@
+Prompt: Create a captivating illustration representing feminine beauty through the theme of duality. The scene features a graceful female figure, half of her adorned in a radiant gown of vibrant colors (reds, purples, and golds) symbolizing health and vitality, while the other half is draped in drab, muted tones (grays and browns) representing illness and struggle. Her hair flows in two contrasting styles: one side elegantly styled with flowers and light, and the other side tangled and shadowy.
+
+The background blends a serene, sunlit landscape with blooming flowers and soft colors on one side, transitioning into a shadowy, barren terrain on the other, enhancing the sense of duality. Bright, ethereal lighting illuminates the vibrant side, while dim, dramatic shadows cling to the muted side. The overall composition should encapsulate the complexities of feminine beauty in relation to health and illness, emphasizing the strength and resilience found within. Rendered in a delicate, painterly style, focusing on intricate details and fluidity, creating an immersive visual experience.
+Seed: 1792078211
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capacity, Illness

@@ -1,0 +1,8 @@
+Prompt: Create a hyper-realistic photograph of a sprawling sci-fi landscape dominated by towering metallic structures. In the foreground, a sleek android stands confidently on a rocky outcrop, featuring intricate circuit patterns and glowing accents that reflect the vibrant colors of the surroundings. The landscape should be filled with exotic flora, including luminescent plants and biomechanical trees that twist and spiral towards the sky. 
+
+In the background, an enormous planet looms over the horizon, casting a surreal light over the scene, with two smaller moons orbiting above. The sky is a kaleidoscope of colors, swirling clouds blending shades of deep purple, neon blue, and glowing orange, suggesting a sunset on an alien world. 
+
+The lighting should be dramatic, enhancing the reflections on the android's surface and illuminating the metallic textures of the structures, creating an otherworldly atmosphere. Angle the shot to capture both the android and the vastness of the landscape, inviting the viewer into this vibrant and imaginative sci-fi fantasy world.
+Seed: 2846898360
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Picture, Android

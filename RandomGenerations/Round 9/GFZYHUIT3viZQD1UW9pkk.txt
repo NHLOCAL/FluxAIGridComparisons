@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a human face split down the middle. One side depicts a serene expression with soft, warm lighting illuminating the features, while the other side shows a tense, distressed expression with harsh, cold lighting casting deep shadows. The backgrounds of each half should further accentuate this contrast; one side filled with lush, vibrant colors representing tranquility, and the other side dark and chaotic, filled with fragmented shapes and shadows. The seam down the middle of the face should be jagged, signifying a clear divide between the emotions. Sharp focus on the facial details enhances the intricate textures of the skin, highlighting the contrasts between calmness and anxiety. The artwork should evoke feelings of conflict and complexity, illustrating the duality of human emotion.
+Seed: 2270116625
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Organization, Venture

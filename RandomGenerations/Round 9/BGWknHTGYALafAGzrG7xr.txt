@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a cracked porcelain mask lying on a reflective surface, partially submerged in water. The mask's painted features, which show a serene smile, contrast sharply with its shattered edges, suggesting a deeper sense of conflict and duplicity. The water creates ripples that distort the reflection, adding a layer of complexity to the image. Soft, ambient lighting gently highlights the mask's intricate details, while darker shadows loom in the background, creating tension. The backdrop showcases a blurred, dim environment, evoking a sense of mystery and unease.
+Seed: 2517504373
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Metal, Crop

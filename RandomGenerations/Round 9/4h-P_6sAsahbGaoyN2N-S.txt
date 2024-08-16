@@ -1,0 +1,6 @@
+Prompt: A striking fantasy illustration of a feminine figure that embodies duality, standing in a mystical zone filled with vibrant, swirling magical auras. The character's appearance merges two distinct styles—one half dressed in elegant, flowing garments adorned with intricate patterns that sparkle like stars, while the other half embodies a darker, more enigmatic aesthetic, featuring bold, angular armor with shadowy textures. The background is a fantastical landscape, with ethereal elements such as floating crystals, shimmering fog, and radiant orbs of light that highlight the contrast between the two halves. Atmospheric lighting casts a surreal glow across the scene, emphasizing the character's enchanting presence. The overall composition invites viewers to explore themes of harmony and contrast in beauty, magic, and identity. 
+
+Art style inspired by Brian Froud and Jessica Rossier, vibrant colors, high detail, cinematic.
+Seed: 3437612018
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spell, Zone

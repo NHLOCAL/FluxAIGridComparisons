@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a close-up of a human face with a serene landscape. The face should have soft, natural features, with light brown hair gently framing it. The landscape can be a tranquil forest with tall, slender trees and dappled sunlight filtering through the leaves. The photo should emphasize a sense of clarity and transparency, with the forest's colors blending smoothly into the contours of the face. Use a warm color palette with rich greens and soft earth tones. The lighting should be gentle and diffused, creating a harmonious and inviting atmosphere. The background should remain slightly blurred to enhance the focus on the face and the overlaying landscape, resulting in a captivating and ethereal composition that evokes a feeling of purity and allure.
+Seed: 1126870034
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honesty, Alluring

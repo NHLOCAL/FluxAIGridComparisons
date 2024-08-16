@@ -1,0 +1,4 @@
+Prompt: Create a striking photograph featuring a split scene of a street in the city. On one side, the setting is bright and vibrant, showcasing a bustling market filled with cheerful people, colorful stalls, and blue sunny skies. The other side contrasts sharply, depicting a dark, rainy alley with shadowy figures and wet cobblestones, under ominous gray clouds. The transition between the two halves should be seamless yet stark, emphasizing the duplicity of the environment. Use dramatic lighting to highlight the differences, with warm tones on the lively side and cold, muted tones on the dark side. The focal point of the image should be a lone figure standing at the boundary between the two worlds, looking contemplative, with reflections of both sides mirrored in puddles on the ground.
+Seed: 2201898680
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Science, Thought

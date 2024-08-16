@@ -1,0 +1,8 @@
+Prompt: Create an illustration of a split scene showcasing feminine beauty and duality, set against the backdrop of the universe. On one side, depict a serene woman with flowing golden hair and a tranquil expression, adorned in a sparkling gown made of stars and galaxies, blending seamlessly into a peaceful nebula filled with soft pinks and blues. This side should radiate gentle light, creating a calm and harmonious atmosphere.
+
+On the other side, illustrate a dynamic and fierce woman with vibrant, fiery red hair and a determined expression, dressed in an outfit made of dark cosmic materials that reflects the chaotic beauty of the universe. This side should be filled with swirling dark clouds, bright shooting stars, and a tumultuous array of colors, conveying energy and strength.
+
+In the center, where the two sides meet, integrate abstract elements like playful celestial orbs and ethereal playground equipment, like swings and slides made from shimmering stardust, blending the contrasting themes of serenity and chaos. The lighting should transition smoothly from soft and warm on one side to bold and dramatic on the other, emphasizing the theme of duality. The overall composition invites the viewer to explore the complexity of feminine beauty within the infinite universe, captured in a vibrant and detailed art style.
+Seed: 3917493367
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Universe, Playground

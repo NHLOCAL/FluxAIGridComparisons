@@ -1,0 +1,4 @@
+Prompt: A surreal illustration depicting two interlocking hearts made from vibrant, flowing liquid as they drift through a dreamy landscape. One heart is composed of warm hues like reds and pinks, symbolizing passion, while the other is cool-toned with blues and purples, representing the complexities of emotions. The background features a starry night sky filled with swirling clouds and a whimsical moon casting a soft, ethereal glow over the scene. Delicate wisps of translucent light weave between the hearts, creating a sense of connection and duplicity. The overall composition is dreamlike and enchanting, filled with intricate details that draw the viewer into this romantic fantasy. Emphasize high color saturation and fluid shapes, creating a captivating juxtaposition of warmth and coolness.
+Seed: 3395766111
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pointer, Dream

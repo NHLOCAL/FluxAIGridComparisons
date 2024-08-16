@@ -1,0 +1,4 @@
+Prompt: Create a captivating photograph of a steaming cup of coffee placed on an aged, weathered wooden table. The cup, crafted from rustic ceramic, is adorned with intricate patterns, and wisps of steam rise gracefully from its surface, blending into the soft, ambient light. The background features a blur of greenery, hinted sunlight filtering through leaves, creating a warm, inviting atmosphere. Gentle shadows contrast with bright highlights, emphasizing the textures of the table and the steam. The composition should evoke a sense of comfort and tranquility, showcasing the beauty of a simple moment. Hyper-realistic style, high detail, warm color palette, cinematic lighting.
+Seed: 2946240265
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Omega, Steam

@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution photograph of a person standing before a large, ornate mirror in a dimly lit room. The individual, a young woman with shoulder-length dark hair, gazes intently into the mirror, reflecting a powerful, ethereal version of herself. This reflection should feature vibrant colors, with the inner self appearing surrounded by a soft, glowing light that contrasts against the darker ambiance of the room. The background should showcase subtle details, such as shelves filled with books and plants, adding to the sense of introspection. Soft shadows play across the scene, enhancing the intimate and contemplative mood. The angle should be a slight tilt, capturing both the woman and her vivid reflection, immersing the viewer into the experience of self-discovery and transformation.
+Seed: 1470267457
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chemistry, Conquest

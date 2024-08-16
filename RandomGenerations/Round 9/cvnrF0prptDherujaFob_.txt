@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi/fantasy landscape photograph depicting a vast, alien world. The foreground features a rugged terrain with shimmering crystal formations jutting up from the ground. A colossal, majestic tree with bioluminescent leaves towers in the center, casting an ethereal glow across the landscape. In the background, towering mountains stretch high into the sky, their peaks piercing through swirling, colorful clouds that blend hues of purple, pink, and turquoise. Two moons, one large and one small, hover in the sky, adding to the otherworldly ambiance. A river of glowing azure water winds through the scene, reflecting the vibrant colors of the sky. The lighting is dramatic, with rays of sunlight filtering through the clouds and illuminating the landscape in bright highlights and deep shadows, creating an immersive and awe-inspiring atmosphere.
+Seed: 1841794281
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cry, Honor

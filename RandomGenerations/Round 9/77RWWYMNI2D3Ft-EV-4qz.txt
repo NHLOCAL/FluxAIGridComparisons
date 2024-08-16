@@ -1,0 +1,4 @@
+Prompt: Create an intricate illustration depicting a duality in love, where two figures stand back-to-back, each representing contrasting emotions. One figure, dressed in deep red, exudes authority and confidence, with sharp features and a strong posture. The other figure, clad in soft blue, appears vulnerable and loyal, with gentle features and an open stance. The background features a tumultuous, swirling sky that transitions from dark, stormy clouds to a serene, starry night, symbolizing the complexity of emotions. The lighting should be dramatic, highlighting the intensity of their expressions while casting soft shadows. The art style should be a blend of realism and surrealism, capturing both the strength and fragility within their interconnected bond.
+Seed: 4126996200
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Authority, Loyalty

@@ -1,0 +1,4 @@
+Prompt: Create a whimsical illustration of a gnome standing in a lush, enchanted forest, symbolizing the theme of duplicity in love. The gnome, with a tall red hat and a long white beard, holds two colorful flowers in each hand, one representing love and the other representing deceit. The background features vibrant greenery, with sunlight filtering through the trees, casting playful shadows on the ground. A tranquil stream runs nearby, reflecting the surrounding flora. The atmosphere is bright and colorful, with an overall sense of charm and mischief. The illustration should emphasize the gnome’s playful expression, capturing the complexity of love and the dualities it brings. The art style is vivid and detailed, reminiscent of children's storybook illustrations, and the lighting is warm and inviting, creating a magical yet relatable scene.
+Seed: 1974042720
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gnome, Quantity

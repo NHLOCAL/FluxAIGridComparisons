@@ -1,0 +1,4 @@
+Prompt: Create a striking photograph of a medieval-style masquerade ball taking place in an elegantly decorated grand hall. The scene is filled with people in ornate masks and lavish costumes, blending elegance with an undercurrent of mystery. In the foreground, focus on a pair of masked figures engaging in a subtle dance, their expressions hidden but their body language suggesting an intense connection or unspoken rivalry. The background captures the opulence of the hall, with chandeliers casting warm golden light and reflections glimmering off polished marble floors. Soft shadows create a sense of depth, enhancing the air of intrigue. Hints of contrasting colors in the costumes, such as deep reds and rich blacks, further emphasize the theme of duplicity. The overall composition is rich and vibrant, drawing viewers into the complex dynamics of the masquerade.
+Seed: 1093893537
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Prairie, Association

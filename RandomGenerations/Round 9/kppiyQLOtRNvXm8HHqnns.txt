@@ -1,0 +1,10 @@
+Prompt: Create an image depicting the concept of duality, represented as a dramatic split scene within a towering skyscraper. On one side of the skyscraper, illustrate a vibrant, bustling city with bright lights, busy streets, and people engaged in various activities under a sunny sky. The colors should be bright and warm, conveying a sense of energy and life. 
+
+On the opposite side, showcase a stark contrast with a dark, desolate environment. This side should reflect a stormy atmosphere with heavy rain, shadowy figures, and abandoned streets enveloped in muted gray tones. A brooding, ominous sky looms overhead, adding to the sense of solitude.
+
+At the center of the skyscraper, create a clear division between the two worlds, perhaps with shards of glass symbolically separating them. Utilize a high-angle perspective to capture the vastness of both scenes. The overall composition should emphasize the stark contrast between light and dark, activity and solitude, highlighting the theme of duality. 
+
+Art style should be hyper-detailed with emphasis on architectural features and dynamic lighting. The use of reflections in the skyscraper's glass should enhance the visual impact of the duality concept.
+Seed: 3327343485
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Act, Skyscraper

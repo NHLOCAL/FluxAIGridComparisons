@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a sci-fi/fantasy landscape during a mesmerizing sunset. The scene features a vast, alien terrain with towering, jagged mountains in the distance, their peaks silhouetted against a sky painted in vibrant hues of deep orange, purple, and red as the sun sets on the horizon. In the foreground, a tranquil lake reflects the colorful sky, surrounded by bioluminescent flora that glows softly, adding to the otherworldly atmosphere. Wisps of mist float above the water, while ethereal clouds drift lazily across the sky, catching the fading light. The composition draws the viewer into a world that blends elements of fantasy with a sense of both beauty and sadness, evoking a feeling of nostalgia for an uncharted realm. High resolution, cinematic quality, dramatic lighting.
+Seed: 2635981727
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Melancholy, Sunset

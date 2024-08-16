@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a weathered park bench, his face marked with deep wrinkles telling stories of a long life. The background features a vibrant autumn scene with fallen leaves scattered around in shades of red, orange, and yellow, capturing the essence of the season. Soft golden sunlight filters through the trees, casting warm rays on the man, while small a dog rests at his feet. The focus is sharp on the man’s contemplative expression, and the soft-bokeh effect blurs the bustling park in the background, inviting the viewer to reflect on themes of solitude and the passage of time.
+Seed: 2456120031
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lane, Poverty

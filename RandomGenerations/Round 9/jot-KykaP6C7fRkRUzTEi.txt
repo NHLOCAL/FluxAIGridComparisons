@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split landscape, with one side depicting vibrant, sunny nature filled with colorful flowers, lush green trees, and a clear blue sky. On the other side, illustrate a dark, desolate environment featuring barren trees, a stormy sky, and dead foliage. A winding path runs through the center of the image, transitioning from the bright side to the dark side. In the foreground, place a figure standing at the intersection, dressed in contrasting clothing: light on one side and dark on the other, symbolizing the duality of emotions. The lighting should emphasize the differences, with warm light on the vibrant side and harsh, cold shadows on the dark side. This composition invites viewers to reflect on the complexity of human emotions and the coexistence of joy and sorrow.
+Seed: 1100134587
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Date, Family

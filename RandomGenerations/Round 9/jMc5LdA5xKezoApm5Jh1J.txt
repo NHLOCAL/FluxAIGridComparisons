@@ -1,0 +1,6 @@
+Prompt: Create a captivating, high-detailed illustration representing the concept of "duplicity in love." The scene features two intertwined figures, one made of smooth, polished stone and the other composed of roaring flames, symbolizing the contrasts in passion and stability. The stone figure, with intricate engravings and a serene expression, stands firmly on the left, while the fiery figure on the right is depicted with fluid, dynamic shapes and vibrant colors radiating warmth. 
+
+The background showcases a dramatic sunset, casting contrasting colors of deep orange and purple across the sky. Wisps of smoke curl around the figures, blending into the ethereal ambiance. The ground is cracked and uneven, resembling a battleground between fire and earth, emphasizing the theme of conflict in love. The scene is illuminated by flickering flames and soft glows from the stone surface, creating a surreal yet striking atmosphere. The composition should emphasize the tension and beauty in this duality, showcasing an art style reminiscent of fantasy illustrations, with a focus on vivid details and textures.
+Seed: 1377726459
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stone, Roar

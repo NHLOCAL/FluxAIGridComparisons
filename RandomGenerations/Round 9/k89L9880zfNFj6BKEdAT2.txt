@@ -1,0 +1,4 @@
+Prompt: Create a vibrant landscape photograph inspired by the world of Avatar. The scene features a lush, bioluminescent jungle with towering, alien flora, illuminated by a soft, ethereal glow. Exotic plants with vivid colors stretch towards the sky, while floating mountains hover in the distance against a backdrop of a twilight-blue sky sprinkled with glowing stars. A serene river weaves through the foreground, reflecting the luminous colors of the foliage and the otherworldly ambiance. In the center, two humanoid figures, inspired by the Na'vi, interact harmoniously with their environment, showcasing their connection to nature. The overall composition should evoke a sense of wonder and exploration, with dynamic lighting emphasizing the beauty of this fantastical world. Photorealistic, high-resolution capture, cinematic quality.
+Seed: 1859210825
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Avatar, Friend

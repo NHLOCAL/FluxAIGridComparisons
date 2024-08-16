@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vibrant Havana street scene at night, filled with classic vintage cars in bright colors like turquoise, pink, and yellow. The narrow cobblestone streets are illuminated by warm, golden street lamps casting soft light on the surroundings. Tall palm trees line the sidewalks, swaying gently in a light breeze. On the left, a lively outdoor café with patrons enjoying mojitos, surrounded by colorful market stalls selling local crafts and fruits. The architecture showcases pastel-colored colonial buildings with wrought-iron balconies adorned with hanging plants and flowers. The sky is a deep navy blue, dotted with stars, creating a romantic ambiance. The overall composition captures the essence of nightlife in Havana, emphasizing a celebratory, festive atmosphere.
+Seed: 2161012699
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Organization, Spirituality

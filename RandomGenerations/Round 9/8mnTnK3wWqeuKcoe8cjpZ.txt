@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of a solitary, weathered wooden bench under a sprawling, ancient oak tree in a quiet park. The scene is drenched in golden hour sunlight, casting long shadows on the ground. Autumn leaves, in rich shades of orange, red, and yellow, blanket the ground and cling to the tree's branches. A gentle breeze stirs, causing a few leaves to cascade down. In the background, softly blurred, is a winding path that disappears into a misty distance. The atmosphere is tranquil, imbued with a sense of nostalgia and stillness. The focus is on the bench, which shows signs of wear, inviting contemplation and reflection, surrounded by a lush green lawn. The color palette features warm earth tones with golden highlights, creating a serene and inviting ambiance.
+Seed: 4283080928
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Movement, Arena

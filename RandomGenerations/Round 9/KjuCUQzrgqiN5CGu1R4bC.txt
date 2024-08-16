@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary tree standing atop a hill during sunset. The tree's gnarled branches are silhouetted against the vibrant oranges, pinks, and purples of the sky. Below, a vast field of wildflowers in shades of yellow and blue sway gently in the evening breeze, creating a serene foreground. In the distance, rolling hills fade into a soft focus, enhancing the sense of depth. The light from the setting sun casts long shadows across the hill, highlighting the tree's textured bark and the delicate petals of the flowers. The overall composition should emphasize the tranquility and solitude of the scene, inviting the viewer to reflect on the beauty of nature. Ultra-high resolution, sharp focus, and dramatic lighting.
+Seed: 3737854434
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Produce, History

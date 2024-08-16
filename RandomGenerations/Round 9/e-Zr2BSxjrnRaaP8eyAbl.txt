@@ -1,0 +1,4 @@
+Prompt: A close-up portrait of a split-faced individual, half of the face revealing a serene smile while the other half is etched with sorrowful lines. The lighting is dramatic, casting harsh shadows on the distressing side and soft, warm light on the joyous side, enhancing the contrast between the two emotions. The background is a blurred cityscape at twilight, filled with twinkling lights that seem to reflect the inner turmoil. The photograph focuses on the fine details of skin texture, eyes, and expressions, capturing the essence of duplicity in human emotion. High-resolution, cinematic quality.
+Seed: 1750626502
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Icon, Town

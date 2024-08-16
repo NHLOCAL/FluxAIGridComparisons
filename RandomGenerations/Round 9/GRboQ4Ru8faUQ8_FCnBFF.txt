@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly woman sitting alone on a weathered park bench in a dimly lit park. The setting sun casts long shadows, creating a warm, golden hue that contrasts with the cool evening air. The woman's face is deeply lined, telling a story of a lifetime. She gazes wistfully at the ground, her hands clasped in her lap, with a single tear escaping down her cheek. In the background, blurred figures of children playing and couples walking hand in hand create a stark juxtaposition to her solitude. The trees surrounding the park are lush, their leaves gently rustling in the soft breeze. The atmosphere is serene yet poignant, capturing the essence of solitude and reflection in the later stages of life.
+Seed: 110000549
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Parallel universe, Matter

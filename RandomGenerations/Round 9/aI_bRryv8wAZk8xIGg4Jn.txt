@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph that captures two identical-looking people standing back-to-back in a dimly lit room. One person is smiling widely, dressed in vibrant, cheerful clothing, while the other has a somber expression, wearing muted, dark tones. The background is a soft gradient of gray, subtly contrasting with the subject's outfits. Captured from an eye-level perspective, the lighting casts dramatic shadows, enhancing the emotional contrast between the two figures. Their facial features should be almost indistinguishable, and the complexity of their expressions should invite viewers to contemplate themes of duplicity and hidden emotions, creating a thought-provoking visual experience.
+Seed: 4113477782
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Passage, Harvest

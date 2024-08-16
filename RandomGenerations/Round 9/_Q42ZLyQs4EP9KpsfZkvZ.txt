@@ -1,0 +1,6 @@
+Prompt: Create a polished, hyper-realistic photograph of an otherworldly landscape that seamlessly blends sci-fi and fantasy elements. The foreground features a crystalline lake that reflects a sky filled with swirling nebulae in vivid hues of purple, blue, and gold. In the distance, towering mountains made of iridescent rock rise majestically, their surfaces shimmering as if alive. Strange bioluminescent plants thrive along the shoreline, casting a soft glow that illuminates the scene.
+
+A sleek, futuristic structure resembling a massive observatory juts out from a cliff, its metallic surface gleaming under the ethereal light of two moons hanging in the sky. The atmosphere is clear with scattered clouds, allowing for a breathtaking view of the stars twinkling above. The overall composition evokes a sense of wonder and exploration, merging the fantastical with the technologically advanced in a cohesive manner. Captured at sunset, the scene is infused with warm and cool tones, highlighting the transition between day and night. Emphasis on sharp details, vibrant colors, and balanced lighting will enhance the inviting and mesmerizing qualities of this surreal landscape.
+Seed: 3033490582
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Polished, Being

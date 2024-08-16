@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi/fantasy landscape photograph featuring a colossal, glowing heart-shaped structure at the center. This transparent, crystalline heart emits radiant hues of pink, purple, and blue, casting colorful reflections on the surrounding terrain. The landscape is dotted with bioluminescent plants and iridescent rocks, creating a vibrant contrast against the dark, starry sky. Above the heart, swirling clouds with hints of neon colors enhance the otherworldly atmosphere. The foreground is filled with lush greenery and strange, alien flora that seem to reach towards the heart, showcasing intricate details in texture. The image captures a surreal blend of nature and technology, immersing the viewer in a captivating fantasy realm. High resolution, ultra-detailed, cinematic lighting, and vivid colors.
+Seed: 2049603242
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heart, Product

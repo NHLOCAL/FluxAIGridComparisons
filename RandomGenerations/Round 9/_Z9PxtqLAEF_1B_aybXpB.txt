@@ -1,0 +1,4 @@
+Prompt: Create a stunning landscape photograph set in a sci-fi/fantasy environment. The scene should feature an otherworldly terrain with vibrant, lush greenery, intertwined with bioluminescent plants that glow in shades of blue and purple. In the background, towering mountains with iridescent peaks loom under a swirling nebula sky filled with stars and radiant colors. Wisps of fog drift gently across the landscape, enhancing the ethereal quality of the scene. The lighting should be bright and dynamic, casting a magical glow on the foliage and creating intricate shadows. This enchanting landscape captures the essence of ecstasy through its vivid colors and fantastical elements, immersing the viewer in a world of wonder and awe. Photorealistic style, high detail, epic perspective.
+Seed: 1417113087
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Feeling, Ecstasy

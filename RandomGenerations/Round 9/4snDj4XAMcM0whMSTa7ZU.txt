@@ -1,0 +1,8 @@
+Prompt: Create a captivating illustration that portrays the concept of feminine beauty and transformation through duality. On one side, depict a graceful woman adorned in flowing, ethereal fabrics, embodying aspects of nature—such as flowers and leaves entwined in her hair and dress, showcasing vibrant colors like emerald green and soft pastels. On the opposite side, illustrate a powerful, armored warrior woman, representing strength and resilience; her armor decorated with intricate designs and rich metallic hues like bronze and silver. 
+
+The background should be divided to reflect this contrast: one half featuring a serene, sunlit forest with soft, warm light filtering through the trees, while the other side presents a dynamic, stormy sky filled with dark clouds and lightning. The transition between the two sides should be smooth yet dramatic, emphasizing the theme of duality. 
+
+Include soft, atmospheric lighting that highlights the beauty of both figures, focusing on details like shimmering fabric and reflective armor. The overall composition should communicate a sense of harmony and balance, with both aspects of femininity coming together in a sublime and empowering way. High detail, vibrant colors, illustration.
+Seed: 2802680021
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Transformation, Offering

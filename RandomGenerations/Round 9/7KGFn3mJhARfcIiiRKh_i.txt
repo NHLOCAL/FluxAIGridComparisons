@@ -1,0 +1,4 @@
+Prompt: Create a stunning photograph depicting a futuristic beach landscape under a vibrant sunset sky filled with swirling, iridescent colors. The beach is lined with bioluminescent plants and alien flora, glowing softly against the tranquil waters. In the distance, peculiar rock formations rise dramatically from the ocean, their surfaces textured and shimmering as if made of crystal. A sleek, futuristic vessel hovers just above the water, casting reflections on the surface below. The overall atmosphere should evoke a sense of wonder and opportunity, combining elements of sci-fi and fantasy in a breathtaking coastal setting. The composition is balanced and immersive, inviting the viewer to imagine exploring this otherworldly paradise.
+Seed: 4045331189
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Beach, Opportunity

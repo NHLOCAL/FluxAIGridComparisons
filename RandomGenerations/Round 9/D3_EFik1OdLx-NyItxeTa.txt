@@ -1,0 +1,4 @@
+Prompt: Create an image of a foggy city street at twilight, where a lone figure in a long coat and fedora stands under a dim streetlight. The figure's face is obscured by shadows, creating an air of mystery. Reflected in a nearby puddle is an alternate version of the figure, smiling broadly, showcasing a stark contrast to the solitary, serious demeanor in the shadows. The background features blurred outlines of old buildings and a faint glow from distant neon signs, enhancing the atmospheric tension. The overall lighting should be low key, with deep blues and soft oranges to evoke a sense of intrigue and duality in the scene. The photograph should appear cinematic, with a shallow depth of field that focuses on the figure while softly blurring the background.
+Seed: 797396668
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mirage, Gorgeous

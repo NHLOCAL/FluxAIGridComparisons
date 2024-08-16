@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a fractured mirror reflecting a serene landscape on one side and a chaotic urban environment on the other. The serene side features rolling green hills, a calm lake, and clear blue skies with fluffy clouds. In contrast, the chaotic side depicts a crowded city with skyscrapers, flashing neon lights, and bustling traffic. The center of the mirror is cracked, creating a dynamic split between the two scenes. The lighting is dramatic, with warm sunlight illuminating the peaceful side and harsh, cold artificial light casting shadows on the urban side. The overall composition emphasizes the theme of duality, showcasing the stark contrast between tranquility and chaos.
+Seed: 4262802658
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vigor, Realm

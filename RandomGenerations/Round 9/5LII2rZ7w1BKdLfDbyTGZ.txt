@@ -1,0 +1,4 @@
+Prompt: A visually striking photograph capturing a split scene of a bustling city street on the left side and a serene forest landscape on the right side. The city side features busy pedestrians, bright neon signs, and tall glass buildings under a blue sky, while the forest side showcases lush greenery, soft sunlight filtering through the trees, and a peaceful, winding path. A clear division between the two environments emphasizes the contrast between urban chaos and natural tranquility. The lighting gradient transitions smoothly from bright, vibrant colors in the city to soft, muted tones in the forest, creating a surreal yet harmonious balance. The overall composition invites viewers to reflect on the coexistence of urban life and nature, captured in vivid detail with a sharp focus on each element.
+Seed: 3829001093
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alliance, Mesmerizing

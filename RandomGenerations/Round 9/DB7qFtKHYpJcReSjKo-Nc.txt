@@ -1,0 +1,4 @@
+Prompt: Create an image of a beautiful Norse woman in medieval attire, standing confidently in a vibrant forest setting. She has long, flowing braided hair adorned with delicate leaves and flowers. Her attire consists of a richly textured, emerald-green dress with intricate silver embroidery that reflects her noble status. In one hand, she holds a gleaming sword, symbolizing honor, while the other hand rests on her hip, conveying strength and determination. The background features towering ancient trees with dappled sunlight filtering through the leaves, casting a warm, inviting glow. The scene is bathed in soft, natural lighting that enhances the emerald tones of her dress and the lush greenery of the forest. The composition captures her fierce spirit and connection to nature in a hyper-realistic style, emphasizing rich details and colors.
+Seed: 1613228869
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honor, Emerald

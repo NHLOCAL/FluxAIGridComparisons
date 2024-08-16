@@ -1,0 +1,10 @@
+Prompt: Create an image capturing the theme of "duplicity in love" through a surreal and artistic representation. The scene depicts two intertwined figures made of polished copper, their surfaces gleaming under warm, golden lighting. The figures should be positioned in a way that suggests both connection and separation, reflecting the complexity of love. 
+
+The background features a winding road that symbolizes the journey of relationships, lined with bending trees casting elongated shadows, enveloped in a soft, dreamlike haze. 
+
+The lighting should create an ethereal glow around the figures, enhancing the warmth of the copper and adding depth to their intricate details. The overall atmosphere should be a blend of tranquility and tension, inviting viewers to ponder the duality present in love. 
+
+The art style should draw inspiration from hyperrealism with an illustrative twist, combining vivid detail with a enchanting quality that makes the scene feel alive and dynamic.
+Seed: 3072887999
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Copper, Road

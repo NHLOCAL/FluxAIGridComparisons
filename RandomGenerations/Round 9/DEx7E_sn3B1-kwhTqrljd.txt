@@ -1,0 +1,4 @@
+Prompt: A photorealistic image of a solitary, weathered wooden bench under a large, ancient willow tree. The tree's long, sweeping branches hang low, filtering soft, golden sunlight that creates dappled patterns on the ground. Scattered around the bench are vibrant wildflowers in full bloom, their colors contrasting against the deep green grass. In the background, a tranquil lake reflects the clear blue sky and fluffy white clouds. The overall scene is serene and peaceful, inviting the viewer to imagine sitting on the bench, enjoying a moment of solitude in nature's embrace. The composition emphasizes natural beauty, warm lighting, and intricate details, creating a calming ambiance.
+Seed: 167247135
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Journey, Invention

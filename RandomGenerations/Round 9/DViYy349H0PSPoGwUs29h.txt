@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines the silhouette of a person with the serene landscape of a vast forest at dusk. The person's outline should be filled with intricate details of trees, soft mist, and gently glowing fireflies, creating an enchanting effect. The sky is painted in warm hues of orange and purple as the sun sets, blending harmoniously with the tranquil nature scene inside the silhouette. The background should feature a blurred image of a peaceful lake reflecting the glowing sky, enhancing the sense of connection with nature. The lighting should be soft and diffused, creating an ethereal atmosphere that emphasizes harmony and connectedness. The art style should be vivid yet subtly blended, capturing the essence of both human and nature beautifully intertwined.
+Seed: 2165885702
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mesmerizing, Attachment

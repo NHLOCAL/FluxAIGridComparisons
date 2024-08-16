@@ -1,0 +1,8 @@
+Prompt: Create a striking portrait of a symbolic representation of feminine beauty, encapsulating the themes of duality, fondness, and might. The central figure should be a woman with flowing hair that transitions from soft golden hues on one side to deep, fiery reds on the other, symbolizing the dual aspects of her nature. Her expression should be serene yet powerful, showcasing an intricate balance between gentleness and strength. 
+
+The background should be split into two contrasting halves: one side depicting a tranquil garden filled with blooming flowers, warm sunlight, and delicate butterflies, while the other side reveals a dramatic stormy landscape with dark clouds, jagged mountains, and flashes of lightning, representing the might and turmoil.
+
+The lighting should evoke a sense of harmony, with soft, warm highlights illuminating the garden side and dynamic, sharp contrasts enhancing the stormy side. The angle should be slightly low, giving an empowering perspective to the figure while blending both environments seamlessly. The artwork should be rendered in a highly detailed, surreal style, emphasizing the ethereal quality of the feminine form and the captivating expression of duality.
+Seed: 3038958076
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fondness, Might

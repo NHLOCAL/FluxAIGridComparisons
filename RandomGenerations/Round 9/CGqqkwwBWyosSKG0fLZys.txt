@@ -1,0 +1,8 @@
+Prompt: Create a captivating scene that embodies duality within a wetland environment. The image should split into two contrasting halves: one side illuminated by a warm, golden sunrise, showcasing vibrant green foliage, flourishing flora, and playful sunlight reflecting off the water's surface. On this side, show animals like frogs and dragonflies in abundance, conveying life and tranquility. 
+
+The other half of the image should depict a more subdued, moody atmosphere, under a cool, misty twilight. Dark blue and gray tones dominate with twisted, gnarled trees, thick fog settling over the water, and silhouettes of mysterious creatures, suggesting a hidden world beneath the surface. 
+
+The transition where the two halves meet should be seamless, with themes of blessing represented through gentle light filtering down onto the water and an aura of ethereal beauty encapsulating the scene. Include detailed textures in the vegetation and water, adding depth and richness to the overall composition. Emphasize the surreal contrast through vibrant colors on one side and muted shades on the other, creating a striking visual representation of duality.
+Seed: 4038612003
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wetland, Blessing

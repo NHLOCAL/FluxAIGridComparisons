@@ -1,0 +1,4 @@
+Prompt: A captivating scene of a graceful, feminine figure standing in an ornate church. The woman, dressed in an elegant, flowing gown, exudes a sense of poise and beauty. Her long hair cascades down her shoulders, illuminated by the soft, ethereal light filtering through the stained glass windows, casting colorful patterns on the stone floor. The church is adorned with intricate carvings and towering columns, emphasizing its grandeur. The atmosphere is serene, with gentle rays of sunlight highlighting the delicate features of the woman’s face and the intricate details of her attire. The overall composition showcases a blend of divine beauty and architectural elegance, creating an enchanting visual narrative. Cinematic lighting, high detail, and a sense of reverence permeate the scene.
+Seed: 562573448
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Church, Influence

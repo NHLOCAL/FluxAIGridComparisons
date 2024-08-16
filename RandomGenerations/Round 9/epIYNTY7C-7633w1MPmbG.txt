@@ -1,0 +1,4 @@
+Prompt: Create an image of a broken mirror lying on a cobbled street during twilight. The mirror's shattered pieces reflect different aspects of a solitary figure walking away in a long black coat, their face obscured by shadows. Each shard of the mirror captures fragmented glimpses of a bustling city filled with vibrant lights and blurred, ghostly silhouettes of people, creating an atmosphere of disconnection and duplicity. The street is wet from recent rain, with puddles reflecting the colorful neon signs of nearby shops. The overall scene should be dimly lit, with a cool blue and purple color palette, emphasizing the dual nature of the surroundings versus the solitary figure. Shot from a low angle, capturing the ground level, focusing on the mirror's reflections against the backdrop of the cityscape. Photorealistic style, high detail, cinematic atmosphere.
+Seed: 3331209835
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Control, Laboratory

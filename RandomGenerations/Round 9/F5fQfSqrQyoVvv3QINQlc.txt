@@ -1,0 +1,4 @@
+Prompt: A cinematic scene depicting two lovers standing in front of a magnificent mosque at dusk. The mosque's intricate architecture is highlighted by soft golden lighting, showcasing its domes and minarets against a vibrant orange and purple sky. The lovers, dressed in traditional attire, are positioned slightly apart, with subtle expressions of longing and uncertainty on their faces. The foreground features lush green gardens with blooming flowers, adding to the romantic ambiance. The overall composition captures the essence of duality, with the mosque symbolizing a blend of spiritual devotion and personal connection, enhancing the theme of duplicity in love. Photorealistic style, high detail, vibrant colors, dramatic lighting.
+Seed: 3644281551
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mosque, Theme

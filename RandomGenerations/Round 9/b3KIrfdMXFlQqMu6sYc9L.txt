@@ -1,0 +1,4 @@
+Prompt: Create an image depicting two mythical creatures, a dragon and a phoenix, intertwined in a passionate embrace amidst a fiery sunset. The dragon's scales glimmer in shades of deep emerald and gold, while the phoenix showcases vibrant feathers of crimson, orange, and yellow, radiating warmth. The background features a dramatic sky with swirling clouds colored in warm hues of orange and red, reflecting the intensity of their connection. The ground below is a mystical landscape of lush greenery and scattered blossoms, illuminated by soft, ethereal light. The scene captures the tension and allure of their forbidden romance through intricate details and a vivid color palette, emphasizing their majestic forms and the fiery atmosphere surrounding them.
+Seed: 1422233337
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Delight, Clinic

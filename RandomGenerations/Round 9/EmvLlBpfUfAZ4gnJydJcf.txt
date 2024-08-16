@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring the silhouette of a quaint village set against an intricate robot design. The village should include charming, traditional houses with thatched roofs, winding paths, and scenic landscapes of rolling hills and lush greenery. Within the silhouette of the village, the robot's inner workings should be visible, showcasing a blend of mechanical details like gears, wires, and glowing lights. The overall composition should emphasize the contrast between the organic shapes of the village and the complex, metallic features of the robot. The lighting should be soft, with a warm color palette for the village and cooler tones for the robot, creating a harmonious balance between nature and technology. The background should be softly blurred to keep the focus on the double exposure effect, enhancing the sense of depth and intrigue.
+Seed: 3702206098
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Village, Robot

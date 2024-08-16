@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a closed door in a dimly lit hallway. The door is slightly ajar, casting a narrow beam of light onto the floor, revealing a shadowy figure standing behind it, partially obscured by darkness. The figure has one hand on the door, appearing hesitant to enter. On the opposite side of the hallway, a large mirror reflects the empty space, creating an eerie sense of duplicity. The wallpaper is faded and peeling, with delicate patterns of roses, and the floor is covered with a worn, plush rug that adds a sense of warmth contrasted by the rest of the scene. The lighting is low and moody, with deep shadows creating a mysterious atmosphere that invites curiosity and intrigue. The color palette employs muted tones, emphasizing the tension between the warm light and the cold darkness.
+Seed: 48387320
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bridge, Influence

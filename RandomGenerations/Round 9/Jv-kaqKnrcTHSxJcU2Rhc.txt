@@ -1,0 +1,4 @@
+Prompt: A striking illustration of a feminine figure seamlessly merged with a large, ancient tree, symbolizing the concept of duality. The woman's body is entwined with the tree's gnarled roots and branches, creating a harmonious blend of human and nature. Her skin has an intricate bark-like texture, while her hair flows like cascading leaves, adorned with delicate blossoms. The background features a mystical forest setting, with soft dappled sunlight filtering through the canopy, casting gentle, warm light on the scene. The angle is slightly below eye level, emphasizing the grandeur of both the tree and the figure. The overall color palette consists of earthy tones, greens, and soft pastels, enhancing the theme of harmony between femininity and nature. The artwork is crafted in a surreal, ethereal style, evoking a sense of wonder and connection with the environment.
+Seed: 1997350893
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tree, Form

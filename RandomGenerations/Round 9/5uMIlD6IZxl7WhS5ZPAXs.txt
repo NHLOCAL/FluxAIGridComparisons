@@ -1,0 +1,10 @@
+Prompt: Create a stunning sci-fi/fantasy landscape photograph that depicts a mystical elemental realm. The scene should feature a vibrant, swirling sky filled with hues of electric blue and deep purple, interspersed with glowing stars. At the center, portray a majestic, luminescent waterfall cascading down from towering cliffside formations that appear to be composed of pure crystal. Surrounding the waterfall, lush vegetation flourishes, with plants exhibiting bioluminescent properties, emitting a soft, enchanting glow in shades of green and pink.
+
+Include a tranquil lake at the base of the waterfall, its surface reflecting the vivid colors of the sky and the iridescent light from the plants. To the left, depict a colossal tree with branches that reach skyward, each adorned with glowing orbs of light that resemble floating lanterns.
+
+In the foreground, introduce an ethereal guardian figure resembling a graceful elemental being, with flowing hair comprised of shimmering water and skin that appears to be made from light. The figure’s elegant pose should suggest a sense of protection over the tranquil landscape.
+
+The image should be captured from a low angle, emphasizing the grandeur of the waterfall and the height of the cliffs, while delicate beams of light filter through the branches above, creating a magical play of shadows on the ground. Focus on vivid colors and intricate details to convey a sense of wonder and connection to the elemental forces of nature.
+Seed: 1982527407
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elemental, Amour

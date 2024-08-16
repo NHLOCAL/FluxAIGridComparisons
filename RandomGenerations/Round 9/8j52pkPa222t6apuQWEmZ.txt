@@ -1,0 +1,4 @@
+Prompt: Create an image illustrating the concept of duality. The scene should feature a split landscape: on one side, a vibrant, sunny park setting filled with families enjoying picnics, children playing, and bright flowers in full bloom. Soft lighting enhances the cheerful atmosphere. On the opposite side, depict a dark, stormy environment with heavy rain, lightning striking trees, and a sense of foreboding. The stark contrast between these two worlds should evoke a strong visual representation of enjoyment versus adversity. The center of the image should seamlessly blend these two extremes, creating a captivating transition from light to dark, with a cloudy sky above bridging the two sides. The overall composition aims to capture the essence of duality in life through vivid detail and contrasting hues.
+Seed: 3960052332
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enjoyment, Probability

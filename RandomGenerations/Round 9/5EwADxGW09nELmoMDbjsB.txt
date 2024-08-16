@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a park bench at dusk. The man has a weathered face, showcasing deep wrinkles and gray hair, wearing a simple coat. Beside him, an empty chair symbolizes solitude. The background features softly blurred autumn trees with leaves transitioning into warm oranges and browns, illuminated by the fading golden sunlight. A light mist begins to rise from the ground as shadows lengthen. The overall composition captures the essence of quiet reflection, emphasizing the contrasts between light and shadow, evoking feelings of nostalgia and introspection. The photograph uses a shallow depth of field, bringing sharp focus to the man while the background fades gently.
+Seed: 3922389790
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wormhole, Boredom

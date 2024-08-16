@@ -1,0 +1,4 @@
+Prompt: A captivating portrait of a feminine figure embodying duality, set in a misty, ethereal environment. The subject has one half bathed in soft, warm light, revealing her graceful features and flowing hair, while the other half is cloaked in cool, bluish fog, hinting at mysterious shadows. The background is dense with swirling mist, creating a dreamlike atmosphere. Delicate floral elements, gently illuminated in the warm light, contrast with darker foliage and abstract shapes emerging from the fog. The overall scene emphasizes the harmonious interplay of light and shadow, with intricate details capturing the complexities of beauty and desire. The art style blends realism with surreal elements, evoking a sense of intrigue and allure.
+Seed: 1586158378
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desire, Fog

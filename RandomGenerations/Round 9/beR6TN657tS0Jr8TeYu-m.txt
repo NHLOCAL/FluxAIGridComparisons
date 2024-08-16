@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of a large, ornate mirror in a softly lit room. The person is gazing deeply into the mirror, where their reflection appears slightly ethereal, almost as if it’s a glimpse into their inner self. The reflections should show subtle variations, such as a more vibrant aura or glowing elements around the figure, while the person remains grounded in reality. The background should feature muted colors, with warm, ambient lighting softly illuminating the scene, creating an intimate atmosphere. The angle should be slightly tilted, capturing both the person and their reflective image clearly, inviting the viewer to ponder the connection between the two. The overall aesthetic should evoke a sense of introspection and intrigue.
+Seed: 1118939838
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Culture, Quantity

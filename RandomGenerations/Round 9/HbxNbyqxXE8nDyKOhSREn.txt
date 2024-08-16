@@ -1,0 +1,4 @@
+Prompt: Create a dramatic scene depicting the concept of "duplicity in love". In the foreground, showcase a couple standing on a rocky shore, one half of their figures shrouded in darkness, while the other half illuminated by the cool, soft blue light of the moonlit tide. The ocean waves crash against the rocks, creating a mist that adds a mystical atmosphere. In the background, integrate icy formations that mimic twisted hearts, glistening under the moonlight. The sky is overcast with swirling gray clouds, hinting at turbulent emotions. The overall color palette should include deep blues, icy whites, and shadowy grays, emphasizing the contrast between warmth and coldness. This scene should blend elements of surrealism and realism, drawing attention to the complexity of love.
+Seed: 4208637320
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tide, Ice

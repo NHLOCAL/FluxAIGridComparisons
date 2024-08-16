@@ -1,0 +1,4 @@
+Prompt: A serene, winding path through a lush forest, lined with tall trees swaying gently in the breeze. Sunlight filters through the leaves, creating dappled patterns on the ground. Along the path, colorful wildflowers bloom in abundance, their vibrant hues contrasting with the rich greens of the foliage. The scene is filled with soft, warm lighting, capturing the essence of a peaceful afternoon. In the distance, a gentle curve reveals an enchanting clearing bathed in golden light, inviting exploration and a sense of tranquility. The overall composition emphasizes the beauty of nature, with intricate details of leaves, petals, and textures, creating a visually captivating experience.
+Seed: 1922659480
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wind, Path

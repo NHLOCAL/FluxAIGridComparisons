@@ -1,0 +1,4 @@
+Prompt: Create an image representing the concept of duality, featuring two identical figures standing back to back, each showcasing a contrasting element. One figure is illuminated by warm golden light, adorned in a bright, festive outfit, celebrating an anniversary, while the other is shrouded in cool blue twilight, draped in darker, solemn attire. The background transitions smoothly from a vibrant celebration scene with balloons and confetti on one side, to a serene, contemplative environment with soft, silhouetted trees on the other. Include intricate patterns merging where the two environments meet, symbolizing the interconnectedness of joy and sorrow. Use high contrast lighting to emphasize the differences, creating a stunning visual dichotomy. The style should blend elements of surrealism and photorealism, ensuring a striking impact.
+Seed: 1401476879
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Effect, Anniversary

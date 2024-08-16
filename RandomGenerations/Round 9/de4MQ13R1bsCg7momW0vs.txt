@@ -1,0 +1,4 @@
+Prompt: A close-up shot of a cracked, dry earth surface under harsh sunlight, highlighting the intricate textures and patterns. In the center, a single vibrant green sprout emerges defiantly from the barren ground, its leaves glistening with moisture droplets. The background features a gradient of ochre and dark brown tones, emphasizing the contrast between life and desolation. The lighting is stark, casting sharp shadows that reveal the depth of the cracks and create a dynamic interplay of light and shadow. Photorealistic, high detail, capturing the essence of resilience amidst adversity.
+Seed: 1865695651
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Black, Supernova

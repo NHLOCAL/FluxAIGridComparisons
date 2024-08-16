@@ -1,0 +1,6 @@
+Prompt: Create an image that depicts a captivating feminine figure representing duality, standing elegantly in a dimly lit dungeon. The figure should have a unique blend of light and dark elements, with one side adorned in flowing, ethereal garments that shimmer and radiate soft, warm light, while the other side is draped in shadowy, tattered fabrics that seem to absorb light. Her features should be symmetrical yet reflect contrasting emotions, with one half of her face lit in a gentle glow and the other half cast in darkness. 
+
+The dungeon's stone walls are etched with intricate patterns and faintly glowing runes, adding an air of mystique. Subtle details like hanging vines and flickering candles should enhance the atmosphere, providing depth and an ancient feel to the setting. The lighting should create intriguing shadows that play across the figure and environment, emphasizing the contrast between the light and dark elements. The overall composition should blend elements of fantasy and elegance, inviting viewers to explore the theme of duality in beauty and emotion.
+Seed: 3006857485
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dungeon, Array

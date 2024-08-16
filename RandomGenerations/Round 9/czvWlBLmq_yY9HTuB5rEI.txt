@@ -1,0 +1,8 @@
+Prompt: A panoramic photograph of a sprawling, futuristic landscape, blending elements of both sci-fi and fantasy. The foreground features a vast civilization built upon elongated, floating platforms connected by shimmering, translucent walkways. Towering spires adorned with bioluminescent flora rise majestically, casting a surreal glow against a backdrop of swirling, ethereal clouds in shades of deep blues and purples. Hovering vehicles traverse the skies, leaving glowing trails as they soar between clusters of fantastical buildings resembling a fusion of organic and mechanical designs. 
+
+In the distance, enormous, fantastical mountains with crystalline structures catch the light of a dual sunset, creating a mesmerizing gradient of colors. The horizon is lined with a mythical forest, where trees have spiral trunks and luminescent leaves. Soft ambient lighting envelops the entire scene, enhancing the otherworldly atmosphere, while hints of motion blur capture the sense of liveliness within this unique civilization. The composition invites the viewer to explore the depths of their subconscious, igniting a sense of wonder and imagination.  
+
+Photorealistic, ultra-high detail, cinematic quality.
+Seed: 3473483439
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Subconscious, Civilization

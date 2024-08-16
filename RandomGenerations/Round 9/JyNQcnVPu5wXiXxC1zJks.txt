@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph capturing a solitary, wooden bench in the midst of a dense foggy forest. The bench, slightly weathered and covered in moss, is surrounded by towering trees shrouded in mist, their silhouettes creating a mysterious and haunting atmosphere. Soft rays of diffused light break through the fog, casting an ethereal glow on the scene. The forest floor is blanketed with fallen leaves in muted shades of brown, while dew droplets cling to the vegetation, enhancing the sense of stillness and solitude. The overall composition invites contemplation, emphasizing the beauty and tranquility of nature, while maintaining an air of mystery and introspection. Ultra-high resolution, sharp focus, with an emphasis on texture and intricate details.
+Seed: 3097502483
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Voyage, Geyser

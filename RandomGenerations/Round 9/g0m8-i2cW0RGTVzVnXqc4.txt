@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary, weathered bench in an empty park during the golden hour just before sunset. The bench is surrounded by fallen autumn leaves in various shades of orange, red, and yellow, creating a vivid contrast against the green grass. In the background, a soft-focus view of an old oak tree with branches stretching overhead allows dappled sunlight to filter through, casting gentle shadows on the ground. The sky is painted in warm hues of gold, pink, and purple, reflecting the day's end. The overall composition is tranquil and contemplative, inviting the viewer to reflect on moments of solitude and passing time. The lighting is soft and warm, enhancing the rich colors and intimate feel of the scene.
+Seed: 3376777115
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Passion, Skill

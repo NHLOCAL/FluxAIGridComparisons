@@ -1,0 +1,4 @@
+Prompt: Create an image of a beautifully set, dimly lit restaurant with an elegantly dressed couple at a candlelit table. The couple should be leaning towards each other, their faces close, conveying an intimate moment. The woman's dress is flowing, with intricate lace details in a deep red color, while the man wears a tailored black suit. The background should feature rich, dark wood paneling and plush velvet curtains, with soft golden lighting creating a warm and inviting ambiance. A bottle of red wine and two glasses are on the table, partially filled, reflecting the candlelight. The overall style should be cinematic, highlighting the details and textures of the clothing, the flickering candlelight, and the allure of the setting.
+Seed: 3907483522
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Distinction, Seer

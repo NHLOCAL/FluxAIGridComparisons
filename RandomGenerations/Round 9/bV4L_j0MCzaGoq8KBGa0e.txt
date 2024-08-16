@@ -1,0 +1,8 @@
+Prompt: Create an image featuring a strikingly beautiful female figure, representing the concept of duality. She is elegantly split down the middle, with one half exuding a glamorous, high-fashion vibe in a stunning evening gown adorned with shimmering sequins and intricate beadwork, capturing the essence of luxury. The other half contrasts sharply with a more raw, natural look, featuring a flowing, earth-toned dress made of organic materials like leaves and flowers, emphasizing natural beauty. 
+
+The background transitions from a vibrant, colorful cityscape full of bright lights and bustling activity on one side, representing performance and glamour, to a serene nature scene with lush greenery and soft, ambient lighting on the other side, embodying tranquility and authenticity. This transition captures the concept of duality.
+
+The lighting in the image should enhance both realms: soft, warm lights on the glamorous side, and cool, natural lighting on the organic side. The angle should be a three-quarters view, highlighting the contrast between the two halves of her appearance while focusing on her confident stance, reflecting both aspects of feminine beauty. The overall composition should be vibrant, highly detailed, and visually captivating.
+Seed: 12907837
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Performance, Glamorous

@@ -1,0 +1,4 @@
+Prompt: A serene photograph of a tranquil beach at sunrise, with gentle waves lapping against the shore. In the foreground, a single wooden chair is positioned facing the ocean, its chipped paint reflecting years of use. Soft golden light bathes the scene as the sun begins to rise, casting long shadows and illuminating the sea with shimmering reflections. The sky above is a gradient of warm hues, transitioning from deep orange to soft pinks and light blues. Light, fluffy clouds scatter across the horizon, catching the bright colors of the dawn. The overall composition invites a sense of calm and contemplation, inviting the viewer to appreciate the beauty of nature and the start of a new day. Photorealistic style, high detail, soft focus, natural lighting.
+Seed: 1868786713
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Method, Blessing

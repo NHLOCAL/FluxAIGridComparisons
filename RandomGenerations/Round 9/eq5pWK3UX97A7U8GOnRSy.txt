@@ -1,0 +1,4 @@
+Prompt: A photograph of a solitary tree standing in the middle of a wide, barren field. The tree's gnarled branches stretch out against a dramatic sky filled with dark, swirling storm clouds, illuminated by occasional flashes of lightning. The ground is dry and cracked, with patches of grass struggling to survive. In the distance, a faint silhouette of mountains looms under a setting sun, casting a deep orange glow that contrasts starkly with the ominous sky. The overall composition creates a feeling of isolation and resilience, emphasizing the tree's enduring presence amidst the harsh environment. The lighting is dramatic, highlighting the textures of the tree and the land, creating a powerful visual narrative.
+Seed: 1088184914
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Passion, Striking

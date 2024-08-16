@@ -1,0 +1,8 @@
+Prompt: Create an image depicting the concept of duality in a mystical marsh setting. On one side, illustrate a serene, reflective water body, surrounded by lush, green flora. Gentle mist rises from the surface, adding a sense of calm and tranquility. The environment is illuminated by soft, golden sunlight filtering through the leaves, creating dappled patterns of light on the ground. 
+
+On the other side, showcase a contrasting, dreamlike mirage with surreal, vibrant colors. The water appears almost otherworldly, shimmering in hues of deep blues and purples, as ethereal shapes and distorted reflections dance across the surface. Strange, fantastical plants with glowing features emerge from the ground, their luminescence casting an eerie light in the murky atmosphere. 
+
+The overall composition should emphasize the juxtaposition between the peaceful, realistic marsh and the bizarre, illusionary mirage. The image should be rendered in a hyper-detailed, illustrative style, with dramatic lighting to highlight the differences between both sides, creating an enchanting and thought-provoking visual experience.
+Seed: 1486622464
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Marsh, Mirage

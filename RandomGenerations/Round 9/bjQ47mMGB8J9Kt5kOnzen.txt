@@ -1,0 +1,4 @@
+Prompt: A breathtaking sci-fi/fantasy landscape featuring towering mountains under a dramatic sky filled with vibrant, swirling colors. Lightning strikes illuminate the scene, casting a bright glow against the dark, ominous clouds overhead. The landscape is rich with strange, exotic flora, with bioluminescent plants scattered across the rocky terrain, emitting a soft, surreal light. In the foreground, a crystalline lake reflects the vibrant colors of the sky and the jagged mountains, while distant alien structures rise above the mountain ridges, hinting at an advanced civilization. The angle captures the vastness of the landscape, emphasizing the otherworldly atmosphere and the awe-inspiring power of nature. Cinematic lighting enhances the details, creating a sense of respect for the grandeur and mystery of this fantastical world.
+Seed: 3574868152
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lightning, Respect

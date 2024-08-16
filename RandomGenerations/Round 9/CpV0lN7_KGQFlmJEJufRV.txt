@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a strong, determined figure carrying a heavy load on their shoulders. The upper part of the figure should seamlessly blend with an intricate, winding staircase that spirals upwards, symbolizing ambition and the journey of overcoming challenges. The staircase should be detailed with ornate railings and dimly lit, creating an atmosphere of mystery. The background should be slightly blurred to emphasize the figure and staircase, with soft, warm lighting cascading downwards, highlighting the contours of the subject and staircase. The overall composition should evoke a sense of strength, perseverance, and the progression toward one's goals, rendering the image in a realistic and visually striking style.
+Seed: 2572674304
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Load, Staircase

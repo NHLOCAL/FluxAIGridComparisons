@@ -1,0 +1,4 @@
+Prompt: A dramatic photograph capturing a young woman standing in front of a shattered mirror. Her reflection displays a variety of emotions, with one half of her face showing a vibrant smile while the other side reveals a somber frown. Each shard of the mirror reflects fragmented pieces of her surroundings—a dimly lit room filled with contrasting warm and cold tones. The room has shadows cast by flickering candles, creating an atmosphere that oscillates between warmth and unease. The lighting emphasizes the duality between joy and sorrow, further enhanced by the woman's attire—half covered in elaborate floral patterns and half in stark black fabric. The overall composition creates a thought-provoking commentary on the complexities of identity and emotion.
+Seed: 9013690
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Method, Magic

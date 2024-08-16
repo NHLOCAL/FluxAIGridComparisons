@@ -1,0 +1,4 @@
+Prompt: Create an image capturing a serene sunset over a tranquil beach. The sun, a vibrant orange disc, dips below the horizon, casting warm hues of pink and purple across the sky. Gentle waves lap at the shoreline, reflecting the sunset's colors in a shimmering pattern. Silhouettes of palm trees frame the scene on either side, swaying lightly in a soft breeze. A lone seashell rests on the sand in the foreground, adding a focal point that invites contemplation and connection with nature. The overall composition is calming, with a blend of soft, warm lighting and a wide-angle view that encapsulates the beauty and stillness of the moment.
+Seed: 2302760035
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Invention, Show

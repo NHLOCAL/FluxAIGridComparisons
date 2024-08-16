@@ -1,0 +1,4 @@
+Prompt: Create a detailed illustration of a multi-headed hydra in a romantic, surreal setting. Each head of the hydra is adorned with intricate, ornate patterns representing facets of love, with their eyes glowing softly and expressions varying from serene to curious. The background showcases a tranquil, moonlit lake reflecting the hydra and surrounded by lush, vibrant foliage. The scene is enveloped in a soft mist that enhances the dreamlike quality, with delicate, glowing fireflies dancing around. The lighting is gentle and ethereal, casting a soothing ambiance across the scene. The overall style merges fantasy and surrealism, focusing on delicate details and color harmonization, evoking a sense of calm and romance in the midst of the hydra's duality.
+Seed: 1817210472
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Slowness, Hydra

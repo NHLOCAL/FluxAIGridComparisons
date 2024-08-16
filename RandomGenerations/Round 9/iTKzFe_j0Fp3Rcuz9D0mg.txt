@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a weathered wooden bench overlooking a peaceful lake at sunrise. The scene captures the soft, golden hues of the early morning light reflecting on the water's surface, with gentle ripples creating a sense of tranquility. Surrounding the bench, vibrant wildflowers bloom in shades of purple, yellow, and white, adding a touch of color to the serene landscape. In the background, mist rises from the lake, partially obscuring the silhouette of distant, lush green hills. The overall composition invites contemplation and connection with nature, highlighting the beauty of stillness and solitude in a breathtaking setting. Photographic style, ultra-high detail, emphasis on light and texture.
+Seed: 1009590404
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Guild, Fish

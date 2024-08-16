@@ -1,0 +1,8 @@
+Prompt: Create an illustration embodying the concept of duality, featuring two elegant human figures standing back to back, each representing contrasting elements. One figure should be adorned in vibrant colors, showcasing a flowing gown with intricate patterns and floral designs, radiating warmth and brightness. The other figure, in stark contrast, should be dressed in deep, muted tones, featuring a structured outfit that conveys strength, with sharp angles and geometric shapes. 
+
+The background should be split down the middle: one side bathed in golden sunlight, highlighting lush greenery and blooming flowers, while the other side is engulfed in cool shadows, depicting a stark urban landscape under a night sky filled with stars. The lighting should emphasize the contrasts between warmth and cold, softness and rigidity. 
+
+The angle of the illustration should be a dramatic three-quarter view, capturing the dynamic tension between the two figures, symbolizing the beautiful interplay of opposites. The overall art style should be a blend of realism and whimsical fantasy, showcasing intricate details and a captivating color palette that enhances the theme of duality.
+Seed: 2794387357
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gorgeous, Talent

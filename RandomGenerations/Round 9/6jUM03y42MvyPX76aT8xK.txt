@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi/fantasy photograph of a vast canyon landscape under a tumultuous sky. Jagged cliffs with a variety of textures create dramatic silhouettes against the backdrop. The canyon floor is bathed in eerie, bluish-green light emanating from glowing crystals embedded in the rocks. In the distance, soaring alien structures rise from the canyon walls, their metallic surfaces reflecting the shifting colors of the ominous clouds above. A sense of fear is evoked by swirling mist at the base of the cliffs, obscuring the ground and hinting at unseen creatures lurking within. The lighting is dynamic, casting long shadows across the landscape, enhancing the sense of depth and otherworldliness. The overall composition merges elements of surrealism and fantasy, drawing the viewer into this haunting and awe-inspiring world.
+Seed: 1384004778
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Canyon, Fear

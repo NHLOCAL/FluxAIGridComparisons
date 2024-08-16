@@ -1,0 +1,4 @@
+Prompt: Create a serene photograph of a cozy reading nook by a large window, where soft sunlight filters through sheer white curtains, casting gentle patterns on the floor. A plush armchair, upholstered in warm, earth-toned fabric, is adorned with a couple of knitted blankets and a pile of colorful cushions. On a small wooden side table, place an open book next to a steaming cup of herbal tea, with a tiny plate of cookies nearby. The window displays a peaceful garden view filled with blooming flowers and lush green foliage, inviting a sense of tranquility. The overall lighting is soft and inviting, creating a warm atmosphere that signifies comfort and relaxation. Photorealistic, high detail, inviting, cinematic.
+Seed: 3533442085
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Comfort, Area

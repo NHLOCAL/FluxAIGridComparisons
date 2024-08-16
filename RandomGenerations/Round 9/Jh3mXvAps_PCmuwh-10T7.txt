@@ -1,0 +1,4 @@
+Prompt: Create a vibrant and lively scene depicting a bustling Havana street at night. The cobblestone street is lined with colorful colonial buildings, their facades adorned with lush tropical plants and illuminated by warm, inviting street lights. A classic vintage car in bright turquoise is parked along the roadside, while street musicians play lively Cuban music near an outdoor café filled with people enjoying mojitos. The atmosphere is festive, with twinkling fairy lights strung overhead and locals dancing in the street under a canopy of stars. The scene should be captured from a slightly elevated angle, showcasing the vibrant colors of the buildings and the joyful energy of the night. Emphasize a warm glow in the lighting, reflecting the lively spirit of Havana, infused with elements of cultural richness and charm.
+Seed: 3619855871
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Idea, Glass

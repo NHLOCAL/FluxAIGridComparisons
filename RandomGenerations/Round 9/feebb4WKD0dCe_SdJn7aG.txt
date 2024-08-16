@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of two identical mirrors placed back-to-back in a dimly lit room. The mirrors reflect a contrasting scene in each direction: one side shows a vibrant, sunny landscape filled with blooming flowers, and the other side portrays an ominous, stormy scene with dark clouds and rain. Each side should have intricate details, with the sunlight illuminating the flowers and shadows cast by the storm. The frame of the mirrors should be ornately designed, with elements of decay and wear, highlighting the passage of time. The room itself is minimalistic, with wooden floors and peeling wallpaper, creating a sense of nostalgia and tension. Subtle dust particles float in the air, catching the light, adding to the mysterious atmosphere of duplicity and contrast. The overall composition emphasizes the duality of beauty and despair.
+Seed: 1266324513
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heavenly, Copper

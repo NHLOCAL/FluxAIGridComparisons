@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split-faced figure, half smiling and half frowning, with the left side adorned in vibrant colors and the right side in dark monochrome. The vibrant side features intricate makeup with dazzling patterns and accessories, while the dark side has a rough, weathered texture indicating struggles. The background transitions from a bright, lively cityscape on the colorful side to a dim, shadowy alley on the dark side. The lighting on the colorful side is warm and inviting, while the dark side is illuminated by harsh, cold light, enhancing the contrast between joy and despair. The perspective should be a close-up shot, emphasizing the duality in the figure's expression and surroundings. Photorealistic style, ultra-high detail, 8K resolution.
+Seed: 1885879315
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Centaur, Stunning

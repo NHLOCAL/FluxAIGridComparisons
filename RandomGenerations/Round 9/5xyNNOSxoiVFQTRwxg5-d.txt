@@ -1,0 +1,8 @@
+Prompt: Create an illustration featuring a feminine figure embodying the concept of duality. The character should have a hyper-realistic design with one half appearing as a traditional human, radiating beauty with delicate features, flowing hair, and soft facial expressions. The other half should be a transparent, mutant form with an ethereal, otherworldly look, showcasing intricate biological details like luminescent veins and abstract textures that give a sense of fragility and strength simultaneously. 
+
+The background should depict a surreal landscape that transitions from a serene, enchanted forest filled with soft pastel colors on one side, representing harmony, to a stark, futuristic environment with sharp, metallic structures and neon lights on the other side, representing chaos. 
+
+The lighting should be soft and dreamy on the nature side, creating a warm, inviting glow, while the other side should have stark, dramatic lighting casting harsh shadows, emphasizing the contrast. The angle should be slightly tilted to enhance the feeling of duality, with the figure central and dominating the composition. The overall style should merge elements of realism and surrealism, capturing the essence of feminine beauty intertwined with the concept of transformation and complexity.
+Seed: 3963157222
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mutant, Transparency

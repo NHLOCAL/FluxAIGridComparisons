@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image merging a bustling urban street scene with a vibrant field of flowers. The street should be filled with people and tall buildings, infused with dynamic urban elements like traffic lights and street signs, capturing a sense of motion and life. Overlay this scene with a rich array of flowers in full bloom—roses, tulips, and daisies—intertwining and blending seamlessly with the urban landscape. Use bright, vivid colors for the flowers to contrast against the muted tones of the city, creating a surreal effect. The composition should capture both the energy of city life and the tranquility of nature, with the lighting highlighting the delicate petals against the backdrop of the street. High detail, artistic, photo-realistic style.
+Seed: 2859408871
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Street, Flower

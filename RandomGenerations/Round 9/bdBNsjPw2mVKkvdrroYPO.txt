@@ -1,0 +1,8 @@
+Prompt: Create a hyper-realistic photograph depicting a breathtaking sci-fi/fantasy landscape featuring a colossal mountain that towers majestically against the sky. The mountain's surface is covered in shimmering, iridescent minerals that reflect a myriad of colors, creating an otherworldly glow. Surrounding the base of the mountain, vast fields of bioluminescent flora emit a soft, ethereal light in shades of blue and purple, adding to the dreamlike quality of the scene. 
+
+In the foreground, a gentle river flows with crystalline waters, reflecting the vibrant colors of the landscape. Wisps of mist hover above the water's surface, adding a sense of mystery. The sky is a vibrant gradient of deep oranges, purples, and pinks, suggesting a surreal sunset or sunrise, enhancing the enchanting atmosphere. 
+
+The composition captures a wide-angle view, emphasizing the grandeur and scale of the mountain, while the soft, diffused lighting creates a serene ambiance. The overall scene conveys a sense of wonder and exploration, inviting the viewer into a vibrant, fantastical world.
+Seed: 1534176376
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scent, Mountain

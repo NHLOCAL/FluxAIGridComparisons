@@ -1,0 +1,4 @@
+Prompt: Create an image of a graceful, feminine figure symbolizing beauty and conquest, standing confidently on a mountain peak. The woman has flowing, ethereal hair that transitions smoothly between light and dark colors, representing duality. She is dressed in an elegant gown that shimmers like diamond facets, reflecting vibrant colors in the sunlight. The backdrop features a breathtaking landscape with contrasting elements - one side lush and vibrant with flowers, while the other is rocky and barren, symbolizing the balance of duality. The sky above is a dramatic blend of sunset hues, casting a warm glow on the scene. The angle is slightly below eye level, enhancing the sense of grandeur and empowerment, with soft, diffused lighting emphasizing her figure and the intricate details of the gown.
+Seed: 3555265971
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conquest, Diamond

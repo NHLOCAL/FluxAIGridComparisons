@@ -1,0 +1,4 @@
+Prompt: A haunting black and white photograph capturing a pair of vintage theater masks—one depicting a joyous smile, the other a sorrowful frown. The masks are placed side by side on a cracked, weathered wooden table, with soft, diffused lighting casting gentle shadows that enhance their facial features. The background is blurred, hinting at an empty theater stage, draped in velvety curtains slightly illuminated by distant stage lights. The overall composition emphasizes the contrasting expressions, inviting viewers to ponder themes of duplicity and the complexity of human emotions, with an atmosphere of nostalgia and contemplation.
+Seed: 1737406805
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cyborg, Epic

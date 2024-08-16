@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of a large, ornate mirror in a softly lit room. The subject, a young adult with an introspective expression, gazes into the mirror, where their reflection reveals an ethereal version of themselves, depicted with luminous, flowing features and a serene expression. The reflection should emanate a gentle glow, creating a stark contrast with the surrounding dim atmosphere. The background is filled with elegant, vintage wallpaper and soft shadows, enhancing the intimate and reflective mood. The angle is straight on, capturing both the subject and their illuminating reflection, focusing on the intricate details of their facial features and the ornate frame of the mirror. Overall, the scene evokes a sense of self-discovery and introspection, achieved through warm, inviting lighting and a balanced composition.
+Seed: 2313154589
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Variety, Flame

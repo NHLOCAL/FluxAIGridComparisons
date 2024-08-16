@@ -1,0 +1,4 @@
+Prompt: An abstract artwork representing the concept of duality, featuring an intricate rune design at its center. The rune should be encased in a larger circle that splits the image into two distinct halves—one side adorned with shades of deep gray and metallic textures, evoking a sense of strength and stability, while the other side features lighter grays with softer, flowing patterns that suggest fluidity and movement. The background is a gradient that transitions from dark charcoal at the edges to a silvery gray at the center, emphasizing the focal point of the rune. The lighting should be dramatic, casting sharp shadows and highlights to accentuate the textures and patterns, creating a captivating visual tension within the piece. The art style should be modern and minimalist, inviting the viewer to contemplate the balance between the contrasting elements of duality.
+Seed: 1107796798
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rune, Gray

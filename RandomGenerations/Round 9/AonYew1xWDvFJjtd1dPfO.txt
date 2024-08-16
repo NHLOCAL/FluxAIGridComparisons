@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring the silhouette of a strong person standing confidently atop a mountain peak. Within the silhouette, depict a bustling city skyline filled with skyscrapers and vibrant lights, symbolizing capability and influence. The background should be a clear blue sky transitioning into a warm sunset, creating a sense of optimism and opportunity. Blend the edges of the silhouette seamlessly into the landscape, allowing the elements of the city to appear within the figure's form. Use soft, diffused lighting to enhance the overall atmosphere, emphasizing the connection between the individual and their impact on the urban environment. The artwork should have a modern and motivational style, showcasing ambition and strength.
+Seed: 1552475371
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Influence, Capability

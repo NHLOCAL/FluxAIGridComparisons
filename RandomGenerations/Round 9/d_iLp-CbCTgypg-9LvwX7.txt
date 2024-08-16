@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a beautiful masquerade ball scene set in an opulent ballroom. Elegant chandeliers cast warm light throughout the room, illuminating guests in extravagant costumes and intricate masks. Focus on a central figure, a woman in a lavish gown, with half of her face hidden behind a beautifully ornate mask that features delicate filigree and vibrant feathers. Her visible eye exudes a mysterious allure, while the other half is shrouded in shadow, suggesting duplicity. The background is filled with swirling colors of dress fabric and masked figures mingling, bathed in soft, golden ambiance. The polished marble floor reflects the grandeur of the scene, enhancing the sense of splendor and intrigue in the atmosphere. High detail, cinematic lighting, inviting yet enigmatic composition.
+Seed: 2115729752
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lounge, Measure

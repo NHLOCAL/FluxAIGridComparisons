@@ -1,0 +1,8 @@
+Prompt: A striking photograph capturing a person standing before a large, ornate mirror in a softly lit room. The individual is a young woman with long dark hair, dressed in a flowing, white gown that gently billows around her. Her expression reflects curiosity and introspection as she gazes into the mirror. 
+
+In the reflection, instead of her typical image, project a vibrant and surreal version of herself, vibrant colors swirling around her figure. This inner self can be depicted with radiant energy, perhaps adorned with ethereal elements such as glowing patterns and abstract designs that symbolize her personality and dreams. 
+
+The background features soft, ambient lighting with warm tones, creating a serene and contemplative atmosphere. Delicate shadows from nearby plants enhance the depth of the scene. The angle captures both the woman and her fantastical reflection, inviting viewers to explore the relationship between external appearances and inner identities. The overall composition achieves a sense of harmony between reality and the vibrant essence of the self. 
+Seed: 632504492
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sorcerer, Opal

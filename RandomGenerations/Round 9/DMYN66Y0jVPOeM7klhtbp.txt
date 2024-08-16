@@ -1,0 +1,4 @@
+Prompt: Create a stunning photograph of a surreal sci-fi landscape, featuring a vibrant alien terrain filled with towering luminescent plants that emit a soft glow in shades of blue and purple. In the foreground, there is a crystalline lake reflecting the strange vegetation and a swirling, star-filled sky above. The sky is painted with dazzling hues of pink, orange, and dark blue, with swirling clouds that seem to pulse with energy. A distant mountain range looms under a nebulous cascade of colorful gases, reminiscent of a cosmic display. The overall composition will evoke a sense of wonder and intrigue, inviting the viewer to explore this alluring yet mysterious world. The lighting should be dramatic, with high contrasts emphasizing the details of the landscape, and a slight mist enveloping the scene to enhance the ethereal quality.
+Seed: 3114306960
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alluring, Doubt

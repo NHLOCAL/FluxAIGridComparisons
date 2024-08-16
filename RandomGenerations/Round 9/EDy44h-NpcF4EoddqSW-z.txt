@@ -1,0 +1,6 @@
+Prompt: Create a thought-provoking photograph that captures a person standing in front of an ornate, antique mirror. The adult, a middle-aged individual with thoughtful features, gazes at their reflection with a contemplative expression. In the mirror's glass, depict the youthful version of themselves, around 10 years old, looking back with wide, innocent eyes, embodying curiosity and hope. The adult is dressed in casual, slightly worn clothing, while the younger self wears a colorful t-shirt and jeans.
+
+The setting features a softly lit, cozy room adorned with vintage furniture, emphasizing nostalgia. Warm, golden lighting illuminates the scene, casting gentle shadows and creating an inviting atmosphere. The angle of the shot is slightly tilted upwards, allowing both the adult and child reflections to be in focus. A few personal mementos surround the scene, like childhood photographs on a nearby shelf, hinting at the passage of time and memories. The overall composition evokes a sense of introspection and the connection between past and present, captured in a moment of reflection.
+Seed: 3035422842
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rule, Gnome

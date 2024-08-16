@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic portrait of a delicate, feminine figure standing gracefully in an ethereal landscape. She has flowing, long hair that is partially caught in a gentle breeze, embodying both elegance and strength. The background features a serene balance of lush greenery on one side, symbolizing stability, while the other side fades into soft, wispy clouds that float effortlessly, representing the duality of nature. The lighting is soft and diffused, providing a warm glow that highlights the contours of her face and the intricate details of her attire, which is a flowing, translucent gown that dances lightly in the breeze. The scene should evoke a sense of harmony between the elements, capturing the essence of beauty and tranquility in the composition.
+Seed: 2626014086
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Breeze, Stability

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man's weathered hands gently holding a delicate, blooming flower. The hands showcase deep wrinkles and scars, telling stories of a life well-lived. The flower, vibrant and full of life, contrasts against the aged skin. The background should be a softly diffused, warm golden light, resembling a late afternoon sun. The focus should be tight on the hands and flower, creating a serene and intimate atmosphere, highlighting the juxtaposition between fragility and strength. The overall composition should emphasize texture and detail, drawing attention to every fold in the skin and petal of the flower.
+Seed: 1883014102
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Iron, Witness

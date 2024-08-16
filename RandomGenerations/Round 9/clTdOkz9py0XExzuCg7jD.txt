@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of a long, empty road stretching into the distance, flanked by barren trees on either side, their twisted branches creating stark silhouettes against a moody sky. The pavement is wet, reflecting a mixture of dark grays and deep blues, presenting a sense of emptiness and solitude. In the foreground, a broken heart-shaped red balloon is seen trapped in the barbed wire fencing along the road, symbolizing lost affection. The lighting is dim, with a subtle mist hovering above the ground, enhancing the eerie atmosphere. The angle is an eye-level shot, allowing viewers to feel as though they are part of the scene, emphasizing the themes of loneliness and the passage of time, framed by the duality of beauty and desolation.
+Seed: 1935052293
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Destination, Bonding

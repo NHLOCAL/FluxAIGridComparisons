@@ -1,0 +1,6 @@
+Prompt: Create a hyper-realistic photograph of a stunning sci-fi/fantasy landscape that blends nature and advanced technology. The scene features a lush, verdant valley surrounded by towering mountains made of metallic, gleaming materials that reflect vibrant colors of blue, purple, and green. In the foreground, a river of luminous liquid flows, with trees that have bioluminescent leaves and intricate cybernetic enhancements, their branches intertwining with glowing circuits. 
+
+The sky above is a stunning gradient, transitioning from a soft pink at the horizon to deep indigo, dotted with futuristic flying vehicles and celestial bodies casting surreal light. The overall atmosphere should evoke a sense of harmony between nature and technology, with refined details capturing the intricate designs of the cybernetic elements. The image should be illuminated by soft, ethereal lighting, enhancing the otherworldly feel of the landscape, while shadows create depth and intrigue throughout the scene.
+Seed: 984585877
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cybernetics, Refined

@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a vast, ancient arena filled with intricate architectural details, like columns and arches. The arena should be semi-overgrown with greenery, hinting at a forgotten history. Overlaying this scene, depict abstract representations of favor, such as delicate, ethereal light beams or soft, swirling mists that convey a sense of grace and elegance. The combination should evoke a sense of ancient significance intertwined with a light, airy atmosphere. The background should have a soft focus, allowing the foreground elements to stand out sharply. Utilize a muted color palette with earthy tones for the arena and gentle pastel hues for the light elements, enhancing the dreamlike quality of the image. High detail, artistic interpretation, double exposure effect, cinematic lighting.
+Seed: 780306780
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Arena, Favor

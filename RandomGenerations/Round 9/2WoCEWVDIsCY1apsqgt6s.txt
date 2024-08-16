@@ -1,0 +1,8 @@
+Prompt: Compose an image of a split scene featuring two contrasting environments within a single frame. On the left side, depict a serene, sunlit meadow with vibrant wildflowers, gentle rolling hills, and a clear blue sky, inviting feelings of peace and tranquility. On the right side, create a dark, stormy landscape with jagged cliffs and swirling gray clouds, suggesting chaos and tension. 
+
+In the foreground, place a central figure, dressed in a flowing gown that blends into both backgrounds, half in bright colors representing the meadow and half in dark shades corresponding to the stormy side. The figure stands with one arm reaching towards the sunlight while the other is drawn back, encapsulating the duality of serenity and turmoil. The lighting should highlight the split between both environments, with a clear demarcation where the brightness fades into shadow. 
+
+Utilize a high contrast between the colors and details on either side to emphasize the emotions of joy and despair, creating a captivating visual narrative of duplicity.
+Seed: 1777277927
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Award, Estuary

@@ -1,0 +1,6 @@
+Prompt: Create an image that depicts a feminine figure embodying the theme of duality, set within a misty bog environment. The figure should be shown split down the middle; one side radiates softness and ethereal grace, adorned in flowing, light-colored garments that blend seamlessly with the delicate flora of the bog, such as soft moss and floating lilies. The other side contrasts sharply, portraying strength and control, draped in dark, textured fabrics resembling rugged foliage or tree bark, suggesting a connection to the earth.
+
+The background features a blend of fog and soft light filtering through the trees, casting dappled shadows across the scene. Reflections of both sides of the figure can be seen in the still waters of the bog, enhancing the theme of duality. The lighting should be moody, with a harmonious balance between light and dark areas, emphasizing the beauty of both aspects of the figure. The overall composition should evoke a sense of mystery and connection to nature, capturing the essence of feminine beauty through duality.
+Seed: 1445233668
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bog, Control

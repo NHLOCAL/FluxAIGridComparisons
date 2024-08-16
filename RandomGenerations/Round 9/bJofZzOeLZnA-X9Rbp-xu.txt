@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic portrait of a couple entwined in an embrace, featuring intricate facial details and a sense of depth. The couple should appear to express a complex mixture of emotions; their expressions should range from warmth to tension, capturing the concept of duplicity in love. The background is a blurred cityscape at dusk, with soft, diffused lighting casting gentle shadows on their faces. The color palette should include deep reds and blues to emphasize the heaviness of the moment. The angle should be slightly elevated, giving a sense of intimacy while highlighting the juxtaposition of their expressions. Use a cinematic style, focusing on sharp details and rich textures, to create an immersive experience.
+Seed: 318770169
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heaviness, Darling

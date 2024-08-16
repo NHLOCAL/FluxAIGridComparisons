@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi/fantasy landscape featuring a colossal robot standing atop a rocky cliff, surveying a vast, alien terrain. The robot, made of polished metal and intricate machinery, is adorned with glowing blue accents that pulse softly. Below, a labyrinthine city of towering structures with unusual architecture sprawls across the valley, illuminated by vibrant neon lights. The sky above is a swirling mass of purple and blue hues, dotted with distant stars and celestial bodies. Wispy clouds drift through the scene, adding depth to the atmosphere. The image is captured in high resolution, emphasizing the intricate details of both the robot and the city, with a dramatic view from below, shooting upward to highlight the grandeur of the setting. Cinematic lighting casts striking shadows, intensifying the otherworldly feel of the environment.
+Seed: 178503528
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Robot, Structure

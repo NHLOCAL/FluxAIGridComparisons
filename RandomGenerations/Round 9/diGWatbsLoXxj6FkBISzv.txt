@@ -1,0 +1,4 @@
+Prompt: Create a close-up photograph of a weathered wooden bridge over a tranquil lake at dawn. The bridge's aged planks are covered in a layer of mist, with droplets of water glistening in the soft morning light. On the left side of the frame, include a single, bright red maple leaf resting on the bridge, contrasting with the neutral tones of the wood. The lake should be mirror-like, reflecting the soft pastels of the sky—pink, orange, and lavender. Use a shallow depth of field to blur the background gently, focusing on the details of the bridge and the leaf. The overall lighting should be soft and warm, creating an inviting and serene atmosphere that captures the essence of a quiet moment in nature.
+Seed: 4252426144
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Understanding, Copper

@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of an elderly man's weathered hands gently holding a fragile, blooming flower. The hands, showing deep wrinkles and age spots, are set against a cracked wooden table that suggests a long history. The background is softly blurred with warm, golden sunlight streaming through, casting a gentle glow on the scene. The flower's vibrant colors contrast beautifully with the muted tones, creating a poignant focus. The play of light and shadow accentuates the textures of both the hands and the petals, inviting a sense of reflection on time, fragility, and beauty. Ultra-high detail, warm lighting, cinematic composition.
+Seed: 1853229453
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Campaign, Alliance

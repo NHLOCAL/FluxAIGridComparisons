@@ -1,0 +1,4 @@
+Prompt: A captivating portrait of a feminine figure that embodies duality and glamour. The subject is divided in half, with one side showcasing classic beauty with soft, flowing hair, delicate features, and an elegant gown adorned with intricate designs. The other half presents a more edgy, modern look with bold makeup, vibrant hair, and a sharp, avant-garde outfit. The background transitions smoothly from a serene pastel color palette on one side to a bold, vibrant gradient on the other, emphasizing the contrast between the two styles. Dramatic lighting casts soft shadows on the classic side and sharp highlights on the modern side, creating a sense of depth and intrigue. The scene is framed with ornate golden elements that enhance the glamorous atmosphere, making this illustration a striking representation of feminine beauty and duality.
+Seed: 3855238052
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Subject, Glamorous

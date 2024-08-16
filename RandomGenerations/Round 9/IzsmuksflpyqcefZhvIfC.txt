@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man's hands, deeply wrinkled and showing signs of age, gently holding a fragile, wilted flower. The background is softly blurred, featuring an out-of-focus garden bathed in warm, golden sunlight, creating a nostalgic atmosphere. The lighting highlights the texture of the skin and the delicate petals of the flower, casting gentle shadows that add depth to the scene. The composition should focus closely on the hands and the flower, capturing the contrast between the man’s experienced hands and the flower’s vulnerability, evoking a sense of tenderness and the passage of time.
+Seed: 3062082529
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Trail, Belief

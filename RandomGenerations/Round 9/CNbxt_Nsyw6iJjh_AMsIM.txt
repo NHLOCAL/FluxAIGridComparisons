@@ -1,0 +1,4 @@
+Prompt: A close-up shot of a cracked, old mirror reflecting a young woman. One half of the mirror reveals her smiling face, radiating joy and confidence, while the other half shows a frowning, tear-streaked visage with hollow eyes, symbolizing her inner turmoil. The frame of the mirror is ornate but deteriorating, adding a sense of history and depth. The lighting is soft and diffused, highlighting the contrast between the two expressions and creating a surreal atmosphere. The background is blurred, suggesting an undefined, chaotic space that further emphasizes the duality of the woman's emotions. This photograph captures the essence of duplicity in a striking and thought-provoking manner.
+Seed: 1712577723
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wizard, Strength

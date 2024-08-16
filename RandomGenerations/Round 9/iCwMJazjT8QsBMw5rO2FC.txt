@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a feminine figure embodying duality, standing gracefully in a striking pose. One half of her body is adorned with vibrant floral patterns and bright colors, representing life and vitality, while the other half is shrouded in darker, more muted tones, symbolizing mystery and introspection. The background features a split design, with one side depicting a sunlit garden filled with blooming flowers and soft pastel colors, while the other side presents a moonlit forest with deep shadows and twinkling stars. Use soft, ethereal lighting to create a harmonious blend between the two halves, emphasizing the contrast and commitment to embracing both aspects of beauty. The overall composition should convey a sense of balance and elegance, with intricate details and flowing lines, capturing the essence of feminine beauty through the lens of duality.
+Seed: 2735465611
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Image, Commitment

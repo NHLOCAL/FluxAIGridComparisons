@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines the silhouette of a captivating country landscape with elements of a vibrant rural life. The foreground should feature the outline of a majestic mountain range, its peaks adorned with glistening snow caps. Within this silhouette, blend in scenes of green rolling hills dotted with wildflowers, picturesque farms, and a winding river reflecting the clear blue sky. Inhabit the landscape with subtle details such as grazing animals and rustic barns, showcasing the essence of country living. The overall lighting should be warm and inviting, reminiscent of a late afternoon sun casting golden rays across the scenery, creating a harmonious blend of nature and rural life. Emphasize the contrast between the serene country life and the grandeur of the mountains.
+Seed: 954784797
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Captivating, Country

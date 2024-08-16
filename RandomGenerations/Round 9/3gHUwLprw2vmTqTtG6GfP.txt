@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi/fantasy landscape featuring a serene glade inhabited by a noble satyr, poised gracefully among the lush foliage. The satyr, with goat-like legs and curling horns, holds a delicate, shimmering harp, its features illuminated by soft, ethereal light filtering through the dense canopy of multi-colored leaves above. In the background, majestic mountains jut into a vibrant sky filled with swirling clouds in hues of purple and gold, while a shimmering river winds through the scene, reflecting the fantastical colors. Glowing orbs of mysterious energy float gently in the air, adding an enchanting quality to the atmosphere. The overall composition combines elements of natural beauty and magical realism, inviting viewers into a captivating world of fantasy. Photorealistic style, highly detailed, award-winning, vibrant colors, cinematic lighting.
+Seed: 692738230
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Faith, Satyr

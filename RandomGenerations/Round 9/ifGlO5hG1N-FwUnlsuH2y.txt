@@ -1,0 +1,8 @@
+Prompt: Create an image of a fantastical landscape dominated by a colossal, ancient dinosaur, resembling a roaring T-Rex, standing atop a rocky cliff. The dinosaur's vibrant green scales glisten in the sunlight, with its mouth open in a powerful roar, emphasizing its grandeur. Surrounding the creature are lush mountains dotted with exotic vegetation, vivid flowers, and cascading waterfalls that glimmer with iridescent colors. 
+
+The sky above is a kaleidoscope of sunset hues—deep purples, fiery oranges, and soft pinks—merging into a cosmic twilight filled with twinkling stars. A vibrant aurora sweeps across the horizon, adding to the otherworldly atmosphere. In the foreground, a curious group of fantastical creatures, such as small, feathered dragons and ethereal deer, gaze up in awe at the towering dinosaur, capturing the sense of attraction and wonder.
+
+The lighting is dramatic, with radiant beams of sunlight filtering through the clouds, casting intricate shadows across the landscape, while the scene is rendered in high detail, creating a captivating and immersive fantasy world.
+Seed: 4244846450
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Roar, Attraction

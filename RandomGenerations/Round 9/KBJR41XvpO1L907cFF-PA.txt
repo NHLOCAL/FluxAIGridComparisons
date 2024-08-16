@@ -1,0 +1,4 @@
+Prompt: A close-up shot of a cracked, weathered mirror reflecting the fragmented image of a man's face. One half of his face is illuminated by warm, inviting sunlight, highlighting his gentle smile, while the other half remains shadowed and obscured, revealing a frown and deep lines of worry. The background features a blurred garden filled with vibrant flowers on the sunny side, contrasting with a stormy, darkened landscape on the shadowed side. The image captures the duality of human experience, showcasing the interplay between joy and sorrow, hope and despair. The overall composition emphasizes texture, detail, and the merging of contrasting elements, creating a thought-provoking visual narrative, high detail, photorealistic.
+Seed: 373934764
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yield, Culture

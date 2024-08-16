@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a breathtaking sci-fi fantasy landscape, featuring a vast, otherworldly terrain. In the foreground, a shimmering, crystal-clear lake reflects the vibrant colors of a surreal sunset sky, with swirling hues of purple, pink, and orange blending into one another. Surrounding the lake, alien flora with luminescent flowers and towering, spiraled trees create an enchanting atmosphere. In the distance, majestic mountains rise dramatically against the backdrop, their peaks capped with glowing ice that sparkles in the dim light. Atmospheric effects such as gentle mist rolling over the landscape and soft, ethereal glows enhance the elegance of the scene, creating an inviting yet mysterious ambiance. The overall composition should evoke a sense of wonder, capturing the viewer's imagination and transporting them to this extraordinary world.
+Seed: 953288212
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elegant, Effect

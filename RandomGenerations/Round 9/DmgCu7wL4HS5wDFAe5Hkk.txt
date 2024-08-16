@@ -1,0 +1,4 @@
+Prompt: A vibrant street scene in Havana at night, featuring colonial-style buildings illuminated by warm, golden street lamps. Classic vintage cars are parked along the cobblestone streets, with lively music notes visibly floating through the air. A group of dancers, dressed in colorful traditional attire, is performing salsa in the foreground, showcasing their dynamic movements. The sky is a deep navy blue with fluffy clouds gently illuminated by the glow of a nearby full moon. The overall atmosphere is festive and energetic, capturing the essence of nightlife in Havana. The details should reflect rich textures, such as the worn paint on the buildings and the glistening cobblestones, enhancing the visual depth and vibrancy of the scene. Photorealistic style, high detail, and warm color palette for an inviting, celebratory mood.
+Seed: 1495486167
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Beloved, Algorithm

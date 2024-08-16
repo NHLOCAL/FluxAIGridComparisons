@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a tranquil mountain landscape with a person meditating. The mountains should be majestic and covered in lush greenery, with soft clouds gently drifting above them. The figure meditating should be positioned at the forefront, with their silhouette filled with the vibrant mountain scene, showcasing the beauty of nature. The lighting should be soft and ethereal, with golden sunlight filtering through the clouds and casting a warm glow on the scene. The overall composition should create a harmonious blend of serenity and strength, highlighting the connection between nature and inner peace. The art style should lean towards realistic with a touch of dreamlike quality, emphasizing the intricate details in both the landscape and the meditating figure.
+Seed: 810635187
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Serenity, Belief

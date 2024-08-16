@@ -1,0 +1,4 @@
+Prompt: A striking photograph capturing an urban alley mid-evening, showcasing the duality of city life. On one side of the alley, there are vibrant neon lights illuminating an upscale restaurant, with elegantly dressed patrons mingling and laughter echoing. The contrasting side reveals a shadowy figure hunched against a brick wall, cloaked in darkness, reflecting a sense of solitude and despair. The cobblestone ground is slick with rain, reflecting the colorful lights above and creating a surreal juxtaposition between the lively atmosphere and the somber reality. The image is captured in rich, saturated colors, with a hazy focus on the foreground, enhancing the sense of mystery. The overall composition conveys a thought-provoking dichotomy, showcasing the hidden struggles existing alongside moments of joy in urban life. High detail, cinematic quality, dramatic lighting.
+Seed: 308690806
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Darling, Ideal

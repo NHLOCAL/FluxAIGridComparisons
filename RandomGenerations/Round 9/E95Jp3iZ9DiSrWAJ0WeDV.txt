@@ -1,0 +1,4 @@
+Prompt: A stunning photograph of an otherworldly landscape, blending sci-fi and fantasy elements. The scene features a lush, enchanted forest with bioluminescent plants and trees that glow in vibrant shades of blue and green. In the foreground, an elegant enchanter, adorned in flowing silver robes, stands with outstretched arms, casting shimmering sparks of magic into the air, which swirl around in intricate patterns. The background reveals towering mountains shrouded in mist, with a sky filled with swirling galaxies and vibrant colors reminiscent of a cosmic sunset. The overall atmosphere is serene yet magical, highlighted by soft, ethereal lighting that enhances the enchanting quality of the landscape. Ultra-high resolution, with detailed textures and vivid colors that invite viewers into this captivating realm.
+Seed: 2464155488
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pleasure, Enchanter

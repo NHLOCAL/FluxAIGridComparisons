@@ -1,0 +1,8 @@
+Prompt: A striking portrait of a feminine figure embodying the concept of duality. One half of the face is adorned with vibrant, colorful makeup, featuring intricate patterns and designs that evoke a sense of playful whimsy. The other half is rendered in monochrome, showcasing a more serious expression, with subtle hints of shadows and sharp lines, emphasizing contrast. The hair transitions from flowing, colorful locks on one side to sleek, jet black strands on the other. 
+
+The background is a gradient blend of pastel colors fading into deep shadows, enhancing the overall sense of contradiction. Soft, ethereal lighting illuminates the colorful side, creating a glow effect, while the monochrome side is set against a darker, more somber environment, accentuating the sharp distinction. The angle is slightly tilted, adding a dynamic sense of movement to the composition. 
+
+Art style should align with alternative fashion and fantasy illustration, capturing both whimsical and edgy aesthetics. High detail, focusing on the textures of the hair and skin, creates a masterful representation of beauty in diversity.
+Seed: 528408024
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alternative, Darling

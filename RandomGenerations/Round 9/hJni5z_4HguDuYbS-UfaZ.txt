@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a vibrant fantasy landscape featuring the ancient Shout Abbey, nestled atop a rugged cliff overlooking a shimmering turquoise ocean. The abbey's architecture is a blend of gothic and futuristic elements, with soaring spires, intricate stonework, and bioluminescent features that glow softly in the twilight. Surrounding the abbey, lush greenery cascades down the cliffside, dotted with exotic, luminescent flowers emitting a soft glow. The sky is a dramatic tapestry of swirling purples, deep blues, and pinks, signifying a magical sunset, while wisps of clouds catch the last light of day. The ocean below reflects the vibrant colors of the sky, adding to the mystical atmosphere. This captivating scene combines elements of sci-fi and fantasy, rendered in vivid detail and sharp focus to emphasize the grandeur of the landscape.
+Seed: 1565349574
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shout, Abbey

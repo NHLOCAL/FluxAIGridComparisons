@@ -1,0 +1,4 @@
+Prompt: Create an image of an ornate, dimly lit room adorned with rich velvet drapes and lavish golden accents. A beautifully detailed, plush chaise lounge sits in the center, draped with luxurious silk fabrics. Flickering candlelight casts soft shadows, emphasizing the intricate patterns on the walls. In the foreground, include a delicate crystal goblet overflowing with deep red wine, reflecting the warm light. The background features an extravagant chandelier hanging from the ceiling, its crystals sparkling in the ambient glow. Incorporate lush, dark flowers in a nearby vase, enhancing the atmosphere of opulence and mystery. The overall composition should evoke a sense of sensuality and indulgence through the intricate details and rich color palette.
+Seed: 2512659202
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pleasure, Intrigue

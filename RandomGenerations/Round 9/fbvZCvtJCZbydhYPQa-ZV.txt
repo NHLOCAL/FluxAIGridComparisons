@@ -1,0 +1,10 @@
+Prompt: Create an ultra-realistic photograph of a breathtaking sci-fi/fantasy landscape. The scene features a vast, otherworldly terrain with towering, luminescent crystal formations jutting out of the ground, casting vibrant colors across the landscape. In the foreground, a serene, glowing river flows gently, reflecting the brilliant colors of the crystals overhead. 
+
+Above, the sky is a swirling tapestry of deep purples, blues, and greens, dotted with shimmering stars and distant galaxies. A massive, ethereal moon hangs low in the sky, illuminating the scene with a soft, magical glow. 
+
+In the distance, elaborate ruins of an ancient civilization are nestled between the crystalline structures, hinting at a long-lost culture connected to the cosmos. Mist rises softly from the river, adding an air of mystery to the environment. The atmosphere is rich and immersive, inviting viewers to lose themselves in this enchanting world.
+
+The overall composition emphasizes vibrant color saturation, sharp detail, and surreal beauty, capturing the essence of both the sci-fi and fantasy genres in a harmonious blend.
+Seed: 562601263
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mastery, Soul

@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a silhouette of a vintage car in the foreground. Inside the silhouette, depict a lush, vibrant landscape from the past with rolling hills, colorful wildflowers, and a bright blue sky dotted with fluffy white clouds. The car should appear in black and have a glossy finish, contrasting beautifully with the vivid colors of the landscape within it. The background should be a soft, blurred bokeh effect to keep the focus on the car and its inner landscape, adding depth to the composition. The overall lighting should be warm and inviting, reminiscent of a sunny day in a nostalgic past. The image should evoke a sense of charm and timeless beauty, integrating elements of nature and vintage aesthetics.
+Seed: 3675781369
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Appealing, Past

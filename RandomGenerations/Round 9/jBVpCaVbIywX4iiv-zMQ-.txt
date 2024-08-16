@@ -1,0 +1,4 @@
+Prompt: Please specify the elements you'd like in the photograph, such as the subject, background, art style, lighting, and any specific details. This will help me create a detailed image generation prompt for Flux AI.
+Seed: 1991078000
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Palace

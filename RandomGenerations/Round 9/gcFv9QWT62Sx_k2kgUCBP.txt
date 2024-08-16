@@ -1,0 +1,6 @@
+Prompt: A breathtaking photograph of a sci-fi fantasy landscape enveloped in thick, swirling fog. The foreground features towering, jagged mountains with luminescent crystals embedded in their rocky surfaces, casting a soft, eerie glow. In the midground, a sprawling, futuristic city is partially obscured by the mist, with sleek, towering skyscrapers adorned with holographic displays and floating vehicles navigating through the haze. 
+
+The background reveals a dramatic sky with shades of deep purple and indigo, illuminated by distant stars and the faint silhouette of a massive planet on the horizon. Wisps of fog snake through the landscape, creating a sense of mystery and depth. The lighting is soft and diffused, enhancing the ethereal quality of the scene and inviting the viewer to explore the hidden wonders of this otherworldly realm. Ultra-high resolution capture with an emphasis on intricate details and vibrant colors.
+Seed: 2705122778
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Theme, Fog

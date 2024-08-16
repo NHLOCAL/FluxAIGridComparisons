@@ -1,0 +1,4 @@
+Prompt: A dramatic illustration representing the concept of duality in a futuristic headquarters. The structure is split down the middle, with one half embodying a sleek, high-tech design with glass walls reflecting vibrant city lights. The opposite half is rugged and industrial, featuring worn metal and exposed pipes, illuminated by a warm, golden glow. The sky above transitions from bright, sunny blue on the high-tech side to dark and brooding storm clouds on the industrial side, symbolizing contrasting possibilities. In the foreground, a figure stands at the threshold, half-shrouded in light and half in shadow, wearing a futuristic outfit that further emphasizes the theme of duality. The overall composition is heightened by dynamic angles and strong contrast, creating an immersive and thought-provoking visual experience.
+Seed: 2506391544
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Headquarters, Possibility

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a worn wooden bench in a fog-shrouded park during late autumn. The man has deep wrinkles and silver hair, dressed in a faded coat, gazing into the distance with a contemplative expression. His hands rest gently on his knees, revealing age spots and thin fingers. Surrounding him are trees with bare branches and scattered yellow and brown leaves on the ground, the colors muted and softened by the fog. The lighting is soft and diffused, casting gentle shadows, with a subtle golden hour glow peeking through the haze. The atmosphere is serene yet melancholic, inviting the viewer to reflect on themes of solitude and nostalgia.
+Seed: 3401786955
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Phantom, Amazement

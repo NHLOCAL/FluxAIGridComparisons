@@ -1,0 +1,8 @@
+Prompt: Create an image representing the concept of duality in a surreal manner. The scene features two figures, both embodying distinct yet complementary traits. One figure should be clad in vibrant, flowing colors, symbolizing imagination and creativity, with dynamic patterns radiating from their body. The other figure should be donned in muted, monochromatic attire, representing stability and introspection, with geometric shapes contrasting the fluidity of the first. 
+
+Position the figures back-to-back, facing opposite directions, with their hands slightly touching at the center, connecting their energies. The background transforms smoothly from a vivid, imaginative landscape filled with whimsical elements like floating books and bright stars to a serene, monochromatic environment with muted landscapes and tranquil water reflections. 
+
+The lighting should be ethereal, with soft glows emanating from both figures, highlighting their connection while creating two distinct atmospheres. This moment captures the essence of soulmates, exploring how seemingly contrasting elements can coexist harmoniously. The artwork should employ a dreamlike style reminiscent of surrealism, blending vivid color palettes with contrasting shadows to enhance the theme of duality.
+Seed: 1035745824
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Imagination, Soulmate

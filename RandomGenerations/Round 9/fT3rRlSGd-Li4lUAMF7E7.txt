@@ -1,0 +1,4 @@
+Prompt: A striking photograph of a split-faced figure, half covered in a vibrant, colorful mask representing joy and celebration, while the other half reveals a somber, expressionless visage with muted colors and shadows. The figure is set against a contrasting dark and light background, enhancing the duality of the emotions portrayed. Soft, dramatic lighting accentuates the textures of the mask and skin, creating a sense of depth. In the foreground, blurred, indistinct shapes suggest a lively crowd, emphasizing the contrast between the figure’s outward appearance and inward reality. The overall composition invites viewers to reflect on the complexities of identity and emotion, presented in a high-detailed, professional style.
+Seed: 2423373186
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Impediment, Steam

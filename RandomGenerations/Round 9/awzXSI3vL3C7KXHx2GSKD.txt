@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a cracked mirror reflecting a fragmented yet vibrant cityscape at dusk. The mirror is positioned at an angle, creating multiple reflections that distort the skyline and create a sense of duplicity. One side of the city appears lively and colorful with bright lights illuminating the buildings, while the other side reflects a darker, shadowy version of the same scene, with muted colors and creeping shadows. The contrast between the two sides is striking, emphasizing the thematic dichotomy. Surrounding the mirror is a moody atmosphere with a dusky sky filled with swirling clouds, and hints of a setting sun casting warm and cool hues. The ground is wet, reflecting the duality above, enhancing the surreal quality of the image. Photorealistic, high detail, dramatic lighting, captivating composition.
+Seed: 2131715710
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Life, Creation

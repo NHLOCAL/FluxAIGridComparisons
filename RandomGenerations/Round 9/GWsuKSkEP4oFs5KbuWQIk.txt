@@ -1,0 +1,4 @@
+Prompt: Create a photograph depicting a person standing in front of a large, ornate mirror. The individual, a young adult with medium-length hair, is seen from a slightly low angle, capturing their reflection gazing intently into the mirror. The room is softly illuminated by warm, ambient light filtering through a nearby window, casting gentle shadows. The background features vintage-style wallpaper adorned with intricate floral patterns, adding depth to the scene. In the reflection, subtly highlight the individual's inner self as a shadowy, ethereal version of themselves, surrounded by faint glimmers of light, emphasizing a sense of introspection and self-discovery. The composition should enhance the contrast between the real person and their reflective counterpart, creating a mystical and thought-provoking atmosphere.
+Seed: 3303072383
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Insight, Port

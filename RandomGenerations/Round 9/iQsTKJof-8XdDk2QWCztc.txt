@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that blends a serene landscape of a tranquil lake surrounded by lush greenery with a silhouette of a person standing with outstretched arms. The silhouette should be filled with intricate patterns of light, symbolizing blessings, such as soft rays of sunlight and delicate floral motifs. The background landscape should be bathed in warm, golden sunlight, reflecting off the lake's calm surface, while the foreground silhouette merges seamlessly with the natural elements. Use a soft color palette to convey harmony and balance, emphasizing the connection between the person and the peaceful environment. The overall composition should evoke a sense of tranquility and unity with nature, rendered in a fine art style with a gentle focus and ethereal quality.
+Seed: 1735708409
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Photograph, Blessing

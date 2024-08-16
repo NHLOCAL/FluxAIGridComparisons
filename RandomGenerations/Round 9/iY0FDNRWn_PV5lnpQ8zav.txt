@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an abandoned, dilapidated house standing alone in a foggy landscape. The house, with its peeling paint and broken windows, resembles a once-vibrant home now lost to time. Overgrown weeds and wildflowers surround the structure, partially hiding its foundation. The background is filled with rolling hills shrouded in mist, creating a sense of isolation and desolation. Soft, gray lighting envelops the scene, enhancing the melancholic atmosphere. The composition captures the house from a slightly low angle, emphasizing its height and the emptiness around it, offering a poignant glimpse into forgotten memories and loss.
+Seed: 1506413379
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Soulmate, Mountain

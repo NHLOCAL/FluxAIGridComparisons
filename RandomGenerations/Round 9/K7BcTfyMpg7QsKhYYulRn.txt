@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution photograph of an abandoned, weathered house standing alone in a vast, barren landscape at dusk. The house features peeling paint, broken windows, and a sagging roof, suggesting years of neglect. In the foreground, tall, swaying grass surrounds the property, partially obscuring the cracked path leading up to the front door. A dark and stormy sky looms overhead, with streaks of lightning illuminating the scene intermittently. The overall color palette is dominated by desaturated tones of gray and brown, creating a somber atmosphere. The composition is framed from a low angle, providing a sense of depth and emphasizing the isolation of the house amidst the desolate surroundings. The image captures the haunting beauty of decay and the passage of time, invoking a profound sense of nostalgia and melancholy.
+Seed: 2666469710
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Obligation, Today

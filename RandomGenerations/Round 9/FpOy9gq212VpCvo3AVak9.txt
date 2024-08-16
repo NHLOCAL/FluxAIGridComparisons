@@ -1,0 +1,8 @@
+Prompt: Create an illustration that visually represents the concept of duality in a futuristic organizational setting. The scene is split down the middle: on one side, depict a bright, bustling city environment with sleek skyscrapers made of glass and metal, showcasing advanced technology, digital billboards, and vibrant colors. The atmosphere is energetic, filled with people in modern attire going about their busy lives.
+
+On the other side, contrast this with a dark, dystopian landscape where crumbling buildings and oppressive architecture dominate. The color palette is muted, with grays and blacks prevailing, giving it a grim and unsettling feel. Shadows loom large, and the people appear robotic and disengaged, reflecting a lack of freedom. 
+
+The central point where the two halves meet features a large, intricate clock showing the time as 'Tomorrow,' symbolizing the intersection of past and future. Render the image in a hyper-detailed, conceptual art style, emphasizing the stark contrast between the two environments while maintaining a cohesive overall composition. The lighting should enhance the duality, with warm, inviting tones on one side and cold, harsh lighting on the other.
+Seed: 3313889471
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tomorrow, Organization

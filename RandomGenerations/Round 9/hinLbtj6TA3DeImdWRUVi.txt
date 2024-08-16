@@ -1,0 +1,4 @@
+Prompt: A photograph of a pristine, snowy forest on a bright, sunny day, where each tree is heavily laden with fluffy white snow. However, in the foreground, a large, shadowy figure of a wolf stands ominously, partially concealed behind a tree. Its gaze is sharp and menacing, contrasting sharply with the serene beauty of the scenery. The sunlight casts dappled shadows on the ground, creating an inviting yet deceptive atmosphere. The whole scene is captured in high detail, emphasizing the texture of the snow and the wolf's fur. The juxtaposition of the tranquil background with the lurking predator evokes a sense of uncertainty and hidden danger in a seemingly peaceful environment. Shot in soft focus to highlight the wolf and create a dreamy yet haunting quality.
+Seed: 1405262929
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Narrative, Conscious

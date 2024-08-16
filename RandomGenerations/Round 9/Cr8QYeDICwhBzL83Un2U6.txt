@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a magical grove nestled within a lush, vibrant landscape. Giant, ethereal trees with luminescent leaves tower majestically above, their branches twisting in intricate patterns against a twilight sky filled with countless stars. The ground is carpeted with soft, glowing moss and colorful wildflowers that emit a gentle, bioluminescent light, creating a whimsical atmosphere. A small, sparkling stream winds through the grove, reflecting the enchanting colors of the surroundings. In the distance, a fantastical mountain range rises, shrouded in mist and illuminated by a soft, moonlit glow. The entire scene conveys a sense of wonder and tranquility, inviting the viewer to immerse themselves in this serene fantasy world, captured in hyper-detailed photography.
+Seed: 2666071673
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Grove, Fantasy

@@ -1,0 +1,4 @@
+Prompt: A striking double exposure portrait of a nude figure seamlessly blended with a vibrant city skyline at sunset. The silhouette of the human form is filled with intricate details of the city, showcasing illuminated skyscrapers, bustling streets, and colorful reflections in windows. The background features a gradient sky transitioning from deep blues to warm oranges and pinks as the sun sets on the horizon. The overall composition emphasizes the harmonious connection between the human figure and urban life, creating a visually captivating narrative of beauty and city culture. The lighting should highlight the contours of the body while allowing the cityscape to remain prominent, resulting in a piece that elegantly balances nudity and urban vibrancy, maximizing color saturation and detail.
+Seed: 3623226400
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Color, Nudity

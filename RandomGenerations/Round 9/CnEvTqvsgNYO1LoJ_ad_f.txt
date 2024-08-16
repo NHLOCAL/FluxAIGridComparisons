@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split face portrait that conveys duplicity. The image should feature a person with one half painted in bright, vibrant colors, showcasing expressions of joy and exuberance, while the other half is monochrome, displaying a somber and desaturated expression of sadness. The contrast between the two sides should be striking, with the vibrant side illuminated by warm, bright lighting, and the monochrome side cast in cool, shadowy tones. The background should be blurred, keeping the focus on the subject's face, with swirling patterns of color on the vibrant side and abstract shapes in grayscale on the other. The composition should evoke a sense of inner conflict and the complexity of human emotion, emphasizing the duality of experiences. Photorealistic, high detail, dramatic lighting.
+Seed: 2037623215
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Crystal, Perspective

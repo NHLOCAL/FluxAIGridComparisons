@@ -1,0 +1,6 @@
+Prompt: Create an image depicting a futuristic laboratory that represents the theme of "duplicity in love." The scene consists of two identical figures, a man and a woman, standing back-to-back, each engrossed in their own tasks at multi-level, high-tech workstations. The lab is filled with glass containers showing swirling, colorful liquids and advanced equipment, with a large, illuminated heart-shaped display in the background showcasing fluctuating data streams. 
+
+The ambiance should be a blend of soft blues and purples, with the lighting creating sharp contrasts and reflections off the glass surfaces, adding to the vibe of simultaneous attraction and separation. The figures should have similar features, subtly hinting at their intertwined destinies, yet stylishly dressed in contrasting colors—one in warm tones and the other in cooler shades. The background is filled with walls of digital screens displaying heartbeats, DNA sequences, and abstract representations of love, suggesting a scientific exploration of emotions. The overall composition portrays a complex journey through love, blending elements of romance and science in a captivating, cinematic style.
+Seed: 1551722384
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Journey, Laboratory

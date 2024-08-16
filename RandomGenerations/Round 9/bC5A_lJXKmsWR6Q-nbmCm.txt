@@ -1,0 +1,4 @@
+Prompt: A hauntingly beautiful close-up photograph of a cracked porcelain mask lying amidst fallen leaves in an abandoned forest. The mask, cracked and weathered, has a faint, mysterious smile on one side and a sorrowful frown on the other, embodying themes of duality and emotion. Sunlight filters through the dense canopy above, casting dappled light on the scene, highlighting the intricate details of the mask and the vibrant colors of the autumn leaves. The background features blurred, shadowy trees, creating an atmosphere of isolation and intrigue. The contrast between the vibrant autumn hues and the cold, lifeless mask enhances the sense of duplicity, inviting reflection on hidden emotions and the passage of time. Photorealistic, high detail, cinematic lighting.
+Seed: 2819130393
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Benefit, Domination

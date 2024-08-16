@@ -1,0 +1,4 @@
+Prompt: A striking photograph featuring a human figure standing in front of a large, ornate mirror. The figure, dressed in a flowing white gown, casts a shadow that seemingly distorts their silhouette, creating a sense of duality. In the mirror's reflection, however, a dark, tattered cloak envelops the figure, evoking a sense of contrast between light and dark. The background is a dimly lit room with faded floral wallpaper, enhancing the vintage atmosphere. Light streams through a cracked window, casting dramatic shadows across the floor, highlighting the complexity of the scene. The overall composition combines high detail with a cinematic quality, emphasizing the tension between the two representations of the same individual.
+Seed: 1168404731
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Work, Convent

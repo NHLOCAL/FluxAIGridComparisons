@@ -1,0 +1,4 @@
+Prompt: Create a striking double exposure image that combines the silhouette of a human head with a scene of a bustling cityscape at night, illuminated by vibrant neon lights. The inside of the head should depict a vast cosmic sky filled with swirling galaxies and shooting stars, symbolizing the concept of belief. The cityscape is filled with detailed buildings and busy streets below, with blurred figures moving about, representing the concept of consequence. Use high contrast to emphasize the textures between the sharp city elements and the soft cosmic elements. The overall color palette should include deep blues, purples, and bright neon colors, capturing a sense of intrigue and complexity. The lighting should focus on highlighting the neon glow of the city while allowing the cosmic scene to shimmer subtly, creating an ethereal atmosphere.
+Seed: 3869003845
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Belief, Consequence

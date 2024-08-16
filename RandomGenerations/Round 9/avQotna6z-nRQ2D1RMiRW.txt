@@ -1,0 +1,6 @@
+Prompt: Create a hyper-realistic photograph of a vast sci-fi landscape featuring a massive, futuristic containment facility built into the side of a rugged mountain. The facility is designed with intricate high-tech architecture, adorned with glowing blue lights and metallic surfaces. In the foreground, a group of mutant creatures with unique and unusual physical traits—such as elongated limbs, vibrant skin patterns, and bioluminescent features—gather near the facility, some peering curiously at the viewer. 
+
+The sky above is filled with swirling dark clouds, occasionally illuminated by flashes of lightning, creating a dramatic and imposing atmosphere. The surrounding landscape consists of jagged rocks and sparse vegetation, hinting at a harsh environment. Mist rolls along the valley floor, adding an eerie, mysterious quality to the scene. Shots of distant mountains and a dimly lit horizon enhance the sense of vastness. The overall color palette should include dark grays, deep blues, and vibrant accents from the mutants, culminating in a striking and immersive depiction of captivity and adaptation within a sci-fi/fantasy realm.
+Seed: 3647279416
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Captivity, Mutant

@@ -1,0 +1,4 @@
+Prompt: A black and white photograph capturing the intricate details of an aged, gnarled tree. Its twisted branches reach outwards like hands grasping for something just out of reach. The bark is textured and cracked, telling the story of years gone by. A soft light filters through the clouds above, casting gentle shadows that dance across the forest floor, which is carpeted with fallen leaves. In the background, a mist slowly rolls in, adding depth to the scene. The atmosphere is tranquil yet haunting, inviting the viewer to reflect on the passage of time and the resilience of nature. Ultra-high definition, sharp focus, dramatic contrast between light and dark areas.
+Seed: 1660890500
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mind, Sadness

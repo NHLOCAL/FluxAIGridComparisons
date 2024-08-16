@@ -1,0 +1,4 @@
+Prompt: Create a visual representation of "Duality" through the metaphor of a split landscape. On one side, depict a vibrant, bustling city filled with people, bright lights, and lively activities, symbolizing life and connection. The second side should contrast this with a dark, isolated environment, featuring shadowy figures and crumbling buildings, representing addiction and loneliness. The sky should transition from clear blue and sunlight on the city side to overcast and dim on the addiction side. In the center, create a figure contemplating the divide, torn between the two worlds, with half their body bathed in light and joy while the other half is shrouded in darkness and despair. Use a surreal art style, with dramatic lighting to enhance the contrast, and aim for a composition that conveys the tension between these two states of existence.
+Seed: 37460590
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Addiction, Issue

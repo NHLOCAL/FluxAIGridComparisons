@@ -1,0 +1,4 @@
+Prompt: Create a striking photograph of a serene lakeside scene where one half of the image portrays a tranquil, sunlit setting with clear blue water reflecting the vibrant autumn foliage. In contrast, the other half captures a stormy atmosphere, with dark, ominous clouds swirling above and the water churning violently. The dividing line between the two halves should be accentuated, illustrating a sharp transformation in mood. Incorporate elements such as a wooden dock leading into the calm section and a weathered boat being tossed in the turbulent side. Utilize dramatic lighting to create stark contrasts, highlighting the beauty of nature alongside its ferocity, resulting in a visual representation of emotional duplicity.
+Seed: 198027361
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Path, Exquisite

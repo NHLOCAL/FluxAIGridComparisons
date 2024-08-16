@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a serene landscape of a stunning sunrise over a tranquil lake blended with the silhouette of a powerful figure standing on a mountain peak. The landscape should embody calmness with soft pastel colors reflecting off the water, while the figure, depicted in dark, defined outlines, conveys strength and resilience against the backdrop. The sky should transition from warm yellows and oranges at the horizon into cooler blues higher up, creating a sense of peacefulness intertwined with the sense of a profound effect or impact, as if the figure is resonating with the beauty of the landscape. The composition should merge both elements seamlessly, capturing the duality of serenity and strength in an ethereal, cinematic quality.
+Seed: 3233725497
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bliss, Impact

@@ -1,0 +1,6 @@
+Prompt: Create a visually striking illustration of a majestic monument that embodies feminine beauty and duality. The monument rises tall against a vibrant sunset sky, with one half sculpted in soft, flowing lines representing grace and nurturing, while the other half features sharp, angular shapes symbolizing strength and command. The surface is adorned with intricate carvings of floral motifs on the graceful side, transitioning into geometric patterns on the commanding side. 
+
+The background should be a dramatic blend of warm oranges, deep purples, and blues reflecting the twilight, creating a captivating contrast. Use soft, golden lighting to highlight the curves and details of the feminine side, while stark, white lighting emphasizes the edges and facets of the commanding side. The view is slightly angled to provide depth, allowing the monument to tower over the viewer, inviting them to contemplate the balance of these two contrasting aspects within a unified structure. The overall composition should evoke a sense of wonder and respect for the multifaceted nature of femininity.
+Seed: 1524450496
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monument, Command

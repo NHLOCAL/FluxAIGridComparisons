@@ -1,0 +1,4 @@
+Prompt: Create an image that visually represents the concept of duality using contrasting elements. On one side, depict a sleek, modern city skyline during the day, showcasing vibrant colors, bustling activity, and clear blue skies, symbolizing success and optimism. On the other side, contrast this with a dark, shadowy landscape featuring twisted trees, fog, and a crumbling building under a stormy sky, representing struggle and challenges. The division between the two sides should be marked by a seamless gradient, blending the two worlds. Use dynamic lighting to enhance the contrast, with bright sunlight illuminating the city while harsh shadows envelop the darker side. The overall composition should evoke a sense of balance between success and struggle, encapsulating the essence of duality. Hyper-realistic style, high detail, cinematic atmosphere.
+Seed: 2838463269
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Success, Today

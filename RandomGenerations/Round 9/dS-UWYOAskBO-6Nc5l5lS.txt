@@ -1,0 +1,4 @@
+Prompt: Create a surreal photograph featuring a split-image portrait of a young woman. On one side, she displays a bright, cheerful smile with vibrant colors and soft lighting. The background is a sunny landscape filled with blooming flowers and a clear blue sky. On the other side, the same woman has a sorrowful expression, with dark, muted colors and harsh shadows. The background transitions into a stormy, turbulent scene with dark clouds and wilting plants. The division between the two halves is sharp and distinct, capturing the contrast between joy and sadness, while the woman's features remain perfectly symmetrical. The overall composition invites the viewer to explore themes of duality and the complexity of human emotion. High resolution, hyper-detailed, studio quality.
+Seed: 3259694666
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Naked, Harmony

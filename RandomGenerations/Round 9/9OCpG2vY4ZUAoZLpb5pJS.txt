@@ -1,0 +1,6 @@
+Prompt: Create a surreal illustration depicting the concept of "duplicity in love." The scene features two identical figures representing lovers, standing back-to-back in a vibrant, luminous opal landscape. Their expressions mirror each other—one is cloaked in shadow while the other is illuminated with a soft glow, symbolizing their contrasting emotions. The background should be an ethereal blend of colors resembling opal, with shimmering iridescent patterns and light reflections creating a dreamlike atmosphere. 
+
+In the foreground, intricate landmark structures resembling twisted hearts and tangled vines intertwine, emphasizing the complexity of love. The lighting is soft and diffused, casting delicate shadows that enhance the sense of mystery and enchantment. The overall composition should evoke a sense of wonder and duality, combining elements of fantasy and surrealism while maintaining a high level of detail and vibrant colors. The image should be framed in a way that invites the viewer to explore the layers of meaning within the scene.
+Seed: 421264936
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opal, Landmark

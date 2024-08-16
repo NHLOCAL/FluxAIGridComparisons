@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining a detailed sketch of an insect, such as a dragonfly or butterfly, with a vibrant landscape. The insect’s body should be intricately illustrated with fine lines and shading, showcasing its delicate wings and antennae. The landscape inside the insect should feature a colorful meadow filled with flowers, lush green grass, and a bright blue sky, seamlessly merging with the insect’s form. The overall composition should emphasize the contrast between the intricate drawing of the insect and the vivid colors of the natural scene. Utilize soft, natural lighting to create a harmonious blend between the two elements, enhancing the connection between the creature and its environment. The backdrop should be a subtle gradient, allowing the focus to remain on the striking double exposure effect.
+Seed: 3318637446
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Insect, Drawing

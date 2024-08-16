@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a surreal sci-fi fantasy landscape featuring an ethereal ghostly figure enveloped in shimmering light. The landscape is otherworldly, with towering, luminescent rock formations that emit a soft glow, casting iridescent reflections on a tranquil body of water below. Wispy clouds hover low in the sky, tinted with vibrant hues of purple and teal, creating an enchanting twilight ambiance. The ghost itself is semi-transparent, with flowing robes that ripple like smoke, blending seamlessly with the surrounding scenery. The scene is captured from a slightly elevated angle, showcasing the vastness of the landscape and the delicate interaction between light and shadow, evoking a sense of wonder and mystery. Photorealistic style, ultra-high detail, cinematic quality, 8K resolution.
+Seed: 3540662952
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Novelty, Ghost

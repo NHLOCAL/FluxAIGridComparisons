@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi/fantasy landscape photograph, showcasing a colossal, futuristic citadel hovering high above a sprawling, verdant valley. The citadel's architecture is a blend of sleek metallic surfaces and ethereal glowing elements, casting a vibrant blue and purple light over the surrounding landscape. Below, a network of intricate roads and pathways weave through lush greenery, dotted with alien flora exhibiting luminescent characteristics. The sky is filled with swirling, dynamic storm clouds that emit flashes of lightning, symbolizing the theme of control and domination. The composition should feature a dramatic angle slightly from below, emphasizing the imposing presence of the citadel and the grandeur of the landscape, with sharp contrasts between light and shadow to enhance the overall depth and cinematic quality of the scene.
+Seed: 2083106126
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Control, Domination

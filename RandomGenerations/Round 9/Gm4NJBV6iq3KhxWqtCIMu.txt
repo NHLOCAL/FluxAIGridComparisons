@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a vast prairie landscape at dusk. The foreground features a sleek, futuristic cyborg standing tall, its metallic frame glinting under the fading light. The cyborg has intricate designs and glowing blue accents, showcasing advanced technology. In the background, the prairie stretches endlessly, with tall grass swaying gently in the breeze. The sky is painted with vibrant hues of orange, pink, and purple as the sun sets on the horizon, casting a warm glow over the scene. Wispy clouds create a dramatic effect, enhancing the sci-fi fantasy atmosphere. The entire composition captures a sense of harmony between nature and technology, presenting a surreal yet captivating landscape.
+Seed: 3122108164
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Prairie, Cyborg

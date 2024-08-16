@@ -1,0 +1,4 @@
+Prompt: A haunting black and white photograph of a solitary figure standing on a desolate street under a flickering streetlamp. The figure, cloaked in shadows, gazes up at a distant skyscraper, its reflection shimmering in a nearby puddle. The wet pavement creates a mirror effect, adding an element of duplicity as the figure seems to exist both in reality and in its reflection. The surrounding buildings loom ominously, their outlines blurred by the mist, while the light casts eerie shadows that play across the scene. The interplay of light and dark creates a tense atmosphere, hinting at hidden stories and underlying emotions. High contrast, sharp focus on the figure, and a soft focus on the background elements enhance the dramatic quality of the image, leaving the viewer with an unsettling sense of duality and intrigue.
+Seed: 2407633008
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Marina, Gaze

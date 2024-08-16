@@ -1,0 +1,4 @@
+Prompt: Create a cinematic scene depicting a man standing at the edge of a foggy cliff, gazing longingly into the distance. In the foreground, a rope bridge sways perilously, symbolizing the obstacles in his path. The background features a dramatic sunset, casting warm golden and reddish hues across the sky. The man's silhouette is sharply defined against the ethereal glow, showcasing his deep contemplation. Surrounding him, the mist adds a layer of mystery, while faint outlines of a woman can be seen in the shadows, subtly representing his wife. The overall atmosphere evokes tension and yearning without overt emotional expressions, focusing on the visual narrative of longing and challenge. Cinematic lighting, high detail, masterful composition.
+Seed: 2961825595
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Obstacle, Wife

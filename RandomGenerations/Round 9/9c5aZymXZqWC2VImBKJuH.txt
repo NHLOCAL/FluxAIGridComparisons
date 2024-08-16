@@ -1,0 +1,4 @@
+Prompt: A captivating photograph of a lush, mystical woodland landscape, where a sleek cyborg stands amidst towering trees adorned with bioluminescent foliage. The cyborg, intricately designed with chrome and matte finishes, seamlessly integrates futuristic technology with nature, featuring glowing accents that mirror the colors of the environment. The setting is illuminated by soft, ethereal light filtering through the treetops, creating dappled shadows on the forest floor. In the background, hints of alien flora with vivid colors populate the scene, lending an otherworldly charm. A serene stream winds through the woodland, reflecting the cyborg and the enchanted atmosphere, creating a harmonious blend of sci-fi and fantasy elements. Ultra-detailed, high resolution, vibrant colors.
+Seed: 261853113
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cyborg, Woodland

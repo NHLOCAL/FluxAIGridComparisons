@@ -1,0 +1,4 @@
+Prompt: Create an illustration that embodies the concept of duality. On one side, depict a vibrant, lush forest filled with colorful flowers and dappled sunlight filtering through the trees. On the opposite side, illustrate a dark, twisted landscape with barren trees, shadowy figures, and a stormy sky. The center of the image should feature a large, reflective mirror that splits the two contrasting environments, capturing the essence of surprise as elements from both sides merge into the reflection. The lighting should transition smoothly from bright and cheerful on the left to dark and ominous on the right, enhancing the sense of mystery. Incorporate intricate details that highlight both landscapes, emphasizing their distinct characteristics while maintaining a cohesive visual flow. Use a realistic art style to bring depth and richness to the scene.
+Seed: 1074164420
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mystery, Surprise

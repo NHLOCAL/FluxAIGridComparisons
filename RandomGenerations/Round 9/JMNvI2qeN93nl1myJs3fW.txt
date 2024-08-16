@@ -1,0 +1,4 @@
+Prompt: Create an ethereal and captivating portrait of a feminine figure representing duality, bathed in soft, diffused moonlight. The figure stands gracefully split down the middle: one side embodies a serene, gentle beauty with delicate features, soft flowing hair adorned with moonlit flowers; the other side showcases a more fierce and powerful aspect, with sharp features, striking silver hair, and bold, dark elements. The background features a serene night sky filled with twinkling stars and a luminous full moon, casting a silvery glow that highlights the contrast between the two halves. The overall atmosphere should evoke a sense of mystery and harmony, with elements of fantasy woven into the design. The art style should be a blend of realism and dreamy surrealism, emphasizing intricate details and soft lighting.
+Seed: 157618916
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Moon, Difficulty

@@ -1,0 +1,4 @@
+Prompt: A stunning portrait of a female character embodying the duality of beauty and strength. She is gracefully posed, half of her face resembling a majestic griffin, with intricate feather detailing and fierce, piercing eyes. The other half features soft, delicate features of a human woman, with flowing hair and gentle expressions. The background should depict a mystical landscape with swirling clouds and bright azure skies, intertwining elements of fantasy and reality. The lighting should be ethereal, with soft glows illuminating both halves of her face, creating a harmonious blend of softness and fierceness. The overall composition combines intricate details and a whimsical quality, highlighting the enchantment of femininity and the powerful essence of the griffin. High resolution, vibrant colors, and a mystical atmosphere.
+Seed: 499549659
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Skill, Griffin

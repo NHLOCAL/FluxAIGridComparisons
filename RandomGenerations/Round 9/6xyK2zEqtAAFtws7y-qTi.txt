@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a vast, otherworldly landscape of a grand Empire. The scene is set at twilight, where the sky is a gradient of deep purple and rich orange hues, with sparkling stars beginning to twinkle. Towering, futuristic skyscrapers made of glass and metal rise majestically in the background, showcasing intricate architectural designs and glowing neon lights. In the foreground, a sprawling park filled with exotic, bioluminescent plants contrasts beautifully with the rigid structures of the Empire. A winding river, reflecting the vibrant colors of the skyline, snakes through the landscape. The atmosphere is serene yet filled with a sense of wonder and adventure. The overall art style leans towards hyperrealism, with detailed textures and dramatic lighting adding depth and intrigue to the scene.
+Seed: 1597047719
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Empire, Technique

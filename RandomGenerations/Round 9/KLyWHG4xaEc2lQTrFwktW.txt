@@ -1,0 +1,4 @@
+Prompt: A realistic photograph of a majestic, solitary tree standing on a rolling hill during a golden sunset. The tree's gnarled branches are silhouetted against a vibrant sky filled with hues of orange, pink, and purple. The sun casts long shadows on the grassy hillside, creating a play of light and texture across the landscape. A gentle breeze rustles the leaves, giving the scene a sense of tranquility and peace. The horizon is dotted with distant mountains, their outlines softened by the warm light. The overall composition captures the beauty of nature and the fleeting moments of dusk, inviting viewers to reflect on the beauty of solitude and the passage of time.
+Seed: 417991152
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ruin, Display

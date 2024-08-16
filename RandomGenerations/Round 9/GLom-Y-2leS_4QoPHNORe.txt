@@ -1,0 +1,4 @@
+Prompt: Please provide a specific subject, setting, or theme you would like to capture in the photograph so that I can generate a detailed image prompt for Flux AI.
+Seed: 4210586784
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Togetherness, Scenic

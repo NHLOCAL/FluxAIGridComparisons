@@ -1,0 +1,4 @@
+Prompt: A striking illustration of two mythical creatures, a fiery phoenix and a graceful mermaid, entwined in a passionate embrace. The phoenix, with its vibrant red and orange plumage, is soaring through the sky, while the mermaid, with iridescent scales and flowing hair, rises from the ocean waves. The background features a dramatic sunset where the colors of the sky transition from deep purple to warm gold, casting a romantic glow on the scene. The ocean waves are energetically crashing against the rocks, and seafoam dances around the mermaid, while the phoenix's wings create a gust of wind, enhancing the sense of movement. The artwork combines elements of fantasy and nature, showcasing the beauty of their forbidden connection, rendered in a detailed, high-resolution style with an emphasis on vivid colors and dynamic composition.
+Seed: 2011912183
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elemental, Stare

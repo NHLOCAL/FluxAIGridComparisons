@@ -1,0 +1,6 @@
+Prompt: A breathtaking sci-fi/fantasy landscape photograph of a vibrant and futuristic farm. The scene features enormous, bio-luminescent crops glowing in shades of electric blue and neon green, swaying gently in a soft breeze. An intricate network of floating drones hovers above, carefully tending to the crops with precision. In the background, a majestic mountain range rises, enveloped in a warm golden light as a setting sun dips below the horizon, casting long shadows across the land. 
+
+A transparent dome structure, housing advanced technology, sits prominently in the middle of the farm, with people in sleek, futuristic attire moving about. Colorful, oversized flowers with enchanting patterns and textures surround the area, adding to the surreal atmosphere. The sky is a vivid canvas of purples and pinks, with swirling clouds, enhancing the fantastical feel. This stunning image captures both the beauty and the innovation of a future where nature and technology harmoniously coexist. High-resolution, ultra-detail, cinematic quality.
+Seed: 1970156512
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Farm, Lust

@@ -1,0 +1,4 @@
+Prompt: A close-up hyper-realistic photograph of a pair of theatrical masks, one smiling and the other frowning, set against a textured dark wall. The masks are intricately detailed, showing faint cracks and wear, symbolizing the passage of time. Soft, dramatic lighting casts deep shadows, creating a stark contrast between the light on the smiling mask and the darkness enveloping the frowning mask. In the background, blurred shapes suggest an audience, capturing the essence of performance art. The overall atmosphere invites contemplation on the duality of human expression, blending realism with a touch of theatricality. The composition is rich in detail, emphasizing the textures and emotions portrayed by the masks.
+Seed: 1530721087
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Award, Intimacy

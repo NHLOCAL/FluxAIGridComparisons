@@ -1,0 +1,4 @@
+Prompt: A striking portrait of a feminine figure embodying duality in beauty, standing in the rain. The left side of the figure is elegantly adorned in a flowing, ethereal white gown, radiating light and softness, while the right side is draped in a dark, dramatic dress with intricate lace patterns that evoke a sense of mystery. Water droplets cascade from above, creating a shimmering effect on the fabrics. The background is a blurred cityscape illuminated by soft, diffused lights, enhancing the contrast between the two sides. The scene is enhanced by a soft, reflective puddle at her feet, mirroring her figure. The overall composition captures a cinematic and enchanting atmosphere, with gentle yet vibrant color contrasts between light and dark, emphasizing the theme of duality and beauty.
+Seed: 2912821989
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rain, Lovely

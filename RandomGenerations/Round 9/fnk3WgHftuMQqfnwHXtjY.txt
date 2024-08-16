@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a lone, weathered tree standing in an expansive, barren landscape at sunset. The tree has gnarled branches and twisted roots, showcasing its resilience against harsh conditions. The sky is painted with vibrant hues of orange, pink, and purple, casting a soft glow across the scene. In the foreground, patches of dry grass and cracked earth add to the desolation. The sunlight breaks through the branches, creating delicate shadows on the ground, enhancing the sense of solitude. The overall composition focuses on the stark contrast between the vibrant sky and the stark, desolate landscape, evoking a sense of contemplation and resilience.
+Seed: 1766004400
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tomorrow, Memorial

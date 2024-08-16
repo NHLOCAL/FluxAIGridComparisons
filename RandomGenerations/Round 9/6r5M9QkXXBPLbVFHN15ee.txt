@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an aged, weathered hand gently holding a single, delicate dandelion puff. The hand's skin is etched with deep lines and a few spots, showcasing a life of experience. The dandelion, fluffy and white, contrasts sharply against the rich, textured wood of a rustic table. In the background, an out-of-focus garden blooms with vibrant colors, hinting at a warm, sunny day. Soft, golden sunlight streams in, casting a gentle glow on the hand and the dandelion, highlighting the intricate details of both. The atmosphere conveys a sense of nostalgia and connection to nature, inviting viewers to ponder themes of fragility and the passage of time. Photorealistic style, high detail, warm lighting.
+Seed: 1244455339
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wealth, Instinct

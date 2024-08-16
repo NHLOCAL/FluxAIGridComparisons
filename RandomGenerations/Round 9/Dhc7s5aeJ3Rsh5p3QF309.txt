@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution photograph of a surreal scene featuring a broken mirror resting on a weathered wooden table. The mirror reflects a fragmented view of a serene landscape, showcasing a tranquil lake surrounded by lush greenery under a clear blue sky. However, the mirror's other half displays a chaotic urban environment, with crumbling buildings, dark storm clouds, and flickering neon lights. The contrast between the calm and chaotic reflections creates a sense of duplicity. Soft, diffused natural lighting enhances the intricate details of the mirror's cracks and the textures of the table. The background should feature an blurred ambiance of both nature and city life, emphasizing the juxtaposition of the two worlds.
+Seed: 2360543252
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fire, Norm

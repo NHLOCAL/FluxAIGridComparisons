@@ -1,0 +1,6 @@
+Prompt: Create a double exposure image that merges the concept of "Work" and "Age." The foreground should feature the silhouette of an older person with visible facial features, representing wisdom and experience. Within their silhouette, depict scenes of bustling office environments, including desks, computers, and employees engaged in work, showcasing the corporate world. 
+
+In the background, create a subtle atmosphere that reflects the passage of time, using elements like a softly fading clock or wispy clouds suggesting the flow of years. The color palette should blend warm, earthy tones to evoke a sense of nostalgia, while the lighting is soft and diffused, enhancing the visual intertwining of the two concepts. The overall composition should have a balanced and harmonious feel, highlighting the relationship between work and age.
+Seed: 1295629045
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Work, Age

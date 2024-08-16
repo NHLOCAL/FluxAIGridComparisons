@@ -1,0 +1,4 @@
+Prompt: A stunning hyperrealistic portrait of a feminine figure embodying duality, set in a vibrant wetland environment. The figure is depicted with one half showcasing soft, ethereal features adorned with delicate flowers and shimmering water droplets, while the other half presents a more rugged appearance with earthy textures and foliage. Her hair flows gracefully, intertwining with natural elements like reeds and lily pads. The background features a serene wetland landscape with mist rising from the water's surface, reflecting the colors of dawn with soft pastels and rich greens. The lighting is warm and inviting, emphasizing the intricate details of both the figure and the surrounding flora. The angle captures the essence of the environment, creating a harmonious balance between beauty and nature, rendered in ultra-high definition for maximum detail.
+Seed: 2839148455
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Existence, Wetland

@@ -1,0 +1,4 @@
+Prompt: Create a striking high-contrast photograph of a half-human, half-animal hybrid figure standing at the edge of a misty forest. The figure should have one side resembling a human with intricate tattoos and the other side shaped like a wolf, complete with sleek fur and luminous eyes. The background features dark, looming trees shrouded in gray fog, enhancing the sense of mystery. Low, diffused lighting highlights the contours of the figure, creating deep shadows and an ethereal glow around its silhouette. The focus should be tightly framed on the hybrid figure, emphasizing its duality and the tension between its human and animalistic traits. The overall color palette should consist of muted earth tones, with soft hints of silver and blue, illustrating a blend of realism and surrealism, inviting contemplation on identity and nature.
+Seed: 1154471546
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Degree, Bog

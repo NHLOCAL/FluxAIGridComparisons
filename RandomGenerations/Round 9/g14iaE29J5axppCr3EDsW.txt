@@ -1,0 +1,4 @@
+Prompt: Create an image of a beautiful Norse woman dressed in intricate medieval armor, standing confidently inside a modern glass elevator. Her long, flowing hair cascades over her shoulders, adorned with braids and jewelry inspired by Norse mythology. She carries a beautifully crafted sword at her side, reflecting her warrior spirit. The elevator's interior contrasts with her traditional attire, showcasing sleek metal and glass elements. The background features a subtle, ethereal glow, suggesting victory. Lighting should illuminate her face dramatically, highlighting her fierce expression and strong presence. The angle should be a slightly low perspective, emphasizing her stature and the blend of ancient and modern. The overall atmosphere should evoke a sense of strength and triumph.
+Seed: 497567810
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elevator, Victory

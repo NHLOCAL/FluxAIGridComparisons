@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a human silhouette filled with intricate architectural designs and blueprints. The silhouette should represent a thoughtful individual, with elements such as light bulbs, gears, and drafting tools subtly merging within the design. In the background, depict a dynamic cityscape featuring modern buildings and creative structures that emphasize innovation. The lighting should be bright and inspired, with warm tones highlighting the silhouette and cool tones for the cityscape. The overall composition should blend seamlessly, merging the concepts of thought and design in a harmonious yet striking manner, presented in a digital art style with high detail.
+Seed: 3856358457
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Thought, Design

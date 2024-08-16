@@ -1,0 +1,4 @@
+Prompt: A hyperrealistic photograph depicting a cracked, weathered mask lying on the ground, partly covered by fallen autumn leaves. The mask features half of a smiling face and half of a frowning face, showcasing a stark contrast between joy and sorrow. The surface of the mask is textured, revealing intricate details and paint chips, hinting at a long history. Surrounding the mask, the vibrant reds, oranges, and yellows of the autumn leaves create a warm backdrop, while the ground is damp, suggesting recent rain. Soft, diffused lighting filters through the trees above, casting gentle shadows that enhance the depth of the scene and evoke a sense of reflection and introspection. The photograph captures the essence of duplicity, inviting viewers to ponder the complex nature of emotions.
+Seed: 3262160219
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pulchritudinous, Volcano

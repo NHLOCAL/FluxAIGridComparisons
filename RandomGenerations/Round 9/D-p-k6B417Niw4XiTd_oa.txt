@@ -1,0 +1,4 @@
+Prompt: Create an illustration representing the concept of "duality" through a split scene. On one side, portray a serene, idyllic landscape with a bright sun, flourishing nature, and clear blue skies, depicting the concept of "truth." On the opposite side, illustrate a dark, chaotic environment with storms, twisted trees, and unsettling shadows to represent the "level" of deception and confusion. The centerline should sharply divide the two tensions in atmosphere and color palette, blending at the center where a mirrored surface reflects elements from both sides. Include fog creeping into the divide, enhancing the contrast between the two realms, while the overall composition evokes intrigue through the visual clash of light and dark, serenity and chaos. Render in a highly detailed, surreal style, emphasizing the vibrancy of colors and textures to accentuate the duality theme.
+Seed: 85010637
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Truth, Level

@@ -1,0 +1,8 @@
+Prompt: Create a detailed image of a futuristic restaurant scene focused on the theme of duality. The central figure is an android with sleek metallic features, showcasing a blend of human-like traits and robotic elements. One side of the android should have a warm, inviting expression, while the other side exhibits a cold, mechanical demeanor. The restaurant's interior is a harmonious mix of both rustic and high-tech aesthetics, with wooden tables surrounded by advanced holographic menus and glowing neon accents. 
+
+The lighting should contrast between soft, warm tones over the human side of the android and harsh, clinical lighting over the mechanical side, emphasizing the theme of duality. In the background, patrons from various species, including humans and aliens, interact in an engaging, social environment, each representing different facets of existence. The atmosphere is bustling with activity, yet the android stands still, symbolizing the captivating intersection of humanity and technology. 
+
+The scene should be richly detailed, with artwork in the background depicting various interpretations of duality, blending modern art with traditional motifs. The overall style is reminiscent of a vibrant, cinematic illustration, capturing the enchanting yet complex relationship between human and machine.
+Seed: 3774633719
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Android, Restaurant

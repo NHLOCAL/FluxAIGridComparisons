@@ -1,0 +1,6 @@
+Prompt: Create a surreal image depicting the concept of "duplicity in love". In the foreground, illustrate two elegant figures, each embodying a different aspect of love—one figure should be styled in refined attire representing warmth and tenderness, while the other has a more enigmatic appearance, hinting at mystery and deception. The figures should be facing each other, but their reflections in a beautifully ornate mirror behind them reveal contrasting emotions, with one smiling brightly and the other cast in shadow. 
+
+The background should feature a lush, opulent garden filled with blooming roses and twisted vines, set under an ethereal twilight sky. Soft, diffused lighting should create a dreamlike atmosphere, casting gentle shadows across the scene. Use a cinematic angle, capturing both figures and their reflections in a delicate balance. The overall color palette should blend warm pinks and cool blues, emphasizing the duality of love's nature while maintaining a visually harmonious composition. The artwork should be illustrative, with intricate details that invite the viewer to explore the layers of meaning within the scene.
+Seed: 1566882514
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Refined, Spirit

@@ -1,0 +1,4 @@
+Prompt: A thought-provoking and surreal photograph capturing the duality of nature and technology. The scene features a lush, vibrant forest on one side, filled with dense trees and rich green foliage, while the other side transitions into a stark, industrial landscape dominated by rusting machinery and decaying buildings. A narrow river flows through the center, reflecting both environments on its surface. The lighting shifts dramatically from warm, golden sunlight illuminating the forest side to harsh, cold blue tones on the industrial side, creating a strong contrast. A single figure stands at the riverbank, half-submerged in the water, their silhouette blending with both worlds. The overall composition invites contemplation on the coexistence of natural beauty and industrial decay, portraying a striking juxtaposition that evokes a sense of unease and reflection.
+Seed: 2462799691
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Adventure

@@ -1,0 +1,4 @@
+Prompt: A captivating portrait of a beautiful Norse woman set in a medieval landscape. She wears a beautifully crafted traditional dress adorned with intricate patterns and metallic embellishments. Her long, flowing hair catches the light, cascading over her shoulders, framed by a fur-lined cloak. The woman stands confidently with a gentle smile, holding a wooden shield emblazoned with Nordic symbols. The background features a lush green valley with snow-capped mountains in the distance, under a bright blue sky with wisps of clouds. The lighting is warm and inviting, highlighting the rich colors of her attire. The scene combines elements of historical realism and fantasy, evoking a sense of heritage and strength.
+Seed: 1786681009
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Selection, Parish

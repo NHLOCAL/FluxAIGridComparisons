@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph depicting a split image of a serene landscape on one side and a chaotic urban scene on the other. On the left, showcase a peaceful meadow with rolling hills, blooming wildflowers in vibrant colors, and a tranquil blue sky dotted with fluffy white clouds. A gentle stream flows through the meadow, reflecting the sunlight. On the right, illustrate a bustling city street filled with towering skyscrapers, heavy traffic, and crowds of people. The sky above is overcast with dark clouds threatening rain, adding to the sense of chaos. The transition between the two scenes should be sharp, emphasizing the contrast between tranquility and turmoil, with dramatic lighting highlighting the differences. The overall composition invites the viewer to explore themes of duality and the juxtaposition of nature and urban life.
+Seed: 3832058631
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fair, Life

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a cracked, shattered mirror reflecting two different faces. One side shows a serene, smiling face with gentle lighting, while the other side depicts a frowning, distressed face in dark shadow. The broken pieces of the mirror create a kaleidoscope effect, distorting the features and blending the two expressions, symbolizing the duality of human emotion. The background should be blurred and muted, enhancing the focus on the mirror and the contrasting faces. Soft, natural lighting should cast subtle highlights and shadows across the mirror's surface, emphasizing the complexity of the emotions portrayed. 
+Seed: 2731535187
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wind, Alchemist

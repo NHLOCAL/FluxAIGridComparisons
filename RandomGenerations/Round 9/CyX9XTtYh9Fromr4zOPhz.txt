@@ -1,0 +1,4 @@
+Prompt: A stunning photograph of a sci-fi/fantasy landscape inspired by the aesthetics of Zeal from the game Chrono Trigger. The scene features a sprawling, crystalline city filled with glimmering spires that pierce the sky, each reflecting the ambient light in a mesmerizing display of colors. In the foreground, an ancient, ornate amulet rests on a smooth stone surface, intricately designed with mystical symbols and glowing softly. The background is dominated by dramatic, swirling clouds painted in vivid hues of purple and blue, adding a surreal quality to the sky. A faint, ethereal light source illuminates the amulet, casting delicate shadows and creating a dreamlike ambiance. The composition should evoke a sense of wonder and exploration within this fantastical realm, capturing every intricate detail with utmost clarity and high resolution.
+Seed: 697655863
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Zeal, Amulet

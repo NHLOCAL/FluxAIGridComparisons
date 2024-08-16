@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a close-up of a gavel striking a sound block, symbolizing justice, with a dramatic city skyline at dusk partially reflecting in the gavel’s surface. The skyline should feature towering buildings, illuminated windows, and a hint of clouds overshadowed by a vibrant orange and purple sunset. The gavel's wooden texture should contrast with the smoothness of the glassy skyline, emphasizing the blend of tradition and modernity. The lighting should be soft yet striking, enhancing the details in both subjects, while ensuring the gavel remains the focal point, embodying the concept of justice. The background should remain slightly blurred, providing depth to the image while keeping the focus on the gavel and skyline. The overall composition should be colorful and dynamic, combining realism with abstract elements.
+Seed: 1709700129
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Justice, Presentation

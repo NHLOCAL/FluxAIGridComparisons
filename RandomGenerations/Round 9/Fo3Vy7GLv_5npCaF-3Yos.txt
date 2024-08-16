@@ -1,0 +1,4 @@
+Prompt: Create an image of a feminine figure embodying beauty and duality, split down the center. One half should be radiant and vibrant, featuring colorful floral patterns in her flowing dress, with lush greenery in the background and soft, warm lighting illuminating her features. The other half should depict a more somber aspect, with darker tones, sharp lines, and a stark, barren landscape. This side could feature a more intense expression, and her attire could be composed of angular, jagged patterns, with harsh, cool lighting casting dramatic shadows. The background should transition from vibrant colors on one side to gray and muted tones on the other, enhancing the contrast between the two halves. The entire composition should be framed in a regal, cinematic style, emphasizing the narrative of beauty in duality.
+Seed: 3787497764
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Narrative, Campaign

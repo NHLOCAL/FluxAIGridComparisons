@@ -1,0 +1,4 @@
+Prompt: "Create a close-up photograph of a weathered hand resting gently on an old, crumpled letter. The hand, marked with deep lines and faded wrinkles, signifies a journey through time. The letter, yellowed with age, features delicate handwriting with faint ink stains and creases. Surround the scene with soft, diffused natural lighting that filters through an old window, casting gentle shadows. In the background, include a faint glimpse of a dusty wooden table and a delicate porcelain teacup, adding to the nostalgic ambiance. The overall composition should invite contemplation and evoke feelings of reminiscence and connection to the past."
+Seed: 2174551139
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Earth, Recognition

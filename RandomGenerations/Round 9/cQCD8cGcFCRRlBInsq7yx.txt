@@ -1,0 +1,4 @@
+Prompt: Capture a striking black and white photograph of a dual-faced figure, with one side expressing joy and the other side revealing sorrow. The figure should be centrally positioned, their features intricately detailed to emphasize the contrasting emotions. The background is a blurred urban setting, creating a stark contrast with the sharp focus on the figure's face. Ambient light filters through, casting soft shadows that enhance the duality of expression. The overall composition should evoke a sense of complexity and introspection, inviting the viewer to contemplate the multifaceted nature of human emotions.
+Seed: 2811059259
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Babe, Idea

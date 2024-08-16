@@ -1,0 +1,4 @@
+Prompt: A striking photograph of a split-faced mannequin, one side painted in bright, vibrant colors like yellows and pinks, displaying a joyful smile, while the other side is stark white and gray with a frowning expression. The contrast between the two sides highlights themes of duality and emotional complexity. The background is a blurred urban setting, with soft bokeh lights creating a dreamlike quality. The lighting is dramatic, casting strong shadows that enhance the mannequin's features, emphasizing the juxtaposition of cheerfulness and sadness. The photograph features high detail, sharp focus on the mannequin, and a slightly desaturated palette surrounding it, inviting viewers to reflect on the intricacies of human emotions.
+Seed: 641559285
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Anger, Sweetie

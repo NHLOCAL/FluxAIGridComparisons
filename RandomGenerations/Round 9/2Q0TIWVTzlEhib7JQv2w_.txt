@@ -1,0 +1,4 @@
+Prompt: A stunning portrait of a feminine figure representing duality, with one half embodying ethereal beauty in delicate, flowing silver attire, and the other half depicting a futuristic warrior in sleek silver armor. The figure stands against a cosmic background with swirling galaxies and clock motifs, symbolizing time travel. The lighting is dramatic, with soft blue and purple hues illuminating the graceful side while sharp white highlights accentuate the armored side. The angle is slightly tilted, suggesting movement through time, and shimmering particles surround the figure, creating an enchanting atmosphere that invites exploration of both beauty and strength. The artwork blends elements of fantasy and science fiction, rendered in an intricate, high-resolution style.
+Seed: 2353599609
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Time travel, Silver

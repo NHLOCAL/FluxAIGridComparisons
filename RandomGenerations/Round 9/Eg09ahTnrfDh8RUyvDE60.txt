@@ -1,0 +1,4 @@
+Prompt: Please provide me with specific details or themes you would like to include in the photograph, such as the subject, setting, time of day, lighting, or any other specific elements you want in the image prompt. This will help create a more tailored and detailed image generation prompt for Flux AI.
+Seed: 3766955993
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gem, Chemistry

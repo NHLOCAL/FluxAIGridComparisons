@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a beautiful woman embodying the concept of duality. She stands gracefully in the center, with her left side enveloped in soft, warm light, showcasing delicate features and a serene expression. The right side contrasts with dark, moody lighting, highlighting a more intense and fierce expression. The background should be divided, with a vibrant, colorful garden on the left filled with blooming flowers, and a dark, shadowy forest on the right, enhancing the sense of duality. Incorporate flowing elements, such as draped fabric or hair, that intertwine between the two contrasting sides, symbolizing the connection between certainty and ambiguity. The overall composition should convey a striking balance of light and dark, beauty and intensity, rendered in a highly detailed, ethereal art style.
+Seed: 3137205117
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Certainty, Scene

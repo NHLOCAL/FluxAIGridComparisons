@@ -1,0 +1,4 @@
+Prompt: Create an ethereal portrait of a feminine figure representing duality, blending elements of light and dark within her form. The figure is semi-transparent, with one half enveloped in a shimmering, luminescent white light showcasing intricate patterns, while the other half is draped in deep shadows, accentuating her delicate features and vibrant colors. Surround her with subtle elements of civilization, like faint silhouettes of skyscrapers and cityscapes in the background, creating a juxtaposition between nature and urban life. The lighting should be soft and atmospheric, with a gradient transition from bright whites to deep blues and blacks in the background. The scene should evoke a sense of harmony and contrast, rendered in a hyper-realistic, fantasy art style that highlights the details in her figure and surroundings.
+Seed: 2769355581
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Transparency, Civilization

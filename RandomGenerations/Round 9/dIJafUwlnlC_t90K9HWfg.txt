@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a large, cracked mirror reflecting a beautiful sunset over a deserted beach. The upper half of the mirror showcases the vibrant oranges and pinks of the sky, contrasted by the calm, serene waters below. The lower half, however, depicts the same beach but under a stormy, dark sky filled with ominous clouds, waves crashing menacingly against the shore. The frame of the mirror is intricately designed, hinting at both beauty and decay. The smooth glass surface creates a striking duality, capturing the contrasting emotions of peace and turmoil, while the surrounding sandy beach is littered with seashells, adding to the visual richness and intricate detail. The lighting focuses on the shimmering reflections, heightening the impact and drawing the viewer into this immersive and thought-provoking scene.
+Seed: 25034841
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Association, Highway

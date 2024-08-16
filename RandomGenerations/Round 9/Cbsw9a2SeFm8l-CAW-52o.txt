@@ -1,0 +1,4 @@
+Prompt: Create a vibrant and lively street scene of Havana at night, featuring colorful colonial buildings adorned with intricate details. The streets are bustling with people enjoying the warm evening, some dancing to live music being played by musicians in a nearby outdoor cafe. Classic vintage cars, painted in bright hues, are parked along the cobblestone road. The warm glow from street lamps bathes the scene in soft golden light, contrasting with the deep blue of the night sky. Overhead, string lights crisscross, adding to the festive ambiance. Include elements of tropical foliage spilling from planters, enhancing the lively atmosphere of a Cuban night. The overall composition should evoke a sense of joy and celebration, blending the charm of Havana with the energy of its nightlife. Cinematic style, high detail, vibrant colors.
+Seed: 1053215951
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hurricane, Club

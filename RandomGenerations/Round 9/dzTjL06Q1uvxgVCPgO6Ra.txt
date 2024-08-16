@@ -1,0 +1,4 @@
+Prompt: A dramatic photograph capturing a sci-fi fantasy landscape, featuring a rugged shoreline with crashing waves against towering cliffs. In the background, a massive, swirling tornado rises from the ocean, its dark funnel spiraling toward the sky, illuminated by flashes of bright lightning. The sky is filled with tumultuous clouds, capturing a mix of deep blues, grays, and hints of purple, creating an atmospheric tension. The shoreline is dotted with sharp rocks and scattered debris, adding to the sense of chaos. The combination of the fierce elements—ocean, tornado, and stormy sky—crafts an exhilarating and otherworldly tableau, evoking a sense of awe and adventure. The lighting should highlight the contrast between the dark storm and the shimmering water, emphasizing the power of nature in this breathtaking scene.
+Seed: 568850203
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shoreline, Tornado

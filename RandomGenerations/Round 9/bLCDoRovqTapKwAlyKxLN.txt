@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a person standing in front of a large, ornate mirror in a dimly lit room. The subject, a young adult with an introspective expression, gazes into the mirror, where their reflection appears slightly distorted. The mirror's frame is intricately detailed with floral carvings and a vintage finish. The surrounding room is softly illuminated with warm, ambient light, casting gentle shadows that create a sense of intimacy. In the reflection, depict ethereal elements, like wispy light or subtle symbols, suggesting the person's inner thoughts and emotions, enhancing the concept of self-discovery. The background should include plush, dark-colored furnishings that complement the overall mood of introspection and contemplation.
+Seed: 2312154598
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Load, Multiplicity

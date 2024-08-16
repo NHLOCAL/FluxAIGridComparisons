@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that merges a dystopian cityscape with the sleek, imposing façade of a corporate building. The city should be filled with crumbling infrastructure, dark alleyways, and flickering neon signs, creating a sense of decay and desolation. The corporate building should tower above the city, its glass and steel structure reflecting the chaos around it. The foreground should include shadows of faceless figures in business attire, blending seamlessly with the gritty details of the city, symbolizing the corporate control over society. The color palette should feature cold, muted tones interspersed with sharp contrasts of light, emphasizing the oppressive atmosphere. The lighting should be low and dramatic to enhance the sense of foreboding, while the overall composition combines elements of realism and surrealism.
+Seed: 4032790055
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dystopia, Corporation

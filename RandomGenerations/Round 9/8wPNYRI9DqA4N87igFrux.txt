@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a cracked, rusted mirror set against an aged wall. The mirror shows a fractured reflection of a young woman, half smiling and half frowning. The left side of her face radiates warmth, illuminated by soft golden light streaming in from a nearby window. In contrast, the right side is shrouded in dark shadows, casting a somber hue over her features. The background is a muted, peeling paint wall, enhancing the feeling of neglect and time. The juxtaposition of her expressions in the mirror creates a striking visual representation of duplicity, evoking a sense of introspection and complexity in human emotions. The overall color palette is warm on the left side and cool on the right, emphasizing the stark divide.
+Seed: 3811263635
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Babe, Peace

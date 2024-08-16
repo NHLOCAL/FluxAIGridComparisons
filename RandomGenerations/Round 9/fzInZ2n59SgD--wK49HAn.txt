@@ -1,0 +1,4 @@
+Prompt: Create a powerful portrait of a beautiful Norse woman dressed in intricate medieval armor, standing triumphantly atop a rocky cliff. Her long, braided hair is adorned with delicate metal jewelry, and she holds a mighty axe in one hand, raised in celebration of victory. The background features a dramatic Nordic landscape, with snow-capped mountains and an overcast sky, hinting at an impending storm. Rays of sunlight break through the clouds, illuminating her figure and casting dramatic shadows. The scene should capture a sense of strength and resilience, with the woman's fierce expression conveying determination and triumph. Rendered in a realistic art style, the details of her armor and the textures of the natural landscape should be meticulously highlighted, creating a striking visual narrative of Norse heritage and valor.
+Seed: 1952042648
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Trek, Victory

@@ -1,0 +1,6 @@
+Prompt: Create an image depicting a striking representation of feminine beauty, focusing on the theme of duality. The scene should feature a gracefully poised woman with half her face illuminated by soft, warm light and adorned with flowing golden hair, while the other half is shrouded in shadow, revealing silver hair and a more enigmatic expression. She should wear an elegant gown that transitions from rich, vibrant colors on the illuminated side to deep, muted tones on the shadowed side. 
+
+The background should blend a serene garden with blooming flowers reflecting light and warmth, alongside a darker, twisted forest symbolizing mystery and depth. Ethereal butterflies in the warm part contrast with dark crows in the shadowy area, enhancing the duality theme. The lighting should have a soft glow on one side, transitioning to cooler, muted tones on the other, creating an enchanting and thought-provoking atmosphere. The overall composition should evoke a sense of balance and harmony in the juxtaposition of beauty and complexity.
+Seed: 607023263
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Amour, Advantage

@@ -1,0 +1,6 @@
+Prompt: Create an image depicting two individuals, symbolizing duplicity in love, facing each other. The scene is set in a modern, sleek office environment, characterized by large glass windows that reflect a bustling cityscape in the background. The individuals, a man and a woman, are dressed in stylish business attire, with subtle hints of contrasting colors—deep blue for the man and vibrant red for the woman—symbolizing their conflicting emotions. They are standing on opposite sides of a glass conference table, each holding a small, intricately designed heart-shaped object in their hands.  
+
+The lighting should be bright and airy, emphasizing the modern corporate feel, with soft shadows cast by natural sunlight filtering through the glass. The angle is slightly elevated, capturing both the individuals and the city backdrop. The atmosphere conveys a sense of tension and intrigue, with the sleek lines and reflections of the office emphasizing the themes of love and deception. The overall style is hyper-realistic, focusing on details in their expressions and the contrasting colors to enhance the duality of the scene.
+Seed: 1457923540
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Present, Enterprise

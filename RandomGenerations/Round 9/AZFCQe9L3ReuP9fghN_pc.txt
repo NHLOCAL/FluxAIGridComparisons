@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a sprawling Metropolis, blending sci-fi and fantasy elements. The skyline features towering futuristic skyscrapers with intricate designs, interspersed with lush greenery and floating gardens. Neon lights and holographic displays adorn the buildings, casting a vibrant glow across the scene. In the foreground, a shimmering river reflects the city's dazzling colors, while futuristic vehicles soar above on elevated highways. The sky is painted in hues of deep purple and vibrant orange, suggesting a sunset that merges day and night. Wisps of ethereal fog drift through the streets, adding a mystical quality to the bustling urban environment. The overall composition combines sharp details with a dreamlike essence, evoking themes of intuition and exploration within this advanced civilization.
+Seed: 57651596
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Metropolis, Intuition

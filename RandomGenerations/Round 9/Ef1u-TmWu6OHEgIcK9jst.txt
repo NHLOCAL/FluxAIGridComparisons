@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split scene featuring two faces, one side showcasing a vibrant, smiling face of a young woman surrounded by colorful balloons and sunshine, while the other side reveals the same woman with a somber expression, standing in a dimly lit room with shadows cast on the walls. The vibrant side should have bright, warm lighting that enhances the cheerful mood, while the darker side features cool, muted colors and soft, diffuse lighting to amplify the sense of melancholy. The background on the bright side includes blurred park elements, such as green grass and distant trees, while the dark side has a sparse, empty room with cracked walls and a shadowy corner. The image is captured from a slightly angled perspective to emphasize the contrast between the two sides, inviting the viewer to reflect on the duplicity of human emotion. 
+Seed: 2361406624
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dwarf, Power

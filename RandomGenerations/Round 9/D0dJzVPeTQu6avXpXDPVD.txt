@@ -1,0 +1,8 @@
+Prompt: A visually stunning illustration capturing the theme of "duplicity in love." The central focus is a magnificent, intricately designed heart split into two halves. One side of the heart is lush and vibrant, filled with blooming roses in deep reds and luxurious gold accents, symbolizing passion and affection. The other half is dark and brooding, featuring thorny vines, wilted flowers, and cool shades of blue and black, representing deceit and heartache. 
+
+The background merges a serene, twilight sky with swirling clouds painted in deep purples and pinks on one side, transitioning to a stormy, ominous backdrop with flashes of lightning on the other side. This duality creates a sense of tension and contrast. The scene is illuminated by soft, ethereal light on the vibrant side and harsh, cold lighting on the darker side, enhancing the emotional depth of the artwork.
+
+Include a winding route that leads through the heart, adorned with tiny, glowing lanterns along the path, hinting at the journey of love and its complexities. The overall composition is a blend of surrealism and fine art, evoking a sense of wonder and introspection.
+Seed: 2484598905
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Magnificent, Route

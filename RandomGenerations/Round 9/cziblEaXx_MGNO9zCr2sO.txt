@@ -1,0 +1,8 @@
+Prompt: Create an image featuring a whimsical, pixelated sprite character that embodies the concept of duality. The character should be split down the middle, with one half bright and cheerful, featuring vibrant colors like yellow and green, and playful facial expressions. The other half should be dark and moody, utilizing shades of deep blue and purple, with a somber expression. 
+
+Set against a dynamic background that transitions from a sunny, vibrant landscape filled with flowers and sunshine to a shadowy, stormy scene with dark clouds and lightning. The contrast between the two sides of the background should enhance the duality theme. 
+
+The lighting should be carefully balanced, with bright, warm light illuminating the cheerful side and cool, ominous shadows enveloping the darker half. The angle of the scene should be slightly tilted to add a sense of movement and tension, emphasizing the complexity of the sprite's character. This piece should be rendered in a detailed illustration style that pays homage to classic pixel art while incorporating modern artistic techniques.
+Seed: 2312302446
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Difficulty, Sprite

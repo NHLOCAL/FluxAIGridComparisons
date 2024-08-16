@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a sci-fi fantasy landscape, revealing a vast expanse of floating islands suspended amidst swirling clouds. Each island is adorned with vibrant, bioluminescent flora in shades of deep blues and purples. The sky above is painted in a gradient of twilight colors, with luminous stars beginning to twinkle. A serene waterfall cascades from the edge of one island, creating a mist that glows softly in the ambient light. Below, a tranquil sea reflects the colorful sky, with gentle waves lapping at the bases of the islands. The overall composition conveys a sense of harmony and tranquility, enhanced by soft, diffused lighting that envelops the entire scene, creating a sense of peaceful wonder.
+Seed: 2089974907
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gorgeous, Tranquility

@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image blending a tranquil forest scene with a serene ocean view. The forest should feature tall, lush trees with sunlight streaming through the leaves, creating a soft, dappled lighting effect. Meanwhile, the ocean should display gentle waves lapping against a smooth shoreline, reflecting the calming blue tones of the sky. The two landscapes should seamlessly merge in the center, creating an ethereal transition of colors and shapes. The overall composition should evoke a sense of harmony and tranquility, with a focus on natural elements in a highly detailed, photorealistic style. The background should remain soft and slightly out of focus to enhance the dreamlike quality of the image.
+Seed: 2702327434
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peace, Bliss

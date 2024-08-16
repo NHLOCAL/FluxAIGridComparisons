@@ -1,0 +1,8 @@
+Prompt: A visually striking illustration showcasing the concept of duality through the depiction of a majestic dragon. The dragon should be split down the middle, with one side exhibiting vibrant, fiery colors of gold and crimson, symbolizing strength and fierceness. The other half should contrast with cool, calming hues of deep blue and silver, representing tranquility and wisdom. The dragon's intricate scales should be detailed, with luminous accents that highlight its features.
+
+The background should be divided accordingly, with a stormy sky on the fiery side, filled with swirling clouds and flashes of lightning, while the tranquil side is bathed in soft, serene moonlight, with gentle clouds drifting in the night sky. The foreground could feature a gallery-like setting with ornate frames highlighting the dragon's contrasting halves, as if it were a masterpiece on display. 
+
+The lighting should be dramatic, emphasizing the fierce glow on the fiery side and soft, ethereal light on the tranquil side, creating a captivating interplay of shadows and highlights that enhances the theme of duality. The overall style should combine elements of high fantasy and digital art, creating a rich, immersive visual experience.
+Seed: 1324454257
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dragon, Gallery

@@ -1,0 +1,6 @@
+Prompt: Create an image of a striking, ethereal feminine figure embodying duality, portrayed as an oracle. The figure should be split down the center, one side adorned in vibrant, flowing robes of royal blue and gold, symbolizing wisdom and light, while the other side is draped in dark, shadowy fabric with intricate patterns of silver and black, representing mystery and shadows. The oracle's long hair should transition from bright, cascading waves on one side to deep, shimmering locks on the other.
+
+The background features a surreal blend of two worlds: a bright, harmonious landscape filled with blooming flowers and radiant skies on the light side, contrasting with a dark, moody forest under a starry night on the shadowed side. Soft light from above should illuminate the oracle, casting gentle reflections on her skin, highlighting her features while creating a mystical, otherworldly glow. The pose should be dynamic, with arms extended outward, inviting viewers to embrace the balance of light and darkness. The overall art style should convey a sense of poetic beauty and surrealism, capturing the essence of duality in a harmonious manner.
+Seed: 3840017749
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Behold, Oracle

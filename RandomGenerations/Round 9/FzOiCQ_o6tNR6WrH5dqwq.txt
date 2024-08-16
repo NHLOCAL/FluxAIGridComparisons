@@ -1,0 +1,4 @@
+Prompt: A captivating photographic scene capturing the reflection of a dense urban skyline on a rain-soaked window. The foreground focuses on the water droplets cascading down the glass, which blur the vibrant city lights, creating a dreamlike quality. In the background, the sharp silhouettes of skyscrapers loom against a twilight sky, transitioning from deep blue to soft purple hues. This interplay of light and shadow evokes a sense of duplicity, reflecting both the bright, bustling energy of city life and the introspective calm that rain brings. The photograph utilizes high contrast, with clear details of the glass texture juxtaposed against the soft, indistinct shapes of the skyline. The entire composition is tightly framed to emphasize the tension between clarity and obscurity, encapsulating a moment of urban solitude.
+Seed: 2651153933
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Performance, Museum

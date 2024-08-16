@@ -1,0 +1,4 @@
+Prompt: Capture a breathtaking photograph of a vast, otherworldly landscape that seamlessly blends elements of science fiction and fantasy. The terrain features towering crystalline structures that glimmer under a surreal, multi-colored sky, characterized by swirling auroras and distant planets visible in the atmosphere. In the foreground, a calm, reflective body of water mirrors the vibrant colors above, enhancing the sense of tranquility and silence. The lighting should highlight the intricate details of the crystalline formations, casting subtle reflections and shadows across the landscape. The scene is devoid of any human presence, emphasizing the solitude and serene beauty of this alien world, creating an immersive experience that invites the viewer to contemplate the mysteries of the universe. High-resolution, vivid colors, ultra-detailed.
+Seed: 3515434705
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Science, Silence

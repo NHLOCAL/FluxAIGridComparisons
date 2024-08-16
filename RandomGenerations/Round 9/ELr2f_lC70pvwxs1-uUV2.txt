@@ -1,0 +1,8 @@
+Prompt: Create an illustration depicting the concept of duality represented through a character inspired by Avatar. The character should have a split design: one half should be adorned with vibrant, earthy colors resembling the lush environment of Pandora, featuring floral patterns and bioluminescent accents. The other half should depict a stark contrast, with cold, metallic tones and geometric designs representing a futuristic or technological theme. 
+
+The character's expression should be playful and adorable, featuring large, expressive eyes that reflect a sense of innocence. The background should transition smoothly from a rich, verdant landscape filled with exotic plants and glowing flora on one side to a sleek, futuristic cityscape with neon lights and high-tech architecture on the other. 
+
+The lighting should have warm, natural tones on the nature side, while the technology side is illuminated with cool, artificial lighting. The composition should be dynamic, capturing the balance between nature and technology while emphasizing the character's adorable charm in a whimsical art style.
+Seed: 56312049
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Avatar, Adorable

@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a weathered, abandoned wooden house on a hillside, surrounded by overgrown grass and wildflowers. The sky is filled with dark, heavy clouds, suggesting an impending storm, while a single ray of sunlight breaks through, illuminating the house. The paint on the wooden walls is peeling, and shattered windows give a glimpse into the empty interior, adding a sense of desolation. The landscape is framed by distant, shadowy mountains, enhancing the feeling of isolation. The overall color palette is muted with hints of gray and green, emphasizing the somber atmosphere, while the lighting creates deep shadows that enhance the mood of nostalgia and loss.
+Seed: 4131518500
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Night, Sea

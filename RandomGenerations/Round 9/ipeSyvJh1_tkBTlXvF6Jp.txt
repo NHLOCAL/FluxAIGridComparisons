@@ -1,0 +1,8 @@
+Prompt: Create an image of an ethereal feminine figure that embodies duality, portrayed in a split composition. On one side, the figure is adorned with vibrant, flowing garments in lively colors, symbolizing vigor and energy. The fabric shimmers and dances as if in motion, reflecting a sense of dynamism. On the opposite side, depict the same figure in soft, muted tones, enveloped in flowing, delicate fabrics that convey a sense of tranquility and calmness, highlighting her serene beauty.
+
+The background should transition from a bright, sunlit sky on the vibrant side, filled with vivid flowers and butterflies, to a twilight setting on the other, merging into a starry night with gentle moonlight casting soft shadows. Use dramatic lighting to emphasize the contrast between energy and serenity, showcasing the intricate details of the figure's features—large expressive eyes and flowing hair that changes color harmonically between both sides. The overall composition encapsulates the captivating essence of duality in feminine beauty, inviting viewers into a world of wonder and astonishment. 
+
+Art style should blend realism with a slightly surreal touch, focusing on color saturation and the fluidity of motion, 4K resolution.
+Seed: 4174929494
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Astonishment, Vigor

@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that blends a vibrant blue landscape featuring a tranquil ocean with soft waves and a clear blue sky. Overlaid on this scene, include a whimsical portrayal of a laughing, cartoonish character with exaggerated features, such as large eyes and a wide grin. The character should appear in a playful stance, perhaps juggling colorful beach balls, with its reflection subtly flowing into the ocean below. The image should utilize bright, contrasting shades of blue to enhance the comedic aspect, ensuring the ocean's gentle movement complements the lively energy of the character. The overall effect should be dynamic and visually engaging, merging nature with a touch of humor in a seamless and colorful composition.
+Seed: 1751672254
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Blue, Funny

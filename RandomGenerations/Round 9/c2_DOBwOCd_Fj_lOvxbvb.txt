@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a park bench during autumn. The scene captures the man with distinguished wrinkles and a weathered face, gazing contemplatively at a cluster of falling leaves. The vibrantly colored leaves—rich reds, oranges, and yellows—encircle him, while a soft breeze gently lifts a few leaves into the air. The background features a serene park with blurred figures of children playing and families enjoying the day, creating a sense of nostalgia. The lighting is warm and golden, as the late afternoon sun filters through the trees, casting gentle shadows. The overall composition highlights the contrast between the man's solitude and the lively surroundings, evoking feelings of reflection and the passage of time.
+Seed: 2542749591
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Multiplicity, Standard

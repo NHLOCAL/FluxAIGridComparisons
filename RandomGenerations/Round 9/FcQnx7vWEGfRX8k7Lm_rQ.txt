@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that intricately blends two contrasting scenes. The first layer features a close-up portrait of a determined individual with a furrowed brow, illuminated by soft, dramatic lighting. The second layer should depict a chaotic urban environment filled with challenging elements such as crumbling buildings, tangled power lines, and smoky skies. These elements should appear to merge seamlessly with the individual's features, symbolizing the struggle and consequence of their environment. The overall color palette should include muted tones with splashes of vibrant colors for emphasis, creating a visual narrative that conveys the concepts of consequence and difficulty through intricate details and textures. The composition should have a cinematic quality, highlighting the interplay between the person and their surroundings.
+Seed: 2919788942
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Consequence, Difficulty
