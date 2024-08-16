@@ -1,0 +1,6 @@
+Prompt: Create an image showcasing three unique alien pets in a vibrant, extraterrestrial environment. The first pet is a floating, jellyfish-like creature with translucent, colorful tendrils that emit a soft, pulsating glow. The second pet is a small, furry quadruped with bioluminescent patterns on its fur, which resembles a cross between a rabbit and a fox, its large, expressive eyes radiating curiosity. The third pet features a snake-like body covered in iridescent scales that shift colors in the light, with tiny wings that allow it to hover gracefully. 
+
+The background should depict an otherworldly landscape filled with oversized plants, glowing fungi, and an array of bizarre flora, all under a radiant, multi-colored sky. Include elements like floating rocks and sparkling particles in the air to enhance the surreal atmosphere. Use vivid colors throughout the scene, emphasizing the exotic nature of the alien pets and their fantastical environment, capturing a sense of whimsy and wonder. The art style should be hyper-detailed and whimsical, reminiscent of classic sci-fi illustrations.
+Seed: 2119382958
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spectrum, Cryogenics

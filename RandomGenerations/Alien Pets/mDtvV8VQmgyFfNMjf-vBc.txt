@@ -1,0 +1,6 @@
+Prompt: A mesmerizing scene featuring a collection of unique alien pets displayed in a whimsical pet shop setting on a distant planet. The first pet is a small, fluffy creature with iridescent fur that changes colors based on its mood, resembling a blend of a kitten and a jellyfish, with delicate tendrils floating around it. Next to it, a small, round creature with oversized eyes and a transparent body reveals a swirling galaxy within, floating gently above the ground. Another pet, resembling a miniature dragon, has shimmering scales that reflect light like a prism and tiny, fluttering wings that leave trails of sparkling dust in the air. 
+
+The background features vibrant, neon plants with unusual shapes and colors, creating an otherworldly atmosphere, while a swirling, starry sky is visible through a large window. The lighting is soft and ambient, casting playful shadows and highlighting the pets' unique features. The overall composition combines elements of surrealism and whimsy, inviting viewers into a fantastical setting filled with intriguing, exotic creatures. Hyper-detailed, vibrant colors, imaginative design, 4k resolution, and an enchanting atmosphere that captures the essence of alien life.
+Seed: 1792877668
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Talent, Hospital

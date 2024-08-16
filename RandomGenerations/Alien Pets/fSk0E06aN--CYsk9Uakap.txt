@@ -1,0 +1,6 @@
+Prompt: A captivating illustration of a peculiar alien pet, resembling a hybrid creature with the body of a small, fluffy dog and the head of a giant plump jellyfish. The creature's translucent, pulsating jellyfish head glows with vibrant colors like electric blue, neon green, and iridescent purple, casting colorful reflections on its soft, fur-like body. Its long, trailing tentacles gently sway and emit bioluminescent speckles, creating a mesmerizing light display. 
+
+The background features a surreal alien landscape with multicolored foliage, floating crystal formations, and unusual plants that shimmer under a glowing pink and orange sky at dusk. The atmosphere is ethereal, with floating orbs of light and distant, uniquely shaped moons visible in the sky. The scene encapsulates a dreamlike quality of wonder and curiosity, emphasizing the fascinating and otherworldly nature of this alien pet. The art style is hyper-detailed, utilizing vibrant colors and dynamic lighting to enhance the fantastical scene.
+Seed: 3895297845
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Galaxy, Surgery

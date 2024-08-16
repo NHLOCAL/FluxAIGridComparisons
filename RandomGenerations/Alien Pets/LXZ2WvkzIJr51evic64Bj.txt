@@ -1,0 +1,6 @@
+Prompt: Create an illustration of a bizarre alien pet, featuring a creature that resembles a cross between a cat and a jellyfish. The body should be semi-transparent, with pulsating bioluminescent patterns in shades of deep blue and purple. Its head mimics that of a feline, but with large, multifaceted eyes that sparkle like gemstones. Instead of fur, the creature has long, flowing tentacles that undulate gracefully, resembling a jellyfish's trailing appendages. 
+
+The scene is set in a vibrant alien landscape with swirling neon-colored plants and glowing fungi. The ground is made up of a glittering, iridescent surface that reflects the bioluminescent light of the creature. In the background, tall, crystalline structures jut out from the ground, illuminated by the soft glow of various planets in the sky, creating a fantastical atmosphere. The lighting is dynamic and colorful, enhancing the otherworldly ambiance of this unique alien pet. Emphasize intricate details and vibrant colors to capture the viewer's attention and imagination.
+Seed: 2064817806
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sapphire, Magnificent

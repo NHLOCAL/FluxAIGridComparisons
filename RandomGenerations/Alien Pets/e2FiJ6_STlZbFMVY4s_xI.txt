@@ -1,0 +1,6 @@
+Prompt: Create an imaginative scene featuring a collection of alien pets in a vibrant, extraterrestrial environment. The first alien pet is a fluffy, multicolored creature with large, luminous eyes, resembling a cross between a rabbit and a jellyfish, floating gently above the ground. Its long, trailing tendrils emit a soft, bioluminescent glow. Next to it, depict a small, dinosaur-like creature with iridescent scales and three sets of tiny wings, playfully darting among unusual, oversized flowers with vivid colors and strange shapes. 
+
+In the background, include a small, amphibious creature that appears to be a fusion of a frog and a gopher, sitting on a rock and observing its surroundings with an inquisitive expression. The sky above is filled with two suns and swirling nebulae, creating a surreal color palette of purples, pinks, and blues. Render the scene in a whimsical, cartoonish art style, with exaggerated features and playful proportions, allowing for a lighthearted and fantastical atmosphere. Ensure the lighting is bright and cheerful, enhancing the vibrant colors and playful dynamics of this unique alien pet gathering.
+Seed: 213875857
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Orange, Mausoleum

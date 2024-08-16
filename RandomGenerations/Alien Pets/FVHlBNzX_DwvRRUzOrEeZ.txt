@@ -1,0 +1,6 @@
+Prompt: Create an illustration featuring a collection of unique alien pets in a vibrant, futuristic pet shop setting. The first pet should be a floating, translucent jellyfish-like creature with glowing, rainbow-colored tendrils that gently sway as it hovers above a small, transparent enclosure. The second pet is a fluffy, multicolored creature resembling a mix between a rabbit and a dragon, with soft fur, tiny wings, and expressive, large eyes. The third pet is a small, robotic insect with intricate gears and sparkling LED lights, crawling on a miniature space-themed playground. 
+
+The background should showcase an array of futuristic pet accessories, including shimmering collars and radiant toys. A holographic display in the shop highlights the pets' unique features and care instructions. Ambient, colorful lighting from neon signs casts dynamic reflections across the scene, creating a lively atmosphere. The art style should blend elements of whimsy and sci-fi, with bold colors and intricate details that enchant the viewer.
+Seed: 2648377004
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hologram, Console

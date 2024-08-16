@@ -1,0 +1,12 @@
+Prompt: Create an imaginative scene depicting three unique alien pets, each with distinct characteristics and features. 
+
+1. The first pet is an elongated, translucent creature resembling a jellyfish, with luminescent tentacles that leave a shimmering trail as it glides through the air. Its body contains swirling colors of blue and green, reflecting the surrounding environment, and it emits soft, musical sounds. 
+
+2. The second pet resembles a small, furry creature with six eyes and vibrant, iridescent fur that shifts colors depending on its mood. It has elongated ears resembling butterfly wings, which flutter gently as it moves. Within its fur, tiny glowing orbs can be seen, illuminating its surroundings with a soft, warm glow.
+
+3. The third pet is a miniature dragon-like being with feathered wings. Its scales are a deep purple with specks of gold, and its eyes glow like embers. It has a small, mischievous grin and emits tiny sparks of light when excited. 
+
+The background should depict a whimsical alien landscape filled with bioluminescent plants, colorful geological formations, and a pastel-colored sky dotted with swirling clouds. The scene is bathed in a soft, ethereal glow, creating a surreal and enchanting atmosphere. The angle should capture the pets in motion, showcasing their unique features against the vibrant backdrop. The overall art style should be colorful and fantastical, highlighting the otherworldly nature of these alien companions.
+Seed: 1600651021
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alpha, Cathedral

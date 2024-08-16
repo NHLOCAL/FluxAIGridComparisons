@@ -1,0 +1,8 @@
+Prompt: Create an illustration of a fantastical alien pet creature, uniquely designed with features that blend various species. The pet should have a round body covered in vibrant, iridescent scales that shimmer in shades of blue, green, and purple. Its head is large and bulbous, with oversized googly eyes that appear friendly, and a wide mouth filled with tiny, shimmering teeth. Instead of ears, it has colorful fronds that resemble sea anemones, gently swaying as it moves.
+
+The alien pet has six thin, flexible legs that allow it to scuttle quickly, decorated with small bioluminescent spots that light up an enchanting glow in a dark environment. It has a long, curling tail that emits a faint, melodic hum when it wags, creating an otherworldly sound.
+
+The background features a surreal extraterrestrial environment, with floating rocks, vibrant alien flora, and a night sky filled with multiple moons and twinkling stars, casting an ethereal light over the scene. The overall composition should be colorful and inviting, showcasing this unique pet in its enchanting home. Rendered in a whimsical, imaginative art style that emphasizes the strangeness and wonder of alien life, with intricate details highlighting the creature's unique features and surrounding environment.
+Seed: 2260586821
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alteration, Civilization

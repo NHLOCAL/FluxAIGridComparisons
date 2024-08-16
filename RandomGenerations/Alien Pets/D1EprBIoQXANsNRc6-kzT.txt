@@ -1,0 +1,6 @@
+Prompt: Create an imaginative scene featuring a collection of unique alien pets in a vibrant extraterrestrial environment. The first alien pet is a fluffy, multicolored creature with large, luminous eyes and three wiggly antennae atop its head. Its body is round and covered in soft, fluffy fur that changes color based on its mood. Next to it is a small, bioluminescent jellyfish-like creature that floats elegantly in the air, emitting a soft, pulsating glow. Its tentacles are delicate and wavy, trailing colorful light as it moves.
+
+A third pet is a miniature dinosaur-like entity with iridescent scales that shimmer with every color of the rainbow, possessing four tiny, feathered limbs and a long, curled tail. It makes playful chirping sounds as it scurries around. The background features an alien landscape with strange, twisted trees and a sky filled with swirling galaxies and two moons. The lighting is warm and ethereal, creating an otherworldly atmosphere. The entire scene conveys a sense of whimsy and curiosity, making the viewer fascinated by these extraordinary alien companions. The art style is vibrant and imaginative, reminiscent of a fantastical children's book illustration.
+Seed: 2959179630
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Idea, Sea

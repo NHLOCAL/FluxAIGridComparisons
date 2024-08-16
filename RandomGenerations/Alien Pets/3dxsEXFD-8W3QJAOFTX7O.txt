@@ -1,0 +1,4 @@
+Prompt: Create an image of a fantastical alien pet, a hybrid creature that combines elements of a jellyfish and a kitten. The body should be semi-transparent, with flowing tentacles resembling soft fur gently drifting in the air. Its large, expressive eyes shimmer with iridescence, reflecting vibrant colors of blue, pink, and purple. Surrounding the creature is an otherworldly habitat filled with luminous plants and glowing rocks. The background features a starry sky with distant planets and swirling nebulae, creating a cosmic atmosphere. Soft, ambient lighting adds to the ethereal quality, highlighting the intricate details of the pet's form and its enchanting environment. Ultra-high detail, colorful, vibrant, surreal.
+Seed: 1416833920
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tree, Subconscious

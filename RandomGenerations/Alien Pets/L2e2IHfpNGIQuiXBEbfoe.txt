@@ -1,0 +1,4 @@
+Prompt: Create an illustration of an otherworldly alien pet resembling a cross between a fluffy cloud and a chameleon. The creature has a round, body covered in soft, pastel-colored fluff, with vibrant, shifting scales that reflect its surroundings. Its large, playful eyes are expressive and captivating, and it has numerous tiny, shimmering appendages that resemble sparkling star trails. The background features a whimsical alien landscape with bioluminescent plants and floating rocks, under a sky filled with two moons and swirling galaxies. The overall atmosphere is enchanting and surreal, with a bright color palette and soft, diffused lighting enhancing the pet's ethereal qualities. Cinematic, imaginative, and colorful.
+Seed: 2490944925
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Present, Heart

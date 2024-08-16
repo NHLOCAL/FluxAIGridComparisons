@@ -1,0 +1,6 @@
+Prompt: Create an illustration of a bizarre alien pet market set on a vibrant, colorful planet. The foreground features a variety of unique alien pets: a fluffy, multi-eyed creature with iridescent fur that shifts colors, a small, translucent lizard with glowing patterns running along its body, and an elastic, amorphous blob pet that can morph into various shapes. Each alien pet exhibits distinct features and textures that highlight their otherworldly nature.
+
+The background reveals a bustling alien marketplace with fantastical architecture made of glowing crystals and organic shapes. Stalls filled with unusual plants and trinkets line the pathways, and alien shoppers of various shapes and sizes browse the offerings. The lighting is bright and saturated, filled with vibrant shades of purple, blue, and green, creating a whimsical, lively atmosphere. The scene is rendered in a colorful, cartoonish art style, emphasizing the diversity and strangeness of these alien pets and their environment.
+Seed: 4094308141
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Respect, Feeling

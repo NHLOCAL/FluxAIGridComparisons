@@ -1,0 +1,8 @@
+Prompt: Create an image of a surreal alien petting zoo featuring a variety of unique extraterrestrial creatures. In the foreground, depict a small, fluffy creature with iridescent fur that changes color based on its mood, showcasing vibrant hues of purple, green, and blue. Next to it, illustrate a tall, slender pet resembling a mix of a giraffe and a flamingo, with a long neck and elongated legs, standing gracefully on a patch of soft, luminescent grass.
+
+In the background, include a large, squishy, jellyfish-like organism gently pulsating in the air, with tentacles trailing down and glowing softly in shades of pink and yellow. Beside it, depict an oversized, round creature resembling an inflatable beach ball, with a goofy smile and large, expressive eyes, rolling playfully around. 
+
+The setting is a whimsical alien environment, filled with colorful, bioluminescent plants and strange rock formations. The sky should feature two suns casting surreal lighting, with swirling colors in the clouds reflecting off the unique pets. The overall scene should evoke a sense of wonder and playful curiosity, showcasing the diversity of alien life in a vibrant and imaginative manner.
+Seed: 1595590145
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quarter, Elf

@@ -1,0 +1,8 @@
+Prompt: Create an imaginative scene featuring an assortment of bizarre, alien pets in a vibrant extraterrestrial landscape. In the foreground, depict a neon-colored, fluffy creature resembling a cross between a hamster and a jellyfish, with glowing tendrils trailing behind it. Next to it, illustrate a small, insect-like creature with translucent wings that shimmer with iridescent colors, perched on the back of a large, round, blue amphibian that has expressive, googly eyes and fins that emit soft light.
+
+In the background, set a lush alien forest filled with oversized, bioluminescent plants and peculiar, multi-colored mushrooms creating a surreal atmosphere. The sky is filled with two suns setting, casting a warm golden and purple hue over the scene. Among the foliage, a floating, spherical creature with a curious face and tiny legs hovers effortlessly, while a chubby, fur-covered creature with star-like patterns burrows into the ground.
+
+The entire illustration should emphasize the whimsical and playful nature of these alien pets, using bold colors and dynamic movements to convey a sense of joy and intrigue. Opt for a vibrant, cartoonish art style that enhances the surreal qualities of this extraterrestrial world, inviting the viewer to explore this strange and fantastical habitat.
+Seed: 919121084
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Aquarium, Sight

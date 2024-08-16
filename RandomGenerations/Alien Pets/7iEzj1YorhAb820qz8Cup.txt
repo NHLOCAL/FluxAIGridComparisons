@@ -1,0 +1,8 @@
+Prompt: Create an imaginative scene featuring a collection of unique alien pets on a vibrant, alien planet. In the foreground, showcase a fluffy, multi-colored creature resembling a cross between a cat and a jellyfish, its tentacles gently undulating and glowing in various hues. Next to it, a small, spiky, lizard-like creature with iridescent scales lounges on a rock, its large, googly eyes blink curiously at the viewer.
+
+In the background, depict a floating, ethereal pet resembling a cross between a rabbit and a cloud, trailing wisps of vapor as it hops through the air. Another pet, a tiny dinosaur-like creature with butterfly wings, flutters around, leaving a shimmer of sparkles in its wake. 
+
+The alien landscape should be filled with bizarre flora; towering, twisted trees in bright neon colors and oversized mushrooms, some glowing softly against the twilight sky filled with swirling, pastel-colored clouds. A dual sunset casts radiant light, creating an otherworldly atmosphere filled with wonder and curiosity. The scene should be bursting with color and creativity, showcasing the quirky and playful nature of these imaginative alien pets. Cinematic style, hyper-detailed, vibrant colors.
+Seed: 1126943427
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Generation, Passion

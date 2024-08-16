@@ -1,0 +1,6 @@
+Prompt: Create an illustration of three unique alien pets in a surreal extraterrestrial environment. The first pet is a jellyfish-like creature with a translucent, glowing body, and delicate, flowing tentacles that shimmer in an array of colors. It hovers gracefully above the ground, emitting soft bioluminescent pulses. The second pet resembles a small, furry creature with large, googly eyes and antennae, covered in vibrant, iridescent fur that changes color with its mood. It playfully leaps around on six bouncy legs. The third pet is a small, robotic lizard with metallic scales reflecting the surrounding vibrant colors, equipped with tiny wheels instead of legs, zipping playfully along the ground. 
+
+The background should depict a fantastical alien landscape filled with oversized, technicolor flora, glowing mushrooms, and bubbling, iridescent pools of liquid. The sky should be a rich gradient of purple and blue with two suns setting on the horizon, casting dramatic, colorful shadows across the scene. The art style is a combination of whimsical and vibrant surrealism, emphasizing the imagination and uniqueness of the alien pets, with emphasis on vivid colors and intricate details to create an immersive, fantastical atmosphere.
+Seed: 2718334426
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Breeze, Night

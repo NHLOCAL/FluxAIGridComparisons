@@ -1,0 +1,12 @@
+Prompt: Create a captivating illustration of three unique alien pets in a vibrant extraterrestrial habitat. 
+
+1. The first pet is a luminescent jellyfish-like creature, floating gracefully above the ground, with colorful tendrils trailing behind it that emit a soft glow. The creature has large, expressive eyes that shimmer with vibrant hues, reflecting its curiosity.
+
+2. The second pet resembles a small, furry quadruped with iridescent fur that shifts colors with its movements. It has oversized ears and playful, swirling patterns on its skin. Its eyes are large and expressive, conveying a sense of mischief and wonder.
+
+3. The third pet is a small, reptilian creature with transparent skin, revealing a complex network of bioluminescent organs inside. It has large, frilled fins that extend along its back and can change patterns to blend into the environment. 
+
+The background features a surreal alien landscape with towering, spiky plants in shades of pink and purple, floating islands, and a glowing sky filled with multiple moons and colorful stars. The scene is illuminated with a captivating bioluminescence, creating a fantastical and whimsical atmosphere that invites the viewer into this otherworldly pet paradise. The art style is a blend of vibrant cartoon-like aesthetics and hyper-realistic details, emphasizing the uniqueness of each creature and their environment.
+Seed: 2245324602
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nature, Church

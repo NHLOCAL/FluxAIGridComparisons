@@ -1,0 +1,8 @@
+Prompt: Create a captivating illustration of a peculiar alien pet in an otherworldly setting. The alien pet resembles a jellyfish combined with a fluffy puppy, featuring a round, shimmering body with vibrant, iridescent colors of purple, blue, and green. Its tentacles, resembling soft fur, float gently around it, trailing luminescent sparkles. The creature’s large, expressive eyes sparkle with curiosity, and its mouth forms a small, playful grin.
+
+Set this scene in a lush, bioluminescent alien jungle, filled with oversized, spiraling plants that glow gently in shades of pink and orange, and exotic flowers emitting soft, twinkling lights. The background features swirling nebulae and distant stars, creating a cosmic atmosphere. 
+
+The lighting should be soft and dreamy, with ambient glows reflecting off the alien pet and the flora, giving the entire composition an enchanting, surreal quality. The angle is slightly low, focusing on the pet in the foreground with the enchanting jungle and cosmic backdrop providing depth and wonder to the scene. The overall style is hyper-detailed and vibrant, capturing the essence of an imaginative alien world.
+Seed: 2856154739
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ardor, Winsome

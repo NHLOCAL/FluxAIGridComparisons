@@ -1,0 +1,6 @@
+Prompt: Create an illustration of three unique alien pets in a vibrant, extraterrestrial environment. The first pet is a small, fluffy creature resembling a cross between a kitten and a starfish, with multiple vibrant colors swirling through its velvety fur and large, luminescent eyes. The second pet is a floating creature resembling a jellyfish with a crystalline dome that changes colors based on its mood, adorned with twinkling, star-like patterns on its transparent tentacles. The third pet is a tiny reptilian creature with feather-like appendages that glow softly in the dark, perched on a colorful rock covered in bioluminescent moss. 
+
+The background features a fantastical alien landscape filled with oversized, twisted plants, glowing spores, and a sky filled with swirling nebulae in shades of purple, blue, and green. Ethereal lighting bathes the scene, enhancing the vivid colors of the pets and the environment. The overall composition is playful and whimsical, drawing attention to the uniqueness of these alien companions, blending surrealism with vibrant details in a digital art style.
+Seed: 828902921
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Movement, Disgust

@@ -1,0 +1,6 @@
+Prompt: Create an illustration of a bizarre alien pet resembling a cross between a chameleon and a jellyfish. The creature has a large, bulbous head with luminescent tendrils that dangle gracefully like a jellyfish's tentacles. Its body shifts in color, displaying a spectrum of iridescent hues that change with its surroundings. The skin has a semi-transparent quality, revealing pulsating bioluminescent organs within.  
+
+The creature is perched on a floating rock in a vibrant alien landscape filled with neon-colored plants that sway rhythmically with the gentle wind. The sky above is filled with swirling galaxies and two suns casting eccentric shadows. The lighting is soft and dreamlike, with beams of light filtering through the atmospheric haze. Capture the scene from a low angle, focusing on the alien pet's impressive features while the stunning backdrop emphasizes its environment. The overall composition should convey a sense of otherworldly charm and intrigue, rendered in a vibrant, surreal art style, highly detailed and imaginative.
+Seed: 108204492
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Medal, Biomechanics

@@ -1,0 +1,6 @@
+Prompt: Create an imaginative illustration of a unique alien pet, a blend between a cat and a jellyfish. The creature has a round, fluffy body covered in vibrant, luminescent colors, reminiscent of neon blues, pinks, and purples. Its tentacle-like appendages extend gracefully from its body, each adorned with bioluminescent spots that glow softly in the dim light. The pet's large, expressive eyes are a deep shade of emerald green, capturing a sense of curiosity and playfulness.
+
+The background is an otherworldly alien landscape, featuring iridescent plants with swirling patterns and floating rocks suspended in a surreal sky filled with swirling galaxies and stars. The lighting is ethereal, casting rainbow hues across the scene, creating a dreamlike ambiance. The angle of the shot is slightly elevated, showcasing the alien pet in the foreground, interacting with colorful flora, while distant cosmic phenomena create a stunning backdrop. The overall composition blends elements of fantasy and sci-fi, inviting viewers to a whimsical, alien world filled with wonder.
+Seed: 2249680723
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: State, Truth

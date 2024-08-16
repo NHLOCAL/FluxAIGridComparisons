@@ -1,0 +1,6 @@
+Prompt: Create an illustration of an eclectic collection of unique alien pets in a vibrant, surreal alien marketplace. Each pet should display distinct physical features: a small, fluffy creature resembling a mix between a bunny and a jellyfish, with glowing tendrils for ears; a miniature dragon with iridescent scales and butterfly wings; an elongated, slinky-bodied creature that can change colors based on emotions; and a chubby, fluffy pet resembling a round, fluffy cloud with tiny eyes peeking out and gentle sparks of electricity around it. 
+
+The background should be a colorful market scene on a distant planet, filled with stalls adorned with exotic plants, shimmering lights, and otherworldly artifacts. The atmosphere is lively and bustling, with various alien species interacting and trading. The lighting is bright and whimsical, casting vibrant colors that enhance the surreal nature of the scene. The angle should be dynamic, capturing the chaotic energy of the market and highlighting the unique characteristics of the pets. The overall composition should combine elements of fantasy and whimsy, creating a playful and imaginative visual experience.
+Seed: 1271042731
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Individuality, Novelty
