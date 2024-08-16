@@ -1,0 +1,4 @@
+Prompt: Create an action-packed scene featuring a group of colorful and eccentric extraterrestrials performing daring stunts in a cosmic environment. The aliens should have unique, outlandish features such as multiple limbs, luminescent skin, and exaggerated facial expressions. They are seen executing flips and jumps off glowing hoverboards above a vibrant alien landscape filled with strange plants, floating rocks, and swirling galaxies in the background. The sky is a mix of bright reds, purples, and blues, illuminated by distant stars and two suns. The stunts should convey a sense of movement and excitement, captured in a dynamic angle that emphasizes the height and thrill of their performances. The lighting is bright and saturated, enhancing the vivid colors of the scene and creating a playful, adventurous atmosphere, styled in a comic book aesthetic.
+Seed: 2403785038
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Artistic, Tale

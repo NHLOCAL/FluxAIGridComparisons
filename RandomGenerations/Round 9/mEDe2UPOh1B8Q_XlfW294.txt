@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring a feminine figure standing gracefully in a natural landscape, with one half representing beauty bathed in sunlight, adorned with delicate flowers and flowing garments. The other half should depict a more tempestuous aspect, surrounded by a geyser erupting with water and steam, emphasizing contrast. The background showcases a dramatic sky, transitioning from clear blue on one side to dark, rain-laden clouds on the other, with heavy rain cascading down. The illustration should employ vibrant colors for the sunny side, while cooler, darker tones dominate the stormy half. Capture the duality of the scene with dynamic lighting, highlighting the contrast between light and dark, serenity and chaos, creating a mesmerizing composition that celebrates the balance of feminine beauty amidst nature's forces.
+Seed: 2878963324
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Geyser, Rain

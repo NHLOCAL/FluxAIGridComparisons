@@ -1,0 +1,4 @@
+Prompt: Create an image showcasing the concept of feminine beauty through the portrayal of a dual-faced woman. One side of her face embodies serenity with soft, gentle features, illuminated by warm, golden light. The other side portrays a strong, determined expression, emphasized by cool, intense lighting. The background is a split scene featuring a tranquil landscape, with blooming flowers on one side and a rugged mountain range on the other, symbolizing peace and strength. The woman’s hair flows elegantly, blending into the surroundings, and her attire combines flowing fabrics with armor-like elements, signifying skill and adaptability. The overall composition embraces contrast, harmonizing the themes of beauty, duality, and strength. Photorealistic style with high detail, emphasizing texture and light.
+Seed: 1850000816
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peace, Skill

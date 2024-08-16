@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a group of three studly men without shirts, engaged in everyday tasks around a modern, urban environment. The first man is seen grilling food on a barbecue in a trendy backyard, showcasing his toned physique and relaxed demeanor. The second man is sanding a wooden table on a spacious balcony, with tools scattered around him, displaying focus and strength. The third man is watering vibrant plants in a community garden, embodying a casual and friendly vibe. The background should include a city skyline with a bright blue sky and fluffy white clouds, emphasizing a sunny day. The lighting is warm and natural, casting soft shadows that highlight their muscular forms. The overall atmosphere is lively and vibrant, capturing a sense of camaraderie and everyday leisure.
+Seed: 1211220015
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Probability, Field

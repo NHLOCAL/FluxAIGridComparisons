@@ -1,0 +1,4 @@
+Prompt: A hauntingly beautiful illustration of two ghostly figures representing the concept of love, entwined in an eternal embrace. The figures are semi-transparent with a soft, ethereal glow, showcasing intricate patterns of shimmering light that cascade around them. The background features a misty, twilight landscape with faint silhouettes of trees and a crescent moon illuminating the scene with a gentle silver hue. Scattered around them are quarter coins that sparkle like stars, reflecting the ghostly light. The overall composition has a delicate, dreamlike quality, emphasizing the theme of duplicity in love while blending elements of fantasy and romance. The lighting is soft and ambient, creating a mysterious yet tender atmosphere. The art style combines elements of modern surrealism and classic romanticism, inviting viewers to explore the complex nature of love.
+Seed: 2671218466
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ghost, Quarter

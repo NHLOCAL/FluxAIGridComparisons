@@ -1,0 +1,10 @@
+Prompt: Create a captivating portrait that embodies feminine beauty through the representation of duality. The composition features a woman with half her face illuminated in warm golden light, highlighting her delicate features and flowing hair. The other half is shrouded in cool blue shadows, accentuating a sense of mystery and depth. 
+
+She wears a gown that blends soft pastel colors, seamlessly transitioning from luxurious reds and golds on one side, symbolizing passion and devotion, to calming blues and purples on the other, representing tranquility and introspection. 
+
+In the background, depict a harmonious blend of a lively garden filled with vibrant flowers intermingled with serene ocean waves. The lighting should be soft and diffused, creating a dreamlike atmosphere, with rays of light filtering through lush greenery. 
+
+The angle should focus on a three-quarter view, emphasizing her graceful profile, while maintaining intricate details in her expression, suggesting strength and gentleness simultaneously. The overall aesthetic is reminiscent of classical paintings, emphasizing elegance and the celebration of duality within feminine beauty.
+Seed: 2083005799
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Passion, Devotion

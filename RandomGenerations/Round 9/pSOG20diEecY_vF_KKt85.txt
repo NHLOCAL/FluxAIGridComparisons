@@ -1,0 +1,4 @@
+Prompt: A striking photograph capturing the concept of duplicity through the contrast of two identical twin sisters standing back to back. One sister is dressed in a pristine white dress, her hair neatly styled, and a soft smile on her face, while the other wears a dark, tattered outfit with disheveled hair and an intense, piercing gaze. The background is a split scene, one side bathed in warm golden sunlight and blooming flowers, while the other is shrouded in deep shadows and wilting foliage. The lighting highlights their distinct features, creating a stark juxtaposition of innocence and darkness. The overall composition conveys the intricacies of identity and the duality of human nature, inviting the viewer to contemplate the hidden depths within each individual. The image is shot in high resolution, emphasizing detail and clarity.
+Seed: 1531120259
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scream, Enemy

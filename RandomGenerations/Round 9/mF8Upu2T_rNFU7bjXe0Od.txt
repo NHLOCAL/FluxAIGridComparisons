@@ -1,0 +1,4 @@
+Prompt: Create an artistic illustration of an intertwined couple standing back-to-back, their silhouettes blending into a vibrant, swirling vortex of colors, symbolizing the complexity of love and duplicity. The background features an abstract representation of a city at twilight, with deep purples and blues reflecting on the water, creating a sense of mystery. The couple's facial expressions are obscured within the colors, emphasizing their hidden emotions and secrets. Ethereal sparks of light and shadow dance around them, enhancing the enigmatic atmosphere. The overall composition combines elements of abstraction with a contemporary art style, focusing on the vivid color palettes and dynamic movement to evoke a sense of intrigue and complexity in relationships.
+Seed: 3759003116
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mystery, Artwork

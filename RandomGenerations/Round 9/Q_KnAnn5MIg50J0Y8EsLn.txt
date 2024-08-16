@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining elements of a serene desert landscape and a vibrant ocean scene. The foreground features a silhouette of a person standing on a dune, gazing out over the shimmering sand. The background merges seamlessly into a lush, blue ocean with gentle waves and coral reefs visible beneath the surface. The color palette should emphasize various shades of blue, creating a tranquil and dreamlike atmosphere. Use soft lighting to evoke a sense of calm, with the sunlight filtering through wispy clouds, casting ethereal reflections on both the sand and water. The overall composition should blend the mirage-like quality of the desert with the refreshing essence of the ocean, resulting in a cohesive and captivating visual experience.
+Seed: 2215458327
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mirage, Blue

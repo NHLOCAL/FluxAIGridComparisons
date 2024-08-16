@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that merges an urban cityscape with stylized financial charts representing growth and market statistics. The first layer features a bustling city skyline during sunset, with vibrant colors reflecting off glass buildings. The second layer incorporates intricate line graphs, candlestick charts, and numerical data overlays, depicted in a translucent white to maintain the city backdrop. The overall composition should blend both elements seamlessly, capturing the dynamic relationship between urban life and market activity. Utilize a high-contrast lighting technique to enhance the details in both the cityscape and the financial graphs, creating a striking visual narrative that illustrates the concept of "Amount" in relation to the "Market."
+Seed: 3995499519
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Amount, Market

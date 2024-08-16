@@ -1,0 +1,6 @@
+Prompt: Create a vibrant and whimsical illustration featuring a collection of strange and unique alien pets in an otherworldly pet shop. The scene should include various alien creatures, such as a small, fluffy pet with iridescent fur that shimmers in colors of blue and green, accompanied by a tiny creature with multiple eyes and spiral-shaped antennae, perched on a floating, glowing platform. Another pet, resembling a jellyfish but with fur, hovers lazily in a transparent, spherical terrarium filled with colorful floating orbs. 
+
+The shop's interior should have a fantastical design, adorned with neon lights and strange, twisting plants that seem to communicate with the creatures. The background features shelves filled with peculiar alien toys and feeding apparatuses. Bright, warm lighting should fill the scene, enhancing the surreal atmosphere of this intergalactic pet shop, highlighting the intricate details of each unique pet. The overall artistic style should be playful and imaginative, reminiscent of animated films.
+Seed: 737610092
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Astonishment, Smell

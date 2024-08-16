@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an abandoned, weathered cabin in a dense, misty forest. The cabin's wooden walls are covered in dark moss and lichen, with shattered windows revealing a dark interior. Dead leaves and twigs are strewn across the ground, complementing the rustic landscape. Shafts of soft, diffused light filter through the canopy of tall trees, casting dappled shadows on the ground. The atmosphere is filled with a thick fog that cloaks the surroundings, enhancing the sense of isolation and tranquility. A hint of sunlight breaks through the clouds, illuminating the cabin and creating a striking contrast between light and shadow. The overall composition captures a haunting beauty, inviting viewers to reflect on the passage of time and nature's reclamation. 
+Seed: 2166001937
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Doubt, Awakening

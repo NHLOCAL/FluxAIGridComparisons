@@ -1,0 +1,4 @@
+Prompt: A breathtaking sci-fi/fantasy landscape featuring a serene Dojo nestled amidst towering, bioluminescent mountains. The Dojo, constructed from sleek, futuristic materials, glows softly in hues of blue and green, harmonizing with the surrounding foliage. A tranquil river flows nearby, reflecting the vibrant colors of the environment. In the background, two moons cast ethereal light, illuminating gently swirling mists that rise from the forest floor. The sky is a stunning blend of purples and oranges as the sun sets on the horizon. Capture this scene with a wide-angle shot, emphasizing the contrast between the organic landscape and the architectural elegance of the Dojo. The overall composition is enhanced by dramatic lighting that creates an enchanting and mystical atmosphere. Hyper-realistic, highly detailed, vibrant colors.
+Seed: 1548654609
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Feeling, Dojo

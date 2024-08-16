@@ -1,0 +1,4 @@
+Prompt: Create a vibrant illustration of a lively Havana street scene at night. The foreground features a classic 1950s American convertible, painted in bright teal, parked beside a cobblestone sidewalk. The car's chrome details glisten under the warm glow of vintage street lamps. In the background, colorful colonial buildings with ornate balconies line the street, adorned with hanging plants and glowing lights. A couple dances salsa in the street, their colorful clothing swirling gracefully as they move. Neon signs from nearby cafes and bars illuminate the scene with hues of pink, yellow, and blue. The night sky above is a deep indigo with hints of stars peeking through. The atmosphere is filled with the sounds of music and laughter, capturing the essence of a lively Havana night, showcasing rich colors, intricate details, and a sense of joyous movement.
+Seed: 478792423
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stars, Closeness

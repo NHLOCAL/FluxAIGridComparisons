@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining the serene image of the Moon with a tranquil marsh landscape at twilight. The Moon should be depicted as a large, luminous sphere with intricate craters, casting a gentle silver glow over the scene. In the foreground, the marsh is filled with tall, wispy reeds and calm water reflecting the Moonlight. The background should feature a hazy sky with soft, pastel colors of indigo and lavender. The double exposure effect should blend the Moon seamlessly into the marsh, creating a dreamlike atmosphere, highlighting the harmony between the celestial and the natural world. Emphasize details such as rippling water, delicate reflections, and the ethereal quality of the light. High-resolution, cinematic lighting, with a focus on tranquility and beauty.
+Seed: 3177056777
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Moon, Marsh

@@ -1,0 +1,4 @@
+Prompt: A black and white photograph of a cracked, weathered statue of a serene angel, partially covered in creeping ivy. The angel's face is split; one half shows a peaceful expression while the other half is marred by deep cracks and dark shadows, suggesting sorrow and wear. The background features an overcast sky, with soft light filtering through thick clouds, enhancing the contrast between light and shadow. The ground is littered with fallen leaves, creating a sense of decay and neglect. The overall composition captures the duality of beauty and despair, inviting viewers to contemplate the contrast between hope and hopelessness, tranquility and turmoil.
+Seed: 2919830167
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ego, Awakening

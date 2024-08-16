@@ -1,0 +1,4 @@
+Prompt: Create an image depicting three studly men without shirts engaged in everyday tasks in a sunlit kitchen. One man is cooking at the stove, showcasing strong arms while stirring a pan with a wooden spoon. The second man is washing dishes at the sink, the water glistening on his toned physique, with a few bubbles floating in the air. The third man is reaching for a bowl on a high shelf, highlighting his muscular back and shoulders. The kitchen is bright and inviting, filled with light from a large window, adorned with fresh herbs and colorful fruits on the counter. The scene emanates a casual and energetic atmosphere, emphasizing health and fitness in daily life, with a warm color palette and soft, natural lighting.
+Seed: 883394427
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fjord, Resonance

@@ -1,0 +1,8 @@
+Prompt: Create an image of a peculiar alien pet, resembling a fluffy, multi-colored creature with oversized, bioluminescent eyes and six wobbly legs. Its fur is a mix of vibrant neon pink and electric blue, with iridescent patterns that shift as it moves. Around its neck, it wears a collar made of delicate, shimmering crystals that emit a soft glow, providing illumination in a dark, foreign climate. 
+
+The background is set on an alien planet with an otherworldly landscape, featuring towering, twisting trees with luminous leaves and a sky filled with swirling auroras of green and purple. Strange, floating flora hover above the terrain, releasing small, glowing spores that add to the enchanting atmosphere. 
+
+The lighting should be soft and surreal, casting gentle shadows that emphasize the creature's whimsical features and the unique environment. The perspective is slightly low, giving prominence to the alien pet as it interacts playfully with the otherworldly surroundings, inviting the viewer into a fantasy realm filled with wonder and curiosity. Hyper-detailed, vibrant colors, cinematic.
+Seed: 1194710644
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Singularity, Mesmerizing

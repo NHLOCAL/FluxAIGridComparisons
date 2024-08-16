@@ -1,0 +1,8 @@
+Prompt: Create a visually striking representation of duality, featuring a divided landscape that symbolizes the contrast between "Duty" and "Sanctuary." On one side, depict a bustling cityscape filled with people in business attire, high-rise buildings, and a chaotic atmosphere, representing the weight of responsibilities and obligations. The lighting here is harsh and cold, casting long shadows across the scene.
+
+On the opposite side, illustrate a tranquil sanctuary in nature, with serene landscapes, gentle rolling hills, and a peaceful lake. Here, warm, soft lighting bathes the scene in golden hues, highlighting the beauty of flowers, trees, and wildlife. A figure in comfortable clothing sits calmly by the water, embodying relaxation and peace. 
+
+The center line between these two contrasting worlds should be sharply defined, enhanced by a gradient that symbolizes the transition from chaos to tranquility. Incorporate details like flowing water between the two scenes to emphasize the connection and immigration between duty and sanctuary. The overall style should combine realism with a touch of surrealism, drawing the viewer into the narrative of balance in life.
+Seed: 203491268
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Duty, Sanctuary

@@ -1,0 +1,6 @@
+Prompt: Create an image featuring a striking emblem symbolizing feminine beauty and duality. The emblem should incorporate two finely detailed faces, one representing light and beauty with soft, flowing lines, adorned with delicate floral motifs, and the other showcasing strength and resilience, characterized by strong geometric patterns and bold angles. Both faces should be intricately connected at the center, forming a harmonious balance. 
+
+The background should be a smooth gradient transitioning from warm pastel colors on the light side to cool, deep hues on the dark side. Surrounding the emblem, ethereal light and shadows should play across the scene, highlighting the duality theme. Utilize a high-contrast, illustrative art style enhanced with metallic accents to add depth and texture. The composition should convey elegance and strength, with a focus on fine detail and craftsmanship, creating a timeless visual masterpiece.
+Seed: 2880517405
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Emblem, Show

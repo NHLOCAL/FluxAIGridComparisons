@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining the silhouette of a bustling art exhibition, featuring galleries filled with colorful artworks, modern sculptures, and curious onlookers. Overlay this with the texture of a vibrant, abstract painting that encapsulates the essence of novelty and creativity. The background should showcase a dynamic interplay of colors, such as electric blues, vivid pinks, and sunny yellows, suggesting a lively atmosphere. The lighting should be bright and engaging, enhancing the sense of excitement and inspiration. The angle should be a slight zoomed-out perspective, capturing both the exhibition space and the abstract art in a harmonious blend, inviting viewers into a world of artistic exploration and discovery.
+Seed: 2909791484
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exhibition, Novelty

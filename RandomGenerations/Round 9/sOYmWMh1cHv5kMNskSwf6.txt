@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a small, weathered teddy bear sitting alone on a park bench. The bear should have visible signs of wear, with frayed fur and a distinct, sad expression. Soft, golden sunlight filters through the leaves of nearby trees, casting gentle dapples onto the bench. In the background, autumn leaves in hues of amber, crimson, and gold scatter across the ground, adding warmth to the scene. A single tear might roll down the teddy bear’s cheek, enhancing the feeling of loneliness. The overall composition should create a poignant atmosphere, evoking a sense of nostalgia and longing. The focus should be sharp on the teddy bear, while soft bokeh gently blurs the background elements, emphasizing the bear's solitude.
+Seed: 3313895776
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conservatory, Uniqueness

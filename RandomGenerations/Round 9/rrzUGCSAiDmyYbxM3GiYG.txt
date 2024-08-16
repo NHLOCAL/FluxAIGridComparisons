@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of a large, ornate mirror. The individual, a young adult with medium-length hair, has a contemplative expression as they gaze into the mirror, which reflects a shadowy, ethereal version of themselves that projects a different, more introspective appearance. The background should be a softly lit, elegant room filled with subtle details like vintage furniture and muted colors, creating a warm atmosphere. Soft light streams in from a nearby window, casting gentle reflections and creating a serene, calming ambiance. The focus should be sharp on the person and the mirror, emphasizing the contrast between their actual self and the image in the reflection, enhancing the concept of self-discovery. Photorealistic, high detail, cinematic quality.
+Seed: 2118323720
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wedding, Handsome

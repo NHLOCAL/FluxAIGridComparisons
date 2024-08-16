@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a person standing in front of a large, ornate mirror. The person, a young woman with long brown hair, gazes intently at her reflection, which reveals her inner self as a translucent figure of herself dressed in ethereal, flowing garments that glow softly. The setting is a dimly lit, elegant room filled with rich textures like velvet drapes and a polished wooden floor. The lighting should be warm and golden, casting gentle reflections around the room, enhancing the mystical atmosphere. The background should have a subtle blurred effect to keep the focus on the woman and her reflection, with hints of delicate floral accents framing the mirror. The overall composition should convey a sense of introspection and enlightenment.
+Seed: 617745564
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Manner, Grove

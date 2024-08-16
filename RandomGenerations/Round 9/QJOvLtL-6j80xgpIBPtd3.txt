@@ -1,0 +1,4 @@
+Prompt: A striking sci-fi/fantasy landscape showcasing a futuristic cityscape under a dramatic twilight sky. The skyline is filled with towering skyscrapers made of glass and metal, each featuring intricate, pulsating LED lights and holographic displays. In the foreground, a vast terrain lined with glowing bioluminescent flora contrasts harmoniously with the city. A sleek hovercraft zips through the air, leaving a trail of shimmering particles behind. The atmosphere is filled with a surreal, glowing mist that enhances the mystique of the scene. The lighting is cinematic, with vibrant hues of purple, orange, and teal blending into the sky, capturing the essence of a thriving, otherworldly society. The overall composition conveys a sense of wonder, exploration, and technological advancement. Hyper-detailed, ultra-high resolution, and a masterpiece of sci-fi landscape art.
+Seed: 3891553634
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Division, Profit

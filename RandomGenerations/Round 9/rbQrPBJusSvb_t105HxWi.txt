@@ -1,0 +1,4 @@
+Prompt: Capture a stunning sci-fi/fantasy landscape featuring a vast, surreal hall of shimmering crystals. The hall's ceiling is arched high above, adorned with cascading, iridescent formations that reflect a rainbow of colors onto the ground. Majestic pillars made of luminescent stone rise along the sides, each intricately carved with ancient symbols and glowing with a soft blue light. The floor is a smooth, reflective surface resembling liquid glass, mirroring the enchanting hues above. In the background, enormous, ethereal doors, slightly ajar, hint at a mysterious realm beyond. Soft, ambient lighting bathes the entire scene, creating a tranquil and otherworldly atmosphere, inviting exploration into the unknown. Ultra-high-resolution, hyper-detailed, capturing the essence of fantasy and marvel in this breathtaking landscape.
+Seed: 1074844956
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Change, Hall

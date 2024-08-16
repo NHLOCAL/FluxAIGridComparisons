@@ -1,0 +1,6 @@
+Prompt: Create a thrilling illustration depicting a group of eccentric, colorful extraterrestrials performing daring stunts in an otherworldly environment. The aliens should have unique and bizarre features, such as multiple limbs, vibrant skin patterns, and oversized eyes. They are engaged in various extreme activities, such as jumping off rocky cliffs, flying through the air on jetboards, and executing acrobatic flips. 
+
+The background features a surreal alien landscape with floating islands, neon-colored flora, and a shimmering sky filled with unusual celestial bodies. Harsh, dynamic lighting highlights the movements and expressions of the extraterrestrials, adding a sense of excitement and motion to the scene. The angle should be slightly tilted to convey a sense of action, capturing the exhilarating atmosphere of their stunts in vivid detail. The overall style should blend cartoonish elements with hyper-detailed features, creating a visually captivating experience that emphasizes both the eccentricity of the aliens and the thrill of their daring feats.
+Seed: 1255603129
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Trust, Diviner

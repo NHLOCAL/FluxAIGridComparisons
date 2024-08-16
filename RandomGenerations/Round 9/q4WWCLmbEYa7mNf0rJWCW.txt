@@ -1,0 +1,4 @@
+Prompt: A breathtaking sci-fi fantasy landscape photograph depicting a futuristic port city. The city is illuminated by vibrant energy sources, with towering skyscrapers made of sleek, metallic materials and glowing neon lights casting colorful reflections on the water below. In the foreground, a bustling harbor filled with flying vessels and advanced hovercrafts is anchored, showcasing intricate designs and shimmering surfaces. The sky overhead is a mesmerizing gradient of deep purples and electric blues, with swirling clouds and streaks of energy crisscrossing above. Off in the distance, a massive tidal wave of luminous energy rises from the horizon, creating a dramatic and awe-inspiring backdrop. The overall scene combines elements of advanced technology with a hint of magical realism, immersing the viewer in a captivating world where the fantastical meets the sci-fi.
+Seed: 875259382
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Energy, Port

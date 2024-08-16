@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of a large, ornate mirror. The person is gazing intently at their reflection, which reveals not only their physical appearance but also a symbolic representation of their inner self. The reflection should show a blend of vibrant colors and swirling abstract patterns that represent emotions and thoughts, conveying depth and complexity. The setting is a softly lit room with warm, ambient lighting, casting gentle shadows that enhance the details of the scene. The angle is slightly low, emphasizing the grandeur of both the person and the mirror. The background features elegant decor, such as soft curtains and intricate wallpaper, adding to the atmosphere of introspection and self-discovery.
+Seed: 2193500860
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Present, Nudity

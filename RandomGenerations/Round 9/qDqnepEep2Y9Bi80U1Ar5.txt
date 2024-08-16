@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a lush, tranquil creek flowing through an otherworldly landscape. The water sparkles with ethereal colors, reflecting hues of turquoise and magenta as it cascades over smooth stones. On the bank of the creek, a magnificent palace emerges, crafted from shimmering crystal and gold, with intricate spires and ornate details that glint under a mystical light. Surrounding the palace, vibrant flora composed of fantastical plants with luminescent petals and leaves extends towards the water's edge. The sky above features swirling clouds painted in soft pastels, illuminated by two suns casting warm, golden light. The angle of the shot captures both the flowing creek and the majestic palace in a harmonious composition, inviting the viewer into a dreamlike fantasy world. High resolution, detailed, cinematic quality.
+Seed: 4045134102
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creek, Palace

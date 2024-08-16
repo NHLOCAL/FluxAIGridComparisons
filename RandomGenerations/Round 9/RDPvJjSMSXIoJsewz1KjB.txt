@@ -1,0 +1,4 @@
+Prompt: "Create a captivating photograph of a serene landscape split by a jagged fault line. On one side, depict a tranquil meadow with vibrant wildflowers, soft sunlight filtering through the lush green trees, and a clear blue sky. On the other side, show a stark and desolate wasteland with cracked earth, dark clouds swirling overhead, and barren trees silhouetted against a dim light. The contrast between the two landscapes should be striking, emphasizing the theme of duplicity. Use dramatic lighting to highlight the division between peace and chaos, enhancing the overall visual impact. Capture the scene in a high-resolution format with intricate details to evoke a sense of wonder and contemplation."
+Seed: 166032535
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Essence, Imagination

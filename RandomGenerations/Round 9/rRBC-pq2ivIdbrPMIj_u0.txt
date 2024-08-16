@@ -1,0 +1,8 @@
+Prompt: Create a striking illustration depicting the concept of duality set within a hospital environment. The scene is split in half: one side showcases a vibrant, bustling emergency room filled with medical staff attending to patients in urgent care, bathed in bright, sterile white and blue lighting. Contrast this with the other half, illustrating an eerie, deserted hospital corridor dimly lit by flickering fluorescent lights, where shadows loom ominously against the walls. 
+
+On the bustling side, nurses and doctors are depicted in action, with expressive faces and diverse races, while medical equipment surrounds them, glowing with a clinical intensity. On the deserted side, abandoned gurneys and scattered medical supplies create a sense of neglect, and ghostly figures may barely be seen in the distance, enhancing the atmosphere of despair.
+
+Both sides of the illustration should have a stark color contrast: the active side uses sharp, clear colors like white and green, while the deserted side utilizes darker tones such as deep blues and grays. The angle is slightly tilted, creating a dynamic perspective that draws the viewer into the dichotomy of the scenes. The overall art style is hyper-realistic, with intricate details highlighting the chaos of life against the stillness of death, creating an unsettling but captivating visual narrative.
+Seed: 2892705042
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hospital, Fetching

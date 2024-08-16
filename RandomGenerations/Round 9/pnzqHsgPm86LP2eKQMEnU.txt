@@ -1,0 +1,4 @@
+Prompt: Create a stunning photograph of a breathtaking sci-fi landscape inspired by the visual aesthetics of "Avatar." The scene should feature lush, bioluminescent flora in vibrant shades of blue and green, with towering, otherworldly trees that stretch towards a shimmering, indigo sky. In the foreground, include a crystal-clear river flowing gently, reflecting the vibrant colors above. The background should reveal distant mountains with intricate rock formations and floating islands, adding to the fantastical element. Soft ambient lighting should create a tranquil and serene atmosphere, while the overall composition conveys a sense of wonder and exploration amidst the beauty of an alien world.
+Seed: 2357482018
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Avatar, Boredom

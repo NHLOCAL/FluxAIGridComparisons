@@ -1,0 +1,4 @@
+Prompt: Create an illustration depicting the duality of a satyr in a serene forest glade. The satyr is split in half: one side is ethereal and peaceful, featuring gentle, flowing lines and soft colors, with delicate flowers and soft, pastel lighting. Its expression is calm, embodying harmony with nature, enhanced by subtle glowing elements. The other half is wild and chaotic, showcasing jagged lines and darker colors, with sharp shadows and an intense, frenzied expression, surrounded by twisted vines and thorns. The background transitions from a serene, sunlit space on the peaceful side to a darker, shadowy atmosphere with dramatic contrasts on the chaotic side. The overall composition should emphasize the dichotomy, captured in intricate detail with hyper-realistic textures, revealing the contrasting aspects of the satyr’s nature. 
+Seed: 293395651
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Observe, Satyr

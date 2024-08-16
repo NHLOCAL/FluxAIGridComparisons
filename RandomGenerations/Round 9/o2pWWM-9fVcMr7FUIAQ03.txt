@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of a worn-out teddy bear sitting alone on a park bench during a rainy day. The teddy bear's fur appears matted and faded, with visible stitches on its body. Raindrops slide down its cheeks, adding to the sense of abandonment. The park is empty, with blurred trees in the background, and puddles forming on the ground that reflect the gray sky. Soft, diffused lighting enhances the somber mood, creating deep shadows around the bear. The overall composition conveys a story of nostalgia and longing, with meticulous focus on the textures of the bear and the wet surfaces around it.
+Seed: 3065671949
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Guidance, Tornado

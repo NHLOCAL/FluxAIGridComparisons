@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of a futuristic landscape at sunrise. The scene features towering, sleek skyscrapers made of glass and metal, reflecting warm hues of orange and pink as the sun rises above the horizon. In the foreground, a vibrant field of bioluminescent plants illuminates the ground with soft blue and green glows, contrasting with the warm colors of the sky. A winding river flows through the landscape, mirroring the colors of the dawn. The background includes floating islands with cascading waterfalls and lush greenery, embellishing the sky with wispy clouds. The overall composition is rich in detail and showcases a harmonious blend of nature and advanced technology, creating an awe-inspiring vision of the future. High-resolution, vibrant colors, cinematic lighting.
+Seed: 1055840990
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Invention, Sunrise

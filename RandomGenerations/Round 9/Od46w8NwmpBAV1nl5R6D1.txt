@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines the silhouette of two friends sharing a joyful moment in a cozy bakery. The first layer should depict the friends, laughing and talking, with their outlines filled with vibrant colors and textures of freshly baked goods like golden croissants, colorful macarons, and loaves of artisan bread. The second layer features the warm, inviting interior of the bakery, including rustic wooden shelves, vintage decor, and soft lighting from hanging pendant lamps. The overall composition should radiate warmth and togetherness, with a harmonious blend of the two subjects, creating a sense of comfort and delight. Emphasize soft focus and a pastel color palette for a dreamy effect.
+Seed: 3625354644
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Companionship, Bakery

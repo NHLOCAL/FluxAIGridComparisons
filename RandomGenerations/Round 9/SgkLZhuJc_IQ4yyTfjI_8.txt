@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a person standing in front of an ornate, vintage mirror. The subject is a young woman with long, flowing hair, wearing a simple white dress. In the reflection of the mirror, depict a shadowy, ethereal version of herself, representing her inner self, with swirling colors and a soft glow that contrasts against the muted, darker hues of the surrounding room. The background should consist of an elegantly decorated room with soft, ambient lighting, enhancing the introspective atmosphere. Utilize a close-up shot that captures the woman's expression of contemplation and curiosity as she gazes into the mirror, with dramatic lighting that highlights both her features and the mystical reflection. The overall composition should convey a sense of self-discovery and introspection, blending realism with a touch of surrealism.
+Seed: 3164713662
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peninsula, Song

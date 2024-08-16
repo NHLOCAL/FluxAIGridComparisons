@@ -1,0 +1,4 @@
+Prompt: Create a vibrant illustration of a group of studly men without shirts engaged in various everyday tasks in a sunny park setting. One man is skillfully grilling on a barbecue, while another is tossing a frisbee with a friend. Nearby, a third man is painting a picnic table, showcasing his muscular arms at work. The background features lush green trees, a clear blue sky, and cheerful people enjoying the park. The scene is filled with warm, natural lighting to emphasize the summer vibe. Each man has a confident stance and a friendly expression, and the illustration captures a sense of camaraderie and active lifestyle among them. Style the artwork with a bright, colorful palette, evoking a sense of fun and leisure.
+Seed: 1623995826
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Talent, Consciousness

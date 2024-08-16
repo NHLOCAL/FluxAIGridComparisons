@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a scenic landscape divided into two contrasting halves. On one side, depict a vibrant, sunny day with a bright blue sky, lush green fields, and colorful wildflowers in full bloom. On the other side, create a dark, stormy atmosphere filled with ominous gray clouds, torrential rain, and barren, cracked earth. The divide should be sharply defined, creating a visually striking juxtaposition. Include a winding path that starts in the sunny side and disappears into the darkness, inviting curiosity about what lies beyond. The overall composition should emphasize the stark contrast between light and dark, peace and turmoil, and beauty and desolation, capturing a sense of duplicity in nature.
+Seed: 1426660909
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Polished, Mage

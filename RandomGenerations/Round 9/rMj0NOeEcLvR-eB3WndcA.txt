@@ -1,0 +1,8 @@
+Prompt: Create an image that showcases the concept of feminine beauty through a duality theme set in a serene marsh and brook environment. The scene should depict two ethereal female figures representing different aspects of femininity. One figure is adorned in delicate, flowing white garments, with soft features and gentle expressions, embodying purity and tranquility. She stands amidst lush green reeds beside the brook, where sunlight filters through the leaves, creating a warm and inviting atmosphere.
+
+The second figure contrasts this, dressed in bold, dark attire with fierce, striking features that exude strength and passion. She stands on the edge of the marsh, surrounded by vibrant wildflowers swaying in the wind under a dramatic sky filled with swirling clouds, hinting at an approaching storm. The background should feature a blend of soft pastel colors on one side, transitioning to deeper, richer tones on the other, emphasizing the duality of light and dark.
+
+The lighting should be dynamic, with the brook reflecting soft sunlight and the marsh side enveloped in shadow, creating a captivating interplay between serenity and intensity. The overall composition should harmoniously blend these elements, inviting the viewer to explore the depths of feminine beauty in this enchanting natural setting.
+Seed: 930757245
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Marsh, Brook

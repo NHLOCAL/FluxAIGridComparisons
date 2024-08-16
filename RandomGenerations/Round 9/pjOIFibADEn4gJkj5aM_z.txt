@@ -1,0 +1,6 @@
+Prompt: Create an illustration that embodies the concept of feminine beauty through the lens of duality and ruin. The scene takes place in an abandoned warehouse, with crumbling walls adorned with peeling paint and rusty metal beams. In the foreground, depict a graceful female figure, partially shrouded in flowing silks that transition from vibrant colors on one side to faded, tattered cloth on the other, symbolizing duality. Her pose should convey elegance yet hint at vulnerability, with one hand reaching toward the viewer while her other hand gently touches a weathered column.
+
+In the background, fractured sunlight filters through broken windows, casting dramatic shadows that highlight the textures of decay—dust motes dancing in the beams of light. A blend of lush floral elements intertwined with remnants of rusted machinery frames the warehouse, contrasting life with desolation. The overall color palette should transition from warm, rich tones to cold, muted hues, reflecting a balance between beauty and ruin. The focus should be on the intricate details of the figure and the surrounding environment, conveying a surreal and thought-provoking atmosphere. Illustrative style, high detail, cinematic lighting.
+Seed: 3403566335
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ruin, Warehouse

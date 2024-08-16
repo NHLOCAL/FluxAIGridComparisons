@@ -1,0 +1,4 @@
+Prompt: Please provide specific details about the image you'd like to create, such as the subject, background, art style, lighting, angle, etc., and I'll help you generate an image prompt for Flux AI!
+Seed: 3705371329
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Steam, Connection

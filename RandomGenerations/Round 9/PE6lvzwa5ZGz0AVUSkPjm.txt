@@ -1,0 +1,6 @@
+Prompt: Create an imaginative illustration of a feminine specter that embodies duality. This ethereal figure is split into two contrasting halves, one side representing serene beauty and softness with flowing, translucent fabric, soft pastel colors, and gentle, luminous lighting. The other side should evoke a more menacing presence, featuring jagged shadows, darker tones, and angular, harsh lines. 
+
+The specter stands before a monumental backdrop—a colossal stone structure that merges classic architectural elements with futuristic designs. Surrounding the monument, a swirling mist creates an otherworldly atmosphere. The background transitions from light to dark, enhancing the duality theme. The overall composition should capture a sense of harmony and conflict, showcasing the intricate blend of beauty and eeriness, highlighted by dramatic chiaroscuro lighting.
+Seed: 3121289967
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Specter, Monument

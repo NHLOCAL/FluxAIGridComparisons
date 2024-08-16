@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a human face split down the middle. One side should depict a bright, cheerful expression with vibrant colors, highlighting features like a wide smile and sparkling eyes. The other side should present a somber, melancholic expression with muted colors, showing downturned lips and hollow eyes. Use dramatic lighting to enhance the contrast between the two sides, casting shadows that amplify the emotional duality. The background should be a soft gradient that transitions from bright to dark, reinforcing the theme of duplicity. The overall composition should invite the viewer to contemplate the complexities of human emotion.
+Seed: 1856047328
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Display, City

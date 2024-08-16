@@ -1,0 +1,6 @@
+Prompt: Create a vibrant and dynamic illustration showcasing a group of uniquely designed extraterrestrials performing exhilarating daredevil stunts. Each alien should have its own distinct appearance, featuring various colors, textures, and shapes, such as elongated limbs, vibrant skin patterns, and unusual facial features. They are engaged in thrilling activities like skydiving, bungee jumping from floating rocks, and performing acrobatic flips on hoverboards.
+
+The background should depict a surreal alien landscape with rolling hills, swirling colorful clouds, and strange plant life that adds to the otherworldly atmosphere. Bright, neon lighting illuminates the scene, highlighting the actions of the extraterrestrials as they defy gravity and perform gravity-defying maneuvers. The angle of the shot should capture the excitement from a slightly low perspective, making the stunts appear even more dramatic and thrilling. The overall style should lean towards a whimsical and colorful representation, emphasizing the fun and adventurous spirit of the scene.
+Seed: 357040689
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tranquility, Cybernetics

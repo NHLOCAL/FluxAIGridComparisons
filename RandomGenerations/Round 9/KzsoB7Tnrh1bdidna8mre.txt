@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a vintage theater stage filled with dramatic curtains and soft spotlight lighting. The stage should depict an ornate and classic design with intricate details and rich colors. Overlay the silhouette of a flowing river or current, seamlessly blending with the theater elements. Waves and ripples of water should gracefully intermingle with the curtains, creating a harmonious balance between the fluidity of the current and the structure of the theater. The lighting should be warm and inviting, emphasizing the golden tones in both the theater and the water. The background should maintain a subtle blur, ensuring the focus remains on the combination of these two elements. The overall style should be a mixture of realism and artistic abstraction, capturing the enchanting allure of both the current and theater.
+Seed: 2455880849
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Current, Theater

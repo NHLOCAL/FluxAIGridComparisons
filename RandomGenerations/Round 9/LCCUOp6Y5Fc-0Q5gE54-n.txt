@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph depicting a person standing before a large, ornate mirror in a softly lit room. The central figure, an adult, gazes into the mirror, where their younger self, appearing around 10 years old, is seen reflecting back with an inquisitive expression. The adult's features show subtle signs of contemplation, highlighted by gentle lighting that casts soft shadows across their face. The room around them is warmly decorated with vintage furniture, muted colors, and photographs lining the walls, suggesting memories of a life well-lived. Soft, diffused light streams through a nearby window, creating a serene atmosphere and enhancing the emotional impact of the moment. The focus is on the connection between the two selves, capturing the essence of reflection, nostalgia, and the passage of time in a cinematic style.
+Seed: 2161136728
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Orange, Monument

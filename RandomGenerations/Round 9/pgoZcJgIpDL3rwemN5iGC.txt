@@ -1,0 +1,4 @@
+Prompt: Create a captivating illustration of a feminine figure embodying duality. The figure is elegantly posed, one half radiating light and warmth in a vibrant, colorful dress adorned with floral patterns, while the other half is shrouded in deep shadows, draped in a sleek, dark gown with subtle metallic accents. The background transitions fluidly from a bright, sunlit landscape filled with blooming flowers to a moody, twilight scene featuring silhouettes of ethereal trees and a starry night sky. The lighting should enhance the contrast between the two halves, with soft golden rays illuminating the bright side and cool, bluish tones enveloping the dark side. The overall composition reflects a harmonious balance between light and shadow, showcasing the concept of self-discovery and the exploration of identity through intricate details and a surreal artistic style.
+Seed: 66437536
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Self, Way

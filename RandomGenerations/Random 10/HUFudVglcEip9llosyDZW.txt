@@ -1,0 +1,4 @@
+Prompt: Create an image of a group of muscular men engaging in various everyday tasks while shirtless. Each man is depicted in a different environment: one is lifting weights in a home gym with bright, natural lighting; another is cooking in a modern kitchen, sunlight streaming through a window, showcasing vibrant vegetables and utensils; a third man is mowing the lawn in a lush backyard, with greenery and a clear blue sky as the backdrop; and a fourth is fixing a car in a garage filled with tools and equipment, illuminated by overhead fluorescent lights. The scene should highlight their strong physiques, capturing the details of their muscles and expressions focused on their tasks. The overall vibe should be energetic and uplifting, emphasizing health and fitness in casual, relatable settings.
+Seed: 3325736830
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enigma, Pharmacy

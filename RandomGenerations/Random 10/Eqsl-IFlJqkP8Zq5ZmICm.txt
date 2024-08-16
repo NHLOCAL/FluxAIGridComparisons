@@ -1,0 +1,4 @@
+Prompt: Create an image showcasing a group of four muscular men without shirts, each engaged in different everyday tasks around a vibrant urban park. One man is jogging along a scenic path with determination, another is lifting weights on an outdoor fitness station, a third is playfully tossing a frisbee to a friend nearby, and the fourth is relaxing on a bench reading a book. The background features lush green trees, colorful flowerbeds, and people enjoying their day, adding a lively atmosphere to the scene. The lighting is bright and sunny, casting cheerful shadows and highlighting the men's sculpted physiques. The overall composition captures a sense of active lifestyle and camaraderie, combining realism and attention to detail.
+Seed: 1981613237
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chimera, Cyborg

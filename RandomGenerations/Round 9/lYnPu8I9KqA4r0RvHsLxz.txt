@@ -1,0 +1,4 @@
+Prompt: Create a poignant photograph of a weathered wooden bench overlooking a tranquil lake at dawn. The bench, slightly cracked and aged, is positioned beneath a sprawling willow tree with drooping branches. Soft, golden sunlight filters through the leaves, casting gentle patterns on the ground. The lake's surface is smooth, mirroring the vibrant colors of the sky that transition from soft pinks to deep blues. A solitary, colorful autumn leaf rests on the bench, symbolizing the passage of time. In the background, faint ripples on the water suggest a gentle breeze, and distant mountains are shrouded in a soft mist. The overall composition invites contemplation and reflection, evoking a sense of nostalgia and serenity. High-resolution focus on details enhances the emotion conveyed in the scene.
+Seed: 2464025086
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Amazement, Witness

@@ -1,0 +1,4 @@
+Prompt: A striking photograph captures a split scene: on one side, a vibrant city bustling with life, filled with people laughing and enjoying their day under a bright blue sky. The buildings are brightly lit, and colorful street art adorns the walls, creating an atmosphere of joy and excitement. On the other side, a dimly lit alleyway shrouded in shadows, where a solitary figure sits against the cold brick wall, shrouded in an oversized hooded jacket, gazing down at the ground. A single tear glistens on their cheek. The lighting dramatically contrasts the sunny scene with deep shadows, emphasizing the divisions of joy and despair within the same city. The overall composition plays on the theme of duplicity, showcasing the juxtaposition of vibrant life and hidden sorrow in one urban landscape. Photorealistic, high detail, cinematic lighting.
+Seed: 388230327
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reef, Celebration

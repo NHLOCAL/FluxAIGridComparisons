@@ -1,0 +1,4 @@
+Prompt: Create a cinematic illustration of a strikingly beautiful woman standing gracefully on the edge of a rugged cliff, her flowing hair and dress being swept by a soft rain. The woman has an alluring expression, with her eyes glistening, reflecting the raindrops around her. The background features dark, looming clouds with hints of a vibrant sunset peeking through, casting an enchanting glow on the scene. The rain creates a sense of movement, with droplets splashing against the rocky cliff. The lighting is soft yet dramatic, highlighting the contours of her face and the textures of her dress. This captivating artwork should evoke a sense of beauty and longing, framed by the rawness of nature. The style should combine realism with ethereal elements, enhancing the overall atmosphere.
+Seed: 287431797
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cliff, Rain

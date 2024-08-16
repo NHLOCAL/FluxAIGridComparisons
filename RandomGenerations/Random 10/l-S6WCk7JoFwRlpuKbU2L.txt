@@ -1,0 +1,8 @@
+Prompt: Create a dynamic scene depicting a group of uniquely designed extraterrestrials performing daredevil stunts high above a futuristic cityscape. The aliens should have vibrant, colorful skin tones and unusual features, such as elongated limbs and multiple appendages, showcasing their athleticism. One alien is soaring through the air on a hoverboard, while another executes a mid-air flip on a brightly colored motorcycle. 
+
+The background should feature a sprawling metropolis with towering skyscrapers, neon lights, and flying vehicles. The sky is dramatically lit during sunset, casting orange and purple hues that create a vivid contrast against the urban landscape. The perspective is from below, looking up, capturing the action in a thrilling and adventurous manner, with clouds and a small moon visible above. Emphasize the fast-paced motion through motion blur effects on the stunts, creating a sense of excitement and thrill. 
+
+Art style should lean towards vibrant, cartoonish aesthetics, with exaggerated proportions and expressive designs. High saturation of colors enhances the fantastical elements of the scene.
+Seed: 3779150191
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: League, Asymmetry

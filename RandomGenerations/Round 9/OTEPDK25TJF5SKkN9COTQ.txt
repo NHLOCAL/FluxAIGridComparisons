@@ -1,0 +1,8 @@
+Prompt: A surreal photograph capturing a vibrant carnival scene juxtaposed against a dark, desolate alleyway. On one side of the frame, a colorful carnival takes center stage with brightly lit rides, joyful children on swings, and balloons soaring against a twilight sky. The joyful atmosphere is enhanced by vivid colors and festive decorations. 
+
+On the opposite side, the alleyway is shrouded in shadows, featuring cracked pavement, scattered debris, and dimly lit streetlights casting elongated shadows. A lone figure stands hesitantly at the entrance, half their body illuminated by the carnival lights and half cloaked in the alley's darkness, creating a striking contrast. 
+
+The playful colors of the carnival starkly oppose the grim tones of the alley, while the figure's uncertain stance embodies the duplicity of human experience, caught between joy and fear. The photograph should employ dramatic lighting, sharp focus, and a slight vignette to accentuate the emotional divergency, inviting the viewer to explore the tension between the two worlds. Highly detailed, 4k resolution, cinematic quality.
+Seed: 3370965285
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Genuineness, Picture

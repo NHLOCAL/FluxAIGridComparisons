@@ -1,0 +1,4 @@
+Prompt: A dynamic and thrilling scene showcasing a group of unique extraterrestrial beings performing daredevil stunts in an otherworldly environment. The aliens, each with distinct colors and bizarre shapes, are captured mid-action, executing flips, twists, and aerial maneuvers on futuristic hovering skateboards. The background features a vibrant alien landscape with glowing flora, bizarre rock formations, and a sky filled with swirling nebulae in shades of purple and green. Bright, colorful energy trails follow the movements of the extraterrestrials, emphasizing speed and excitement. The lighting is bold and dramatic, highlighting their intricate details and expressions of thrill, while the overall composition conveys a sense of energetic chaos and adventure. The image showcases a perfect blend of surrealism and action, creating an exhilarating visual experience.
+Seed: 2689939050
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Array, Riddle

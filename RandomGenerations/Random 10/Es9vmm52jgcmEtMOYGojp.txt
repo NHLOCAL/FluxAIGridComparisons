@@ -1,0 +1,4 @@
+Prompt: Create an illustration of three muscular men without shirts engaged in different everyday tasks in a sunlit urban park. One man is lifting weights on an outdoor gym station, showcasing his defined biceps and chest, with sweat glistening on his skin. The second man is jogging along a tree-lined path, his focused expression and athletic build highlighted by the golden sunlight filtering through the leaves. The third man is sitting on a picnic blanket, surrounded by fruit and drinks, casually chatting with friends, with a relaxed yet confident demeanor. The background features green grass, colorful flowers, and people enjoying the park, creating a lively and vibrant atmosphere. The overall color palette should be bright and cheerful, emphasizing the vitality of the scene.
+Seed: 587273306
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stress, Indicator

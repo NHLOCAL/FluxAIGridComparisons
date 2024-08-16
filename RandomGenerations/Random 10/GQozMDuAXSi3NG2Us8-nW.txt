@@ -1,0 +1,6 @@
+Prompt: Create an image showcasing a thrilling scene of daredevil stunts performed by visually striking extraterrestrials. The central focus is on a group of aliens, each with unique and outlandish features—brightly colored skin, oversized eyes, unusual appendages, and intricate patterns on their bodies. They are engaged in high-energy stunts, such as one alien performing a mid-air flip while riding a hoverboard, another one swinging from a futuristic aerial device, and a third alien launching off a ramp on a flying motorcycle. 
+
+The background features a vibrant, neon-lit skyline of an alien city, with towering structures, floating vehicles, and dynamic lighting that adds an electric atmosphere to the scene. The sky is filled with colorful clouds and distant planet formations, creating a sense of otherworldly adventure. Use a high-energy art style with bright colors and sharp contrasts, emphasizing motion and excitement. The lighting should be dramatic and colorful, highlighting the aliens in action and enhancing the overall dynamic composition of the scene.
+Seed: 3852325159
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Show, Universe

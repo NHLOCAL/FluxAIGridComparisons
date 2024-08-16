@@ -1,0 +1,4 @@
+Prompt: Create a visually striking double exposure image that combines a scenic peninsula landscape with elements symbolizing mastery. The foreground should feature a rugged, forested peninsula surrounded by the ocean, with waves crashing against the rocky cliffs. Incorporate silhouettes of individuals engaged in various activities that represent mastery, such as a scholar reading a book, an artist painting, and a musician playing an instrument, blended seamlessly into the natural elements of the peninsula. The background should showcase a dramatic sunset with vibrant hues of orange, pink, and purple, casting a warm glow on the scene. The overall composition should balance between the tranquil beauty of nature and the dynamic human pursuit of excellence, rendered in a high-resolution, artistic style with crisp details.
+Seed: 2852563446
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peninsula, Mastery

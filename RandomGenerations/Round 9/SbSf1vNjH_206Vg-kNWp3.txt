@@ -1,0 +1,4 @@
+Prompt: A breathtaking sci-fi/fantasy landscape depicting a surreal vision of Earth. The scene features sprawling, lush green hills under a sky filled with swirling pastel colors, reminiscent of a sunset blending with a cosmic aurora. In the distance, a majestic mountain range rises, with peaks reflecting shimmering light as if made of crystal. Various fantastical plants with bioluminescent features dot the foreground, bathing the scene in a soft, otherworldly glow. A serene river, flowing with sparkling water, winds through the landscape, reflecting the vibrant colors of the sky. The overall composition captures a sense of wonder and exploration, with intricate details in the flora and dramatic lighting to enhance the ethereal atmosphere. Photorealistic style, ultra-high resolution, emphasizing the dreamlike quality of this imaginative vision of Earth.
+Seed: 2041373082
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Imagination, Earth

@@ -1,0 +1,4 @@
+Prompt: Create an image of a beautiful woman standing in an ornate, sunlit garden, surrounded by blooming flowers and mystical glowing vines. She has long, flowing hair that cascades over her shoulders, shimmering with hints of gold and silver. The woman is adorned in a flowing, ethereal gown made of translucent fabric that catches the light, emphasizing her graceful silhouette. Her eyes are wide and sparkling, reflecting the vibrant colors of the garden around her. The background features lush greenery and a soft, pastel-colored sky, creating a serene and enchanting atmosphere. The lighting is warm and inviting, with rays of sunlight filtering through the foliage, adding a soft glow to the scene. The image should capture a sense of wonder and allure, combining elements of fantasy and beauty with a soft, ethereal aesthetic.
+Seed: 2989854187
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Revelation, Ability

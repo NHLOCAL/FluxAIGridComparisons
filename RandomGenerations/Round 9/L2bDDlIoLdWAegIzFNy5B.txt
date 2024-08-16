@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a worn-out teddy bear sitting on a park bench under a light rain. The teddy bear is slightly frayed, with one eye missing, and a small patch of its fur is discolored, hinting at years of comfort and companionship. The background features a blurred park scene with muted colors, showcasing rain-soaked trees and puddles on the ground that reflect the overcast sky. Soft, diffuse lighting creates a gentle glow around the teddy bear, enhancing the sense of nostalgia and longing. Sparse droplets of rain can be seen falling, adding a melancholic atmosphere to the scene, while the overall color palette leans towards cool tones, emphasizing the teddy bear's isolation amidst the tranquil yet somber setting.
+Seed: 2260078551
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Avatar, Awareness

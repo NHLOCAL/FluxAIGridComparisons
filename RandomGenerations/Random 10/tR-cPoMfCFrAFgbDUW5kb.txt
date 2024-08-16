@@ -1,0 +1,4 @@
+Prompt: Create an image of a group of three muscular men without shirts engaged in various everyday tasks in a sunlit kitchen. One man is cooking on the stove, expertly flipping pancakes with a smile, surrounded by colorful ingredients like eggs, fruits, and flour scattered on the counter. The second man is washing dishes at the sink, with water splashing and sunlight streaming through the window, creating a bright and cheerful atmosphere. The third man is reaching into a high cabinet for a glass, showcasing his defined muscles. The background should feature modern kitchen appliances, wooden cabinets, and vibrant plants on windowsills, enhancing the inviting and lively ambiance. The lighting should be soft and warm, emphasizing the camaraderie and casual setting of daily life. Photorealistic style, high detail, vibrant colors.
+Seed: 2631457199
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Biomechanics, Venture

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph depicting a split scene of a vibrant, sunlit cityscape on one half and a dark, rain-soaked alleyway on the other. The city side is bustling with life, showcasing colorful people engaged in various activities, bright storefronts, and clear blue skies. In stark contrast, the alleyway is shadowy and foreboding, with puddles reflecting dull, gray tones and a faint silhouette of someone lurking in the shadows. The transition between the two halves is seamless yet striking, symbolizing the duality of urban life. Lighting should emphasize the warm, inviting glow of the city and the cold, menacing shadows of the alley. The overall composition should create a tension between the two environments, inviting viewers to contemplate the contrasts within the urban experience. High resolution, highly detailed, cinematic.
+Seed: 1434723914
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Norm, Sexy

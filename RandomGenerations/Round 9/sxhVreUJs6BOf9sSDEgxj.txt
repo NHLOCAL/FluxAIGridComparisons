@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph featuring a split scene of two identical twin siblings standing back-to-back. One twin wears a bright, colorful outfit with a cheerful expression, while the other is dressed in dark clothing, gazing downward with a somber look. The background should depict a contrasting environment: vibrant flowers and sunlight on one side, and a dark, desolate alley with muted colors on the other. Soft, diffused lighting highlights the twins' features, creating a sense of depth and intrigue. The overall composition should emphasize the theme of duplicity, showcasing the stark differences between the two characters while maintaining their physical similarities. 
+Seed: 3935347234
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Forest, Perfection

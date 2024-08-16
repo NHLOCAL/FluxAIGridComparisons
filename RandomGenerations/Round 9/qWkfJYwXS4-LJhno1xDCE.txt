@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing before a large, ornate mirror. The individual, a young woman with long, flowing hair, gazes intently into the reflection. The mirror's surface should showcase a vibrant and surreal version of her inner self, depicted as a luminous figure radiating colors that contrast with the muted tones of the room. The background is softly lit, with warm golden hues filtering through sheer curtains, creating an intimate atmosphere. The composition should focus on both the woman and her reflection, emphasizing the connection between her physical appearance and her ethereal inner self. The lighting should capture the play of shadows and highlights, creating depth in the scene while maintaining a dreamlike quality.
+Seed: 2810049369
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capacity, Sexy

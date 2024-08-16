@@ -1,0 +1,4 @@
+Prompt: A close-up of a weathered wooden bench in a serene park during autumn. The bench features intricate carvings and is adorned with scattered, vibrant orange and red leaves, emphasizing the beauty of the season. In the background, soft, blurred outlines of tall trees create a warm, inviting atmosphere. The golden sunlight filters through the branches, casting gentle shadows on the bench, adding depth and texture to the scene. A few drops of dew rest on the leaves, reflecting the warm hues of the surrounding foliage. The overall composition presents a feeling of tranquility and nostalgia, inviting viewers to imagine stories of moments shared in this idyllic setting.
+Seed: 2893091502
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dune, Whispers

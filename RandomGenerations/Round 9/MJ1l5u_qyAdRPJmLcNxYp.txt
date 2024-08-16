@@ -1,0 +1,6 @@
+Prompt: Create a stunning photographic landscape that combines elements of sci-fi and fantasy set in a futuristic world called "Era". The scene should depict a vast and otherworldly terrain with towering crystal-like mountains that glimmer in vibrant shades of blue and purple under a dark, starry sky. In the foreground, a lush, alien meadow full of luminescent plants and oversized flowers sways gently in an unseen breeze. A winding river of glowing water flows through the landscape, reflecting the colors of the sky and the crystalline formations above. 
+
+In the distance, a colossal, ancient structure, resembling a futuristic temple covered in intricate runes, emerges from the ground, suggesting a long-lost civilization. Strange, hovering ships can be seen skimming across the horizon, adding a sense of motion and life to the scene. The lighting should create dramatic contrasts, with ethereal beams illuminating specific elements of the landscape, enhancing the surreal atmosphere. Capture this image from a slightly elevated angle to provide a panoramic view of this breathtaking sci-fi/fantasy world. Aim for ultra-high resolution and incredible detail to emphasize the mystical beauty of "Era."
+Seed: 3653283006
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Era, Duty

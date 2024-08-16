@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary, weathered tree standing on a cliff's edge during a vibrant sunset. The tree's gnarled branches stretch towards the colorful sky, which transitions from shades of deep orange to soft purple and pink. The sun, nearly dipping below the horizon, casts a warm golden light that enhances the tree's rugged texture and creates long, dramatic shadows on the rocky surface. Below, the ocean crashes against the cliffs, sending foamy waves into the air. The scene should convey a sense of resilience and solitude, with the vastness of the sea and sky surrounding the solitary tree. The photograph should capture the intricate details of the bark and leaves, highlighting the contrast between the sturdy tree and the breathtaking natural beauty around it, emphasizing the interplay of light and shadow.
+Seed: 3178648989
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Observe, Twilight

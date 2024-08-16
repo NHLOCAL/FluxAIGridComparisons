@@ -1,0 +1,6 @@
+Prompt: Create an image of a bizarre alien pet, resembling a cross between a fluffy bunny and a jellyfish. The body is soft and furry, covered in iridescent, translucent skin that glows in shades of blue and green under dim lighting. Beneath its body, long, flowing tentacles extend gracefully, pulsing with a soft luminescent shimmer. The pet's large, expressive eyes, resembling those of a chameleon, cycle through a spectrum of colors, reflecting its playful nature.
+
+The background is a colorful, otherworldly environment, filled with bioluminescent flora that casts a gentle glow. Strange, floating rocks with vibrant patterns hover in the air, and a distant galaxy swirls in a starry sky, adding to the scene's fantastical atmosphere. The lighting is ethereal, with soft halos illuminating the alien pet, creating a whimsical and enchanting visual experience, surreal art style, high detail.
+Seed: 226579668
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elemental, Academy

@@ -1,0 +1,8 @@
+Prompt: Create an image illustrating the concept of duality set in a Dieselpunk-inspired fjord landscape. On one side of the fjord, depict a towering industrial cityscape with massive smokestacks, steel structures, and gritty factories, all immersed in a hazy, sepia-toned ambiance. The sky above is filled with dark, swirling clouds and a faint glow of overhead lights illuminating the brutal machinery. 
+
+On the other side, contrast this with a serene, lush nature scene featuring vibrant green hills, scattered wildflowers, and a clear blue sky. A cascading waterfall flows into the fjord, reflecting the beauty of the untouched wilderness. 
+
+Introduce a central element, such as a vintage aircraft flying low over the water, symbolizing the merging of civilization and nature. The lighting should have a warm golden hue on the industrial side, while the natural side has soft, natural sunlight filtering through the clouds. The artwork should capture the essence of duality, showcasing the stark difference between the two worlds, rendered in a highly detailed, cinematic style that emphasizes the contrasting themes of industrialization and tranquility.
+Seed: 660993061
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dieselpunk, Fjord

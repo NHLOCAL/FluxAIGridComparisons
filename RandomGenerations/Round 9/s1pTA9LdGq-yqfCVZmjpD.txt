@@ -1,0 +1,6 @@
+Prompt: Create a visually striking image representing the theme of "duplicity in love." Feature two intertwined hearts, one heart depicted in vibrant reds and pinks, symbolizing passionate love, while the other heart is rendered in deep blues and purples, representing hidden emotions and conflict. The hearts should appear as though they are both embracing and pulling away from each other, emphasizing the contrast. 
+
+The background should be a celestial landscape, filled with swirling galaxies, twinkling stars, and ethereal light, creating a spiritual atmosphere. Soft beams of light should illuminate the hearts from above, casting intricate shadows that dance on the surface. Use a blend of realism and surrealism, with ultra-high detail and a dynamic color palette to enhance the emotional depth of the scene. The angle should be a slightly elevated view, focusing on the central hearts, inviting the viewer to explore the complex nature of love.
+Seed: 1913494963
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Striking, Spirituality

@@ -1,0 +1,4 @@
+Prompt: A striking photograph capturing a reflective lake at sunset with one half of the lake's surface perfectly mirrored, displaying vivid oranges and pinks of the sky, while the other half is dark and stormy, filled with deep blues and ominous gray clouds. In the foreground, there are two trees leaning towards each other, their branches twisted and intertwined, symbolizing connection and conflict. The lighting is dramatic, with the sun’s rays illuminating the serene half and casting shadows on the tumultuous side. This composition contrasts the harmony of nature on one side and the chaos on the other, inviting the viewer to contemplate the themes of emotion, duplicity, and the duality of existence.
+Seed: 3402141001
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Show, Road

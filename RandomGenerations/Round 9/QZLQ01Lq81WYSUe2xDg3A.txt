@@ -1,0 +1,4 @@
+Prompt: A close-up shot of a weathered hand gently holding a single, fragile flower. The hand, aged with deep lines and spots, shows signs of time and experience. The flower, vibrant and colorful, stands in stark contrast against the hand's texture, symbolizing delicate beauty and resilience. The background is softly blurred, focusing attention on the tender interaction. Subtle, natural lighting enhances the details of the hand and the petals, creating a serene and contemplative atmosphere. The photograph captures a moment of connection between nature and humanity, inviting reflection on the passage of time and the fleeting nature of beauty.
+Seed: 112554163
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tide, Capital

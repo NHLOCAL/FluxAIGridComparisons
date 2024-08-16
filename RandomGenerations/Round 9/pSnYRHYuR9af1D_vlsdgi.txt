@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a close-up of a human face, showing a contemplative expression with soft, muted features, and a collage of historical chronicle images such as ancient scrolls, faded photographs, and urban landscapes. The face should be partially blended with the elements from the chronicle, reflecting layers of time and emotion. Utilize a subdued color palette with grays and sepia tones to enhance the feeling of nostalgia and introspection. The background should be textured, resembling aged paper or weathered books, providing depth to the scene. Incorporate soft, diffused lighting to create a gentle and introspective atmosphere, with an emphasis on the juxtaposition of the human experience and the passage of time.
+Seed: 917022452
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pity, Chronicle

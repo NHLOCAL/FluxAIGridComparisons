@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi/fantasy landscape featuring a vast desert with rolling dunes under a vibrant purple sky filled with swirling galaxies and shimmering stars. In the foreground, a colossal leather-clad warrior stands tall, gripping a massive ornate sword that glows with a pulsating energy. The warrior's armor is intricately detailed, showcasing various textures and layers of weathered leather, adorned with futuristic embellishments. Surrounding the warrior are ancient ruins, half-buried in the sand, with mysterious symbols carved into stone, suggesting a rich history. The scene is illuminated by a glowing orb of light drifting overhead, casting dramatic shadows and enhancing the sense of power and majesty in the landscape. The overall composition combines elements of adventure and exploration, inviting viewers to immerse themselves in this fantastical world.
+Seed: 2196422052
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leather, Power

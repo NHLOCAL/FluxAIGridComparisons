@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of an aged, weathered hand gently cradling a delicate, fragile butterfly. The hand, with visible wrinkles and age spots, tells a story of time and experience. The butterfly, vibrant with iridescent blue and orange wings, contrasts sharply against the textured skin. The background is softly blurred, featuring muted earth tones of a sunlit forest. Natural light filters through the trees, casting a warm glow on the subjects, creating gentle shadows that add depth. The scene invites contemplation on the fragility of life and the beauty of fleeting moments.
+Seed: 548200107
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Warehouse, Resplendent

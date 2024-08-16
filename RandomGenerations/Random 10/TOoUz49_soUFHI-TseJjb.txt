@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic illustration featuring a group of three muscular men engaged in various everyday tasks in an urban setting. One man is watering plants on a balcony, his strong arms glistening in the sunlight, surrounded by vibrant green foliage. The second man is lifting weights in a home gym with an industrial design, showcasing his defined physique and focused expression. The third man is cooking in a modern kitchen, skillfully chopping vegetables, with a relaxed yet confident demeanor. The background features a bright, sunny day, with clear blue skies and an urban skyline visible through large windows, emphasizing a lively and energetic atmosphere. The overall composition is vibrant, emphasizing the dynamic movements and strength of the subjects, rendered in a photorealistic style with natural lighting.
+Seed: 539352827
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creek, Awe

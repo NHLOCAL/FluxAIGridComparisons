@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph depicting a person gazing at their reflection in a large, ornate mirror. The individual is in a dimly lit room with warm, soft lighting that creates an intimate atmosphere. The person, an adult with subtle wrinkles and a contemplative expression, stands on the left side of the image. In the mirror's reflection, their younger self, a vibrant version with youthful features, meets their gaze with curiosity and innocence. Dust particles float gently in the air, illuminated by the soft light, adding to the reflective quality of the moment. The walls behind the mirror are adorned with faded photographs and memories, evoking a sense of nostalgia. The overall composition conveys the passage of time while maintaining a realistic and emotional depth without expressing overt emotions.
+Seed: 3550573060
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Doubt, Moon

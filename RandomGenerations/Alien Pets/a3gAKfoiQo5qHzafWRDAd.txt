@@ -1,0 +1,6 @@
+Prompt: A surreal illustration of an exotic alien pet landscape featuring three unique creatures. The first pet is a fluorescent, jellyfish-like being that floats above the ground, its tentacles trailing luminescent particles that create a colorful light display. The second pet resembles a small, furry creature with six legs and large, kaleidoscopic eyes, showcasing a highly detailed fur texture that shifts colors depending on its mood. The last pet is a diminutive lizard-like alien with bioluminescent skin patterns and iridescent scales that shimmer like precious gems. 
+
+The background should depict an otherworldly habitat consisting of oversized, surreal flora with vibrant hues of purple, pink, and green, softly illuminated by two moons in a starry night sky. The ground is textured with smooth, glowing crystals, and hints of mist hover above, creating an enchanting, dreamlike atmosphere. The scene is rendered in a captivating, psychedelic art style, emphasizing bright colors, intricate details, and a sense of whimsy, inviting viewers to explore this bizarre alien ecosystem.
+Seed: 1549520357
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Province, Mosque

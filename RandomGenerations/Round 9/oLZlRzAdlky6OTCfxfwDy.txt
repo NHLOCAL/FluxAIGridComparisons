@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split-face portrait featuring a person divided down the middle. On one side, the individual has a joyful expression, with vibrant colors and bright lighting enhancing the positive mood. Flowers bloom in the background, symbolizing growth and happiness. On the other side, the same person displays a sorrowful expression, surrounded by dark, muted tones and shadows, creating a stark contrast with the joyful side. The background is filled with withering plants and gray skies, adding to the sense of melancholy. This duality is emphasized with sharp focus on the face, showcasing intricate details of each expression, while softly blurring the backgrounds, guiding the viewer's attention to the emotional dichotomy.
+Seed: 2780297658
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yell, Sensation

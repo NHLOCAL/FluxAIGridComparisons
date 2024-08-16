@@ -1,0 +1,8 @@
+Prompt: Create a double exposure image that elegantly intertwines the concept of existence and apocalypse. The primary subject should be a human silhouette, standing in a reflective pose, with the intricate details of a bustling cityscape visible within the figure. The city should exhibit signs of decay and abandonment, with crumbling buildings and overgrown vegetation. 
+
+In the background, a dramatic sky filled with dark storm clouds and flashes of lightning should loom ominously, giving a sense of impending doom. The lower half of the image features a desolate, barren landscape, scattered with remnants of daily life, such as abandoned vehicles and broken furniture, underscoring the theme of apocalypse.
+
+The overall color palette should combine muted, somber tones, like grays and browns, with stark contrasts of vibrant yet unsettling reds and oranges to emphasize the apocalyptic atmosphere. Soft, ethereal lighting should softly illuminate the silhouette and city's details while casting harsh shadows across the scene, enhancing the dramatic effect. The composition should draw viewers in, inviting them to contemplate the fragile line between existence and the end of the world.
+Seed: 662769640
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Existence, Apocalypse

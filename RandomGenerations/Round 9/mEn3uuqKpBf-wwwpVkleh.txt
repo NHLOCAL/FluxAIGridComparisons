@@ -1,0 +1,4 @@
+Prompt: A striking, hyper-realistic black and white photograph of a split-faced individual, one side displaying a serene smile while the other shows a deep frown. The contrasting expressions highlight the tension between joy and sorrow. The background is softly blurred, emphasizing the face, while the lighting creates dramatic shadows, accentuating the contours and textures of the skin. Fine details like the glistening of tears on the frowning side and the warmth radiating from the smiling side enhance the sense of duplicity. The composition focuses closely on the portrait, drawing the viewer’s eye to the stark contrast in emotions. This image captures the complexity of human feelings in a single frame.
+Seed: 2042851197
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fondness, Laser

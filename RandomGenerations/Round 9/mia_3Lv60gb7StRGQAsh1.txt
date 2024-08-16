@@ -1,0 +1,4 @@
+Prompt: A striking duality-themed illustration showcasing two contrasting figures facing each other in a cinematic setting. One figure is cloaked in dark, shadowy attire with ominous features and glowing red eyes, embodying the concept of darkness and mystery. The other figure is dressed in radiant white garments, with bright features and vibrant blue eyes, representing light and purity. The backdrop is a dramatic, swirling blend of dark storm clouds on one side and peaceful blue skies with fluffy white clouds on the other. Sharp, contrasting lighting highlights the figures, emphasizing their distinct characteristics. The scene is rendered with a cinematic quality, incorporating rich colors and intricate details that draw the viewer into the striking juxtaposition between light and dark, creating a powerful visual narrative of duality.
+Seed: 204725126
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glance, Cinema

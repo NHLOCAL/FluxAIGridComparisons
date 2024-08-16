@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph of an otherworldly landscape featuring a colossal, floating island with lush greenery and cascading waterfalls. The island is adorned with vibrant, bioluminescent plants that glow in various hues, casting a magical light over the scene. Below, a deep azure ocean reflects the light from the island and the sky above, which is filled with swirling galaxies and shooting stars. In the foreground, a serene lake mirrors the beauty of the floating island, while fantastical creatures can be seen gently gliding through the water. The scene is bathed in a soft twilight glow, enhancing the enchanting atmosphere. Shot from a low angle to emphasize the scale of the island and the sky, this image captures the essence of sci-fi/fantasy landscapes, blending the charm of nature with the allure of the fantastical.
+Seed: 2759091254
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Show, Charm

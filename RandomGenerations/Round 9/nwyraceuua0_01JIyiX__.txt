@@ -1,0 +1,4 @@
+Prompt: Create a striking image that explores the concept of duality. On one side, depict a serene landscape with a vibrant sunrise over a lush, green meadow filled with blooming flowers and gentle hills. The other side should contrast this with a turbulent, stormy scene featuring dark clouds, lightning, and a barren, rocky terrain. In the center, a reflective lake captures both atmospheres, with one half mirroring the peaceful sunrise and the other half reflecting the chaotic storm. The lighting should transition smoothly from warm yellows and soft pinks on the serene side to deep blues and purples on the stormy side. The angle should be a panoramic view, highlighting the stark contrast between the two environments. The overall art style should be hyper-realistic, emphasizing the detail in the natural elements and the dramatic skies.
+Seed: 3634849723
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wonder, Demonstration

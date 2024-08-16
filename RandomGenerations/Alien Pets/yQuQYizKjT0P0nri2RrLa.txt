@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring a bizarre alien pet with a vibrant, multi-colored, gelatinous body that constantly shifts its shape, appearing somewhat like a mix between a jellyfish and a cat. Its large, luminous eyes convey a sense of curiosity, while its tentacle-like appendages gently sway in the air. The background should depict an otherworldly landscape filled with luminescent plants and bizarre, floating rock formations under a swirling, colorful sky, giving the scene an enchanting, surreal quality. The lighting is soft and ethereal, enhancing the alien ambiance. The art style should evoke a blend of fantasy and science fiction, with intricate details and a vivid color palette that highlights the pet's peculiar features alongside the exotic environment.
+Seed: 2793784011
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alteration, Pub

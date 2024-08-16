@@ -1,0 +1,4 @@
+Prompt: A striking portrait of a feminine figure that embodies duality, showcasing contrasting aspects of beauty through split design. One half of her face is adorned with radiant, soft features highlighting delicate skin, flowing hair, and gentle, vibrant colors, while the other half possesses a more edgy aesthetic, with sharp angles, bold makeup, and darker hues. The background features a gradient that shifts from warm, inviting light on one side to a cooler, more mysterious shadow on the other. The art style is inspired by Mannerism, emphasizing elongated proportions and dynamic poses. The lighting is dramatic, with chiaroscuro effects that enhance the sense of depth and contrast between the two halves. The overall composition invites viewers to explore the complexities of beauty and identity while remaining visually captivating and elegant.
+Seed: 3384374133
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Manner, Comely

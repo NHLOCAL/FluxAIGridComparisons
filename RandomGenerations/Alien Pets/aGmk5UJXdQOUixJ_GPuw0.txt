@@ -1,0 +1,6 @@
+Prompt: Create a whimsical illustration of three unique alien pets in an otherworldly setting. The first pet is a floating, translucent jellyfish-like creature with a kaleidoscope of colors illuminating its body. Its long, delicate tendrils sparkle in the air like fireworks. The second pet resembles a small, furry creature with six legs, large googly eyes, and antennae that constantly twitch with curiosity. Its fur is a luminous shade of electric blue, giving off a soft glow. The third pet is a mini dinosaur with iridescent scales, short arms, and a playful demeanor, wearing a tiny space helmet that enhances its vibrant green color.
+
+The background features a lush alien landscape filled with bioluminescent plants and bizarre rock formations. The sky is a swirling mixture of violet and turquoise, dotted with floating celestial orbs that reflect the pets’ colors. The pets interact playfully, with the jellyfish elegantly dancing through the air while the dinosaur leaps joyfully, and the furry creature curiously investigates a glowing plant. The scene is vibrant, energetic, and captures a sense of wonder, showcasing the playful relationships between the alien pets in their fantastical environment, digital illustration, vibrant colors, whimsical setting.
+Seed: 1752479366
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tundra, Issue

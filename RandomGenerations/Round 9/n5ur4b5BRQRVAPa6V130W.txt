@@ -1,0 +1,8 @@
+Prompt: Create a captivating illustration that embodies feminine beauty through the concept of duality. The central figure should be an ethereal woman, her features delicately sculpted, reflecting both grace and strength. She stands between two contrasting realms: one side bathed in light, showcasing a vibrant garden with blooming flowers and luminous colors, while the other side is shrouded in darkness, represented by a stark landscape of deep shadows and swirling mist.
+
+The woman's attire should blend elements from both realms, with one half adorned in flowing fabrics of bright, shimmering colors and the other draped in dark, intricate patterns that evoke a sense of mystery. Her hair flows fluidly, transitioning from soft golden strands on one side to deep raven-black on the other, symbolizing the interplay of light and dark.
+
+Incorporate abstract representations of antimatter swirling around her, depicted as silvery, glimmering particles that contrast against both backgrounds, adding a sense of cosmic depth. The background transitions smoothly between vibrant light and deep shadows, creating a surreal yet harmonious atmosphere. The overall lighting should balance between bright highlights and deep shadows, emphasizing the duality and silence that envelops the scene, making it both captivating and thought-provoking, cinematic, illustration, conceptual art.
+Seed: 1336385769
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Antimatter, Silence

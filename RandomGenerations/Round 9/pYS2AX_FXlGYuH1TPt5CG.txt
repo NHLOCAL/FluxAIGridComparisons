@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a majestic iceberg soaring through a bright, cloud-strewn sky. The iceberg should be intricately detailed, with crystalline blue and white textures shimmering in the sunlight. Beneath the iceberg, seamlessly fused into the image, depict an underwater scene filled with vibrant marine life: colorful fish, lush coral reefs, and rays of sunlight penetrating the water's surface. The contrast between the cool tones of the iceberg and the vivid colors of the underwater world adds depth and complexity to the composition. The background should feature soft, dreamy clouds, enhancing the ethereal quality of the scene. Focus on the clarity of details, giving a surreal yet realistic feel to both the iceberg and the aquatic elements, emphasizing the beauty of nature in a harmonious blend.
+Seed: 1255075068
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Iceberg, Topic

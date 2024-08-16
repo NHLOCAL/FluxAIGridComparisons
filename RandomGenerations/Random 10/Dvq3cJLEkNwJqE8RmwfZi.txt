@@ -1,0 +1,6 @@
+Prompt: Create an illustration showcasing a thrilling scene of daredevil stunts performed by a group of bizarre-looking extraterrestrials. The aliens are characterized by their unusual shapes, vibrant colors, and unique appendages, such as multiple eyes, elongated limbs, and unusual skin textures. The setting is a futuristic alien city with towering, neon-lit skyscrapers and a diverse crowd of curious onlookers, all capturing the excitement on their holographic devices. 
+
+In the foreground, one extraterrestrial is executing a dramatic mid-air flip on a hoverboard, while another is performing a high-flying stunt on a jetpack, leaving a trail of colorful sparks behind. The cityscape is bustling with bright advertisements and complex architecture, casting dazzling reflections on the ground below. The lighting is dynamic, with flashes of colorful lights emanating from the surroundings, creating an exhilarating atmosphere. The angle should emphasize the height of the stunts, enhancing the sense of action and movement. The artwork combines elements of sci-fi and action, making it a visually captivating masterpiece.
+Seed: 3614416380
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Authority, Cliff

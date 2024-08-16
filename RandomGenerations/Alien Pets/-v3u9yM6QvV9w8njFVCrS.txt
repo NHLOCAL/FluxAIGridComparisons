@@ -1,0 +1,6 @@
+Prompt: Create a vibrant and surreal illustration of three unique alien pets within an otherworldly environment. The first pet is a small, fluffy creature resembling a cross between a rabbit and a jellyfish, with translucent tentacles trailing behind it, glowing in shades of blue and pink. The second pet is a miniature dragon-like being with shimmering scales that change color based on its surroundings, perched on the shoulder of the third pet. The third pet is a tall, slender creature covered in soft, iridescent feathers, with unusually large eyes that display a kaleidoscope of colors. 
+
+The background features a fantastical alien landscape, with bioluminescent plants and floating rock formations against a starry sky filled with swirling galaxies. The ground is dotted with strange mushrooms emitting soft pulses of light. The scene is illuminated with a soft, ethereal glow, enhancing the whimsical nature of the alien pets, and the overall composition conveys a sense of curiosity and wonder in this vibrant extraterrestrial world. Highly detailed, vibrant colors, cinematic quality.
+Seed: 1180915883
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: White, Tornado

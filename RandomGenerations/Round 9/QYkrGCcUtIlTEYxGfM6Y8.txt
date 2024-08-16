@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a close-up of an intense, focused human gaze with an abstract representation of a flourishing city skyline. The person's eyes should be sharp and piercing, conveying a sense of confidence and mastery, while their expression remains neutral. The city skyline should feature tall skyscrapers and vibrant lights, reflecting innovation and growth, seamlessly merging with the eye. The overall color palette should include deep blues and warm golds, offering a striking contrast between the human element and the urban landscape. The background should be softly blurred to enhance the double exposure effect, creating an inviting sense of depth and complexity. High detail, photorealistic style, emphasizing the intricacies of both the gaze and the city elements.
+Seed: 2672341498
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Proficiency, Stare

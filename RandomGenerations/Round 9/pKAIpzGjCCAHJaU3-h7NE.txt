@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph featuring an old oak tree standing alone in a vast, open field at sunset. The tree's thick trunk is gnarled and weathered, showcasing the passage of time with deep grooves and twisted branches. The sky is painted in vibrant hues of orange, pink, and purple, casting a warm glow over the scene. Soft, golden light filters through the leaves, creating intricate shadows on the ground. In the foreground, a scattering of colorful wildflowers adds detail and contrast to the landscape. The horizon should be unobstructed, emphasizing the isolation of the tree amidst the expansive field. The overall composition captures a sense of serenity and solitude, inviting reflection on nature's beauty and the quiet moments in life. Photorealistic, highly detailed, cinematic quality lighting.
+Seed: 3977300812
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fact, Possibility

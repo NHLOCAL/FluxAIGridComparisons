@@ -1,0 +1,6 @@
+Prompt: Create an imaginative scene showcasing a variety of unique alien pets, each with distinct features and characteristics. In the foreground, depict a small, fluffy creature with iridescent fur that changes colors based on its mood, adorned with three large, expressive eyes. Next to it, a jellyfish-like pet with translucent skin, glowing softly, and trailing long, flowing tendrils that emit a soft bioluminescent light. To the side, illustrate a small, amphibious creature with a shell resembling a miniature planet, complete with swirling patterns of stars, and a large, friendly grin. 
+
+The background should display a vibrant alien landscape filled with unusual plants—some resembling oversized mushrooms with polka dots, others shaped like spiraling vines, all under a kaleidoscopic sky with three moons and swirling clouds of brilliant colors. The scene should be filled with playful energy, as the alien pets interact with their surroundings—jumping, floating, and scampering about. Use bright, vivid colors and soft, warm lighting to enhance the whimsical and fantastical atmosphere, creating an enchanting view of a unique alien world that invites wonder and curiosity. Illustrative style, highly detailed, vibrant colors, fantasy.
+Seed: 3619964936
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capacity, Attraction

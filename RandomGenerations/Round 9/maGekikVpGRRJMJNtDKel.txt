@@ -1,0 +1,4 @@
+Prompt: Create an illustration that captures the concept of feminine beauty through the duality of light and shadow. The central figure should be a graceful woman with flowing hair, her face divided into two halves: one side illuminated by soft, ethereal light showcasing delicate features, and the other shrouded in subtle darkness, revealing mysterious and captivating elements. Surround the figure with a swirling blend of pastel colors and deep hues to represent perception, creating a harmonious balance between opposites. The background should evoke a serene yet dynamic atmosphere, with gentle gradients transitioning from light to dark, emphasizing the interplay of duality. The artwork should convey an enchanting and dreamlike quality, merging elements of realism and ethereal fantasy.
+Seed: 1050376183
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Perception, Behold

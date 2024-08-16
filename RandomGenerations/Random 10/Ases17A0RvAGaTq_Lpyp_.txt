@@ -1,0 +1,4 @@
+Prompt: Create an image of two muscular men without shirts engaging in everyday tasks in an urban setting. One man is watering plants on a balcony with a vibrant city skyline in the background, showcasing high-rise buildings and blue skies. The other man is grilling on a patio, with a barbecue and a spread of delicious food. The scene is bathed in warm afternoon sunlight, casting long shadows and creating a lively atmosphere. The men should be depicted in a realistic style, focusing on their athletic physiques and confident stances while maintaining casual expressions. The overall composition emphasizes camaraderie and the joys of daily life, set against a colorful and lively backdrop.
+Seed: 1587094617
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Success, Hamlet

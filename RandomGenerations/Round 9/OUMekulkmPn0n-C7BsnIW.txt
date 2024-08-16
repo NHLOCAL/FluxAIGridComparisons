@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a mystical forest landscape with a serene reservoir. The forest should feature towering, ancient trees with lush green foliage, mystical light filtering through the leaves, and magical glowing orbs floating in the air. The reservoir should have a calm water surface, reflecting the vibrant forest above, with hints of shimmering light creating a sense of enchantment. The overall composition should seamlessly blend the two scenes, merging the organic textures of the forest with the smooth surface of the water. The lighting should evoke a sense of twilight, with soft purples and blues casting an ethereal glow over the image, creating a captivating and magical atmosphere. The image should be rendered in high detail, emphasizing the beauty of both nature elements, resulting in a stunning visual experience.
+Seed: 973636292
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Magic, Reservoir

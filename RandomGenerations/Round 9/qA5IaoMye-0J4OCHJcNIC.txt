@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph showing a person standing before a mirror, with their reflection displaying a younger version of themselves. The setting is a cozy, softly lit room with warm, ambient lighting that creates an intimate atmosphere. The person, an adult, has a thoughtful expression, and the younger self appears joyful and carefree. Subtle details like a few family photos in the background hint at a life well-lived. The mirror frame is ornate, adding a touch of elegance to the scene. Soft shadows play across the room, enhancing the contemplative mood, while the focus remains on the individuals, capturing the essence of nostalgia and self-reflection.
+Seed: 3112308309
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Expedition, Gray

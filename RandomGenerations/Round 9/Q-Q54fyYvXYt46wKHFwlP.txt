@@ -1,0 +1,4 @@
+Prompt: A breathtaking photograph capturing a vast, epic savanna landscape under a dramatic sunset sky filled with swirling clouds in rich hues of orange, purple, and deep blue. In the foreground, a mysterious treasure chest lies half-buried in the golden grass, adorned with intricate carvings and jewels that catch the fading light. Surrounding the chest, a gentle breeze causes the tall grass to sway, creating a dynamic contrast against the stillness of the treasure. In the distance, silhouetted against the vibrant sky, a lone tree stands majestically atop a small hill, its branches reaching toward the heavens. The atmosphere is infused with a sense of adventure and magic, inviting viewers to imagine the secrets of the savanna and the treasures it holds. Enhanced by vibrant colors and dramatic lighting, this composition beautifully blends elements of sci-fi and fantasy.
+Seed: 3121071698
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Treasure, Savanna

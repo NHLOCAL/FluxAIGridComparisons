@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining a powerful lion and a towering mountain range. The lion's iconic mane intertwines seamlessly with the craggy peaks, emphasizing strength and majesty. The background features a clear blue sky with soft, fluffy clouds seamlessly merging into the animal's majestic form. The mountain range should exhibit intricate details, showcasing rocky textures and patches of greenery, harmoniously integrated with the lion. The overall lighting should be bright and uplifting, with sunlight casting warm glows on both subjects, creating a sense of revelation and grandeur. The composition should evoke a rich narrative of power and nature, blending animalistic strength with the resilience of the earth.
+Seed: 1297012866
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Strength, Revelation

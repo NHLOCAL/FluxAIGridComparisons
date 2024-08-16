@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a futuristic subway landscape, characterized by sleek metallic structures and intricate designs. The scene is illuminated by vibrant neon lights in shades of blue, purple, and green, casting reflections on the polished metal surfaces. The subway platforms are spacious and adorned with advanced technology, featuring holographic displays and digital information boards. The walls are lined with large, panoramic windows that showcase a stunning alien cityscape outside, with towering skyscrapers and flying vehicles. The atmosphere is filled with a subtle mist created by the advanced cooling systems, enhancing the otherworldly vibe. The composition captures a wide-angle view of the subway station, emphasizing the grandeur and sleekness of the sci-fi-fantasy setting while maintaining a cinematic quality.
+Seed: 2466145316
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Metal, Subway

@@ -1,0 +1,8 @@
+Prompt: A stunning sci-fi/fantasy landscape photograph showcasing a vast alien terrain stretching towards the horizon. In the foreground, an otherworldly valley lined with crystalline structures that shimmer in various shades of blue and purple. Towering rock formations, resembling ancient ruins, punctuate the landscape, their surfaces etched with glowing symbols and patterns. The sky overhead features swirling clouds in vibrant hues of orange, pink, and deep indigo, suggesting a mesmerizing sunset or perhaps the aftermath of a cosmic event. 
+
+In the distance, a mountain range looms, draped in a faint mist that glows subtly with bioluminescence. A river flows through the valley, its waters reflecting the colors of the sky and crystal formations, creating a harmonious blend of colors. At the edge of the valley, shadowy, silhouette-like figures can be seen; they appear to be intergalactic explorers observing the landscape. The lighting is dramatic, highlighting the textures and colors of the terrain while casting deep shadows that enhance the sense of mystery. The photograph captures a moment in this fantastical world, inviting the viewer to explore its depths. 
+
+Cinematic quality, high resolution, vibrant colors, intricate details, ethereal atmosphere.
+Seed: 1901174451
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Direction, Range

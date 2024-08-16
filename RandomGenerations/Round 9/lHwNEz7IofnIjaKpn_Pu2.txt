@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a serene, picturesque landscape featuring a tranquil lake surrounded by lush green trees. In the foreground, a young woman stands at the water's edge, her reflection in the lake merged with the vibrant blue sky above. Half of the woman's face is illuminated by soft sunlight, radiating warmth, while the other half is shrouded in shadow, creating a stark contrast. In the background, an ominous storm brews, with dark clouds rolling in and hinting at impending rain. The color palette should include bright greens and blues on one side, transitioning to darker grays and blacks as the storm approaches, emphasizing the theme of duplicity in nature and mood. The composition should focus on the dichotomy between light and shadow, calm and chaos, evoking a sense of duality. High-resolution, photo-realistic style, with a focus on detail and clarity.
+Seed: 1864803634
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Guild, Harmony

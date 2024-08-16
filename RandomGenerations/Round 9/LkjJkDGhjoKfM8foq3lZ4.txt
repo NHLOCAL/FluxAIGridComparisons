@@ -1,0 +1,4 @@
+Prompt: Create a vibrant cyberpunk landscape photograph featuring a colossal trophy at its center. The trophy should be adorned with intricate neon patterns that pulsate with electric blue, pink, and green lights. It rises majestically above a sprawling futuristic cityscape filled with towering skyscrapers and holographic advertisements. The background should feature a dark sky filled with swirling clouds and distant stars, while the foreground showcases bustling streets teeming with people, all illuminated by the colorful glow of neon signs. Incorporate flying vehicles and digital screens in the scene to enhance the sci-fi ambiance. The lighting should be dynamic, casting striking reflections on the trophy and creating a sense of depth and intrigue in this imaginative world. Ultra-high detailed, cinematic composition.
+Seed: 848273678
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cyberpunk, Trophy

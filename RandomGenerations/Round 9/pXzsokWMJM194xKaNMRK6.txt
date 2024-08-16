@@ -1,0 +1,4 @@
+Prompt: Create a highly detailed, hyper-realistic photograph of a split-faced human subject, half illuminated by a warm, soft light and the other half engulfed in deep shadows. The illuminated side should showcase gentle features, a calm expression, and soft texture against a warm background, while the shadowed half should depict sharp angles, a tense expression, with rough textures and a colder, darker backdrop. The contrast between the warm and cool tones should enhance the sense of duality and duplicity, creating a striking visual representation of conflicting emotions. The background should remain subtle and unobtrusive to maintain focus on the subject's face, with a shallow depth of field emphasizing the details and textures on the skin. 
+Seed: 1464153285
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Balance, Hologram

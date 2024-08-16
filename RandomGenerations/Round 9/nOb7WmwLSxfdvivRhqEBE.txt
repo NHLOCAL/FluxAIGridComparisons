@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a weathered old man sitting alone on a park bench. His face is adorned with deep wrinkles that tell stories of a long life, and his eyes are sunken but reflective, conveying a sense of nostalgia. He wears a frayed, brown coat and a weathered hat, and in his hands, he holds a faded photograph of his family, looking down at it with a somber expression. The background captures a softly blurred, golden autumn landscape with falling leaves and distant trees, creating a warm yet melancholic atmosphere. The lighting should be soft and diffused, mimicking the gentle glow of a late afternoon sun, highlighting the textures of the man's skin and the details of the photograph. The overall composition emphasizes solitude and reminiscence, inviting the viewer to ponder the stories and memories of a life well-lived.
+Seed: 1197953073
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tunnel, Faithfulness

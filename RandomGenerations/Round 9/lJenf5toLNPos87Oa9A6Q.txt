@@ -1,0 +1,4 @@
+Prompt: Create a stunning close-up photograph of a solitary, weathered old tree standing in a vast, empty field at sunset. The tree's gnarled branches stretch towards a vibrant sky painted in hues of orange, pink, and deep purple, creating a mesmerizing contrast against the silhouette of the tree. The field should be adorned with delicate, swaying grasses, catching the last rays of sunlight, adding texture to the scene. Light should radiate softly from behind the tree, highlighting the intricate bark details and casting long shadows. The foreground should gently blur, drawing focus to the tree and the striking sky. Capture the essence of solitude and beauty in this serene landscape, in a hyper-detailed, high-resolution format.
+Seed: 2537613220
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wave, Reward

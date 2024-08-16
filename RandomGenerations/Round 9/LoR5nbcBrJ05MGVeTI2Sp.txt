@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a serene nighttime scene where a person lies peacefully asleep on a fluffy cloud high above a landscape. The person should be surrounded by soft, glowing stars and gentle moonlight, with their features soft and relaxed. Below the cloud, a vibrant dreamscape unfolds, filled with whimsical elements like floating flowers and gentle waves of color that represent the nuances of dreams. The overall lighting should be calm and ethereal, emphasizing a sense of tranquility and harmony. The art style should reflect a blend of surrealism and fantasy, with soft gradients and delicate details that invite the viewer into a magical, dreamlike atmosphere.
+Seed: 1575243727
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sleep, Miracle

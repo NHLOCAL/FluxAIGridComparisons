@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of an expansive sci-fi/fantasy landscape. The scene features towering, crystalline mountains that glimmer in hues of blue and purple, set against a vibrant sunset with splashes of orange and pink in the sky. In the foreground, a winding river of luminous, swirling liquid flows gently, reflecting the colors of the sky above. Scattered across the landscape are peculiar, bioluminescent plants with intricate patterns, casting a soft glow on the ground. A distant futuristic city can be seen nestled among the mountains, with sleek, shimmering buildings and flying vehicles. The composition should present a sense of wonder and novelty, inviting the viewer to explore the surreal environment. Use cinematic lighting to enhance the ethereal quality of the landscape, creating sharp contrasts between light and shadow. 
+Seed: 3136035722
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Novelty, Perception

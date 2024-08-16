@@ -1,0 +1,8 @@
+Prompt: A captivating illustration of a mage standing at the intersection of two distinct worlds, representing the theme of duplicity in love. The left side depicts a vibrant, lush forest filled with bright, blooming flowers and warm sunlight filtering through the leaves, symbolizing passion and romance. The right side transitions into a dark, brooding setting with twisted trees, shadowy figures, and a cold, blueish hue, representing betrayal and sorrow.
+
+The mage stands centrally, adorned in an intricate robe blending contrasting elements: one side is richly embroidered with gold and bright colors, while the other is tattered and dark. A glowing staff in the mage's hand illuminates the space, casting intricate patterns of light and shadow. The facial expression of the mage is focused, showcasing a deep understanding of the duality of love.
+
+In the background, elements of religious symbolism are subtly integrated, such as ethereal light beams or faint halos around the trees, enhancing the mystical ambiance. The overall scene combines rich details, vibrant colors, and dramatic lighting, emphasizing the complexity of love and faith. The artwork should evoke a sense of wonder and introspection, portrayed in a high-resolution, cinematic style, with an emphasis on depth and texture.
+Seed: 3602908593
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Religion, Mage

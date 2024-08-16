@@ -1,0 +1,8 @@
+Prompt: Create an artistic illustration that embodies the concept of duality. The image should depict two contrasting figures, one representing light and the other representing darkness. The figure of light is adorned in vibrant, shimmering attire with intricate patterns, bathed in golden sunlight. In contrast, the figure of darkness is shrouded in deep shadows, wearing dark, flowing robes with sharp, angular designs, illuminated only by a subtle, eerie glow. 
+
+The background should be split to reflect their respective realms, with one side a dazzling landscape of radiant colors, blooming flowers, and clear blue skies, while the other side features a bleak, shadowy terrain with twisted trees and a stormy, thunderous sky. 
+
+The lighting should be dynamic, highlighting the vividness of the light figure and enhancing the stark shadows around the dark figure. The overall composition should draw a clear division yet reflect their intertwined existence, showcasing the harmony and contrast of duality. The style should be a blend of surrealism and vibrant fantasy, emphasizing intricate details and textures.
+Seed: 573070531
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Method, Dazzling

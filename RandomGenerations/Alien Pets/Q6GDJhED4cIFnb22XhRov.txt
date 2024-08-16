@@ -1,0 +1,4 @@
+Prompt: Create an image of a bizarre, luminous alien pet resembling a cross between a chameleon and a jellyfish. Its body should be semi-transparent, with vibrant neon colors that shift and change, reflecting its surroundings. The creature has large, expressive eyes that emit a soft glow, and its tentacle-like appendages float gracefully behind it, casting shimmering shadows. The background features a surreal, alien landscape with floating rocks and bioluminescent plants under a twilight sky filled with swirling, colorful clouds. The scene should be rich in detail, showcasing the unique textures of the alien pet and the otherworldly environment around it. Style should evoke a sense of wonder and enchantment, blending hyperrealism with fantastical elements. 
+Seed: 226148886
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tension, Understanding

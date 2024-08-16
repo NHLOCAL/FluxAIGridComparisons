@@ -1,0 +1,14 @@
+Prompt: Create a vibrant illustration of four unique alien pets, each with distinct characteristics and features. 
+
+1. A floating jellyfish-like creature with iridescent tentacles that shimmer in a variety of colors. It has large, expressive eyes that change color based on its mood. The creature emits small, bioluminescent bubbles as it hovers above the ground.
+
+2. A furry, quadrupedal creature the size of a small dog, covered in bright, polka-dotted fur. Its long, curly tail has a feathered tip that trails behind, and its ears are oversized and floppy, resembling those of a rabbit. It plays joyfully with oversized, luminous orbs that bounce around it.
+
+3. A small, chameleon-like alien with scales that can change colors to blend seamlessly into its surroundings. It has eight tiny legs and a wide, toothy grin, with beady eyes that can rotate independently. The backdrop is a colorful alien landscape, filled with vibrant plants and mushrooms.
+
+4. A graceful, bird-like creature with iridescent wings that resemble stained glass. The wings have intricate patterns, and the creature sings melodiously as it perched on a glowing branch. Its body sparkles with stardust, giving it an ethereal appearance.
+
+The background should be filled with a whimsical alien environment, featuring bizarre flora and a multi-colored sky, creating a playful and fantastical atmosphere. The lighting should highlight the vibrant colors of each pet, emphasizing their unique qualities in a captivating way. The style should be a mix of illustration and digital art, with high attention to detail and bold color saturation.
+Seed: 3633746613
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Measure, Reef

@@ -1,0 +1,4 @@
+Prompt: Create a striking photograph of a lone, nude figure standing atop a rocky cliff overlooking a vast and tumultuous ocean. The figure is silhouetted against a dramatic sunset sky, with vibrant hues of orange, purple, and deep blue blending together. The windswept hair and body suggest movement and connection to the elements as waves crash violently against the rocks below, sending up sprays of white foam. The perspective is from below, creating a sense of awe and grandeur, with the figure appearing powerful and vulnerable at the same time. The lighting is warm and ethereal, enhancing the contours of the body and the textures of the cliff, while the sky creates a mesmerizing backdrop that invites introspection and contemplation. Hyper-realistic, cinematic quality, showcasing the interplay between light, shadow, and the raw beauty of nature.
+Seed: 2508015253
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nude, Quest

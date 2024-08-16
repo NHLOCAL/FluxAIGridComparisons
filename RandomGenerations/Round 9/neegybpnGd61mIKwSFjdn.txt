@@ -1,0 +1,4 @@
+Prompt: A serene photograph capturing an elegant, cloaked figure standing at the shoreline of a tranquil sea at sunset. The figure's back is turned to the viewer, creating a sense of mystery. The sky is a mix of warm oranges and deep purples, reflecting off the calm water, adding an ethereal quality to the scene. On the surface of the water, faint ripples distort the reflection of the figure, creating an illusion of duplicity. In the foreground, a solitary, wilted flower lies on the sand, contrasting the beauty of the setting sun with a sense of decay and loss. The overall composition emphasizes the interplay of light and shadow, highlighting themes of beauty and melancholy in an evocative, contemplative manner. Cinematic quality, soft focus, atmospheric lighting.
+Seed: 3107732636
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Soul, Impact

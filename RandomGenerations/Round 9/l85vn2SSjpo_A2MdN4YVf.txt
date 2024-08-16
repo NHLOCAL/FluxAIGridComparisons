@@ -1,0 +1,4 @@
+Prompt: A hauntingly surreal photograph of an intricately shattered mirror lying on a desolate landscape. The fractured pieces reflect varying aspects of a single figure standing amidst the rubble, providing glimpses of their face, which portrays a mix of joy and sorrow. The background features a dark, stormy sky, with broken trees silhouetted against the horizon, their gnarled branches emphasizing a sense of isolation. Soft, diffused light filters through the clouds, casting an ethereal glow on the mirror shards while creating sharp contrasts between light and dark. The overall composition invites contemplation on identity and the duality of emotion, blending realism with a touch of the abstract.
+Seed: 704776668
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Crush, Acknowledgment

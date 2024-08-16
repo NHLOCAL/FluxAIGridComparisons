@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph depicting a person standing in front of a large, ornate mirror. The individual, a young adult with short hair, gazes intently at their reflection, which captures a surreal and ethereal version of themselves. The reflection shows them in a vibrant, colorful set of attire that contrasts with their simple, subdued clothing. The background features an elegantly decorated room with soft, ambient lighting filtering through sheer curtains, casting gentle shadows. The mirror's frame is intricately carved, showcasing ornate designs that lend a sense of grandeur to the scene. The image conveys a moment of introspection and self-discovery, highlighting the contrast between the individual's humble appearance and their vivid reflection. Warm, inviting color palette, high detail, photo-realistic style.
+Seed: 2660142551
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sexy, Miracle

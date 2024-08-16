@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph captured in a dimly lit alleyway, where a reflective puddle mirrors a split image. On one side, a solitary figure is seen standing with their back towards the camera, cloaked in a dark trench coat and a wide-brimmed hat, creating an air of mystery. On the other side of the puddle, their reflection is smiling, illuminated by a soft, warm light that contrasts sharply with the cold, stark setting. The background features weathered brick walls and faint shadows, adding depth and a sense of unease. A streetlamp casts a soft glow, creating dramatic lighting that enhances the duality in the scene, evoking a sense of hidden truths and emotional complexity. The photograph captures the essence of duplicity, inviting the viewer to ponder the contrasts between outward appearances and inner realities. 
+Seed: 3181499948
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ward, Mirage

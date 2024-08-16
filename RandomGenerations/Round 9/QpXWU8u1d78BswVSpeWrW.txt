@@ -1,0 +1,4 @@
+Prompt: A breathtaking landscape photograph that combines elements of both sci-fi and fantasy. The scene showcases a majestic, colossal elemental figure rising from a vibrant, ethereal landscape. The elemental, composed of swirling water, fire, earth, and air, stands in the center, exuding an aura of power and serenity. Around the elemental, the landscape features lush, luminescent flora and crystalline structures that reflect a kaleidoscope of colors. The sky is filled with dynamic clouds, merging hues of deep purples and fiery oranges, creating a surreal backdrop. The lighting is dramatic, emphasizing the contours of the elemental and casting vibrant shadows across the landscape. This image radiates an epic, otherworldly quality, inviting the viewer into a realm where magical forces reign. Hyper-detailed, high resolution, cinematic quality.
+Seed: 1394338747
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elemental, Icon

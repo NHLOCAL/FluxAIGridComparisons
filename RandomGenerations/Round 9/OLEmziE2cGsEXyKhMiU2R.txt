@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene harbor scene at sunset, where the tranquil waters reflect shades of vibrant orange, purple, and pink. In the foreground, depict a luxurious wooden yacht gently bobbing on the water, its polished surfaces glistening in the warm light. Sailboats with billowing white sails can be seen in the distance, anchored and swaying softly. The sky is dotted with fluffy, golden clouds, and the sun dips just above the horizon. On the shoreline, a quaint coastal village with charming, rustic houses boasts small lanterns and colorful flowers, inviting a sense of calm and stability. The overall ambiance is peaceful and inviting, capturing the essence of a tranquil harbor retreat. Focus on vibrant, warm colors and rich details, creating a picturesque and harmonious scene. Photorealistic style, high resolution, cinematic lighting.
+Seed: 203492925
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Harbor, Stability

@@ -1,0 +1,6 @@
+Prompt: Create a double exposure image that merges a vibrant and lush garden with a grand, historical building. The garden should be richly detailed, filled with a variety of colorful flowers, verdant leaves, and softly flowing vines, showcasing a spectrum of greens, reds, pinks, and yellows. The building, an elegant architectural structure with ornate features such as arches and columns, should be made of weathered stone, displaying a sense of age and history. 
+
+The blending of the two images should create a sense of harmony, where the garden appears to grow out from and envelop the building, symbolizing nature reclaiming urban spaces. The lighting should be soft and warm, reminiscent of golden hour, enhancing the colors in the garden and casting a gentle glow on the building. The overall composition should feel ethereal and dreamlike, with a slight blur effect around the edges to emphasize the blending of the two environments, creating a captivating visual narrative of coexistence between nature and architecture.
+Seed: 722961953
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Garden, Building

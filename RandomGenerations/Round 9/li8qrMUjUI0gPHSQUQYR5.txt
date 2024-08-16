@@ -1,0 +1,6 @@
+Prompt: Create an image depicting a feminine figure embodying beauty and duality within a futuristic Matrix-like environment. The figure should have an ethereal, elegant appearance, showcased in a flowing, reflective gown that shimmers with digital patterns. The background consists of a vast platform suspended in a high-tech, neon-lit space, filled with floating geometric shapes and grids reminiscent of virtual reality.
+
+The lighting should be dramatic, with contrasting shadows and bright highlights that emphasize the figure's features. On one side, the figure appears gentle and serene, while on the other, there's a fierce, confident expression that captures the essence of duality. Incorporate elements like circuit-like tattoos on her skin that glow subtly, enhancing the high-tech aesthetic. The overall color scheme should feature deep greens and blues with vibrant neon accents, creating a captivating blend of beauty and technology that reflects the themes of the Matrix.
+Seed: 1475118032
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Matrix, Platform

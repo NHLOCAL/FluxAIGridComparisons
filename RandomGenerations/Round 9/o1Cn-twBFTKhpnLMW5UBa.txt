@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a vibrant rainbow arching across the sky, overlaid with a silhouette of an individual standing on a cliff's edge. The person should have their arms outstretched, embodying a sense of eagerness and wonder. The background could showcase a breathtaking landscape, with lush green hills and a serene lake reflecting the colorful sky. The lighting should be soft and warm, suggesting the golden hour, highlighting the vibrant colors of the rainbow and enhancing the silhouette's details. The overall composition should evoke a feeling of hope and expectation, created through the interplay of the natural elements and the figure's stance. Capture this scene in a dreamy, ethereal style, celebrating the beauty of both nature and human emotion.
+Seed: 247473119
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rainbow, Anticipation

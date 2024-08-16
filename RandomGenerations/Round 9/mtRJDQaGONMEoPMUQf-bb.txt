@@ -1,0 +1,4 @@
+Prompt: A close-up portrait of an old weathered man with deep-set wrinkles and a solemn expression, gazing directly into the camera. His gray hair is long and unkempt, partially covering his weather-beaten face. Sunlight filters through a nearby window, casting soft shadows across his features, illuminating the lines of his life story. The background is a blurred interior of a rustic, dimly-lit room filled with vintage objects and muted colors, enhancing the sense of nostalgia and history. The photograph captures a moment of introspection, highlighting the man's eyes which reflect a wealth of experiences and stories untold. The overall composition conveys a sense of depth, realism, and raw humanity, inviting the viewer to ponder the man's life journey.
+Seed: 1401127113
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Augmented reality, Failure

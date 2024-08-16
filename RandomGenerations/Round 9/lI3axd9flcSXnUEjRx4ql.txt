@@ -1,0 +1,4 @@
+Prompt: Create a photograph of an abandoned house engulfed in overgrown vegetation, with ivy and wildflowers creeping up the faded, peeling walls. The sky is overcast, casting a soft, gray light over the scene, reinforcing a feeling of stillness. In the foreground, an old, rusty swing set sways slightly, indicating a haunting memory of laughter that once filled the air. The glass windows are cracked, reflecting the surrounding greenery, while the wooden door stands ajar, creating a sense of mystery. The color palette is muted, with earthy tones of green, brown, and gray dominating the composition. The overall atmosphere feels nostalgic and eerie, inviting the viewer to ponder the story behind the abandoned structure. Ultra-high detail, photorealistic style, sharp focus.
+Seed: 1713556250
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Magnitude, Metal

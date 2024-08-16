@@ -1,0 +1,4 @@
+Prompt: A photograph capturing the contrasting elements of a serene landscape and a turbulent sky. The foreground features a calm lake bordered by lush green trees, their reflections perfectly mirrored in the still water. In stark contrast, the sky above is filled with dark, swirling storm clouds, illuminated by flashes of lightning. The light from the storm casts dramatic shadows across the landscape, adding depth and tension to the scene. In the corner of the image, a solitary figure of a person stands on the shore, facing away and appearing small against the magnificent backdrop. This juxtaposition of tranquility and chaos creates a powerful sense of duplicity within the composition, showcasing the beauty and fury of nature. Photorealistic style, high resolution, vibrant colors, dramatic lighting.
+Seed: 4143899752
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Miracle, Reward

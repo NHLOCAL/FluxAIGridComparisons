@@ -1,0 +1,4 @@
+Prompt: Create an image of a dual-faced clock with one side showing an elegant, ornate design, representing beauty and grace, while the other side appears worn and cracked, symbolizing neglect and decay. The clock's hands should be at midnight, casting sharp shadows that intersect across the face. The background should be a dimly lit room with tattered wallpaper and scattered antique furniture, enhancing the sense of time standing still. Soft, warm light should emanate from a vintage lamp on a side table, contrasting with the deep shadows that envelop the room, creating a mysterious and evocative atmosphere. The overall composition should convey a sense of fleeting moments and the passage of time, emphasizing the duplicity of life's experiences.
+Seed: 1389050356
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Partner, Winsome

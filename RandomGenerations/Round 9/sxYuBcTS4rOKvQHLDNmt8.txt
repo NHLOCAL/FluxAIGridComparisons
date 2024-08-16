@@ -1,0 +1,4 @@
+Prompt: Please provide specific details about the subject you would like in the image, the background, the desired art style, lighting preferences, and any other elements you'd like to include in the prompt.
+Seed: 1670212084
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Winsome, Trend

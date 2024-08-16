@@ -1,0 +1,8 @@
+Prompt: Create an artistic illustration depicting the concept of feminine beauty and duality represented by a majestic tree. The tree's trunk should be split into two halves, one side adorned with blooming flowers in vibrant hues of pink and lavender, symbolizing growth and life, and the other side bare and twisted, showcasing the starkness of decay and resilience. 
+
+At the base of the tree, a serene pool of water reflects the tree’s dual nature, creating a symmetrical image of life and death. Surrounding the scene, the background showcases a gradient sky transitioning from a bright daylight scene on one side to a dark, starry night on the other, enhancing the theme of duality. 
+
+The illustration should feature intricate details, with soft, diffused lighting illuminating the flowers and casting sharp shadows on the twisted branches. The artistic style should lean towards surrealism, emphasizing the enchantment of the natural world while highlighting the concept of creation through the juxtaposition of beauty and decay. The overall composition should evoke a sense of wonder while inviting contemplation of both aspects of existence.
+Seed: 3321813172
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tree, Creation

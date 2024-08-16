@@ -1,0 +1,4 @@
+Prompt: Create a stunning photo of a lone, weathered tree standing on a rocky cliff overlooking a turbulent sea. The sky is painted with dark storm clouds, with streaks of lightning illuminating the scene. Waves crash against the rocks below, sending sprays of water into the air, and a strong wind bends the branches of the tree. In the foreground, scattered pebbles reflect the violent colors of the sky above. The overall composition should capture the raw power of nature, with dramatic contrasts between the dark clouds and the bright flashes of light, creating a sense of isolation and resilience.
+Seed: 4243492858
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alien, Taiga

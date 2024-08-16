@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that blends a chaotic, war-torn cityscape with a serene, orderly garden filled with symmetrical geometric shapes and vibrant flowers. The cityscape should feature crumbling buildings, scattered debris, and dark smoke rising into a stormy sky. In contrast, the garden should be bathed in soft, natural light, showcasing meticulous hedges, colorful blooms, and perfectly aligned pathways. The fusion of these two scenes should create a harmonious yet striking visual representation of destruction and order, with the cityscape dissolving into the peaceful garden, emphasizing the stark difference between chaos and tranquility. The overall color palette should display a balance of dark, muted tones for the city and bright, vibrant colors for the garden, further highlighting the juxtaposition.
+Seed: 2051445077
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Destruction, Order

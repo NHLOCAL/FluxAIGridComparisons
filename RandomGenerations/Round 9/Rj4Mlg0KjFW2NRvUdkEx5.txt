@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a human silhouette, seamlessly blended with a cosmic landscape representing antimatter. The outline of the person should be filled with vibrant colors of swirling galaxies, nebulae, and shimmering stars, showcasing a sense of movement and transformation. Inside the silhouette, intricate details of atomic structures and particle colliders represent the concept of change on a subatomic level. The background should be a dark starry sky, enhancing the contrast with the bright cosmic colors. The lighting should focus on glowing elements within the silhouette, giving it an ethereal, luminous quality. The overall composition should merge the human and cosmic elements harmoniously, symbolizing the interplay between personal transformation and the vast universe.
+Seed: 3756696301
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Change, Antimatter

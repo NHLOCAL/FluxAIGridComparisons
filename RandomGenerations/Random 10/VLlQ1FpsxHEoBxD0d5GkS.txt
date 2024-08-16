@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a group of three muscular men without shirts, each engaged in different everyday tasks in a sunny park setting. The first man, with short brown hair, is grilling burgers on a barbecue, showing off defined abs and a focused expression. The second man, with long wavy blonde hair, is practicing yoga on a colorful mat, with his body in a challenging pose, surrounded by vibrant greenery. The third man, who has tattoos on his arms, is playing frisbee with a golden retriever, capturing a moment of joy and energy. The background features lush trees, a clear blue sky, and a few fluffy clouds. The lighting is warm and inviting, casting soft shadows that enhance the scene's lively atmosphere. The style is realistic and detailed, emphasizing the strength and activity of the men while creating an inviting outdoor environment.
+Seed: 3025484097
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wizard, Fair

@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a breathtaking sci-fi/fantasy landscape featuring a vast, alien terrain under a vibrant, swirling nebula sky. The ground should be composed of iridescent crystal formations and shimmering, colorful flora that glow softly in the low light. Towering rock structures rise from the ground, illuminated by beams of intense laser light cutting through the atmosphere, creating dramatic shadows and highlights across the landscape. The illumination should vary in color, including bright blues, greens, and pinks, reflecting off the crystals and creating a magical atmosphere. A distant futuristic city can be seen on the horizon, with sleek, metallic buildings and floating vehicles navigating the sky. The overall composition should evoke a sense of wonder and adventure, inviting viewers to explore this otherworldly realm.
+Seed: 447870695
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Laser, Illumination

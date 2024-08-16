@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a mirrored landscape featuring a serene lake at dawn. The left side depicts a tranquil scene with a vibrant sunrise casting warm, golden hues over the water, surrounded by lush greenery and blooming flowers, creating an atmosphere of peace. The right side, however, reveals a stark contrast with dark storm clouds overhead, lightning strikes illuminating a barren wasteland, with twisted, gnarled trees and a desolate shoreline. The reflections in the lake should seamlessly blend both sides, enhancing the sense of duplicity between tranquility and chaos. The overall composition captures the dual nature of beauty and turmoil, inviting the viewer to reflect on the coexistence of these contrasting elements.
+Seed: 1573627881
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awe, Stillness

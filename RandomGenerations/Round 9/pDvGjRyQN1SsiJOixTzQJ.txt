@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a small child standing in a grassy field under a gloomy sky, holding a faded red balloon. The child, wearing a tattered yellow raincoat and muddy boots, looks up at the sky with wide, innocent eyes. The surrounding landscape should consist of tall, swaying grass and patches of wildflowers, with a hint of rain in the air. The lighting is soft and diffused, emphasizing the somber mood, with dark gray clouds swirling overhead. In the background, a solitary tree stands, its branches reaching out as if trying to shield the child from the impending storm. The overall color palette is muted, accentuating the child's vulnerability and the weight of the moment. The photograph captures the tension between hope and despair through its detailed elements and poignant scene.
+Seed: 3707686134
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intuition, Shape

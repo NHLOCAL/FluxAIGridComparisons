@@ -1,0 +1,4 @@
+Prompt: Create a dramatic illustration of a dimly-lit warehouse scene representing duplicity in love. The foreground features two couples standing back-to-back, highlighting contrasting emotions on their faces. One couple appears joyful and united, while the other shows tension and distress. The warehouse is filled with vintage crates and scattered boxes, casting long, eerie shadows across the concrete floor. In the background, shafts of cold blue light filter through broken windows, adding to the atmosphere of complexity and hidden truths. The overall composition is rich in texture and detail, with a gritty, urban art style that emphasizes the dichotomy of love's promises and betrayals. Use chiaroscuro lighting to deepen the sense of mystery and emotional weight.
+Seed: 3850331718
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Commitment, Warehouse

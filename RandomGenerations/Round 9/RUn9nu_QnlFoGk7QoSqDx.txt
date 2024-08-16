@@ -1,0 +1,4 @@
+Prompt: Craft an image featuring a solitary white chess piece, a queen, standing atop a delicate glass pedestal. The background should be a blurred abstract of a chessboard, half dark and half light, symbolizing the dichotomy in the game of chess. The lighting should be dramatic, with sharp contrasts illuminating the queen, casting long shadows that hint at an unseen opponent. The glass pedestal should create intricate reflections of the queen and the chessboard, suggesting layers of complexity. The overall composition should evoke a sense of tension and strategy, capturing the essence of duplicity within a seemingly simple scene. Ultra-high definition, hyper-realistic, and masterfully detailed.
+Seed: 1137119301
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Impediment, Affection

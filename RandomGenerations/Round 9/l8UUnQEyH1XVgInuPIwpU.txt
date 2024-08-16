@@ -1,0 +1,4 @@
+Prompt: Create a portrait of a stunning, ethereal woman representing feminine beauty and duality. She has one side illuminated with soft golden light, showcasing delicate features, flowing hair, and a serene expression, while the other side is in shadow, revealing a more mysterious and intense gaze. The background transitions from a tranquil landscape filled with blooming flowers on the light side to a darker, abstract setting with swirling shadows on the other. Utilize a painterly style that combines realism with impressionistic elements, highlighting the contrast between light and dark. The lighting is dramatic, emphasizing the dual nature of the subject and inviting the viewer to explore the interplay of influence and perception. The angle is slightly tilted, adding a sense of movement to the composition, making it feel dynamic and alive.
+Seed: 3098124570
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Influence, Glance

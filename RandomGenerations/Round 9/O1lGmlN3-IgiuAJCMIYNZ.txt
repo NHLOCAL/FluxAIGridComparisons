@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a cracked mirror reflecting a distorted human face half in shadow and half in bright light. The side in shadow shows a frowning expression with tear streaks, while the illuminated side displays a calm and serene smile, conveying duplicity and conflict. The background is softly blurred to emphasize the mirror and the face, with hints of a dimly lit room on one side and a bright, sunny landscape on the other. The lighting should create strong contrasts, enhancing the emotional tension of the scene. Focus on capturing intricate details in the cracks of the mirror and the texture of the skin, creating a visually striking image that invites contemplation.
+Seed: 1714702693
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Allegiance, Norm

@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of a split landscape, where one half depicts a serene, sunlit countryside with vibrant wildflowers and a clear blue sky, while the other half reveals a dark, stormy cityscape shrouded in ominous clouds and illuminated by streaks of lightning. In the center, a reflective river flows, perfectly mirroring both sides, enhancing the contrast between tranquility and chaos. The lighting transitions from warm, inviting tones on the countryside side to dark, dramatic hues in the city, creating a powerful visual dichotomy. The overall composition emphasizes the theme of duplicity, showcasing the coexistence of peace and turmoil.
+Seed: 3314628393
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Melancholy, Perception

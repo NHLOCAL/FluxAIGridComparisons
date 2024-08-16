@@ -1,0 +1,4 @@
+Prompt: Create an image of a futuristic landscape where a large, floating presentation platform hovers above a lush valley. The platform, made of sleek, metallic surfaces, is illuminated with vibrant neon lights, casting colorful reflections onto the surrounding foliage. Below, the valley is filled with diverse alien flora, featuring bioluminescent plants that glow in shades of blue and green. The sky is a surreal gradient of purples and oranges, with two large moons visible, adding to the otherworldly atmosphere. The scene is set during twilight, with dramatic lighting that emphasizes the contrast between the platform and the vibrant landscape. The angle is slightly elevated, allowing a full view of the platform and its surroundings. Hyper-detailed, cinematic quality, with a focus on the fusion of sci-fi and fantasy elements.
+Seed: 2799418133
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Presentation, Platform

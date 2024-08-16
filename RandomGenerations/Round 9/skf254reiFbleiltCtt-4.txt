@@ -1,0 +1,4 @@
+Prompt: A shadowy alley at night, illuminated by a single flickering streetlamp casting an eerie glow. The pavement is wet from recent rain, reflecting scattered shards of light. In the foreground, a figure in a dark trench coat stands with their back turned, holding a crimson umbrella, partially shrouded in mist. The figure's silhouette is ambiguous, hinting at both vulnerability and secrecy. On the opposite side of the alley, another figure is visible, lurking in the shadows, eyes glimmering with a menacing intent. The contrast of light and dark enhances the sense of duplicity in the scene, suggesting hidden motives at play. The overall atmosphere is tense, filled with anticipation, inviting the viewer to question the relationship between the two figures and the mystery of the dimly lit alley., photography, cinematic, high contrast, dramatic lighting, hyper-realistic.
+Seed: 3546600124
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Confusion, Flirting

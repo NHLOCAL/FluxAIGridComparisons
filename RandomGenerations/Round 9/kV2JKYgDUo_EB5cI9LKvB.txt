@@ -1,0 +1,4 @@
+Prompt: A striking photograph of a large, reflective puddle in an urban setting after a rainstorm. The image captures a bustling city street, with lively pedestrian activity and colorful storefronts. The reflection in the puddle mirrors the scene above, but a few silhouettes of people appear distorted and elongated, creating a sense of duplicity. The original scene is bright and vibrant, while the reflection displays an eerie, muted color palette and warped elements, emphasizing the contrast between reality and perception. The composition is shot from a low angle, with droplets of water glistening in the foreground, enhancing the sense of immersion and inviting contemplation of the duality of experiences and perspectives in urban life. The lighting is soft and diffused, contributing to a captivating atmosphere that intrigues and evokes curiosity.
+Seed: 3756956454
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Evolution, Scream

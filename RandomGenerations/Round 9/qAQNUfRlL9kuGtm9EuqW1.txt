@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a cracked mirror reflecting a serene landscape on one side and a chaotic stormy scene on the other. The serene landscape should feature a calm lake surrounded by lush greenery under a soft, golden light, while the stormy scene shows dark, swirling clouds, heavy rain, and lightning striking a barren landscape. The cracks in the mirror should add a sense of fragmentation and duplicity, creating a stark contrast between tranquility and chaos. The overall composition should evoke a feeling of tension and duality, with sharp focus on the details in both reflections and subdued lighting emphasizing the mood.
+Seed: 4279099268
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adoration, Support

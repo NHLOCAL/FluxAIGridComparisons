@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary, weathered tree on a desolate hillside during sunset. The tree should have gnarled branches and leaves rustling softly in the wind. The sky is painted with vibrant hues of orange, pink, and purple, melding seamlessly as the sun dips below the horizon. Rolling hills stretch into the distance, creating a sense of depth. In the foreground, delicate wildflowers bloom in a patch of rich green grass, contrasting with the warm colors of the setting sun. Soft, golden light casts long shadows, enhancing the details of the tree's bark and the gentle movement of the leaves. The overall composition invites contemplation and connection with nature, showcasing resilience and beauty in solitude.
+Seed: 743295266
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mage, Dam

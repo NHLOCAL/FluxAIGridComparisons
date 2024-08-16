@@ -1,0 +1,4 @@
+Prompt: Create a photograph-inspired image of a surreal, sci-fi landscape featuring towering crystalline structures that shimmer with iridescent colors under a vibrant purple sky. In the foreground, a reflective lake mirrors the ethereal scene, with small, luminescent life forms floating just beneath the water's surface. The landscape is dotted with unusual, bioluminescent flora that emit a soft glow. Wispy clouds swirl above, catching shades of turquoise and magenta in the light of two distant suns. Authenticity is conveyed through intricate details: sharp angles of the crystals, subtle ripples in the water, and the faint refracted light creating a sense of depth and realism in this otherworldly environment. The overall atmosphere feels immersive and imaginative, combining elements of fantasy and advanced technology while maintaining a grounded sense of authenticity.
+Seed: 2233423592
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Outcome, Authenticity

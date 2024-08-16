@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a dual-faced mask divided down the center. One half of the mask is a serene, smiling face painted in soft pastel colors, while the other half is a menacing, frowning face detailed with dark, jagged lines and a palette of deep blues and blacks. The mask is set against a stark white background, enhancing the contrast between the two halves. Lighting should be dramatic, casting sharp shadows that emphasize the mask's intricate details, such as fine textures and embellishments. Reflections beneath the mask subtly show distorted imagery of joy and despair, further highlighting the theme of duplicity. The scene should evoke a sense of curiosity about the hidden complexities of emotions.
+Seed: 2404675371
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Image, Injustice

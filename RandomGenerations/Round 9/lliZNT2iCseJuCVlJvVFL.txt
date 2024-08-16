@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a small, weathered teddy bear sitting alone on a park bench. The teddy bear's fur is matted and faded, showing signs of years of affection. The background features a soft-focus view of autumn leaves falling gently to the ground, with warm golden light filtering through the trees. A light sprinkle of rain creates glistening droplets on the bench, and a shallow puddle reflects the scene. The composition captures a sense of nostalgia and solitude, emphasizing the contrast between the bear's vibrant childhood memories and its current, abandoned state. The overall mood should evoke feelings of wistfulness and tenderness, with a color palette of muted earth tones and golden highlights.
+Seed: 1255797345
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gratitude, Slowness

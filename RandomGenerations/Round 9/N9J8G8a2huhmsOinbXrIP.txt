@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that blends a serene Taiga forest with a whimsical, colorful scene of a vibrant carnival. The Taiga should feature tall, slender pine trees dusted with snow, their green needles contrasting with the white background. The carnival overlay includes bright, swirling lights, cheerful decorations, and colorful tents, bringing a sense of joy and excitement. The lighting in the Taiga should be soft and diffused, evoking a peaceful winter atmosphere, while the carnival's lights are vivid and energetic, creating a dynamic contrast. The overall composition should artfully merge the tranquility of nature with the liveliness of a festive celebration, showcasing the beauty of both worlds in a harmonious and visually captivating manner.
+Seed: 3706321500
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Taiga, Delightful

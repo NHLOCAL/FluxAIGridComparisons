@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph capturing a person standing in front of a large, ornate mirror. The individual, a young woman with shoulder-length wavy hair, is gazing intently at her reflection. The environment around her is a softly lit, elegant room with vintage decor, featuring warm lanterns casting a gentle glow. The woman is dressed in a flowing white dress, adding to the tranquil atmosphere. In her reflection, instead of a traditional image, depict a striking and ethereal version of herself, with vibrant colors and mystical elements that hint at her inner thoughts and aspirations. The background should be softly blurred, focusing attention on the woman and her reflection, while rays of light subtly highlight the mirror's frame, creating a sense of depth and intrigue. The image should convey a contemplative and introspective moment.
+Seed: 64107566
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mosque, Capability

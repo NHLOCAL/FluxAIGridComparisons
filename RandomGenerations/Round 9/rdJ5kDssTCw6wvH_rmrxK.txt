@@ -1,0 +1,6 @@
+Prompt: Create an image that depicts a vibrant Havana street scene at night. The foreground should feature a classic vintage car, in bright turquoise, parked beside a cobblestone street. The car's chrome details gleam under the warm glow of street lamps. In the background, colorful colonial-style buildings with ornate balconies and brightly painted facades create a lively atmosphere, their windows glowing with yellow and orange light. 
+
+Include locals dancing salsa in the street, dressed in vibrant traditional clothing, capturing the lively spirit of the night. Tropical palm trees sway gently in the warm breeze, and the night sky is adorned with twinkling stars. The overall color palette should be rich and saturated, emphasizing the blues, pinks, and yellows that reflect the essence of Havana nightlife. Use a cinematic art style to evoke a sense of lively celebration and cultural richness.
+Seed: 2886075084
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Command, Gulf

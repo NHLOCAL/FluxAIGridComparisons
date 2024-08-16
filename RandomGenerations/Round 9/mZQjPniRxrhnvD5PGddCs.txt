@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a climber ascending a steep, rugged mountain, symbolizing the concept of 'Approach.' The climber should be depicted mid-ascent, with intricate details highlighting their determination and focus. Overlay the climber with a translucent image of a wise, ancient figure guiding them, representing 'Mastery.' This figure should have a serene expression, dressed in flowing robes, blending seamlessly into the rock face. The background should showcase a breathtaking sunset sky, casting warm hues of orange and purple across the scene. The light should softly illuminate both the climber and the guiding figure, enhancing their silhouettes and creating a harmonious fusion of two distinct elements. The overall composition should convey a sense of aspiration and enlightenment.
+Seed: 1572502102
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Approach, Mastery

@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph capturing a person standing in front of a vintage, ornate mirror. The figure, a middle-aged individual, gazes contemplatively at their reflection, which depicts their younger self in a casual outfit, appearing vibrant and full of potential. The background is a softly lit, cozy room with warm wooden tones and subtle decorative elements that evoke nostalgia. Natural light from a nearby window casts gentle shadows, creating a serene atmosphere. The composition emphasizes the contrast between the two selves, highlighting the lines of experience on the older individual’s face and the youthful glow of their younger self. An array of framed photos and mementos adorns the wall, hinting at a lifetime of memories. The overall mood is introspective and reflective, encouraging a sense of connection between the past and present.
+Seed: 2112817986
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Skill, Trail

@@ -1,0 +1,4 @@
+Prompt: Create a cinematic illustration depicting the concept of duality through a split scene in a bustling shop. On one side, showcase a vibrant, well-lit marketplace filled with colorful goods, cheerful shoppers, and lively interactions. The atmosphere is bright, featuring warm lighting that highlights the various items for sale. On the opposite side, portray a dark, shadowy corner of the same shop, shrouded in mystery and dim lighting, with ominous objects and a sense of foreboding. The contrast between the lively market and the eerie shadows underscores the theme of duality. The background should blend seamlessly between the two contrasting environments, emphasizing the coexistence of light and dark. The overall composition should evoke a sense of intrigue, inviting the viewer to explore both aspects of the scene.
+Seed: 1619354682
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cinema, Shop

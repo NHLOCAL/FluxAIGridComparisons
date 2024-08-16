@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a weathered park bench in a quiet, serene park during autumn. The leaves around him have turned vibrant shades of red, orange, and yellow, carpeting the ground in a picturesque scene. The man has deep wrinkles, a somber expression, and his hands are clasped in his lap. Soft, golden sunlight filters through the trees, casting dappled shadows on his face and the bench, creating a warm yet melancholic atmosphere. The background is softly blurred to draw focus to the man, with hints of falling leaves and distant children playing, enhancing the scene's bittersweet feel. This image should capture a moment of stillness and reflection, inviting viewers to contemplate life's fleeting nature.
+Seed: 928004753
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Era, Guidance

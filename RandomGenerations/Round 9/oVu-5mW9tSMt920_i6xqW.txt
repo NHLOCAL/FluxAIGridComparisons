@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining a serene wetland landscape with lush green vegetation and tranquil water. The wetland should feature vibrant foliage, graceful reeds swaying gently in the breeze, and a variety of birds in flight. Overlay this with an illustration of a human silhouette meditating, arms extended in a peaceful pose, seamlessly blended into the wetland scene. The background should capture a soft sunrise casting warm, golden light across the landscape, enhancing the harmony of the scene. The composition should emphasize the connection between nature and humanity, with a smooth transition between the two images, creating an ethereal and tranquil atmosphere. The overall color palette should focus on greens, blues, and soft yellows, evoking a sense of calm and balance.
+Seed: 876381248
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wetland, Harmony

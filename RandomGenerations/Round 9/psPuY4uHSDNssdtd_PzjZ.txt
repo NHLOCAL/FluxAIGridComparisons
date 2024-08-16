@@ -1,0 +1,6 @@
+Prompt: Create a vibrant and atmospheric scene set in Havana, Cuba, during a warm summer night. The foreground features a lively street filled with colorful colonial buildings, their faded facades illuminated by warm, inviting streetlights. Vintage cars in bright hues of pink, yellow, and blue are parked along the curb, reflecting the city's rich history. People of different ages and backgrounds are gathered, engaged in lively conversations, dancing, and enjoying live music from a nearby band, with instruments like guitars and percussion. 
+
+Above, the night sky is filled with a blanket of twinkling stars, while the glow of the moon casts soft shadows on the cobblestone streets. Lush tropical plants and palm trees line the street, adding a sense of serene beauty and warmth. The overall tone of the artwork captures the vibrant energy and romantic charm of Havana nights in a painterly, illustrative style with strong contrasts and vivid colors, evoking a sense of joy and celebration.
+Seed: 3260587258
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spice, Emblem

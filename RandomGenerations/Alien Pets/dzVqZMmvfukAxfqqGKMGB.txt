@@ -1,0 +1,8 @@
+Prompt: Create an imaginative scene depicting a small, whimsical alien pet with a round, fluffy body covered in vibrant, multicolored fur, resembling a cross between a pomeranian and a jellyfish. Its eyes are large and luminous, glowing with shades of blue and green. This alien pet has six gelatinous appendages that sway gently, leaving a trail of sparkles in the air. 
+
+The background is an extraterrestrial garden filled with peculiar, bioluminescent plants, casting a surreal glow. The vegetation features otherworldly flowers with long, twisting stems and petals that change colors. The sky above is a swirling tapestry of purples, pinks, and blues, dotted with two large moons, emphasizing the alien nature of the environment.
+
+The lighting should be soft and ethereal, enhancing the dreamlike quality of the scene. The pet is playfully interacting with a floating, glowing orb that emits tiny starlights. The overall composition captures the essence of enchantment and wonder in a whimsical extraterrestrial habitat, merging elements of surrealism and fantasy art styles.
+Seed: 3656053222
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mage, Power

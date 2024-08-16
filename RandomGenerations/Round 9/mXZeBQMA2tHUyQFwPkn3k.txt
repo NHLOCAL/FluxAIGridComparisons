@@ -1,0 +1,4 @@
+Prompt: A striking photograph of a cracked and weathered mirror lying on a forest floor, reflecting two distinct scenes. One side of the mirror shows a vibrant, sunlit glade with blooming wildflowers and delicate butterflies fluttering about, while the other side reflects a dark, shadowy part of the forest, cloaked in mist with twisted branches and lurking shadows. The surrounding area is filled with fallen leaves and damp earth, creating a sense of dampness and decay. Soft, diffused lighting illuminates the scenes, enhancing the contrast between light and darkness. The overall composition invites the viewer to ponder the duality of beauty and desolation, evoking a sense of mystery and introspection.
+Seed: 4172905546
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monochrome, Path

@@ -1,0 +1,8 @@
+Prompt: Create a breathtaking photograph of a sci-fi/fantasy landscape featuring a vast alien terrain under a vibrant, multicolored sky. The landscape is characterized by towering crystal formations that shimmer with iridescent hues, casting reflections on a tranquil, mirror-like lake in the foreground. Strange, luminescent vegetation surrounds the water's edge, glowing softly in shades of blue and green. 
+
+In the distance, majestic mountains rise, their peaks enshrouded in swirling mist and glowing nebula-like clouds. The horizon showcases two large moons casting a silvery light across the scene, adding to the dreamlike atmosphere. 
+
+The overall composition should be balanced, with a focus on the interplay of light and shadow created by the celestial bodies and alien flora, enhancing the allure and mystique of this otherworldly environment. The photograph should be captured from a low angle, emphasizing the height of the crystal formations, and conveying a sense of grandeur and wonder.
+Seed: 3365919925
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scene, Alluring

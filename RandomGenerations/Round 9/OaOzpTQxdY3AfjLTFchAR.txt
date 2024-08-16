@@ -1,0 +1,4 @@
+Prompt: A striking portrait of a feminine figure embodying duality. One half of her face displays classical beauty with soft, delicate features, smooth skin, and flowing hair adorned with delicate blossoms. The other half reveals a scary, haunting visage, featuring sharp angles, dark shadows, and eerie, luminous eyes that pierce through the darkness. The background transitions from a serene, pastel gradient on the beauty side to a dark, stormy landscape with jagged silhouettes and swirling mist on the scary side. The lighting is chiaroscuro, enhancing the contrast between the two halves. The art style is a blend of realism and surrealism, capturing the complex relationship between beauty and fear, inviting the viewer to explore themes of transformation and identity.
+Seed: 2575005302
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Generation, Scary

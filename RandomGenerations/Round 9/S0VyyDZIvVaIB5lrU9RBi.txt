@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph showcasing two identical mirrors positioned facing each other, creating an infinite reflection of themselves. The mirrors are framed in ornate, baroque-style gold that gives a sense of grandeur and elegance. In the center of the image, a single, delicate white lily rests on the floor, its reflection multiplying endlessly in the mirrors. Soft, ethereal lighting falls from above, casting a gentle glow that creates intricate shadows around the scene. The background fades into a soft, blurred gradient of pastel colors, enhancing the feeling of depth and intrigue. The composition invites the viewer to contemplate themes of identity and perception, encapsulated in a serene yet complex visual narrative.
+Seed: 705684084
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cryogenics, Euphoria

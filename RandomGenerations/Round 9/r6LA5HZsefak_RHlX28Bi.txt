@@ -1,0 +1,4 @@
+Prompt: A captivating photograph depicting a split scene of a cityscape. On one side, a vibrant urban environment teeming with life, featuring cheerful people walking, colorful storefronts, and bright daylight. On the other side, a stark contrast reveals a dimly lit alley, showcasing shadows, discarded objects, and solitary figures cloaked in darkness. The dividing line is sharply defined, creating a visual representation of duplicity. The lighting enhances the vibrancy of the sunny side while casting deep shadows on the darker side, emphasizing the emotional disparity. The photograph encapsulates the duality of urban life, blending both joy and despair in a single frame.
+Seed: 2079021241
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yesterday, Observatory

@@ -1,0 +1,4 @@
+Prompt: Create an image of a group of muscular men performing various everyday tasks in an urban setting. One man is grilling on a balcony, showcasing his toned physique, with a vibrant city skyline in the background. Another man is carrying grocery bags filled with fresh produce, his muscles prominently displayed in the afternoon sun. A third man is watering plants in a community garden, surrounded by lush greenery, while a fourth man is playing with a dog in a nearby park. The scene is bathed in warm, golden hour lighting, creating a lively and inviting atmosphere. The overall composition captures the essence of everyday life, celebrating strength and masculinity, with a focus on vibrant colors and dynamic poses. Style: realistic, cinematic, photo.
+Seed: 1512408829
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Seer, Seer

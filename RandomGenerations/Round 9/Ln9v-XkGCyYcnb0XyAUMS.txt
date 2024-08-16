@@ -1,0 +1,8 @@
+Prompt: Create an image of a medieval fashion show taking place in a grand stone castle hall. The scene should feature a diverse group of models showcasing an array of lavish medieval garments, including flowing gowns adorned with intricate embroidery, detailed bodices, and ornate capes. Include men in stylish doublets and breeches, all set under glowing chandeliers that create warm, dramatic lighting.
+
+The catwalk should be made of polished wood, surrounded by captivated noble spectators dressed in period attire, expressing admiration and intrigue. The background should feature tall windows with stained glass, casting colored light patterns onto the stone walls. The atmosphere should feel opulent, with touches of velvet and silk textures visible in the clothing. 
+
+Focus on the details of the fabrics, accessories like jeweled collars and belts, and the models’ confident poses. The image should encapsulate the allure and glamour of medieval fashion, highlighting the artistry and craftsmanship of the garments while emphasizing the rich ambiance of the setting. High detail, illustration style.
+Seed: 2575467080
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tower, Vision

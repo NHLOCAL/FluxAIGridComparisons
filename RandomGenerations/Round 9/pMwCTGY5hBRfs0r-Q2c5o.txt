@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary bench under a large, gnarled willow tree, located beside a tranquil lake at dusk. The bench is weathered, with peeling paint and slight cracks, indicating years of use. Soft ripples on the water's surface reflect the warm hues of the setting sun, which casts a gentle golden light across the scene. The willow's long, flowing branches sway slightly in the breeze, creating a sense of movement amidst the stillness. A few scattered autumn leaves float on the lake, enhancing the feeling of transition and change. The overall composition has a muted color palette, with soft shadows and delicate highlights, inviting contemplation and connection with nature. The image captures a sense of solitude and peacefulness, emphasizing the beauty of quiet moments.
+Seed: 1509260906
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Insect, Gravity

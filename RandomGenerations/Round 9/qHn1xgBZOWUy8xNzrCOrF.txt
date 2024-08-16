@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution photograph depicting a beautifully ornate masquerade mask, delicately placed on an intricately designed baroque table. The mask, featuring intricate lace patterns, vibrant red and gold colors, and shimmering rhinestones, casts a captivating reflection in a nearby vintage mirror. The background is dimly lit with scattered candlelight, creating mysterious shadows and enhancing the atmosphere of secrecy. In the foreground, a single red rose lies beside the mask, its petals slightly wilted, symbolizing the juxtaposition of beauty and decay. The overall composition features a rich color palette with deep reds, golds, and soft candlelight, creating an intriguing, elegant, and enigmatic scene. The depth of field is shallow, drawing focus to the mask and rose while softly blurring the background, enhancing the sense of intimacy and intrigue.
+Seed: 1593622752
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vampire, Borough

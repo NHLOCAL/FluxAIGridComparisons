@@ -1,0 +1,6 @@
+Prompt: Create a striking photograph of a vintage, cracked mirror reflecting two separate scenes. On one side of the mirror, show an elegant ballroom filled with people in lavish attire, dancing under shimmering chandeliers with warm golden light illuminating the joy and celebration. On the other side, depict a stark, empty alleyway darkened by shadows, with scattered debris and graffiti on the walls, representing abandonment and desolation. 
+
+The mirror's surface should display noticeable wear and imperfections, enhancing the contrast between the two worlds. Harsh, directional lighting from above highlights the reflections, bringing depth to the characters and emphasizing the whimsical nature of the ballroom against the gritty reality of the alley. The overall composition should create a visual tension between the two scenes, suggesting themes of duplicity and contrasting experiences. High resolution, detailed photography with an emphasis on clarity and texture.
+Seed: 3346410388
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Moment, Institute

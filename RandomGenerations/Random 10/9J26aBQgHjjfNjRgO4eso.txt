@@ -1,0 +1,4 @@
+Prompt: A vibrant illustration of two muscular men without shirts performing everyday tasks. One man is chopping vegetables in a sunny kitchen with colorful fruits scattered around, showcasing his well-defined arms and a focused expression. The other man is lifting weights in a home gym filled with various exercise equipment, displaying a determined stance and glistening skin. The background of the kitchen features bright, natural light streaming through the windows, while the gym is accented with motivational posters and dynamic lighting. Both scenes radiate energy and vitality, with an emphasis on realism, healthy living, and the beauty of the male form, captured in a detailed and engaging art style.
+Seed: 1527986189
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Standard, Millennium

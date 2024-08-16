@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a contemplative adult standing in front of a tall, ornate mirror. In the reflection, the viewer can see the person's younger self, approximately 10 years old, gazing back with wide eyes. The adult, dressed in casual attire, appears pensive, with their hand resting thoughtfully on the mirror frame. The background is a softly lit room with warm tones, filled with personal memorabilia such as photographs and mementos that evoke nostalgia. The mirror's glass has a slight antique finish, adding character to the scene. The lighting is warm and gentle, creating a serene atmosphere that emphasizes the introspective moment. The photograph captures the contrast between the adult's more matured features and the child's innocent expression, inviting the viewer to reflect on the passage of time and personal growth.
+Seed: 2538818821
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Self, Hearing

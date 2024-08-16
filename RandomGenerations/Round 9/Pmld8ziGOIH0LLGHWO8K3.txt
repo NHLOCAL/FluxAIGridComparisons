@@ -1,0 +1,4 @@
+Prompt: Create a close-up photograph of a single, vibrant red rose with dew drops on its petals, set against a blurred, dark green backdrop. The petals should be rich in texture, with delicate velvety details visible. The lighting should be soft and diffused, creating gentle highlights on the petals while casting subtle shadows. The composition should emphasize the rose's striking beauty and intricate details, inviting the viewer to appreciate its elegance. The background should be out of focus, ensuring the flower remains the focal point of the image, with an overall serene and contemplative atmosphere.
+Seed: 3089958529
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mastery, Division

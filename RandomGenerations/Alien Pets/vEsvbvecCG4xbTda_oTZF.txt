@@ -1,0 +1,6 @@
+Prompt: Create an illustration of the strangest and most unique alien pets imaginable. The foreground features three distinct pets: a fluffy, translucent creature resembling a cross between a jellyfish and a chinchilla, with bioluminescent fur that changes colors; a small, spiky, dragon-like creature with oversized, expressive eyes, sitting atop a levitating skateboard; and a miniaturized, four-legged robot designed to look like a cross between a cat and a robotic tarantula, with multiple glowing limbs and a playful demeanor. 
+
+The background is a vibrant alien landscape filled with bizarre flora, such as towering, twisting plants with light-emitting flowers and floating rock formations in the sky. The atmosphere is slightly surreal, showcasing a sky of swirling purple and teal hues with two colorful suns setting in the distance. The lighting is ethereal, with soft glows around the pets emphasizing their features, while shadows create a dramatic effect on the landscape. The overall tone is whimsical and fantastical, capturing the essence of an extraordinary extraterrestrial world.
+Seed: 2423612607
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Firewall, Phantom

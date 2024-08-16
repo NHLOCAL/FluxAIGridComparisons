@@ -1,0 +1,4 @@
+Prompt: A striking photograph of a half-masked figure standing in an urban alleyway at dusk. The figure wears an intricate, ornate mask that obscures half of their face, with detailed patterns in gold and silver that reflect the fading light. The other half of the face is visible, revealing a contemplative expression with soft features highlighted by the ambient light of an old street lamp. The alley is dimly lit, with wet cobblestones reflecting the light, and graffiti-covered brick walls adding a gritty texture to the scene. In the background, shadows of passersby suggest a bustling city, creating a contrast between solitude and the vibrancy of life. The sky transitions from vibrant orange to deep indigo, enhancing the feeling of twilight and mystery. This composition invites the viewer to ponder the duality of identity and the emotions hidden behind the mask.
+Seed: 2940258441
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spring, Conscious

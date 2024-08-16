@@ -1,0 +1,6 @@
+Prompt: Create an image of a stunning feminine figure embodying the concept of duality. The figure should be divided down the middle, with one side representing light and harmony and the other side depicting dark beauty. The light side features soft, flowing garments in pastel colors, with delicate floral patterns and gentle golden illumination. The dark side showcases contrasting elements, with sleek black attire adorned with silver embellishments, highlighted by an ethereal glow. 
+
+The background is a serene landscape that transitions from a bright, vibrant garden filled with blooming flowers to a mysterious, shadowy forest with twisted trees. The lighting should emphasize the contrast between the two sides, creating a striking visual through sharp highlights on one side and deep shadows on the other. Capture the pose of the figure in a graceful stance, with one hand reaching towards the viewer while the other is elegantly posed. This high-detailed illustration should combine elements of realism and fantasy, showcasing the beauty of duality.
+Seed: 1946965996
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Harmony, Handsome

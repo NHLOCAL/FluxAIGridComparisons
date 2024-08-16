@@ -1,0 +1,4 @@
+Prompt: Create an illustration of three unique alien pets in a surreal extraterrestrial environment. The first pet is a small, fluffy creature resembling a cross between a rabbit and a jellyfish, its translucent body glowing with neon colors and trailing bioluminescent tendrils. The second pet is a tiny, dragon-like creature with glittering scales and butterfly wings, hovering playfully in the air with an array of iridescent colors. The third pet resembles a multi-eyed, slithering blob with flexible, soft appendages, gently wrapping around a glowing orb that serves as its home. The background features a vibrant alien landscape with whimsical flora, unusual rock formations, and swirling, dreamy skies painted in hues of pink, blue, and violet. The lighting is bright and colorful, enhancing the whimsical and fantastical atmosphere of this otherworldly scene.
+Seed: 1623227933
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opal, Scary

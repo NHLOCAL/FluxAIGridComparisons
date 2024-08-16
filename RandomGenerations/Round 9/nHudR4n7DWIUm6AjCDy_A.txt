@@ -1,0 +1,6 @@
+Prompt: Create a dynamic scene of a medieval fashion show set in an expansive, grand hall with towering stone walls and arched windows. The runway is made of polished wood, and the audience is filled with nobles dressed in elaborate attire, showcasing their wealth and status. The models are adorned in opulent garments made from luxurious materials such as velvet, silk, and brocade, featuring rich colors like deep reds, golds, and emerald greens. Intricate embroidery and lavish accessories, including crowns and jewelry, enhance their regal appearance. 
+
+The lighting is warm and soft, emanating from elaborate chandeliers hanging from the ceiling, casting gentle glows on the fabric. Each model walks confidently down the runway, capturing the attention of captivated onlookers. The backdrop features banners and tapestries depicting medieval motifs, adding to the ambiance. The angle is slightly elevated to provide a sweeping view of both the runway and the audience, emphasizing the grandeur of the event. The scene is rich in detail, combining historical accuracy with a sense of high fashion and theatricality.
+Seed: 1494436167
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pointer, Narrative

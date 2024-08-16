@@ -1,0 +1,4 @@
+Prompt: Create an image that represents the theme of duality. The composition features two intertwined trees, one blooming with vibrant flowers and bright green leaves, while the other is barren and twisting, showcasing dark, gnarled branches and fallen leaves. The background should depict a split landscape, merging a sunny meadow on one side and a stormy, overcast sky on the other. The lighting transitions from warm golden tones on the vibrant side to cool grays and blues on the dark side. The angle of the shot captures the trees' union at the center, emphasizing the contrast between life and decay. The artistic style should blend elements of realism and impressionism, with intricate details on both trees, highlighting their unique characteristics.
+Seed: 1932853865
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Splendid, Union

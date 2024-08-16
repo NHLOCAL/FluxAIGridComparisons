@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing at the edge of a cliff, overlooking a turbulent ocean below. The figure is dressed in a flowing white gown that billows in the wind, contrasting sharply against the dark, stormy sky. The ocean waves crash violently against the rocks, creating a dramatic and chaotic scene. The lighting is a mix of deep blues and grays, with flashes of lightning illuminating the sky. The person gazes out at the water, their face partially obscured by their long hair, creating an air of mystery and introspection. The backdrop features jagged cliffs and ominous clouds, enhancing the sense of danger and uncertainty in the scene. The overall composition captures the tension between tranquility and chaos, evoking a complex atmosphere of duplicity.
+Seed: 662522091
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Identity, Village

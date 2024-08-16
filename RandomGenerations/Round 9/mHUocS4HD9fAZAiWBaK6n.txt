@@ -1,0 +1,6 @@
+Prompt: Create a double exposure image featuring a majestic mountain landscape seamlessly blended with the silhouette of a human figure standing in admiration. The mountain range should rise dramatically in the background, with snow-capped peaks and lush green valleys. The figure, positioned centrally, is looking up towards the mountains, with their arms outstretched as if embracing the view. 
+
+The human silhouette should have intricate details, such as clothing flowing in the wind and hair gently lifted, harmonizing with the natural environment. The colors of the landscape should be vibrant, capturing the blues of the sky, greens of the forest, and whites of the snow, while the silhouette blends softly into the stunning scenery, creating a sense of connection with nature. The lighting should be soft, with golden hour tones illuminating the scene, enhancing the beauty of the composition. The overall image should evoke a sense of awe and wonder, emphasizing the grandeur of nature and human appreciation of it, rendered in a high-resolution, hyper-realistic style.
+Seed: 444679090
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Concept, Admiration

@@ -1,0 +1,4 @@
+Prompt: Create an illustration of an unusual alien pet—a bioluminescent jellyfish-like creature with translucent, swirling tentacles that glimmer in shades of blue and purple. The pet has a round, expressive face with large, luminous eyes that emit a soft glow, reflecting its curious nature. It floats gracefully above a vibrant alien landscape filled with oversized, colorful mushrooms and crystalline structures, illuminated by a golden sunset. The background features two moons casting a gentle light over the scene, creating a surreal and whimsical atmosphere. The overall art style should be vibrant and imaginative, with an emphasis on details that highlight the unique anatomy of the alien creature and the fantastical environment, evoking a sense of wonder and otherworldliness.
+Seed: 1964781379
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ruin, Splendid

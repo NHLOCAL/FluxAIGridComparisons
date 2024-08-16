@@ -1,0 +1,4 @@
+Prompt: A vibrant scene depicting a bustling medieval fashion show set in a grand castle courtyard. Models showcase intricate garments featuring lavish fabrics like silk and velvet, adorned with ornate embroidery and feathered accessories. The main runway is bordered by colorful banners and flickering torches, casting warm light across the scene. In the background, an audience of nobles in elegant attire eagerly applauds, with expressions of curiosity and admiration. The setting is bathed in a golden sunset, creating a magical ambiance. Soft shadows and rich color contrasts emphasize the luxurious details of the outfits. The angle captures both the runway and the audience, immersing the viewer in the grandeur of medieval fashion. Intricate craftsmanship and rich textures are highlighted, portraying a sense of opulence and glamour typical of medieval aristocracy.
+Seed: 18411157
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hope, Amulet

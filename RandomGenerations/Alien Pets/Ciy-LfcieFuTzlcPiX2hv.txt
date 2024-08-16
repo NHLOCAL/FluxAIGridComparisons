@@ -1,0 +1,8 @@
+Prompt: Create an image of an otherworldly alien pet, a fluffy, iridescent creature resembling a cross between a rabbit and a jellyfish. Its body is semi-transparent, with a glowing, pulsating core at its center that emits a soft teal light. The creature has long, flowing tendrils instead of ears, which drift gracefully in the air. 
+
+The background features a vibrant alien landscape, filled with bioluminescent plants and strange rock formations in shades of purple and blue, under a swirling pink and orange sky. Other quirky alien animals can be seen in the distance, such as a small floating sphere with tiny wings and cute eyes. 
+
+The lighting is ambient, highlighting the shimmering surface of the creature and giving it a magical, ethereal feel. The angle focuses on a close-up of the pet, allowing the viewer to appreciate its unique features and the surreal environment around it. Rendered in an ultra-detailed, vibrant art style akin to modern science fiction illustrations.
+Seed: 3340752915
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Twin flame, Cyberspace

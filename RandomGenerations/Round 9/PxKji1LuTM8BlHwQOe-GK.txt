@@ -1,0 +1,8 @@
+Prompt: Create a visually striking image representing the concept of duality through the character of Ruby Tip. Ruby is portrayed as a dual-natured figure, with one side embodying fire and passion, featuring vibrant red skin, flames licking from her hair, and glowing ember-like eyes. The other side contrasts with cool shades of blue, representing calmness and serenity, with icy blue skin, flowing hair resembling water, and soothing crystal-like eyes. 
+
+The background is split down the middle: one half showcases a chaotic inferno landscape filled with swirling flames and molten lava, while the other half features a tranquil ice landscape with snowflakes gently falling and serene frozen lakes. 
+
+The lighting should enhance the contrast between the two opposing sides, with warm, fiery lighting on Ruby's fiery side and a soft, cool glow on her serene side. The angle should focus on a close-up, capturing the intricate details of both sides of her face and attire, combining elements of fantasy and realism, rendered in rich colors and sharp details to illustrate the concept of duality vividly.
+Seed: 346204929
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ruby, Tip

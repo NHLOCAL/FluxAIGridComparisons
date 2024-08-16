@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an old, weathered tree standing alone in a vast, open field during sunset. The tree’s gnarled branches reach toward the colorful sky, where vibrant oranges, pinks, and purples blend together as the sun sets on the horizon. The ground surrounding the tree is parched and cracked, hinting at the passage of time and struggles faced. In the foreground, a single, delicate flower with vibrant yellow petals blooms from the cracked earth. The lighting casts soft, golden hues across the scene, creating a dramatic contrast between the resilience of the flower and the desolation of its surroundings. The overall composition evokes a sense of solitude and endurance in the face of adversity, capturing the beauty of nature’s persistence.
+Seed: 2757052956
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Division, Advice

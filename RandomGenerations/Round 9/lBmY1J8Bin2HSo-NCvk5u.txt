@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that combines a serene landscape of a misty forest with a bustling cityscape. The misty forest should blend seamlessly into the silhouette of the city, creating a juxtaposition between nature and urban life. The forest can have tall, ancient trees shrouded in fog, with soft sunlight filtering through the branches, while the city features sleek skyscrapers and bright neon lights. The colors of the forest should be deep greens and earthy browns, while the city brings in vibrant blues and yellows. The overall composition should convey a sense of harmony between the two contrasting environments, enhancing the theme of interconnectedness between outcomes and events. Use a high detail, photorealistic style with sharp clarity, emphasizing the textures of both the forest and city elements.
+Seed: 2548738204
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Outcome, Event

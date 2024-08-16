@@ -1,0 +1,6 @@
+Prompt: Create an illustration of a surreal alien pet adoption scene set on a vibrant, otherworldly planet. In the foreground, depict a variety of strange and unique extraterrestrial creatures. One pet resembles a fluffy, floating jellyfish with luminescent tendrils, while another appears as a small, multi-colored, feathered creature that changes shape and size, playfully hopping around. A third pet, a small, gelatinous creature with eyes on stalks, bounces inquisitively, leaving a trail of sparkling bioluminescence behind.
+
+The background features a fantastical alien landscape, filled with bizarre flora: towering plants with swirling, iridescent leaves, and trees that seem to glow from within. The sky is painted in breathtaking shades of purple and green, with multiple moons visible above. An eclectic mix of alien pet owners, humanoid and indistinct, interact with the pets, showcasing various expressions of joy and wonder. Playful lighting enhances the magical atmosphere, emphasizing the vibrant colors and surreal qualities of the scene, while maintaining sharp details throughout the illustration. The overall style should feel whimsical and imaginative, inviting viewers into this captivating alien world.
+Seed: 3605409060
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mission, Faithfulness

@@ -1,0 +1,4 @@
+Prompt: Create a close-up photograph of a weathered, antique clock with intricate, ornate details. The clock's hands are frozen at 3:15, surrounded by dust and cobwebs, indicating years of neglect. Soft, warm, golden light filters through a nearby window, casting gentle shadows and highlighting the clock's patina. The background is softly blurred, featuring hints of an abandoned, cluttered room filled with forgotten relics. The overall composition emphasizes the passage of time, creating a sense of nostalgia and reflection on the fleeting nature of life.
+Seed: 1905809374
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Praise, Demon

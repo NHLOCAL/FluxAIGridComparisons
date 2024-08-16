@@ -1,0 +1,8 @@
+Prompt: Create a captivating digital illustration showcasing the concept of feminine beauty and duality. The central figure is a graceful woman with flowing hair that transitions seamlessly into vibrant flowers on one side and cosmic starlight on the other. She holds a radiant gift, glowing softly in her hands, symbolizing enlightenment. 
+
+The background features a split landscape: on one side, a serene, sun-drenched meadow filled with blooming flowers and butterflies; on the other side, a celestial night sky with swirling galaxies and bright stars. The lighting should be soft and ethereal, highlighting the woman's features and the intricate details of the scenes around her. The color palette incorporates warm hues for the meadow and cool, deep tones for the cosmic side, emphasizing the contrast between the two elements. 
+
+This artwork should blend elements of realism and fantasy, capturing the harmonious relationship between nature and the universe while embodying a sense of peace and wonder.
+Seed: 4241778913
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Enlightenment

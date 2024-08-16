@@ -1,0 +1,4 @@
+Prompt: Create a vivid and dynamic scene featuring a group of athletically toned men without shirts engaged in various everyday tasks around an urban environment. One man is seen jogging along a sunlit park path, his muscular physique outlined by the warm morning light. Another is doing push-ups on a sandy beach, with the waves gently lapping at the shore in the background. A third man is washing a car, water glistening on his skin as he smiles, with colorful graffiti art on the wall behind him. The scene is filled with vibrant colors and bright, playful lighting, capturing the energy of a sunny day. Emphasize realistic details in the men's bodies and facial expressions, the textures of their surroundings, and the lively atmosphere of the urban setting. Photorealistic style, high detail, cinematic quality.
+Seed: 2692970313
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Brown, Flame

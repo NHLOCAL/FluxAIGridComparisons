@@ -1,0 +1,6 @@
+Prompt: Create an imaginative illustration of a bizarre alien pet collection. The first pet is a fuzzy, floating creature resembling a cross between a jellyfish and a kitten, with bright neon tentacles that emit a soft, pulsating glow. Next to it, depict a small, round alien lizard with iridescent scales that change colors based on its environment, sitting on a shimmering crystal perch. The third pet is a peculiar, furry creature that looks like a blend of a rabbit and a bird, complete with feathery wings and oversized ears, playfully bouncing around. 
+
+The background should be a vibrant, alien landscape filled with strange flora and bioluminescent plants that illuminate the scene with a multitude of colors. The lighting should be bright and playful, enhancing the surreal and whimsical atmosphere. The angle can be slightly above eye-level to capture the collection of pets in their fantastical environment, showcasing their unique characteristics and interactions. The overall style should reflect a blend of cartoonish and surreal artistry, emphasizing the uniqueness of each alien pet.
+Seed: 805864380
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Journey, Chance

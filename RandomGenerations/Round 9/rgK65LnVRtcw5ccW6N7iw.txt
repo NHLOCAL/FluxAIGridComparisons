@@ -1,0 +1,4 @@
+Prompt: Create a cinematic illustration of a secluded garden at twilight, filled with lush, vibrant flowers in full bloom. In the center, depict a stunningly detailed scene of two individuals, a man and a woman, leaning toward each other amidst the foliage. Their faces are just inches apart, conveying a sense of intimacy, with soft, warm light illuminating their features. The background is layered with deep green leaves and hanging vines, adding depth to the scene. The sky above transitions from deep blue to a rich purple, dotted with twinkling stars. A gentle breeze rustles the leaves, enhancing the serenity of the moment. The overall composition is rich in detail with an emphasis on texture and color, creating an enchanting atmosphere.
+Seed: 2128598941
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Academy, Expedition

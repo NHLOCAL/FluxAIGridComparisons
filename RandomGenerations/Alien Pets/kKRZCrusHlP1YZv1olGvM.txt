@@ -1,0 +1,6 @@
+Prompt: Create an illustration of a collection of unique and strange alien pets gathered in a vibrant, surreal environment. In the center, depict a fluffy creature resembling a cross between a cat and a jellyfish, its translucent tentacles glowing softly with bioluminescence. To the left, include a compact, chameleon-like creature with iridescent scales that change color based on its surroundings, perched on a floating mushroom. On the right, present a small, dog-like creature with oversized eyes, long floppy ears, and feathers cascading from its back, interacting playfully with a hovering orb of light. 
+
+The background should feature an otherworldly landscape filled with colorful, oversized flora, such as spiraling plants and gigantic flowers. The sky is a vivid mix of purple and green, with two moons in the distance. Soft, ethereal lighting illuminates the scene, creating a magical atmosphere. The overall composition should focus on the whimsical and fantastic nature of these alien pets, showcasing their interactions in a captivating extraterrestrial setting.
+Seed: 2271897453
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spirit, Barrier

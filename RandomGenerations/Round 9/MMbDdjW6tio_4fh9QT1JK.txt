@@ -1,0 +1,4 @@
+Prompt: Create a photograph capturing a fantastical landscape where towering crystalline structures rise majestically from a lush, vibrant valley. The foreground features iridescent plants with shimmering leaves and bioluminescent flowers, illuminating the scene with a soft, enchanting glow. In the distance, a bubbling waterfall cascades over shimmering stones, creating a mist that hangs in the air. The sky is filled with swirling galaxies and distant constellations, casting a mystical light over the entire scene. Include a subtle, winding path leading towards a mysterious, ancient portal nestled among the rocks, inviting exploration. The overall color palette should include deep purples, bright greens, and hints of blue, creating a dreamlike, otherworldly atmosphere. Emphasize sharp details and intricate textures to enhance the sense of wonder.
+Seed: 1056470152
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hearing, Enticing

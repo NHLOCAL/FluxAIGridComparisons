@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a thrilling scene of extraterrestrial beings performing daredevil stunts. The aliens should have quirky, vibrant appearances with exaggerated features such as large eyes, multi-colored skin, and intricate patterns. Set against a futuristic city skyline, with towering neon structures and spaceships flying above. The lighting should be bright and colorful, with pulsating neon hues reflecting off the surfaces. The angle should capture the action from below, showcasing the aliens mid-air as they execute flips, spins, and other acrobatics on hoverboards, jet packs, and fantastical vehicles. Add dynamic motion trails to emphasize their speed and excitement, creating an exhilarating atmosphere full of energy and ambition. The overall style should be vivid, cartoonish, and highly detailed, combining elements of science fiction and adventure.
+Seed: 327711128
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stars, Soul

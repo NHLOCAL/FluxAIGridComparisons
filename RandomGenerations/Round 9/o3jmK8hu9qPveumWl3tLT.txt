@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary vintage mirror placed against a weathered brick wall. The mirror's surface reflects a vibrant city skyline at dusk, with stunning hues of oranges, purples, and blues blending in the sky. However, the mirror's frame is adorned with intricate, dark, twisted vines, suggesting decay and neglect. In the foreground, scattered fallen leaves rest on the cobblestone ground, further emphasizing the contrast between beauty and abandonment. The lighting should have a warm glow illuminating the mirror while casting deep shadows around the edges, creating a sense of depth and intrigue. The overall composition invites the viewer to ponder the juxtaposition of reflection and reality, evoking a feeling of duplicity and contemplation.
+Seed: 1633466360
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enticing, Difficulty

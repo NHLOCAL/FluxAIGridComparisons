@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vibrant street scene in Havana at night. The image should feature classic, colorful vintage cars parked along the cobblestone streets, illuminated by warm, yellow streetlights. In the foreground, depict a couple dancing to live salsa music, their colorful attire flowing as they move with energy. The background should include colonial-style buildings with wrought-iron balconies, adorned with tropical plants and flickering candlelight. The sky is a deep navy blue, scattered with stars, creating a romantic ambiance. The overall style should be painterly, capturing the essence of nightlife in Havana with bold colors and lively details, evoking a sense of celebration and culture. Include subtle hints of palm trees swaying in the gentle night breeze.
+Seed: 683005754
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silver, Reality

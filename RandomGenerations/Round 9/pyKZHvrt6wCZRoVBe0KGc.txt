@@ -1,0 +1,4 @@
+Prompt: Please provide me with a specific subject, setting, style, or any other details you would like for the image prompt.
+Seed: 2324994862
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Surprise, Glacier

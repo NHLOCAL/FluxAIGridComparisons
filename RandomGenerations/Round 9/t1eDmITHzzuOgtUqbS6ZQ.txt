@@ -1,0 +1,4 @@
+Prompt: A breathtaking sci-fi/fantasy landscape featuring a vast, otherworldly expanse under a vibrant, swirling sky filled with glowing nebulae and distant stars. In the foreground, an ancient stone altar adorned with intricate carvings stands atop a rocky outcrop, surrounded by luminous flora that emit a soft, ethereal glow. A shimmering river flows from the altar, reflecting the colors of the sky above. The background features towering, jagged mountains that pierce the heavens, cloaked in mist, while bioluminescent creatures flutter around the scene, enhancing the mystical atmosphere. The overall composition creates a sense of wonder and adventure, inviting the viewer into a realm where tales of offering and discovery unfold. The scene is rich in color and detail, evoking a cinematic and surreal quality.
+Seed: 262983607
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Offering, Tale

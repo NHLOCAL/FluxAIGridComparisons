@@ -1,0 +1,8 @@
+Prompt: Create a stunning sci-fi/fantasy landscape photograph depicting a grand Academy set on a floating island high above a vibrant, nebula-filled sky. The Academy should feature towering spires made of shimmering crystal-like material, adorned with glowing runes that pulsate with energy. Surrounding the Academy, numerous smaller islands hover, each connected by delicate bridges woven from light.
+
+The foreground should display lush greenery with exotic plants and colorful flowers that emit a soft luminescence. A serene waterfall cascades from the edge of the island into a cloudless abyss below, creating a mist that refracts the ambient light.
+
+The scene should be illuminated by warm, golden light, suggesting the blessing of a setting sun, casting long shadows and creating a magical glow around the Academy. The angle of the photograph should be slightly elevated, capturing both the grandeur of the Academy and the breathtaking expanse of the sky filled with swirling colors and distant stars. Emphasize the ethereal and whimsical elements to evoke a sense of wonder and exploration.
+Seed: 3722408919
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Academy, Blessing

@@ -1,0 +1,4 @@
+Prompt: Create a captivating image depicting duality and symmetry through the artistic representation of two intertwining tree trunks, their bark showcasing intricate patterns that mirror each other. One trunk is lush with vibrant green leaves, while the other is stark and bare, its branches reaching upwards like fingers towards a soft, pastel-hued sky at dawn. The background features a serene landscape, with a gently rippling lake reflecting the trees and the sky, enhancing the sense of tranquility. The lighting should be warm and inviting, casting a golden glow over the scene, while shadows reveal the delicate textures of the trees. The overall composition should evoke a feeling of balance and harmony, emphasizing the themes of tenderness and contrast. Illustrative style, high detail, cinematic quality.
+Seed: 3179305165
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Symmetry, Tenderness

@@ -1,0 +1,4 @@
+Prompt: Please provide specific details or elements you would like to see in the photograph, such as the subject, setting, style, or any particular themes you have in mind. This will help create a detailed image generation prompt for Flux AI.
+Seed: 1909517104
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hologram, Storm

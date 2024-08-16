@@ -1,0 +1,6 @@
+Prompt: Create an action-packed illustration showcasing a group of eccentric extraterrestrial beings performing daredevil stunts. The scene is set in a futuristic urban landscape, with towering skyscrapers and neon lights illuminating the background. Each extraterrestrial possesses unique, bizarre features: one has elongated limbs and vibrant green skin, another sports a vibrant purple exoskeleton with intricate patterns, while a third has multiple eyes and antennae. 
+
+The stunts include one alien riding a hovering skateboard through a loop-de-loop, surrounded by sparks and colorful trails, while another is caught mid-air, flipping off a tall building with a playful grin. Below, a few aliens cheer and watch with animated expressions, adding a sense of excitement and chaos to the scene. The lighting is bright and dynamic, with multicolored neon accents reflecting in the glass surfaces of the buildings, creating a lively, energetic atmosphere. The overall style is a blend of comic book art and vibrant digital illustration, emphasizing the thrilling and outrageous nature of the stunts.
+Seed: 3578424323
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Venture, Gem

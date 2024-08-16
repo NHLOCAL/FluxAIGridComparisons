@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a split scene depicting two contrasting faces. On the left, a joyful face with a wide smile, bright eyes, and vibrant colors surrounding it, showcasing a sunny day filled with blooming flowers. On the right, a sorrowful face with tears in its eyes, somber colors, and dark clouds looming overhead, suggesting a stormy atmosphere. The division between the two halves should be sharp, highlighted by a jagged line that symbolizes the contrast between happiness and sadness. The overall composition should draw the viewer's attention to the differences in expressions and settings, creating a powerful visual representation of duplicity. High detail, dramatic lighting, and strong contrasts in color and texture.
+Seed: 139673412
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dojo, Gift

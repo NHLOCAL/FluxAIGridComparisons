@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a person standing in front of a large, ornate mirror. The individual, a young adult with long dark hair, gazes intently at their reflection. The mirror's surface shows not only the person but also an ethereal, glowing version of their inner self, depicted as a vibrant silhouette surrounded by soft lights in shades of blue and gold. The inner self radiates a sense of serenity and confidence, contrasting with the person's slightly furrowed brow. The background is a softly lit room, tastefully decorated with plants and warm-toned decor, enhancing the contemplative atmosphere. The lighting focuses on the mirror, creating a gentle spotlight effect that highlights the reflection and draws attention to the powerful moment of self-discovery. Ultra-high resolution, intricate details, cinematic quality.
+Seed: 4118385554
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Morning, Seduction

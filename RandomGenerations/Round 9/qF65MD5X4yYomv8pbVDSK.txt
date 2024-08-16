@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image showcasing a surreal landscape of a majestic mountain range merged with a vibrant forest during autumn. The mountain peaks should be adorned with glistening snow and the forest filled with trees displaying bright shades of red, orange, and yellow leaves. The clouds should be fluffy, swirling gently above, hinting at a magical, enchanting atmosphere. The composition should blend these elements seamlessly, allowing the mountain's contours to shape the forest's outlines. The lighting should be soft and diffused, creating an ethereal glow across both landscapes. The overall image should evoke a sense of wonder and magnificence, capturing the beauty of nature in an extraordinary way.
+Seed: 943630530
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enchanting, Magnificent

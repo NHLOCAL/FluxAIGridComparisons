@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a unique alien pet, a small, fluffy creature resembling a cross between a rabbit and a jellyfish. Its body is covered in iridescent fur that changes color depending on the light, and it has long, translucent tentacles trailing behind it, sparkling like stars. The alien pet's large, expressive eyes are a vivid shade of violet and emit a faint glow. The background features a vibrant alien landscape with towering, bioluminescent plants and a purple sky filled with unusual celestial bodies, such as double moons and swirling galaxies. The overall lighting is soft and ethereal, enhancing the magical atmosphere of this otherworldly scene. The art style should be whimsical and colorful, blending elements of fantasy and science fiction, with a focus on intricate details and vivid colors.
+Seed: 4141283033
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Method, Understanding

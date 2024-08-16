@@ -1,0 +1,4 @@
+Prompt: Create an image of a dark, romantic scene featuring two silhouettes of lovers, their bodies intertwined in an embrace against a backdrop of swirling, deep red and black colors. The atmosphere should be charged with intensity, with soft, glowing light illuminating the outline of their figures. The background should feature twisted, shadowy trees that create a sense of enclosure, adding to the feeling of secrecy and forbidden love. The lighting should be dramatic, with sharp contrasts highlighting the curves and details of their forms, evoking a sense of passion and longing. The overall composition should capture an alluring, cinematic aesthetic, with a focus on the interplay between light and dark to enhance the theme of desire.
+Seed: 2490332765
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tomb, Creation

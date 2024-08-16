@@ -1,0 +1,4 @@
+Prompt: Create a vibrant, dynamic scene showcasing a group of eccentric extraterrestrials performing death-defying stunts in a futuristic cityscape. The aliens should have unique and wild appearances, with exaggerated features such as large eyes, multiple limbs, and colorful skin patterns. The stunts include a skateboarder alien soaring off a massive ramp, while another performs a mid-air flip on a hoverbike, and a third dangles from a floating drone. The background should feature towering neon-lit skyscrapers and flying vehicles, under a twilight sky filled with swirling galaxies and stars. The lighting is vivid and high contrast, creating an energetic atmosphere that emphasizes the thrill and excitement of the stunts. The overall style should be a blend of comic book art and animated visual aesthetics, capturing the whimsy and adventurous spirit of the scene.
+Seed: 3270808891
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mall, Lounge

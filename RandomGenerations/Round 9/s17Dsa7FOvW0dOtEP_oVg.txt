@@ -1,0 +1,4 @@
+Prompt: Create an ethereal portrait of a feminine figure representing duality. The subject should exhibit two contrasting personas: one side radiating warmth and happiness with soft golden light, and the other side cloaked in shadow, portraying a spectral presence with cool blue tones. Her hair flows gracefully, transitioning from vibrant, sun-kissed waves on the light side to dark, mysterious tendrils on the shadow side. The background should feature a surreal landscape, blending a bright, sunny horizon with dark, swirling mists. Use soft, diffused lighting to create a dreamlike atmosphere, emphasizing the intricate details of both personas. The overall composition should evoke a sense of balance between light and darkness, showcasing the captivating beauty of duality in a harmonious way.
+Seed: 3469565415
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Happiness, Specter

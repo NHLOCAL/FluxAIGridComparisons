@@ -1,0 +1,4 @@
+Prompt: A dynamic scene showcasing a group of diverse, crazy-looking extraterrestrials performing daredevil stunts in an otherworldly environment. The aliens, featuring vibrant colors, unusual body shapes, and playful designs, engage in thrilling activities such as flying, flipping, and jumping off glowing ledges. The background depicts a surreal alien landscape with towering, bioluminescent plants, floating rocks, and swirling galaxies in the sky. The lighting is bright and colorful, highlighting the energy of their stunts and creating a sense of excitement. The angle captures the action from below, emphasizing the height and momentum of the stunts, immersing the viewer in this exhilarating, fantastical scene. Illustrative art style with high detail and vibrant colors.
+Seed: 1125701216
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Problem, Skill

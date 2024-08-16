@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi fantasy landscape photograph capturing a small, quaint village nestled in a lush valley surrounded by towering, otherworldly mountains. The village is composed of quaint, curved-roof cottages with glowing windows, each embellished with vibrant greenery and bioluminescent plants. A shimmering river meanders through the village, reflecting the pastel hues of an otherworldly sky filled with swirling clouds and streaks of vibrant colors. Tension is depicted in the scene with dark shadowy figures lurking in the background of the village, hinting at a looming threat. The lighting is dramatic, with contrasting highlights that illuminate the village against the darkening sky, creating an enchanting yet foreboding atmosphere. The overall composition invites the viewer into a vibrant, yet mysterious world that balances beauty and danger.
+Seed: 441486055
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tension, Village

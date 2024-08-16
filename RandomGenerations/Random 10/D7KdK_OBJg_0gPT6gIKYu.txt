@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a group of three muscular men without shirts engaged in various everyday tasks. The first man is grilling burgers in a backyard, his chiseled arms flexing as he flips patties on the barbecue. The second man is watering a vibrant garden filled with colorful flowers, a hose in one hand and a cheerful smile on his face. The third man is casually reading a book on a comfortable patio chair, his toned torso illuminated by warm sunlight. The background showcases a bright blue sky with fluffy clouds and lush green trees, creating a relaxed summer vibe. The scene captures the essence of a sunny day spent outdoors, emphasizing the men’s fitness and the joy of simple activities, with vibrant colors and a cheerful atmosphere.
+Seed: 1439217752
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Movement, Breeze

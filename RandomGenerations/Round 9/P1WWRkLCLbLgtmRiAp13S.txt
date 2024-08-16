@@ -1,0 +1,8 @@
+Prompt: Create a striking image that depicts the concept of duality through the contrasting elements of light and dark. In one half of the scene, show a radiant, stormy sky filled with dynamic lightning bolts illuminating a serene memorial surrounded by lush green grass. The memorial should be grand and intricately designed, featuring elegant stone work and surrounded by vibrant flowers. 
+
+In the other half, create a dark, shadowy landscape with swirling clouds and obscured lightning flashes, casting eerie shadows on a decaying, overgrown version of the same memorial. The flowers in this half should wilted and faded, representing neglect and sorrow. 
+
+The split between light and dark should be sharply defined, showcasing the juxtaposition of beauty and decay, hope and despair. The lighting should enhance this contrast: bright and vivid on one side, dim and moody on the other. The overall atmosphere blends realism with a touch of surrealism, inviting contemplation on the nature of existence and memory. High detail, cinematic quality, focusing on both sides of the duality.
+Seed: 3180985481
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lightning, Memorial

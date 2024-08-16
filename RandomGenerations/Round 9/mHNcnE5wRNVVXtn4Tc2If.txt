@@ -1,0 +1,4 @@
+Prompt: Create an enchanting illustration of a feminine figure, elegantly draped in flowing, translucent fabrics that shimmer with iridescent hues. Her long, wavy hair cascades down her shoulders, catching the light in a mesmerizing display of colors. The background should be an ethereal, dreamlike landscape filled with mist and soft, glowing orbs of light, creating a surreal atmosphere. The scene is illuminated by a soft, pastel color palette, with hints of pink, blue, and gold. Capture a sense of movement as the fabric flows around her, enhancing her graceful pose. The angle should be slightly tilted upward, focusing on her entrancing expression and delicate features, while maintaining a sense of mystery. This artwork should blend elements of fantasy and elegance, echoing the themes of beauty and wonder in a mystical, serene setting.
+Seed: 702128341
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Astonishment, Phantom

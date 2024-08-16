@@ -1,0 +1,8 @@
+Prompt: Create a captivating image of a feminine figure representing duality. The woman stands confidently at the center, with one half of her body adorned in vibrant, flowing garments that convey grace and beauty, featuring soft pastel colors and floral patterns. The other half of her body is depicted in darker tones, layered with chaotic textures and sharp angles, symbolizing stress and tension. 
+
+The background is split, with a serene, sunny landscape on one side with blooming flowers and gentle hills, while the other side is a stormy, turbulent scene filled with dark clouds and jagged lightning. The lighting should reflect this duality, with soft, warm glows illuminating the beautiful side, and harsh, cold shadows accentuating the stressed side. 
+
+Use a focus that captures intricacy in details, such as delicate facial features that showcase both peace and turmoil. The overall composition should magnify the contrast between the two sides, emphasizing the theme of duality in a stunning, visual manner. Illustrative style, hyper-detailed, cinematic.
+Seed: 1872945406
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stress, Level

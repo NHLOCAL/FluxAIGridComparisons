@@ -1,0 +1,4 @@
+Prompt: A vibrant and dynamic scene depicting a group of muscular men without shirts engaged in various everyday tasks. One man is grilling burgers on an outdoor barbecue, his toned physique glistening in the sunlight, surrounded by colorful bowls of vegetables and condiments. Another man is lifting weights in a home gym, showcasing impressive biceps and focused determination, with a backdrop of motivational posters and gym equipment. A third man is watering plants in a lush garden, his abs visible as he bends to tend to vibrant flowers, with sunlight filtering through the leaves, creating a warm and inviting atmosphere. The overall composition features bright, natural lighting, emphasizing the men's physique and the vitality of the activities, set against a beautiful outdoor backdrop with greenery and blue skies, capturing the essence of a lively and active lifestyle.
+Seed: 4181453933
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Library, Mass

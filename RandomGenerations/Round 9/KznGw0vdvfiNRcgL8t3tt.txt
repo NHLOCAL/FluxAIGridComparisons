@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an elderly man sitting alone on a weathered park bench in an empty park. The man has deep wrinkles on his face, and his eyes convey a sense of longing and contemplation. He is wearing a thick, worn-out sweater and a flat cap. Surrounding him are fallen autumn leaves, scattered on the ground, with trees in the background showing shades of red, orange, and brown. The lighting is soft and golden, indicating the late afternoon sun, creating long shadows that stretch across the path. The atmosphere is serene yet melancholic, as soft breezes gently rustle the leaves, enhancing the sense of solitude. The focus is on the man's expression and the tranquil yet poignant scene around him, highlighting themes of nostalgia and reflection.
+Seed: 3992269249
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Necromancer, Fragrance

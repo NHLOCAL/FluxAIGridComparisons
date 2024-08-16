@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph featuring a glamorous woman in a stunning evening gown, elegantly posed against an opulent backdrop. Her expression conveys confidence and allure, with a subtle smirk playing on her lips. In stark contrast, her shadow reveals a more somber figure lurking behind, dressed in tattered clothing, looking dejected and lost. The lighting is dramatic, with soft spotlights highlighting the woman, while the shadow remains shrouded in darkness. The background consists of ornate, baroque designs, enhancing the theme of duplicity between wealth and struggle. The sharp details in both figures emphasize the stark differences, creating a powerful visual narrative.
+Seed: 2410536893
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Convent, Library

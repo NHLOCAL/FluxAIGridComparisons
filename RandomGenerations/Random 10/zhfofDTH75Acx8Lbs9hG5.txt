@@ -1,0 +1,6 @@
+Prompt: Create an image of three muscular men without shirts engaged in various everyday tasks in a bright and vibrant kitchen. One man is chopping vegetables at a wooden counter, showcasing his sculpted arms and focus. Another man is stirring a pot on the stove, with steam rising and a cheeky grin on his face. The third man is reaching up to grab a spice jar from a high shelf, emphasizing his lean torso and defined physique. 
+
+The kitchen has a modern aesthetic with colorful decor and ample natural light pouring in from a large window, illuminating the scene. The background features hanging plants and kitchen gadgets, creating a warm and inviting atmosphere. The men are depicted in a dynamic composition, interacting with each other in a lighthearted manner, emphasizing camaraderie among friends. The art style should lean towards photorealism, enhancing the details in their features and the environment.
+Seed: 1960359229
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fire, Magic

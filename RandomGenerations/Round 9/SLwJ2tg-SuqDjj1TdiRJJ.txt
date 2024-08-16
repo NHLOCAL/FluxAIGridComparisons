@@ -1,0 +1,8 @@
+Prompt: Capture a hyper-realistic photograph of a person standing in front of a large, ornate mirror, gazing at their reflection. The individual should be mid-30s, with medium-length dark hair, dressed in a simple, elegant outfit. The mirror's frame is intricately decorated with vintage motifs, adding a sense of depth and history to the scene. 
+
+The background is a softly lit room with warm, inviting colors. The lighting should be ambient, casting gentle highlights and shadows across the person's face, emphasizing their features as they peer intently into the mirror. The reflection should show hints of their inner self, depicted as a subtle overlay of soft, dreamlike colors and abstract forms, hinting at emotions or thoughts. 
+
+The overall composition should create a contemplative atmosphere, inviting viewers to reflect on the themes of self-discovery and introspection. Photorealistic style, high detail, and a focus on the interplay of light and shadow.
+Seed: 1565519261
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Excellence, Nebula

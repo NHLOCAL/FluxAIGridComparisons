@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a group of three studly men without shirts, engaged in everyday tasks. Each man should display a muscular physique and confident posture. The first man is grilling outdoors, showcasing his sculpted arms while flipping burgers on the grill. The second man is washing a car, water glistening on his skin, with a focused expression as he scrubs the vehicle. The third man is lifting weights in a bright, spacious gym, surrounded by gym equipment, with determination etched on his face. The background should be a vibrant summer day with a clear blue sky and lush greenery, adding a lively, cheerful atmosphere. Use warm lighting to enhance the skin tones and create a dynamic, energetic scene, capturing the essence of active and healthy living. Art style should be realistic, with a focus on details and lifelike representation.
+Seed: 2199437721
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Starship, Crystal

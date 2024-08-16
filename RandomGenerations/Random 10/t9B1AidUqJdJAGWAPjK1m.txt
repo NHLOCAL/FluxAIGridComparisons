@@ -1,0 +1,4 @@
+Prompt: Create a vibrant, action-packed scene showcasing a group of colorful extraterrestrial beings performing daredevil stunts in an alien landscape. The aliens should have exaggerated features, like large eyes and unique body shapes, adding to their whimsical appearance. Some are riding rockets, while others are jumping off ramps, executing flips and spins in mid-air. The background should feature a surreal, otherworldly terrain with bizarre rock formations and glowing plants. The sky is a blend of bright colors, creating an energetic atmosphere, with shooting stars and swirling galaxies visible. The scene should have dynamic angles to convey movement, with dramatic lighting highlighting the aliens and their stunts, enhancing the sense of action and excitement. The overall style is cartoonish and colorful, resembling a blend of comic book art and animation.
+Seed: 821103055
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stunning, Glass

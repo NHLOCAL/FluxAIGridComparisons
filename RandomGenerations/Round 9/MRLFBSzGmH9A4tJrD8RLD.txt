@@ -1,0 +1,4 @@
+Prompt: Create an image of a solitary figure standing at the edge of a cliff during twilight, overlooking a vast, turbulent ocean. The figure is partially silhouetted, their posture suggesting contemplation. The sky above is a blend of deep indigo and fiery orange, illustrating the duality of calmness and chaos. Below, the waves crash violently against the rocks, creating a stark contrast to the tranquil colors of the sky. Surrounding the figure are jagged, dark cliffs, emphasizing the isolation and the tension between safety and the abyss. The overall lighting is moody, with soft highlights reflecting off the water, capturing the intricate balance between vulnerability and strength. The scene is intended to provoke contemplation and reflection on the complexities of life, embodying a sense of duality.
+Seed: 3252295893
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shadow, Illusion

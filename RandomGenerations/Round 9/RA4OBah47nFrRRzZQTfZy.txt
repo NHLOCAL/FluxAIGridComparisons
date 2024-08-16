@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a solitary, rusted swing set in an empty playground, surrounded by overgrown grass and wildflowers. The sky is partly cloudy, with sunlight breaking through and casting gentle light on the swing. One swing is slightly swaying as if touched by an unseen force. A faded, colorful ball lies nearby, hinting at forgotten childhood memories. The background features distant, weathered trees, and an old, crumbling fence, emphasizing a sense of abandonment. The light creates a warm yet melancholic ambiance, with soft shadows enhancing the textures of the old metal. The overall scene captures a juxtaposition of loss and the faint promise of renewal.
+Seed: 2077967940
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Failure, Hope

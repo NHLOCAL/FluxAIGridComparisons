@@ -1,0 +1,4 @@
+Prompt: A stunning sci-fi/fantasy landscape depicting a futuristic Governance Clinic nestled among towering, bioluminescent trees. The clinic is designed with sleek glass and metal architecture, illuminated by soft, pulsing lights that change colors intermittently. Surrounding the structure are pathways lined with vibrant, glowing flora and fauna, creating an immersive and inviting ambiance. The sky above is painted in deep purples and blues, dotted with swirling galaxies and distant stars, enhancing the sense of wonder. A gentle mist rolls across the terrain, adding an ethereal quality to the scene. The angle of the photograph captures both the grandeur of the clinic and the enchanting natural elements, emphasizing the harmonious blend of technology and nature in this futuristic setting. High resolution, immersive details, vibrant colors.
+Seed: 2036563422
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Governance, Clinic

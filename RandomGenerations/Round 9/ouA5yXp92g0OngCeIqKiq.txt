@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution photograph of a split image that contrasts two contrasting scenes side by side. On the left, a vibrant and sunny landscape with a blooming flower field under a bright blue sky populated with cheerful butterflies. On the right, a dark, stormy scene featuring twisted, gnarled trees against an overcast sky with rain pouring down. The stark juxtaposition between the warmth of the left side and the cold gloom of the right should create a sense of duplicity. Use dramatic lighting to enhance the differences, with soft, golden sunlight filtering through the flowers on the left and harsh gray clouds casting shadows on the forest on the right. The overall composition should seamlessly blend the two scenes in the middle, creating a captivating visual experience that hints at the complexity of nature.
+Seed: 1766082866
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Iron, Basilisk

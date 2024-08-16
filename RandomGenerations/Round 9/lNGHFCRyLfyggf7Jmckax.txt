@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary, aged tree standing on a windswept hill, its gnarled branches reaching out against a stormy sky. The tree’s bark is rough and weathered, with patches of moss clinging to its surface. Dark clouds loom overhead, casting a dramatic shadow on the ground, while bursts of lightning illuminate the scene. The foreground features scattered dry grass, bending under the force of the wind, and in the distance, mountains shrouded in mist create a sense of depth. The overall atmosphere evokes feelings of resilience and solitude, as the tree stands firm against the relentless storm. The colors are muted, with a focus on deep grays and earthy tones, enhancing the dramatic tension of the scene.
+Seed: 3358066944
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elegant, Hyperdrive

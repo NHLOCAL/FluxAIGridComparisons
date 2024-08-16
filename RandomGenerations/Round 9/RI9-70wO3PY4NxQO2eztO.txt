@@ -1,0 +1,4 @@
+Prompt: A captivating photograph capturing a person standing before a tall, ornate mirror in a softly lit room. The individual, a young woman with long, dark hair, gazes intently at her reflection. The mirror's intricate gold frame adds a touch of elegance to the scene. In the reflection, the woman’s inner self is depicted as a radiant, ethereal version of herself, with flowing light and a serene expression, contrasting with her real-world appearance. The room is minimally furnished, with warm, ambient lighting creating a gentle glow that highlights the details of the mirror and the subtle emotions on the woman’s face. The background is softly blurred, emphasizing the connection between the woman and her reflection, enhancing the surreal and introspective quality of the image.
+Seed: 4101560431
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Generation, Symbol

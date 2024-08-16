@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a vintage mirror standing in an overgrown, abandoned garden. The mirror reflects two contrasting scenes; to the left, a vibrant, sunlit meadow filled with colorful wildflowers and lush greenery, while to the right, a dark, desolate landscape with wilted plants and ominous storm clouds gathering overhead. The mirror frame is intricately detailed, with vines creeping over it, hinting at the passage of time. The lighting is soft and ethereal, with warm glows emanating from the left side of the image and cold shadows cast on the right, accentuating the theme of duplicity. The overall composition captures a striking juxtaposition between beauty and decay, inviting contemplation on the dualities of nature. Ultra-high resolution, cinematic quality.
+Seed: 2316798142
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Resonance, Honor

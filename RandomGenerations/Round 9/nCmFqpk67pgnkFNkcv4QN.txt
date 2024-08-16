@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary old tree standing in the middle of a barren landscape at sunset. The tree's gnarled branches reach outwards, silhouetted against a panorama of vibrant oranges, purples, and dusky blues in the sky. The cracked earth surrounding the tree is parched and desolate, with sparse patches of grass fighting their way through the drought-stricken soil. A lone, weathered bench sits beside the tree, suggesting a place for reflection, while the golden sun sets slowly on the horizon, casting long shadows that emphasize the isolation of the scene. The overall composition should capture the stark beauty of resilience amid decay, with sharp focus on the intricate textures of the tree bark and the horizon, creating a poignant visual experience.
+Seed: 1044295400
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Savanna, Asymmetry

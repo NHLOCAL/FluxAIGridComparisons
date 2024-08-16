@@ -1,0 +1,4 @@
+Prompt: Create an image showcasing the concept of duality through a split scene. On the left half, depict a husband with a joyful expression, dressed in casual clothing, surrounded by bright and uplifting colors, displaying a warm, sunny landscape with blooming flowers and a clear blue sky. On the right half, portray the same husband, but with a scream of anguish on his face, dressed in dark, tattered clothes, set against a stormy background filled with dark clouds and raindrops. The contrasting environments emphasize the emotional dichotomy. The central divider between the two halves should create a stark visual contrast, showcasing vibrant colors against muted, desaturated tones. The art style should resemble surrealism, focusing on exaggerated facial expressions and vivid landscapes, with dramatic lighting highlighting each side's mood.
+Seed: 852706800
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scream, Husband

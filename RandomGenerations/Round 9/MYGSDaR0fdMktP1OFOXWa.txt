@@ -1,0 +1,6 @@
+Prompt: Create an image of a stunning sculpture representing feminine beauty and duality. The sculpture should feature two female figures entwined, each representing contrasting elements such as light and dark, smooth and rough surfaces. One figure should be sculpted with delicate features and flowing lines, embodying grace and lightness in a radiant white stone finish. The other figure should exhibit stronger, angular forms with a textured and darker stone, symbolizing strength and resilience. 
+
+The background should be a deep gray, adding depth and emphasis on the sculptural details. Soft, diffused lighting should illuminate the figures, highlighting their intricate features and textures while creating gentle shadows that enhance the sense of depth. The angle of the shot should be slightly elevated, allowing viewers to appreciate the full elegance of the intertwined figures, and the sculptural piece should be displayed on a minimalist pedestal to focus attention on the artistry.
+Seed: 2891792056
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gray, Sculpture

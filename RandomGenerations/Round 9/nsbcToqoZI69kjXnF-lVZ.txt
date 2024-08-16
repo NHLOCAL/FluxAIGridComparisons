@@ -1,0 +1,8 @@
+Prompt: A dramatic sci-fi/fantasy landscape depicting a fierce battle scene between two opposing forces, the Coalition and an alien race. The foreground features a ruined cityscape, with crumbling buildings and debris scattered across the battlefield. In the center, a heroic figure stands defiantly, clad in futuristic armor, brandishing a glowing weapon, as they face a towering alien creature with jagged features and glowing eyes.
+
+The background showcases a stormy sky, filled with dark, swirling clouds illuminated by streaks of lightning, emphasizing the chaos of the conflict. Hints of advanced technology are visible, such as hovering drones and glowing energy barriers, creating a stark contrast against the ruinous environment. The overall color palette includes deep blues, ominous grays, and bursts of electric colors, instilling a sense of tension and urgency.
+
+Cinematic lighting creates dramatic shadows across the scene, enhancing the contours of the characters and the wreckage around them. The perspective is low-angle, showcasing the magnitude of the battle and the scale of the forces at play. The final composition should capture the essence of defeat tempered with resilience in a futuristic battlefield.
+Seed: 2753866718
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Defeat, Coalition

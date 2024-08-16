@@ -1,0 +1,6 @@
+Prompt: A captivating scene inside a vibrant zoo where two elegantly dressed women embody the theme of duality. On one side, a woman with flowing, bright red hair adorned with exotic flowers; she stands confidently, gazing into the distance with a warm smile. On the opposite side, a woman with sleek, dark hair, dressed in deep blue attire, emanating an air of mystery, with a slight smirk. 
+
+In the background, lush greenery of the zoo is complemented by colorful exhibits showcasing various animals, such as peacocks and exotic birds, symbolizing attraction and beauty. The lighting is soft and warm, creating a harmonious atmosphere that enhances the overall vibrancy of the scene. The angle of the shot captures the juxtaposition of the two women, inviting the viewer to explore the concept of duality in feminine beauty. The style should have a painterly quality, emphasizing the vivid colors and intricate details of the women's outfits and the surrounding nature.
+Seed: 2884086137
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Attraction, Zoo

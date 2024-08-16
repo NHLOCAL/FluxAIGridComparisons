@@ -1,0 +1,4 @@
+Prompt: A striking photograph capturing a beautifully intricate hourglass, with one-half filled with shimmering, golden sand and the other half containing dark, swirling sand particles. The glass is delicately crafted, with fine details and reflections that catch the light, while the sand flows gracefully between the two halves. The background is a soft gradient, transitioning from warm tones of orange and gold to cool shades of blue and gray, creating a contrasting atmosphere. A subtle light source illuminates the hourglass from below, casting intricate shadows that evoke a sense of depth and complexity. The contrasting colors and textures of the sands emphasize themes of time, fate, and the duality of existence in a visually captivating manner. High resolution, ultra-detailed, photography.
+Seed: 1774319426
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Existence, Minotaur

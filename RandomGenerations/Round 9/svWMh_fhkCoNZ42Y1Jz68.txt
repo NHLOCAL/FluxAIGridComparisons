@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a solitary tree standing tall on a windswept hilltop at dawn. The sky is painted with soft hues of orange, pink, and purple as the sun begins to rise on the horizon. The tree’s gnarled branches stretch outward, silhouetted against the vibrant sky. The ground is scattered with delicate wildflowers in shades of blue and yellow, creating a gentle contrast with the rich green grass. A light fog envelops the scene, adding a dreamlike quality. The photograph is captured at a low angle, emphasizing the tree’s grandeur against the expansive sky, creating a sense of solitude and resilience in nature. The overall lighting is soft and ethereal, enhancing the tranquil atmosphere of the moment, inviting viewers to appreciate the beauty of the natural world.
+Seed: 1429781079
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Past, Enthusiasm
