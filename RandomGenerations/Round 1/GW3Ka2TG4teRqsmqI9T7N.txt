@@ -1,0 +1,11 @@
+Prompt: Create an oil painting depicting a surreal courtroom scene. In the center of the room, place a judge, an elderly man with a long white beard and deep-set eyes. He wears traditional black robes and sits behind a massive wooden bench, with ornate carvings of scales and mythical creatures. The judge's gavel is poised in mid-air as if about to strike.
+
+To the left of the judge, position a middle-aged man with disheveled hair and a stern expression. He wears a wrinkled suit and his eyes are narrowed, staring intently at the judge. His hands are clenched into fists resting on the table in front of him, which is covered with scattered papers and an open briefcase.
+
+On the right side of the room, place a young woman in her early twenties with long, flowing hair and a calm demeanor. She wears a simple, elegant dress in soft pastel colors. She stands upright with her hands gently clasped in front of her. Her eyes are wide open and fixed on the judge, reflecting the ambient light.
+
+The courtroom itself is grand, with tall, arched windows allowing streams of sunlight to pour in, casting long shadows and illuminating dust particles in the air. The walls are adorned with dark wood paneling and intricate moldings, giving the room a sense of age and gravitas. In the background, a large, ornate clock is mounted on the wall, its hands frozen at the stroke of midnight.
+
+The style of the painting is hyper-realistic, with meticulous attention to detail in the textures of the clothing, the wood grain of the furniture, and the expressions on the faces of the characters. The overall composition creates a stark contrast between light and shadow, emphasizing the tension and gravity of the moment.
+Seed: 3208014728
+Flux URL: https://fal.run/fal-ai/flux/schnell

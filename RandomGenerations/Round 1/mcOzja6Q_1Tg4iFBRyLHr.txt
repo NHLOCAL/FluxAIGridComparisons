@@ -1,0 +1,11 @@
+Prompt: A surreal oil painting of a vibrant, fantastical forest scene at dawn. In the foreground stands a tall, ancient oak tree with an intricately carved wooden swing hanging from one of its massive branches. The swing is occupied by a young girl of about 8 years old with long, flowing auburn hair. She is wearing a delicate, pastel-colored dress made of soft, translucent fabric that seems to shimmer in the early morning light. Her eyes are wide with wonder, and she is looking up at the sky, which is painted in stunning hues of pink, orange, and gold.
+
+Beside her, slightly to the left, is an elderly man with a long, white beard, dressed in a simple yet elegant robe of deep green and brown, reminiscent of forest foliage. He is holding a wooden staff adorned with small, glowing crystals. His eyes are twinkling as he watches the girl, conveying a sense of pride and reverence for the beauty around them.
+
+The background is a dense forest with towering trees, their leaves a mix of emerald green and autumnal shades of red, orange, and yellow. The forest floor is covered in a thick carpet of moss and dotted with vibrant, bioluminescent flowers that emit a soft, ethereal glow. Rays of golden sunlight filter through the canopy, casting dappled light and creating a magical, almost otherworldly atmosphere.
+
+In the distance, a crystal-clear stream winds its way through the forest, reflecting the colors of the sky and the surrounding foliage. A family of deer stands by the water's edge, drinking and glancing up occasionally, their fur glistening in the dawn light.
+
+The overall style of the painting is highly detailed and richly textured, with a dreamlike quality that blends realism with fantasy. The lighting emphasizes the gentle, early morning glow, enhancing the vivid colors and intricate details of the scene.
+Seed: 3832055116
+Flux URL: https://fal.run/fal-ai/flux/schnell

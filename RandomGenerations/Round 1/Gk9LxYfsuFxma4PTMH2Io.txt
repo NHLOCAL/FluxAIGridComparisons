@@ -1,0 +1,4 @@
+Prompt: An expansive futuristic cityscape at dusk. Towering skyscrapers with neon lights, holographic billboards, and flying vehicles zooming through the sky. In the foreground, a group of people in sleek, high-tech uniforms walk briskly towards the Institute of Advanced Robotics, a massive building with glass walls and glowing blue accents. The city is alive with movement, from the bustling sidewalks to the airborne cars and drones. The lighting is a blend of natural twilight casting long shadows and vibrant artificial lights from the buildings and vehicles. The scene is set under a partially cloudy sky with hints of stars starting to peek through. This image is a highly detailed digital painting with a semi-realistic style, capturing both the grand scale of the futuristic landscape and the intricate details of the Institute and its surroundings.
+Seed: 980962016
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Movement, Institute

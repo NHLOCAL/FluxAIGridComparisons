@@ -1,0 +1,9 @@
+Prompt: Create an oil painting of a futuristic headquarters set in a dense, bioluminescent forest at twilight. The headquarters is a sleek, multi-level structure made of reflective glass and metal, seamlessly integrated with the surrounding trees and foliage. The architecture blends organic curves and sharp angles, with parts of the building appearing to grow out of the forest itself. 
+
+In the foreground, a Chimera—a majestic creature with the body of a lion, the wings of an eagle, and the tail of a serpent—stands proudly on a rocky outcrop, illuminated by the soft glow of bioluminescent plants around it. 
+
+Two individuals, a middle-aged woman and a young teenage boy, are standing near the entrance of the headquarters. The woman has dark, wavy hair pulled back into a sleek ponytail, wearing a high-tech, form-fitting suit with holographic displays on her arms. The boy, with short, messy blond hair and freckles, is dressed in a casual but futuristic outfit with a utility belt and glowing sneakers. 
+
+The lighting is a mix of natural twilight, casting long shadows and a cool, blue hue over the scene, and the warm, artificial lights from the headquarters, creating a stark contrast. The background features towering trees with bioluminescent leaves, casting an ethereal glow that outlines the entire scene. The style of the painting is highly detailed and somewhat surreal, with an emphasis on the interplay between technology and nature.
+Seed: 592486182
+Flux URL: https://fal.run/fal-ai/flux/schnell

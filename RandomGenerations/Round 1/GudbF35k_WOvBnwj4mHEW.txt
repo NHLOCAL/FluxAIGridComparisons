@@ -1,0 +1,7 @@
+Prompt: A mystical forest clearing bathed in the soft, ethereal glow of moonlight. In the center stands an ancient, wise-looking shaman, a woman in her late 60s with long, silver hair braided with feathers and beads. She wears a flowing, earth-toned robe adorned with intricate patterns and symbols, and around her neck, a necklace made of polished stones and crystals. Her outstretched arms hold a staff topped with a glowing crystal, casting a gentle, pulsating light.
+
+Surrounding her are several young adults, aged 20-30, dressed in simple, flowing garments in shades of white and light blue, giving them a celestial appearance. They are positioned in a circle, each holding hands, and their faces are lifted towards the sky, eyes closed in a state of serene concentration. The clearing is surrounded by towering, ancient trees whose leaves shimmer with a faint luminescence, and the ground is covered in soft, mossy grass interspersed with glowing, bioluminescent flowers.
+
+Above, the night sky is clear and filled with a breathtaking array of stars, forming constellations that seem to dance and flicker in harmony with the scene below. The overall atmosphere is one of otherworldly beauty and profound connection, with the interplay of light and shadow creating a sense of timelessness and deep, spiritual resonance.
+Seed: 181579690
+Flux URL: https://fal.run/fal-ai/flux/schnell

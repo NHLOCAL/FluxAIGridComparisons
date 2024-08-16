@@ -1,0 +1,7 @@
+Prompt: Create an oil painting of a grand medieval hall illuminated by soft, golden candlelight. In the center of the hall stands a tall, regal knight in his early 30s, with strong, chiseled features and long, flowing dark hair. He is dressed in ornate silver armor that gleams in the candlelight, with a deep blue cape cascading down his back. Around his neck hangs a large, intricately designed gold medal.
+
+Kneeling before him is a young squire, around 16 years old, with short blonde hair and a humble but determined expression. He is dressed in simple tunic and trousers, with a leather belt and boots. The knight is placing a smaller, yet equally ornate, silver medal around the squire’s neck.
+
+In the background, the walls of the hall are adorned with banners bearing the knight's crest, and a large stained glass window depicts a scene of victory in battle. The floor is made of polished stone, and a long, red carpet leads to the scene in the center. The painting style is highly detailed and realistic, capturing the intricate designs of the armor, the textures of the fabrics, and the play of light and shadow in the room.
+Seed: 73252443
+Flux URL: https://fal.run/fal-ai/flux/schnell

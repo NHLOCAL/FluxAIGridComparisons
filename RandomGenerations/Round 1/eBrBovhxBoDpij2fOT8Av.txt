@@ -1,0 +1,4 @@
+Prompt: "Create a highly detailed oil painting of a futuristic spacecraft partially submerged in a dense, mist-covered swamp. The spacecraft, sleek and metallic with glowing blue lights, appears to be a hybrid of advanced technology and organic elements, featuring vines and bioluminescent fungi growing on its surface. The swamp is dark and mysterious, with large gnarled trees draped in Spanish moss, their twisted roots partially submerged in murky water. The scene is illuminated by both the soft, eerie light of a full moon casting long shadows, and the ethereal glow emanating from the fungi and the spacecraft. No people are present, adding to the otherworldly and enigmatic atmosphere. The background features distant silhouettes of dense forest and thick fog rolling across still waters, creating a sense of depth and isolation."
+Seed: 2494416025
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spacecraft, Swamp

@@ -1,0 +1,4 @@
+Prompt: A fantastical, futuristic oil painting featuring an ornate, colossal Oracle figure made of gleaming, iridescent metal, seated on a floating crystal throne. The Oracle overlooks a sprawling, bioluminescent forest that glows with an ethereal light under a deep indigo sky scattered with sparkling stars and twin moons. At the foreground, two adventurers, one dressed in high-tech armor and the other in shamanistic robes adorned with glowing runes, discover an ancient treasure chest half-buried under luminescent moss. The scene is illuminated by a combination of soft, ambient light from the glowing flora and cascading beams of moonlight. The backdrop showcases a distant, futuristic city embedded into steep, jagged cliffs, with hovering vehicles zipping through the air.
+Seed: 1992530403
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Oracle, Treasure

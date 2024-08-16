@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at night bathed in neon lights, captured as an ultra-realistic digital painting. The scene is dominated by towering skyscrapers adorned with holographic billboards displaying advertisements. In the foreground, a group of people dressed in avant-garde, tech-infused fashion are gathered around a sleek, autonomous vehicle. The sky is dark, but illuminated by the glows of flying drones and floating digital displays. In the background, there’s a monorail gliding smoothly along elevated tracks above the bustling streets below. The lighting is vibrant with sharp contrasts between the bright neon signs and the shadows they cast. The overall style combines elements of sci-fi and cyberpunk, emphasizing the advancement of technology and its integration into everyday life.
+Seed: 420548299
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Portrait, Product

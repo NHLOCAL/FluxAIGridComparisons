@@ -1,0 +1,7 @@
+Prompt: A surreal oil painting depicting a futuristic bar scene. The bar's structure is made of gleaming steel beams and panels, with an industrial, almost cyberpunk aesthetic. The bartender is an elegant android with polished chrome skin and glowing blue eyes, dressed in a sleek, black tuxedo with an illuminated bow tie. Behind the bar, shelves lined with various metallic and glass bottles containing neon-colored liquids stretch up to a high ceiling with exposed steel girders and hanging Edison bulbs emitting a soft, warm light.
+
+Patrons include a mix of humans and androids: a middle-aged man with graying hair and a rugged face, wearing a leather jacket with steel shoulder pads, sits at the bar nursing a drink; a young woman with vibrant, multi-colored hair styled in a mohawk, dressed in a futuristic silver jumpsuit, is engaged in conversation with a humanoid robot with a smooth, featureless face, its body covered in reflective steel plating.
+
+In the background, a large panoramic window reveals a sprawling cityscape dominated by towering skyscrapers, their windows glinting in the twilight. Hovering vehicles zip through the sky, leaving trails of light behind them. The overall lighting in the scene is a mix of the warm glow from the bar's interior and the cool, bluish hue from the city outside.
+Seed: 4231648000
+Flux URL: https://fal.run/fal-ai/flux/schnell

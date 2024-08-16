@@ -1,0 +1,11 @@
+Prompt: Create a hyper-realistic digital painting of a futuristic office space where humans and robots work together in harmony. The scene is set in a spacious, high-tech office with floor-to-ceiling windows showcasing a city skyline during sunset, casting a warm golden light into the room. 
+
+In the foreground, a 35-year-old woman with short, sleek brown hair, wearing a tailored navy blue business suit, is interacting with a humanoid robot. The robot has a metallic silver body with LED lights and a screen for a face displaying analytical data. The woman is handing a holographic document to the robot, which is extending a mechanical arm to receive it.
+
+In the background, a diverse group of office workers, ranging in age from mid-20s to late-40s, are engaged in various tasks. A man in his early 40s with a salt-and-pepper beard, dressed in a casual smart outfit of a white shirt and grey trousers, is sitting at a transparent desk typing on an invisible keyboard. Next to him, a young woman in her late 20s with long black hair tied in a ponytail, dressed in a vibrant green dress, is discussing a project with a drone that hovers nearby, projecting a 3D model in mid-air.
+
+The office is filled with sleek, modern furniture, including ergonomic chairs and floating desks. Plants in futuristic pots add a touch of nature to the otherwise high-tech environment. On the walls, digital art frames display dynamic, ever-changing pieces of abstract art.
+
+The overall style of the painting is hyper-realistic, with meticulous attention to detail in the textures of materials, the reflections on glass surfaces, and the interplay of natural and artificial light. The scene captures a seamless blend of human and robotic collaboration, set against the backdrop of a technologically advanced yet warm and inviting workspace.
+Seed: 158057331
+Flux URL: https://fal.run/fal-ai/flux/schnell

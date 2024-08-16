@@ -1,0 +1,7 @@
+Prompt: A whimsical garden scene at twilight depicted as a high-resolution digital illustration. In the foreground, a group of gnomes with varying appearances: one old gnome with a long white beard and a red pointy hat, another middle-aged gnome wearing glasses and a green vest, and a young gnome with short curly hair and a blue tunic. They are gathered around a small, intricately carved wooden table having tea. The old gnome is pouring tea from a silver teapot, while the middle-aged gnome is holding a tiny teacup, and the young gnome is reaching for a plate of cookies.
+
+The garden is lush and vibrant, filled with oversized, fantastical flowers in shades of pink, purple, and blue. Delicate fireflies hover around, casting a soft, golden glow. In the background, there's a gentle, sparkling brook with a small stone bridge arching over it. The trees surrounding the garden have lanterns hanging from the branches, emitting a warm, inviting light that mingles with the twilight sky, painted in hues of orange, pink, and deep blue.
+
+A cobblestone path winds through the garden, leading to a cozy, mushroom-shaped house with light streaming from its windows. The entire scene is serene, with the gentle rustle of leaves and the soft hum of insects creating a tranquil atmosphere.
+Seed: 2205310166
+Flux URL: https://fal.run/fal-ai/flux/schnell

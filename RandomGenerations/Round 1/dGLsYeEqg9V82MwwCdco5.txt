@@ -1,0 +1,9 @@
+Prompt: A serene, dreamlike oil painting depicts an ancient library nestled in a mystical forest. The scene is bathed in the soft, golden light of a setting sun filtering through thick, leafy canopies, casting dappled shadows on the ground. The library, made of stone and covered in ivy, has tall, arched windows that reveal warmly lit interiors filled with towering bookshelves. 
+
+In the foreground, a young woman in her early 20s with long, flowing auburn hair is seated on a moss-covered stone bench. She wears a simple, flowing white dress that gently rustles in the faint breeze. Her attention is focused on an open, ancient book resting on her lap. 
+
+An elderly man, perhaps in his late 70s, stands nearby, leaning on a wooden cane. He has a long, silver beard and is dressed in a worn, dark green cloak adorned with small pockets and pouches filled with mysterious trinkets. He gazes thoughtfully at the library, as if recalling distant memories.
+
+In the background, the forest is dense and lush, with towering trees whose branches intertwine to form a natural cathedral. A narrow, winding path leads deeper into the woods, inviting exploration. The overall atmosphere is calm and timeless, with an emphasis on the slow passage of time and deep contemplation.
+Seed: 4155212027
+Flux URL: https://fal.run/fal-ai/flux/schnell

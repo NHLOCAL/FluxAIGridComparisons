@@ -1,0 +1,4 @@
+Prompt: A moonlit forest landscape at the edge of an ancient, abandoned city. In the foreground, two figures—a human and a humanoid robot—stand side by side, examining a glowing, intricately designed map laid out on an old stone pedestal covered with moss and vines. The city in the background features towering, crumbling structures with an overgrown garden reclaiming the cobblestone roads. The scene is bathed in cool, blue lunar light that casts long, eerie shadows and highlights the mist that softly drapes over the area, giving it an otherworldly appearance. The art style is a highly detailed oil painting, with rich textures and vivid, lifelike details that emphasize the surreal beauty and timeless quality of the setting.
+Seed: 2058753661
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mystery, Partnership

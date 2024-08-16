@@ -1,0 +1,7 @@
+Prompt: A surreal oil painting of a futuristic headquarters building in the middle of a dense, otherworldly forest. The headquarters is a towering, crystalline structure with angular, reflective surfaces that catch and disperse the light into a rainbow of colors. Surrounding the building are gigantic, bioluminescent trees with twisting branches and leaves that glow in shades of blue and green. 
+
+In front of the headquarters, a diverse group of people stands. There is a middle-aged man with graying hair, wearing a sleek, metallic suit with intricate patterns that shimmer under the light. Beside him, a young woman in her twenties with vibrant purple hair wears a flowing, iridescent dress that seems to blend into the background. A child, around ten years old, with curly hair and dressed in a futuristic, silver jumpsuit, is curiously looking at a floating holographic map projected from a device on their wrist.
+
+The scene is lit by a combination of natural light filtering through the forest canopy and the artificial, pulsating lights from the headquarters. The background is a blend of dense, shadowy foliage and distant, ethereal mountains that appear to be floating in the air. The painting style has a hyper-realistic yet fantastical element, with meticulous attention to detail and vibrant, contrasting colors.
+Seed: 1398692460
+Flux URL: https://fal.run/fal-ai/flux/schnell

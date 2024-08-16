@@ -1,0 +1,7 @@
+Prompt: A surreal oil painting of a whimsical marketplace at twilight. The scene features a fork in the cobblestone path where two market stalls stand, one to the left and one to the right. The left stall is overflowing with vibrant, oversized lemons and limes, their citric sheen glistening under the warm, golden light of hanging lanterns. The right stall displays an assortment of colorful, peculiar fruits and vegetables, each more exotic than the last, illuminated by the cool, blue glow of fairy lights.
+
+In the center of the scene stands a young girl, around 8 years old, with curly auburn hair tied in pigtails. She wears a patchwork dress made of various bright fabrics, and her bare feet are dusted with earth. She is reaching out her hand towards the lemon and lime stall, while glancing curiously at the exotic produce on the other side. 
+
+Behind the stalls, the background is a dense forest with towering, twisted trees whose branches form intricate patterns against the darkening sky. Fireflies dance among the leaves, adding a touch of magic to the scene. The overall style is fantastical and dreamlike, with vivid colors and intricate details that draw the viewer into this enchanting world.
+Seed: 4278250241
+Flux URL: https://fal.run/fal-ai/flux/schnell

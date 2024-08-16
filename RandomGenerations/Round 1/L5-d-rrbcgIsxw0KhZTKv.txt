@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk with towering skyscrapers made of translucent, illuminated glass, reflecting the twilight hues of purple and orange. The scene is bustling with humanoid robots and humans intermingling on the streets below, some of the buildings adorned with vertical gardens. In the background, a colossal digital billboard displays a holographic advertisement that intermittently flickers. The scene is an imaginative blend of a utopian society where nature and technology harmoniously coexist. The city is surrounded by distant mountains with glowing bioluminescent forests at their base. The streets are lined with levitating vehicles that emit soft, ambient lights. The style is a highly detailed and vibrant digital painting with sharp lines and vivid colors, capturing the intricate details of both natural and technological elements.
+Seed: 1718311181
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Snicker, End

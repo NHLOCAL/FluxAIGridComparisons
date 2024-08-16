@@ -1,0 +1,7 @@
+Prompt: A photorealistic image of a grand Victorian conservatory filled with lush, exotic plants and vibrant flowers of various colors. The glass ceiling and walls allow streams of natural sunlight to pour in, casting intricate shadows on the tiled floor. In the center, an intricately detailed wooden workbench is covered with gardening tools, pots of soil, and partially assembled terrariums. 
+
+Two people are present: a middle-aged woman with long, wavy auburn hair tied back in a loose bun, wearing a light blue, floral-patterned sundress with a white apron; and a young boy, around 10 years old, with short, curly blonde hair, dressed in khaki shorts and a green t-shirt. The woman is carefully arranging plants inside a glass terrarium while the boy intently watches, holding a small watering can. 
+
+The scene is bathed in warm, golden light that gives the entire setting a serene, timeless quality. The background features tall, leafy plants and climbing vines that reach towards the ceiling, with colorful butterflies fluttering about. The image has the crisp, detailed quality of a high-resolution photograph, capturing every minute detail from the textures of the leaves to the reflections in the glass.
+Seed: 98613965
+Flux URL: https://fal.run/fal-ai/flux/schnell

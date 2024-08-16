@@ -1,0 +1,9 @@
+Prompt: Create an oil painting of a small, rustic mountain café nestled at the base of towering, snow-capped peaks. The café is built from weathered wooden logs and has a stone chimney with smoke gently curling up into the crisp mountain air. Outside the café, a wooden sign with hand-painted letters reads "Alpine Retreat." 
+
+In front of the café, there are several round wooden tables and chairs, some occupied by people enjoying hot beverages. There is a middle-aged woman with long, braided hair, wearing a knitted sweater and a colorful scarf, pouring coffee into a cup for a young boy with curly hair and a red beanie. Nearby, an elderly man with a white beard and a tweed jacket is reading a newspaper, while a young couple, both in their late twenties, dressed in cozy flannel shirts and jeans, are sharing a slice of pie.
+
+The background features a panoramic view of majestic mountains with evergreen trees climbing up their slopes. A crystal-clear stream winds its way past the café, reflecting the blue sky and fluffy white clouds above. The lighting is soft and natural, with the golden glow of the afternoon sun casting long shadows and illuminating the scene with a warm, inviting hue.
+
+The painting style is realistic with intricate details, capturing the texture of the wooden logs, the softness of the knitted clothing, and the rugged beauty of the mountainous landscape.
+Seed: 3678378628
+Flux URL: https://fal.run/fal-ai/flux/schnell

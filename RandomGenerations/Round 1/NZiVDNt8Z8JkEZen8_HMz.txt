@@ -1,0 +1,4 @@
+Prompt: "A futuristic cityscape set at dusk with gleaming diamond-shaped skyscrapers reflecting the vibrant colors of the setting sun. The scene is bustling with people in sleek, futuristic attire walking along transparent walkways suspended between buildings. Hovering vehicles zip through the air, leaving trails of light behind them. The city is illuminated by neon signs and ambient lights, casting a soft glow on the pristine streets below. In the distant background, rolling hills covered with lush greenery. The lighting is a mix of natural sunset hues and artificial neon lights, creating a harmonious blend of warm and cool tones. The entire image has a hyper-realistic digital art style, capturing intricate details and sharp contrasts."
+Seed: 3454251929
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Appreciation, Diamond

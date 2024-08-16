@@ -1,0 +1,4 @@
+Prompt: A lush, futuristic city park during sunset with gleaming skyscrapers in the background. The park is filled with vibrant trees and flowers, with a large, shimmering fountain in the center. Families and friends are gathered around the fountain, smiling and interacting, some kids playing with futuristic toys. On a nearby bench, two rivals sit side by side, both clad in sleek, advanced armor, exchanging serious yet respectful glances, hinting at their shared history. The air is clear and filled with the soft hum of advanced technology. The scene is painted in the style of a hyper-realistic digital painting, with intricate details and vivid colors. The sunlight casts warm, golden hues across the park, blending with the cool, artificial lights of the city.
+Seed: 1916338965
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Happiness, Enemy
