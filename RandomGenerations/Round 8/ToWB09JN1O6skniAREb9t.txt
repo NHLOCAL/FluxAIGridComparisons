@@ -1,0 +1,4 @@
+Prompt: Create an image of a dark, mysterious tunnel leading through a rocky peninsula. The tunnel should be illuminated by flickering torches mounted along the damp stone walls, casting long shadows. At the entrance of the tunnel, rugged cliffs rise steeply, covered in lush green foliage. The ocean should be visible in the background, its waves crashing against the rocks, adding a sense of movement and depth to the scene. The lighting is dim, creating a sense of intrigue and adventure, with the colors predominantly featuring deep blues, grays, and hints of gold from the torchlight. The angle of the shot should be slightly below eye-level, emphasizing the grandeur of the tunnel and the imposing cliffs surrounding it. Illustrated in a realistic style, capturing every texture and detail, creating an immersive atmosphere.
+Seed: 3403712798
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tunnel, Peninsula

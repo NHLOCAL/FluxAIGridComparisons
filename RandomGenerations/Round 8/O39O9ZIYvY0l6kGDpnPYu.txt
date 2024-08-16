@@ -1,0 +1,4 @@
+Prompt: Create an image of a tranquil beach scene at sunset, with a calm bay reflecting the vibrant colors of the sky. In the foreground, a small wooden boat gently floats on the water, its weathered surface highlighted by the warm golden light of the setting sun. Surrounding the bay, lush green hills rise up, dotted with tropical palm trees swaying in a light breeze. The sky is filled with rich hues of orange, pink, and purple, with wispy clouds enhancing the picturesque scenery. The overall composition invites a sense of serenity, with soft waves lapping at the shore and a few seagulls flying overhead. The art style should be hyper-realistic, capturing the details of the natural landscape, with warm and inviting lighting reflecting the peacefulness of the moment.
+Seed: 3905602601
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vow, Bay

@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a vibrant gymnasium filled with diverse people engaged in various activities. Capture a group of friends playing basketball, showcasing dynamic poses in mid-action as they pass the ball and attempt to score. In one corner, a couple of individuals practice yoga, their poses reflecting focus and balance, while in another area, a small group engages in a spirited game of volleyball. The background is filled with colorful banners celebrating teamwork and friendship, and the lighting is bright and cheerful, highlighting the lively atmosphere of the gym. The overall composition emphasizes energy, camaraderie, and the joy of exercising together, with a wide-angle view showcasing the entire gym space.
+Seed: 3466145173
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gymnasium, Bonding

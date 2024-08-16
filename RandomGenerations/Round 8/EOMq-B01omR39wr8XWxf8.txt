@@ -1,0 +1,4 @@
+Prompt: A detailed illustration of a lush, bountiful farm at the peak of an abundant harvest season. Rows of vibrant crops, such as golden wheat and rich, green vegetables, stretch across the landscape, creating a patchwork of colors. In the foreground, a farmer, dressed in a sun hat and overalls, kneels in the soil with a basket overflowing with freshly picked produce. The sun is shining brightly overhead, casting warm, inviting light across the scene. In the background, rolling hills dotted with fruit trees are visible, under a clear blue sky. This charming rural setting exudes a sense of prosperity and fulfillment, captured in a realistic and vibrant art style, emphasizing the theme of agricultural success and the beauty of nature.
+Seed: 2044943814
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Satisfaction, Yield

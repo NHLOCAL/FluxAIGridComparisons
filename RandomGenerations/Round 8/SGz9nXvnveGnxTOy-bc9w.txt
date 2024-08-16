@@ -1,0 +1,4 @@
+Prompt: A highly detailed illustration showing a single green leaf, perfectly preserved and vibrant, resting on a textured piece of ancient parchment. The leaf features intricate veining and a slight sheen, showcasing its natural beauty. The background is a softly blurred, warm golden light, enhancing the leaf's rich color and contours. Dappled sunlight filters through the leaves above, casting gentle shadows that create a peaceful, organic atmosphere. The overall composition emphasizes the authenticity and simplicity of nature, with a focus on the delicate details of the leaf. Photorealistic style, macro shot, high resolution, cinematic lighting.
+Seed: 34206877
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Authenticity, Leaf

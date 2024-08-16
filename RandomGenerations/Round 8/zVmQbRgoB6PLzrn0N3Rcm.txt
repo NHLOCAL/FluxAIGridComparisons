@@ -1,0 +1,6 @@
+Prompt: Create an image with a dimly lit ancient tomb, the stone walls adorned with intricate carvings and faded hieroglyphics. In the center, a beautifully detailed stone sarcophagus glows softly from within, casting flickering shadows around the room. The faint illumination reveals dusty artifacts scattered on the ground, including a weathered golden mask and scattered ancient scrolls. The entrance is shrouded in darkness, creating a mysterious atmosphere, while beams of light break through cracks in the ceiling above, allowing a few delicate rays to touch the sarcophagus. The overall color palette consists of deep browns, golds, and muted greens, emphasizing the tomb's age and historical significance. The perspective is slightly angled, enhancing the sense of depth and intrigue in the scene. 
+
+Art style: hyper-realistic, chiaroscuro lighting, cinematic quality.
+Seed: 605587002
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Illumination, Tomb

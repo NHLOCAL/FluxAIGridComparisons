@@ -1,0 +1,4 @@
+Prompt: Create an image of a sunlit meadow filled with vibrant wildflowers in full bloom, each flower exhibiting a mix of warm colors like yellows, pinks, and oranges. In the foreground, a diverse group of people of various ethnicities holds hands in a circle, their faces expressing joy and gratitude. The sky above is a clear blue, with fluffy white clouds drifting lazily. Soft sunlight bathes the scene, creating gentle shadows on the ground. In the background, rolling hills covered in greenery rise into the distance. Capture the essence of serenity and warmth in this idyllic landscape, highlighting the connection among the people and their joyful surroundings.
+Seed: 47514332
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Happiness, Gratitude

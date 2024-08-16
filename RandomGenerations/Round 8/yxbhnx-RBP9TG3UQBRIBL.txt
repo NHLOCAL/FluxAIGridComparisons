@@ -1,0 +1,8 @@
+Prompt: Create an image showcasing a vibrant carnival scene celebrating joy, juxtaposed against the stark realities of injustice. The foreground features a diverse group of people dancing and laughing, adorned in colorful costumes and wielding confetti and balloons. A variety of cultural elements should be present, symbolizing unity in joy. 
+
+In the background, introduce a darker, contrasting element by depicting a crumbling cityscape with protest banners and silhouettes of individuals fighting against injustice. The sky should reflect this contrast with bright, cheerful colors on one side, transitioning to dark, moody tones on the other, indicating the struggle. 
+
+The art style should be a mix of highly detailed realism for the carnival and a more abstract representation for the cityscape. Subtle lighting effects can include warm, cheerful highlights in the foreground, with shadowy, muted tones in the background to enhance the emotional dichotomy. The angle should be slightly elevated to capture the dynamic movement of the celebration while keeping the backdrop visible, emphasizing the clash between joy and injustice.
+Seed: 467840335
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Joy, Injustice

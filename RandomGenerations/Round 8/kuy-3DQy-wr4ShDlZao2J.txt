@@ -1,0 +1,4 @@
+Prompt: Create an image of a majestic mountain landscape, with towering peaks covered in snow and bathed in the warm light of a golden sunset. In the foreground, a serene alpine meadow is adorned with vibrant wildflowers in various colors, creating a tapestry of reds, yellows, and purples. A clear, sparkling stream flows gently through the meadow, reflecting the colors of the sky and the surrounding scenery. The sky is a breathtaking blend of oranges, pinks, and purples, with wispy clouds scattered across it. The overall composition conveys a sense of tranquility and natural beauty, with hyper-realistic details that highlight the textures of the mountain, flowers, and water. The viewpoint is slightly elevated, capturing both the grandeur of the mountains and the delicate beauty of the meadow below, in a harmonious and immersive way.
+Seed: 4015077317
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fondness, Mountain

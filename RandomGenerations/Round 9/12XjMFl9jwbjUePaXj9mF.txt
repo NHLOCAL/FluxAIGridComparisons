@@ -1,0 +1,4 @@
+Prompt: A double exposure image featuring the silhouette of a person meditating, blended seamlessly with the skyline of a vibrant city filled with modern corporate buildings and greenery. The person's outline should be filled with the intricacies of the cityscape, showcasing a harmonious blend of nature and urban life. The background is a soft sunrise, casting warm, golden light that enhances the sense of tranquility and balance. The image should convey a sophisticated, clean aesthetic with sharp focus and smooth gradients, emphasizing the interconnectedness of humanity and nature within the corporate world. The overall color palette should include greens, blues, and warm oranges to create a visually soothing yet dynamic atmosphere.
+Seed: 1470008107
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Harmony, Corporation

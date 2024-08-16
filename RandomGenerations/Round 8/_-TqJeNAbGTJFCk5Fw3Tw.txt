@@ -1,0 +1,4 @@
+Prompt: A captivating illustration of a Minotaur standing majestically in a lush, idyllic meadow filled with vibrant wildflowers. The Minotaur, with its muscular build and intricately detailed fur, has the head of a bull and a strong, imposing stance. Its large, curling horns reach upwards, showcasing natural patterns and textures. The backdrop features rolling green hills under a clear blue sky with fluffy white clouds, creating a serene atmosphere. Soft, warm sunlight bathes the scene, casting gentle shadows and highlighting the rich colors of the flowers and grass. Nearby, a tranquil stream flows, reflecting the surrounding beauty, while butterflies flutter gracefully around, adding a sense of harmony to the enchanting landscape. The overall composition evokes a peaceful, idyllic setting where myth and nature coexist.
+Seed: 43602168
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Minotaur, Idyllic

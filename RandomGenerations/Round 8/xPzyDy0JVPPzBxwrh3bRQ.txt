@@ -1,0 +1,4 @@
+Prompt: Create an image of a bustling art museum gift shop. The shop is filled with vibrant displays of art-inspired merchandise such as prints, art books, and handcrafted souvenirs. The walls are adorned with colorful artwork, and large windows allow natural light to pour in, creating a warm and inviting atmosphere. In the foreground, a friendly shop assistant is assisting a diverse group of visitors of various ages and backgrounds as they browse the offerings. The background features shelves filled with unique items and a small café area with patrons enjoying refreshments. The lighting is bright and cheerful, emphasizing the creativity and excitement of the space. The overall scene captures the lively interaction between art, commerce, and community in a visually engaging way.
+Seed: 9211054
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shop, Museum

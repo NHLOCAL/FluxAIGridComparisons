@@ -1,0 +1,4 @@
+Prompt: A striking illustration of a sleek spacecraft gliding above a serene river under a starry night sky. The spacecraft, featuring futuristic designs with smooth curves and glowing accents, reflects off the water below, creating mesmerizing ripples. The riverbanks are lined with lush greenery and delicate wildflowers that contrast with the deep blue of the water. Above, a vast cosmic backdrop of swirling galaxies and twinkling stars fills the sky, casting an ethereal glow on the scene. Soft, silver moonlight bathes the landscape, accentuating the tranquility of the moment. The angle captures both the spacecraft and the river, inviting the viewer to explore this harmonious blend of nature and advanced technology. Cinematic lighting and a vibrant color palette enhance the allure of the scene, making it a captivating visual experience.
+Seed: 457414999
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: River, Spacecraft

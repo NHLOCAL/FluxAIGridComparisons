@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a mermaid sitting on a subway train seat, surrounded by an urban setting. The mermaid has shimmering turquoise and aqua scales, with flowing, long hair that blends into the aquatic environment. She is holding a small, colorful fish in her hand, gazing curiously at the passengers around her. The subway interior is adorned with graffiti art, vibrant advertisements, and dim, flickering fluorescent lights, creating a busy metropolitan atmosphere. The lighting should be a mix of neon colors reflecting off the metal surfaces, enhancing the surreal quality of the scene. The angle is at eye-level, capturing the expressions of both the curious mermaid and the surprised passengers, blending fantasy with the everyday life of the subway. 
+Seed: 516896778
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Subway, Mermaid

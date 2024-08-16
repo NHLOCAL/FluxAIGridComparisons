@@ -1,0 +1,4 @@
+Prompt: Create an image of a vintage-style jazz club at night, featuring an alluring female singer standing on stage. She is wearing a form-fitting, elegant black dress with sequins that glimmer under the warm golden light. Her hair is styled in retro waves, and she holds a vintage microphone, projecting confidence and charisma. The background is filled with softly lit round tables occupied by an audience dressed in 1920s attire, with a smoky atmosphere that hints at excitement. A classic jazz band can be seen in the shadows, creating a dynamic ambiance. The overall color palette incorporates deep reds and golds, emphasizing the seductive and glamorous nature of the club setting. The angle captures both the stage and the captivated audience, enhancing the intimate feel of the scene. 
+Seed: 4144635649
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Seduction, Sexy

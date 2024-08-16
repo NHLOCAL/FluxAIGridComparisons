@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring a vibrant, mystical forest where a diverse group of adventurers gathers around a stone altar. The altar is ornately carved with ancient symbols and surrounded by colorful glowing flowers. The adventurers, including a knight in shining armor, a graceful elf with a bow, a rugged dwarf with a battle axe, and a wise wizard with a staff, are engaged in a ceremonial offering. Bright beams of light pierce through the lush canopy above, illuminating the scene with a magical glow. The background is filled with towering trees and whimsical creatures peeking out from behind the foliage, adding to the enchanting atmosphere. The art style should be detailed and colorful, evoking a sense of wonder and adventure. Cinematic lighting enhances the overall mystical feel of the scene, creating a captivating visual narrative.
+Seed: 1392662733
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Offering

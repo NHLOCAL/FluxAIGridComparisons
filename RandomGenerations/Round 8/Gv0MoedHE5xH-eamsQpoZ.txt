@@ -1,0 +1,8 @@
+Prompt: Create a captivating illustration that embodies the concept of symmetry and divinity. The central focus should be an intricate mandala that displays perfect symmetry, featuring themes drawn from various cultural and religious symbols that represent divinity, such as lotus flowers, angelic wings, and sacred geometries. The mandala should be vibrant with rich colors like gold, deep blue, and emerald green, radiating outward in a mesmerizing pattern. 
+
+The background should be a soft gradient transitioning from a deep, cosmic space filled with twinkling stars to a serene, light-filled expanse resembling an ethereal sky. Light beams should emanate from behind the mandala, creating an aura of divine illumination around it. 
+
+The perspective should be slightly elevated, allowing the viewer to see the mandala as if it's floating in a cosmic realm. Soft, ethereal lighting should enhance the details of the mandala and give the entire scene a heavenly ambiance, evoking a sense of awe and spiritual connection. The overall composition should blend elements of illustration and digital art, showcasing high levels of detail and a harmonious balance throughout the image.
+Seed: 2638150676
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Symmetry, Divine

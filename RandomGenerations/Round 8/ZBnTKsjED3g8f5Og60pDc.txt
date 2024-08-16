@@ -1,0 +1,4 @@
+Prompt: A lush, vibrant garden at twilight, filled with an array of exotic flowers and plants that showcase deep greens, rich purples, and bright pinks. In the center stands an ornate pedestal adorned with intricate carvings, holding a glowing, iridescent fruit that seems to pulse with energy. The background features a dark, mysterious forest with shadows creeping in, enhancing the sense of forbidden allure. Soft, ethereal lighting illuminates the fruit, creating highlights that suggest temptation and secrecy. The scene is viewed slightly from above, inviting the viewer to delve into the garden's enchanting depths while hinting at the dangers that lie within. The overall atmosphere is one of mystery and intrigue, blending natural beauty with an underlying tension, styled in a hyper-realistic manner.
+Seed: 3826321605
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Garden, Command

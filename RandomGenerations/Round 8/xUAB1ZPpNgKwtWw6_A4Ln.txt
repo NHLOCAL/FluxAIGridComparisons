@@ -1,0 +1,4 @@
+Prompt: Create an image of a sleek, polished wooden surface reflecting vibrant colors. The wood is intricately grained, showcasing a rich, warm hue, beautifully illuminated by soft, diffused lighting that casts gentle shadows. In the background, a subtle gradient transitions from deep purple to bright turquoise, adding depth and intrigue. Small, shiny orbs of light float softly above the wooden surface, creating a sense of dynamic movement and sensation. The entire scene should evoke a sense of elegance and luxury, combining a contemporary aesthetic with nature's beauty. The composition should be minimalist, focusing on the interplay of light and texture, captured in high detail for maximum visual impact.
+Seed: 2194324045
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Polished, Sensation

@@ -1,0 +1,4 @@
+Prompt: Create an image of a futuristic tunnel filled with vibrant, flowing photons of light. The tunnel is intricately designed with sleek metallic walls that reflect a spectrum of colors emitted by the photons, creating a mesmerizing visual effect. At the tunnel's end, a brilliant light source radiates, casting dynamic shadows and illuminating the pathway. The floor should be adorned with glowing circuit patterns that pulse in sync with the light. The perspective should be slightly angled, capturing the depth and curvature of the tunnel. The overall atmosphere is energetic and otherworldly, with a high level of detail and realism, emphasizing the interaction between light and technology.
+Seed: 3066277631
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tunnel, Photon

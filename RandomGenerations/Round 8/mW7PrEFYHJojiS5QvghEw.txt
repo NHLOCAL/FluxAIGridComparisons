@@ -1,0 +1,4 @@
+Prompt: A captivating architectural scene featuring a striking modern building constructed primarily of glass. The structure rises majestically against a clear blue sky, with sunlight reflecting off the glass surfaces, creating dazzling prisms of color. The building’s design includes sharp angles and unique curves, emphasizing its innovative construction. Surrounding the structure, there is a beautifully landscaped park with lush green grass, vibrant flower beds, and tall trees that cast gentle shadows on the pathways. The foreground showcases people leisurely enjoying the park, adding life and scale to the scene. The lighting is bright and inviting, highlighting the transparency and elegance of the glass architecture, creating an overall atmosphere of modernity and harmony with nature. Photorealistic style, high-resolution, vibrant colors.
+Seed: 3636187536
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glass, Structure

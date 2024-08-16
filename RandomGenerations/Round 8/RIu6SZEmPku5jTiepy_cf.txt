@@ -1,0 +1,4 @@
+Prompt: Create an image of a person sitting atop a mountain peak during a bright sunny day, gazing out into a vast landscape filled with rolling hills and lush green valleys. The sky is clear blue with a few fluffy white clouds scattered, and the sun shines brightly, casting warm, golden light across the scene. The person, depicted as a silhouette, is positioned slightly to the left of the center, creating a dynamic composition. The foreground features vibrant wildflowers in an array of colors, while the background showcases distant mountains that fade into a light mist. The overall image should convey a sense of openness and clarity, emphasizing the connection between the individual and the expansive world around them. The art style should reflect a hyper-realistic portrayal, focusing on vibrant colors and intricate details to enhance the vision of a beautiful day.
+Seed: 2349204781
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Day, Vision

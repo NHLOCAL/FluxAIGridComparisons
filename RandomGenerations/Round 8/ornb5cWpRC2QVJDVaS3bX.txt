@@ -1,0 +1,4 @@
+Prompt: Create an image of an elegant platform set in a grand ballroom, adorned with luxurious velvet curtains and intricate golden chandeliers hanging from the ceiling. The platform should be illuminated by soft, warm lighting that creates a flattering glow. On the platform, depict a graceful figure, draped in an opulent gown that flows elegantly around them. The gown should be richly textured, featuring intricate lace and shimmering sequins that catch the light. The background should include plush seating arrangements and ornate mirrors reflecting the vibrant colors of the scene, enhancing the sense of sophistication and allure. The overall composition should evoke a sense of glamour and elegance through its meticulous details and rich color palette.
+Seed: 1127268223
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Platform, Sensual

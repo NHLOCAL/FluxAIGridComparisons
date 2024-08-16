@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a futuristic, glowing oracle figure seated on a large, intricately designed throne in a vibrant, high-tech environment. The oracle, wearing a flowing robe adorned with luminescent patterns, is surrounded by swirling holographic symbols and ancient glyphs that represent knowledge and prophecy. The background should feature a sprawling cityscape with towering skyscrapers and neon lights, casting a colorful glow on the scene. A soft, ethereal light should illuminate the oracle's face, emphasizing their wise and enigmatic expression. The angle should be slightly tilted, giving a dynamic perspective that enhances the sense of wonder and mystery. The overall color palette should be rich with deep blues, purples, and bright neon accents, creating a visually captivating and immersive atmosphere.
+Seed: 3293924668
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Oracle, Play

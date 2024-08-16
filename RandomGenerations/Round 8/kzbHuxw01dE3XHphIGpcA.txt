@@ -1,0 +1,4 @@
+Prompt: Create a vibrant image of a lively playground scene during a sunny day. Include children of various backgrounds playing on swings, slides, and climbing structures. The playground equipment should be brightly colored, with an emphasis on primary colors like red, blue, and yellow. In the background, depict a lush green park with trees and a clear blue sky dotted with fluffy white clouds. Add parents watching and interacting with their children on benches nearby. The scene should have a warm, inviting atmosphere, illuminated by bright sunlight casting soft shadows. The angle should be slightly elevated to capture the full vibrancy and activity of the playground. Highly detailed, cheerful, and playful style.
+Seed: 1713016048
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Playground, Clarity

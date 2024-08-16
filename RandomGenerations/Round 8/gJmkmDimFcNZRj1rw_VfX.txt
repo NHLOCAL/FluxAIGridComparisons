@@ -1,0 +1,4 @@
+Prompt: Create an image that illustrates a grand memorial dedicated to governance, set in a peaceful park. The memorial features an imposing statue of a classical figure symbolizing democracy, crafted from polished white marble, standing atop a tiered pedestal adorned with intricate carvings and reliefs depicting key moments in governance history. Surrounding the statue, vibrant flowers bloom in a variety of colors, enhancing the serene atmosphere. Towering trees provide a lush green backdrop, while rays of sunlight filter through the leaves, casting gentle light on the statue's features. The scene is framed by a clear blue sky, emphasizing tranquility and reverence. The overall composition should evoke a sense of respect and admiration for the principles of governance, rendered in a realistic, high-resolution style.
+Seed: 3190246617
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Memorial, Governance

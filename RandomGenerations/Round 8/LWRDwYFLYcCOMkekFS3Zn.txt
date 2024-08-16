@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a group of diverse individuals of various ages and ethnicities gathered around a large table, sharing a meal. The table is laden with an abundance of colorful dishes, fruits, and beverages, illustrating a vibrant feast. The setting is an outdoor garden illuminated by warm, golden sunset lighting filtering through the leaves of surrounding trees. The background includes blooming flowers and decorative fairy lights hanging above, creating an inviting atmosphere. The angle should provide a slight overhead view, capturing both the expressions of joy and camaraderie among the individuals as they engage in lively conversation and laughter. Emphasis on bright, vivid colors and dynamic composition, creating a feeling of warmth and togetherness.
+Seed: 3314450690
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Appreciation, Connection

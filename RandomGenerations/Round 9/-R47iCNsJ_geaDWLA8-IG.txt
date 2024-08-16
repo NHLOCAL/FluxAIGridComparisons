@@ -1,0 +1,8 @@
+Prompt: Create an image that depicts a dramatic scene of two human figures engaged in a complex dance of dominance and submission in a gallery setting. The male figure, dressed in a tailored, dark suit, exhibits a commanding presence with an intense gaze and a strong posture. He holds the wrist of the female figure, who wears an elegant, flowing gown that contrasts with the strict formality of the space. Her expression is one of defiance, embodying strength despite her position. 
+
+The gallery itself is adorned with striking artworks on the walls, utilizing a mix of modern and classical styles, creating an atmosphere of tension and contrast. The lighting is moody and dramatic, emphasizing the figures with sharp shadows while allowing the colors of the artworks to pop. The angle should be slightly tilted to draw the viewer's eye towards the interaction between the figures and their surroundings, capturing the essence of a complicated relationship dynamic. 
+
+Overall, the composition should evoke a sense of intrigue and tension, blending elements of elegance and conflict in a captivating manner.
+Seed: 1652480379
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Domination, Gallery

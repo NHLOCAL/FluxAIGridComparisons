@@ -1,0 +1,4 @@
+Prompt: Create an image of a desolate urban landscape at dusk, featuring an empty park bench sitting alone in the foreground. The setting is characterized by cracked pavement, overgrown weeds, and distant, abandoned buildings silhouetted against a faded sunset sky. The lighting is muted with soft, grayish tones reflecting the essence of loneliness. The background shows a dimly lit streetlamp casting an amber glow on the bench, emphasizing its solitude. The overall composition should evoke a sense of stillness and emptiness, capturing the essence of boredom in an urban environment, with intricate details highlighting the textures of the surroundings.
+Seed: 2740924348
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Boredom, Honesty

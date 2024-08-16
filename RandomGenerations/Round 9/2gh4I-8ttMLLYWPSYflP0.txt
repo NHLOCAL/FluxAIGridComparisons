@@ -1,0 +1,4 @@
+Prompt: A stunning illustration of a feminine figure embodying duality. The woman is elegantly split in two, with one side radiating light and warmth, adorned in soft pastel colors and floral patterns, depicting tenderness and grace. The other side contrasts sharply with dark, rich tones and intricate geometric designs, conveying strength and mystery. The background features a tranquil landscape that transitions from a sunlit meadow on the light side to a starry night sky on the dark side. The scene is framed by delicate swirling patterns that intertwine, symbolizing harmony and balance. Soft, diffused lighting enhances the ethereal quality, capturing the essence of beauty in both aspects. This enchanting artwork serves as a celebration of femininity, duality, and timeless elegance, rendered in a dreamy, surreal style.
+Seed: 1212657579
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Symbol, Anniversary

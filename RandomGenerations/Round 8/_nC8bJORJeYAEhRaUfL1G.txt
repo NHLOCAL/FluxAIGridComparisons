@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene reservoir surrounded by lush greenery and rolling hills under a bright blue sky. The water should be crystal clear and mirror-like, reflecting the vibrant colors of the landscape. In the foreground, include a wooden dock extending into the water, with a single rowboat tethered to it. The scene should capture a sense of tranquility and peace, with soft sunlight filtering through the trees, casting delicate shadows on the ground. The angle should be a slightly elevated view, offering a panoramic perspective of the entire reservoir and its surroundings. The art style should be hyperrealistic, emphasizing the intricate details of nature, the reflections in the water, and the contrast of colors, creating an inviting and calming atmosphere.
+Seed: 4261079401
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reservoir, Perception

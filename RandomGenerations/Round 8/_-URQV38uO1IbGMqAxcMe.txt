@@ -1,0 +1,4 @@
+Prompt: A breathtaking depiction of a supernova explosion, showcasing a massive, radiant star bursting into vibrant colors. The scene should highlight the dynamic and chaotic nature of the explosion, with bright yellows, deep oranges, vivid reds, and electric blues radiating outward in all directions. The star's core should appear incredibly bright, surrounded by intricate patterns of glowing gas and swirling cosmic dust. The background features a dark, vast expanse of space dotted with distant stars and galaxies, enhancing the supernova's luminosity. The composition should emphasize the awe-inspiring scale of the event, capturing both the beauty and power of this cosmic phenomenon in a hyper-realistic style. The lighting should convey high contrast, accentuating the vivid colors and intricate details of the explosion.
+Seed: 3943088007
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Supernova, Demonstration

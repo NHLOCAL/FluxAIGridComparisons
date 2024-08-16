@@ -1,0 +1,4 @@
+Prompt: A breathtaking, hyper-realistic illustration of a distant exoplanet, set in a vibrant cosmic landscape. The planet is predominantly a deep indigo with swirling teal and violet clouds, resembling a living entity. Its surface features vast oceans reflecting the shimmering lights of nearby stars, with illuminated bioluminescent flora visible on landmasses. Surrounding the planet, a spectacular array of colorful nebulae and distant galaxies create a mesmerizing backdrop filled with swirling colors of pinks, purples, and blues. The scene is bathed in ethereal starlight, and the angle captures both the planet's surface and the grandeur of outer space in a dramatic composition. The lighting emphasizes the contrast between the illuminated areas and the shadows, creating depth and intrigue in this cosmic vista.
+Seed: 2506136779
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tomorrow, Planet

@@ -1,0 +1,4 @@
+Prompt: Create a hyper-detailed illustration of an ancient wooden institute, resembling a grand library, with towering wooden shelves filled with aged books. The structure features intricate carvings on the wooden beams and columns, showcasing mythical creatures and nature motifs. Large, arched windows allow golden sunlight to filter through, casting warm, illuminating rays across the room. The wooden floor is polished and reflects the soft glow of lanterns hanging from the ceiling. In one corner, an ornate wooden desk is cluttered with scrolls and quills, while a large, beautifully crafted globe stands beside it. The atmosphere should evoke a sense of wisdom and history, with faint wisps of dust dancing in the light. The color palette should consist of rich browns, deep greens, and golden highlights, creating a cozy and inviting ambiance.
+Seed: 1296234650
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wood, Institute

@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a majestic angel standing gracefully above a vibrant urban borough at sunset. The angel has large, ethereal wings that shimmer in shades of golden and silver, reflecting the warm hues of the setting sun. The angel's attire is flowing and intricately detailed, adorned with celestial patterns. Below, the borough is alive with activity, showcasing a skyline of modern buildings mixed with historic architecture, bustling streets, and the soft glow of street lamps coming to life. The background captures a dramatic sky of deep oranges, purples, and blues, creating a contrast against the angel's luminescent presence. This scene is rendered in a hyper-realistic style, emphasizing the intricate details of both the angel and the urban landscape, with a cinematic quality to the lighting and atmosphere.
+Seed: 1465601811
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Angel, Borough

@@ -1,0 +1,4 @@
+Prompt: A dynamic illustration showcasing a beautiful, flowing abstract design focused on the color violet. The composition features swirling shapes and lines that suggest movement and fluidity, creating an impression of dance or waves. The background is a gradient of deep purples transitioning to lighter lavender shades, adding depth to the scene. Shadows and highlights in varying shades of violet and indigo accentuate the curves and angles of the shapes. Soft, diffuse lighting creates an ethereal glow throughout the piece, emphasizing the sense of motion. The overall effect is a captivating and vibrant visual experience, embodying the essence of movement captured in the richness of violet.
+Seed: 2096971896
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Violet, Movement

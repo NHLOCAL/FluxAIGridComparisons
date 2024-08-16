@@ -1,0 +1,4 @@
+Prompt: A vibrant street scene depicting a busy boulevard filled with various cafes and boutiques. In the foreground, a diverse group of people are leisurely enjoying their time: some are sipping coffee at outdoor tables, while others stroll by admiring the storefronts. The trees lining the boulevard are lush and green, with sunlight filtering through their leaves, casting dappled shadows on the sidewalk. A soft pastel-colored sky indicates early evening, with hints of orange and pink as the sun sets. The atmosphere is lively yet relaxed, with colorful awnings and decorative lights illuminating the scene as the day transitions into night. The art style is impressionistic, focusing on warm, inviting colors and soft brush strokes to capture the essence of an idyllic urban oasis.
+Seed: 3139687272
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Relaxation, Boulevard

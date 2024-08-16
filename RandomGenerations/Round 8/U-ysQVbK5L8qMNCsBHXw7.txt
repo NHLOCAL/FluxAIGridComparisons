@@ -1,0 +1,4 @@
+Prompt: A detailed illustration of a menacing gargoyle perched atop a medieval castle during twilight. The gargoyle, with intricate stone textures and fierce facial features, has jagged wings folded tightly against its back. Below, the castle is adorned with ivy and surrounded by a dark, ominous forest. The sky is painted in deep purples and fading oranges, with wisps of clouds that create an atmospheric depth. The lighting is dramatic, casting long shadows that emphasize the gargoyle's chiseled form, while the warm glow of the castle windows suggests a hidden warmth amidst the eerie setting. The scene evokes a sense of mystery and anticipation, capturing the nocturnal watch of the gargoyle as it gazes over the landscape. Illustration style reminiscent of dark fantasy, hyper-detailed, atmospheric.
+Seed: 2912786021
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gargoyle, Rendezvous

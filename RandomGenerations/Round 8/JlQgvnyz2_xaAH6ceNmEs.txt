@@ -1,0 +1,4 @@
+Prompt: Create a humorous illustration of a cartoon character resembling a mischievous monkey, joyfully grabbing a large Snickers bar. The monkey, with exaggerated features like oversized eyes and a cheeky grin, is perched atop a colorful pile of various candy bars and snacks. Surrounding the character, the background features a vibrant candyland scene with lollipop trees, chocolate rivers, and oversized gummy bears. Bright, playful colors dominate the image, enhancing the whimsical atmosphere. The lighting is bright and cheerful, with soft shadows adding dimension, creating a lighthearted and fun visual experience. Cartoon style, high detail, and vivid colors.
+Seed: 721565102
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Act, Snicker

@@ -1,0 +1,4 @@
+Prompt: Create an image of an enchanted cat wearing a wizard's hat and glasses, sitting on a stack of colorful, oversized spell books. The cat has bright green eyes and a mischievous expression, as if it's about to cast a quirky spell. Surrounding the cat are floating magical orbs and whimsical sparkles, creating a sense of enchantment. In the background, an old wooden table is cluttered with potion bottles, a flickering candle, and a small cauldron billowing colorful smoke. The lighting should be warm and inviting, emphasizing the magical atmosphere. The art style should be playful and cartoonish, enhancing the humorous and bewitching tone of the scene.
+Seed: 1064005312
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bewitching, Funny

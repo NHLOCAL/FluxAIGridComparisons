@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a picturesque engagement scene set on a scenic beach at sunset. The couple is positioned in the foreground, with the man down on one knee proposing to the woman, who wears a flowing, elegant dress that catches the soft, golden light. Their expressions are joyful and surprised. The background features gentle waves lapping at the shore, with palm trees silhouetted against the vibrant sky painted in hues of orange, pink, and purple. A small table beside them holds a beautifully adorned ring box and a bouquet of tropical flowers. The scene is imbued with a romantic, idyllic atmosphere, captured in a whimsical and dreamy art style.
+Seed: 310781189
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Engagement, Destination

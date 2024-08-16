@@ -1,0 +1,4 @@
+Prompt: Create a detailed image of a vibrant harbor scene at sunset. The foreground features an old, weathered fishing boat with peeling paint docked at the edge, its reflection mirrored in the calm waters. Nearby, a collection of colorful buoys and fishing nets are strewn about, adding texture to the scene. In the background, a bustling harbor town with charming, tightly spaced buildings rises, their windows illuminated with warm lights, giving a cozy feel. The sky is painted in shades of orange, pink, and purple as the sun sets on the horizon, while soft wisps of clouds catch the twilight glow. Seagulls glide across the sky, adding a lively element to the atmosphere. The overall composition conveys a sense of tranquility and charm, with an emphasis on the beauty of coastal life. Hyper-realistic style, rich colors, and high detail.
+Seed: 4070244304
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Indicator, Harbor

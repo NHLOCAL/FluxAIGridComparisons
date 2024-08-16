@@ -1,0 +1,4 @@
+Prompt: A charming scene of a quaint bakery situated by a flowing river. The bakery features a rustic wooden facade with large glass windows showcasing an array of freshly baked goods, including pastries, bread, and cakes. Surrounding the bakery are colorful flower boxes bursting with vibrant blooms. The river gently ripples in the foreground, reflecting the bakery's warm yellow and brown tones. A small wooden bridge arches over the river, allowing for picturesque views. The background features lush green trees and rolling hills under a bright blue sky, with soft, fluffy clouds scattered throughout. The lighting is warm and inviting, creating a cozy atmosphere that draws the viewer into this idyllic setting. The overall composition is designed to evoke a sense of peace and charm in a pastoral environment.
+Seed: 4176355904
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bakery, River

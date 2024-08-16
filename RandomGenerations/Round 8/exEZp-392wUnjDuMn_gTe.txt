@@ -1,0 +1,4 @@
+Prompt: Create an artistic depiction of two intertwined human figures in an abstract style, symbolizing unity and togetherness. The figures are portrayed in a soft, flowing manner, with smooth curves and gentle lines, showcasing their nudity in a tasteful and respectful way. The background is a gradient of warm, inviting colors, ranging from soft amber to rich gold, creating a harmonious atmosphere. The lighting is soft and diffused to enhance the figures’ contours, emphasizing their connection. The overall composition emphasizes grace and intimacy without explicit details, focusing instead on the beauty of the human form.
+Seed: 2719023552
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Togetherness, Nudity

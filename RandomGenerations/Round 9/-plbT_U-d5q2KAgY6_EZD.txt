@@ -1,0 +1,4 @@
+Prompt: Create an image of a surreal sci-fi landscape, where vast salt flats stretch toward the horizon, reflecting an array of vibrant colors from a setting sun. The ground should shimmer with crystalline salt formations, creating intricate patterns. In the background, towering cliffs made of iridescent mineral layers rise abruptly, giving the sense of an alien world. Strange, floating geometric shapes hover in the sky, casting perplexing shadows on the ground below. Wispy clouds in mismatched hues twist above, creating an atmosphere of confusion and disorientation. The lighting should be dramatic, with the golden sun contrasting sharply with the deep blues and purples of the sky, evoking a sense of wonder and intrigue in this fantastical setting. The overall composition should engage the viewer through its striking visuals and otherworldly beauty.
+Seed: 1192374827
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Saltiness, Confusion

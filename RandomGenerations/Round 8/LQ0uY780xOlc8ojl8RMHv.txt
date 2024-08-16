@@ -1,0 +1,4 @@
+Prompt: Create a hyper-detailed illustration of a gleaming golden badge that symbolizes achievement and honor. The badge should have intricate engravings, including laurel leaves and a radiating star at its center. The background is a soft gradient transitioning from deep blue to rich gold, enhancing the badge's shimmering quality. Light reflections from various angles create a sense of depth and brilliance, giving the badge a three-dimensional appearance. The overall style is reminiscent of classic emblems with a modern twist, emphasizing elegance and prestige.
+Seed: 2021370808
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desire, Badge

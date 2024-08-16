@@ -1,0 +1,4 @@
+Prompt: Create an image of a single piece of parchment paper lying on a rustic wooden table. The paper has a slightly crumpled texture, with faint ink sketches of ancient symbols and doodles scattered across its surface. Sunlight streams through a nearby window, casting soft, warm light that highlights the edges of the paper and creates gentle shadows on the table. The background should be blurred, suggesting a cozy library setting filled with bookshelves packed with old tomes, with a hint of greenery visible through the window. The overall composition should evoke a sense of nostalgia and curiosity, inviting the viewer to wonder about the stories the paper might hold.
+Seed: 652949831
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Paper, Glance

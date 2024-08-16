@@ -1,0 +1,4 @@
+Prompt: Create an image of a majestic eagle soaring high above a breathtaking mountain landscape. The eagle should be depicted in mid-flight, wings spread wide, capturing its fierce nature and grace. The mountains below are rugged and towering, with snow-capped peaks and deep valleys filled with lush green forests. The sky is a brilliant blue, dotted with fluffy white clouds that add depth to the scene. The image is illuminated by golden sunlight pouring over the mountains, casting long shadows and highlighting the eagle's sharp features. The angle should be from below, emphasizing the grandeur of the eagle and its surroundings, capturing a sense of freedom and exploration. The overall style should be hyper-realistic, with vivid colors and intricate details that convey the awe-inspiring beauty of nature.
+Seed: 3711716924
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Success, Sight

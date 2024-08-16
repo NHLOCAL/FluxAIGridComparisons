@@ -1,0 +1,4 @@
+Prompt: Create an image that features a gigantic, intricately designed statue of a lioness, symbolizing triumph and strength. The lioness stands proudly atop a lush, green hill, its majestic form illuminated by warm golden sunlight filtering through the trees. The background showcases a tranquil sunrise, with soft pastel colors blending into a deep blue sky. Below the hill, a winding river flows gently, reflecting the vibrant hues of the dawn. The statue is adorned with detailed carvings of vines and flowers, enhancing its regal appearance. Fluffy clouds drift lazily, and a gentle breeze seems to flow through the scene, adding a sense of serenity. The overall composition combines elements of nature and artistry, celebrating the theme of triumph in a striking, harmonious way.
+Seed: 1760995704
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Murmur, Triumph

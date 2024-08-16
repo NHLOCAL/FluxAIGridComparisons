@@ -1,0 +1,4 @@
+Prompt: Create a stunning illustration of a futuristic marina featuring advanced warp drives. The scene centers around sleek, cutting-edge spacecraft docked along the illuminated piers, showcasing intricate designs and shimmering metallic finishes. In the background, a vibrant cosmic nebula illuminates the night sky, casting ethereal colors of deep purple, blue, and hints of gold onto the water. The warp drives of the spacecraft emit a soft, radiant glow, creating a mesmerizing light reflection on the tranquil surface of the marina. The environment is bustling with futuristic activity, including advanced robots interacting with cargo and passengers. The atmosphere is sleek and high-tech, combining elements of science fiction with a serene coastal setting, rendered in a hyper-detailed art style with an emphasis on lighting and reflections.
+Seed: 2513874962
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Marina, Warp drive

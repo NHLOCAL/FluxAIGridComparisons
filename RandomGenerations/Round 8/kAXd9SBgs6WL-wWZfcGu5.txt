@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a triumphant farmer standing proudly in the middle of a lush, green crop field. The farmer should be wearing a wide-brimmed hat, a checkered shirt, and overalls, with a joyful expression on their face. The background features rows of vibrant crops stretching towards the horizon under a bright blue sky dotted with a few fluffy white clouds. Golden sunlight bathes the scene, casting long shadows across the field, giving a sense of warmth and prosperity. The angle of the shot is slightly upwards, emphasizing the farmer against the expansive sky, capturing the essence of accomplishment and the hard work involved in agriculture. In the distance, a rustic barn adds a touch of rural charm to the setting. The overall composition should evoke the beauty of nature and the spirit of farming, in a vibrant and realistic art style.
+Seed: 3341842050
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Triumph, Crop

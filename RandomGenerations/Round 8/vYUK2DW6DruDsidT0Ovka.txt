@@ -1,0 +1,4 @@
+Prompt: A serene minimalist scene featuring a cozy reading nook by a large window. The window allows soft, diffuse light to fill the space, casting gentle shadows across the room. A plush armchair upholstered in light beige is positioned next to a small wooden side table, holding a steaming cup of herbal tea and an open book with pages gently fluttering in the breeze. A soft, knitted blanket is draped over the armrest. Outside the window, a tranquil garden with lush greenery and blooming flowers can be seen, enhancing the peaceful atmosphere. The wall behind the chair is adorned with calming abstract artwork in soft pastel colors, creating a harmonious balance of simplicity and warmth, evoking a sense of relaxation and comfort. The overall composition is enhanced by natural textures and earthy tones, creating a cohesive and inviting environment.
+Seed: 1607715979
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Relaxation, Style

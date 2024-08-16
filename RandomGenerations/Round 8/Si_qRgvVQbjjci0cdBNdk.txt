@@ -1,0 +1,8 @@
+Prompt: Create an illustration of a futuristic character known as "Millennium." The character is depicted as a tall, humanoid figure with sleek, metallic armor that has intricate patterns and glowing accents. The armor transitions from shades of silver to deep blue, creating a dynamic appearance. Millennium's helmet features a visor that reflects a starry cosmos. 
+
+The background is a vibrant, futuristic cityscape at night, filled with towering skyscrapers adorned with neon lights and holographic advertisements. The atmosphere is lively, with flying vehicles and bustling streets below. The scene is illuminated by ambient lights, casting reflections on the polished surfaces of Millennium's armor.
+
+The angle should be slightly low, emphasizing the character's commanding presence against the backdrop of the city. Use cinematic lighting to highlight the contours of the armor and create dramatic shadows. The overall art style should blend elements of science fiction and cyberpunk, with a color palette dominated by blues, purples, and neon accents.
+Seed: 3832549566
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Character, Millennium

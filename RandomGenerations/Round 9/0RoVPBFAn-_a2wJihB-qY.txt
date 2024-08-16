@@ -1,0 +1,4 @@
+Prompt: Create a breathtaking sci-fi fantasy landscape photograph depicting a vast alien terrain under a vibrant, swirling sky filled with nebulae. The foreground features a shimmering lake reflecting the myriad colors of the celestial display above, surrounded by strange, luminescent flora that illuminates the scene with an otherworldly glow. Towering rock formations resembling fantastical creatures rise in the background, their surfaces textured and detailed, showcasing alien minerals that shimmer in hues of blue and purple. A distant city can be seen built into the cliffs, with futuristic architecture that incorporates organic shapes and bioluminescent elements. The lighting should be dramatic, with high contrast to emphasize the surreal features of the landscape, while the atmosphere captures the essence of wonder and exploration within this stunning fantasy world.
+Seed: 701346593
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fantasy, Array

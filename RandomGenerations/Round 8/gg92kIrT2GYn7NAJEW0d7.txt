@@ -1,0 +1,4 @@
+Prompt: Create an image of an alternative reality where an elaborate clock tower rises amidst a bustling cityscape, with its gears and cogs exposed, symbolizing the passage of time. The clock face is oversized and decorated with celestial designs, with a backdrop of twilight sky transitioning from deep blue to vibrant purple. Surrounding the tower, a series of intriguing characters dressed in steampunk attire engage in animated discussions, showcasing a mix of vintage fashion and modern technology. The street is lined with vintage lampposts casting a warm, amber glow, and floating airships can be seen in the distance. The scene should employ dramatic lighting to highlight the characters and the intricately detailed clock tower, while maintaining an aura of mystery and exploration. Illustrative style, high detail, captivating composition.
+Seed: 645292596
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alternative, Intrigue

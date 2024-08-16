@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a colorful parrot perched on a small wooden branch, surrounded by lush green foliage. The parrot's vibrant plumage features a blend of bright reds, blues, and yellows, with intricate feather patterns that capture the light. The background is filled with blurred, rich green leaves, creating depth and a sense of tropical rainforest. Soft sunlight filters through the canopy, casting dappled shadows on the parrot and branch, highlighting the intricate details of its feathers. The image is vividly sharp, emphasizing the parrot's expressive eyes and detailed textures of its feathers and the rough bark of the branch, creating a captivating and inviting scene.
+Seed: 1968201866
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Photograph, Tip

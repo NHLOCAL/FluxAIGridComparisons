@@ -1,0 +1,8 @@
+Prompt: Create a captivating fantasy scene set inside a grand, forbidden palace. The interior is adorned with intricate gold detailing, luxurious red velvet drapes, and ornate chandeliers that cast a warm, ethereal glow throughout the space. The walls are covered with mystical symbols and illuminated scrolls, hinting at the secrets harbored within. 
+
+In the center, a majestic throne encrusted with precious gems sits upon a raised dais, surrounded by an air of mystery. Silken cushions of deep crimson invite seating, while the marble floor reflects the opulence above. 
+
+Large, arched windows reveal a starry night sky outside, with swirling clouds surrounding a glowing moon that casts a soft light into the room. The overall atmosphere is enchanting yet foreboding, suggesting both allure and danger lurking within the palace’s confines. The art style should combine elements of baroque and surrealism, with intricate details and high resolution, emphasizing the grandiosity and the sense of hidden, forbidden desires.
+Seed: 543489329
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dream, Palace

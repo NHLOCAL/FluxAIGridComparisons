@@ -1,0 +1,4 @@
+Prompt: A tranquil scene set in a serene monastery nestled within a lush, mountainous landscape. The monastery architecture features traditional stone buildings with intricate carvings, surrounded by vibrant greenery and blooming wildflowers. In the foreground, a peaceful monk sits in meditation, dressed in a simple saffron robe, his posture relaxed yet poised. Soft, golden sunlight filters through the trees, casting gentle patterns on the ground. A misty background reveals distant peaks, lending an air of mystery and calm to the atmosphere. The overall composition evokes a sense of harmony and introspection, enhanced by the vibrant yet earthy color palette. Cinematic lighting highlights the intricate details of the monastery and the peaceful expression of the monk. The scene invites reflection and a deeper connection with one's thoughts.
+Seed: 1939148524
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intuition, Monastery

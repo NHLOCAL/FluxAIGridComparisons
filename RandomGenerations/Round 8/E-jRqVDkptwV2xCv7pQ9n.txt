@@ -1,0 +1,4 @@
+Prompt: Create an image of a beautifully wrapped gift box adorned with vibrant, swirling ribbons in various colors. The box, with a shiny metallic surface, reflects the soft ambient light around it. A subtle glow emanates from the box as if it contains something magical inside. Surrounding the gift are whimsical, floating symbols related to joy and celebration, such as balloons, confetti, and stars, creating a festive atmosphere. The background is a soft gradient of pastel colors, enhancing the warmth and inviting feeling of the scene. The angle of the shot is slightly elevated, allowing a full view of the beautifully presented gift and its enchanting surroundings. The overall art style is bright, cheerful, and inviting, capturing the essence of giving and celebration.
+Seed: 284063814
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Association

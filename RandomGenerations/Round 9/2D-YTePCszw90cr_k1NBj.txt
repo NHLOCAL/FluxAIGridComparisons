@@ -1,0 +1,4 @@
+Prompt: Create a striking landscape photograph that combines elements of sci-fi and fantasy, depicting a vast, otherworldly terrain bathed in vibrant colors. The sky is filled with swirling galaxies and luminous nebulae, creating an ethereal backdrop. In the foreground, a majestic, crystalline mountain range rises sharply, reflecting the colorful light from above. A river of glowing, iridescent water flows through the landscape, surrounded by strange, bioluminescent plants and flora that pulse gently with life. The overall scene should evoke a sense of euphoria and allegiance to a fantastical world, with soft, diffused lighting that enhances the vivid colors and intricate details, creating a surreal and inviting atmosphere. The angle should be slightly elevated, allowing for a sweeping view of the mesmerizing landscape, immersing the viewer in this enchanting realm.
+Seed: 1006844245
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Euphoria, Allegiance

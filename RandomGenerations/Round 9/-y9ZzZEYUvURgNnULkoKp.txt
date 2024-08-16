@@ -1,0 +1,4 @@
+Prompt: A polished, hyper-realistic close-up of a cracked porcelain mask, split down the middle. One half of the mask is painted in vibrant, joyful colors, with intricate floral designs and bright blue eyes reflecting a sense of happiness. The other half is weathered and dark, showcasing chipped edges, somber tones, and hollow eyes that convey a sense of sadness. In the background, a blurred, monochromatic scene of an empty room with soft, diffused lighting enhances the contrast between the mask's halves. The image captures the concept of duality, emphasizing the stark juxtaposition of emotions without expressing them directly. The focus on the mask's details draws the viewer's attention to the complexity of identity and the hidden feelings behind a façade.
+Seed: 4052014549
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capability, Chemistry

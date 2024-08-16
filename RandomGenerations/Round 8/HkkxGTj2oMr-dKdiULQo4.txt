@@ -1,0 +1,4 @@
+Prompt: Create an idyllic coastal scene set in a vibrant marina during sunset. The marina features a variety of colorful sailboats gently swaying on the shimmering water, their reflections dancing in the orange and pink hues of the sky. Palm trees line the waterfront, their fronds softly illuminated by the warm, golden light of the setting sun. A cobblestone walkway invites viewers to explore the marina, with quaint little shops and cafés nestled in the background. Vibrant flowers in full bloom add a splash of color to the scene, enhancing the tranquil atmosphere. The lighting should be warm and inviting, creating a sense of peace and serenity. The angle of the shot should be slightly elevated, offering a panoramic view of the marina and surrounding beauty, inviting viewers into this picturesque setting. 
+Seed: 580057062
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Idyllic, Marina

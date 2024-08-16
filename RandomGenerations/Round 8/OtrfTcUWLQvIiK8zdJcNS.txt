@@ -1,0 +1,4 @@
+Prompt: Create an image of a quaint town square during the golden hour of sunset. The scene should feature charming, vintage-style buildings with colorful facades, each adorned with blooming flower boxes. In the center of the square, a stone fountain with water gently cascading down creates a serene ambiance. A few townsfolk are scattered around the square, engaging in friendly conversation or enjoying ice cream. The sky is a warm blend of oranges, yellows, and soft pinks, casting a golden light on the cobblestone streets. The overall atmosphere should be peaceful and welcoming, with hints of daily life and community spirit. The style is reminiscent of classic oil paintings, emphasizing warm colors and delicate details.
+Seed: 2974415201
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Town, Thought

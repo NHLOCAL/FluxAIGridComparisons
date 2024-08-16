@@ -1,0 +1,4 @@
+Prompt: Create an image of a sumptuous geyser erupting in a vibrant geothermal landscape. The geyser should be depicted in mid-eruption, with billowing plumes of steam and water shooting high into the air. Surrounding the geyser are colorful mineral deposits in shades of orange, yellow, and blue, reflecting the heat of the geothermal activity. The backdrop features lush green vegetation and towering, rugged mountains under a bright blue sky, dotted with fluffy white clouds. The scene is illuminated by warm sunlight, enhancing the rich colors and textures of the landscape. This hyper-detailed illustration captures the raw beauty and dynamism of nature's geothermal wonders.
+Seed: 125592549
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sumptuous, Geyser

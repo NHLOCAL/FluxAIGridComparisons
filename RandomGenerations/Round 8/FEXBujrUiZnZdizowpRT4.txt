@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a rugged adventurer scaling a steep, rocky mountain. The adventurer, a bearded man clad in weathered hiking gear and a heavy backpack, struggles against strong winds. His posture conveys the weight of his burdens, with sweat visible on his forehead and determination in his eyes. The background features jagged peaks bathed in dramatic twilight light, with dark clouds swirling above. A hint of orange from the setting sun illuminates the scene, highlighting the textures of the rock and the adventurer's gear. The angle is slightly below eye level, emphasizing the daunting climb, enhancing the sense of struggle and adventure in this wild landscape. Ultra-realistic, high detail, cinematic quality.
+Seed: 119613786
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Burden

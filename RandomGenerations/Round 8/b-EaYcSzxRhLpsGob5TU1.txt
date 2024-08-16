@@ -1,0 +1,4 @@
+Prompt: A dark and brooding illustration of a vampire character with pallid skin and sharp fangs, intricately detailed. The vampire stands near a towering, gothic castle silhouetted against a stormy night sky filled with swirling dark clouds and flashes of lightning. His attire features a long, flowing black cloak with a high collar, revealing only his piercing crimson eyes. Subtle hints of ancient runes and glowing circuit patterns weave through his cloak, implying a connection to a mystical algorithm. The ambiance is illuminated by eerie moonlight filtering through the clouds, casting haunting shadows across his face. The scene captures a harmonious blend of traditional vampire lore and modern technology, emphasizing a unique fusion of dark fantasy and cybernetic elements. High detail, cinematic lighting, illustration.
+Seed: 4233409154
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vampire, Algorithm

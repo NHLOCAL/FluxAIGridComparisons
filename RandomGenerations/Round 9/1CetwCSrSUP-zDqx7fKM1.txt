@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image featuring a human silhouette standing serenely against a celestial backdrop filled with swirling galaxies, stars, and vibrant nebulae. Within the silhouette, capture a harmonious blend of two ethereal figures, representing twin flames, intertwined in a dance of light and energy, gracefully merging into one another. The figures should radiate a warm glow, with detailed elements like fiery sparks and flowing ribbons of light connecting them. The background sky should transition smoothly from deep blues to bright purples and pinks, emphasizing a cosmic perspective. The overall composition should convey a sense of unity and connection, combining organic shapes with celestial patterns in a visually striking manner, rendered in a dreamy, surreal art style. Lighting should be soft yet luminous, creating an enchanting ambiance.
+Seed: 3574340699
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creation, Twin flame

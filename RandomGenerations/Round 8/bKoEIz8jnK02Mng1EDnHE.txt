@@ -1,0 +1,4 @@
+Prompt: Create an image of an intricate sculpture made of intertwined metal and glass elements. The sculpture should depict a flowing, abstract form that suggests movement, resembling a dancer caught in mid-motion. The metallic sections should have a polished finish, reflecting light in dynamic ways, while the glass elements are frosted with subtle colors that create a mesmerizing interplay of light and shadow. The scene should be set against a minimalist white background to emphasize the sculpture's details. The angle should be slightly above, showcasing the curvature and depth of the piece, with soft ambient lighting that enhances its elegance. The overall design should merge modern art aesthetics with a sense of fluidity and grace, resembling a blend of contemporary sculpture and sketch-like outlines.
+Seed: 2783658532
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sculpture, Sketch

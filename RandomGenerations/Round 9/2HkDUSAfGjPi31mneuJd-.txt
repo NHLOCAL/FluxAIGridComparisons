@@ -1,0 +1,6 @@
+Prompt: Create an image that captures the essence of feminine beauty through the concept of duality. The scene should feature a stunningly detailed, split composition of a grand, ancient building that represents both light and dark aspects. On the left side, depict the building in bright, vibrant colors, adorned with blooming flowers and sunlight streaming through intricate stained glass windows. On the right side, illustrate the same building in shadows and muted tones, covered in ivy and surrounded by a misty ambiance, with the presence of flickering lanterns casting an ethereal glow in the darkness. 
+
+In the foreground, showcase a feminine figure embodying both sides of this duality—one half radiating joy and serenity in a flowing, luminous gown, and the other half shrouded in mystery, draped in dark fabric and shadow. The overall atmosphere should evoke a sense of harmony and contrast, emphasizing the beauty found in both light and dark, set against a backdrop that blends historical architecture with a fantastical twist. The art style should be a mix of realism and surrealism, maintaining a high level of detail and vibrancy. The lighting should transition smoothly from warm to cool tones, harmonizing the two sides.
+Seed: 793772983
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Building, Chronicle

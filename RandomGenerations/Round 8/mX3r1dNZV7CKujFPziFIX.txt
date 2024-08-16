@@ -1,0 +1,4 @@
+Prompt: Create a dynamic illustration of a sleek spacecraft soaring through a vibrant, surreal mirage landscape. The spacecraft should be designed with smooth, aerodynamic lines and a shiny metallic surface reflecting the radiant colors of the background. The mirage effect creates wavy distortions in the horizon, blending shades of pink, orange, and purple with hints of bright turquoise. The ground below features undulating sand dunes in varying shades, glistening under a distorted sun that appears larger than life. The scene is bathed in a warm, ethereal glow, emphasizing the otherworldly atmosphere. The angle of the spacecraft should suggest rapid movement, creating a sense of adventure and exploration. The overall composition should reflect a blend of sci-fi and surrealism, drawing the viewer into this captivating alien environment.
+Seed: 1690041190
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spacecraft, Mirage

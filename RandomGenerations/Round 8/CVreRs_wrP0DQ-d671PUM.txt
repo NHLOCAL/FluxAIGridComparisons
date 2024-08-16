@@ -1,0 +1,4 @@
+Prompt: Create an illustration depicting an ethereal, serene landscape under a luminous sky. At the center, showcase a majestic, ancient tree with sprawling branches, adorned with shimmering golden leaves, symbolizing blessing and harmony. Surrounding the tree, various gentle creatures—like deer, rabbits, and birds—are peacefully coexisting, enhancing the sense of tranquility. The sky above transitions from soft pastels of dawn to vibrant golds and lilacs, casting a warm light over the scene. The ground is a carpet of lush, green grass speckled with delicate flowers. The overall composition should convey a sense of order and balance within nature, evoking a peaceful and harmonious atmosphere, high detail, vibrant colors, serene.
+Seed: 3165521031
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Order, Blessing

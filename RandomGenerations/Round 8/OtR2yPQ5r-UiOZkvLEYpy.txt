@@ -1,0 +1,6 @@
+Prompt: Create a detailed illustration of a coalition of diverse animals working together in a vibrant forest setting. The scene should feature a wise, elderly elephant leading the group, surrounded by a confident lion, a clever fox, and a resourceful monkey. Each animal exhibits distinct characteristics that highlight their strengths— the elephant represents wisdom with its intricate, wrinkled skin and gentle demeanor. The lion, with its majestic mane, stands tall and proud, while the fox appears sleek, with sharp eyes suggesting intelligence. The monkey hangs playfully from a tree branch, showcasing agility.
+
+The background should depict a lush, green forest filled with colorful flowers and tall trees, dappled sunlight filtering through the leaves, creating a welcoming atmosphere. In the foreground, the animals are engaged in teamwork, perhaps building a shelter or sharing food, emphasizing the theme of cooperation and mutual benefit. The art style should be vibrant and detailed, reminiscent of classic children's book illustrations, with bright colors that evoke a sense of harmony and collaboration. The lighting should be warm and inviting, enhancing the friendly interaction among the animals.
+Seed: 2503487266
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Coalition, Benefit

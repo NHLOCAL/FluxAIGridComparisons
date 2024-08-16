@@ -1,0 +1,4 @@
+Prompt: Capture a hyper-realistic photograph of a solitary wooden bench facing an empty, foggy lake at dawn. The surface of the water is calm, with gentle ripples reflecting the soft pastel hues of sunrise—pinks, oranges, and light blues blending together. The surrounding landscape is adorned with silhouette-like trees shrouded in mist, their outlines barely visible. The bench, weathered and worn, suggests a sense of abandonment, with dew glistening on its surface. A pair of discarded shoes lies nearby, partially hidden in the grass, hinting at a recent visitor. The cool, soft lighting creates a serene atmosphere, inviting contemplation and introspection. The overall composition conveys solitude and reflection, enhancing the emotional depth of the scene. Photorealistic, cinematic quality, detailed textures, warm color palette.
+Seed: 12195339
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Care, Partnership

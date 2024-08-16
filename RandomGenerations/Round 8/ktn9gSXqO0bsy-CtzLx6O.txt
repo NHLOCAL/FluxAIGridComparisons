@@ -1,0 +1,4 @@
+Prompt: Create a striking sculpture of a majestic dragon, intricately detailed, its scales shimmering in hues of emerald and gold. The dragon is depicted in a dynamic, curled pose, with its wings unfurled as if preparing for flight. The eyes are crafted from brilliant gemstones, radiating a fierce intensity. The base of the sculpture is a rocky terrain, with flowing streams of crystal-clear water and lush greenery. The overall atmosphere is illuminated by warm, natural light, casting dramatic shadows that highlight the intricate details and textures of the dragon's body. The sculpture embodies a sense of power and grace, showcasing a masterful blend of artistry and mythology.
+Seed: 1826521932
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Show, Sculpture

@@ -1,0 +1,4 @@
+Prompt: Create an image of a vast, sunlit landscape divided into two halves. On the left side, depict a lush, vibrant meadow filled with colorful wildflowers, tall green grass, and a clear blue sky dotted with soft white clouds. A winding path meanders through the field, inviting exploration. On the right side, illustrate a stark desert with rolling dunes, harsh sunlight, and a deep blue sky. The texture of the sand should be rough and uneven, with shadows casting dramatic shapes. In the center where both sides meet, create a seamless transition, highlighting the contrast between richness and barrenness. Emphasize the clarity and brightness of the scene with crisp colors and a high-resolution quality, capturing the juxtaposition of desire and certainty visually.
+Seed: 3379025941
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desire, Certainty

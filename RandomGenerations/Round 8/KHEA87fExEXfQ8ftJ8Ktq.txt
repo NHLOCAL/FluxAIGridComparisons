@@ -1,0 +1,4 @@
+Prompt: Create an image showcasing the sun setting over a tranquil, serene landscape. The sun is large and radiant, casting warm golden hues across the sky, with oranges, pinks, and purples blending seamlessly. Below, a calm lake reflects the stunning colors of the sunset, creating a mirror-like effect. In the foreground, gently swaying grass and delicate wildflowers dance in a light breeze. Silhouetted in the distance, a majestic tree stands tall, its branches reaching toward the sky, adorned with glowing lanterns that flicker like stars. The overall atmosphere should evoke a sense of peace and connection to the natural world, enhancing the beauty of the sun's descent. The scene is captured in a hyper-realistic style with vibrant colors and soft focus, emphasizing the tranquil essence of this spiritual moment.
+Seed: 3715382324
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spirituality, Sun

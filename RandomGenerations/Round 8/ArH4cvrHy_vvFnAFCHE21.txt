@@ -1,0 +1,4 @@
+Prompt: Create a lively scene inside a bustling pub filled with patrons enjoying themselves. The interior features a warm wooden bar, rustic tables, and shelves stocked with a variety of beers and spirits. Dim, ambient lighting creates an inviting atmosphere, while bright spotlights illuminate the bar area. In one corner, a small band performs with instruments like guitars and a drum set, enhancing the festive vibe. People are laughing, clinking glasses, and engaging in conversation, with some dancing near the stage. The walls are adorned with vintage beer posters and memorabilia, adding to the character of the pub. Overall, the image should capture a sense of camaraderie and joy, emphasizing the energetic social environment.
+Seed: 1932481250
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pub, Enthusiasm

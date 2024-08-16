@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene woodland scene at dawn, featuring soft rays of light filtering through the dense canopy of trees. In the foreground, a young couple is depicted sitting on a moss-covered log, sharing a moment of quiet intimacy. The couple is dressed in casual outdoor clothing, surrounded by vibrant wildflowers, delicate ferns, and small mushrooms. A gentle stream meanders through the scene, reflecting the warm golden light of the early morning sun. The background is filled with tall trees, their leaves a mix of deep greens and hints of autumn colors. The overall mood is tranquil and inviting, capturing the beauty of nature and connection. The art style is reminiscent of a classic landscape painting, with a focus on natural detail and soft color gradients.
+Seed: 2266956587
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Crush, Woodland

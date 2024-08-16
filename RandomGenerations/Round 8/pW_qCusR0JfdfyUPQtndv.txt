@@ -1,0 +1,4 @@
+Prompt: A powerful scene depicting a fierce lion standing atop a rocky outcrop in the heart of a lush wilderness. The lion's golden mane is illuminated by the warm sunlight filtering through a dense canopy of emerald green leaves. Surrounding the lion, towering trees and vibrant foliage create an immersive jungle atmosphere. In the background, a distant waterfall cascades down rugged cliffs, with mist rising to catch the sunlight, creating a magical aura. The ground is scattered with colorful wildflowers, adding pops of reds, yellows, and purples to the scene. The angle should be low, emphasizing the lion's dominance and majestic presence against the backdrop of untamed nature. The overall color palette is rich and vibrant, with a focus on warm tones highlighting the raw beauty of the wilderness and the lion's regal stance.
+Seed: 4277148950
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Domination, Wilderness

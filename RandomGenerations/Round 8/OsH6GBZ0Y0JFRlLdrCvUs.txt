@@ -1,0 +1,4 @@
+Prompt: Create an illustration depicting a serene landscape where a tiny, ethereal statue of a baby sits atop a small, sparkling miracle-like pedestal made of translucent crystal. The baby statue should have delicate features and a peaceful expression, surrounded by a soft, glowing aura. The backdrop features a dreamy, misty forest with lush, vibrant green trees and delicate wildflowers in soft pastel colors, bathed in warm, golden morning light. Gentle rays of sunlight filter through the leaves, creating dappled patterns on the ground. The scene should evoke a sense of tranquility and wonder, enhancing the feeling of the preciousness of life and miracles. The art style should be reminiscent of impressionism, with soft brush strokes and an emphasis on light and color.
+Seed: 3354191685
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Babe, Miracle

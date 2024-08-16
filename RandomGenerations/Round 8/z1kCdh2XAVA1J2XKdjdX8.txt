@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a magnificent, futuristic city skyline at dusk. The skyline features a mix of towering skyscrapers with intricate designs, including some buildings shaped like spirals and others with reflective surfaces that catch the fading sunlight. In the foreground, a bustling street is filled with diverse people and advanced vehicles, including floating cars and robotic service droids. The sky transitions from deep orange to a dark blue, with soft, ambient lighting illuminating the scene. Holographic advertisements and neon lights create vibrant colors that reflect in the sleek glass surfaces of the buildings. The artwork should capture a sense of innovation, progress, and urban liveliness, rendered in a detailed, hyper-realistic style.
+Seed: 2842953295
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Magnificent, Project

@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a vivid spectrum of colors radiating outward from the center, reminiscent of a colorful explosion. The background should be a soft white, allowing the bright colors to stand out vividly. Each color band transitions smoothly into the next, creating a harmonious blend. The spectrum should have a semi-transparent effect, giving it a light and airy feel. Include subtle, abstract wave patterns within the colors to enhance the sense of movement and energy. The overall composition should be bright and engaging, emphasizing the beauty and fluidity of color, while maintaining a clean and modern aesthetic. High resolution, vibrant, and visually captivating.
+Seed: 3514168124
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spectrum, Comely

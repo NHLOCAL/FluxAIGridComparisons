@@ -1,0 +1,4 @@
+Prompt: Create an image featuring an elegantly designed trophy labeled "Excellence." The trophy should have a polished gold finish, with intricate engravings and a sparkling gemstone at its peak. Surrounding the trophy are soft, cascading silk drapes in various shades of pastel colors, creating a delicate and lovely atmosphere. The background should be subtly lit with warm golden lighting, highlighting the trophy's brilliance and adding a sense of celebration. Delicate flower arrangements in soft pinks and whites frame the scene, enhancing the overall theme of beauty and accomplishment. The composition should have a soft focus, emphasizing the trophy as the central focal point while maintaining an enchanting and lovely mood.
+Seed: 1838297211
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Excellence, Lovely

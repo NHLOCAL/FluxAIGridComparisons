@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a powerful and majestic Minotaur standing defiantly in the middle of an ancient labyrinth. The Minotaur should have a muscular physique, adorned with intricate tribal tattoos and wearing a rugged leather harness. Its horned head should exhibit fierce, glowing eyes that reflect an intense determination. The labyrinth is comprised of tall stone walls covered in moss and vines, with shadows cast dramatically around the scene. The lighting is dim and atmospheric, with rays of light breaking through cracks in the stone, illuminating the Minotaur's figure. The overall art style should evoke a sense of ancient mythology and epic fantasy, with richly detailed textures and a deep, earthy color palette. The perspective is slightly low angle, accentuating the stature of the Minotaur against the towering labyrinth walls.
+Seed: 2756640868
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Avatar, Minotaur

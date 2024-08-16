@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a majestic ancient tree, towering and gnarled, symbolizing authority and wisdom. The tree's thick trunk is covered in intricate, deep grooves, and its sprawling branches are adorned with lush, green leaves that filter golden sunlight. At the base of the tree, an intricately carved stone pedestal bears ancient runes, illuminated by the soft glow of twilight. The background showcases a serene landscape of rolling hills and a peaceful river winding through it, under a vibrant sunset that casts warm hues of orange and pink across the sky. The scene is infused with a sense of tranquility and timelessness, illustrating the enduring power of nature and knowledge. The art style should be hyper-realistic, emphasizing the textures of the bark, the intricate details of the runes, and the play of light throughout the scene.
+Seed: 2850275969
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Way, Authority

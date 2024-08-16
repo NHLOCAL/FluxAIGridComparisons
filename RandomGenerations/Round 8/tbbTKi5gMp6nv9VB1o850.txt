@@ -1,0 +1,4 @@
+Prompt: An intricate, hyper-realistic illustration of a mystical amulet suspended in mid-air, surrounded by swirling ethereal energies and glowing runes. The amulet features a central gemstone that changes color, emitting a radiant glow. Detailed engravings cover its surface, adorned with intricate symbols and filigree work that suggest ancient wisdom. The background is a dark, nebulous space filled with shimmering stars, creating an atmosphere of mystery and magic. Subtle light rays penetrate through the darkness, highlighting the amulet and casting soft shadows that enhance its three-dimensional form. The overall composition blends fantasy elements with a sense of cosmic wonder, evoking the feeling of a powerful artifact from a forgotten era. Highly detailed, vibrant colors, cinematic lighting effects, ultra-high resolution.
+Seed: 3458557510
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Control, Amulet

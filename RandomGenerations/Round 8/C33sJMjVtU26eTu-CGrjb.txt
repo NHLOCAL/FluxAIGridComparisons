@@ -1,0 +1,4 @@
+Prompt: Create an illustration depicting a majestic mountain peak, standing tall under a clear, bright blue sky. The mountain's rocky surface is intricately detailed, with patches of green vegetation clinging to its sides. At the summit, there is a large, regal eagle soaring gracefully, its wings fully extended, symbolizing loyalty and strength. Below the mountain, a serene forest of pine trees stretches into the foreground, with a crystal-clear river winding through it. The sunlight casts dappled shadows across the landscape, creating a warm and inviting atmosphere. The scene is rendered in a vibrant, hyper-realistic style, emphasizing the natural beauty and grandeur of the mountain and its surroundings.
+Seed: 2931861141
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Loyalty, Mountain

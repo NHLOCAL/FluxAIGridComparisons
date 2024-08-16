@@ -1,0 +1,6 @@
+Prompt: Create an image showcasing two elegant female figures embodying the theme of duality. One figure exudes softness, draped in flowing, pastel-colored fabrics that glide around her, while the other figure is bold, dressed in sharp, contrasting colors, like deep reds and blacks, with structured embellishments. They stand back-to-back, each holding a unique flower that symbolizes their essence; the soft figure holds a delicate white lily, and the bold figure clutches a striking red rose. 
+
+The background should feature a seamless gradient transitioning from soft, light hues on one side to darker, more intense shades on the other, creating a visual representation of clarity in duality. The lighting is bright and clear, illuminating both figures while casting gentle shadows. The perspective is slightly elevated, as if the viewer is looking down at the scene from above. The overall art style should blend realism with a touch of ethereal quality, enhancing the beauty and intrigue of the composition.
+Seed: 3528275701
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Date

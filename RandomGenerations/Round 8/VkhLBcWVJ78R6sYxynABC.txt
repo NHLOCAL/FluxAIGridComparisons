@@ -1,0 +1,4 @@
+Prompt: Create an abstract illustration representing the concept of "Matter" and "Structure." The background should feature a cosmic scene filled with swirling galaxies, nebulae, and stars, rendered in vibrant shades of blue, purple, and black. In the foreground, depict a series of geometric shapes and structures, such as cubes, pyramids, and spheres, blending seamlessly with the cosmic theme. Each shape should be intricately detailed, with textures that resemble crystalline materials or metallic surfaces reflecting the cosmic light. The lighting should highlight the dimensionality of the structures, creating dramatic shadows and highlights. The overall composition should evoke a sense of complexity and harmony, emphasizing the interconnectedness of matter and structure in the universe, rendered in a surreal and mesmerizing style.
+Seed: 3664952959
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Matter, Structure

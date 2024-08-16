@@ -1,0 +1,4 @@
+Prompt: A majestic citadel rising above a serene pond, the towering stone walls adorned with ivy and ancient carvings reflecting a sense of history and grandeur. The pond's calm waters mirror the citadel and the vibrant, colorful foliage of trees surrounding it, creating a picturesque landscape. Soft wisps of mist hover above the water, adding an ethereal quality to the scene. The sky is painted in warm hues of gold and lavender as the sun sets, casting a gentle light that highlights the textures of the stone and the shimmering surface of the pond. The composition invites the viewer into a tranquil and enchanted world, blending architectural beauty with natural serenity. Photorealistic, cinematic lighting, high detail.
+Seed: 540185061
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Citadel, Pond

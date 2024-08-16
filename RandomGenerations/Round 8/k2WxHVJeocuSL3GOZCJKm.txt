@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant urban street scene during the golden hour. The view is from a slightly elevated angle, showcasing bustling pedestrians walking along the sidewalks, with some enjoying coffee from bright-colored cups. The buildings are adorned with large, colorful murals, capturing the essence of street art and creativity. The warm sunlight casts long shadows, creating a dynamic interplay of light and color. A couple of street performers, one playing a violin and the other juggling, enhance the lively atmosphere. In the background, a skyline features modern skyscrapers, with reflections of the sunset shimmering on their glass surfaces, giving a sense of vitality and energy. The composition radiates a feeling of euphoria and vibrancy, capturing the essence of urban life. Hyper-detailed, colorful, and cinematic.
+Seed: 1120271382
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Euphoria, Impact

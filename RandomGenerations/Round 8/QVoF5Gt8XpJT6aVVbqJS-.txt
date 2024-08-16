@@ -1,0 +1,4 @@
+Prompt: Create an image of a graceful dancer in mid-performance, showcasing an elegant dance pose. The dancer has long flowing brown hair and wears a flowing brown dress that billows around her as she moves. The background features a softly lit wooden stage with warm, golden lighting, accentuating the dancer's movements. Spotlights illuminate her from above, casting dynamic shadows on the stage. Capture the scene from a slightly low angle to emphasize her height and grace. The overall atmosphere is one of fluidity and artistry, with detailed textures in the dancer's dress and the wooden floor, creating a sense of rhythm and motion.
+Seed: 3321905707
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Brown, Dance

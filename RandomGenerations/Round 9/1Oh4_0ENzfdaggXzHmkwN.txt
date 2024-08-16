@@ -1,0 +1,4 @@
+Prompt: Create a surreal photograph featuring a split landscape, where one half depicts a vibrant, sunlit city bustling with life, filled with colorful flowers, joyful people in summery attire, and a clear blue sky. The other half transitions into a dark, shadowy alley with ominous figures lurking, stark contrasts, and a cloudy sky threatening rain. In the center, a translucent glass wall divides the two worlds, reflecting glimpses of both sides, enhancing the theme of duality. The lighting shifts dramatically across the divide, with the left side basking in warm sunlight and the right enveloped in cool, eerie shadows. The overall atmosphere should capture the essence of contrasting emotions, illustrating the dichotomy of joy and despair. High-resolution, highly detailed, cinematic style.
+Seed: 570452326
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Idea, Issue

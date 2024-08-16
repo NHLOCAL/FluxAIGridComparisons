@@ -1,0 +1,4 @@
+Prompt: A captivating illustration depicting a vibrant, futuristic cityscape at night. The skyline is filled with towering skyscrapers adorned with colorful neon lights, streaming holograms, and flying vehicles darting between the buildings. The streets below are bustling with diverse crowds of well-dressed citizens and street vendors selling exotic foods. The background features a large digital billboard showcasing animated advertisements. The overall atmosphere is lively and energetic, with a deep blue sky transitioning to purple as the sun sets. The perspective is from a high vantage point, capturing the dynamic pulse of the city below, illuminated by warm streetlights and glowing shop signs, creating a vivid scene of urban life. The art style is a blend of cyberpunk and futuristic realism with an emphasis on color saturation and sharp details.
+Seed: 4233644922
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Engaging, Level

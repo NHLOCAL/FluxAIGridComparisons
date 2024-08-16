@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a dynamic scene at a vibrant outdoor track and field event. Show a determined athlete sprinting towards a high hurdle, leaping gracefully over it. The athlete should be portrayed mid-air, with muscles tensed and focused expression, wearing a brightly colored uniform that contrasts against the backdrop. In the background, a cheering crowd is visible, blurred to emphasize the motion of the athlete. The sky is clear blue with the sun shining brightly, casting sharp shadows on the track. Capture the excitement and energy of the moment using an action shot angle, with a focus on sharp details in the athlete's form and the hurdle. The overall visual style should evoke a sense of speed and athleticism, with a bright, saturated color palette emphasizing the outdoor setting and enthusiastic atmosphere.
+Seed: 386653363
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hearing, Hurdle

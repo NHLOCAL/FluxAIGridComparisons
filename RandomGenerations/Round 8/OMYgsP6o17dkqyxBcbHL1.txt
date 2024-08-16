@@ -1,0 +1,8 @@
+Prompt: Create a captivating illustration that explores the duality of knowledge and hate. On the left side, depict a towering, ancient library filled with books and glowing orbs of light that symbolize knowledge. The atmosphere should be bright and inviting, with warm gold and white lighting illuminating the intricate details of the library.
+
+On the right side, contrast this with a dark, shadowy landscape filled with jagged rocks and stormy skies representing hate. Shadows loom ominously, with deep reds and blacks dominating the color palette, creating a sense of foreboding. In the center, a figure stands between the two realms, half bathed in light and half shrouded in darkness. The figure's expression is one of contemplation, caught in the balancing act between the two extremes.
+
+The overall composition should emphasize the stark differences between the two sides, using dramatic lighting and intricate details to enhance the narrative of knowledge versus hate. The background should seamlessly blend the contrasting elements, drawing the viewer's eye towards the figure at the center, inviting them to reflect on the themes of knowledge, hate, and the choice between them. Cinematic quality, high-resolution, and highly detailed.
+Seed: 3225161629
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Knowledge, Hate

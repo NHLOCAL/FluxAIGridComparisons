@@ -1,0 +1,6 @@
+Prompt: Create an image featuring a mystical seer, a wise old woman with flowing silver hair and deep, piercing eyes. She is sitting in a dimly lit, ornate room adorned with ancient tapestries and glowing crystals. The seer is surrounded by a swirling mist, holding a crystal ball that reflects vivid, ethereal patterns and visions of potential futures. In the background, a large window shows a starry night sky, with the moon casting soft, silvery light into the room.
+
+Nearby, a silhouette of a soulmate, a silhouette of a tall figure with a gentle expression, is subtly integrated into the mist, suggesting a connection between the two. The lighting is soft and warm, highlighting the intricate details of the room and the serene atmosphere. The overall style is reminiscent of magical realism, with intricate details and a soft color palette of blues, purples, and golds. The composition focuses on the connection between the seer and the elements, creating an enchanting and mystical scene.
+Seed: 2158034274
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Seer, Soulmate

@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a whimsical, elegantly ornate heart-shaped box adorned with intricate floral patterns and delicate filigree. The box is slightly open, revealing a soft, glowing light emanating from within, suggesting a hidden treasure. Surrounding the box are scattered petals in various shades of pink and white, with a few small, vibrant butterflies fluttering nearby. The background is a softly blurred, dreamy landscape filled with gentle pastel colors, creating a serene atmosphere. The lighting is warm and inviting, highlighting the textures and details of the box and surrounding elements, capturing a sense of wonder and enchantment. The art style should be reminiscent of a fairy tale illustration, combining elements of fantasy and romance.
+Seed: 530502809
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sweetheart, Belief

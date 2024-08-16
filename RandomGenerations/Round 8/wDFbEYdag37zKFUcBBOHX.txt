@@ -1,0 +1,4 @@
+Prompt: Create an image of a large, bustling stadium filled with fans, all focused towards the center, where a dramatic sports event is taking place. The stadium should feature vibrant banners, colorful team jerseys, and a resounding atmosphere of excitement. Bright spotlights illuminate the field, showcasing the intense action of the game. In the foreground, capture a close-up of a passionate fan, eyes wide with anticipation, clenching a foam finger in one hand and a drink in the other. The background should be filled with cheering crowds, confetti, and the high-energy vibe synonymous with live sports events. The lighting should be dynamic, highlighting the key moments and creating a sense of movement and thrill in the scene.
+Seed: 248558959
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stadium, Stare

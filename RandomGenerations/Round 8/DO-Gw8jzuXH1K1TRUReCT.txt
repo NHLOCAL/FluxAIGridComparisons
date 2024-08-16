@@ -1,0 +1,4 @@
+Prompt: Create an image of a grand altar adorned with an intricate, decorative tapestry featuring golden and silver threads weaving together symbolic designs. At the center, depict a beautifully crafted offering bowl filled with vibrant fruits and flowers, showcasing a vivid color palette of reds, yellows, blues, and greens. Surround the altar with flickering candles casting a warm golden light that dances across the scene. The background should feature towering stone pillars, embellished with ornate carvings and illuminated by soft, ethereal lighting, creating a sense of reverence and tranquility. The overall atmosphere should be rich and enchanting, inviting the viewer into a sacred space, evoking feelings of devotion and admiration. Art style inspired by Baroque painting, with an emphasis on detailed textures and dramatic contrasts.
+Seed: 4089780292
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Offering, Adoration

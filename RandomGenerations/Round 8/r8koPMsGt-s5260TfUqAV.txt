@@ -1,0 +1,6 @@
+Prompt: Create a vibrant illustration of a lively pub scene, featuring a diverse group of people enjoying drinks and conversations around wooden tables. The interior should be warmly lit with rustic decorations, including hanging beer barrels and vintage posters on the walls. In the background, bartenders serve drinks behind a long wooden bar piled high with various liquor bottles. 
+
+In the foreground, depict a challenging obstacle course made of stacked crates and barrels, with a few adventurous patrons attempting to climb and navigate through it. The atmosphere should be filled with energy and excitement, with laughter and chatter resonating throughout the scene. The color palette should include warm tones of amber and deep browns, with highlights from the unique lighting. Capture a slightly high-angle view, showcasing both the pub ambiance and the obstacle course in an engaging and dynamic manner.
+Seed: 4232206793
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pub, Obstacle

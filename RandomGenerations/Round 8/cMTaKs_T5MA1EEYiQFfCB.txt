@@ -1,0 +1,8 @@
+Prompt: Create a vibrant and detailed illustration of a graduation scene in an art school setting. The foreground features a diverse group of enthusiastic graduates, wearing colorful gowns and caps, holding their art portfolios and diplomas. Nearby, an easel displays a stunning painting, showcasing an abstract design bursting with vivid colors. 
+
+In the background, a sunlit campus courtyard is adorned with blooming flowers and art installations. The scene is bathed in warm, golden sunlight, creating soft shadows and a welcoming atmosphere. Some graduates are engaged in animated discussions, gesturing towards their artworks, while others pose for photographs. The overall composition should radiate excitement and achievement, highlighting the journey through art education and creativity.
+
+Art style: realistic and vibrant, with a focus on capturing the emotions of joy and accomplishment. Lighting should be warm and natural, emphasizing the colorful environment. Angle: a slightly elevated viewpoint to capture both the graduates and the artistic elements in the scene.
+Seed: 2174279409
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Art, Degree

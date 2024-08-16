@@ -1,0 +1,8 @@
+Prompt: Create an image depicting a post-apocalyptic landscape, where remnants of a once-thriving city are overgrown with dense, vibrant flora. In the foreground, a group of survivors, dressed in tattered clothing and makeshift armor, enjoy a moment of camaraderie, sharing a meal gathered from the wild. One survivor plays a makeshift guitar, while others engage in laughter and storytelling, showcasing their resilience amidst the ruins. 
+
+The background features crumbling skyscrapers entwined with thick vines and blooming flowers, creating a striking juxtaposition of nature reclaiming the urban environment. The sky is ablaze with a warm, golden sunset, casting a soft, inviting glow over the scene. 
+
+The art style is detailed and vibrant, with an emphasis on lush greens and warm earth tones, capturing the beauty of unexpected joy in a harsh world. The composition balances the decayed elements of the city with the flourishing life around it, inviting viewers to explore themes of hope and survival.
+Seed: 3558502448
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pleasure, Apocalypse

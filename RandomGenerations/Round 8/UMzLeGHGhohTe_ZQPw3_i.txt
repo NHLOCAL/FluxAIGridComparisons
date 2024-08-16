@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a giant, muscular, anthropomorphic bear crushing rocks beneath its immense paw. The bear stands proudly on a small cliff, showcasing its powerful physique and defined muscles. The background is a rugged mountain landscape, filled with towering peaks and a clear blue sky. The sunlight illuminates the scene, casting dramatic shadows that emphasize the bear's strength and size. Dust and small debris rise from the rocks as they break apart under the bear's grip. The overall composition should exude a sense of raw power and commanding presence, capturing the essence of strength in nature. The color palette features earthy tones, with rich greens and browns contrasting against the serene blue of the sky.
+Seed: 3008927683
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Crush, Strength

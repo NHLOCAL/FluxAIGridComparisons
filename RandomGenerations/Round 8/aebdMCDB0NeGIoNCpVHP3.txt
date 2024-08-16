@@ -1,0 +1,4 @@
+Prompt: A beautiful outdoor wedding scene set in a lush garden during golden hour, with soft, warm sunlight filtering through the trees. The couple stands at a flower-adorned arch, exchanging vows. The bride wears an elegant white gown with delicate lace details, a bouquet of vibrant flowers in her hands. The groom is in a sharp suit, looking intently at his bride. Guests are seated on rustic wooden chairs, smiling and capturing the moment with cameras. The background features colorful floral arrangements in full bloom, and soft, pastel-colored lanterns hanging from branches. The sky is painted in soft shades of orange and pink, creating a romantic, dreamy atmosphere. The overall composition captures the joy and beauty of the wedding moment, with attention to vibrant colors and intricate details.
+Seed: 3389750990
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enjoyment, Wedding

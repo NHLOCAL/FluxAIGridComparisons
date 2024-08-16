@@ -1,0 +1,4 @@
+Prompt: Create an image of a futuristic city skyline at dusk, featuring a massive, radiant icon in the shape of a light bulb that symbolizes "possibility". The skyline should be filled with sleek, towering skyscrapers adorned with glowing advertisements and holograms. The sky transitions from deep blue to vibrant purples and pinks, casting a warm glow over the city. The light bulb icon, positioned prominently among the buildings, emits a soft golden light that bathes the surroundings in a hopeful ambiance. Clouds fluffy and wispy drift across the sky, reflecting the colors of the sunset. The scene conveys a sense of innovation and creativity, rendered in a digital art style that emphasizes sharp details and vivid colors. The angle should be slightly elevated, as if the viewer is gazing down from a nearby hilltop, offering a panoramic view of this city full of potential.
+Seed: 2351631865
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Possibility, Icon

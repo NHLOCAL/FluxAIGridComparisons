@@ -1,0 +1,4 @@
+Prompt: A hauntingly serene landscape depicting an endless plain under a twilight sky, where the colors transition from deep indigo to soft lavender. In the foreground, a solitary, weathered tree stands tall, its gnarled branches silhouetted against the fading light. The ground is a patchwork of grasses in muted tones, gently swaying in a soft breeze, while distant mountains loom quietly on the horizon, shrouded in mist. Soft, diffused lighting filters through the gaps in the cloud cover, casting an ethereal glow across the scene. The overall composition creates a sense of tranquility and introspection, evoking a feeling of stillness and solitude, capturing the quiet beauty of nature in an otherworldly setting.
+Seed: 2671935698
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yearning, Silence

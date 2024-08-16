@@ -1,0 +1,4 @@
+Prompt: Create an image of a massive, intricate architectural edifice resembling a futuristic city skyline. The structure should be an amalgamation of sleek metallic surfaces, glass panels, and vibrant holographic displays. The scene is set during twilight, casting a warm orange and purple hue across the horizon. Surround the edifice with lush green parks filled with blooming flowers, winding pathways, and futuristic sculptures. Below, a river reflects the city's lights, adding to the enchantment of the scene. The perspective should be from a slightly elevated angle, capturing the grandeur and complexity of the structure against the glowing sky. The art style should be hyper-realistic, emphasizing details in the textures of the building and nature, creating a visually stunning depiction of an urban attraction.
+Seed: 3098887041
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Attraction, Edifice

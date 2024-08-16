@@ -1,0 +1,4 @@
+Prompt: Create an image of an intricately carved wooden engagement ring displayed on a rustic wooden table. The ring should feature delicate floral patterns and vines, showcasing the craftsmanship in the woodwork. Surrounding the ring, place small, natural elements such as moss, acorns, and dried leaves to emphasize a woodland theme. Soft, warm lighting filters through a nearby window, casting gentle shadows and highlighting the textures of the wood and the natural surroundings. The background should be softly blurred to direct focus towards the ring, creating a peaceful and inviting atmosphere. The overall composition should evoke a sense of organic beauty and elegance, blending nature with the symbolism of engagement. Photorealistic style, high detail, warm colors.
+Seed: 3577499874
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wood, Engagement

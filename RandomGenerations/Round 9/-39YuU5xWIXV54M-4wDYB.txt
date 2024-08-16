@@ -1,0 +1,4 @@
+Prompt: Create a sci-fi/fantasy landscape photograph featuring a breathtaking view of an ancient, towering tree with bioluminescent leaves glowing in vibrant shades of blue and green. The tree stands at the center of a vast forest with mist gently curling around its massive roots, which are entwined with shimmering crystalline rocks. In the background, distant mountains pierce the sky, illuminated by a rainbow of colors from a setting sun casting long shadows. Above, the sky is filled with swirling galaxies and twinkling stars, creating an otherworldly atmosphere. The lighting should be soft and ethereal, enhancing the sense of unity between the elements of nature and the cosmos. The entire scene should feel alive, invoking a sense of peace and connection to nature, rendered in hyper-realistic detail.
+Seed: 4232279256
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Epoch, Unity

@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring a woodland scene with a detailed, rustic badge in the foreground. The badge should incorporate elements such as leaves, tree trunks, and animals like deer or squirrels prominently integrated into the design. Surrounding the badge, depict a lush forest with tall, green trees, dappled sunlight filtering through the leaves, and a carpet of soft, mossy ground. Include wildflowers in various colors scattered around to enhance the vibrant natural setting. The art style should be realistic and nature-inspired, with warm, inviting lighting that emphasizes the tranquility and beauty of the woodland environment. The composition should focus on the badge as the central element, framed by the serene surroundings, inviting viewers to step into the peaceful woodland ambiance.
+Seed: 695277456
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Woodland, Badge

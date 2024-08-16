@@ -1,0 +1,4 @@
+Prompt: A captivating cinematic illustration of a futuristic military campaign, featuring a team of elite soldiers in technologically advanced armor. The soldiers are positioned in a dynamic action stance, showcasing a variety of high-tech weapons and gadgets. The background depicts a sprawling urban battlefield, with towering skyscrapers and futuristic vehicles engaged in combat. Explosions and smoke billow in the distance, casting a dramatic glow over the scene. The sky is a deep orange, indicating a sunset amidst the chaos, creating a stark contrast with the cold metallic colors of the soldiers' gear. The overall composition emphasizes teamwork and strategy, with a focus on ultra-high details and dynamic movement. The art style is reminiscent of high-definition sci-fi concept art, emphasizing realism and action.
+Seed: 4218891392
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Campaign, Alpha

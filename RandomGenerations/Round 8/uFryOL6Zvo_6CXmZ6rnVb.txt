@@ -1,0 +1,4 @@
+Prompt: Create a whimsical illustration of a fluffy, cartoon-style unicorn with a rainbow-colored mane and tail. The unicorn is prancing joyfully on a vibrant green meadow filled with colorful flowers and butterflies fluttering around. In the background, a sparkling blue river winds through the landscape, with a bright sun shining in a clear blue sky adorned with fluffy white clouds. The scene should be saturated with cheerful, pastel colors, creating a sense of happiness and playfulness. The unicorn's large, expressive eyes should reflect a sense of wonder, emphasizing the magical atmosphere of this delightful setting.
+Seed: 3892922993
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Delightful, Outcome

@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a vibrant library scene, where towering bookshelves overflow with colorful books. The library is illuminated by soft, warm lighting filtering through large stained glass windows, casting colorful patterns on the wooden floor. A cozy reading nook with plush chairs and small tables is nestled in one corner, inviting readers to dive into literature. The background features a grand ornate chandelier hanging from the high ceiling, adding to the elegance of the space. In the center, an elderly man with glasses is deeply engrossed in a book, while a young girl nearby flips through the pages of a brightly illustrated story. The overall atmosphere is serene, enriching, and inviting, celebrating the joy of reading and knowledge.
+Seed: 3878469377
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Understanding, Scene

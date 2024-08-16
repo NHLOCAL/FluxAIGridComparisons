@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a small, worn teddy bear sitting on a rain-soaked windowsill, surrounded by droplet-laden glass. The bear has faded fur and one eye missing, giving it a nostalgic and sorrowful appearance. Outside the window, a blurred landscape shows dark storm clouds and distant lightning strikes. The contrast between the warm, plush texture of the teddy bear and the cold, harsh environment outside is emphasized by soft lighting that filters through the droplets, casting gentle reflections on the bear. The scene captures a sense of abandonment and longing, evoking feelings of nostalgia and melancholy, while inviting the viewer to reflect on childhood memories.
+Seed: 1613496676
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Infatuation, Algorithm

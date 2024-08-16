@@ -1,0 +1,4 @@
+Prompt: A dramatic scene of an erupting volcano, with lava cascading down its sides in bright orange and red hues. The volcano is set against a backdrop of a stark, dark sky, filled with swirling ash clouds illuminated by the glow of the molten lava. In the foreground, a rugged landscape features jagged rocks and sparse vegetation, reflecting the harsh environment. The lighting is intense, with dramatic contrasts between the bright lava and the deep shadows cast by the smoke and rocky terrain. The viewer's perspective is slightly below the volcano, enhancing its towering presence and conveying a sense of power and raw energy. The entire composition creates an awe-inspiring and formidable atmosphere.
+Seed: 1511575355
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Volcano, Trust

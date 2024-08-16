@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene autumn landscape under a clear blue sky, where gentle breezes rustle through golden leaves on tall trees. The scene should feature a winding path covered in a carpet of fallen leaves, with patches of sunlight filtering through the branches. In the distance, rolling hills stretch towards the horizon, their slopes tinted with warm shades of gold and amber. A calm river meanders alongside the path, reflecting the brilliant colors of the scenery. The overall atmosphere should feel tranquil and inviting, showcasing the beauty of nature in autumn. Hyper-detailed, vibrant colors, natural lighting, landscape art.
+Seed: 1417840074
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Breeze, Gold

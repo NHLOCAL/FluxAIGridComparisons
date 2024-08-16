@@ -1,0 +1,4 @@
+Prompt: Create a vibrant illustration of a whimsical garden, bursting with an array of colorful flowers, detailed insect life, and intricate butterflies fluttering about. The garden is set against a bright blue sky with fluffy white clouds and a soft golden sunlight illuminating the scene. In the center, a finely crafted wooden bench adorned with decorative carvings invites viewers into the tranquil space. Surrounding the bench are lush green plants, creating layers of depth and rich textures. The overall composition should evoke a sense of life and joy, with vivid colors and dynamic elements, encapsulating a celebration of nature's beauty. Art style reminiscent of impressionism, high detail, bright colors, cinematic lighting.
+Seed: 1589005870
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Contribution, Pleasure

@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring a stunning, intricately designed jewel at the center of the image, radiating vibrant colors such as deep purples, luminous blues, and shimmering greens. The jewel is surrounded by an ethereal glow, with sparkling, reflective elements that enhance its brilliance. The background is a softly blurred gradient of pastel colors, creating a dreamy atmosphere. Delicate wisps of light and subtle bokeh effects add depth to the composition, evoking a sense of euphoria and wonder. The art style should reflect a blend of realism and fantasy, with a focus on the jewel's intricate facets and the enchanting play of light. The lighting is soft yet vivid, highlighting the jewel's captivating beauty.
+Seed: 3268335770
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Jewel, Euphoria

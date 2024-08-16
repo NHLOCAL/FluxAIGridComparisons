@@ -1,0 +1,4 @@
+Prompt: Create a striking image of a massive iceberg floating gracefully in a calm ocean. The iceberg should showcase intricate details of its icy surface, with shades of blue and white reflecting sunlight. Surrounding the iceberg is a serene, almost mystical atmosphere, with soft, golden light filtering through low-hanging clouds above. In the foreground, a small, ancient-looking stone altar is partially submerged in the water, adorned with symbolic carvings and worn offerings, hinting at a connection to an ancient religion. The background features distant mountains, shrouded in mist, adding to the overall sense of mystery. The scene should evoke a timeless, tranquil reverence, blending natural beauty with historical spirituality, presented in hyper-detailed realism.
+Seed: 1142976345
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Iceberg, Religion

@@ -1,0 +1,4 @@
+Prompt: Create an ultra-realistic illustration of a crystal, beautifully refracting light into a spectrum of colors. The crystal's surface should be intricately detailed with facets that catch and reflect the light. Set against a dark, velvety background that enhances the vibrant hues of red, blue, green, and yellow emanating from the crystal. Include soft shadows beneath the crystal to give it depth and make it appear as though it is gently resting on the surface. The scene should have a serene and ethereal quality, emphasizing the clarity and brilliance of the crystal, with a focus on the play of light and color. Best quality, high detail, masterpiece, 4k resolution.
+Seed: 84848885
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Distinction, Crystal

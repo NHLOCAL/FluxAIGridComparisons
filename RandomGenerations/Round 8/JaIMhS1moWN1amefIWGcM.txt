@@ -1,0 +1,8 @@
+Prompt: Create an image depicting a reality where elemental forces coexist harmoniously. In the foreground, illustrate a powerful elemental guardian, half human and half natural element; one half is made of swirling water, exuding waves and droplets, while the other half consists of molten lava, glowing and crackling with heat. The guardian stands with arms outstretched, summoning a bright orb of combined elements between their hands.
+
+In the background, illustrate a vibrant landscape that transitions through all four elements: on one side, lush greenery and waterfalls signify Earth, while on the opposite, a vast desert with wind-sculpted sand dunes represents Air. In the middle, dynamic scenes of flames and waves clash in a dance of cohesion, creating steam, mist, and sparks that fill the air.
+
+The sunlight breaks through a kaleidoscope of colors in the sky above, casting a warm, ethereal glow over the scene, enhancing the sense of unity and balance among the elements. The overall composition should evoke a sense of awe and majesty, with intricate details in the guardian’s features and the textures of water, fire, earth, and air. Aim for a hyper-realistic art style with sharp focus and a dynamic perspective.
+Seed: 2681289665
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reality, Elemental

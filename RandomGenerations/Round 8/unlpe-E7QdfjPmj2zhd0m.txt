@@ -1,0 +1,4 @@
+Prompt: Create an intricate illustration of an alchemist standing in a dimly lit laboratory, surrounded by an array of bubbling potions and ancient tomes. The alchemist, a middle-aged man with a long, flowing beard, wears a richly detailed robe adorned with celestial symbols. His hands are raised, manipulating glowing orbs of energy representing gravity, which swirl around him in various directions. The background features shelves filled with vials and glowing crystals, casting soft shadows and a warm, golden light throughout the room. A large, ornate window reveals a starry night sky, hinting at the cosmic forces at play. The overall atmosphere is mysterious and enchanting, evoking a sense of ancient wisdom and the pursuit of knowledge. The style is reminiscent of classical fantasy art, with an emphasis on rich colors and detailed textures.
+Seed: 2213537197
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alchemist, Gravity

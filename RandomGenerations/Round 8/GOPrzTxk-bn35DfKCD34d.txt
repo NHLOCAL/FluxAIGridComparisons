@@ -1,0 +1,4 @@
+Prompt: A vibrant, romantic scene set in a lush garden during sunset. The focal point is a couple, intertwined in a passionate embrace, surrounded by colorful blooming flowers and greenery. The sun casts a warm, golden light, creating soft shadows and highlighting their features. The couple’s expressions are filled with joy, and their clothes flow gently as if caught in a warm breeze. In the background, elegant fairy lights twinkle in the trees, adding to the enchanting atmosphere. The overall composition has a painterly quality, rich colors, and a dreamy ambiance, evoking a sense of love and connection.
+Seed: 227021545
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lover, Passion

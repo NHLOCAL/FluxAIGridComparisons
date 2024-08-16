@@ -1,0 +1,4 @@
+Prompt: Create an image of a dynamic scene capturing a colorful comet streaking through a starry night sky. The comet's tail should be long and flowing, composed of iridescent colors that blend seamlessly from deep blues to bright purples and fiery oranges. The background features a vast expanse of twinkling stars and distant galaxies, enhancing the sense of motion and cosmic wonder. The angle of the shot should be slightly below the comet, allowing it to dominate the scene as it blazes across, leaving a luminous trail in its wake. The overall atmosphere is one of awe and excitement, illuminated by the ethereal glow of the comet and the shimmering celestial bodies surrounding it. High detail, cinematic, vibrant colors.
+Seed: 3869143891
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Movement, Trail

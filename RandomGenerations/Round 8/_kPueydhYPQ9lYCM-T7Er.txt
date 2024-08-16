@@ -1,0 +1,4 @@
+Prompt: Create a dramatic illustration of a century-old black tree with an intricate, gnarled trunk and sprawling branches. The tree's bark is deeply textured and showcases various shades of charcoal and ash. In the background, depict a foggy landscape with muted, earthy colors that evoke a sense of timelessness. Soft, diffused light filters through the branches, casting intricate shadows on the ground covered in fallen leaves. The ground should be littered with fallen twigs and small rocks, enhancing the natural setting. The overall composition should highlight the tree's immense size and age, making it appear as a sentinel of the forest. The art style should be hyper-realistic, emphasizing the details of the tree and the subtle beauty of the surrounding environment.
+Seed: 3277000667
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Century, Black

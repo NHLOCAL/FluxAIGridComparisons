@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a glowing, intricate book floating above an ancient stone pedestal. The book's pages are luminous, radiating soft, golden light that illuminates the surrounding area. The pedestal is adorned with mystical engravings and symbols representing knowledge, wisdom, and discovery. In the background, depict a vast library filled with towering shelves of old, leather-bound books, dimly lit with warm, ambient light. Rays of brilliant light beam down from a circular skylight, creating a radiant contrast against the darker tones of the library. The angle should be slightly low, focusing on the floating book and pedestal, emphasizing the majesty and reverence of knowledge. Photorealistic style, highly detailed, meditative atmosphere.
+Seed: 2043379345
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Light, Knowledge

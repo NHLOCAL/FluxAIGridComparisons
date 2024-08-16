@@ -1,0 +1,4 @@
+Prompt: Create a vibrant illustration depicting a whimsical landscape overflowing with colorful, oversized fruit and flowers under a radiant rainbow. The scene should feature a gently flowing river filled with sparkling, multicolored water, reflecting the hues of the rainbow. In the foreground, include a massive, smiling apple with cartoonish eyes, surrounded by cheerful daisies and strawberries with playful expressions. The background should showcase rolling hills painted in bold, saturated colors, leading up to a bright blue sky filled with fluffy, white clouds. The overall composition should evoke a sense of abundance and joy, with a playful, cartoon-like art style and bright, cheerful lighting that enhances the colors of the rainbow and the landscape.
+Seed: 1294150670
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capacity, Rainbow

@@ -1,0 +1,4 @@
+Prompt: Create an image of a cozy living room scene, featuring a plush, oversized armchair draped with a warm, knitted blanket. A steaming cup of hot cocoa sits on a small side table nearby. The walls are adorned with soft, pastel colors and framed pictures of serene landscapes. A large window showcases a gentle snowfall outside, with snowflakes softly landing against the glass. The lighting is warm and inviting, emanating from a softly glowing floor lamp in the corner, casting a serene ambiance throughout the room. A crackling fireplace adds warmth to the atmosphere, with flickering flames that create playful shadows on the wall. A fluffy cat curls up contentedly on the armchair, adding to the feeling of coziness and comfort. The overall composition invites a sense of tranquility and peacefulness, perfect for a winter evening at home.
+Seed: 3930284314
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ravishing, Coziness

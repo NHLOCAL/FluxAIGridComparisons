@@ -1,0 +1,4 @@
+Prompt: A stunning oil painting that captures the essence of love through a beautifully intertwined couple nestled in a tranquil meadow. The figures, depicted in graceful postures, are dressed in flowing garments that blend harmoniously with the surrounding nature. The background features softly rolling hills covered in vibrant wildflowers, with a warm golden light casting gentle shadows across the scene. Fluffy white clouds drift lazily in a serene blue sky, enhancing the peaceful ambiance. Delicate brushstrokes convey tender moments, with subtle details of the couple’s expressions and body language, creating a timeless representation of affection and connection. The overall color palette consists of warm hues, emphasizing a feeling of intimacy and harmony, while the composition invites the viewer into this idyllic moment of love. Masterpiece, high resolution, realistic.
+Seed: 2687992713
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Amour, Painting

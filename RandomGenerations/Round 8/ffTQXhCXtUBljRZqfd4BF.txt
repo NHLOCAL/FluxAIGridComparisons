@@ -1,0 +1,4 @@
+Prompt: A captivating cinematic scene set in a vast desert landscape with rolling dunes and a clear blue sky. In the foreground, depict a winding trail leading into the horizon, adorned with delicate desert flowers and scattered rocks. Add a series of mysterious, intricately designed ruins along the trail, hinting at a long-lost civilization. The lighting is warm and golden, casting long shadows across the sand and highlighting the textures of the terrain. The atmosphere should feel surreal and enchanting, with a gentle breeze stirring the sand. An overall sense of intrigue surrounds the scene, inviting the viewer to imagine the secrets hidden in the desert. Render in a highly detailed, hyper-realistic style, emphasizing earthy tones and rich contrasts.
+Seed: 3192936988
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desert, Trail

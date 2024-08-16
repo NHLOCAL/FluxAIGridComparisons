@@ -1,0 +1,8 @@
+Prompt: Create a striking illustration of two futuristic spaceships engaged in a rendezvous in the vastness of space. The first spaceship, sleek and elongated, is designed with sharp angles and glowing blue engines, while the second ship has a more rounded, bulkier form with vibrant red highlights. Both ships are adorned with detailed markings and insignias, emphasizing their advanced technology. 
+
+In the background, a breathtaking nebula swirls with deep purples, blues, and hints of gold, creating a colorful cosmic atmosphere. Bright stars twinkle in the distance, adding depth and dimension to the scene. The lighting should be dramatic, with beams of light from the two ships illuminating the surrounding space, contrasting against the dark void.
+
+The angle of the shot should capture the close proximity of the ships, highlighting the intricate details of their designs and the dynamic nature of their meeting. This cinematic composition combines elements of science fiction and adventure, immersing the viewer into a moment of interstellar collaboration and exploration.
+Seed: 181678728
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rendezvous, Icon

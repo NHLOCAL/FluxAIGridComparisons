@@ -1,0 +1,4 @@
+Prompt: A detailed illustration of a whimsical bakery scene, with shelves overflowing with an array of pastries, cakes, and bread, all rendered in vibrant colors. The focal point is a cartoonish character, depicted as an 'addict' to baked goods, with exaggerated features like wide eyes and a cheeky grin. The character is reaching out eagerly for a golden croissant while surrounded by colorful macarons, decadent chocolate cakes, and freshly baked loaves of bread. The background features a charming kitchen with warm wooden accents, soft pastel-colored walls, and a large window letting in bright sunlight. Soft, diffused lighting creates a cozy atmosphere, emphasizing the delightful allure of the bakery. The overall mood is playful and inviting, showcasing a joyful obsession with delicious treats. Illustration, whimsical, vibrant colors, high detail.
+Seed: 86766413
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bakery, Addict

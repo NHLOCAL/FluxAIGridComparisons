@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a serene landscape that embodies relaxation and tranquility. The scene features a lush green meadow dotted with vibrant wildflowers, gently swaying in a light breeze. In the background, a crystal-clear lake reflects the surrounding mountains under a clear blue sky. Soft, fluffy clouds drift lazily, and the sun casts a warm, golden glow over the scene, enhancing the sense of calm. Incorporate a cozy, inviting hammock strung between two trees, with a book resting on the side, suggesting a peaceful retreat. This natural setting should capture the essence of relaxation, with smooth textures and harmonious colors, aiming for a photorealistic style. The angle of the shot is slightly elevated, providing a panoramic view of this idyllic sanctuary, ensuring an immersive experience in the tranquility of nature.
+Seed: 540380686
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Relaxation, Syndicate

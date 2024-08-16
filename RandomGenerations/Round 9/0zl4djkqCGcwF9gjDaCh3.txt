@@ -1,0 +1,6 @@
+Prompt: Create an intricate illustration depicting the concept of "duality" through two contrasting figures standing back to back. One figure represents light, adorned in vibrant white and gold armor, with flowing, radiant hair and a serene expression. The other figure embodies darkness, draped in deep black and crimson robes, sporting sharp features and a menacing stare. The background splits into two distinct halves: one side featuring a bright, sunlit landscape filled with blooming flowers, and the other enveloped in shadowy trees and swirling mist. 
+
+The art style is a blend of realistic details and fantasy, with high contrast between the light and dark elements. Use soft, warm lighting on the light figure side, while the dark side is illuminated by a cool, dim glow, enhancing the sense of duality. The angle should be slightly above the figures, showcasing their contrasting qualities and physiques while inviting viewers to reflect on the balance of these two forces. The overall ambiance is a blend of epic and mystical, creating a captivating visual narrative.
+Seed: 693167190
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Agency, Chronicle

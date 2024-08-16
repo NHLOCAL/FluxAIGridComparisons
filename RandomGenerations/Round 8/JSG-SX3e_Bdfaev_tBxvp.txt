@@ -1,0 +1,4 @@
+Prompt: Create an image of a bustling street market in a vibrant country setting, showcasing various stalls filled with colorful produce, handmade crafts, and unique local goods. The scene is lively, with people of diverse backgrounds engaging in commerce and conversation, wearing traditional clothing that reflects the culture of the country. The background should feature lush green hills and distant mountains under a bright blue sky with fluffy white clouds. The sunlight casts a warm, golden glow over the market, highlighting the vivid colors of fruits and textiles. Capture the essence of community and daily life, blending cultural elements and natural beauty in a realistic, lively style.
+Seed: 3945423220
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Country, Work

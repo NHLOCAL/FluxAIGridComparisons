@@ -1,0 +1,4 @@
+Prompt: A breathtaking illustration of a serene desert landscape at sunset. The foreground features gently rolling sand dunes, their contours emphasized by the warm orange and gold hues of the setting sun. The sky transitions from deep blue to vibrant shades of pink and purple, reflecting the tranquility of the scene. Silhouettes of elegant palm trees dot the landscape, adding a touch of greenery. In the distance, a lone camel gracefully walks along a ridge, embodying harmony with the surroundings. The desert is alive with subtle textures, capturing grains of sand catching the last light. Soft, diffused lighting creates a peaceful atmosphere, inviting viewers to immerse themselves in the serene beauty of the desert. The composition is rendered in a realistic art style, emphasizing the natural beauty and harmony of the landscape.
+Seed: 4129134422
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desert, Harmony

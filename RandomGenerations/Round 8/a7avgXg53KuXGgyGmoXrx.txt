@@ -1,0 +1,4 @@
+Prompt: A minimalist illustration of a Leviathan rising from the deep ocean. The massive creature, with smooth, undulating scales reflecting shades of deep blue and green, breaches the surface, creating a gentle splash of water droplets. The Leviathan's silhouette is elongated, with slight hints of fins and tentacles gracefully trailing behind. The background features a calm, monochromatic seascape under a serene twilight sky, where soft pastels of pink and purple blend seamlessly. The overall composition emphasizes the colossal size of the Leviathan through the minimalist approach, inviting a sense of awe and the beauty of simplicity, with a focus on clean lines and open space.
+Seed: 2751955585
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Simplicity, Leviathan

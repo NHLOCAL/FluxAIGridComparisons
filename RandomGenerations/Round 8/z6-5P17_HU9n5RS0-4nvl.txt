@@ -1,0 +1,4 @@
+Prompt: A detailed, hyper-realistic digital illustration of a medieval watermill nestled in a lush, tranquil valley. The mill, constructed from weathered stone and wood, features a large, wooden waterwheel that turns slowly as water cascades down from a nearby stream. Surrounding the mill, vibrant green foliage and colorful wildflowers create a picturesque landscape. The background includes rolling hills with patches of sunlight filtering through the trees, casting soft shadows on the ground. A clear blue sky with fluffy white clouds enhances the peaceful atmosphere. The scene should evoke a sense of harmony with nature, capturing the essence of a serene countryside setting. The art style should be reminiscent of classic landscape paintings, emphasizing detail and rich colors.
+Seed: 1695971380
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quest, Mill

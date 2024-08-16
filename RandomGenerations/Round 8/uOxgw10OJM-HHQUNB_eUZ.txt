@@ -1,0 +1,4 @@
+Prompt: A tranquil scene depicting a lush apple orchard at dawn. The orchard is filled with rows of vibrant apple trees, laden with ripe, red apples. Soft morning light filters through the branches, casting warm golden hues across the dew-kissed grass below. A gentle mist hangs in the air, adding an ethereal quality to the environment. In the background, rolling hills are visible, painted in shades of green, under a clear blue sky. A wooden cart with a few scattered apples sits in the foreground, enhancing the rustic charm of the setting. The overall composition captures the peaceful beauty of nature, drawing the viewer into this idyllic landscape. Highly detailed, photorealistic, serene atmosphere.
+Seed: 3562686612
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Observe, Orchard

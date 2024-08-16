@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a whimsical fairy scene set in an enchanting forest. The focal point is a tiny, delicate fairy with iridescent wings fluttering in the air. The fairy, adorned with a gown made of flower petals, has soft features and a gentle smile. Surrounding her are vibrant, oversized flowers in hues of pink, purple, and yellow, with intricate details in their petals and leaves. The forest background is a mix of lush green foliage, dappled sunlight filtering through the trees, and sparkling fairy dust in the air. The light is soft and warm, creating an inviting and magical atmosphere that evokes feelings of sweetness and wonder. The overall art style is reminiscent of classic storybook illustrations, with a focus on vivid colors and intricate details, enhancing the fantastical nature of the scene.
+Seed: 249549107
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Blessing, Sweetness

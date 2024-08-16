@@ -1,0 +1,4 @@
+Prompt: Create an image of a large, glowing gem resting on an ancient stone pedestal in a dimly lit cavern. The gem should be multifaceted, reflecting a spectrum of colors, including deep blues, fiery reds, and vibrant greens. The pedestal is adorned with intricate carvings depicting mythical creatures and ancient symbols, partially covered in moss and lichen, indicating its age. The cavern walls are rough and rocky, with subtle hints of geodes scattered throughout, softly illuminated by the gem's radiant light. The atmosphere is mystic and enchanting, with fog curling around the base of the pedestal, and a beam of light filtering through a small opening above, emphasizing the gem's brilliance. Rendered in a hyper-realistic style with high detail and dramatic lighting that highlights the gem's facets.
+Seed: 1571680231
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capability, Gem

@@ -1,0 +1,4 @@
+Prompt: A haunting oil painting foregrounds a distorted figure standing in the center of a dark, ominous landscape. The figure is draped in tattered, shadowy garments, with an exaggerated, elongated face twisted in a silent scream. Surrounding the figure are dark, twisted trees with gnarled branches reaching into a stormy sky filled with swirling shades of deep blue and black. The ground is a murky blend of browns and grays, appearing cracked and decayed. A dim light source illuminates the figure’s silhouette, creating eerie shadows that stretch unnaturally across the terrain. The composition showcases intense brushwork and high contrast to evoke a visceral sense of fear, drawing the viewer into an unsettling yet mesmerizing visual experience. Art style reminiscent of traditional dark romanticism.
+Seed: 1152875290
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fear, Painting

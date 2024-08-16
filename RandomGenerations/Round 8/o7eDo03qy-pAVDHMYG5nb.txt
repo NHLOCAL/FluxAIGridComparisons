@@ -1,0 +1,4 @@
+Prompt: A towering, ancient monument carved from dark stone, set against a stormy sky filled with swirling, ominous clouds. The monument features intricate, grotesque faces and figures, conveying a sense of dread and foreboding. Lightning occasionally illuminates the scene, casting harsh shadows that enhance the menacing details of the stonework. At the base of the monument, a weathered path winds through overgrown vegetation, leading to a dense, foggy forest that seems to whisper with unseen dangers. The atmosphere is thick with tension, with muted colors highlighting the sense of fear and unease that permeates the scene. The overall lighting creates dramatic contrasts, emphasizing the monument's towering presence and the dark, chaotic surroundings. Highly detailed, cinematic, and atmospheric.
+Seed: 3347443669
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monument, Fear

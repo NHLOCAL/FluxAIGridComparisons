@@ -1,0 +1,4 @@
+Prompt: Create an image of a cozy café interior, featuring a charming wooden counter adorned with an assortment of pastries and coffee cups. In the foreground, a couple sits at a small round table, engaged in deep conversation, surrounded by soft, warm lighting that creates an inviting atmosphere. The walls are lined with bookshelves filled with books and plants, and a large window showcases a rainy day outside, with raindrops gently tapping against the glass. The floor is made of rustic tiles, and potted plants add touches of greenery throughout the space. The café's décor has a vintage aesthetic, with comfortable chairs and whimsical art pieces hung on the walls. The overall ambiance is warm and intimate, inviting viewers to feel a sense of connection and comfort in this café setting.
+Seed: 4042776848
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Commitment, Café

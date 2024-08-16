@@ -1,0 +1,4 @@
+Prompt: Create an illustration depicting a mysterious village nestled in a dense, dark forest, where ancient trees loom overhead, their twisted branches forming a natural canopy. The village is illuminated by flickering lanterns that cast eerie shadows on the cobblestone paths. In the foreground, a group of robed figures gather around a large, ornate stone altar, adorned with intricate carvings and glowing symbols, suggesting a powerful ritual in progress. The sky above is a deep indigo, filled with swirling clouds, hinting at an impending storm. The overall atmosphere is charged with tension, as secrets and forbidden desires intertwine in the air. The art style should encompass elements of dark fantasy with a focus on high detail and dramatic lighting.
+Seed: 2873944499
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Village, Power

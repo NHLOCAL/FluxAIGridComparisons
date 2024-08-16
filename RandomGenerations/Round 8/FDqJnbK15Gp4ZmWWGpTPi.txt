@@ -1,0 +1,4 @@
+Prompt: A dramatic illustration depicting a massive tornado swirling violently across an open landscape. The tornado is intricately detailed, showcasing dark, billowing clouds and debris being sucked up into its funnel. The foreground features a field of tall, golden grass bending against the force of the wind, with smaller objects such as hay bales and tree branches being caught in the tornado's path. The background includes a distant, ominous storm cloud illuminated by occasional flashes of lightning, highlighting the tension in the atmosphere. The lighting showcases contrasting shades of grey and black in the sky, while the grass retains a vibrant golden hue. The angle is low to the ground, emphasizing the tornado's towering presence and the chaotic energy of the natural disaster, evoking a sense of power and awe. High detail, hyperrealistic, cinematic quality.
+Seed: 1528393455
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tornado, Respect

@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring a lone figure sitting on a bench at dusk. The scene is set in a dimly lit urban park, with worn-out street lamps casting soft, yellowish light that barely reaches the path. The figure, dressed in a heavy coat with hunched shoulders, gazes down at the ground, surrounded by scattered autumn leaves. The sky above is a deep shade of gray with hints of fading blue, suggesting an impending rain. The architecture in the background consists of tall, imposing buildings that loom and create a sense of isolation. The overall atmosphere is somber and reflective, with subdued color tones and gentle shadows enhancing the feeling of sadness. The style is reminiscent of a fine art painting, capturing detailed textures and an intricately layered composition.
+Seed: 3717416051
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sadness, Manner

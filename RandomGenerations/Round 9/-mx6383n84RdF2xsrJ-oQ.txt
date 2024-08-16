@@ -1,0 +1,6 @@
+Prompt: Create a photograph featuring a person gazing into a large, ornate mirror, with their reflection revealing a contrasting version of their inner self. The subject should be a contemplative individual, standing in a dimly lit room that enhances the sense of introspection. The lighting should be soft and moody, casting gentle shadows and creating an ethereal atmosphere. 
+
+In the reflection, depict the inner self as a vibrant, colorful figure that embodies the person's dreams and aspirations, with bright hues and abstract patterns radiating from the mirrored surface. The background should consist of soft, blurred elements, like faded furniture or art, to keep the focus on the person and the mirror. The overall composition should evoke a sense of self-discovery and introspection, emphasizing the juxtaposition between the outward appearance and the inner identity. High-resolution, ultra-detailed, cinematic lighting, atmospheric perspective.
+Seed: 1020485429
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Romance, Change

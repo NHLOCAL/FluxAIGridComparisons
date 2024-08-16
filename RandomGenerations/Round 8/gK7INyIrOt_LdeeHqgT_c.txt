@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene landscape featuring a vast, tranquil lake reflecting the clear blue sky and surrounding lush green mountains. A single, majestic swan glides gracefully across the water, creating gentle ripples that disrupt the mirror-like surface. In the foreground, vibrant wildflowers bloom in a riot of colors, while soft, fluffy clouds float lazily above. The lighting is warm and inviting, suggesting a late afternoon sun casting golden hues over the scene. The composition focuses on the harmony of nature, embodying a sense of peace and beauty. Rendered in the style of an impressionistic painting, the brush strokes should convey a sense of fluidity and softness, enhancing the overall calming atmosphere.
+Seed: 4192584920
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awareness, Desire

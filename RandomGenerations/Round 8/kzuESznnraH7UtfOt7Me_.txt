@@ -1,0 +1,4 @@
+Prompt: A breathtaking, hyperrealistic depiction of a massive iceberg floating serenely in a crystal-clear ocean. The iceberg's intricate and translucent textures showcase a gradient of icy blues and whites, catching the sunlight that reflects off its surface. The surrounding water is calm and mirror-like, perfectly reflecting the iceberg's majestic shape and patterns. In the background, a soft, pastel-colored sky at dawn transitions from light pinks to gentle blues, creating a sense of tranquility. The scene is enhanced by the presence of a few distant, wispy clouds. The image focuses on the pristine beauty of nature, emphasizing the scale and serenity of the iceberg amidst the peaceful ocean. High detail, large format, realistic lighting, and a serene atmosphere.
+Seed: 1003517604
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Iceberg, Tranquility

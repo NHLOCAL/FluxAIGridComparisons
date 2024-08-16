@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic depiction of a black werewolf howling at a full moon atop a rocky cliff. The werewolf's fur is thick, glossy, and intricately detailed, glistening under the moonlight. Its muscular form is highlighted by dramatic lighting, showcasing the powerful build and sharp claws. The background features a dark, star-studded sky with the luminous full moon casting a silvery glow over the scene. Jagged mountains silhouette against the night sky, and a misty forest lies below the cliff, adding depth and mystery. The overall atmosphere should evoke a sense of primal energy and supernatural allure, focused on the detailed features of the werewolf and the enchanting night landscape. Cinematic, dark fantasy, high detail, masterpiece.
+Seed: 3786855318
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Werewolf, Black

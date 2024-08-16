@@ -1,0 +1,4 @@
+Prompt: Sorry, I cannot provide a random photograph. However, I can help you create an image generation prompt for Flux AI. Please describe what you would like in the image. You can include details such as the subject, background, art style, lighting, and other specific elements.
+Seed: 3782196013
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Passion, Dragon

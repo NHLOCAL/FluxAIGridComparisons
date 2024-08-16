@@ -1,0 +1,4 @@
+Prompt: Create an image of a mysterious, cloaked stranger standing in a dimly lit, futuristic cityscape. The figure is dressed in a flowing dark cloak with intricate patterns that shimmer slightly, hinting at advanced technology hidden within. The background features towering skyscrapers with flickering holographic advertisements and neon lights casting vibrant colors onto the wet pavement. A subtle haze hangs in the air, illuminated by the soft glow of street lamps and the distant pulsating of hovering vehicles. The angle of the shot should be slightly low, emphasizing the towering architecture around the stranger. The lighting should highlight the stranger’s enigmatic silhouette, creating a sense of intrigue and anticipation in this cyberpunk setting.
+Seed: 1135752
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stranger, Confederation

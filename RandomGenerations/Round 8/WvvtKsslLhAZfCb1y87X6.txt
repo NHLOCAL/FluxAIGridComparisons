@@ -1,0 +1,4 @@
+Prompt: Create an image of a beautifully decorated dinner table set for two in a cozy, dimly lit room. The table should feature fine china, elegant wine glasses, and a candle centerpiece casting soft, warm light. The background includes a picturesque window revealing a moonlit night with stars twinkling in the sky. Delicate floral arrangements should be present, enhancing the romantic atmosphere. The overall color palette should include rich reds, deep golds, and soft whites, creating an intimate and inviting ambiance. The scene should feel warm and welcoming, emphasizing a sense of connection and intimacy between the two figures, who should be blurred in the background, sharing a quiet moment together. The art style should resemble a soft-focus romantic painting, highlighting the coziness of the setting.
+Seed: 1344379809
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Appreciation, Sex

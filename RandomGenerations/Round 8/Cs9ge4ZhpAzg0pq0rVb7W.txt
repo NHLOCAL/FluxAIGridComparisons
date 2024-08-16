@@ -1,0 +1,4 @@
+Prompt: Create an image of a stunning, radiant ruby gemstone, deeply embedded within a dark, rocky cave. The ruby glows with an intense red light, illuminating the surrounding rough surfaces of the cave with soft, warm reflections. The walls of the cave should be textured and jagged, with some areas shimmering as if wet, enhancing the contrast with the vivid glow of the ruby. Add small crystals and mineral formations that reflect and amplify the ruby's light. The overall atmosphere should feel mysterious and enchanting, with a touch of magic, highlighting the beauty and rarity of the ruby within its hidden environment. The perspective should be close-up, allowing the viewer to appreciate the intricate facets and depth of the ruby's color. Use dramatic lighting to create shadows that emphasize the cave's ruggedness and the ruby's brilliance.
+Seed: 1663033299
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intuition, Ruby

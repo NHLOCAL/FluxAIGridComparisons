@@ -1,0 +1,4 @@
+Prompt: A dynamic illustration of a futuristic spaceship engaged in hyperdrive, surrounded by swirling, vibrant streaks of light representing the speed of travel through space. The spaceship, designed with sleek metallic surfaces and glowing accents, features intricate details such as rotating engines and glowing energy conduits. The background showcases a cosmic scene filled with distant stars, nebulae, and glowing celestial bodies that create a sense of depth and adventure. The lighting is dramatic, highlighting the contours of the spaceship while casting long shadows against the vivid backdrop. The overall composition should convey excitement and the thrill of exploration in the vast universe, emphasizing the idea of a daring expedition through uncharted territories.
+Seed: 1343806034
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hyperdrive, Expedition

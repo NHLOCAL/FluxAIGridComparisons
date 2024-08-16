@@ -1,0 +1,4 @@
+Prompt: Create an imaginative scene depicting two futuristic robots engaged in a playful game of teleportation in a vibrant city setting. The robots should have sleek, metallic bodies with colorful LED lights that pulse rhythmically. One robot is mid-teleportation, captured in a dynamic pose with shimmering energy waves surrounding it, while the other robot stands nearby, laughing and clapping with joy. The background showcases a bustling city filled with towering skyscrapers, neon lights, and flying vehicles, all illuminated by a twilight sky. The atmosphere is bright and energetic, highlighting a fun and friendly interaction between the characters. The illustration should maintain a blend of sci-fi and whimsical art styles, with an emphasis on detail and color vibrancy.
+Seed: 3505542334
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Teleportation, Friendship

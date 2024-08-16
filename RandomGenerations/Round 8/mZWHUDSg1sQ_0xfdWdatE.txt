@@ -1,0 +1,4 @@
+Prompt: Create an image of a mysterious pearl resting at the center of an ancient, weathered treasure chest. The pearl should be luminescent, casting a soft, iridescent glow that illuminates the surroundings. The treasure chest, adorned with intricate carvings and rusty metal hinges, is half-open, revealing scattered gold coins, gemstones, and ornate trinkets spilling out. The background is a dimly lit underwater environment, with shafts of blue-green light filtering through the murky water above. Shadows dance around the chest, creating an atmosphere of intrigue and wonder. The overall composition should evoke a sense of ancient maritime secrets waiting to be uncovered, with rich textures and colors emphasizing the beauty and allure of the pearl.
+Seed: 992522492
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mystery, Pearl

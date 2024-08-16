@@ -1,0 +1,8 @@
+Prompt: A striking, hyper-realistic illustration of a towering, abstract figure that represents the concept of injustice, depicted with broken scales held precariously in one hand and chains that dangle loosely from the other. The figure is adorned with jagged, fragmented armor contrasting with smooth textures that symbolize chaos and disorder. Shadows lurk within the cracks of the armor, illustrating the weight of unfulfilled justice. 
+
+In the foreground, a luminous orb radiates an overwhelming glow, serving as the embodiment of ecstasy, with twisting light beams and vivid colors that create a stark contrast against the darker elements of the figure. This ethereal light flows like liquid, intertwining with the figure's base, offering an unsettling allure that draws the viewer in.
+
+The background features a chaotic urban environment, partially obscured by swirling fog and ominous shadows. Striking chiaroscuro lighting enhances the dramatic effect, casting deep shadows that emphasize the figure's imposing presence. A sense of movement is evident, with wind scattering papers and debris, reinforcing the struggle between justice and ecstasy, ultimately creating a thought-provoking visual experience. The overall composition balances elements of conflict and temptation, inviting reflection on the dual nature of these themes.
+Seed: 3005287613
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Injustice, Ecstasy

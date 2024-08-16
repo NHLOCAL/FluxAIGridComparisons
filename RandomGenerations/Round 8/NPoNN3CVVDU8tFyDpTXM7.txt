@@ -1,0 +1,4 @@
+Prompt: Create an image of a bustling pharmacy interior, with shelves filled with colorful medicine boxes and health products. A pharmacist, a middle-aged woman with glasses, stands behind a counter, conducting consultations with a customer who appears to be pondering over the medication options. The background features bright, welcoming lighting that highlights the cleanliness of the environment, with a clear blue sky visible through large windows. Display a variety of prescription bottles, over-the-counter medicines, and a digital display board showing health tips. The overall atmosphere should be organized, professional, and slightly clinical, conveying a sense of trust and reliability in pharmaceutical care. The angle of the shot should be slightly above eye level, capturing both the pharmacist and the customer in a conversational pose.
+Seed: 2426686257
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pharmacy, Thought

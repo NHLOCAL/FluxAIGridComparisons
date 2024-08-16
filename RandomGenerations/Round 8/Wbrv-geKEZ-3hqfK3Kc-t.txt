@@ -1,0 +1,6 @@
+Prompt: Create an image featuring a clear, lightweight plastic object, such as a delicate flower vase, resting on a glossy, reflective surface. The vase should be intricately designed with flowing curves and soft edges, showcasing its transparency and subtle color gradients. Soft pastel hues, like blush pink and light aqua, should subtly shimmer across its surface as light refracts through the plastic. 
+
+The background should consist of a minimalistic, softly blurred environment, perhaps an airy room filled with natural light filtering through sheer curtains. This lighting should create gentle highlights and soft shadows, enhancing the smooth surface of the vase. The angle of the shot should be slightly tilted to add a dynamic perspective, capturing the lightweight essence of the material. Emphasis on clarity, simplicity, and elegance should drive the overall composition, evoking a sense of calm and transparency within the setting.
+Seed: 582466646
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Light, Plastic

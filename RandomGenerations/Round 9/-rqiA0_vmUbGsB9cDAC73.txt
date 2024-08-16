@@ -1,0 +1,4 @@
+Prompt: Create a photograph of an elderly woman with deeply lined features, her face partially illuminated by soft, natural light filtering through a window. The background is an intimate, cluttered living room filled with mementos of her life, such as framed family photos and aged books. She gazes out of the window, a single tear glistening on her cheek, creating a striking contrast with her warm, faded sweater. The colors in the image should be muted and earthy, emphasizing the textures of her skin and the surroundings. Capture the scene from a slightly elevated angle, showcasing the gentle warmth and nostalgia of the setting. The overall composition should convey a sense of reflection, history, and quiet strength, reminiscent of memories cherished and lost.
+Seed: 2657840
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reservoir, Diner

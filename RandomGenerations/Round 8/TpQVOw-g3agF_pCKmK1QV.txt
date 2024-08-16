@@ -1,0 +1,4 @@
+Prompt: Create an image depicting the exterior of a futuristic corporation headquarters. The structure should be sleek and modern, constructed primarily of glass and steel, reflecting the surrounding cityscape. The building's design features flowing curves and sharp angles, illuminated by soft blue and white LED lights. Surrounding the headquarters, there are green spaces with digital screens displaying corporate logos and data. The sky above should be a clear twilight, showcasing a gradient of deep blue to purple, with hints of city lights beginning to twinkle below. The angle of the shot should be slightly low, looking up at the building to emphasize its grandeur and modernity. The overall atmosphere should convey a sense of innovation and progress, with the busy streets below filled with people and futuristic vehicles.
+Seed: 3271947392
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Corporation, Amount

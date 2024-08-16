@@ -1,0 +1,4 @@
+Prompt: A dramatic scene depicting a vast, open landscape with tall grass swaying vigorously in the wind. The foreground features a horizon filled with rolling hills under a turbulent sky filled with dark, swirling clouds, hinting at an approaching storm. The wind is visually represented by the bending of the grass and the presence of scattered debris swirling through the air. In the distance, a solitary tree stands resilient against the force of nature, its branches bending but not breaking. The lighting is dynamic, with shafts of sunlight breaking through the clouds, creating strong contrasts and highlighting the movement of the grass and other elements in the scene. The overall atmosphere conveys a sense of wild beauty and the power of nature in motion, rendered with hyper-realistic detail.
+Seed: 1555746446
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wind, Scene

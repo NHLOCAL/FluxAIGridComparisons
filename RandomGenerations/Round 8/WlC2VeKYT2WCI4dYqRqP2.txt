@@ -1,0 +1,4 @@
+Prompt: Create an image of an ornate mausoleum located in a lush, overgrown garden. The mausoleum is crafted from aged stone, featuring intricate carvings and an arched entrance, partially hidden by creeping vines and blooming flowers. Soft, dappled sunlight filters through the trees above, casting gentle shadows on the ground. A winding path leads to the entrance, surrounded by vibrant greenery and colorful blossoms that suggest a sense of life amidst the solemnity of the structure. The background should include distant hills, with a clear blue sky peeking through the treetops, emphasizing the contrast between the grandeur of the mausoleum and the serene beauty of nature. The image should evoke a sense of quiet reflection and historical intrigue, rendered in a realistic and detailed style, with an emphasis on textures and color richness.
+Seed: 1582256038
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mausoleum, Attraction

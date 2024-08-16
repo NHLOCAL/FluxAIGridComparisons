@@ -1,0 +1,4 @@
+Prompt: "Create a hyper-realistic photograph of an abandoned, dilapidated house at twilight. The house, with peeling paint and broken windows, stands alone in the overgrown grass, surrounded by twisted trees. Soft, warm light spills from a cracked window, casting long shadows across the yard. The sky is a muted blend of purples and oranges, signifying sunset, while dark clouds loom overhead, creating a sense of foreboding. An old, rusted swing hangs silently from a gnarled tree branch, swaying gently in the breeze. The scene captures an atmosphere of nostalgia and desolation, inviting the viewer to reflect on the passage of time and lost memories."
+Seed: 3690127138
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Troll, Aptitude

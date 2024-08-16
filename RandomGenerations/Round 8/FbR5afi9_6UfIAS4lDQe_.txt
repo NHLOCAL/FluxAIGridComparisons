@@ -1,0 +1,4 @@
+Prompt: A striking illustration of a vintage train depot designed in a bold ruby red color scheme. The building features intricate architectural details, with large arched windows and a steeply sloped roof. Surrounding the depot, a vibrant garden flourishes with blooming flowers in various shades of red and green, enhancing the overall composition. The background showcases a bright blue sky scattered with fluffy white clouds, casting natural light on the scene. The angle of the image is a slightly low viewpoint, emphasizing the grandeur of the depot while capturing the lively atmosphere of the garden and adding depth to the scene. The art style reflects classic realism with a focus on detailed textures and vivid colors.
+Seed: 2160590186
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ruby, Depot

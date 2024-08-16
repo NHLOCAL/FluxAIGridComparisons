@@ -1,0 +1,4 @@
+Prompt: Create an image of a large, ornate, open book resting on a wooden table, its pages filled with intricate illustrations and writings representing various cultures from around the world. The book has a luxurious leather cover adorned with gold filigree and symbols from different civilizations. Surrounding the book are small artifacts such as a miniature statue from ancient Egypt, a Japanese origami crane, a colorful Mexican folk art figure, and a traditional Native American dreamcatcher. The background features shelves lined with books and artifacts, illuminated by soft, warm lighting that highlights the textures and details of the scene. The angle should be slightly above the tabletop, allowing for a clear view of the open pages and surrounding cultural items, creating an inviting atmosphere of learning and exploration.
+Seed: 423337043
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ending, Culture

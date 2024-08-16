@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a serene landscape of a lush, green forest with towering trees and a crystal-clear stream flowing through it. The foreground features a rugged, winding pathway leading deeper into the woods, inviting the viewer to explore. Sunlight filters through the leaves, casting dappled shadows on the ground, creating a warm and inviting atmosphere. Small woodland creatures, such as deer and rabbits, can be seen peacefully coexisting, adding a sense of harmony to the scene. The background should gradually transition to a misty mountain range, hinting at unexplored territory. Rendered in a realistic art style with vibrant colors and intricate details, the image captures the essence of adventure and exploration in nature.
+Seed: 3014204334
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Guidance, Exploration

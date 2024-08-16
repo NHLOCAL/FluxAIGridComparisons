@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a wise, ancient tortoise slowly navigating through a lush, vibrant jungle. The tortoise's shell is richly detailed with patterns resembling ancient runes and moss, reflecting its age and wisdom. The jungle is filled with towering green trees, colorful flowers, and twisting vines that create a thick canopy overhead, casting dappled sunlight onto the forest floor. Small creatures, like frogs and butterflies, can be seen peeking out from the foliage. The atmosphere is serene, with shafts of warm light filtering through the leaves, illuminating patches of soft, green moss where the tortoise moves. The overall composition captures a sense of peace and harmony within nature, emphasizing the tortoise's slow, deliberate movement against the vivid backdrop of the jungle.
+Seed: 4216978668
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Guidance, Babe

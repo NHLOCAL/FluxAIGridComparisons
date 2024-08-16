@@ -1,0 +1,4 @@
+Prompt: Create an idyllic outdoor scene featuring two friends sitting on a cozy picnic blanket spread over lush green grass. The friends, one male and one female, are enjoying a picturesque day under a clear blue sky dotted with fluffy white clouds. Surrounding them are blooming wildflowers in vibrant colors, adding to the serene atmosphere. The picnic basket beside them is filled with delicious snacks like fruits, sandwiches, and beverages. Gentle sunlight casts soft shadows, creating a warm and inviting ambiance. The angle should capture the friends' laughter and joy as they share stories, framed by the natural beauty of the landscape. The overall composition should evoke a sense of tranquility and innocence, reminiscent of a perfect day spent in nature.
+Seed: 391913491
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Friend, Picturesque

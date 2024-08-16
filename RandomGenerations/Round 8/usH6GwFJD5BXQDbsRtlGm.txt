@@ -1,0 +1,4 @@
+Prompt: A high-contrast, artistic representation of a human hand reaching out towards a surreal garden filled with vibrant colors. The fingers appear almost transparent, glowing softly against the backdrop of lush, oversized flowers in shades of pink, blue, and yellow. Each flower has unique patterns and textures that catch the light, enhancing their visual appeal. The background is filled with a cerulean sky and wispy clouds, creating a serene atmosphere. The scene is illuminated by warm sunlight filtering through the foliage, casting gentle shadows. The angle of the shot is slightly elevated, giving a perspective that emphasizes the depth of the garden. The overall composition is both inviting and intriguing, capturing the essence of connection between humanity and nature. Illustration, vibrant, surreal art style.
+Seed: 139050087
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sensation, Benefit

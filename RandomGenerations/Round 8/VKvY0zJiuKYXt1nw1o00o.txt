@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a dynamic metal guitarist performing on stage. The guitarist, wearing a black leather jacket adorned with metallic studs and spikes, is passionately playing an electric guitar. His long, flowing hair is illuminated by a spotlight, creating a halo effect around him. The background is filled with a vibrant crowd of fans, hands raised in excitement. Behind the guitarist, towering amplifiers and colorful stage lights create a lively atmosphere. The scene should be set in a darkened concert hall with beams of multi-colored light cutting through the smoke, enhancing the energetic vibe of the performance. The composition should emphasize the intensity of the music and the electrifying connection between the artist and the audience. Illustrative style, vivid colors, high contrast, dynamic perspectives.
+Seed: 1084410610
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lover, Metal

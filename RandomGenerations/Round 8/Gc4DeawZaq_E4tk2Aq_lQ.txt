@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a whimsical scene featuring a vibrant, oversized snail playing a guitar on a small stage made of mushrooms. The snail has a glossy, colorful shell adorned with intricate patterns and its eyes are wide with joy. The stage is set in a lush, enchanted forest filled with towering trees and glowing fireflies illuminating the surroundings. The background depicts a starry night sky, adding to the magical ambiance. The lighting should be warm and inviting, highlighting the snail's musical performance and the vibrant colors of the forest. The art style is playful and cartoonish, emphasizing the fun and enchanting nature of the scene.
+Seed: 3556194585
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ability, Play

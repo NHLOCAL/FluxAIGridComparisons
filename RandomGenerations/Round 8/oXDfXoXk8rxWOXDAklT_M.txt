@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic artistic representation of a nude figure gracefully posed in a serene, natural environment. The figure should have soft, flowing lines and an elegant posture, highlighting the human form in a naturalistic manner. Surrounding the figure, include lush greenery, soft flowers, and a gentle stream in the background, creating a harmonious connection to nature. The lighting should be warm and golden, suggesting the soft light of dawn or dusk, casting delicate shadows and adding depth to the scene. The angle should be slightly elevated, allowing the viewer to appreciate the figure's contours against the beautiful backdrop while maintaining a sense of artistic integrity and tasteful presentation. The overall composition should be tranquil, emphasizing beauty and the natural elegance of the human body.
+Seed: 588024482
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Seduction, Nude

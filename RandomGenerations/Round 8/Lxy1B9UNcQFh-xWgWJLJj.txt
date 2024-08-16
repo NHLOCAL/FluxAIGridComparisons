@@ -1,0 +1,4 @@
+Prompt: Create an imaginative scene featuring a chubby, fluffy baby goat playfully frolicking in a verdant meadow filled with colorful wildflowers. The goat is mid-leap with its ears perked up and a joyful expression, while the sun shines brightly overhead, casting golden rays that illuminate the scene. In the background, rolling hills and a clear blue sky with fluffy white clouds enhance the sense of tranquility. The overall composition should evoke a feeling of blissful innocence and playful energy, with vibrant colors and soft details that capture the essence of a carefree moment in nature. High-resolution, photorealistic style, vivid colors, uplifting atmosphere.
+Seed: 1827622210
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Babe, Bliss

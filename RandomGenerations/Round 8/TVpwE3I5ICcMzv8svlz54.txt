@@ -1,0 +1,4 @@
+Prompt: A stunning illustration of a serene seaside scene at sunset. In the foreground, depicted is a beautifully detailed blessing in the form of a lush, green palm tree with elegantly flowing leaves swaying gently in the ocean breeze. The vibrant colors of the sunset illuminate the sky, transitioning from warm oranges and deep pinks to rich purples, casting a golden glow on the calm waves. The water reflects the colors of the sky, creating a harmonious blend of hues. In the background, distant silhouettes of gently rolling hills meet the shoreline, while soft, fluffy clouds float across the sky. The overall atmosphere is tranquil, emphasizing the beauty of nature and the blessing of peace, rendered in a painterly style with smooth brushstrokes and rich textures.
+Seed: 3697366061
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Blessing, Sea

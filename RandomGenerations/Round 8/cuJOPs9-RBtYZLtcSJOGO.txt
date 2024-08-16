@@ -1,0 +1,4 @@
+Prompt: A grotesque close-up of a human face that is visibly modified through various cybernetic enhancements. The skin appears artificially smooth and shiny, with intricate circuitry patterns glowing beneath the surface. One eye is replaced with a mechanical lens, emitting a dull red light. Various implants are dotted across the face, including an artificial jaw that features sharp, jagged edges, and a series of metallic plates embedded in the skin. The background is a dark, industrial setting with hints of metallic structures and shadowy corners, emphasizing the stark contrast between the organic elements of the face and the cold, hard technology. The lighting is harsh and dramatic, casting deep shadows that enhance the unsettling features. Hyper-realistic style, ultra-detailed textures, intense colors to accentuate the horror of the modifications.
+Seed: 879529401
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Disgust, Modification

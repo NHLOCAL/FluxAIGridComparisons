@@ -1,0 +1,4 @@
+Prompt: A vibrant illustration of a modern pharmacy interior, showcasing shelves filled with colorful medicine bottles and over-the-counter products. The pharmacy has a clean, bright environment with white tiles and warm overhead lighting. At the center, two identical figures representing twin flames stand beside each other, both wearing lab coats, each holding a prescription bottle, symbolizing a strong connection. One figure has a warm, golden glow while the other emits a soft, silver light, creating a visually striking contrast. The background features an interactive consultation area with digital screens displaying health information, enhancing the contemporary feel of the scene. The overall composition balances detail and clarity, emphasizing the theme of connection and unity in a healthcare setting, realistic, illustrative style, high detail.
+Seed: 4040832012
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pharmacy, Twin flame

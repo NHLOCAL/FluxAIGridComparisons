@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic scene inside a modern clinic, with a sleek and sterile ambiance. The focus is on a medical professional, a middle-aged woman with glasses, standing confidently next to a futuristic examination table. She is holding a digital tablet, displaying patient data with bright colored graphs and numbers. The background features high-tech medical equipment, illuminated by soft white lighting, highlighting a sense of advanced technology and cleanliness. Large windows let in natural light, showcasing a view of a serene garden outside. The overall color palette consists of soft blues and whites, creating a calming environment. The perspective is a wide shot, capturing both the professional and the sophisticated details within the clinic.
+Seed: 2839287344
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Influence, Clinic

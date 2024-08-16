@@ -1,0 +1,8 @@
+Prompt: Create an image depicting an intimate wedding ceremony set in a lush, romantic garden. The scene features a beautifully decorated altar adorned with white floral arrangements and draped fabric, surrounded by vibrant greenery. In the foreground, a couple stands hand-in-hand, gazing into each other’s eyes, both dressed in elegant wedding attire: the bride in a flowing white gown with delicate lace details and the groom in a classic black tuxedo. 
+
+The guests are seated on white wooden chairs, with soft pastel-colored floral bouquets at each row. The atmosphere is enhanced by warm golden hour lighting, casting soft shadows and creating a magical glow over the scene. The background includes a small, serene pond reflecting the surrounding foliage, and a gentle breeze causes the leaves to softly rustle. 
+
+Overall, the image should evoke a sense of love and tranquility, captured in a photographic style that emphasizes rich colors and intricate details. High resolution, ultra-detailed, and cinematic quality.
+Seed: 653476318
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yield, Wedding

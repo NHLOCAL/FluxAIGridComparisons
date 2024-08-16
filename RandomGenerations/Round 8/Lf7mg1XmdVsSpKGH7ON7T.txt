@@ -1,0 +1,4 @@
+Prompt: A captivating illustration of a stylized, hyper-realistic product bottle representing the concept of "Scream." The bottle is uniquely shaped, resembling a classic scream mask with exaggerated facial features such as wide eyes and a gaping mouth. The surface of the bottle features a glossy finish with a vibrant gradient of colors transitioning from deep crimson at the bottom to a ghostly white at the top. Surrounding the bottle, a splash effect of liquid spills outward in dramatic arcs, creating a sense of explosive energy. The background is a stark, dark gradient that enhances the bottle's brightness, emphasizing its striking design. Soft, dramatic lighting highlights the contours, enabling intricate details to stand out, while subtle shadows ground the product in the scene.
+Seed: 2098092143
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Product, Scream

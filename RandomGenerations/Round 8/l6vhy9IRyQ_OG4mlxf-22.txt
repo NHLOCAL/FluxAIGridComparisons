@@ -1,0 +1,4 @@
+Prompt: A breathtaking panoramic view of a futuristic metropolis during the evening hours. The skyline is dominated by towering, sleek skyscrapers made of glass and steel, reflecting the warm hues of a setting sun. The sky is painted in gradients of deep orange, purple, and indigo, transitioning into a starry night as twinkling stars begin to appear. The streets below are illuminated by vibrant neon lights, creating a lively atmosphere with bustling pedestrian activity. A network of flying vehicles zoom through the air, leaving light trails behind them. The overall scene captures the essence of a dynamic, advanced urban environment, filled with energy and life, enhanced by dramatic lighting and sharp focus.
+Seed: 638661817
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Metropolis, Evening

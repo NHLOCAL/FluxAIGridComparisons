@@ -1,0 +1,4 @@
+Prompt: Create an image of a visually captivating riddle, represented as a giant, intricately designed puzzle structure in the center of an expansive stadium. The stadium is filled with a diverse crowd, eagerly engaged in solving the riddle. The puzzle elements should exhibit bright colors, with pieces floating mid-air, reflecting an otherworldly glow. The background features a clear night sky filled with twinkling stars, casting a soft light over the scene. The stadium itself is illuminated with vibrant spotlights, enhancing the excitement and energy of the atmosphere. The overall composition should convey a dynamic interplay between the riddle and the audience, showcasing their anticipation and curiosity, in a cinematic art style.
+Seed: 3631887805
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Riddle, Stadium

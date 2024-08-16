@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic illustration of a grand observatory perched on a hillside under a starry night sky. The observatory features an ornate dome with a large telescope extending outward, capturing the brilliance of the cosmos. Surrounding the observatory, lush trees and rolling hills create a serene landscape illuminated softly by the glow of moonlight. The sky is filled with vivid constellations, shooting stars, and a vibrant Milky Way stretching across the horizon. Gentle mist adds an ethereal quality to the scene, while the warm light emanating from the observatory's windows contrasts beautifully with the cool tones of the night. The entire composition is rendered in high detail, creating an awe-inspiring visual experience that highlights the wonders of the universe.
+Seed: 1193610634
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Observatory, Yesterday

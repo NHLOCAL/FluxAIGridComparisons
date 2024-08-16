@@ -1,0 +1,4 @@
+Prompt: Create an illustration of an ancient treasure chest overflowing with gold coins, sparkling gems, and artifacts. The chest is intricately carved with patterns reminiscent of lost civilizations, set against a backdrop of dark, rocky cave walls. Flickering torchlight casts warm, golden hues across the treasure, accentuating the shiny surfaces and the gemstones' vibrant colors. The floor of the cave is scattered with old, worn maps and tools of explorers, adding depth to the scene. High detail and realistic textures enhance the inviting allure of the treasure, creating a sense of adventure and discovery. The overall atmosphere is one of mystery and excitement, inviting the viewer to explore the hidden depths of the cave.
+Seed: 268223245
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Treasure, Fidelity

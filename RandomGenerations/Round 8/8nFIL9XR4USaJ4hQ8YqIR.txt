@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a picturesque scene of a vibrant, ethereal landscape at dusk. The foreground features a serene meadow filled with luminescent wildflowers in shades of blue, purple, and pink, swaying gently in a soft breeze. In the background, majestic mountains rise, their peaks capped with shimmering snow under the fading light. A fantastical waterfall cascades down the mountainside, glowing with bioluminescent colors that reflect in a tranquil lake below. The sky is a brilliant gradient of orange and violet, dotted with twinkling stars slowly emerging as twilight deepens. The overall atmosphere is enchanting and surreal, highlighting the beauty of nature in a dreamlike, photographic style. Detailed, high-resolution, vibrant colors, emphasis on light diffusion and reflection.
+Seed: 3335633764
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Picturesque, Revelation

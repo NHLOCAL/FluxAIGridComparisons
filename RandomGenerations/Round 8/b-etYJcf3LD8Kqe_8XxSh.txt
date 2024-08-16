@@ -1,0 +1,4 @@
+Prompt: A captivating scene showcasing a long, ancient tunnel illuminated by flickering torches mounted on the damp stone walls. The ceiling of the tunnel is arching and covered with intricate carvings, hinting at its historical significance. At the far end of the tunnel, a radiant relic rests on a pedestal, glowing with an ethereal light that casts vibrant colors onto the surrounding stones. The relic, adorned with gemstones and ancient symbols, appears to pulse with energy. Mist wafts along the ground, creating an eerie yet enchanting atmosphere. Shadows dance along the walls as the light from the relic contrasts sharply with the deep darkness of the tunnel. The overall tone is mysterious and inviting, with a focus on intricate details and a cinematic quality.
+Seed: 2619075204
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tunnel, Relic

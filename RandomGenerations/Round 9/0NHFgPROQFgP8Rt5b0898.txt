@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a solitary, weather-beaten park bench sitting beneath a sprawling willow tree. The ground is covered in a thick blanket of fallen leaves in shades of orange, brown, and gold. Gentle sunlight filters through the cascading leaves, casting elongated shadows on the wooden surface of the bench. A soft breeze stirs the leaves, creating a sense of movement in the stillness of the scene. In the background, a serene lake reflects the warm colors of autumn, and the sky is overcast with soft, gray clouds, hinting at an impending rain. The overall composition evokes a sense of solitude and contemplation, inviting the viewer to reflect on moments of peace within nature, with emphasis on texture and detail.
+Seed: 315824708
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sapphire, Life

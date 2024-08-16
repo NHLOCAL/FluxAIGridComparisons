@@ -1,0 +1,4 @@
+Prompt: Create an image of a large, intricate gear mechanism set against a dark, industrial background. The gears should be made of aged brass and steel, showcasing detailed engravings and wear, symbolizing the complexity of philosophical thought and the passage of time. Soft rays of warm golden light filter through from above, illuminating the gears and casting long shadows. A faint mist surrounds the base of the gears, adding an ethereal quality to the scene. The overall composition should evoke a sense of depth and intricate connection, emphasizing the interplay between the various parts of the mechanism. Utilize a high-contrast, photorealistic style to highlight the textures and details of the metals, creating an immersive visual experience.
+Seed: 886027442
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Effect, Philosophy

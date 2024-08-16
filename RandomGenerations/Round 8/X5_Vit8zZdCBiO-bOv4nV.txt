@@ -1,0 +1,4 @@
+Prompt: Create an image depicting two mythical creatures, a dragon and a phoenix, standing side by side atop a rocky cliff. The dragon, with iridescent scales reflecting shades of green and blue, has large, intricately detailed wings folded behind it. The phoenix, with vibrant feathers of red, orange, and gold, is poised gracefully, wings slightly spread. The background showcases a breathtaking sunset, with hues of purple, blue, and orange blending in the sky. Light from the setting sun casts a warm glow on the creatures, emphasizing their majestic features. The rocky cliff is adorned with lush greenery and breathtaking flowers, enhancing the scene’s vibrancy. The image should evoke a sense of unity and strength, featuring hyper-realistic details, dramatic lighting, and a cinematic composition.
+Seed: 2474485837
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Togetherness, Allegiance

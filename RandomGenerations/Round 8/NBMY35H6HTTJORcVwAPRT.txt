@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic portrait of an opal gemstone shaped like a majestic animal, specifically a fox. The fox's body should be intricately carved from opal, showcasing the gemstone's vibrant play of colors, with hues of blues, greens, and fiery reds swirling across its surface. The fox is depicted in a graceful, alert pose, with its gleaming eyes reflecting light like two tiny stars. The background features a soft-focus scene of a lush forest filled with dew-covered leaves and dappled sunlight filtering through the trees, enhancing the ethereal quality of the opal fox. The overall atmosphere should be enchanting, with the artwork emphasizing the radiant beauty of the opal and the majestic presence of the animal. Photorealistic style, high detail, and emphasis on light reflection and color intensity.
+Seed: 342418839
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opal, Animal

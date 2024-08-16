@@ -1,0 +1,4 @@
+Prompt: A breathtaking illustration of a vibrant volcano erupting with molten lava against a twilight sky. The volcano's cone towers prominently at the center of the frame, with streams of bright orange and red lava flowing down its slopes, illuminating the surrounding landscape. Thick, dark smoke billows into the sky, blending with the vivid purples and blues of the post-sunset sky. In the foreground, patches of green vegetation contrast with the fiery hues, while scattered rocks and ash create a sense of chaos. The lighting is dynamic, with the glow of the lava creating dramatic shadows and highlights, emphasizing the power and danger of the volcanic eruption. The scene conveys a sense of awe and raw natural force, rendered in hyper-detailed realism, capturing every intricate texture and color.
+Seed: 2210379103
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Likelihood, Volcano

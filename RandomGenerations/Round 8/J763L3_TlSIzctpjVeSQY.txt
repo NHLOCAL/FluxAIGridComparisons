@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vibrant, expansive galaxy filled with countless stars, swirling colorful nebulae, and luminous celestial bodies. The galaxy should feature a prominent spiral structure, with bright blues, pinks, and purples blending seamlessly into one another. In the foreground, depict a small spaceship navigating through the cosmic scenery, leaving a trail of sparkling stardust in its wake. The background should consist of a deep black void which enhances the brilliance of the stars and nebulae. The overall lighting should be bright and vivid, emphasizing the beauty and vastness of the universe. The scene should evoke a sense of exploration and achievement, capturing the theme of success in an interstellar journey. Cinematic quality, high detail, and vibrant colors.
+Seed: 3292740213
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Galaxy, Success

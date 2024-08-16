@@ -1,0 +1,4 @@
+Prompt: A mesmerizing cosmic scene illustrating a vibrant supernova explosion in deep space. The supernova radiates intense colors, primarily blues, purples, and fiery reds, creating a dazzling array of light and energy. Surrounding the supernova, tendrils of glowing gas and cosmic dust swirl dramatically, forming intricate shapes and patterns that draw the viewer's eye toward the core of the explosion. The background is filled with distant stars and galaxies, providing a stark contrast to the vivid explosion. The lighting highlights the explosive energy, creating a sense of depth and dimension. The overall composition conveys the raw power and beauty of cosmic phenomena in a breathtaking, high-resolution digital artwork.
+Seed: 2331872436
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Supernova, Stare

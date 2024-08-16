@@ -1,0 +1,4 @@
+Prompt: Create an image of an opalescent gemstone named "Clarity," resting atop a smooth, polished obsidian surface. The gemstone should exhibit a stunning array of colors, including iridescent blues, greens, and purples, capturing the light in a way that reflects its multifaceted nature. The background should be softly blurred, depicting a tranquil, minimalistic setting with gentle shadows and highlights enhancing the gemstone's brilliance. Utilize soft, diffused lighting to create an ethereal glow around the opal, emphasizing its clarity and beauty. The composition should focus intently on the gemstone, showcasing intricate details and reflections, creating a serene and luxurious atmosphere. Ultra-high definition, hyper-realistic style, vibrant colors, emphasis on light play and texture.
+Seed: 3118290090
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Opal

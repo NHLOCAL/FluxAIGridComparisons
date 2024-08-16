@@ -1,0 +1,4 @@
+Prompt: A beautifully wrapped gift box, adorned with colorful ribbons and a large bow, sits on a sandy beach. The gift box is vibrantly decorated, featuring patterns of tropical flowers and ocean waves. In the background, the crystal-clear turquoise waters gently lap against the shore, and a bright blue sky stretches overhead, dotted with fluffy white clouds. Sunlight glimmers on the water's surface, creating a warm, inviting atmosphere. Seashells and small pieces of coral are scattered around the gift box, adding subtle detail to the sandy ground. The scene conveys a sense of joy and anticipation, perfect for a beach celebration. Photorealistic style, high detail, vibrant colors, sunny lighting.
+Seed: 1234078144
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Beach

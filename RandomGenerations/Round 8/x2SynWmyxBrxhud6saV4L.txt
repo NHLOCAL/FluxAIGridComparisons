@@ -1,0 +1,4 @@
+Prompt: Create an image of a construction site at dusk, showcasing a partially constructed skyscraper under a dramatic sky filled with swirling clouds in shades of orange and purple. In the foreground, feature a nude male figure, representing a construction worker, standing confidently with a hard hat in hand, muscles defined and gleaming under the fading light. Surround him with construction materials like steel beams, scaffolding, and tools, adding a sense of raw industrial energy. The lighting should emphasize the contours of his body while maintaining a respectful and artistic depiction of nudity. The overall composition should blend elements of strength and architectural progress, capturing the juxtaposition of human form and urban development. Style: hyperrealistic, dramatic lighting, high detail.
+Seed: 3592401202
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Construction, Nude

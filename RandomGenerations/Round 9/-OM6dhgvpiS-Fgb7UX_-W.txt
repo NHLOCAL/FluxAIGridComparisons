@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of a solitary wooden bench in a quiet park, surrounded by autumn leaves in shades of orange, yellow, and red. The bench is positioned beneath a canopy of trees, with soft rays of sunlight streaming through the branches, creating a warm yet melancholic atmosphere. A gentle breeze blows, causing a few leaves to flutter down and land on the bench. In the background, a shallow path is visible, winding through the park, while a soft-focus effect blurs the edges of the image. The overall tone should convey a sense of reflection and solitude, with rich, warm colors highlighting the beauty of the changing seasons.
+Seed: 2774236176
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Voyage

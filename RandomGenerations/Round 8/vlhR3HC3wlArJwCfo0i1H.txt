@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant playground filled with children playing joyfully. The playground features colorful equipment like slides, swings, and climbing structures. In the foreground, a group of children is engaged in a game of tag, while others are swinging high in the air, their laughter audible. The background showcases lush green grass, tall trees providing shade, and a clear blue sky dotted with fluffy white clouds. The sunlight casts warm golden rays over the scene, enhancing the cheerful atmosphere. The art style should be a cheerful, cartoon-like illustration, emphasizing bright colors and dynamic poses to capture the happiness of childhood.
+Seed: 3425305534
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Playground, Subject

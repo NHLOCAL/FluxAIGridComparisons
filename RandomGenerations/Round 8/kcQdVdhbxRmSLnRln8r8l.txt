@@ -1,0 +1,4 @@
+Prompt: Create an image depicting two intertwined silhouettes of trees, their branches reaching towards each other in a harmonious embrace, set against a sunset sky. The background should feature a gradient of warm colors, transitioning from deep orange at the horizon to soft purples and blues higher up. The ground is lush with vibrant green grass, and wildflowers are scattered around the base of the trees, adding a touch of color. The overall lighting should be soft and golden, creating a peaceful and serene atmosphere. The angle is slightly elevated, allowing for a clear view of the silhouettes and the beautiful sky above. Rendered in a realistic yet artistic style, with attention to the intricate details of the tree bark and foliage.
+Seed: 1136837125
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intimacy, Thought

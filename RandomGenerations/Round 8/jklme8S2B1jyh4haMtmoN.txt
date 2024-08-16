@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene coastal scene at noon. The beach is lined with soft, golden sand, and gentle waves lap against the shore, creating a rhythmic pattern. In the distance, a few white sailboats glide across the turquoise water. The sky is a vibrant blue with fluffy white clouds scattered throughout, casting soft shadows on the ground below. Palm trees sway lightly in the warm breeze, their fronds illuminated by the bright sunlight, casting playful patterns on the sand. This idyllic scene should have a photorealistic style, capturing the vibrant colors and intricate details of the natural landscape, emphasizing the tranquility and warmth of a perfect midday by the coast.
+Seed: 2156183915
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Coast, Noon

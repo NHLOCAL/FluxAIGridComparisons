@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic scene set in a cozy, intimate living room. In the center, depict a golden retriever named Norm, lying on a plush, fuzzy rug. Norm’s fur should be vibrantly detailed, showcasing the golden hues and individual strands. Beside him, place a half-opened book with paw prints on the pages and an empty coffee mug, suggesting a moment of relaxation. The background should include a large window with soft curtains, allowing warm, natural light to filter in and cast gentle shadows. On the walls, hang a few family photos in ornate frames. The overall atmosphere should evoke a sense of warmth and comfort, with earthy tones of browns and greens dominating the color palette. The scene should emphasize tranquility and the simple joys of everyday life. Art style should mimic a high-resolution photograph, focusing on intricate details and depth of field.
+Seed: 2285461267
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Norm, Life

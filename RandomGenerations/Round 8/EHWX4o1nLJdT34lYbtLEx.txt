@@ -1,0 +1,4 @@
+Prompt: A dramatic cosmic scene depicting a colossal celestial being, known as Magnitude, emerging from the depths of space. The being is crafted from swirling stardust and luminescent energy, with its massive form resembling a blend of a giant nebula and a cosmic whirlpool. Surrounding Magnitude, vibrant galaxies twinkle in shades of blue, purple, and gold, creating a vivid backdrop filled with colorful gas clouds and bright star clusters. The lighting should be ethereal and radiant, emphasizing the being's powerful presence and illuminating nearby space debris. The perspective is from below, highlighting the towering nature of the celestial figure against the vastness of the universe, inviting viewers into a breathtaking exploration of cosmic wonder. The art style merges elements of surrealism and cosmic fantasy, generating an awe-inspiring visual experience.
+Seed: 841818138
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Magnitude, Begin

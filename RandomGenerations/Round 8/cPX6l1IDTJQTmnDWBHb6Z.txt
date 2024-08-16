@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic portrait of a young woman sitting in a sunlit room filled with vibrant houseplants. She has bright, expressive eyes and a warm smile, wearing a comfortable, colorful sweater. Sunlight streams through a large window, casting intricate patterns on the wooden floor. The background features an array of green foliage and blooming flowers, enhancing the scene's lively atmosphere. The soft shadows and warm lighting create an inviting and cheerful ambiance, with the emphasis on natural beauty and the sense of being awake in a world full of life. High detail, bright colors, photorealistic quality.
+Seed: 2805846816
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awake, Appealing

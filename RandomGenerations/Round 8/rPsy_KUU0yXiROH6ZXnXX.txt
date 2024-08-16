@@ -1,0 +1,4 @@
+Prompt: **Create an illustration of a serene, enchanting garden at dusk. The scene features an elegant woman with flowing, iridescent hair, adorned in a delicate gown made of shimmering, translucent fabric. She is kneeling beside a tranquil pond surrounded by vibrant blooming flowers and lush greenery. Small fireflies illuminate the area with a soft golden glow, creating a magical ambiance. In the background, ancient trees with sprawling branches are silhouetted against the warm hues of a fading sunset. The overall composition captures a sense of harmony and connection with nature, rendered in a soft, ethereal art style, emphasizing gentle lighting and intricate details.**
+Seed: 2113677119
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ravishing, Empathy

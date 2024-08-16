@@ -1,0 +1,4 @@
+Prompt: A striking black and white photograph of a weathered tree standing alone in an open field during twilight. The tree's gnarled branches stretch outward, casting intricate shadows on the ground, while a single, vibrant red apple hangs precariously from one of its limbs. The sky is filled with dramatic clouds that shift from deep gray to hints of pink as the sun sets, creating a powerful contrast against the starkness of the tree. The ground is uneven, littered with fallen leaves and fragments of what was once vibrant foliage, enhancing the feeling of decay and loss. This scene captures both beauty and despair, evoking a sense of longing and contemplation about the cycles of life and nature. Cinematic lighting, high detail, photo realism.
+Seed: 4211698322
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lagoon, Perfection

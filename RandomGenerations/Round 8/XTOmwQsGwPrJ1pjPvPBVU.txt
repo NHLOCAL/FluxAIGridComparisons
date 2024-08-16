@@ -1,0 +1,4 @@
+Prompt: Create an illustration depicting a vibrant marketplace filled with diverse characters from various cultures. The scene should feature individuals of different ethnic backgrounds, genders, and ages engaging in lively conversations and trade. The market stalls are adorned with colorful textiles, exotic fruits, and handcrafted goods. A backdrop of a bright blue sky accentuates the lively atmosphere. Warm sunlight filters through the trees, casting dappled shadows on the cobblestone ground. The art style should be reminiscent of a rich, detailed watercolor painting, emphasizing the variety of expressions and intricate patterns on clothing. The overall composition captures the essence of cultural diversity and community engagement in a bustling setting.
+Seed: 2254742110
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Diversity, Thought

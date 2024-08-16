@@ -1,0 +1,4 @@
+Prompt: Create an image of a large, smooth, orange stone sitting on a bed of fine, white sand. The stone should have a polished surface that reflects light, showcasing its vibrant orange hue. Surrounding the stone, scattered pieces of smaller, rougher stones in various shades of brown and beige add texture to the scene. The background should depict a clear blue sky with a few wispy clouds. Gentle, dappled sunlight filters through, creating soft shadows around the stone. The overall composition conveys a sense of tranquility and natural beauty. Photorealistic style, high detail, warm lighting.
+Seed: 1647312167
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stone, Orange

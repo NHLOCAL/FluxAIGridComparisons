@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vibrant, whimsical flower with musical notes flowing from its petals. The flower should have a mix of colors, including bright pinks, yellows, and blues, each petal adorned with intricate designs that resemble musical instruments like violins and trumpets. In the background, depict a sunny day in a lush green meadow filled with smaller flowers and butterflies dancing in the air. The sky should be a clear blue, adding to the cheerful atmosphere. The composition should feel lively and dynamic, capturing the essence of the interplay between nature and music, with soft, warm lighting that enhances the colors.
+Seed: 2187638023
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Music, Flower

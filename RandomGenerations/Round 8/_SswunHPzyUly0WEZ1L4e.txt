@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a menacing werewolf standing at the edge of a volcanic crater. The werewolf is depicted in a dynamic, powerful pose, with its fur bristling and sharp claws extended, showcasing its primal strength. The background reveals a dramatic volcanic landscape, with molten lava flowing down the sides of the crater and plumes of smoke billowing into the dark, ominous sky. The lighting is dark and foreboding, with fiery orange and red hues casting eerie shadows on the werewolf's figure. The angle is slightly low, emphasizing the creature's height and ferocity against the backdrop of the active volcano. The atmosphere is intense, highlighting the supernatural elements of the scene amidst a natural disaster. This illustration blends elements of horror and fantasy, capturing the raw energy and danger of both the werewolf and the volcanic setting.
+Seed: 2901539933
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Volcano, Werewolf

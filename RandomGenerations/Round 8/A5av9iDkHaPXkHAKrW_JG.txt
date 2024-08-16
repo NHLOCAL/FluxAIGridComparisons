@@ -1,0 +1,4 @@
+Prompt: A vibrant playground scene depicting children engaged in playful activities, surrounded by colorful equipment like slides, swings, and climbing structures. In the center, a group of children, diverse in ethnicity and age, are playing games such as tag and hopscotch, with laughter and joy evident in their expressions. The background features a bright blue sky dotted with fluffy white clouds, and a few fluffy trees offering shade. The scene captures the essence of childhood innocence and fun. Illuminate the playground with warm, golden sunlight streaming from one corner, casting playful shadows on the ground. The overall composition is lively, filled with bright colors, and has a cheerful, dynamic atmosphere. Art style inspired by children's book illustrations, emphasizing clarity and detail.
+Seed: 1217282005
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Playground, Courtship

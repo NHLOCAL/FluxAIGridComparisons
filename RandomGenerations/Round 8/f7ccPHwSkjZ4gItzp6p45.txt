@@ -1,0 +1,4 @@
+Prompt: A captivating scene depicting a massive, ancient citadel standing majestically atop a rocky cliff, overlooking a vast, serene valley below. The citadel, constructed from weathered stone, features intricate architectural details like towers and battlements, bathed in the warm light of a setting sun. Fluffy clouds drift lazily in the sky, painted in hues of orange, pink, and gold, creating a dramatic backdrop. In the foreground, a winding path meanders up to the citadel, lined with vibrant wildflowers and lush greenery. The scene is rendered with rich, vivid colors, emphasizing the harmony between nature and the monumental structure, evoking a sense of wonder and exploration in this enchanting landscape. Cinematic illustration style, highly detailed, immersive atmosphere.
+Seed: 825616702
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Episode, Citadel

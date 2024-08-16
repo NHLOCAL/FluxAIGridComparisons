@@ -1,0 +1,4 @@
+Prompt: A dramatic illustration of a grand mosque set against a stormy sky filled with roaring thunder. The mosque's intricate architectural details are prominently featured, showcasing elegant domes and towering minarets adorned with geometric patterns. Dark, foreboding clouds swirl overhead, illuminated by occasional flashes of lightning that cast striking shadows upon the mosque's facade. The foreground captures a serene courtyard, with water puddles reflecting the turbulent sky. The lighting is intense and dynamic, creating a contrast between the mosque's calm presence and the chaos of the storm, emphasizing the majesty of the structure amidst the fury of nature. The color palette features deep blues, grays, and hints of gold, underscoring the scene's dramatic atmosphere.
+Seed: 698148619
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Thunder, Mosque

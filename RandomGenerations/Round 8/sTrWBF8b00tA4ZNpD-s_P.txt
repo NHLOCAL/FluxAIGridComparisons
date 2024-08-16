@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a futuristic cityscape, with towering skyscrapers made of glass and steel, reflecting the vibrant neon lights of floating advertisements. In the foreground, illustrate a human silhouette standing atop a sleek hoverboard, looking out over the sprawling metropolis. The character's body is partially transparent, showcasing intricate digital patterns that shimmer and pulse with light, representing the essence of a 'soul' in a technological world. The sky should be a deep twilight blue, scattered with glowing drones and holographic displays. The overall atmosphere should feel dynamic and ethereal, emphasizing the blend of humanity and technology in this advanced society. Use a sci-fi art style, with emphasis on bright neon colors and intricate details, capturing a sense of connection between the individual and the virtual realm.
+Seed: 281656938
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Future, Soul

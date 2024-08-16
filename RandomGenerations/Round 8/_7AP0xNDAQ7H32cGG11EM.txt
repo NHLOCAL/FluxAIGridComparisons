@@ -1,0 +1,4 @@
+Prompt: A captivating beach scene at sunset, featuring a silhouetted figure gracefully walking along the shoreline. The figure is wearing a flowing, airy sundress that billows in the gentle ocean breeze, creating a sense of movement. The background showcases vibrant hues of orange, pink, and purple in the sky as the sun dips below the horizon, casting soft golden reflections on the tranquil water. The waves gently lap at the shore, with delicate foam patterns creating intricate details in the sand. The image should capture an ethereal lighting quality, enhancing the warmth of the scene. The overall composition is designed to highlight the beauty of the beach, evoking a sense of tranquility and allure. Photorealistic, high detail, vibrant colors, cinematic.
+Seed: 468025768
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Seduction, Beach

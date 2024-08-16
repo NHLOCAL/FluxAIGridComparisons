@@ -1,0 +1,4 @@
+Prompt: Create an image of a cozy, rustic cabin interior during a snowy winter evening. The cabin features wooden walls and a stone fireplace radiating warm orange glow. A large, plush armchair sits near the fireplace, draped with a soft, knitted blanket. A steaming cup of hot cocoa rests on a small wooden side table beside the chair. The window shows heavy snowflakes falling outside, with a faint glow from streetlamps illuminating the scene. A bookshelf filled with books lines one wall, and a woven rug covers the wooden floor, adding a touch of warmth. The overall lighting is soft and warm, evoking a sense of comfort and tranquility. Realistic, high-detail, cinematic atmosphere.
+Seed: 3786726142
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Coziness, Opinion

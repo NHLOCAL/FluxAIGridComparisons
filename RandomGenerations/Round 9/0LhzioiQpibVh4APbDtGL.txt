@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic photograph of a person standing in front of a large, ornate mirror. The individual, a young adult with long, flowing hair, gazes intently at their reflection. The mirror is intricately framed with baroque designs, adding an air of elegance to the scene. In the reflection, instead of their usual appearance, the inner self is depicted as a shimmering, ethereal figure composed of swirling colors and soft, glowing light, highlighting a sense of depth and introspection. The surrounding environment is softly lit, with warm, golden tones that create a serene atmosphere. A subtle, hazy light diffuses from above, casting gentle shadows and enhancing the reflective qualities of the mirror. The composition focuses on the connection between the person and their inner self, evoking a sense of contemplation and self-discovery.
+Seed: 4216778206
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Division, Sunset

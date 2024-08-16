@@ -1,0 +1,4 @@
+Prompt: Create an image of a sultry woman lounging on an elegantly designed chaise longue in a dimly lit, opulent room. She is wearing a flowing, sheer red dress that gracefully cascades around her, accentuating her silhouette. The background features lush, patterned wallpaper with rich gold accents and soft velvet curtains slightly parted, allowing a hint of moonlight to filter through. The room is adorned with vintage candelabras casting flickering, warm light, creating deep shadows that enhance the atmosphere of allure and intimacy. The angle is slightly elevated, emphasizing her inviting gaze directed at the viewer, with a faint smile playing on her lips. The overall color palette should include deep reds, golds, and muted blues to convey a sense of luxury and seduction.
+Seed: 2938955145
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Picture, Seduction

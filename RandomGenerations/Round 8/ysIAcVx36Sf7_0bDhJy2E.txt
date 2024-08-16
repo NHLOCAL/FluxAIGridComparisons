@@ -1,0 +1,4 @@
+Prompt: Create an artwork featuring an oversized pink flower with intricate, detailed petals that are soft and velvety in texture. The flower should be set against a subtle gradient background that transitions from a pale peach at the bottom to a deeper rose hue at the top. The lighting is soft and diffused, casting gentle shadows that enhance the flower's three-dimensional appearance. Delicate droplets of water should adorn the petals, reflecting the light and adding a sense of freshness. A few green leaves, with subtle veins, peek around the flower, providing contrast to the dominant pink. The overall atmosphere is serene and inviting, evoking a sense of calm and beauty, in a photorealistic style.
+Seed: 3698727020
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pink, Color

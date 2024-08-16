@@ -1,0 +1,4 @@
+Prompt: Create a visually striking portrait focused on a feminine figure representing duality. One half of her face and attire should embody a delicate, ethereal beauty, surrounded by wisps of flowing wind and soft pastel colors. The other half should depict a powerful, industrial aesthetic, with elements resembling factory machinery and metallic textures, in darker, muted tones. The background seamlessly transitions from a serene natural environment with gentle wind currents to a gritty factory scene filled with gears and pipes. The lighting should enhance the contrast between the two halves, creating dramatic shadows on the industrial side while illuminating the natural side with a soft, warm glow. The angle of the portrait should be slightly tilted upwards, emphasizing the contrasting themes of fragility and strength in this captivating duality.
+Seed: 2951908419
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wind, Factory

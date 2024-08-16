@@ -1,0 +1,4 @@
+Prompt: Create an image of a pair of delicate hands reaching out to touch a vibrant, blooming flower amidst a serene garden setting. The flower should be a radiant, multi-colored lotus, with its petals glistening under soft morning sunlight. The background features lush greenery, including various plants and shrubs that softly blur into a dreamy haze. Blue skies with gentle, fluffy clouds create a tranquil sky, adding to the sense of peace. The composition should emphasize the gentle interaction between the hands and the flower, highlighting intricate details such as the texture of the skin and the delicate veins of the petals. Soft, diffused lighting enhances the ethereal quality of the scene, creating an inviting and harmonious atmosphere. The overall style is reminiscent of impressionistic painting, focusing on natural beauty and serenity.
+Seed: 1054812550
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Touch, Bliss

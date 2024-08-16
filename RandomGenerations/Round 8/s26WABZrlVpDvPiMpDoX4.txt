@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a sleek, polished futuristic vehicle designed for high-speed travel. The vehicle should have an aerodynamic shape, featuring smooth curves and a reflective surface that mirrors its surroundings. The background should showcase a vibrant, bustling cityscape at twilight, with skyscrapers adorned in neon lights and digital billboards. The lighting should be dynamic, highlighting the vehicle's polish and sleekness while casting long shadows on the ground. The scene should be captured from a low angle, emphasizing the vehicle's dominance and speed, with a sense of motion suggested by blurred streaks in the background. The overall color palette should include deep blues, bright neon colors, and shimmering metallic tones, enhancing the tech-savvy and advanced feel of the scene.
+Seed: 4071693525
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Advantage, Polished

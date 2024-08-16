@@ -1,0 +1,4 @@
+Prompt: Create an image of a dynamic kinetic energy display, featuring a swirling vortex of vibrant colors such as deep reds, electric blues, and bright yellows. The vortex should be encircled by sparkles and glowing orbs, illustrating the intensity of movement and energy. A futuristic cityscape is visible in the background, with sleek skyscrapers and digital screens reflecting the colorful energy vortex. The lighting is dramatic, with beams of light emanating from the center of the vortex, casting intricate shadows on the surrounding buildings. The angle of the shot should be slightly tilted, emphasizing the fluid motion and exhilarating sense of energy. The overall style should blend elements of digital art and modern science fiction.
+Seed: 1728521733
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Energy, Display

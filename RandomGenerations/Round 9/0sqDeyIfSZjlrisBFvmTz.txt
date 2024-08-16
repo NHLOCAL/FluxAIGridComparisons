@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary, weathered tree standing atop a hill during a vibrant sunset. The tree's gnarled branches stretch out against the backdrop of a colorful sky, transitioning from deep oranges and yellows near the horizon to rich purples and blues higher up. The foreground features lush green grass swaying gently in the breeze, while scattered wildflowers add pops of color. The sunlight creates dramatic shadows and highlights, illuminating the tree's intricate bark textures, emphasizing its strength and resilience. The scene captures a moment of tranquility and natural beauty, inviting contemplation.
+Seed: 3810603510
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Equality, Delusion

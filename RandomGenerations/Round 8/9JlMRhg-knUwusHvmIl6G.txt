@@ -1,0 +1,4 @@
+Prompt: Create a highly detailed steampunk scene featuring a large, intricately designed airship soaring through a cloudy sky. The airship should have multiple gears, brass components, and gigantic propellers, with a crew of adventurous characters dressed in Victorian-era clothing, complete with goggles and leather accessories. Below, a sprawling, mechanical city can be seen with towering clockwork buildings and steam-powered vehicles navigating the streets. The sky is a blend of rich oranges and purples as the sun sets, casting dramatic shadows and highlights on the scene. Include wisps of steam rising from various mechanisms, adding a sense of movement and life to the image. The overall composition should emphasize the fantastical, retro-futuristic essence of the steampunk genre.
+Seed: 1963452741
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Originality, Steampunk

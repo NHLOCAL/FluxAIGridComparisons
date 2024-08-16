@@ -1,0 +1,4 @@
+Prompt: Create an image of a massive stone sculpture of an ancient tree, its gnarled branches stretching out wide, intertwining with delicate vines and blooming flowers made of various gemstones. The tree should appear to be bursting with intricate details, showcasing the texture of the rough stone, with cracks and moss growing in the crevices. The background should be a lush, verdant forest under a bright, sunny sky, filled with vibrant green foliage. Soft rays of sunlight filter through the leaves, casting dappled shadows on the forest floor. The scene should evoke a sense of nature's beauty and resilience. The art style should be highly detailed and realistic, emphasizing the contrast between the cold stone of the sculpture and the lively greenery surrounding it. High-resolution, vibrant colors, enchanting atmosphere.
+Seed: 2438964988
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capacity, Stone

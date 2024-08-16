@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vast and desolate landscape representing a post-apocalyptic country. The foreground features crumbling buildings covered in vines and rust, remnants of a once-thriving civilization. In the distance, a dry, cracked skyline of skyscrapers looms under a gray, polluted sky. A lone figure, dressed in tattered clothing and a gas mask, stands at the edge of a shattered road, holding a weathered flag that bears a faded emblem of the original country. The sun struggles to break through the heavy clouds, casting a muted, eerie light across the scene. The atmosphere is thick with dust and decay, emphasizing the consequences of environmental neglect and societal collapse. The art style should be hyper-realistic, with intricate details in the textures of the buildings, clothing, and surroundings, capturing the somber mood of loss and resilience.
+Seed: 3166826963
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Country, Consequence

@@ -1,0 +1,8 @@
+Prompt: Create a visually stunning portrayal of a blue-skinned, humanoid character inspired by the world of "Avatar." The character should be depicted in a lush, bioluminescent jungle, filled with towering trees, vibrant flora, and glowing plants casting a soft, ethereal light. The character is adorned with intricate tribal markings and accessories made from natural materials such as feathers and beads. 
+
+The background is rich with detail, featuring a cascading waterfall that sparkles in the moonlight and exotic creatures peeking through the foliage. The light is soft and mystical, with hints of purple and teal illuminating the scene. 
+
+The character is posed mid-action, as if interacting with a giant, floating crystal that radiates energy, reflecting a spectrum of colors. The viewpoint should be slightly below eye level, emphasizing the character's majestic presence and the grandeur of the environment. This artwork should capture the enchanting essence of the "Avatar" universe with hyper-realistic detail, lush colors, and a sense of wonder.
+Seed: 1444093281
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Avatar, Star

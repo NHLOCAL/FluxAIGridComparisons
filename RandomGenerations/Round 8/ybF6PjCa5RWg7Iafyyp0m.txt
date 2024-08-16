@@ -1,0 +1,4 @@
+Prompt: Create an image of an idyllic forest scene during the golden hour. A small, fluffy bunny is nestled peacefully among a bed of vibrant wildflowers, including daisies and bluebells. The background features towering trees with their leaves shimmering in soft sunlight, casting gentle dappled shadows on the forest floor. Sunbeams filter through the canopy, creating an ethereal glow that enhances the serene atmosphere. The soft palette is composed of warm yellows, greens, and pastel hues, inviting a sense of calm and tranquility. The perspective is eye-level, closely focusing on the bunny, accentuating the details of its fur and the delicate flowers surrounding it. The overall composition embodies a serene and charming natural setting.
+Seed: 48662613
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adorable, Tranquility

@@ -1,0 +1,8 @@
+Prompt: Create a powerful and striking illustration showcasing a scene of social injustice. The foreground features a diverse group of individuals, with intense expressions, standing united against oppression. Each person is distinct in appearance, wearing clothes that reflect their cultural backgrounds. They hold protest signs with bold messages about equality and justice. 
+
+The background depicts a grim urban landscape at dusk, with dark, towering buildings and graffiti art symbolizing struggle and defiance. The sky is painted in deep reds and purples, casting a somber but passionate atmosphere over the scene. 
+
+Dramatic lighting highlights the faces of the protesters, emphasizing their determination and resilience, while shadows loom ominously from the oppressive structures around them. The overall composition should evoke a sense of urgency and the fight for humanity, with a gritty, realistic art style reminiscent of photojournalism.
+Seed: 997524875
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Injustice, Topic

@@ -1,0 +1,4 @@
+Prompt: Create an image showcasing a lush, thriving garden full of vibrant green plants and colorful flowers. The garden is set in a sunlit environment, with rays of golden sunlight shining down, illuminating the rich textures of the foliage. In the foreground, depict a young plant breaking through the soil, surrounded by dew droplets that catch the light. The background features a diverse array of mature plants, symbolizing growth and abundance, alongside a gentle flowing stream that adds a sense of tranquility. The overall composition should convey an atmosphere of vitality and flourishing life, rendered in a bright and cheerful color palette, with soft shadows enhancing the depth of the scene. Art style should be hyper-realistic, capturing intricate details in every leaf and petal.
+Seed: 3665767470
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Benefit, Growth

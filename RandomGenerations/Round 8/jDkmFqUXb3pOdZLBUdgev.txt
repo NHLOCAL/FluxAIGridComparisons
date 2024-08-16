@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vibrant novelty starship soaring through a galaxy filled with colorful nebulae and twinkling stars. The starship has a whimsical design, with exaggerated curves and playful colors like bright pinks, greens, and yellows. Its surface features intricate patterns and playful decals, making it look festive and inviting. The background is a rich blend of deep blues and purples, with galaxies and shimmering stardust accentuating the starship's path. In the foreground, add cosmic elements such as cartoonish planets with happy faces and floating asteroids, providing a sense of fun and adventure. The overall scene should be brightly lit, creating a cheerful and imaginative atmosphere, evoking a sense of joy and exploration in the universe.
+Seed: 2940923712
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Starship, Novelty

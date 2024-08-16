@@ -1,0 +1,4 @@
+Prompt: A modern office space featuring a large glass wall that offers a panoramic view of a bustling city skyline. The interior is sleek and minimalist, with contemporary furniture including a polished wooden desk, a comfortable ergonomic chair, and potted plants strategically placed around the room. Soft natural light filters through the glass, casting gentle shadows on the polished marble floor. In the foreground, a laptop is open on the desk, displaying a vibrant screen with graphs and charts. The background includes vibrant city buildings, a clear blue sky, and fluffy white clouds, enhancing the atmosphere of productivity and inspiration. The scene is captured from a slightly elevated angle, emphasizing the spaciousness and modern design of the office. Photorealistic style, high detail, bright and inviting lighting.
+Seed: 3157429816
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glass, Office

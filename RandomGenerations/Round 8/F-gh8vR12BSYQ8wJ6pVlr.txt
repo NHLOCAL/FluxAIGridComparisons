@@ -1,0 +1,4 @@
+Prompt: Create an image of a whimsical scene featuring a clown launching himself off a trampoline into the air. The clown, with a colorful, oversized costume and a bright red nose, is mid-leap with a boisterous smile. Below him, a group of children are laughing and watching in awe, their faces lit with joy and surprise. The background is a vibrant carnival setting with colorful tents, balloons floating in the sky, and confetti raining down. The lighting is bright and cheerful, casting warm hues and creating a festive atmosphere. The angle captures the action from slightly below, enhancing the sense of impact and excitement in the moment. The overall composition is fun, lively, and visually engaging, evoking a spirit of joy and laughter.
+Seed: 3978609466
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Laughter, Impact

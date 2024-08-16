@@ -1,0 +1,8 @@
+Prompt: A stunning portrayal of a feminine figure embodying duality, set in a vibrant Dieselpunk world. The subject is dressed in a glamorous, intricately detailed outfit that fuses vintage 1940s fashion with industrial elements, featuring metallic textures and bold patterns. Her hair is styled in an elegant yet fierce manner, adorned with gears and cogs that reflect the mechanical nature of the environment. 
+
+The background showcases a bustling cityscape infused with Dieselpunk aesthetics, characterized by towering smokestacks, retro-futuristic vehicles, and intricate machinery. Dramatic lighting casts sharp shadows, emphasizing the contrast between the feminine form and the rigid structures surrounding her. One side of the scene conveys a sense of elegance and allure, while the other is more rugged and industrial, highlighting the duality of beauty and strength.
+
+The color palette incorporates rich earth tones and metallic accents, combining warmth and coldness to reflect the different facets of her character. The angle of the shot presents her in a confident pose, emphasizing both grace and power, making the depiction a captivating blend of glamour and industrial chic., illustration, hyper-detailed, cinematic.
+Seed: 2263485844
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dieselpunk, Glamorous

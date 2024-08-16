@@ -1,0 +1,4 @@
+Prompt: Create an image of a digital crypt in an expansive underground cavern. The crypt should be adorned with ancient runes and gothic architecture, featuring intricate stone carvings and a large, imposing entrance. Inside, a ghostly babe wrapped in ethereal white fabric hovers above a shimmering crystal coffin, illuminating the dark space with a soft, otherworldly glow. Scattered around the ground are glowing blue mushrooms, adding a mystical touch to the environment. The background should be filled with shadowy stalactites and stalagmites, with a faint mist swirling through the air. The overall lighting is dim yet magical, creating an eerie ambiance that invites the viewer into this enchanted realm. Cinematic style, highly detailed, ethereal.
+Seed: 3180431148
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Babe, Crypt

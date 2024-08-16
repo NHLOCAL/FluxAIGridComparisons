@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic illustration of a beautifully arranged dining table for a romantic date night. The table is adorned with a luxurious red tablecloth, complemented by exquisite crystal wine glasses and elegant silver cutlery. In the center, there is a stunning bouquet of red roses and soft pink lilies, adding a vibrant touch. Soft candlelight flickers, casting a warm glow that enhances the intimate atmosphere. The background features a softly blurred landscape of a sunset over the ocean, with hues of orange, pink, and purple reflecting in the calm water. The scene should be rich in detail, highlighting textures like the soft petals of the flowers, the shimmering glass, and the smooth surface of the table. The overall composition ensures a sense of romance and elegance.
+Seed: 1500003564
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Date, Heart

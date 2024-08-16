@@ -1,0 +1,4 @@
+Prompt: Create an illustration featuring a close-up view of a luminous pearl, resting on a textured, dark ocean floor. The pearl should be perfectly spherical and radiate a soft, iridescent glow, reflecting hues of lavender, blue, and pink. Tiny bubbles gently rise around it, capturing light in a mesmerizing way. The backdrop is a blurred underwater scene with shadows of coral and gently swaying seaweed, adding depth and a sense of tranquility. The lighting should be soft and diffuse, creating an ethereal ambiance, enhancing the pearl's beauty and making it the focal point of the composition. The overall color palette should be rich and harmonious, invoking a sense of serenity and elegance.
+Seed: 1928108910
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Recognition, Pearl

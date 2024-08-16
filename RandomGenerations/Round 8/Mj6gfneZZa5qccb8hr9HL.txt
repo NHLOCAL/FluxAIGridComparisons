@@ -1,0 +1,4 @@
+Prompt: Create an image of a captivating degree certificate prominently displayed on a dark wooden desk. The certificate features intricate gold foil detailing and elegant calligraphy spelling out the recipient's name, along with the degree type and institution. In the background, soft, warm lighting illuminates the scene, casting gentle shadows that highlight the fine textures of the paper and the rich wood grain of the desk. A classic quill pen rests beside the certificate, with a small inkwell showcasing an antique design. The overall tone of the image is sophisticated and prestigious, emphasizing the significance and achievement represented by the degree.
+Seed: 1469792299
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Degree, Captivating

@@ -1,0 +1,4 @@
+Prompt: Create an image of a heroic knight clad in ornate armor, standing atop a rocky cliff with a vibrant sunset behind him. The knight holds a glowing sword aloft, which casts shimmering light across the scene, illuminating his determined face. His cape billows dramatically in the wind, showcasing intricate designs. Below, a sprawling, lush valley filled with dense forests and winding rivers stretches into the horizon. The sky is painted with hues of orange, purple, and pink, enhancing the sense of adventure and valor in the atmosphere. The angle should be a low perspective, emphasizing the knight's stature and the grandeur of the landscape, rendered in a highly detailed, cinematic art style.
+Seed: 3729895659
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quest, Vigor

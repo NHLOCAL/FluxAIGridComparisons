@@ -1,0 +1,6 @@
+Prompt: Create an image of a mystical amulet radiating immense power, cradled in the hands of a cloaked figure standing atop a rocky cliff. The amulet is intricately designed with swirling patterns, and at its center lies a glowing gem that pulses with a vibrant light, casting a warm glow onto the figure's face. The figure's identity is obscured by the hood of their cloak, but their hands are adorned with ancient rings and scars, hinting at their storied past. 
+
+The background features a breathtaking sunset with fiery oranges and deep purples, illuminating a vast, sprawling landscape dotted with mythical creatures and ancient ruins. Wisps of magical energy swirl around the amulet, creating an enchanting aura. The composition emphasizes the contrast between the dark silhouette of the figure and the radiant light of the amulet, invoking a sense of mystery and power. The lighting should be dramatic, with shadows adding depth to the scene. The art style blends realism with fantasy elements, creating a captivating and immersive visual experience.
+Seed: 530764572
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Power, Amulet

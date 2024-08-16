@@ -1,0 +1,4 @@
+Prompt: A hauntingly dark scene of an abandoned Victorian house enveloped in thick fog. The weathered wooden structure exhibits cracked windows and peeling paint, creating an eerie atmosphere. Gnarled trees surround the house, their twisted branches reaching out as if trying to grasp the building. A faint light flickers in the upstairs window, casting unsettling shadows that dance on the walls. The ground is covered in tangled weeds and overgrown grass, while a crooked path made of stone leads to the door, partially ajar. The sky is a brooding gray, heavy with ominous clouds, as the last rays of fading sunlight struggle to penetrate the foreboding darkness. The overall composition exudes a sense of abandonment and suspense, heightened by the deep contrasts of light and shadow. Hyper-detailed, cinematic lighting.
+Seed: 2753064125
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dark, Creepy

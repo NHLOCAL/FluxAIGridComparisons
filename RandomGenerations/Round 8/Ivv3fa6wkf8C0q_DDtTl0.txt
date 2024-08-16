@@ -1,0 +1,4 @@
+Prompt: Create a captivating digital art piece featuring an ethereal, translucent figure representing an Identity, emerging from a swirling cloud of colors. The figure should have no distinct features, symbolizing the concept of identity as fluid and multifaceted. The background is a cosmic landscape filled with vibrant hues of blue, purple, and pink, creating a dreamlike atmosphere. Soft, ambient lighting gently illuminates the figure, casting subtle reflections on the swirling colors surrounding it. Include wisps of light that intertwine with the figure, enhancing the sense of movement and transformation. The overall composition should evoke a feeling of mystery and exploration of self, blending elements of abstract art and surrealism.
+Seed: 570220178
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Identity, Way

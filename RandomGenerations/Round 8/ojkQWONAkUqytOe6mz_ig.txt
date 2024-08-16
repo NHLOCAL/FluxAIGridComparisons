@@ -1,0 +1,4 @@
+Prompt: A detailed illustration of a futuristic space station orbiting a distant planet. The space station has sleek, metallic structures with glowing lights and various docking bays, while numerous spacecraft, each with distinct designs, are coming and going. The background showcases a vibrant galaxy filled with twinkling stars and colorful nebulae, with the planet below exhibiting majestic landscapes, swirling storms, and oceanic reflections. The lighting is bright and dynamic, highlighting the contrast between the space station's advanced technology and the natural beauty of the cosmos. The scene is rendered in a hyper-realistic style, capturing intricate details and a sense of wonder.
+Seed: 3483840002
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Station, Control

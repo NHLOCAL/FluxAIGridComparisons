@@ -1,0 +1,4 @@
+Prompt: A dramatic scene depicting a werewolf howling at a full moon in a dense, mist-laden forest. The werewolf, with its massive, muscular form covered in dark, coarse fur, stands on a rocky outcrop. Its glowing yellow eyes are intense, capturing the eerie light of the moon. Thick trees with gnarled branches frame the background, shrouded in wisps of fog that add a layer of mystery. The moon hangs low in the sky, casting a silver-blue light that reflects off the werewolf's sharp claws and fangs. The atmosphere is tense and foreboding, with dynamic shadows enhancing the werewolf’s menacing presence, creating a cinematic and immersive nighttime scene. High detail, hyperrealistic style, capturing the essence of dark fantasy and horror.
+Seed: 785000398
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silence, Werewolf

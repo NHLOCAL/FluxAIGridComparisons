@@ -1,0 +1,4 @@
+Prompt: Create an intricate design of a badge representing the concept of "Twin Flame." The badge features two intertwined flames, each colored in vibrant shades of orange and blue, symbolizing the intensity and balance of the twin flames. The flames should be stylized, with elegant curves and sharp points, creating a dynamic and visually striking appearance. Surrounding the flames is an ornate circular border adorned with subtle celestial motifs like stars and crescent moons, emphasizing a connection to the cosmos. The background is a deep navy blue, providing a dramatic contrast that highlights the flames. The overall lighting should have a slight glow, giving the badge an ethereal quality, and the design is rendered in a modern graphic style with high detail, suitable for a digital emblem or artwork.
+Seed: 1405173290
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Badge, Twin flame

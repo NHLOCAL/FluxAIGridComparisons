@@ -1,0 +1,8 @@
+Prompt: Create a captivating conceptual art scene depicting the theme of antimatter. The central focus should be a swirling vortex of vibrant, pulsating colors representing antimatter energy, with deep purples, electric blues, and fiery oranges. Surrounding the vortex, create a stark contrast with a dark, void-like background, emphasizing the brilliance of the antimatter.
+
+In the foreground, include a pair of symmetrical, intricate geometric shapes made of crystal-like material, reflecting the colors of the antimatter swirl. These shapes can represent duality and faithfulness, suggesting a bond or relationship. Soft beams of light should emanate from the geometric shapes, illuminating the surrounding area with ethereal light.
+
+The overall scene should be framed with a delicate mist or nebula effect to add depth and mystery. The art style should resemble modern digital surrealism, with smooth blending and vibrant color saturation. The lighting should be dynamic, highlighting the movement and energy of the antimatter while also creating a sense of stillness around the geometric shapes, inviting contemplation of their meaning.
+Seed: 3462167484
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Antimatter, Faithfulness

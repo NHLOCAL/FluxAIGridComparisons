@@ -1,0 +1,4 @@
+Prompt: Create a photograph of a split scene depicting a busy urban street on one side and a serene forest on the other. The urban side should feature bustling crowds, bright neon lights, and high-rise buildings, with people hurriedly walking and engaged in their devices. Transitioning to the forest side, depict tall, lush trees, dappled sunlight filtering through the leaves, and a tranquil path inviting solitude. The central line dividing the two scenes represents a stark contrast, emphasizing the chaotic energy of city life versus the peacefulness of nature. Use soft yet dynamic lighting to highlight the differences between the two environments, employing a vibrant color palette for the city and a soothing green and brown tone for the forest. The angle should be a wide shot that encompasses both sides equally, suggesting the concept of duality in modern life.
+Seed: 715070528
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Encounter, Rule

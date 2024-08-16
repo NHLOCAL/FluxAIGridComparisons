@@ -1,0 +1,4 @@
+Prompt: Create a dramatic illustration featuring a mysterious figure shrouded in swirling, dark smoke. The figure stands at the center, partially obscured, with only hints of their silhouette visible against the dense, billowing clouds. The smoke is richly textured, with gradients of deep black and gray merging into lighter shades, creating a captivating contrast. The background is an ethereal landscape, subtly illuminated by a soft, eerie glow that seeps through the smoke. Ethereal shapes and patterns form within the haze, hinting at a skeletal structure or hidden entities within the smoke. The lighting is moody and dim, emphasizing the enigma of the figure and the hypnotic movement of the smoke. This piece should evoke a sense of intrigue and suspense, blending elements of mystery and fantasy seamlessly.
+Seed: 1846371802
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Smoke, Task

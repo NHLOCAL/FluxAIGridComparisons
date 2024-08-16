@@ -1,0 +1,4 @@
+Prompt: Create an image of a complex computer circuit board, designed to resemble a vibrant, futuristic cityscape. The circuit paths are intricately laid out like city streets, with tiny glowing lights representing buildings and vehicles. Incorporate elements like data streams flowing through the circuits, symbolizing high-speed information transfer. The background should feature a deep blue to purple gradient, simulating a night sky filled with stars, casting a soft glow over the circuit city. The overall design should blend technology and architecture, showcasing an advanced, digital world filled with dynamic energy. The lighting should be bright and vibrant, emphasizing the details of the circuit and creating a sense of movement and life within the structure.
+Seed: 4079913422
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Act, Array

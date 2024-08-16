@@ -1,0 +1,4 @@
+Prompt: A detailed illustration of a majestic old mill set in a picturesque countryside. The mill, made of weathered wood and stone, features a large, inviting waterwheel turning slowly, adorned with creeping vines and colorful wildflowers. The background is a lush, rolling landscape with vibrant green hills dotted with blooming flowers and tall trees under a bright blue sky with fluffy white clouds. The sun is shining down, casting warm golden light across the scene, creating soft shadows and a sense of tranquility. This idyllic setting embodies a sense of harmony and connection with nature, rendered in a vibrant, realistic style that invites viewers to explore the serenity of this fictional world.
+Seed: 3497689746
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mill, Fiction

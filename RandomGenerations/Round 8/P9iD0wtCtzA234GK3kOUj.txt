@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a charming theater scene set in a vintage European city. The theater building, adorned with intricate architectural details, features a large marquee displaying a classic film title. The vibrant facade is illuminated by warm, inviting lights that cast a golden glow on the cobblestone street. In the foreground, a couple dressed in elegant evening attire walk hand in hand, admiring the theater. Background elements include quaint cafes with outdoor seating, colorful flower boxes, and a starry night sky. The art style should be reminiscent of classic oil painting, with rich colors and fine details that capture the enchanting atmosphere of a night at the theater. The overall lighting is warm and romantic, enhancing the delightful ambiance of the scene.
+Seed: 1826612067
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Delightful, Theater

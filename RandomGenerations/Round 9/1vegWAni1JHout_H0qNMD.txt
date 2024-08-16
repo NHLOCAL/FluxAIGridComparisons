@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image that blends the silhouette of a skilled artisan, deeply focused on their craft, with a vibrant cityscape filled with dynamic buildings and creative elements. The artisan's profile should be intricately detailed, showcasing their concentration. The cityscape should feature colorful street art, bustling workshops, and flowing streams of light that convey a sense of innovation and design. The background should be a soft, blurred gradient that transitions from warm yellows to cool blues, enhancing the contrast between the artisan and the urban environment. The overall composition should convey the harmony between skill and creation, blending realism with abstract elements. Use a cinematic lighting style to illuminate the scene, emphasizing depth and detail in both the artisan and the cityscape, creating an inspiring visual narrative.
+Seed: 3948361409
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Skill, Creation

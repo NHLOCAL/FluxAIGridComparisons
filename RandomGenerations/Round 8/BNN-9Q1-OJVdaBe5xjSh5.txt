@@ -1,0 +1,4 @@
+Prompt: Create an abstract artwork illustrating the concept of transition and deception. The background features a gradient spectrum transitioning from dark hues to bright, vibrant colors, symbolizing change. Interspersed throughout the image are fragmented mirror pieces reflecting distorted images of a human figure, with the figure's features shifting between different emotions and expressions, representing the theme of lying. The foreground showcases swirling patterns of mist or smoke that blend colors, creating a sense of movement and transformation. Soft, diffused lighting highlights the various elements, emphasizing the contrast between the light and shadows, evoking a mysterious atmosphere. The overall composition is both captivating and thought-provoking, inviting the viewer to interpret the meaning behind the transition and the nature of truth and deception.
+Seed: 3327856227
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Transition, Lie

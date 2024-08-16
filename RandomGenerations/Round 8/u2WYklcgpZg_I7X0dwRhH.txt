@@ -1,0 +1,4 @@
+Prompt: A dramatic illustration of a dystopian landscape named "Criterion Ruin." The scene showcases a once-grand city now in ruins, with towering skyscrapers crumbling and overgrown with wild, vibrant foliage. The sky is a tumultuous mix of dark gray and foreboding red, indicating an impending storm. Jagged remnants of buildings jut out like broken teeth against the skyline, while scaffolding hangs precariously. In the foreground, a weathered statue stands, half-buried in rubble and covered in ivy, symbolizing the past glory of the city. The scene is illuminated by flashes of lightning that cast sharp shadows across the landscape, enhancing the sense of desolation and decay. Rich colors dominate, emphasizing the contrast between nature's persistence and humanity's downfall, rendered in a high-detail, atmospheric style reminiscent of post-apocalyptic art.
+Seed: 119194592
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Criterion, Ruin

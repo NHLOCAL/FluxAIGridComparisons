@@ -1,0 +1,4 @@
+Prompt: Create an image of a pair of striking, symmetrical feminine faces set against a futuristic backdrop. One face should represent traditional beauty with flowing hair, soft features, and a serene expression, while the other represents advanced nanotechnology, featuring intricate patterns of luminous circuit-like designs integrated into the skin, metallic accents, and a more angular jawline. The background should depict a sleek, high-tech cityscape with glowing skyscrapers and holographic advertisements. Utilize bright, dynamic lighting to enhance the clarity of the features, creating a vibrant contrast between the natural and the artificial. The angle should be a frontal view to emphasize the duality, with a slightly blurred bokeh effect on the background to draw focus to the faces.
+Seed: 329176843
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Nanotechnology

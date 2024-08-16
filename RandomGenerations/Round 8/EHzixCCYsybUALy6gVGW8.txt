@@ -1,0 +1,4 @@
+Prompt: Create an image of a sleek, modern product displayed against a vibrant blue sky. The product, a futuristic gadget, is positioned centrally, showcasing its smooth curves and high-tech features. The background should feature fluffy white clouds scattered throughout the bright blue sky, emphasizing the product's sleek design. The lighting should be bright and crisp, enhancing the product's details and colors. The angle should be slightly elevated, capturing both the product and the sky in a dynamic composition, creating an inviting and uplifting atmosphere. Highly detailed, ultra-realistic style, emphasizing the innovation of the product.
+Seed: 899136667
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sky, Product

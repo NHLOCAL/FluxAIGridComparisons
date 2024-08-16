@@ -1,0 +1,4 @@
+Prompt: Create a serene illustration of a beautifully wrapped gift box nestled in a tranquil, sunlit garden. The gift box, adorned with a shimmering golden ribbon and intricate floral patterns, sits atop a soft bed of vibrant green grass. Surrounding the box are various blooming flowers in shades of pastel pink, lavender, and soft yellow, enhancing the overall peaceful ambiance. A few butterflies flutter nearby, captured in mid-air with their delicate wings spread wide. The background features gently swaying trees with dappled sunlight filtering through the leaves, creating an inviting, warm atmosphere. The entire scene is bathed in soft, natural light, emphasizing a sense of calm and tranquility. The art style is reminiscent of a dreamy watercolor painting, with gentle brush strokes and a harmonious color palette.
+Seed: 1110994855
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tranquility, Gift

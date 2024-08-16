@@ -1,0 +1,4 @@
+Prompt: A surreal illustration of a ghostly wedding taking place in an ancient, mist-shrouded graveyard. The scene features a translucent bride in an elegant, flowing wedding gown, her veil blending into ethereal wisps of fog. The groom, a spectral figure in a classic tuxedo, stands beside her, both figures glowing faintly in the dim moonlight. Surrounding them are ornate gravestones covered in moss and wildflowers, with intricate carved designs hinting at their stories. In the background, gnarled trees stretch their branches like skeletal hands towards the starry sky. The atmosphere is serene yet eerie, capturing the juxtaposition of love and loss. The lighting is soft and ghostly, enhancing the ethereal quality of the scene, while the color palette consists of deep blues and muted grays, creating a haunting yet beautiful wedding celebration amidst the gravestones.
+Seed: 2988369911
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Graveyard, Marriage

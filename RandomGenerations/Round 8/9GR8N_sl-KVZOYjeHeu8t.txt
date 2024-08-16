@@ -1,0 +1,4 @@
+Prompt: A dramatic illustration depicting a chimera, a creature with the body of a lion, the head of a goat emerging from its back, and a serpent as its tail. The chimera stands majestically on a rocky outcrop, rain pouring down in heavy sheets, creating a dynamic and intense atmosphere. The creature's fur is drenched, glistening in the dim light, accentuating its muscular form and the intricate details of its scales and fur. The background features a dark, stormy sky filled with ominous clouds, with flashes of lightning illuminating the scene intermittently. Puddles form on the rocky ground, reflecting the surrounding chaos of the tempest, and the overall composition captures a sense of power and wildness. The art style is akin to dark fantasy, emphasizing realism and intricate detail with a focus on the contrast between light and shadow.
+Seed: 2380954519
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rain, Chimera

@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a challenging mountain climbing expedition. The scene should feature climbers ascending a steep, rugged mountain face, equipped with climbing gear, ropes, and harnesses. The climbers should appear focused and determined, navigating rocky terrain with sharp ledges and outcrops. Snow and ice should be visible on the mountain, with some areas glistening under bright sunlight. The background should showcase a vast, breathtaking panoramic view of distant mountain ranges shrouded in mist, with dramatic clouds casting shadows on the landscape below. The color palette should mix shades of blue, white, and earthy tones, creating a vivid contrast against the climbers. The angle should be slightly elevated, allowing a clear view of both the climbers and the expansive mountain range, capturing the sense of adventure and the grandeur of nature.
+Seed: 2157714110
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Idea, Challenge

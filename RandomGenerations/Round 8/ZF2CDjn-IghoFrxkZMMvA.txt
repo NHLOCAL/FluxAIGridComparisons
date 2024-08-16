@@ -1,0 +1,4 @@
+Prompt: Create an image of a tranquil brook flowing through a lush, moss-covered bog. The brook should be crystal clear, revealing smooth stones at the bottom, while gentle ripples create shimmering reflections of the surrounding greenery. Tall grasses and vibrant wildflowers should border the water’s edge, adding splashes of color to the scene. The light should be soft and diffused, as if filtering through a canopy of trees overhead, casting dappled shadows on the ground. The background should feature distant silhouettes of tall trees, shrouded in a misty atmosphere, enhancing the serene and peaceful mood of this natural setting. The style should evoke realism, emphasizing the rich details of the vegetation and the tranquil movement of the water.
+Seed: 654631910
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Brook, Bog

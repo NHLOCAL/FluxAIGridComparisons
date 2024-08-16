@@ -1,0 +1,4 @@
+Prompt: Create an image of a mystical bog scene, centered on a glowing amulet that rests on a decaying, moss-covered log. The amulet should be intricately designed, featuring swirling patterns and embedded gemstones that emit a soft, ethereal light. Surrounding the log, dense fog drifts above the murky water, with small, bioluminescent plants dotting the landscape, casting a shimmering glow on the surface of the bog. A backdrop of twisted trees with gnarled roots adds depth and an air of mystery. The lighting should be moody and atmospheric, emphasizing the contrast between the luminous amulet and the dark, shadowy bog. The overall color palette should consist of rich greens, deep browns, and splashes of vibrant colors from the bioluminescent plants, creating a captivating fantasy scene.
+Seed: 4260999202
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bog, Amulet

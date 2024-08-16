@@ -1,0 +1,4 @@
+Prompt: Create an image of a cozy living room during a rainy evening. The scene features a warm, inviting atmosphere with a crackling fireplace at the center, casting flickering shadows on the walls. A plush, oversized armchair is positioned near the fire, draped with a soft knitted blanket. A small wooden side table holds a steaming cup of tea and an open book, inviting the viewer to relax. The windows are adorned with sheer curtains, through which the rain gently patters, creating a soothing soundscape. Soft yellow lighting from a vintage lamp enhances the warmth of the space, while a few indoor plants add a touch of greenery. The overall composition should evoke a sense of comfort and tranquility, perfect for a quiet night in, rendering in a realistic art style with high detail.
+Seed: 3666777684
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Idea, Coziness

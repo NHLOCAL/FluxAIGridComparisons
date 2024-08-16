@@ -1,0 +1,4 @@
+Prompt: Create an image of a cozy café scene during the golden hour, with warm sunlight streaming through large windows. A diverse group of four friends sits at a round wooden table, engaged in deep conversations, their expressions animated and friendly. One person is laughing, another is leaning in, listening intently, and the others are sharing smiles. The café is decorated with rustic wooden accents, potted plants, and vintage artwork on the walls. Soft, glowing light creates a warm and inviting atmosphere, highlighting the friends' interactions. The overall color palette should feature soft golds, warm browns, and gentle greens, creating a sense of comfort and connection. High-detail digital art style, bright yet soft lighting.
+Seed: 315576488
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adoration, Honesty

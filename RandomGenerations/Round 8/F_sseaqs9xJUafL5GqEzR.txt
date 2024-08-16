@@ -1,0 +1,8 @@
+Prompt: Create an image of a serene riverbank scene at twilight. The foreground features a gently flowing river reflecting the soft orange and purple hues of the setting sun. On one side of the riverbank, depict two figures – a man and a woman – standing side by side, engaged in a thoughtful conversation. Both figures are dressed in casual outdoor clothing, and subtle details like a backpack on the ground and a fishing rod resting against a nearby tree add context to the scene.
+
+In the background, lush greenery wraps around the river, with tall grass swaying gently in the breeze and blooming wildflowers adding pops of color. A variety of trees, including willows and maples, line the riverbanks, their leaves caressed by the evening wind. Soft ripples on the water surface reflect the atmospheric lighting, creating a tranquil ambiance.
+
+The composition should be viewed from a slightly elevated angle to capture both the river and the figures effectively. The lighting should be warm and inviting, with soft shadows enhancing the scene’s depth. Emphasize the peaceful connection between nature and the figures, evoking a sense of harmony and partnership in their surroundings. Art style should be realism, with an emphasis on lush details and vibrant colors.
+Seed: 713087788
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Riverbank, Partnership

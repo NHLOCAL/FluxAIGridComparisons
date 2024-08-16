@@ -1,0 +1,4 @@
+Prompt: Create an image of a futuristic hydra with multiple heads, each uniquely designed with intricate mechanical elements and glowing LED patterns. The heads should showcase a variety of innovations, such as advanced technology, cybernetic enhancements, and sleek armor plating. The hydra's body should be covered in metallic scales that shift colors and textures, reflecting light in a dazzling display. The background should depict a high-tech urban landscape, filled with soaring skyscrapers and flying vehicles. The scene is illuminated by vibrant neon lights, casting a colorful glow around the hydra, emphasizing its power and innovation. The angle should be a low shot, capturing the hydra towering over the city, creating a sense of awe and grandeur. The overall style should be a blend of cyberpunk and sci-fi, with a focus on detail and dynamic composition.
+Seed: 1311467285
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hydra, Innovation

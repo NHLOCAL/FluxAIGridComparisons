@@ -1,0 +1,4 @@
+Prompt: A grand, ancient edifice covered with vibrant autumn foliage, showcasing a stunning combination of reds, oranges, and yellows. The structure is made of weathered stone, with intricate carvings that tell stories of its long history. Surrounding the building, a bountiful harvest is displayed, including baskets filled with plump pumpkins, fragrant apples, and golden corn, set against a backdrop of rolling hills. The sunlight casts a warm glow, creating long shadows and highlighting the rich textures of the stone and produce. The scene is framed by a clear blue sky and soft, fluffy clouds, adding to the serene autumn ambiance. This highly detailed illustration captures the essence of a rich harvest season combined with the beauty of architectural history., vivid colors, cinematic, illustration.
+Seed: 3744955303
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Edifice, Harvest

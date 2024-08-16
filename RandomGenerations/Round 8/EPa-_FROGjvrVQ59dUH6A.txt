@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph capturing the intricate details of a Millennium Falcon model. The ship should be positioned at an angle that showcases its iconic saucer-shaped body and cockpit. The background should feature a dramatic night sky filled with stars and distant galaxies, with soft, ethereal lighting illuminating the Falcon, highlighting its weathered texture and metallic surface. The scene should be augmented with subtle hints of blue and purple glowing lights on the ship, creating a sense of a journey through space. The photograph should be rich in detail, emphasizing the craftsmanship of the model and the grandeur of the cosmic backdrop.
+Seed: 291005322
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Millennium, Photograph

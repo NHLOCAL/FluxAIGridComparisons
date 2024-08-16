@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene pond set in a lush, tranquil forest. The pond's surface is calm, reflecting the surrounding vibrant green foliage and blue sky. In the foreground, depict a nude figure gracefully wading through the water, their silhouette partially submerged. The figure's body blends harmoniously with the natural environment, emphasizing the sense of freedom and connection to nature. Soft light filters through the trees, creating dappled patterns on the water, while delicate ripples emanate from the figure's movements. The overall scene should evoke an atmosphere of peace and natural beauty, capturing the essence of harmony between humanity and the wilderness. The art style should be realistic with a focus on detail, emphasizing the textures of the water and foliage.
+Seed: 2477729029
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pond, Nude

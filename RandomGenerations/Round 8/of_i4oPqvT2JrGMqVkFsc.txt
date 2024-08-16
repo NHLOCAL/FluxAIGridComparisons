@@ -1,0 +1,4 @@
+Prompt: Create an intricate illustration of an alchemist in a dimly lit, cluttered laboratory filled with bubbling potions and ancient tomes. The alchemist, a middle-aged man with a long beard and wearing a deep blue robe adorned with gold symbols, stands at a wooden workbench. He is intently studying a glowing vial of liquid in one hand, while the other hand gestures towards a swirling cloud of colored smoke rising from a nearby cauldron. The background features shelves lined with jars containing mysterious substances, and a large stone fireplace casts flickering shadows across the room. The lighting is warm yet ominous, with highlights accentuating the alchemist's focused expression, reflecting wisdom and determination. The illustration combines elements of dark fantasy and steampunk, emphasizing intricate details and vibrant colors throughout the scene.
+Seed: 4239226402
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Belief, Alchemist

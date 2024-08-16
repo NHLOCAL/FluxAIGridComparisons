@@ -1,0 +1,4 @@
+Prompt: An enchanting underwater scene depicting the remnants of a sunken ancient city, partially obscured by vibrant coral reefs. The foreground features intricate ruins, with moss-covered stone columns and crumbling archways adorned with colorful sea life. Various fish and marine creatures swim among the ruins, showcasing the bustling biodiversity of the reef. Shafts of sunlight pierce through the water's surface, illuminating the scene with a mesmerizing, ethereal glow. The color palette includes deep blues and vibrant corals, creating a striking contrast with the muted tones of the ruins. Small bubbles rise to the top, adding a sense of movement to the tranquil underwater environment, highlighting the delicate balance between nature and history, hyper-realistic, cinematic quality, illustration.
+Seed: 846343747
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ruin, Reef

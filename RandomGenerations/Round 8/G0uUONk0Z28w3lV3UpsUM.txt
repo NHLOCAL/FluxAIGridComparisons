@@ -1,0 +1,4 @@
+Prompt: Create an image of a pristine landscape featuring a vast, serene lake surrounded by lush green mountains. The lake's surface should be perfectly still, reflecting the clear blue sky and the vibrant colors of the surrounding flora. In the foreground, depict a lone white swan gliding gracefully across the water, creating gentle ripples in its wake. The background should display soft, fluffy clouds dotting the sky, with golden sunlight casting warm highlights on the mountains and lake. The overall color palette should evoke a sense of tranquility with soft greens, blues, and whites, while the composition emphasizes the expansive openness and peacefulness of nature. The scene should be rendered in a hyper-realistic style, capturing intricate details of the swan’s feathers and the textures of the landscape, creating an immersive and breathtaking visual experience.
+Seed: 2772367852
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Serenity, Freedom

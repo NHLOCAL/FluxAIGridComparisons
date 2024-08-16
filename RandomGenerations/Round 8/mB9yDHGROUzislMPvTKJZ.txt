@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vast, desolate landscape at twilight, featuring an expansive desert stretching to the horizon, with rolling dunes creating soft shadows. In the foreground, a solitary figure stands atop a high dune, gazing into the distance. The figure is cloaked in a tattered robe, with the flowing fabric billowing gently in the wind. The sky is painted in deep purples and blues, with faint stars beginning to twinkle above, and a crescent moon casting a silvery light on the sand. The lighting is soft, accentuating the textures of the sandy surface and the figure's silhouette. The overall composition evokes a sense of solitude and yearning, inviting the viewer to reflect on the themes of silence and longing, presented in a semi-realistic, cinematic art style.
+Seed: 3648488448
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silence, Longing

@@ -1,0 +1,4 @@
+Prompt: Create a breathtaking illustration of a massive glacier towering over a pristine landscape. The glacier should be depicted in vibrant shades of blue and white, with intricate ice formations and sparkling facets reflecting sunlight. Surrounding the glacier, there should be a rugged terrain of rocky outcrops and a serene lake in the foreground, mirroring the glacier's majestic presence. The sky above is a brilliant blue with wispy clouds, enhancing the clarity of the scene. Soft, natural lighting emphasizes the texture of the ice and the surrounding landscape, while the overall composition conveys a sense of grandeur and tranquility in this remote, untouched wilderness. Art style inspired by classical landscape painting, immersive, detailed, cinematic.
+Seed: 2132356672
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glacier, Landmark

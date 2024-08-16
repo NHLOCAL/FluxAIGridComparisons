@@ -1,0 +1,4 @@
+Prompt: Create an illustration that captures the essence of a futuristic cityscape at dawn. The skyline should feature sleek, towering skyscrapers made of glass and metal, reflecting the first light of day. A monorail glides effortlessly between the buildings, while flying vehicles zip through the air. The streets below are bustling with pedestrians and advanced hover cars. The sky transitions from deep blue to soft orange and pink hues, signifying the start of a new day. Atmospheric fog lingers in the lower levels, adding depth to the scene. The art style should resemble a blend of cyberpunk and modernism, with crisp lines and high contrast. Emphasize the interplay of light and shadow to create a dynamic environment that suggests a thriving metropolis of the future.
+Seed: 1042020366
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Date, Commendation

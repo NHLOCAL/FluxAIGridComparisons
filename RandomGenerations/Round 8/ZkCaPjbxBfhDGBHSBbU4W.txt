@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a serene tropical lagoon surrounded by lush green foliage and towering palm trees. The water should be crystal clear, reflecting the vibrant colors of the sunset sky, with shades of orange, pink, and purple blending together. Along the lagoon's edge, a small wooden boat floats gently, with a single person sitting peacefully, gazing at the horizon. The background should include distant volcanic mountains shrouded in mist, adding depth to the scene. The overall lighting is warm and inviting, enhancing the natural beauty of the lagoon, while soft shadows play across the sandy beach. The art style should be hyper-realistic, capturing intricate details of the water, plants, and the peaceful atmosphere of the lagoon.
+Seed: 3502419797
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Modification, Lagoon

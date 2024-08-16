@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic image of a perfectly ripe orange, showcasing its textured skin with vibrant shades of orange and subtle hints of yellow. The orange is placed on a smooth white surface, reflecting natural sunlight that creates a soft glow and highlights its juiciness. The background should be softly blurred, featuring gentle greens and browns that evoke a fresh, organic environment. Incorporate tiny droplets of water on the orange's surface to enhance its freshness. The lighting should create a serene, inviting atmosphere, emphasizing the fruit's vibrant color and natural beauty.
+Seed: 302015075
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Orange, Ideal

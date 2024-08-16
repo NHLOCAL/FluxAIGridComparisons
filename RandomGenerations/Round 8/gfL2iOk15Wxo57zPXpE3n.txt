@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic image showcasing a mysterious, ancient-looking ward surrounded by dense, overgrown foliage. The ward, with intricate symbols and weathered stones, exudes an aura of forbidden knowledge. Delicate vines entwine around the structure, while vibrant flowers bloom in contrast to the aged stone. Soft, dappled sunlight filters through the canopy above, casting enchanting patterns on the ground. The scene should imbue a sense of intrigue, inviting the viewer to explore the hidden secrets of the ward, rich in details and textures, featuring lush greens and earthy tones, with an emphasis on nature reclaiming the space. The overall composition should maintain a mystical, enchanted atmosphere.
+Seed: 629258551
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Infatuation, Ward

@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a feminine figure embodying the concept of duality. The figure should be split down the middle, one half showcasing an ethereal angelic form with flowing, light-colored hair and delicate wings, dressed in a shimmering, translucent gown. The other half should depict a fierce warrior with dark, jagged hair, wearing intricately detailed armor and wielding a sword. The background should transition from a serene, pastel-colored sky filled with soft clouds on one side to a stormy, dark landscape with swirling shadows and flashes of lightning on the other. Dramatic lighting should highlight the contrasting elements, emphasizing the harmony and conflict within the duality of the figure. The overall composition should convey a sense of balance between strength and grace, capturing the essence of both beauty and power.
+Seed: 1492253151
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Passion, Notion

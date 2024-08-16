@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a lone tree standing on a hilltop at sunset. The tree's gnarled branches stretch out against the sky, silhouetted by a vibrant gradient of orange, pink, and purple hues. The sun is setting on the horizon, casting warm light that highlights the texture of the tree bark. The grassy hill slopes gently downward, dotted with wildflowers in soft colors that sway gently in the breeze. Wispy clouds float above, reflecting the sunset's glow. A small, weathered wooden bench sits beneath the tree, inviting viewers to imagine a moment of quiet reflection in this serene landscape. The overall scene should convey a sense of solitude and tranquility, emphasizing the beauty of nature. Photorealistic style, high detail, warm lighting.
+Seed: 638108408
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Confederation, Vitality

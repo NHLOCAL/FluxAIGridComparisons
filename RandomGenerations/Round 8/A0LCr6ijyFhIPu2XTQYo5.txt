@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic illustration of a human eye, with intricate details showcasing the different colors and patterns in the iris. The reflection in the eye should depict a serene landscape of a calm lake surrounded by majestic mountains at sunset, with soft golden rays illuminating the scene. The background should be softly blurred to emphasize the eye as the focal point, while the color palette of the landscape transitions from deep blues to warm oranges and pinks. The lighting should be gentle and natural, creating a sense of clarity and certainty within the depiction.
+Seed: 3645211280
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sight, Certainty

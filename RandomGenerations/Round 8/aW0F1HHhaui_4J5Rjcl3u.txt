@@ -1,0 +1,4 @@
+Prompt: Create a vibrant, hyper-realistic illustration of a heartthrob character, a charming young man with tousled dark hair and striking features. He is wearing a stylish, fitted leather jacket over a casual white t-shirt, exuding an effortlessly cool vibe. The background features a bustling urban street at sunset, with golden hour lighting casting warm hues on the scene. Soft bokeh effects from twinkling city lights add a dreamy quality, enhancing the romantic atmosphere. The character stands with a confident posture, leaning casually against a lamppost, a slight smirk on his face, as he gazes directly at the viewer. The overall composition emphasizes youthful charisma and magnetic charm, rendered in an illustrative style that captures both detail and vibrance.
+Seed: 2614783699
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Task, Heartthrob

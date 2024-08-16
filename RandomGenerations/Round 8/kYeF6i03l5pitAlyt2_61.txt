@@ -1,0 +1,4 @@
+Prompt: A monochrome illustration of a bustling city skyline at dusk, featuring tall skyscrapers with intricate architectural details. The streets below are filled with a mix of vintage cars and modern vehicles, creating a blend of old and new. Streetlights cast soft pools of light on the sidewalks, where pedestrians are seen walking about, engaged in various activities. The sky is a deep gradient of gray, transitioning to black, enhancing the dramatic atmosphere of the scene. Cloud formations add texture, while the absence of color emphasizes the stark contrasts and shadows within the cityscape. The artwork captures a sense of urban life and architecture, highlighting the complexity of the city in a stunning monochrome palette, with a focus on depth and detail.
+Seed: 4031723228
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monochrome, City

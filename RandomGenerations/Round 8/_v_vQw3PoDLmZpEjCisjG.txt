@@ -1,0 +1,4 @@
+Prompt: Create a detailed illustration of a satyr, a half-goat, half-human creature, standing in a lush, enchanted forest. The satyr should have goat-like legs, hooves, and pointed ears, with a muscular, human upper body. Its skin has a warm, earthy tone, and its head features curly horns extending from the temples. The creature is playing a rustic flute, with a joyful expression, surrounded by vibrant flowers and tall trees, softly illuminated by dappled sunlight filtering through the leaves. The background should include twisted vines and mushrooms, adding to the magical atmosphere, while hints of mist float near the forest floor, enhancing the enchanting and whimsical scene. The art style should evoke a sense of classic fantasy illustration, rich in color and detail, capturing the essence of nature and mythical beings.
+Seed: 3968129593
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shape, Satyr

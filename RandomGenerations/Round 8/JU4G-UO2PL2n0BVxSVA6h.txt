@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic illustration of a futuristic spaceship engaging its warp drive, surrounded by vibrant stars and cosmic phenomena. The ship, sleek and angular in design, should emit bright blue and white light as it accelerates through space, with swirling energy patterns radiating from its engines. The background is filled with a stunning array of stars in varying sizes and colors, including bright white, deep blue, and shimmering gold, creating a sense of depth and infinite space. The scene features nebulae in breathtaking hues of purple and pink, adding an otherworldly atmosphere. The lighting should be intense, highlighting the ship's sleek design and the dynamic motion blur of the warp drive effect, emphasizing speed and adventure. The perspective is from a slight angle, offering a dramatic view of the ship against the vastness of the cosmos.
+Seed: 3610533331
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stars, Warp drive

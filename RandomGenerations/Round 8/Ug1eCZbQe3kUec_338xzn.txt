@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant festival scene in a bustling town square, filled with people celebrating. The square is adorned with colorful banners and balloons, while children play games and families share laughter. Stalls offer delicious food, including bright fruits and colorful desserts. The sky is a clear blue, with warm sunlight casting a golden glow over the lively atmosphere. In the foreground, a diverse group of people are seen dancing to cheerful music, with joyful expressions on their faces. Nearby, a beautiful fountain sparkles in the sunlight, adding to the overall sense of joy and togetherness. The art style is lively and colorful, capturing the essence of a festive gathering.
+Seed: 426278148
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Happiness, Mass

@@ -1,0 +1,4 @@
+Prompt: Create an image depicting the concept of sound through visual representations. In the foreground, illustrate a large, ornate gramophone with intricate detailing, emitting vibrant sound waves that ripple outward. The sound waves should be visually represented by colorful, fluid lines and shapes, blending and transforming as they move across the scene. In the background, depict an abstract landscape inspired by musical notes and harmonies, with swirling patterns and bursts of colors that pulse like auditory vibrations. The overall lighting should be soft and warm, highlighting the dynamic motion of the sound waves against a subtle gradient background that transitions from deep purple to soft gold, creating a harmonious atmosphere. The angle should be slightly tilted, giving a sense of movement and energy to the image.
+Seed: 400412737
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sound, Faithfulness

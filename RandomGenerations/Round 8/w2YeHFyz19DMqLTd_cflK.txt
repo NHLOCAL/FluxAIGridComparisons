@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a serene forest passage at dawn. Sunlight filters through the dense canopy of tall, ancient trees, casting soft rays of golden light onto the forest floor, which is blanketed with lush green moss and colorful wildflowers. The scene should feature a narrow, winding dirt path that invites the viewer deeper into the woods, flanked by vibrant ferns and delicate blooms. Mist rises gently from the ground, adding an ethereal quality to the atmosphere. The overall color palette should include rich greens, warm golds, and soft pastels, creating a tranquil and peaceful environment. The angle should be slightly elevated, providing a captivating perspective that showcases the depth of the forest and the inviting nature of the path, in a hyperrealistic style that emphasizes intricate details and natural beauty.
+Seed: 3285325669
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Passage, Clarity

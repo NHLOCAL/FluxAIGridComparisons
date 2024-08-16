@@ -1,0 +1,4 @@
+Prompt: Create an illustration depicting a large, imposing political building, such as a capitol or parliament, set against a dramatic sky filled with swirling storm clouds. In the foreground, a large, cracked hourglass stands prominently, its sand running out, symbolizing the passing of time and urgency. Silhouetted figures can be seen in the distance, standing in various poses of contemplation and frustration, with some holding protest signs. The color palette should feature deep blues and grays, with stark contrasts of warm yellows and reds from scattered lights and flames. The overall composition should evoke a sense of tension and urgency, with dynamic lighting highlighting the intricate architectural details of the building and casting long shadows across the ground. The mood conveys a palpable sense of longing and unrest, emphasizing the political theme.
+Seed: 1362591772
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Longing, Politics

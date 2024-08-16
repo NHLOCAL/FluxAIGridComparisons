@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an abandoned, rusted swing set in an overgrown field at dusk. The swing seats are torn and weathered, swaying gently in the breeze. Surrounding the swing set, tall grasses and wildflowers create a sense of wilderness, while a few scattered autumn leaves add to the scene's decay. The sky is painted in shades of deep purple and orange as the sun sets on the horizon, casting long shadows. Soft, golden light filters through the trees, creating a nostalgic atmosphere of lost childhood. The overall image conveys a sense of desolation and the passage of time, inviting contemplation of memories long forgotten.
+Seed: 121972735
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sanctuary, Sound

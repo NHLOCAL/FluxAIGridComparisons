@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant meadow filled with colorful wildflowers under a bright blue sky. In the center, depict a young child joyfully playing with a bunch of colorful balloons, their colors reflecting the bright and lively surroundings. The sun radiates warm light, casting soft shadows on the ground and enhancing the cheerful atmosphere. In the background, rolling hills are dotted with patches of green trees and distant mountains. The overall composition is bright and lively, emphasizing the beauty of nature and the playful energy of childhood, captured in a photorealistic style.
+Seed: 1754101257
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Happiness, Resplendent

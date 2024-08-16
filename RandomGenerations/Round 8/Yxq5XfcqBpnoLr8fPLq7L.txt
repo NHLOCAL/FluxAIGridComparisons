@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant workshop filled with various tools and equipment. The scene should focus on a large, central workbench cluttered with materials such as wood, metal scraps, and paint cans. An array of wrenches, hammers, and saws hang on the walls, organized yet chaotic. The lighting is bright and inviting, with a soft glow illuminating the workbench from overhead lights. In the background, a large window allows natural sunlight to flood the room, casting shadows on the floor. The workshop should feel alive with creativity and energy, showcasing a mix of traditional and modern tools, including a vintage sewing machine in one corner and a high-tech 3D printer in another. The overall aesthetic is a blend of realism and stylized illustration, emphasizing the intricate details of the tools and workspace.
+Seed: 18438393
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Indicator, Workshop

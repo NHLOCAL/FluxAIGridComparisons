@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant rainforest scene within a museum setting. The museum should have large glass walls allowing natural light to filter in, showcasing lush green foliage, exotic flowers, and towering trees that mimic a tropical atmosphere. In the foreground, display a carefully arranged collection of authentic artifacts and sculptures representing indigenous cultures, illuminated by warm, inviting lighting. Hummingbirds and butterflies flutter among the plants, and a cascading waterfall adds a soothing sound and dynamic movement to the scene. The background reveals the intricate architecture of the museum, blending nature with modern design elements. Overall, the composition should evoke a sense of exploration and wonder, with rich, saturated colors and detailed textures throughout.
+Seed: 640806120
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Museum, Rainforest

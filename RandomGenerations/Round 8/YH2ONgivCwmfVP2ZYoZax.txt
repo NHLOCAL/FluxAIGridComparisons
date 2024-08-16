@@ -1,0 +1,4 @@
+Prompt: A stunning aerial view of the iconic Eiffel Tower during the vibrant Bastille Day celebrations in Paris. The scene is filled with an array of vibrant fireworks exploding in the night sky, illuminating the surrounding buildings and creating a breathtaking visual spectacle. Below, crowds gather in the lush Champ de Mars park, bustling with activity, picnics, and colorful decorations. The streets are lined with festive lights, and small booths serving French delicacies add to the festive atmosphere. The shimmering Seine River reflects the colorful lights above, enhancing the magical ambiance of the scene. The overall composition captures the essence of celebration, unity, and the grandeur of this historic landmark, rendered in high detail and vibrant colors.
+Seed: 2198646597
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Landmark, Event

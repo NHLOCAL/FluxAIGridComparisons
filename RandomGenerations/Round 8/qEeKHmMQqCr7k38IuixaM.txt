@@ -1,0 +1,4 @@
+Prompt: A striking illustration of a futuristic spacecraft named "Ego," cruising through a vibrant, colorful nebula. The spacecraft's sleek, angular design features intricate details and glowing accents, showcasing advanced technology. It glides effortlessly amid swirling clouds of gas and dust in hues of purple, blue, and pink, creating a mesmerizing cosmic background. Soft starlight reflects off the spacecraft's polished surface, adding depth and dimension. The angle of the view is slightly below the spacecraft, emphasizing its grandeur as it embarks on an interstellar journey. The overall ambiance is both awe-inspiring and dynamic, capturing the essence of exploration and innovation in the vastness of space. Emphasis on sharp detail, vibrant colors, and cosmic wonder.
+Seed: 1193507246
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spacecraft, Ego

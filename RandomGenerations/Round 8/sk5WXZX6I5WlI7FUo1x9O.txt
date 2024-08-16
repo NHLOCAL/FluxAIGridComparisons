@@ -1,0 +1,4 @@
+Prompt: Create a breathtaking illustration of a celestial voyage through a vibrant cosmic landscape. The scene features a futuristic spaceship, gliding gracefully through a sea of swirling galaxies, nebulae, and shimmering star clusters. The spaceship should have sleek, aerodynamic features, glowing with neon blue and purple accents, highlighting its advanced technology. In the foreground, a radiant beam of light emanates from the ship, illuminating the surrounding space with luminous patterns. The background is filled with rich colors, blending deep blues, vivid pinks, and hints of gold, creating an ethereal and otherworldly atmosphere. The overall composition captures the sense of adventure and discovery within the universe, emphasizing the theme of revelation in the vastness of space with dynamic movement and intricate details.
+Seed: 4063929271
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Voyage, Revelation

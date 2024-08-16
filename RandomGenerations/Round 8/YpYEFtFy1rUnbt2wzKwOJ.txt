@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant pink infinity symbol set against a cosmic background filled with twinkling stars and swirling galaxies. The infinity symbol should have a glossy, three-dimensional appearance, reflecting subtle shades of light and shadow to emphasize its curves. Illuminate the edges with a soft white glow to enhance its ethereal presence. The cosmic backdrop should feature deep purples and blues, contrasted with bright pink hues that radiate outward, creating a sense of depth and infinite space. The overall composition should evoke a feeling of wonder and boundless possibilities, combining elements of cosmic beauty and modern design. High-resolution, detailed, and visually captivating.
+Seed: 112448314
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pink, Infinity

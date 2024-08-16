@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a masked figure standing in a dimly lit alleyway. Half of the mask should reveal a bright, cheerful smile, while the other half displays a somber frown. The figure is dressed in a tailored suit, contrasting sharply with the gritty, textured walls of the alley covered in graffiti. Shadows cast by flickering street lamps play across the scene, enhancing the contrast between light and dark. The background is filled with blurred silhouettes of city life, creating an atmosphere of isolation amidst the crowd. This image encapsulates themes of duplicity through the dual expressions on the mask. Use sharp focus on the mask’s detail while allowing the background to remain slightly out of focus, drawing attention to the figure's contradictory emotions.
+Seed: 2255882143
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tundra, Plastic

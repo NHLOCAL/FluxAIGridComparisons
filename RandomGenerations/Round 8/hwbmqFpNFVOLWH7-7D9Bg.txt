@@ -1,0 +1,4 @@
+Prompt: Create a mesmerizing illustration portraying an ancient, mystical altar adorned with flaming candles and intricate carvings, situated in a dark, enchanted forest. The altar, made of weathered stone covered in lush green moss, holds a vibrant red heart, symbolizing ardor and passion. Surrounding the altar, ethereal wisps of light flicker and swirl, casting a soft glow on the scene. Tall, ancient trees loom overhead, their twisted branches intertwining to form a natural canopy that filters the moonlight. Soft rays of light pierce through the leaves, creating a dramatic contrast between light and shadow, thus enhancing the sacred atmosphere. The overall composition should evoke a sense of reverence and magic, emphasizing themes of devotion and eternal vows. Art style inspired by classic fantasy and baroque elements, with rich colors and fine details.
+Seed: 2085416601
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ardor, Vow

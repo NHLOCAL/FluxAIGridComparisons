@@ -1,0 +1,4 @@
+Prompt: Create a captivating illustration of a large, ornate gift box, beautifully wrapped in shimmering gold and deep red paper, adorned with intricate patterns. The box is placed in a lush forest clearing, surrounded by vibrant flowers and tall, ancient trees. Sunlight filters through the foliage, casting dappled golden light onto the box, creating a warm and inviting atmosphere. The scene should be filled with a sense of mystery, as if the gift holds something magical inside. In the background, the forest should be full of lush greenery and hints of distant, whimsical creatures peeking through the trees. The overall art style should be whimsical and enchanting, drawing the viewer into a charming, fairy-tale world.
+Seed: 3592271466
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Being

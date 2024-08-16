@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a vibrant, bustling artist's studio filled with various art supplies and colorful canvases in progress. The focal point is a large easel on which a captivating abstract painting is unfolding, showcasing a burst of colors including bright yellows, blues, and reds. Sunlight streams through large windows, casting warm, golden beams across the room, illuminating the paint splatters on the wooden floor. In the background, plants in terracotta pots add touches of greenery, while shelves overflow with brushes, paints, and unfinished artworks. The overall atmosphere is lively and inspiring, filled with details that convey a sense of joy and creativity. Styled like a contemporary impressionist artwork, emphasizing color and light, with a soft-focus effect.
+Seed: 2006384841
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Happiness, Creation

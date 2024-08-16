@@ -1,0 +1,4 @@
+Prompt: A detailed, hyper-realistic illustration of a black mill standing majestically in a serene landscape. The mill's wooden structure, painted in deep ebony tones, features intricate carvings and a large, rotating water wheel that glimmers in the soft morning light. The background showcases a tranquil river flowing gently beside the mill, with lush green trees and vibrant wildflowers dotting the riverbank. A clear blue sky is adorned with a few fluffy white clouds, enhancing the peaceful atmosphere. In the foreground, a small patch of blooming flowers adds splashes of color to the scene. The lighting emphasizes the textures of the mill's wood and the shimmering water, creating an enchanting and inviting environment. The composition captures the essence of harmony between nature and craftsmanship, blending rustic charm with a sense of timeless beauty.
+Seed: 1502434447
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Black, Mill

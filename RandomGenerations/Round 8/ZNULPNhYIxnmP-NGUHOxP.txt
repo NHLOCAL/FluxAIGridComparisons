@@ -1,0 +1,4 @@
+Prompt: Create an image representing the concept of potential energy, depicted as a massive boulder poised precariously on the edge of a steep cliff. The scene captures the boulder in hyper-realistic detail, showcasing its rugged surface and shadows. The background features a dramatic landscape, with a turbulent ocean crashing against jagged rocks below, creating a sense of imminent movement. Dark storm clouds loom overhead, with rays of sunlight piercing through, illuminating the boulder and casting dynamic shadows on the cliffside. The angle is low, looking up at the boulder, emphasizing its size and the tension in the scene. The overall lighting is moody and intense, reflecting an impending release of energy, captured in ultra-high resolution.
+Seed: 100069045
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stress, Potential

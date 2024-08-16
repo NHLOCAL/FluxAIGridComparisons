@@ -1,0 +1,4 @@
+Prompt: Create a vibrant illustration of a bustling market scene adjacent to a modern clinic. The market is filled with colorful stalls showcasing fresh fruits, vegetables, and local crafts, with shoppers engaged in lively conversations. Bright banners hang overhead, and the sun casts warm, inviting light over the scene. In the background, the sleek and contemporary design of the clinic stands out, featuring large glass windows and a well-maintained garden with blooming flowers. The angle of the image captures both the activity of the market and the serene atmosphere of the clinic, creating a harmonious balance between the lively commerce and the tranquil health environment. The overall composition should emphasize the vibrant colors and dynamic interactions, evoking a sense of community and well-being. Illustration style with high detail and bright colors.
+Seed: 109501255
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Market, Clinic

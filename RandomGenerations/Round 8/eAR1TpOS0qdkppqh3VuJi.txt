@@ -1,0 +1,4 @@
+Prompt: A mesmerizing, surreal illustration of a cosmic nebula interwoven with the ethereal form of a specter. The nebula is a vibrant kaleidoscope of colors, including deep purples, radiant blues, and hints of fiery reds and oranges, swirling together to create a celestial tapestry. The specter, depicted as a translucent figure, is gracefully intertwined with the nebula, with wisps of ethereal mist emanating from its form. Its facial features are soft and indistinct, evoking an otherworldly presence. The background is filled with countless distant stars, twinkling against the dark void of space, creating a sense of depth and infinity. The overall atmosphere is tranquil yet mysterious, with luminous highlights and subtle shadows adding depth to the scene. The artwork captures the enchanting blend of cosmic beauty and spectral intrigue in a hyper-detailed, cinematic style.
+Seed: 930460216
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nebula, Specter

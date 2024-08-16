@@ -1,0 +1,4 @@
+Prompt: Create a serene landscape featuring a flourishing valley with rolling green hills and a clear, flowing river. In the center, a majestic tree with wide branches stands tall, symbolizing strength. Surrounding the tree, colorful flowers bloom in vibrant shades of yellow, blue, and red, creating a picturesque scene. A bright sun illuminates the landscape, casting soft golden light that enhances the natural beauty. In the background, distant mountains rise with their peaks touched by white snow, adding depth to the image. The sky is clear with a few fluffy white clouds, contributing to the tranquil atmosphere. The overall composition is harmonious and visually rich, inspiring a sense of success and growth in nature.
+Seed: 2258686740
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Harmony, Success

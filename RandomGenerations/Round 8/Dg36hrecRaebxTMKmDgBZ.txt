@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vibrant, neon-lit cityscape at night, depicting a series of twisting roads that symbolize speed and movement. The streets are bustling with futuristic vehicles, streaking by in a blur of color, creating a sense of fast-paced action. Towering skyscrapers adorned with luminous billboards display signs of "forbidden desires," featuring alluring imagery and enticing advertisements. The lighting should be dynamic, with bright neon blues, pinks, and greens casting colorful reflections on the wet pavement. The angle should be slightly elevated, providing a panoramic view of the lively urban scene, enveloped in a captivating atmosphere that hints at hidden stories and adventures. Emphasize the sleek design of the vehicles, capturing their aerodynamic shapes and motion blur for added intensity.
+Seed: 2744080750
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Speed, Sign

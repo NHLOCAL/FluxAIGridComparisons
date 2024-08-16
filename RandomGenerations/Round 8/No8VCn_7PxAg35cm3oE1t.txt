@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a close-up of a vintage pocket watch resting on an antique wooden surface, surrounded by scattered pages from an old book. The watch should have intricate engravings on its casing, with a golden hue and glass cover revealing a beautifully crafted clockwork mechanism inside, showcasing the detailed gears and springs. Light should softly filter in from the left, highlighting the textures of the wood and casting gentle shadows. The background should include hints of sepia-toned photographs and a magnifying glass, evoking a nostalgic atmosphere that reflects themes of history and honor. The overall composition should emphasize elegance and timelessness, with a warm and inviting color palette.
+Seed: 3871397628
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honor, Watch

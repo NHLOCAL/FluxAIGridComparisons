@@ -1,0 +1,4 @@
+Prompt: Create an image that depicts a majestic treasure chest overflowing with gold coins, sparkling jewels, and ancient artifacts. The chest is intricately designed with ornate carvings, and is positioned on a rocky cliff that overlooks a vast and mysterious jungle landscape. The jungle is lush and vibrant, filled with towering trees and exotic plants. In the background, a golden sunrise casts warm light over the scene, illuminating the treasures and creating a sense of adventure. The composition should include a winding path leading into the depths of the jungle, inviting viewers to imagine the quest for wealth and discovery. The art style should be a blend of realism and fantasy, emphasizing intricate details and rich colors, with a cinematic perspective that draws the viewer into the scene.
+Seed: 4206616023
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wealth, Quest

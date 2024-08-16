@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene urban borough under a starry night sky. The scene should feature charming brownstone buildings with warm, glowing windows, lined along a cobblestone street. The street is illuminated by vintage street lamps casting soft yellow light, creating a cozy atmosphere. Above, a clear night sky is filled with countless twinkling stars, with a few wispy clouds drifting lazily. The Milky Way is clearly visible, adding to the celestial beauty. The overall composition conveys a sense of peacefulness and community, enhanced by the gentle glow of the lights against the dark sky, rendered in a soft, realistic style.
+Seed: 2718711922
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Borough, Stars

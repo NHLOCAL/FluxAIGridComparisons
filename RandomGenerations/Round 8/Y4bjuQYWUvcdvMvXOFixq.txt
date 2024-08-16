@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic scene featuring two women, best friends, sharing a joyful moment outdoors. They are sitting on a picnic blanket in a sunlit meadow filled with wildflowers, surrounded by soft green grass. One woman has long, flowing brown hair and wears a light blue summer dress, while the other has short, curly blonde hair and is in a white sundress. The sunlight filters through the trees, casting dappled patterns on their faces, creating a warm and inviting atmosphere. In the background, a gently flowing brook adds a sense of tranquility, and fluffy white clouds drift lazily across a bright blue sky. The composition should emphasize the beauty of friendship and the joy of shared experiences. The art style should be vibrant and highly detailed, with a focus on natural colors and capturing the essence of a perfect day.
+Seed: 4112161775
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Friendship, Wife

@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a futuristic spacecraft embarking on an extraordinary expedition through a vibrant nebula. The spacecraft, sleek and streamlined, features intricate designs and glowing accents that illuminate its hull in shades of teal and silver. In the foreground, a group of diverse astronauts in advanced space suits, showcasing different colors and designs, gather around a holographic map projecting their course through the cosmos. The backdrop displays swirling clouds of vivid pink, purple, and blue, punctuated by sparkling stars and distant galaxies. The lighting is dynamic, with bursts of light reflecting off the spacecraft and stars, enhancing the sense of adventure and exploration. The overall scene embodies a blend of sci-fi realism and imaginative artistry.
+Seed: 1994572894
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capability, Expedition

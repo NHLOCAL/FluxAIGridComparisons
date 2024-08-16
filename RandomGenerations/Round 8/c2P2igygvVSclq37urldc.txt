@@ -1,0 +1,4 @@
+Prompt: Create an ethereal illustration of a beautifully wrapped gift hovering in mid-air, surrounded by shimmering golden light and intricate, swirling patterns. The gift box should be ornate, with luxurious wrapping paper adorned with celestial symbols and a large, flowing ribbon that seems to have a life of its own, floating gently around it. The background is a dreamy, cosmic landscape with soft pastel hues and twinkling stars that create a sense of wonder and divinity. Wisps of soft clouds and beams of light emanate from the gift, emphasizing its significance and magical aura. The overall composition should convey a harmonious blend of elegance and mystique, illustrating the concept of a divine gift. High detail, vibrant colors, and a surreal quality should dominate the artwork.
+Seed: 3846600579
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Divine

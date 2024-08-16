@@ -1,0 +1,4 @@
+Prompt: A fierce orc warrior, muscular and heavily armored, is standing atop a rugged rock formation. The orc, with greenish skin, prominent tusks, and a scarred face, is wielding a massive battle axe that glimmers in the light. His battle gear is adorned with spikes and tribal designs, showcasing his fierceness. The background features a dramatic sky, filled with dark clouds, suggesting an impending storm. Jagged mountains loom in the distance, and rough terrain with patches of grass and scattered stones adds to the ruggedness of the scene. The lighting is dynamic, with rays of sunlight breaking through the clouds, illuminating the orc and casting long shadows, creating a sense of tension and anticipation. This illustration should embody a blend of high fantasy and action, with intricate details emphasizing the character's strength and the wildness of the environment.
+Seed: 1504366683
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rock, Orc

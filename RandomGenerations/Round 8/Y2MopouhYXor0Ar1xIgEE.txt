@@ -1,0 +1,4 @@
+Prompt: Create an image of a serene forest at dawn, where a pair of majestic, white wolves are peacefully resting side by side on a gentle hillside. The background features tall, lush green trees with sunlight filtering through the leaves, casting dappled golden light onto the forest floor. Delicate wildflowers are scattered around the base of the hill, adding pops of color to the scene. The wolves, with their soft fur and gentle expressions, should convey a sense of harmony and togetherness. The overall atmosphere is calm and inviting, with warm hues and a tranquil setting that emphasizes the beauty of nature and companionship. Photorealistic style, vivid colors, soft focus on the background.
+Seed: 1496068941
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enjoyment, Faithfulness

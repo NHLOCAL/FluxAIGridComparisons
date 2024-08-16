@@ -1,0 +1,4 @@
+Prompt: Create a dynamic illustration of a mutant creature emerging from a vibrant geyser. The mutant should have an exaggerated, unusual morphology, featuring iridescent scales that shimmer in hues of blues and greens. Its limbs are elongated and irregular, and it possesses large, expressive eyes that reflect the surrounding landscape. The geyser erupts behind it, sending a plume of steaming water and colorful minerals into the air, creating a misty effect. The background should depict a surreal landscape with vivid, fantastical flora and a dramatic sky filled with swirling clouds. The lighting is bright and fantastical, capturing the energy of the geyser and highlighting the creature’s detailed texture. The overall composition should convey a sense of wonder and intrigue, blending elements of fantasy and realism.
+Seed: 277061208
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mutant, Geyser

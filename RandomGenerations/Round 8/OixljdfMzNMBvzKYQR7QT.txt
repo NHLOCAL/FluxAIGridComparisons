@@ -1,0 +1,4 @@
+Prompt: Create an image showcasing a stunning perspective view from a cliff overlooking a vast, tranquil valley at sunset. The foreground features a vibrant mix of wildflowers in various colors—pinks, yellows, and blues—swaying gently in the breeze. The sunlight casts a warm, golden glow over the scene, creating long shadows across the rocky ledge. In the background, majestic mountains rise up, silhouetted against a sky filled with wispy clouds painted in shades of orange, purple, and soft pink. The valley below is lush and green, with a gently winding river reflecting the colors of the sky. The overall composition should evoke a sense of grandeur and peacefulness, capturing the beauty of nature in its full glory. Wide-angle perspective, high details, serene atmosphere, vibrant colors.
+Seed: 769714496
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dear, Perspective

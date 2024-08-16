@@ -1,0 +1,4 @@
+Prompt: Create a captivating scene of a vibrant desert mirage. The foreground features a shimmering pool of water reflecting the blue sky and distant sand dunes, creating an illusion of an oasis. Palm trees border the pool, their leaves swaying gently in an invisible breeze. In the background, the endless expanse of golden sand dunes rises and falls, their ridges and valleys shimmering under the harsh sun. The atmosphere is alive with heat waves, distorting the horizon and enhancing the dreamy quality of the scene. The colors should be bright and saturated, emphasizing the contrast between the cool blues of the water and the warm yellows and oranges of the sand. The overall composition should be reminiscent of a surreal painting, evoking a sense of wonder and illusion in this serene desert landscape.
+Seed: 2189634931
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Appealing, Mirage

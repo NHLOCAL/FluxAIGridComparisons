@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a stunning underwater scene showcasing a large, ornate trophy resting atop a bed of vibrant coral. The trophy, elaborately designed with intricate gold details, sparkles under the filtered sunlight penetrating the ocean surface. Schools of colorful fish swim around the trophy, and a curious sea turtle glides nearby, inspecting this unusual find. Surrounding the trophy are swaying sea grasses and various marine life, adding to the sense of an underwater treasure. The water is a rich azure blue, accentuated by patches of sunlight creating dynamic light patterns on the sandy ocean floor. The overall composition should have a dreamy, ethereal quality, emphasizing the beauty and mystery of the ocean environment.
+Seed: 1197399666
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ocean, Trophy

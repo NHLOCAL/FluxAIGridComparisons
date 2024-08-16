@@ -1,0 +1,4 @@
+Prompt: Create a double exposure image combining a close-up of a human heart and an intricate mechanical framework. The heart should be vibrantly colored in shades of red and pink, with visible veins blending into a network of gears and circuit designs. The mechanical elements should convey a sense of modification and enhancement, featuring sleek metallic surfaces and glowing elements. The background should be softly blurred, hinting at an abstract, dreamlike atmosphere rich in warm, glowing colors. The overall composition should emphasize the contrast and harmony between organic and mechanical elements, showcasing the fusion of love and technological modification. Captured in a surreal, artistic style with high attention to detail and soft lighting.
+Seed: 2281723139
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Loveable, Modification

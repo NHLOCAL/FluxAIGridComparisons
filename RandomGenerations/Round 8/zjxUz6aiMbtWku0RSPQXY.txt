@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a beautifully detailed, vibrant fruit basket overflowing with an array of luscious fruits. The basket contains ripe, red strawberries, glossy green grapes, deep purple plums, and bright yellow bananas, all arranged with care. Each fruit should appear freshly picked, showcasing its natural shine and color variations. The background features a soft, blurred farmhouse kitchen with warm, inviting sunlight streaming through a nearby window, casting gentle shadows and highlights on the fruit. The overall light should feel warm and inviting, enhancing the richness of the colors. The scene should evoke a sense of abundance and natural beauty, capturing the essence of a bountiful harvest.
+Seed: 3139307524
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Failure, Luscious

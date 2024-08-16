@@ -1,0 +1,4 @@
+Prompt: A visually striking illustration of a vibrant gift box adorned with an eye-catching ribbon, set against a colorful, abstract background. The gift box is wrapped in glossy paper featuring geometric patterns in bright colors like teal, orange, and yellow, with the ribbon elegantly tied into a large bow on top. Surrounding the gift, various trendy items like stylish sunglasses, fashionable sneakers, and quirky gadgets are scattered, hinting at popular gift ideas. The background is a dynamic blend of swirling colors that evoke a sense of excitement and celebration, with subtle sparkles and light flares adding to the festive atmosphere. The overall composition is lively and modern, emphasizing the concept of gifting in a trendy, playful way.
+Seed: 2049869187
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Trend

@@ -1,0 +1,4 @@
+Prompt: Create an image of a modern office space bathed in natural light. The office features large windows that allow sunlight to pour in, casting geometric shadows on the polished wooden floor. A sleek glass desk sits centrally, adorned with a minimalist laptop, elegant stationery, and a small potted plant. Surrounding the desk are stylish ergonomic chairs. In the background, there are bookshelves filled with neatly organized books and decorative items, alongside a lush indoor plant that adds a touch of greenery. The walls are painted in soft, neutral tones, contributing to the graceful and calming atmosphere. The lighting is soft and inviting, emphasizing a peaceful and professional environment. The scene is captured from a slightly elevated angle, showcasing the elegant design and spaciousness of the office.
+Seed: 705039323
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Office, Graceful

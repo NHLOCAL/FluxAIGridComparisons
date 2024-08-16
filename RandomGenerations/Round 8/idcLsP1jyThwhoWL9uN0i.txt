@@ -1,0 +1,4 @@
+Prompt: A dramatic interior shot of a gothic church, featuring soaring arches and intricately stained-glass windows depicting biblical scenes. The scene is illuminated by dim, warm candlelight that casts long shadows, enhancing the atmosphere of solemnity and reflection. The pews are filled with ancient, heavy wooden benches, and an ornate altar is at the front, draped in luxurious fabrics. A large, intricately carved crucifix hangs above the altar, drawing the viewer's attention. The air is thick with an ethereal mist, softening the details and adding a sense of heaviness. Overall, the image evokes a powerful sense of reverence and contemplation, capturing the architectural beauty and spiritual weight of this sacred space.
+Seed: 832650119
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heaviness, Church

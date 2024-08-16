@@ -1,0 +1,4 @@
+Prompt: Create a striking illustration of a muscular figure embodying talent and power. The figure stands confidently on a rocky outcrop, showcasing well-defined muscles and a dynamic pose that exudes strength. The character is clad in an intricate, modern armor that incorporates elements of futuristic technology, with glowing accents highlighting their physique. The background features a dramatic, stormy sky with dark clouds swirling and flashes of lightning illuminating the scene, emphasizing the figure's commanding presence. Vibrant colors contrast against the dark backdrop, casting an ethereal glow around the character. The artwork should be rendered in a hyper-detailed, cinematic style, capturing the intensity of the moment and the embodiment of power and talent.
+Seed: 2360318532
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Talent, Power

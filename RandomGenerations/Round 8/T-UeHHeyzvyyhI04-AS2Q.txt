@@ -1,0 +1,4 @@
+Prompt: Create an image of a mystical seer sitting in a dimly lit, ornate club. The seer, a middle-aged person with flowing robes and a richly embroidered shawl, gazes intently into a crystal ball that glows with a soft, ethereal light. The club's interior is filled with dark wooden paneling, plush velvet chairs, and flickering candlelight casting dancing shadows on the walls. In the background, a bar lined with colorful potions and elixirs glimmers invitingly. The atmosphere is enigmatic, with swirling smoke and faintly glowing symbols projected onto the walls. The angle of the shot is slightly elevated, capturing the central figure and the surrounding opulence, creating a sense of intrigue and wonder. The color palette is rich, with deep reds, purples, and gold accents, enhancing the mystical ambiance of the scene.
+Seed: 826969183
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Club, Seer

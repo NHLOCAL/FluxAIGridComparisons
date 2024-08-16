@@ -1,0 +1,4 @@
+Prompt: A captivating illustration of a grand, ancient cathedral situated atop a hill, bathed in the warm glow of the setting sun. The cathedral features elaborate Gothic architecture, with tall, intricately carved spires and stained glass windows that shimmer in a spectrum of colors. The foreground showcases lush greenery, scattered wildflowers, and a winding cobblestone path leading up to the entrance. Wispy clouds streak across the vibrant sky, transitioning from deep oranges to soft purples as day turns to night. Soft, ethereal lighting enhances the details of the cathedral’s façade, creating a sense of awe and wonder. The overall atmosphere conveys a harmonious blend of nature and spirituality, inviting viewers to explore the serene beauty of this majestic place of worship.
+Seed: 2202795835
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Church, Captivating

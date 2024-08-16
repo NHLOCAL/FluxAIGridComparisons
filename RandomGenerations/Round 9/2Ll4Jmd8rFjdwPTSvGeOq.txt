@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of an individual standing in front of a large, ornate mirror in a softly lit room. The person, a young woman with long flowing hair, gazes intently at her reflection. The background should be rich with vintage decor, featuring plush curtains and a decorative rug. The mirror's surface beautifully captures her expression filled with introspection, while the reflections should also reveal subtle hints of her past experiences—fainted images in the background that symbolize key moments of her journey. The lighting is warm and inviting, with soft rays highlighting dust motes in the air, creating an ethereal ambiance. The overall composition conveys depth, focusing on the intricacies of the mirror's frame and the detail in her expression, as the scene invites the viewer to ponder the relationship between self-perception and inner reality.
+Seed: 692479586
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Café, Behold

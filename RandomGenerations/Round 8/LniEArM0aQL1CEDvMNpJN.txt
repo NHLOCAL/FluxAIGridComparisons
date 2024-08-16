@@ -1,0 +1,4 @@
+Prompt: Create an image of a powerful, imposing dragon perched atop a rugged mountain peak. The dragon's scales shimmer in shades of emerald green and gold, reflecting the sunlight. Its vast wings are outstretched, revealing intricate patterns and a sense of majesty. The background features a dramatic sky with swirling clouds, hinting at a brewing storm. Below the mountain, a vibrant valley stretches, filled with lush forests and flowing rivers that sparkle in the light. The scene is bathed in warm sunlight, highlighting the dragon's regal stature and the natural beauty surrounding it. The perspective is from a slightly low angle, emphasizing the dragon's might and dominance over its territory. The overall mood should evoke awe and admiration, capturing the essence of both strength and beauty in the dragon's demeanor.
+Seed: 3904502284
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Winsome, Might

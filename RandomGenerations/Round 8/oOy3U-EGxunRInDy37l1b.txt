@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a large, loveable bear sitting on a rocky shoreline of a tranquil bay. The bear is fluffy with a warm golden-brown fur, smiling gently as it plays with a collection of colorful seashells scattered around it. The background features a calm blue bay with gentle waves lapping at the shore, surrounded by lush greenery and vibrant wildflowers under a clear blue sky. The sun is setting on the horizon, casting a soft golden light that illuminates the bear and enhances the serene atmosphere. The overall composition is bright and inviting, evoking a feeling of warmth and tranquility. The art style is whimsical and vibrant, resembling a children's storybook illustration with rich, detailed colors and charming character design.
+Seed: 2832961404
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bay, Loveable

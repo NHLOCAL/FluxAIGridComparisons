@@ -1,0 +1,4 @@
+Prompt: Create an image of an ornate museum interior showcasing a grand exhibit dedicated to exceptional talents in various fields. The scene features tall, arched windows allowing soft, natural light to pour in, illuminating the polished marble floors and intricate gold detailing on the walls. Centerstage is a large, majestic pedestal displaying a beautifully crafted sculpture representing human creativity, surrounded by interactive screens displaying the works of famous artists, musicians, and scientists. Visitors, diverse in age and ethnicity, explore the exhibit, with expressions of curiosity and admiration. A vibrant color palette enhances the atmosphere, with deep blues and rich golds dominating the setting. The overall style is reminiscent of classic European museums, with an air of inspiration and reverence for human achievement, captured in ultra-high detail.
+Seed: 1392044993
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Talent, Museum

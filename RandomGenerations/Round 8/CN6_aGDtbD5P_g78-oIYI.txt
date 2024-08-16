@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a beautifully arranged table for a romantic dinner date. The table should be set outdoors on a lush garden patio with fairy lights strung overhead, casting a warm, inviting glow. At the center, there is a stunning floral centerpiece made of vibrant red roses and white lilies, with delicate green foliage. The dinnerware is elegant with fine china and shimmering silver cutlery. A pair of crystal wine glasses, filled with a rich red wine, are placed beside a carefully plated dish featuring grilled salmon, asparagus, and a garnish of lemon slices. The background is filled with blooming flowers, soft grass, and a gentle sunset casting golden hues across the scene. The overall composition should evoke a sense of romantic elegance and tranquility, captured in high detail and vibrant colors.
+Seed: 1714873869
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Balance, Date

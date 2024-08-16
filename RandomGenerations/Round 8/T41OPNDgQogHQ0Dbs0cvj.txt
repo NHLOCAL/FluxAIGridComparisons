@@ -1,0 +1,4 @@
+Prompt: A majestic monument representing the theme of Enlightenment, towering against a dramatic twilight sky. The structure, featuring intricate carvings of wise figures and symbols of knowledge such as books and glowing orbs, is set on a vast stone pedestal adorned with delicate reliefs. Surrounding the monument, a serene garden with lush greenery, blooming flowers, and gently flowing water reflects the soft, golden light of the setting sun. The atmosphere is tranquil yet inspiring, with beams of light cascading down from the sky, illuminating the monument's details and creating an ethereal glow. The angle captures the entirety of the monument from below, emphasizing its grandeur and the sense of enlightenment it embodies. Photorealistic style, high detail, cinematic quality lighting.
+Seed: 4119846638
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monument, Enlightenment

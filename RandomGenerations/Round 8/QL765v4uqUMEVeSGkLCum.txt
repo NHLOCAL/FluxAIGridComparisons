@@ -1,0 +1,4 @@
+Prompt: Create an image of a tranquil wetland landscape during a soft sunrise. The foreground features a serene pond filled with lotus flowers in various stages of bloom, their petals glistening with morning dew. Tall reeds and grasses frame the water’s edge, while a few delicate dragonflies flit about, their wings catching the early light. In the background, a peaceful grove of willow trees leans over the pond, their branches gently swaying in the morning breeze. Soft pastel colors of blush pink, light orange, and soft blue dominate the sky, reflecting in the water’s surface. The scene is infused with gentle light, creating a calm and inviting atmosphere, captured in a realistic style. The angle should be slightly elevated to provide a comprehensive view of the wetland’s beauty, emphasizing both the flora and the tranquil water.
+Seed: 2152845925
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Faith, Wetland

@@ -1,0 +1,4 @@
+Prompt: Create an image of a mystical talisman designed for enhancing perception. The talisman should be intricately shaped like an eye, with ornate details including symbols and runes etched into its surface. The eye itself is embedded with a shimmering gemstone that reflects a vibrant spectrum of colors. The background features a soft, ethereal glow, suggesting an otherworldly dimension. Wisps of light swirl around the talisman, creating a sense of energy and movement. Showcase the talisman on a dark, textured stone surface to contrast with its radiant colors. The lighting should be dramatic, with highlights accentuating the gem and the engravings, creating a magical and enchanting atmosphere. Illustrate the art in a highly detailed, fantasy style.
+Seed: 2579303854
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Talisman, Perception

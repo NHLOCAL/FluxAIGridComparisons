@@ -1,0 +1,4 @@
+Prompt: Create an image of a desolate provincial landscape under an overcast sky, with gray clouds looming heavily above. In the foreground, a lonely, dilapidated farmhouse stands with peeling paint and broken windows, surrounded by barren fields and wilted grass. A single, twisted tree leans toward the ground, its branches reaching out like skeletal fingers. Thin shadows stretch across the ground, emphasizing the dreariness of the scene. The overall color palette should consist of muted earth tones, with shades of gray, brown, and faded green, enhancing the atmosphere of solitude and abandonment. The light should be soft and diffused, creating a poignant and melancholic ambiance. Capture this in a realistic style that enhances the detailed textures of the farmhouse and the landscape.
+Seed: 834142422
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Province, Sadness

@@ -1,0 +1,4 @@
+Prompt: A vibrant, scenic illustration of a serene reservoir surrounded by lush green hills. The water is crystal clear, reflecting the blue sky and fluffy white clouds above. In the foreground, a diverse group of people engage in various recreational activities: some are kayaking, while others are fishing from the edge with brightly colored fishing gear. A couple of children playfully splash water at each other near the shore. The background features a picturesque array of trees, blooming wildflowers, and distant mountains, creating a sense of tranquility and leisure. The lighting is warm and inviting, evoking a sunny afternoon, with gentle ripples in the water adding dynamic movement to the tranquil scene. The overall composition is bright and lively, capturing the essence of enjoyment in nature.
+Seed: 831430774
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enjoyment, Reservoir

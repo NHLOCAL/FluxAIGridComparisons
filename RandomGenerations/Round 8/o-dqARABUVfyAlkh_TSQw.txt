@@ -1,0 +1,4 @@
+Prompt: An intricate and detailed illustration of two humanoid figures made entirely of steel, standing back to back in a futuristic cityscape. The figures should have a seamless design, with features that blend human characteristics and mechanical elements, such as glowing eyes and intricate circuitry etched into their metallic surface. The background is a bustling urban landscape at twilight, with towering skyscrapers and neon lights casting reflections on their polished bodies. The lighting is dramatic, with a mix of soft blues and warm golds highlighting the texture of the steel and creating dynamic shadows. The angle should be slightly low, emphasizing the grandeur of the figures as they embody a sense of connection and partnership amidst the chaos of the city. The scene captures a blend of technology and humanity, evoking a feeling of unity in a cyberpunk environment.
+Seed: 2532203181
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Soulmate, Steel

@@ -1,0 +1,6 @@
+Prompt: Create an abstract illustration featuring a symmetrical design that represents the concept of ego. The image should be divided into two mirrored halves, each reflecting a distinct personality trait or characteristic. One side should depict vibrant colors, such as electric blues and fiery reds, symbolizing confidence, ambition, and assertiveness. The other side should showcase softer shades like pastel pinks and calming greens, representing introspection, humility, and gentleness. 
+
+In the center, a bold, stylized silhouette of a head should be present, surrounded by intricate patterns that weave between the two sides, symbolizing the connection between these contrasting traits. The background should be filled with geometric shapes and fractals, enhancing the feeling of symmetry and balance. Soft lighting should create depth and dimension, emphasizing the distinct characteristics of each side while maintaining the overall harmony of the composition. High-resolution, ultra-detailed style with a touch of surrealism.
+Seed: 3057147485
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ego, Symmetry

@@ -1,0 +1,4 @@
+Prompt: Create a striking illustration featuring a lava addict, a person engulfed by bright, molten lava. They are half-submerged in flowing, vibrant orange and red lava, with cracks forming around their body where the heat radiates outwards. Their expression is one of exhilaration, with eyes wide and mouth agape as they reach out towards a pulsating lava flow that shines with fiery golden tones. The background is filled with an otherworldly volcanic landscape, intricately detailed with smoldering rocks and surreal formations, casting dramatic shadows. The scene is illuminated by the glowing embers and fiery light from the lava, creating a vivid contrast against the dark, swirling smoke in the sky. The overall composition emphasizes a sense of danger and obsession, rendered in hyper-realistic style with intense colors and strong contrasts.
+Seed: 316193324
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lava, Addict

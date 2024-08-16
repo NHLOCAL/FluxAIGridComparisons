@@ -1,0 +1,4 @@
+Prompt: Create an image of an adorable honeybee with delicate transparent wings, sitting atop a snow-covered flower. The bee's fuzzy body should have rich shades of yellow and black, while its colorful, intricate pattern on the wings reflects the sunlight. The background should depict a harsh winter landscape, with gentle flurries of snow falling and other flowers drooping under the weight of the snow. Soft, diffused sunlight breaks through gray clouds, casting a warm glow on the bee and flower, creating a striking contrast between the warmth of spring and the chill of winter. The overall composition should evoke a sense of sweetness and resilience amidst the cold. Art style should be hyper-realistic, with an emphasis on vibrant colors and fine details.
+Seed: 4264452111
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honey, Blizzard

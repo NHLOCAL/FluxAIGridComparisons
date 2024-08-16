@@ -1,0 +1,4 @@
+Prompt: Create a hyper-detailed portrait of a refined, elegant woman. She has a soft and gentle expression, with long, flowing hair gracefully cascading over her shoulders. Her attire features a luxurious, light pastel gown adorned with intricate lace details and delicate embellishments. The background is a softly lit, opulent room with ornate golden chandeliers and plush velvet drapes creating a warm and inviting atmosphere. Gentle, diffused lighting highlights her features and the textures of her gown. The angle should be slightly elevated, capturing both her serene posture and the sophistication of the surroundings. The artwork should embody a sense of grace and elegance, showcasing classic beauty in a modern portrayal, cinematic, illustration, high resolution.
+Seed: 2505826651
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sweetie, Refined

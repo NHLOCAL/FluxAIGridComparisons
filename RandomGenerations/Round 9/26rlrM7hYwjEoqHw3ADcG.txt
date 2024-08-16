@@ -1,0 +1,4 @@
+Prompt: An intriguing photograph featuring two identical mirrors placed across from each other in a dimly lit room. The room itself is sparsely furnished, with only a single flickering candle on a table between the mirrors, casting soft shadows that play along the walls. Each mirror reflects distorted images of the room and the viewer, creating an illusion of infinite space and echoes of self. The lighting is low, with warm tones accentuating the wood grain of the furniture and the flickering candlelight. Hints of mist swirl around the base of the mirrors, adding an enigmatic quality to the scene. The overall composition invites contemplation, blurring the lines between reality and reflection while emphasizing the theme of duplicity and introspection, capturing an uncanny yet captivating atmosphere.
+Seed: 1665403768
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Disgust, Quest

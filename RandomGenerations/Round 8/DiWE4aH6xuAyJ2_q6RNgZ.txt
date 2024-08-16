@@ -1,0 +1,4 @@
+Prompt: A breathtaking landscape illustration showcasing a serene cliff overlooking a tranquil ocean at sunset. The cliff, rugged and detailed with patches of greenery, juts out dramatically over the calm waters below. The sky is painted in vibrant hues of orange, pink, and purple, gradually fading into deep blue as the sun dips below the horizon. Gentle waves reflect the warm colors of the sky, adding a shimmering effect to the scene. In the foreground, a solitary figure stands at the edge of the cliff, silhouetted against the brilliant sunset, arms outstretched in a gesture of peace. The overall composition conveys a sense of calm and connection with nature. The art style merges realism with a touch of impressionism, emphasizing the colors and textures of the landscape while capturing the tranquil atmosphere.
+Seed: 2900547485
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peace, Cliff

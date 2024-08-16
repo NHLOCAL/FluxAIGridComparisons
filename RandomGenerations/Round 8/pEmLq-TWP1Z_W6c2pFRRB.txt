@@ -1,0 +1,4 @@
+Prompt: Craft an image of a mystical diviner seated at an ornate, wooden table. The diviner is a middle-aged female figure with flowing silver hair, wearing a dark, hooded cloak adorned with shimmering constellations. She is gazing into a crystal ball, its surface swirling with ethereal fog, reflecting glimpses of distant worlds and celestial events. Surrounding her are various divination tools: tarot cards spread out, flickering candles casting dancing shadows, and ancient scrolls inscribed with runes. The backdrop is a dark, atmospheric tent filled with rich fabrics and intricate patterns, illuminated by warm, ambient lighting. The scene conveys an air of mystery and ancient wisdom, emphasizing detailed artistry and intricate textures, creating a captivating portrait of the divination process.
+Seed: 1659602086
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Story, Diviner

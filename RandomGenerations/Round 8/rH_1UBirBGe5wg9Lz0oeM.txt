@@ -1,0 +1,4 @@
+Prompt: Create an image of a medieval knight in full armor standing atop a rocky cliff during sunset. The knight, showcasing intricate designs on the armor, holds a large sword pointing downward. The background features a sprawling valley with distant mountains and a moody sky painted in vibrant oranges, purples, and deep blues. Wispy clouds catch the sunlight, enhancing the dramatic atmosphere. The scene is illuminated by the warm glow of the setting sun, casting long shadows and accentuating the textures of the knight's armor. The angle is slightly below the knight, emphasizing their stature and competence, with details in the armor reflecting the last rays of sunlight. Photorealistic style with emphasis on depth and detail.
+Seed: 824515588
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Era, Competence

@@ -1,0 +1,4 @@
+Prompt: A serene landscape depicting a tranquil forest glade bathed in soft, golden sunlight filtering through the lush canopy above. In the center, a gentle stream flows, its water sparkling like diamonds, while smooth stones line its banks. Surrounding the stream are delicate wildflowers in various pastel shades, adding vibrant pops of color to the scene. A pair of graceful deer can be seen drinking from the water, their reflections perfectly mirrored on the surface. The background reveals towering trees with thick trunks and vibrant green leaves, creating a sense of depth and tranquility. A warm, inviting breeze rustles through the foliage, completing this peaceful and comforting nature scene. Captured in a photorealistic style with an emphasis on natural beauty and calmness.
+Seed: 787384239
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Comfort, Spirit

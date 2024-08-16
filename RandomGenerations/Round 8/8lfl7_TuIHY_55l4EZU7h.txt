@@ -1,0 +1,4 @@
+Prompt: A serene and majestic image of an intricately designed mosque, featuring elegant domes and minarets. The mosque is set against a clear blue sky, with the warm golden light of sunset creating a soft glow around the architecture. Surrounding the mosque is a lush garden filled with vibrant flowers and greenery, adding a touch of life to the scene. The foreground showcases a peaceful reflection of the mosque on a calm water surface, enhancing the sense of tranquility. The image captures the intricate details of the mosque's design, including beautifully crafted patterns and ornate calligraphy, emphasizing the cultural significance and architectural beauty in a highly detailed, photorealistic style.
+Seed: 4151505769
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mosque, Naked

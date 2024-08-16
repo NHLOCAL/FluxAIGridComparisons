@@ -1,0 +1,4 @@
+Prompt: A grand and imposing monument set in a vast, barren landscape at dusk. The monument, crafted from dark granite, towers majestically against the backdrop of a stormy sky with swirling clouds in shades of deep blue and gray. The structure features intricate carvings and inscriptions, showcasing an ancient civilization's artistry. The foreground is littered with jagged rocks and sparse vegetation, adding to the desolate atmosphere. Dim, dramatic lighting highlights the monument's features, casting long shadows and creating a sense of mystery. The scene evokes a feeling of timelessness and solitude, inviting the viewer to contemplate the monument's significance and the stories it holds. The overall composition should convey a cinematic quality, emphasizing the grandeur and the ominous mood of the setting.
+Seed: 814153536
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hush, Monument

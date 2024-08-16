@@ -1,0 +1,4 @@
+Prompt: A powerful illustration capturing the moment of transformation as a muscular warrior transitions into a magnificent dragon. The warrior, adorned in intricate armor with glowing runes, stands at the forefront, his body morphing into vibrant, scaled dragon wings extending behind him. The dragon's fierce, glowing eyes reflect the strength and determination of the warrior. The backdrop is a breathtaking landscape with rugged mountains and a stormy sky, illuminated by flashes of lightning that accentuate the intensity of the scene. The colors are rich and dynamic, with deep reds, fiery oranges, and dark blues creating a dramatic atmosphere. The artwork combines elements of fantasy and action, showcasing the raw power and majestic beauty of this transformation., illustration, dynamic, cinematic
+Seed: 2516143388
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Transformation, Strength

@@ -1,0 +1,4 @@
+Prompt: Create an image featuring a vibrant and intricate close-up of a human hand holding a shimmering, translucent crystal orb. The orb reflects a multitude of colors, casting rainbow-like light patterns around it. The background is an abstract blend of deep blues and purples, mimicking a cosmic night sky filled with twinkling stars and faint nebula clouds. The hand should be adorned with delicate, ethereal tattoos that seem to glow subtly in the presence of the orb's light. The overall atmosphere is one of wonder and discovery, with soft, diffused lighting enhancing the magical quality of the scene. The angle should be slightly elevated, focusing on the connection between the hand and the orb, emphasizing a sense of curiosity and exploration. Hyper-detailed, cinematic, and surreal in style.
+Seed: 1792818516
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gain, Fascination

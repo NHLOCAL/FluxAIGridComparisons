@@ -1,0 +1,4 @@
+Prompt: A grand celebration scene depicting a diverse group of people from various cultures and backgrounds coming together in a vibrant outdoor festival. The atmosphere is filled with colorful banners, traditional decorations, and lively music. In the foreground, individuals are engaging in joyful activities, such as dancing, sharing food, and dressing in cultural attire. Brightly colored clothing adds to the lively ambiance, and festive lights illuminate the scene as the sun sets, casting a warm golden glow. The background features an array of stalls selling crafts and food from different countries, with a large stage hosting live performances. The composition emphasizes inclusivity, cultural exchange, and the joy of community. The illustration is rendered in a stylized, vibrant art style, evoking a sense of celebration and togetherness.
+Seed: 612737040
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Respect, Excitement

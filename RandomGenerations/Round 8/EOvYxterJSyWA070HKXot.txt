@@ -1,0 +1,4 @@
+Prompt: Create an image depicting the core of a devastated city, surrounded by ruins and rubble. The focal point should be a massive, glowing core pulsating with energy, emitting bright hues of orange and blue, contrasting against the dark, charred remains of surrounding buildings. Smoke rises into the air, creating a hazy atmosphere filled with debris. Cracked pavement littered with shards of glass and twisted metal outlines the scene. The sky is overcast with dark clouds, adding to the grim ambiance. The art style should be hyper-detailed and cinematic, showcasing the destruction's aftermath, with an emphasis on light emanating from the core illuminating the wreckage and enhancing the sense of chaos. Use dramatic lighting to highlight the textures of the ruined structures and the glowing core at the center.
+Seed: 2889736920
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Destruction, Core

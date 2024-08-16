@@ -1,0 +1,4 @@
+Prompt: A breathtaking landscape featuring an ornate bridge suspended high above a vast, mist-covered chasm. The bridge, intricately designed with ancient stone carvings and adorned with glowing lanterns, spans between two towering cliffs, creating a sense of wonder and intrigue. Below, the chasm reveals a swirling, luminescent river that reflects the shimmering colors of the twilight sky. The overall scene is illuminated by a soft, ethereal light that bathes the surroundings in enchanting hues of purple, blue, and gold. Wisps of fog drift along the chasm, adding a layer of mystery and awe. The angle captures both the grandeur of the bridge and the vastness of the landscape, emphasizing the feeling of bewilderment and exploration in this magical setting. Photorealistic style, highly detailed, captivating atmosphere.
+Seed: 3137466403
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bridge, Bewildering

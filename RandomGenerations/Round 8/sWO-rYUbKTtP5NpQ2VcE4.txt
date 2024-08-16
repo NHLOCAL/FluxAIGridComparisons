@@ -1,0 +1,4 @@
+Prompt: Create an expansive landscape image depicting a vast steppe under a clear blue sky. The foreground features rolling hills covered in tall, golden grass swaying gently in the breeze. A small herd of wild horses, varying shades of brown and white, gallop across the scene, creating a sense of movement. In the distance, low mountains rise against the horizon, their rugged contours softened by patches of green. The sunlight casts long, dynamic shadows across the terrain, emphasizing the textural details of the grass and soil. The overall composition should exhibit a sense of openness and freedom, captured in a realistic style with vibrant colors and sharp detail. The shot should be from a slightly elevated angle, providing a sweeping view of the steppe landscape.
+Seed: 3081127266
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Load, Steppe

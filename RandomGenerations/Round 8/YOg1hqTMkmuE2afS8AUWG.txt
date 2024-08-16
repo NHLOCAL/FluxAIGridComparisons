@@ -1,0 +1,4 @@
+Prompt: Create an image of a vibrant playground nestled within a lush green grove. The playground features colorful equipment such as slides, swings, and climbing structures, all constructed from sustainable materials. Surrounding the playground are tall, leafy trees, their branches creating a natural canopy, filtering sunlight that casts playful shadows on the ground. Scattered wildflowers and soft grass add to the inviting atmosphere. The scene is bathed in warm, natural lighting with a clear blue sky peeking through the leaves. The angle of the shot is slightly elevated, giving a panoramic view of the playground filled with children joyfully playing, embodying a lively and enchanted day in nature. The art style is realistic with a focus on vivid colors and intricate details.
+Seed: 1399611925
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Grove, Playground

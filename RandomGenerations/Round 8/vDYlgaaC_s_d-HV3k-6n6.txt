@@ -1,0 +1,4 @@
+Prompt: A tranquil river scene at twilight, gently flowing through a lush, green forest. The water reflects a gradient of deep blues and purples, capturing the last light of day. Mist rises from the river's surface, creating a soft, ethereal atmosphere. In the foreground, a smooth, weathered stone lies partially submerged in the water, with delicate ferns and moss growing around it. Dark, ominous clouds loom overhead, hinting at an impending storm. The overall composition conveys a sense of solitude and stillness, with dim lighting and muted colors creating an introspective mood. No human presence, allowing nature's beauty to speak for itself.
+Seed: 2279222675
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: River, Sorrow

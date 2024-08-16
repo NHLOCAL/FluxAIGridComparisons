@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a modern pharmacy interior, showcasing neatly organized shelves filled with colorful medicine bottles, boxes, and wellness products. The pharmacy should have bright, antiseptic lighting illuminating the space, with a sleek counter at the front where a friendly pharmacist with glasses assists a customer. The walls are adorned with informative health posters and brochures. In the background, a digital display board shows health tips and medication information. The overall atmosphere is clean, welcoming, and professional, with a light color palette of whites and soft greens, capturing the essence of a contemporary healthcare environment.
+Seed: 2008964532
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yesterday, Pharmacy

@@ -1,0 +1,4 @@
+Prompt: A beautifully landscaped garden in full bloom, showcasing an array of vibrant flowers in various colors, including deep reds, bright yellows, and soft pinks. The garden features intricate stone pathways winding through lush greenery, interspersed with elegant sculptures and a serene water fountain at the center, gently cascading water. Surrounding the garden, tall willow trees provide gentle shade, their branches gracefully sweeping down. The scene is illuminated by warm golden sunlight filtering through the trees, casting playful shadows on the ground. The background reveals a clear blue sky, creating a serene and inviting atmosphere. This masterpiece captures the essence of tranquility and the beauty of nature, rendered in a hyper-realistic, vibrant style with an emphasis on intricate details and color saturation.
+Seed: 4139237213
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Garden, Masterpiece

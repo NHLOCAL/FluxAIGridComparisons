@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a vibrant country landscape during sunrise, showcasing rolling hills covered in lush, emerald green grass. A picturesque farmhouse with a red barn sits amidst fields of blooming wildflowers in shades of yellow, purple, and pink. The sky is painted with warm oranges and soft pinks as the sun peeks over the horizon, casting long shadows across the ground. In the foreground, a dirt path winds through the fields, leading toward the farmhouse, inviting viewers to explore the serene countryside. A few fluffy white clouds drift lazily in the sky, enhancing the tranquility of the scene. The overall atmosphere is one of peacefulness and beauty, capturing the essence of country life.
+Seed: 23410628
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Astonishment, Country

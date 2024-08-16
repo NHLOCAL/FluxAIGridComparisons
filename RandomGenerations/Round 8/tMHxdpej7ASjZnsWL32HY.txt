@@ -1,0 +1,4 @@
+Prompt: Create a breathtaking illustration of a winding trail that leads through a stunning fjord landscape. The trail, flanked by lush, green hills, meanders along the water's edge, which reflects the vibrant colors of the sky. The fjord features towering cliffs with jagged edges and patches of snow on top, contrasting with the deep blue water below. The sky is painted with hues of orange and pink, indicating a stunning sunrise. Mist rises gently from the water, adding a touch of mystery to the scene. The foreground features a few wildflowers and grasses swaying in the breeze, enhancing the sense of tranquility. The overall composition combines realism and captivating natural beauty, inviting the viewer into this serene landscape, cinematic, highly detailed.
+Seed: 767059373
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Trail, Fjord

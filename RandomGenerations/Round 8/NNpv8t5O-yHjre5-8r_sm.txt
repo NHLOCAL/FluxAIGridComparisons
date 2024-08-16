@@ -1,0 +1,4 @@
+Prompt: Create a surreal illustration depicting the concept of "probability" at midnight. The scene features a large, open book at the center, pages illuminated by a soft, glowing light. Each page displays intricate mathematical equations and diagrams representing probability theory. Surrounding the book, swirling, translucent spheres float in the dark night sky, each containing various chaotic scenes: dice rolling, flipping coins, and spinning roulette wheels. The background is a starry midnight sky with a large, luminous moon casting silvery light, creating a dreamlike atmosphere. Dimly lit figures of people can be seen in the distance, engaged in various activities of chance. The overall composition combines elements of whimsy and the abstract, emphasizing the unpredictability of probability in a strikingly beautiful way.
+Seed: 2171061893
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Probability, Midnight

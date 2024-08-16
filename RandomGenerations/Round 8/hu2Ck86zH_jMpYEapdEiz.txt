@@ -1,0 +1,6 @@
+Prompt: Create a captivating illustration of an enchanter named Opal, standing majestically in a mystical forest. Opal has shimmering, iridescent skin that reflects hues of blue and green and is adorned in flowing, ethereal robes made of delicate, translucent fabrics. The robes are embellished with sparkling gemstones that resemble opals. She holds a beautifully crafted staff topped with a glowing crystal, which emits soft, swirling light. 
+
+The forest around her is enchanted, filled with luminescent plants and floating orbs of light. The background showcases towering trees with twisting branches and vibrant, bioluminescent flora. The lighting is golden and warm, filtering through the leaves, creating a magical atmosphere. The angle is slightly low, looking up at Opal to emphasize her grandeur and connection to the magical environment. The colors are vibrant and rich, enhancing the enchanting quality of the scene, rendered in a classic fantasy art style.
+Seed: 2684866827
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opal, Enchanter

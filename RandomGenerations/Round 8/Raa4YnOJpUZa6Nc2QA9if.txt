@@ -1,0 +1,4 @@
+Prompt: Create an image of a vast cosmic galaxy filled with swirling clouds of vibrant colors, including deep purples, bright pinks, and shimmering blues. The clouds should have a soft, ethereal texture, blending seamlessly into the starry background scattered with twinkling stars and distant galaxies. The scene should convey a sense of depth and dimension, with certain clouds appearing to float in the foreground, while others recede into the background. The lighting should be luminous, with radiant glows emanating from various parts of the clouds, creating a dreamlike atmosphere. The overall composition should evoke the majesty and mystery of the cosmos, providing an immersive visual experience, and rendered in a hyper-detailed and vibrant style.
+Seed: 2788435814
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cloud, Galaxy

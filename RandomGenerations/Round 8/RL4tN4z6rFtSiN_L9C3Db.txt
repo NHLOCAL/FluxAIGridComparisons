@@ -1,0 +1,4 @@
+Prompt: A captivating close-up of a mysterious figure shrouded in dark, flowing fabric that glistens under soft moonlight. The figure's face is partially obscured by a delicate lace mask, adding an aura of intrigue and seduction. Their eyes emit a subtle, hypnotic glow, reflecting a deep, alluring gaze. The background is a blurred, shadowy scene of an ancient, crumbling castle surrounded by dense, dark woods, creating an atmosphere of enchantment and enigma. A mist swirls gently at the figure's feet, adding an ethereal quality to the scene. The overall color palette features deep purples and blacks, with hints of silver from the moonlight, enhancing the sensual and mysterious ambiance, rendered in a realistic and cinematic style.
+Seed: 943353873
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mystery, Seduction

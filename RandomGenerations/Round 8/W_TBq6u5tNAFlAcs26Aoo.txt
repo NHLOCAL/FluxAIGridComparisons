@@ -1,0 +1,4 @@
+Prompt: Create a vibrant underwater scene showcasing an intricately designed triumph of marine life within a glass aquarium. The focal point is a majestic, vividly colored tropical fish with flowing fins, gracefully swimming among lush aquatic plants and coral formations. Surrounding the fish are smaller species like shimmering neon tetras and playful clownfish, creating a lively, dynamic composition. The background features a soft blue hue, representing clear, pure water, while rays of sunlight penetrate the surface, casting shimmering patterns on the sandy bottom. The glass of the aquarium reflects the colors and movement, adding depth to the scene. The overall atmosphere is serene yet captivating, with an emphasis on the beauty and diversity of underwater life, hyper-realistic, highly detailed, 4K resolution.
+Seed: 3406256484
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Triumph, Aquarium

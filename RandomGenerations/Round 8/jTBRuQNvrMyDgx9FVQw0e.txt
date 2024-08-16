@@ -1,0 +1,4 @@
+Prompt: A picturesque village scene featuring small, charming cottages with thatched roofs made from reeds and wooden beams, surrounded by lush greenery and vibrant flower gardens. In the foreground, a tranquil river glistens under the sunlight like opal with hues of pastel blues, greens, and pinks. A small stone bridge arches over the river, leading to a cobblestone pathway lined with blooming cherry blossom trees. Fluffy clouds float in a bright blue sky, and the overall atmosphere exudes tranquility and harmony with nature. The scene is rendered in a soft, impressionistic style, emphasizing the gentle colors and inviting landscapes of a serene village setting. Warm, golden afternoon lighting enhances the details, giving a dreamy quality to the entire composition.
+Seed: 2537270801
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opal, Village

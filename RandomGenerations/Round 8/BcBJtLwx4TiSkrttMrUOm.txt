@@ -1,0 +1,4 @@
+Prompt: A thought-provoking illustration depicting a chaotic urban environment, where towering skyscrapers loom over crowded streets filled with diverse people in various states of confusion. The scene is split into two contrasting halves: one side is vibrant and bustling with activity, featuring colorful street vendors, lively conversations, and bright advertisements, while the opposite side is a desolate, gray area with crumbling buildings, sparse individuals, and flickering neon lights. The lighting is dramatic, with strong shadows casting over the confused faces of the pedestrians. The overall composition emphasizes the stark contrast between wealth and poverty, highlighting the theme of inequality through sharp angles and vibrant color contrasts, rendered in a contemporary, urban art style.
+Seed: 2703148205
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Inequality, Confusion

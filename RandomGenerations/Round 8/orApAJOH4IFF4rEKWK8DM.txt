@@ -1,0 +1,4 @@
+Prompt: Create an image of an intricate geometric pattern against a deep midnight blue background. The pattern should consist of overlapping hexagons and diamonds in various shades of silver and light blue, creating a sense of depth and dimension. Subtle gradients within the shapes add a luminous quality, as if they are softly glowing against the dark backdrop. The overall composition is symmetrical and balanced, emphasizing the harmony of shapes. The lighting is soft and even, enhancing the cool, serene atmosphere of the midnight setting. The high detail reveals textures within the pattern, adding to the visual complexity and intrigue.
+Seed: 4285052950
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pattern, Midnight

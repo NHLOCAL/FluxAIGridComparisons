@@ -1,0 +1,4 @@
+Prompt: A serene landscape featuring a vast open field under a bright blue sky. The field is adorned with a variety of wildflowers in vibrant colors like yellows, purples, and whites, swaying gently in the breeze. In the foreground, a nude figure stands gracefully amidst the flowers, embodying a sense of natural harmony with the surroundings. The figure is positioned artistically to maintain elegance and respect for form, with soft sunlight casting gentle shadows. The background showcases rolling hills, distant trees, and a few fluffy white clouds scattered across the sky. The overall composition emphasizes the beauty of nature and the human form in a tranquil and inviting setting, creating a peaceful and artistic image.
+Seed: 2453094140
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Field, Nudity

@@ -1,0 +1,4 @@
+Prompt: A striking illustration of two symmetrical, abstract heart shapes intertwined, each adorned with intricate patterns reflecting harmony and affection. The hearts are presented in a vibrant color palette featuring reds, pinks, and hints of gold. The background is a soft gradient of pastel colors, creating a serene atmosphere. Subtle glowing elements emerge from the hearts, giving the scene a sense of warmth and connection. The overall design is clean and modern, emphasizing the geometric symmetry and artistic detail. The lighting is soft and diffused, enhancing the visual appeal and warmth of the illustration.
+Seed: 1378018004
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Affection, Symmetry

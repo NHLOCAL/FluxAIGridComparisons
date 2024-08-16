@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a serene dam surrounded by lush green hills under a clear blue sky. The dam is depicted as a large concrete structure with a gentle cascade of water flowing over it into a tranquil river below. Reflections of the dam and the surrounding trees can be seen on the water’s surface, enhancing the tranquil atmosphere. In the foreground, add a wooden boat drifting lazily on the river, with a person fishing off the side. The lighting should be warm and inviting, suggesting a pleasant afternoon, with soft shadows cast by the trees. The overall composition should convey a sense of peace and harmony with nature, in a realistic art style.
+Seed: 1472615696
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dam, Lie

@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a lush rainforest at dawn. The scene is filled with vibrant greenery, towering trees with thick trunks and large leaves, covered in dew. Sunlight filters through the dense canopy, creating dramatic shafts of light that pierce the misty atmosphere. Various colorful tropical flowers bloom among the foliage, and exotic birds can be seen flitting between branches. A gentle stream winds through the landscape, reflecting the sunlight and adding serenity to the scene. The overall color palette features rich greens, warm golden tones, and pops of color from the flowers, evoking a sense of tranquility and the vibrancy of nature. The image should capture a sense of freshness and awakening, embodying the beauty of a rainforest at dawn.
+Seed: 1750008508
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tomorrow, Rainforest

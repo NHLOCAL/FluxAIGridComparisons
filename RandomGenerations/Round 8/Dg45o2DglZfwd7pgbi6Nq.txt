@@ -1,0 +1,4 @@
+Prompt: A tranquil orchard at sunset, rows of fruit-laden trees stretching into the horizon. The vibrant colors of ripe apples, pears, and plums create a rich tapestry against the golden light. Soft breezes rustle the leaves, and petals drift lazily through the air, adding to the serene atmosphere. In the foreground, a wooden picnic table is set with wicker baskets overflowing with freshly picked fruits, a checkered blanket draping one side. The background features distant rolling hills covered in lush greenery, with fluffy clouds casting gentle shadows on the ground. The scene captures the essence of a harvest celebration, rendered in a warm, inviting color palette that conveys the beauty of nature. Cinematic lighting emphasizes the golden hour glow, creating a picturesque and idyllic setting.
+Seed: 993071988
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Story, Orchard

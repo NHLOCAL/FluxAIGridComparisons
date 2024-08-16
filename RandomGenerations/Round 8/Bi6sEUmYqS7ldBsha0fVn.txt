@@ -1,0 +1,4 @@
+Prompt: Create an image of a beautiful landscape viewed from a high perspective, showcasing a vibrant sunrise over a lush green valley filled with colorful wildflowers. In the foreground, include a winding river reflecting the warm hues of the sun, while gently flowing through the vibrant landscape. The background should feature majestic mountains, partially shrouded in mist, creating a sense of depth and grandeur. The sky is painted with soft pastel colors – pinks, purples, and oranges – blending seamlessly into a clear blue. The overall composition should be inviting and tranquil, emphasizing the natural beauty and harmony of the scene. Use a hyper-realistic art style with a focus on intricate details and dynamic lighting that captures the essence of the early morning light.
+Seed: 2754652283
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Perspective, Attractive

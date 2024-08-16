@@ -1,0 +1,4 @@
+Prompt: A whimsical illustration of a vibrant, bustling marketplace filled with various stalls adorned with colorful awnings. In the foreground, a charming little shop named "Chance" stands out, featuring a bright yellow facade with large windows showcasing an array of exotic goods. The shopkeeper, a cheerful elderly man with a white bushy beard, is welcoming customers with open arms. Surrounding the shop are lively scenes of people interacting, including a young girl holding a colorful balloon and a street performer juggling nearby. The background features a clear blue sky and fluttering birds, while the lighting is warm and inviting, suggesting a sunny day. The overall atmosphere is joyful and filled with a sense of community and chance encounters. The art style is reminiscent of classic children's book illustrations, emphasizing bright colors and playful details.
+Seed: 3244103861
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chance, Shop

@@ -1,0 +1,4 @@
+Prompt: Create an image of two hands, one belonging to an adult and the other to a child, gently clasping each other in a natural setting. The background should depict a serene meadow filled with vibrant wildflowers under a clear blue sky, illuminated by warm sunlight. The focus is on the details of the hands, showcasing the textures of the skin and the contrasting sizes. Surround the scene with softly blurred greenery to enhance the feeling of intimacy and connection. The lighting should create a soft glow, highlighting the bond between the hands. The overall composition is intended to be warm, inviting, and heartwarming, emphasizing the simplicity of connection.
+Seed: 1619996613
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Simplicity, Bonding

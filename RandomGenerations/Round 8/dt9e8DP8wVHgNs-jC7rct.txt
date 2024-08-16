@@ -1,0 +1,6 @@
+Prompt: Create a serene illustration of a celestial angel standing on a vast plateau. The angel, with large, majestic white wings, should have a radiant glow surrounding her. She wears a flowing, ethereal gown adorned with shimmering silver and gold particles that catch the light. Her long hair cascades like a waterfall, reflecting the colors of a breathtaking sunset.
+
+The plateau is rocky, dotted with vibrant wildflowers, and overlooks a stunning landscape of rolling hills and valleys stretching into the horizon. The sky is painted in soft hues of pink, orange, and purple from the setting sun, with a scattering of fluffy clouds. The scene is bathed in warm, golden light, creating a peaceful and heavenly atmosphere. The angle captures the angel in mid-pose, gazing out at the magnificent view, evoking a sense of tranquility and grace. Art style should reflect an ethereal, dreamlike quality with an emphasis on light and detail.
+Seed: 2622515207
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Angel, Plateau

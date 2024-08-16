@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a serene estuary at dawn, where a calm river meets the ocean. The foreground features lush green grasses and colorful wildflowers along the riverbanks. In the center, a flock of birds gracefully takes flight over the water's surface, creating ripples. The sky is painted in soft pastel colors, with hints of pink and orange illuminating the horizon as the sun rises. In the background, gentle hills roll away from the shoreline, dotted with trees reflecting the warm hues of the sunrise. The overall scene should convey a sense of tranquility and natural beauty, with a glossy, reflective water surface, capturing the morning light in a photorealistic style. Emphasize details like the texture of the grasses, the delicate wings of the birds, and the shimmering water to create a breathtaking and immersive landscape.
+Seed: 4291900953
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Union, Estuary

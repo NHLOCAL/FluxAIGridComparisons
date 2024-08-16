@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a pair of dice resting on a vibrant green felt surface of a casino table. The dice should be oversized, emphasizing the six and four faces as if caught mid-roll, with small motion blur to suggest movement. Surrounding the dice, include a scattering of colorful poker chips and playing cards, partially visible in the frame. The background should feature a dimly lit casino interior, with subtle bokeh effects from distant lights adding warmth to the scene. The overall composition should convey a sense of excitement and chance, with rich colors and sharp details, rendered in a photorealistic style.
+Seed: 3978709590
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chance, Closeness

@@ -1,0 +1,4 @@
+Prompt: A serene riverbank scene at twilight, capturing the gentle flow of a meandering river under a sky painted in soft shades of pink and lavender. On one side of the river, lush greenery with tall grasses sways in a light breeze, dotted with vibrant wildflowers in hues of yellow and blue. A gracefully arched wooden bridge crosses the river, leading to a quaint cottage nestled among the trees on the opposite bank, its warm light glowing through the windows. The water reflects the pastel colors of the sky, creating a mirror-like effect. Silhouettes of birds can be seen in the distance, flying gracefully across the horizon. The tranquil atmosphere is enhanced by the soft, diffused lighting of the setting sun, evoking a sense of peace and natural beauty.
+Seed: 232456972
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Result, Riverbank

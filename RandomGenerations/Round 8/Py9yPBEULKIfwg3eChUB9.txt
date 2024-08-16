@@ -1,0 +1,4 @@
+Prompt: Create a vibrant illustration of a dazzling sunrise over a serene ocean. The sky should be filled with a spectrum of vivid colors, transitioning from deep oranges and fiery reds near the horizon to softer pinks and purples higher up. The sun, just peeking over the water, casts a radiant golden light, creating a sparkling pathway across the waves. Gentle surf creates a soft white foam at the shore, while seagulls glide gracefully in the colorful sky. The background should feature distant, soft-focus mountains with hints of morning mist clinging to their peaks. The art style should be a blend of realism and impressionism, emphasizing the brightness and energy of the dawn. The overall composition should evoke a sense of tranquility and optimism, capturing the beauty of a new day beginning.
+Seed: 2527780222
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tomorrow, Dazzling

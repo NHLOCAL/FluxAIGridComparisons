@@ -1,0 +1,4 @@
+Prompt: Create an image of a mystical druid standing in a lush, enchanted forest. The druid, an elderly figure with long, flowing green robes adorned with emerald leaves and intricate patterns, holds a beautifully carved staff topped with a glowing crystal. Surrounding the druid are vibrant flora and fauna, including luminescent mushrooms, colorful butterflies, and ancient trees with twisting branches. Soft beams of sunlight filter through the dense canopy, creating dappled light patterns on the forest floor. The background features ethereal mist drifting gracefully among the trees, enhancing the magical atmosphere. The scene should convey a sense of harmony and connection with nature, rendered in a high-detail fantasy art style with a rich and vivid color palette.
+Seed: 3776516304
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Druid, Ardor

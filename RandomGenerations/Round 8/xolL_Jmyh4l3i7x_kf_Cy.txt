@@ -1,0 +1,4 @@
+Prompt: Create a breathtaking scene featuring a breathtaking sunset over a tranquil lake. The sky is filled with vibrant hues of orange, pink, and purple as the sun dips below the horizon, casting shimmering reflections on the water’s surface. In the foreground, a silhouetted figure stands gracefully on a wooden dock, their arms outstretched as if embracing the beauty of nature. Surrounding the lake are lush, green trees and soft, rolling hills, creating a sense of peace and serenity. The overall composition is infused with breathtaking clarity and detail, inviting the viewer into a moment of stillness and wonder. The lighting should highlight the soft, warm tones of the sunset while maintaining a high level of realism, capturing the essence of a serene evening.
+Seed: 580579463
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Murmur, Breathtaking

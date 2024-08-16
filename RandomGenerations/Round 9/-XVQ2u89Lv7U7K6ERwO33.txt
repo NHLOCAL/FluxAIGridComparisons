@@ -1,0 +1,4 @@
+Prompt: A striking photograph capturing a person standing in front of a large, ornate mirror. The subject, a young woman with long flowing hair, gazes intently at her reflection. The reflection should reveal not only her physical features but also a surreal and ethereal version of herself, representing her inner self with luminous, abstract patterns and a vibrant color palette of blues and purples. The background is softly blurred, featuring a dimly lit room with vintage decor, emphasizing the mirror as the focal point. Soft, diffused lighting creates a dreamlike ambiance, while a gentle fog rolls across the floor, adding a layer of mystique to the scene. The overall composition invites contemplation, capturing the essence of self-discovery and introspection, portrayed in a hyper-detailed, ultra-realistic style.
+Seed: 1053865068
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Perfection, Fish

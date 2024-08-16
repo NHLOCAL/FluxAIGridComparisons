@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a vibrant spectrum of colors swirling together in a mesmerizing spiral. The colors range from deep violet to rich blue, transitioning through vivid greens, radiant yellows, fiery oranges, and culminate in a brilliant red at the center. The background should be a soft, blurred gradient that enhances the brightness of the colors, providing a smooth contrast. The light should appear to emanate from the center of the spiral, casting a gentle glow around the color spectrum. Use a high-detail, digital art style, emphasizing the fluidity and movement of the colors to create a sense of dynamic energy and blissful harmony. The overall composition should evoke a feeling of tranquility and joy, inviting the viewer to dive into this swirling wave of color.
+Seed: 2057156461
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bliss, Spectrum

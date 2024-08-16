@@ -1,0 +1,8 @@
+Prompt: Create an illustration of a whimsical scene in a busy urban park during the day. In the foreground, depict a joyful encounter between a child and a friendly street performer, dressed in a colorful, oversized costume, juggling vibrant, oversized fruits. The child, with wide eyes, reaches out to catch a bouncing ball that has just been thrown by the performer. 
+
+In the background, showcase a diverse group of people enjoying the park: individuals sitting on benches, couples walking hand-in-hand, and a dog playing with a frisbee. Trees with lush green leaves and blooming flowers surround the area, creating a lively and inviting atmosphere.
+
+Use bright, cheerful colors to convey the energy and happiness of the scene. The lighting should be bright and sunny, casting soft shadows on the ground to enhance the warmth of the moment. The angle should be slightly lower, focusing on the joyful interaction while capturing the delightful bustle of the park. The overall composition should evoke a sense of community, joy, and connection.
+Seed: 3573803106
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Donation, Encounter

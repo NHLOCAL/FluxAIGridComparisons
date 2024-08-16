@@ -1,0 +1,8 @@
+Prompt: Create a detailed illustration of a modern laboratory setup filled with vibrant, exotic flowers. The laboratory has sleek, stainless steel surfaces and large glass windows allowing natural light to flood the space. Various scientific equipment such as microscopes, beakers, and pipettes are scattered across the counters, with some beakers filled with colorful liquids that reflect the hues of the flowers. 
+
+In the center of the lab, a large, intricate glass vase holds a diverse arrangement of flowers including orchids, roses, and sunflowers, each exhibiting bright, saturated colors. The backdrop features a chalkboard with complex diagrams and notes sketched on it, hinting at ongoing floral experiments. 
+
+The lighting is bright and clinical with some dramatic shadows cast by the equipment. Capture the juxtaposition of nature and science in a captivating, hyper-detailed style, emphasizing the contrast between the organic beauty of the flowers and the sterile environment of the laboratory.
+Seed: 815817111
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Laboratory, Flower

@@ -1,0 +1,4 @@
+Prompt: Create an image featuring an intricately designed emblem that embodies the concept of honesty. The emblem should incorporate symbols such as an open book, a radiant sun, and a transparent heart, all enclosed within an ornate circular border adorned with delicate filigree. The background should depict a serene landscape, with a clear blue sky and gentle rolling hills, symbolizing clarity and integrity. The color palette should include soft whites, warm golds, and soothing greens to convey a sense of purity and truth. The lighting should be bright and uplifting, creating a sense of hope and transparency, with subtle rays of sunlight illuminating the emblem at an angle from the upper left. The overall style should be a blend of classic and modern aesthetics, giving a timeless quality to the representation of honesty.
+Seed: 2078510346
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honesty, Emblem

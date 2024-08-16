@@ -1,0 +1,4 @@
+Prompt: Create an image of a grand theater stage, impeccably designed with ornate gold details and luxurious red velvet curtains. The stage is set for a classic play, featuring an elaborately decorated wooden podium center stage with intricate carvings. In the background, painted scenery showcases a quaint European village, complete with charming houses, cobblestone streets, and lush greenery, under a clear blue sky. The stage is illuminated by warm, soft lights, creating an inviting atmosphere, while dramatic spotlights highlight the podium. The audience's seats are plush and arranged in a semi-circular fashion, hinting at an eager crowd waiting for the performance to begin. The overall composition conveys a sense of anticipation and artistry, with rich colors and fine details accentuating the grandeur of the theater experience.
+Seed: 507217313
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Standard, Theater

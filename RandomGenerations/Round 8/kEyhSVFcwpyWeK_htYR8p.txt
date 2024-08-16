@@ -1,0 +1,4 @@
+Prompt: Create a photorealistic image of a large, vintage camera perched on a rustic wooden table. The camera should have intricate brass details and a cracked leather exterior, reflecting years of use. Surrounding the camera, scatter various photography accessories such as rolls of film, old black and white photographs, and a dusty leather-bound notebook filled with handwritten notes. The lighting in the scene should be warm and gentle, casting soft shadows and highlighting the textures of the camera and accessories. In the background, a large window allows soft, diffused sunlight to filter through, illuminating dust particles in the air and creating an inviting, nostalgic atmosphere. The overall composition should evoke a sense of appreciation for the art of photography and the passage of time.
+Seed: 2124692105
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Recognition, Crop

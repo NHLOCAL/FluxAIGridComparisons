@@ -1,0 +1,8 @@
+Prompt: A visually striking representation of the concept of inequality portrayed through the lens of antimatter. The scene depicts a split landscape, with one side showcasing a vibrant, flourishing metropolis filled with towering buildings, advanced technology, and joyful people moving about. The other side starkly contrasts with a dark, desolate wasteland, characterized by crumbling structures, shadowy figures, and an overall sense of despair. 
+
+In the center, a swirling portal of antimatter connects both realms, emitting an eerie blue and purple glow that highlights the disparity between the two worlds. The antimatter elements appear as swirling particles and flashes of energy, creating a dynamic interaction between the two opposing landscapes. The sky above is split as well, with one side bright and sunny, while the other is shrouded in ominous clouds and darkness. 
+
+The art style combines elements of surrealism and dystopian themes, emphasizing the stark contrast of light and dark, vibrant and desolate. The lighting is dramatic, with harsh shadows on the wasteland side and bright highlights on the metropolis side, enhancing the sense of inequality. The angle is slightly elevated, providing an overview of both worlds and inviting the viewer to engage with the concept of inequality through the lens of antimatter.
+Seed: 2501398435
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Inequality, Antimatter

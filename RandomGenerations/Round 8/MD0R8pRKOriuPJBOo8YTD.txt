@@ -1,0 +1,4 @@
+Prompt: Create a highly detailed illustration of a basilisk resting on a moss-covered stone in a dimly lit enchanted forest. The basilisk, with its shimmering emerald scales, should have piercing golden eyes that glisten with a hint of curiosity. The creature's serpentine body is coiled gracefully around the stone, showcasing intricate scale patterns and spines along its back. Surround the basilisk with lush greenery, glowing mushrooms, and gentle wisps of ethereal light floating through the air. The soft, dappled lighting should create a mystical atmosphere, with light filtering through the tree canopy above. In the background, hints of ancient ruins can be seen, adding a sense of history and intrigue to the composition. Aim for a serene and magical quality, capturing the beauty of this mythical creature in its habitat.
+Seed: 626767019
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fondness, Basilisk

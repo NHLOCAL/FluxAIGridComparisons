@@ -1,0 +1,4 @@
+Prompt: Create an image of a futuristic command center set within a spaceship, showcasing a large, curved holographic display that projects a star map filled with intricate constellations and navigation routes. A diverse team of astronauts, dressed in sleek, high-tech uniforms, gather around the hologram, pointing and discussing strategies. The background is filled with panels featuring blinking lights, screens displaying data, and a panoramic view of a distant planet through a large viewport. Soft blue and white lighting illuminates the scene, creating a sterile yet advanced atmosphere. The angle is slightly elevated to provide a comprehensive view of both the team and the holographic display, capturing the essence of teamwork and exploration in a sci-fi setting. The overall style should convey a blend of realism and cinematic quality with high detail.
+Seed: 1987941911
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Command, Vision

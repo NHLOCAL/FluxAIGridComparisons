@@ -1,0 +1,4 @@
+Prompt: A detailed artistic interpretation of a screaming figure, embodying the essence of tension and chaos. The figure, with exaggerated features and a twisted expression, stands against an abstract background of swirling colors—vivid reds, deep blues, and stark blacks. The brush strokes are aggressive and dynamic, creating a sense of motion as if the scene is alive with energy. Sharp, jagged lines surround the figure, emphasizing the scream's intensity and panic. The lighting is high contrast, with dramatic shadows casting eerie shapes, enhancing the surreal atmosphere. The overall composition produces a striking visual impact that draws the viewer into a world of emotional turmoil and expressionistic art, rendered in a style reminiscent of Edvard Munch.
+Seed: 335931439
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scream, Alternative

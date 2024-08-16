@@ -1,0 +1,4 @@
+Prompt: Create a whimsical illustration of two cartoon characters, a cheerful union member wearing a bright blue cap and holding a colorful banner that reads "We Stand Together" and a friendly, laughing chuckle character with an exaggerated smile and large, round eyes. The background features a sunny park setting with vibrant green trees and blooming flowers. The scene is lively with a few floating balloons in the sky and a small group of diverse characters in the background holding signs of solidarity. The characters should be engaging in a joyful high-five, capturing the essence of harmony and camaraderie. The art style should be bright, colorful, and playful, evoking a sense of happiness and community.
+Seed: 2990080432
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Union, Chuckle

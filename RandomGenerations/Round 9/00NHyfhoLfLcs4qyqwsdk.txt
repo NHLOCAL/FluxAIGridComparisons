@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph of a solitary lighthouse standing on a rugged cliffside during a stormy night. The lighthouse, painted in bold red and white stripes, is illuminated by a powerful beam of light piercing through the heavy rain and dark clouds. Waves crash violently against the rocks below, sending sprays of water into the air. The scene is set under a dark sky filled with swirling storm clouds, and occasional flashes of lightning illuminate the surroundings. The rugged texture of the cliff and the turbulent ocean contrast sharply with the steadfastness of the lighthouse. The lighting emphasizes the drama of the moment, creating a visually striking image that captures the raw power of nature and the resilience of man-made structures against it.
+Seed: 4095055394
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fairy, Tree

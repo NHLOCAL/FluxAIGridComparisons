@@ -1,0 +1,4 @@
+Prompt: Create an imaginative illustration of a vast galaxy set against a deep, dark canvas of space. The galaxy should be a swirling mass of vibrant colors, primarily blues, purples, and pinks, with bright white stars twinkling throughout. In the center, depict a radiant galactic core, pulsating with energy and surrounded by spiraling arms dotted with clusters of stars and celestial bodies. Incorporate various planets of different sizes and textures, ranging from rocky to gaseous, located within the outskirts of the galaxy. The background should be a star-studded sky, with some nebulae softly glowing, adding depth to the cosmic scene. The overall composition should have a sense of motion as if the galaxy is in motion, evoking a feeling of wonder and exploration, captured in a high-resolution, detailed style.
+Seed: 2419323485
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Galaxy, Direction

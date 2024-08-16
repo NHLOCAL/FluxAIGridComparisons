@@ -1,0 +1,8 @@
+Prompt: Create an illustration of a futuristic headquarters set in a bustling harbor. The architecture should feature sleek, angular lines, utilizing glass and steel, symbolizing modern design. Surrounding the headquarters are various ships of different sizes docked at the harbor, showcasing a blend of traditional and high-tech vessels. The harbor is illuminated by dynamic neon lights reflecting off the water, creating a vibrant atmosphere. 
+
+In the foreground, include a group of diverse individuals in professional attire, discussing plans, with holographic displays emerging from their devices, showing blueprints and data. The sea should have gentle waves with hints of bioluminescence glowing beneath the surface. 
+
+The color palette should be a mixture of blues, purples, and greens, with a night sky filled with stars above, adding depth to the scene. Emphasize the overall feeling of innovation and ambition through sharp shadows and dramatic lighting. Capture the essence of a world where technology and commerce meet.
+Seed: 980622643
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Headquarters, Harbor

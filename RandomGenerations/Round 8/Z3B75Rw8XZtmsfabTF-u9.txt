@@ -1,0 +1,4 @@
+Prompt: A detailed illustration of a Minotaur standing in an ancient labyrinth, its muscular frame towering over the intricate stone pathways. The Minotaur, with thick black fur and sharp, menacing horns, is depicted in a dynamic pose, showcasing its strength and ferocity. Its fierce eyes gleam with intensity as it surveys its surroundings. The labyrinth is adorned with twisted vines and crumbling stone walls, creating a sense of age and mystery. The background features dim torchlight flickering from the walls, casting dramatic shadows that enhance the eerie atmosphere. The scene combines elements of dark fantasy with a focus on anatomical precision and texture, emphasizing the creature's power and the ancient setting. Highly detailed, cinematic, dark fantasy illustration.
+Seed: 3019346378
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shift, Minotaur

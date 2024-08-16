@@ -1,0 +1,4 @@
+Prompt: Create a striking image of a mystical talisman symbolizing life, designed as an ancient amulet suspended in a dark, enchanted forest. The talisman should feature intricate engravings of nature motifs, such as leaves and vines, glowing with a vibrant green luminescence. The surface of the amulet should appear weathered and aged, suggesting a long history. In the background, tall, shadowy trees loom, their bark twisted and gnarled, partially veiled in ethereal mist. Soft, dappled moonlight filters through the foliage, creating a serene yet mysterious atmosphere. The angle of the shot should be slightly elevated, focusing closely on the talisman while capturing the magical essence of the forest surrounding it. This scene should evoke a sense of wonder and ancient wisdom, with a color palette dominated by deep greens, soft blues, and hints of silver.
+Seed: 388944039
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Life, Talisman

@@ -1,0 +1,4 @@
+Prompt: A dynamic, high-energy illustration featuring a futuristic racing motorcycle speeding along a sleek, neon-lit cityscape at night. The motorcycle should have a streamlined design with glowing accents and racing stripes, capturing a sense of motion and velocity. The background showcases towering skyscrapers adorned with vibrant advertisements and holograms, illuminating the scene with bright lights in shades of blue, pink, and green. The perspective should be low and angled, emphasizing the speed and adrenaline of the race. The streets should reflect the neon glow, creating a stunning visual contrast. The artwork should embody a cyberpunk style, with hyper-realistic details and a sense of excitement in the atmosphere.
+Seed: 2644792764
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sex, Speed

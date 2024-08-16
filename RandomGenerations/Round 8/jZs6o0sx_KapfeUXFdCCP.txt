@@ -1,0 +1,8 @@
+Prompt: Create a visually striking and cinematic scene titled "Project Seduction." The focal point is an elegantly dressed femme fatale, wearing a sleek black sequined dress that shimmers under soft, ambient lighting. Her makeup is bold, with deep red lips and smoky eyes, emphasizing her captivating gaze. She stands confidently in a dimly lit, luxurious nightclub filled with dark leather furnishings and plush velvet drapes. 
+
+The background should feature a bar with an array of colorful cocktails, their reflections casting vibrant hues across the polished surface. In the foreground, a slightly blurred figure attempts to engage with her, creating an air of intrigue and tension. The lighting should create an intimate atmosphere, with spotlights illuminating her figure while shadows dance around the edges, enhancing the sense of mystery. 
+
+The overall composition should incorporate deep reds, blacks, and golds to evoke a seductive ambiance. The scene must be framed with dramatic depth of field, focusing on the femme fatale while hinting at the bustling setting around her, inviting the viewer into a world of allure and sophistication. Highly detailed, cinematic, illustration.
+Seed: 3664595924
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Project, Seduction

@@ -1,0 +1,4 @@
+Prompt: Create an image of a powerful conjurer standing in front of an ancient, towering stone structure, intricately carved with mystical runes and symbols. The conjurer, wearing a flowing dark robe with shimmering accents, is in the midst of casting a spell, with bright, vibrant energy swirling around their hands. The background features a stormy sky with flashes of lightning illuminating the stone structure, highlighting its weathered details and enhancing the dramatic atmosphere. The ground is covered in overgrown grass and scattered magical artifacts, adding to the enchanting setting. The overall scene should have a high level of detail, focusing on the conjurer’s intense concentration and the ethereal glow of the magical energy. Rendered in a cinematic, dark fantasy art style.
+Seed: 340318396
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conjurer, Structure

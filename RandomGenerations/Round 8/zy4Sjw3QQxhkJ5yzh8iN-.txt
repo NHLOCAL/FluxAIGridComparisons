@@ -1,0 +1,4 @@
+Prompt: Create an image of a tranquil bedroom at night, illuminated by soft, warm light from a bedside lamp. The room is adorned with cozy furnishings, including a neatly made bed with plush pillows and a fluffy comforter. A gentle breeze rustles sheer curtains fluttering at an open window, allowing moonlight to cast delicate shadows on the wooden floor. A small bookshelf is filled with books, and a sleeping cat curls up on a cushy armchair in the corner. The overall atmosphere is calm and inviting, perfect for sleep, with cool color tones in the decor and subtle starry patterns on the ceiling. The angle of the shot is from the doorway, providing a glimpse into this serene sanctuary.
+Seed: 3636922924
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sleep, Area

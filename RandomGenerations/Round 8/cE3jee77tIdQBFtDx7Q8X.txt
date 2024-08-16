@@ -1,0 +1,4 @@
+Prompt: Create an image of a blue-colored dragon crying in a mystical forest. The dragon's scales glisten in various shades of blue, capturing reflections of light from surrounding bioluminescent plants. Its large, sorrowful eyes glimmer with tears that cascade down its cheeks, creating a captivating contrast against the vibrant blue scales. The forest background is lush and enchanting, filled with towering trees, glowing fungi, and swirling mist that adds to the mystical atmosphere. Soft, diffused light filters through the canopy, casting a gentle glow on the dragon and its surroundings, creating an enchanting yet melancholic scene. The angle of the shot is slightly below eye level, emphasizing the dragon's majestic presence amidst the serene forest setting.
+Seed: 2997166433
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Blue, Cry

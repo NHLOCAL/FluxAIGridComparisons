@@ -1,0 +1,4 @@
+Prompt: A striking illustration of a superhero in action, soaring through a city skyline at sunset. The hero, clad in a sleek, form-fitting suit adorned with symbols of justice, is depicted mid-flight, with their cape billowing dramatically behind them. The background features a bustling urban landscape, with skyscrapers reflecting the warm hues of the setting sun. Below, the streets are alive with activity, showcasing people going about their lives, unaware of the hero above. The lighting is vibrant, with sun rays streaming through the clouds, casting a golden glow on the scene. The angle is slightly below the hero, emphasizing their heroic stature and determination, creating an atmosphere of hope and valor. The overall art style is dynamic and vivid, capturing the essence of action and justice in a modern urban setting.
+Seed: 1143900321
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mission, Justice

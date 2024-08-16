@@ -1,0 +1,4 @@
+Prompt: A mystical oracle seated atop an ancient stone pedestal surrounded by swirling mists and ethereal lights. The oracle has long flowing hair that blends into the smoke, adorned with glowing gems and intricate tribal patterns painted on her skin. She holds a crystal ball that radiates a soft blue light, casting enchanting reflections on her face. Her eyes are closed, conveying a sense of inner vision. The background features shadowy trees and faint silhouettes of spectral figures, enhancing the enigmatic atmosphere. Soft beams of moonlight filter through the mist, illuminating the scene in a dreamlike, mystical ambiance. The overall art style is surreal with high detail, emphasizing the connection between the oracle and the cosmos, capturing an aura of ancient wisdom and prophecy.
+Seed: 1601668575
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Oracle, Seer

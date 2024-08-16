@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a mythical Minotaur standing at the entrance of a labyrinth. The Minotaur, with muscular features and a detailed, rugged hide, gazes fiercely yet curiously into the winding pathways of the labyrinth. Surrounding the entrance, lush greenery and vibrant flowers bloom, contrasting the stone structure of the maze. The scene is set during golden hour, with warm, inviting light filtering through the trees and casting soft shadows around. The labyrinth itself is intricately designed, showcasing ancient stone walls and creeping vines. The overall tone should be rich and vibrant, capturing the allure of the unknown while maintaining the Minotaur's imposing presence. Art style inspired by classical mythology with a touch of modern fantasy.
+Seed: 3248667509
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Happiness, Minotaur

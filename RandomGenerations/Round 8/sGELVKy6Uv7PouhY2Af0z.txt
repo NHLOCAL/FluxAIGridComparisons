@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a long, dimly lit tunnel, with brick walls and uneven cobblestones underfoot. At the tunnel's far end, a brilliant light is visible, symbolizing accomplishment. The light should have a warm, golden hue, contrasting with the cooler tones of the tunnel. Shadows should be cast along the walls, enhancing the sense of depth and perspective. The tunnel should appear slightly damp, with water droplets glistening on the bricks. There's a subtle mist rising from the ground, adding an air of mystique. The angle should be from the perspective of someone walking toward the light, inviting the viewer to feel the journey toward achievement, with a focus on the transition from darkness to light. Photorealistic style, with attention to texture and detail, creating a cinematic atmosphere.
+Seed: 3421310514
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Accomplishment, Tunnel

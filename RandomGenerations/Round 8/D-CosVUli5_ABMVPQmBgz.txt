@@ -1,0 +1,4 @@
+Prompt: A striking illustration of a serene forest at twilight, where a gentle stream flows quietly through the landscape. In the foreground, a single, majestic tree stands tall, its branches adorned with vibrant autumn leaves in shades of red and orange. Nearby, a small campfire flickers gently, casting warm, golden light that dances on the nearby rocks and ripples in the water. The background reveals soft shadows of tall pine trees silhouetted against a gradient of deep blue and soft purple in the evening sky. The atmosphere is tranquil, with soft wisps of smoke rising from the fire blending into the cool night air. The overall composition combines natural beauty with a sense of warmth and stillness, rendered in a photorealistic style with rich colors and intricate details.
+Seed: 2292583215
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stillness, Fire

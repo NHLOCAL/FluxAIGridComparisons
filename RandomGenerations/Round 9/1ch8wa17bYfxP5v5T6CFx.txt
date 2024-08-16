@@ -1,0 +1,4 @@
+Prompt: A strikingly intricate photograph capturing a vintage, cracked mirror reflecting a deserted urban alleyway. One side of the mirror shows the alley in vibrant color, filled with lush greenery and blooming flowers, while the other side reveals it in monochrome, dusty with litter and shadowy figures lurking in the background. The contrasting scenes create a sense of duplicity, with a subtle hint of a figure standing at the center of the mirror, their expression ambiguous as they look towards both reflections. The lighting is soft yet dramatic, casting gentle shadows that enhance the duality of the atmosphere. The overall composition emphasizes the conflict between beauty and decay, inviting viewers to contemplate the juxtaposition of two realities within a single image.
+Seed: 3203014759
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Talent, Essence

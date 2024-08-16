@@ -1,0 +1,6 @@
+Prompt: A dramatic scene depicting a knight in shining armor standing at the entrance of a dark, foreboding passageway, with an expression of determination. The knight’s armor is intricately detailed, reflecting a blend of silver and gold hues, and worn battle marks. The passage is shrouded in shadows, with flickering torches casting long, ominous shadows along the stone walls. Cobwebs and dust suggest that the passage has not been traversed in a long time. In the background, faint outlines of ancient runes and symbols are carved into the stone. A chilling mist creeps out from the passage, enhancing the sense of foreboding. The lighting is dramatic, with highlights on the knight's armor contrasting sharply against the dimness of the passage. The overall mood is one of suspense and courage, inviting the viewer into a tale of adventure and challenge. 
+
+Cinematic, high detail, dramatic lighting, dark fantasy illustration.
+Seed: 3232124193
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Defeat, Passage

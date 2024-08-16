@@ -1,0 +1,4 @@
+Prompt: Create a powerful image depicting a solitary figure standing tall amidst a desolate landscape, embodying the theme of duty. The figure is clad in a weathered military uniform, with a determined expression that reflects resilience and commitment. The background features a stark, barren terrain illuminated by a brooding sky, filled with dark storm clouds that hint at an impending storm. A distant battlefield can be seen, shrouded in a haze, with remnants of battle equipment scattered throughout the ground. Harsh lighting emphasizes the figure's strong posture, casting dramatic shadows that highlight the rugged details of their uniform. The overall composition combines elements of realism and cinematic quality, creating a striking portrayal of unwavering dedication in the face of adversity.
+Seed: 511245126
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Change, Duty

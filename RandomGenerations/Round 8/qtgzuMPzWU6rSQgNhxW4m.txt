@@ -1,0 +1,4 @@
+Prompt: A hauntingly detailed illustration of a mausoleum constructed from gleaming copper, nestled amidst an eerie mist. The mausoleum features intricate carvings and ornate sculptures that depict forbidden desires, with figures entwined in passionate poses, their expressions frozen in time. Soft, diffused lighting highlights the reflective surfaces of the copper, creating an ethereal glow against the dark, moody background. The mausoleum stands tall, its arched entrance inviting yet foreboding, with creeping vines and shadowy silhouettes of trees surrounding it, enhancing the sense of mystery. The overall atmosphere is atmospheric and surreal, evoking themes of desire and secrecy, captured in a hyper-realistic style that emphasizes the contrast between light and shadow.
+Seed: 2667901646
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mausoleum, Copper

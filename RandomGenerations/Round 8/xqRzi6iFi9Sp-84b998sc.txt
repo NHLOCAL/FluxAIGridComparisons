@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic image capturing a bustling urban street scene during the day. The foreground features a diverse group of individuals engaged in various activities: a man reading a newspaper on a bench, a woman walking a dog, and a street vendor selling hot dogs from a colorful cart. The background showcases tall skyscrapers with reflective glass facades, decorated with vibrant advertisements and large billboards. The sky overhead is bright blue with a few fluffy white clouds, and the sun casts soft shadows across the scene, illuminating the lively atmosphere. The image should have intricate details, showcasing the textures of clothing, the food, and the environment, creating an immersive real-life experience. Photorealistic style, bright color palette, high contrast between light and shadow, 8K resolution.
+Seed: 3032077351
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Show, Reality

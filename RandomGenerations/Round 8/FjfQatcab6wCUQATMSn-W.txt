@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a close-up shot of a shiny, newly minted quarter resting on a football field. The quarter should be highly detailed, showcasing its intricate engravings and metallic finish, glistening under bright stadium lights. The grass of the field is vividly green, freshly cut, with yard lines clearly marked in white paint. In the background, capture a blurred image of cheering fans in the stands, with colorful team banners waving. The scene is set during a night game, with a dramatic sky overhead that hints at dusk, adding depth to the composition. The overall atmosphere should evoke excitement and competition, emphasizing the significance of the quarter as a symbol of chance and benefit in a game. Cinematic lighting enhances the contrast between the shiny coin and its surroundings, creating a dynamic and engaging visual experience.
+Seed: 4175525401
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quarter, Advantage

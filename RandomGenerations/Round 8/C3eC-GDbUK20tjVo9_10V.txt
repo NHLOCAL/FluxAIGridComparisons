@@ -1,0 +1,4 @@
+Prompt: A vibrant illustration of a flavorful feast laid out on a rustic wooden table. The spread includes an array of colorful dishes, showcasing a variety of cuisines such as spicy tacos, fresh sushi, and a vibrant Mediterranean salad garnished with herbs. The backdrop features a sunlit kitchen with warm, inviting lighting filtering through large windows, casting soft shadows across the table. Incorporate intricate details such as spices sprinkled around, fresh fruits in baskets, and elegant tableware to enhance the scene. The overall composition is lively, celebrating the joy of sharing a meal with friends and family, evoking a sense of togetherness and appreciation for diverse flavors.
+Seed: 1592910948
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Flavor, Respect

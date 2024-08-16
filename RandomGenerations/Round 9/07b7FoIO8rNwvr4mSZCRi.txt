@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic photograph capturing a striking scene of a masquerade ball. In the foreground, a woman in an elaborate golden mask adorned with feathers and jewels is gazing directly at the viewer, her expression conveying mystery and intrigue. Behind her, a lavish ballroom filled with elegantly dressed figures, each wearing their own intricate masks, dances under the soft glow of crystal chandeliers. The light casts playful shadows across the room, creating a sense of duplicity as some guests share laughter while others appear deep in conversation, their expressions hidden. The color palette is rich and vibrant with deep reds, golds, and blacks, emphasizing both the allure and deception of the masquerade theme. The atmosphere is grand, filled with opulence and elegance, inviting the viewer into this world of hidden identities and secrets.
+Seed: 2325645465
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Goblin, Hearing

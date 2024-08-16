@@ -1,0 +1,4 @@
+Prompt: An engaging illustration depicting a multicultural group of students, diverse in background and appearance, sitting together at a colorful school cafeteria table. Each student is actively participating in a vibrant discussion, with books, laptops, and school supplies scattered around. The background includes decorations of inspiring educational posters on the walls, warm lighting pouring in through large windows showcasing a sunny day outside. The scene captures a sense of camaraderie and collaboration, with expressions that convey focus and enthusiasm. The art style is vivid and cartoonish, emphasizing the joy of learning and friendship in a school setting.
+Seed: 3265195378
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Companionship, School

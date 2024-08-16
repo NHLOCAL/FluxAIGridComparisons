@@ -1,0 +1,4 @@
+Prompt: Could you please provide more details about the subject you'd like to include in the artistic prompt? For example, you can specify the type of scene, characters, objects, styles, colors, or themes. The more specific you are, the better I can tailor the prompt.
+Seed: 20831722
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Artistic, Subject

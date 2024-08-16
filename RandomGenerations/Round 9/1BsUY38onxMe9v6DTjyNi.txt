@@ -1,0 +1,4 @@
+Prompt: Create a stunning sci-fi/fantasy landscape photograph featuring a vast, alien terrain under a vibrant turquoise sky. The foreground should showcase towering, bioluminescent plants with intricate patterns and glowing orbs nestled among them. In the distance, elaborate rock formations rise majestically, resembling ancient structures carved by unknown civilizations. The lighting should be ethereal, with soft beams of luminescent light filtering through the alien flora, creating detailed shadows and highlights on the ground. High above, two moons of different sizes hang in the sky, casting a surreal glow over the scene. The overall atmosphere should evoke a sense of wonder and the beauty of diversity in nature. Ultra-high resolution, detailed textures.
+Seed: 2454359445
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Individuality, Acknowledgment

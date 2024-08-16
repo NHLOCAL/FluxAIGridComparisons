@@ -1,0 +1,4 @@
+Prompt: Create a dramatic scene showcasing a vast, desolate landscape under a dark, stormy sky. At the center, depict a towering, ancient stone monolith, which emanates an ethereal glow that illuminates the surrounding area. Surrounding the monolith, jagged rocks and barren ground stretch into the horizon, emphasizing the sense of isolation and silence. Dark clouds swirl ominously above, with flashes of lightning illuminating the scene intermittently. The overall color palette should consist of deep blacks, grays, and contrasting luminescent blues and purples. The angle should create a low perspective, making the monolith appear even more imposing, giving it an aura of power and mystery. The lighting should create sharp contrasts and dramatic shadows, enhancing the intensity of the moment.
+Seed: 4283420449
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silence, Power

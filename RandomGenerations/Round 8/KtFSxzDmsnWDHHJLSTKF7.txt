@@ -1,0 +1,4 @@
+Prompt: Create an image of a striking scene featuring a solitary mountain peak emerging dramatically from a thick, swirling mist. The mountain should be rugged and jagged, with sharp edges and rocky textures, partially obscured by clouds that wrap around its base, creating a sense of mystery. The color palette should include deep blues, grays, and hints of white to emphasize the ethereal quality of the mist. Soft, diffused lighting should illuminate the mountain from behind, casting a gentle glow that outlines its silhouette, while the foreground features subtle, shadowy tree silhouettes. The overall composition should evoke a sense of grandeur and tranquility, inviting the viewer to explore the hidden beauty within the mist. The style should be hyper-realistic, capturing the intricate details of the mountain and the soft, flowing nature of the mist.
+Seed: 2452194021
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Striking, Mist

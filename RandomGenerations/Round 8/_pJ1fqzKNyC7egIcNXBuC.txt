@@ -1,0 +1,4 @@
+Prompt: Create an image of a long, dimly lit tunnel that appears to stretch endlessly. The tunnel walls are made of rough stone, with moss and vines creeping along the edges. Flecks of light filter through small cracks in the overhead, creating a glimmering pattern on the damp ground. The air is thick with mist, adding a mysterious atmosphere to the scene. The perspective should be from the tunnel’s entrance, looking deeper into the shadows where the light fades. The colors should be muted and earthy, highlighting the textures of the stone and the life clinging to it. Soft, ambient lighting should illuminate the scene, enhancing its eerie feel while inviting the viewer to contemplate what lies ahead. The overall style should reflect realism with intricate details, creating a captivating yet haunting visual experience.
+Seed: 4147594189
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honesty, Tunnel

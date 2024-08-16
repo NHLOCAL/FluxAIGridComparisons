@@ -1,0 +1,4 @@
+Prompt: Create an image of a futuristic lounge scene featuring a sleek, humanoid android seated on a minimalist, ultra-modern couch. The android should have smooth metallic skin with luminous blue accents and expressive facial features, exuding a sense of tranquility. The background displays a panoramic view of a vibrant city skyline at dusk, with colorful neon lights illuminating the buildings. Soft ambient lighting fills the room, creating a warm and inviting atmosphere. A stylish coffee table in front of the android holds a holographic tablet displaying various data streams. The angle should be slightly elevated, capturing both the android’s relaxed posture and the stunning views beyond the large glass windows. The overall style should blend elements of science fiction and contemporary design, emphasizing sleek lines and a harmonious aesthetic.
+Seed: 1744417360
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lounge, Android

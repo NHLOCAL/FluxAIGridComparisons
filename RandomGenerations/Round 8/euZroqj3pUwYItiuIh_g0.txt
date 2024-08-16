@@ -1,0 +1,8 @@
+Prompt: Create an image of a resplendent lounge space, designed in an opulent art deco style. The room should be adorned with plush velvet sofas in rich jewel tones such as emerald green and sapphire blue, complemented by gold accents and intricate geometric patterns on the walls. A grand chandelier hangs from a high ceiling, casting a warm, inviting glow over the scene. 
+
+In the center of the lounge, a lavish marble coffee table is set with elegant glassware and an assortment of vibrant flowers in a striking vase. Floor-to-ceiling windows reveal a stunning view of a city skyline at sunset, with the sky painted in hues of orange, pink, and purple. 
+
+Elegant details such as art deco sculptures, ornate mirrors, and an ornate bar should line the walls, enhancing the luxurious atmosphere. The lighting should be soft yet dramatic, creating highlights and shadows that accentuate the textures of the fabrics and materials. The angle should allow the viewer to see both the lounge's refined furnishings and the breathtaking backdrop, embodying a sense of sophistication and grandeur.
+Seed: 3796142861
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lounge, Resplendent

@@ -1,0 +1,4 @@
+Prompt: Create a captivating, action-packed illustration of a skilled martial artist, Lane, performing an intricate spinning kick in mid-air. He has an athletic build, wearing a dark, fitted martial arts gi that highlights his precision and power. His hair is tied back, and a determined expression focuses on the unseen target. The background features a vibrant urban environment with tall skyscrapers under a brilliant blue sky, where the sun's rays create dramatic shadows on the ground. A slight motion blur enhances the energy of the scene, emphasizing the speed of Lane's kick. The overall color palette consists of bold, contrasting colors, with hints of warm sunlight illuminating the scene, making it feel dynamic and alive. The illustration should have a cinematic quality, showcasing Lane's mastery in martial arts.
+Seed: 1556033161
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mastery, Lane

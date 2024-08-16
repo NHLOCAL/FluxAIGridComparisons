@@ -1,0 +1,4 @@
+Prompt: Create a dramatic scene featuring a multi-headed hydra emerging from the icy waters of a vast iceberg. The hydra's scales should glisten with shades of deep blue and silver, mimicking the frozen landscape. Each head possesses fierce, glowing eyes and sharp fangs, hissing as they break the surface. The iceberg towers in the background, its jagged edges reflecting in the calm waters below, while shards of ice float around. Bright, cold sunlight illuminates the scene, casting sharp shadows and enhancing the texture of both the hydra and the iceberg. The atmosphere is one of wild power and ancient myth, blending the ferocity of the hydra with the tranquil yet imposing presence of the iceberg, set against a pristine blue sky. The style should evoke hyperrealism with intricate details in the scales and ice formations.
+Seed: 1636490797
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hydra, Iceberg

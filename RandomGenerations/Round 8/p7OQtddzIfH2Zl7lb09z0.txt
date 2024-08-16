@@ -1,0 +1,4 @@
+Prompt: A modern office setting located in a serene countryside environment. The interior features sleek, minimalist furniture, including a large wooden desk with a contemporary computer setup and an ergonomic chair. Large windows offer a panoramic view of rolling green hills, dotted with wildflowers and tall trees swaying gently in the breeze. The natural light flooding the room creates a warm and inviting atmosphere, highlighting the subtle textures of the wooden floors. A small bookshelf filled with greenery and inspiring books adds a touch of life to the scene. The background captures a clear blue sky with fluffy white clouds, enhancing the tranquil feel of the office space. The overall composition balances professionalism with the peacefulness of nature, creating a harmonious work environment.
+Seed: 108170060
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Office, Country

@@ -1,0 +1,4 @@
+Prompt: Create an image showcasing a dynamic and vibrant representation of antimatter. The scene features a swirling vortex of colorful particles, primarily blues, purples, and bright whites, representing the energy released from antimatter interactions. In the center of the image, depict a glowing sphere of antimatter, radiating intense light and emitting ripples of energy that distort the surrounding space. The backdrop should consist of a dark cosmic expanse filled with faint stars and nebulae, enhancing the sense of depth and otherworldliness. The style should lean toward a high-detail digital painting, emphasizing the intricate patterns and motion within the swirling particles, creating an awe-inspiring and captivating visual spectacle. Use dramatic lighting to highlight the contrasts and the ethereal qualities of the antimatter.
+Seed: 322279606
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Begin, Antimatter

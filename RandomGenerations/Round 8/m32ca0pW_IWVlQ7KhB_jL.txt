@@ -1,0 +1,8 @@
+Prompt: Create a cinematic illustration of a crowded subway scene just before the last train departs. The interior of the subway car is filled with a diverse group of passengers, each engaged in their own activities - some are looking at their phones, others are conversing, and a few stare out the windows lost in thought. The lighting is dim and moody, with the flickering overhead fluorescent lights casting shadows on the worn, colorful seats. 
+
+In the foreground, a wide-eyed child holds a toy in one hand while clutching an adult's hand with the other, contrasting against a backdrop of tired commuters. The backdrop features advertisements plastered on the interior walls, with a clock showing the time approaching midnight. 
+
+Through the transparent windows, the blurred outlines of a passing dark tunnel create a sense of speed and urgency, emphasizing the last moment before the train reaches its final destination. The overall atmosphere of the scene should evoke a blend of anticipation and nostalgia, encapsulating the feeling of an ending as the train prepares to depart into the unknown. The art style should resemble hyper-detailed, cinematic realism with a focus on character expressions and intricate details of the subway environment.
+Seed: 258860749
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Subway, Ending

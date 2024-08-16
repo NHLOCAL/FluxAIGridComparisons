@@ -1,0 +1,4 @@
+Prompt: A vibrant illustration of a bustling city street filled with diverse people engaging in various activities. The scene is viewed from a high angle, capturing the dynamic movement of pedestrians, cyclists, and vehicles. Colorful storefronts line the street, adorned with bright neon signs and window displays showcasing their merchandise. The sky is a clear blue, with fluffy white clouds scattered, casting soft shadows on the ground. Street vendors are selling colorful food items, and people are animatedly chatting and laughing, creating an atmosphere of lively excitement. The overall scene is rich in detail, with a focus on the textures and colors of the environment, highlighting the vibrant energy of urban life, illustration, cinematic, highly detailed.
+Seed: 3914133923
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sight, Excitement

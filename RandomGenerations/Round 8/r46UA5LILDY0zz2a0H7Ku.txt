@@ -1,0 +1,10 @@
+Prompt: Create an illustration depicting an adventurous clinic set in an otherworldly landscape. The clinic, resembling a futuristic medical facility, is embedded within a lush, vibrant jungle filled with giant, glowing flora and fantastical creatures. The architecture of the clinic features smooth, organic curves with large glass windows, allowing natural light to flood the interior. 
+
+In the foreground, a diverse group of adventurers—an armored knight, a tech-savvy healer, and a mystical creature—are seen entering the clinic, with expressions of wonder and curiosity. Surrounding them are floating bioluminescent orbs casting a gentle, ethereal glow, while exotic plants sway in the soft breeze. 
+
+The background reveals towering ancient trees with cascading vines, and a distant waterfall sparkling under the warm sunlight. Mist rises above the ground, creating a sense of mystery and enchantment in the air. The overall atmosphere should be inviting, yet infused with a sense of adventure, showcasing the wondrous blend of medicine and exploration in this fantastical setting. 
+
+Art style should be vibrant and detailed, evoking a sense of magic and discovery, with a focus on the intricacies of both the clinic and the surrounding environment.
+Seed: 1360523304
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Clinic

@@ -1,0 +1,4 @@
+Prompt: Create an image showcasing an elegant exhibition featuring a stunning display of ruby gemstones. The scene is set in a luxurious, dimly lit gallery, with soft golden spotlighting illuminating the rubies' vibrant red hues. The gemstones are artfully arranged in exquisite glass cases that reflect their brilliance. A backdrop of rich, dark velvet drapes adds a touch of sophistication. The floor is polished marble, enhancing the overall opulence of the space. Visitors, dressed in formal attire, can be seen admiring the display, their reflections subtly captured in the glass cases. The atmosphere is one of refined elegance, with shadows playing delicately against the warmth of the ruby colors, creating a dramatic and inviting visual experience.
+Seed: 3601298139
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ruby, Exhibition

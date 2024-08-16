@@ -1,0 +1,4 @@
+Prompt: Create an image of a crystal-clear mountain lake reflecting the towering peaks of the surrounding mountains. The water should be a pristine turquoise, with smooth, gently rippling surfaces. In the foreground, a vibrant meadow filled with colorful wildflowers such as daisies, lupines, and poppies enhances the scene’s richness. The background features majestic, snow-capped mountains under a bright azure sky with fluffy white clouds. Sunlight bathes the landscape in a warm glow, highlighting the textures of the rocks and flowers. The angle should be slightly elevated, capturing both the lake's surface and the surrounding scenery in a wide panoramic view, combining elements of realism and nature. Highly detailed, vibrant, and immersive.
+Seed: 1105394498
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Zeal

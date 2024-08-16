@@ -1,0 +1,4 @@
+Prompt: A visually striking illustration showcasing a solitary, intricately designed gray feather resting on a bed of dark, textured stone. The feather appears delicate and ethereal, with subtle variations in shades of gray, reflecting soft light that casts gentle shadows on the stone surface. The background is a blurred gradient of deep charcoal and black, emphasizing the feather's intricate details and creating a sense of depth. Soft, diffused lighting from above adds a touch of elegance, highlighting the curves and patterns of the feather while maintaining a serene and minimalist atmosphere. The overall composition invites contemplation and appreciation for the beauty of simplicity.
+Seed: 2039004304
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Choice, Gray

@@ -1,0 +1,4 @@
+Prompt: Please provide more specific details about the subject you'd like to create an image for, such as the type of product, its appearance, the setting, lighting, and style preferences. This will help me generate a detailed image prompt for you.
+Seed: 3231100748
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Product, Selection

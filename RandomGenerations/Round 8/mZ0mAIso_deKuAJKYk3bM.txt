@@ -1,0 +1,4 @@
+Prompt: Create a dark fantasy scene featuring a Basilisk, a mythical serpent-like creature with shimmering scales in shades of deep green and black. Its eyes glow with an eerie, penetrating light that seems to emanate a powerful, hypnotic aura. The creature is coiled around ancient stone ruins, partially overgrown with vibrant moss and creeping vines. The backdrop features a dim, misty forest with twisted trees and flickering lanterns hanging from the branches, casting a soft, haunting glow. The lighting is dramatic, with stark contrasts between the deep shadows and the shimmering highlights on the Basilisk's scales. The scene captures a chilling atmosphere of ancient magic and looming danger, evoking a sense of awe and fear in the viewer. The artwork is rendered in a hyper-detailed, cinematic style, emphasizing the mystique of this legendary creature.
+Seed: 2671985136
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pity, Basilisk

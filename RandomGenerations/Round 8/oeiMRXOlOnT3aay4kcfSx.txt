@@ -1,0 +1,4 @@
+Prompt: A stunning and vibrant illustration of a colorful planet floating in the vastness of space. The planet's surface is a rich tapestry of diverse landscapes, featuring towering mountains, lush green forests, expansive oceans, and vibrant swirling clouds in a mix of purples, blues, and greens. Surrounding the planet is a halo of stardust, creating a magical aura. In the background, an array of distant stars twinkle against the inky blackness of space, enhancing the sense of wonder. The overall composition captures a sense of celestial beauty and exploration, rendered in a dynamic and captivating art style with high detail and vibrant colors. The lighting varies from soft glows highlighting the planet's features to sharp reflections off the ocean surfaces, creating depth and dimension.
+Seed: 1698178679
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Art, Planet

@@ -1,0 +1,4 @@
+Prompt: Create a vibrant and enchanting illustration of a flourishing spell book lying open on an ornate, wooden table. The pages of the book are filled with intricate, glowing runes and detailed illustrations of mythical creatures. Surrounding the book, various magical items are scattered, including a shimmering crystal orb, a vintage quill and ink pot, and a small, delicately crafted potion bottle filled with an iridescent liquid. Soft, ambient lighting illuminates the scene, casting gentle shadows and creating a mystical atmosphere. The background features a dimly lit library with towering shelves filled with other ancient tomes, further enhancing the magical ambiance. The colors should be rich and saturated, emphasizing the wonder and allure of magical knowledge.
+Seed: 2061115999
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Splendid, Spell

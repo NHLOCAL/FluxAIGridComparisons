@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic illustration of a pearl sitting on a smooth, reflective surface. The pearl, perfectly round and lustrous, should display intricate iridescent layers, showcasing a spectrum of soft colors such as pink, lavender, and pale blue. Surrounding the pearl, create a backdrop of delicate ocean waves gently rolling onto a sandy shore, with tiny droplets of water sparkling as they catch the light. Use soft, diffused lighting to create a serene and tranquil atmosphere, highlighting the elegance of the pearl. The overall composition should evoke a sense of purity and natural beauty, with a slightly blurred effect in the background to focus the viewer's attention on the pearl itself. The art style should resemble ultra-realistic photography, emphasizing details like the smooth surface of the pearl and the subtle ripples in the water.
+Seed: 504801487
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reality, Pearl

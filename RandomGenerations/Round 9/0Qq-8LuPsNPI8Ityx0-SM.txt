@@ -1,0 +1,4 @@
+Prompt: Create a stunning photograph of a sci-fi/fantasy landscape, featuring a vast alien terrain illuminated by a colossal, iridescent moon shining in deep purples and blues. Jagged mountain peaks rise dramatically in the background, their surfaces shimmering with bioluminescent plants and colorful crystals. In the foreground, a serene lake reflects the extraordinary celestial light, surrounded by strange flora that appears to pulse gently. The sky is a swirling canvas of vibrant nebulae with bright stars twinkling amidst the colorful clouds. The overall composition should highlight the intricate details of the landscape, showcasing its surreal beauty and enchanting atmosphere. Use high-definition clarity to capture every subtle nuance, with an emphasis on the interplay of light and shadow in this otherworldly scene.
+Seed: 2027926784
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Passion, Technique

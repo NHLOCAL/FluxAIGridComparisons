@@ -1,0 +1,4 @@
+Prompt: Create a striking illustration of a mermaid sitting on jagged rocks in a tumultuous sea. The mermaid has sharp features and a fierce expression, with her long, flowing hair whipping wildly in the wind. Her tail is iridescent with a dark color palette, featuring shades of deep green and black, and its scales glimmer with an unsettling intensity. The background showcases stormy waves crashing against the rocks, sending sprays of frothy water into the air. Ominous dark clouds loom overhead, casting a shadow over the scene. The lighting is dramatic, with flashes of lightning illuminating the mermaid, enhancing the intensity of her gaze. The overall composition evokes a sense of danger and raw power, blending elements of beauty and menace in a dark fantasy style.
+Seed: 2368080838
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hatred, Mermaid

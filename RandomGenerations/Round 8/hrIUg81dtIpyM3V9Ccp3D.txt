@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a dense, misty forest during twilight. Tall, ancient trees with thick trunks and sprawling branches obscure the sky, creating a canopy. Faint beams of light struggle to penetrate the foliage, casting an eerie, dappled lighting effect on the forest floor. A narrow, winding path leads deeper into the wilderness, partially overgrown with ferns and wildflowers. Scattered shadows hint at hidden creatures lurking just out of sight, creating an atmosphere of uncertainty and doubt. The colors should be rich and moody, with deep greens, browns, and hints of twilight blue, emphasizing the mysterious and untamed nature of the setting. The perspective should be slightly low, drawing the viewer into the depths of the forest, evoking a sense of intrigue and apprehension.
+Seed: 583389676
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Doubt, Wilderness

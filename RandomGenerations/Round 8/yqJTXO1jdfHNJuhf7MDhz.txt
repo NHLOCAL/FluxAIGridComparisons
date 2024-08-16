@@ -1,0 +1,8 @@
+Prompt: Create a surreal illustration representing the concept of "forbidden desires" through a striking, blue-themed scene. The central focus is a beautifully detailed, anthropomorphic figure standing at the edge of a cliff, gazing into a swirling ocean of deep blue waves crashing below. The figure, draped in flowing garments that shimmer with iridescent blues, has elongated limbs and an ethereal glow, embodying the duality of desire and restraint. 
+
+In the background, a dark, starry night sky contrasts with the vibrant blue of the ocean, highlighting distant, luminescent celestial bodies. Wisps of fog curl around the figure's feet, creating an enigmatic atmosphere. The lighting is softly diffused, with moonbeams illuminating the scene, emphasizing the figure's contemplative stance. 
+
+Incorporate artistic elements inspired by surrealism, including dreamlike shapes and abstract forms that subtly suggest inner conflicts and emotional turmoil. The overall composition should evoke a sense of mystery, allure, and the complexity of human desire, inviting the viewer to reflect on the intangible nature of ego and yearning.
+Seed: 61941587
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Blue, Ego

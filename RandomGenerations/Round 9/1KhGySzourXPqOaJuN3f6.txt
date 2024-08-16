@@ -1,0 +1,4 @@
+Prompt: A close-up photograph of a beautifully crafted, split-faced mask. One side of the mask is intricately painted with vibrant colors, showcasing joy and celebration through smiling features, adorned with roses and delicate patterns. The other side is starkly different, rendered in dark hues and an expression of sorrow, adorned with wilting flowers and cracks, suggesting pain and struggle. The background is softly blurred, composed of dim light that subtly highlights the mask's details, evoking a sense of contrast and tension between the two sides, inviting the viewer to reflect on the complexity of human emotions. The lighting should cast gentle shadows, emphasizing the mask's texture and artistry, creating a serene yet thought-provoking atmosphere.
+Seed: 2735045191
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sorrow, Appreciation

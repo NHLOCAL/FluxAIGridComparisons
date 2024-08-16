@@ -1,0 +1,4 @@
+Prompt: Create an image of a visually striking bonfire gathering in a lush forest during twilight. The flames are vibrant with hues of orange, red, and yellow, casting warm light onto the surrounding greenery. A diverse group of people of various ethnicities and ages is gathered around the fire, sharing stories and roasting marshmallows. The background features tall trees silhouetted against a deep indigo sky, where stars are beginning to twinkle. Soft shadows dance around the scene, enhancing the cozy and inviting atmosphere. Utilize a photorealistic style, highlighting the details of the fire and the expressions of the people, creating a captivating, warm scene of community and togetherness.
+Seed: 2821895312
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fire, Variety

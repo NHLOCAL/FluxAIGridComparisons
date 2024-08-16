@@ -1,0 +1,4 @@
+Prompt: A surreal illustration depicting the concept of slowness as a tangible force. The scene features a large, exaggerated tortoise with an intricate and colorful shell, slowly traversing a vast desert landscape. Its movements create ripples in the sand, forming mesmerizing patterns. The background showcases a surreal sky with elongated clouds that appear to stretch and drag, further emphasizing the theme of slowness. The lighting is warm and golden, casting long shadows on the desert floor, while the horizon blurs into an ethereal haze. The overall composition creates a whimsical yet thought-provoking visual experience, merging fantasy with a sense of stillness and contemplation.
+Seed: 1908058653
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Slowness, Fact

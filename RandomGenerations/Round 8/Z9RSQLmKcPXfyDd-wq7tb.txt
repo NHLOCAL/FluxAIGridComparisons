@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic image of a geyser erupting in a volcanic landscape. The geyser should shoot steaming hot water and vapor high into the air, intertwining with molten lava flows that snake across the rugged terrain. The lava should glow with intense shades of orange, red, and yellow, contrasting against the cooler blue-white steam rising from the geyser. Surrounding the geyser, rugged black volcanic rock is illuminated by the fiery light of the lava. A dark, ominous sky filled with swirling gray clouds looms overhead, hinting at an impending storm. The overall atmosphere conveys a powerful and raw depiction of nature's fury, with dramatic lighting highlighting the contrasting elements of steam and lava. This scene should evoke awe, power, and the raw forces of nature in a stunning visual composition.
+Seed: 1242867645
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Geyser, Lava

@@ -1,0 +1,4 @@
+Prompt: Create an image featuring two elegantly designed luxury watches intertwined, symbolizing partnership. The watches should have distinct styles; one should have a classic silver stainless steel design with a vintage face, while the other is modern with a sleek black ceramic finish and a digital interface. The background should be a polished wooden surface that reflects the watches, enhancing their features. Soft, warm lighting highlights the intricate details of both watches, including the metal textures, watch faces, and straps. Capture the essence of timelessness and connection, with the scene evoking a sense of sophistication and collaboration. Aim for a hyper-realistic style, emphasizing the craftsmanship of the timepieces.
+Seed: 1752606829
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Partnership, Watch

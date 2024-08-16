@@ -1,0 +1,4 @@
+Prompt: Create an image depicting a grand outdoor celebration in a vibrant, lush garden setting. The scene should be filled with guests dressed in elegant attire, enjoying the festivities. Overhead, colorful banners and strings of warm fairy lights hang between trees, creating a magical ambiance. In the foreground, a beautifully decorated long table is laden with an array of delectable dishes and ornate floral centerpieces. Soft light from lanterns casts a warm glow over the scene, enhancing the enchanting atmosphere. The background features a picturesque sunset, with hues of pink, orange, and purple painting the sky, while lush greenery surrounds the area, creating a sense of intimacy and wonder. The overall composition should evoke a feeling of joy and celebration, capturing the spirit of a truly special occasion.
+Seed: 912677505
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Amazement, Occasion

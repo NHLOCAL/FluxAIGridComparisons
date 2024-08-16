@@ -1,0 +1,4 @@
+Prompt: Create an image of a lush forest at twilight, where ethereal light beams filter through the dense canopy of leaves, creating a magical atmosphere. In the center, a large ancient tree with a wide trunk and intricate bark patterns stands tall, its branches adorned with glowing orbs that resemble floating lanterns. Surrounding the base of the tree are vibrant patches of bioluminescent flowers and fungi, casting a gentle blue and green light. The ground is carpeted with soft moss, and small woodland creatures peek out curiously from their hiding places. The background features mist rolling in, enhancing the sense of wonder and enchantment, while the sky transitions from deep purple to dark blue, dotted with twinkling stars. The overall scene should have a vibrant color palette, emphasizing the magical aspects of the forest.
+Seed: 221228208
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Soul, Amazement

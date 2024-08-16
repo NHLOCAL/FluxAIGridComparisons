@@ -1,0 +1,4 @@
+Prompt: Create a captivating illustration of a futuristic robot designed to resemble a wave, embodying the essence of the ocean's tide. The robot's structure features fluid, curving lines and intricate textures that mimic the appearance of rushing water. It should be depicted mid-motion, as if crashing onto a virtual shore. The background features a digital landscape with vast ocean depths merging into a starry night sky, filled with shimmering stars and distant galaxies. Soft blue and turquoise lighting highlights the robot's features, as glowing patterns ripple across its surface, enhancing the illusion of flowing water. The angle should be slightly low, enhancing the grandeur of the tidal robot against the cosmic backdrop, creating an immersive and dynamic visual experience.
+Seed: 3158854231
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Artificial intelligence, Tide

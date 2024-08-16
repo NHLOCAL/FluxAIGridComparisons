@@ -1,0 +1,4 @@
+Prompt: Create an image of a futuristic space station orbiting a vibrant, swirling gas giant planet. The space station is intricately designed with sleek metallic surfaces and glowing blue lights, showcasing multiple observation decks and solar panels. In the foreground, an astronaut in a white spacesuit is conducting repairs on an external panel, with tools floating beside them in microgravity. Below, the gas giant features dynamic bands of purple, blue, and pink hues, creating a mesmerizing and colorful backdrop. The scene is illuminated by the distant sun, casting soft, warm lighting on the space station, while the star-filled void of space envelops the background. High resolution, hyper-detailed, and cinematic quality.
+Seed: 2050361753
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Genuineness, Station

@@ -1,0 +1,4 @@
+Prompt: A breathtaking panoramic view of a majestic mountain range under a clear blue sky, captured during the day. The mountains should display detailed textures, showcasing rocky cliffs, patches of lush greenery, and cascading waterfalls visible in the distance. In the foreground, include a vibrant meadow filled with colorful wildflowers swaying gently in the breeze. The sunlight bathes the entire scene, casting soft shadows and highlighting the natural beauty of the landscape. The angle should be slightly elevated, providing a sweeping view of the mountains and the vibrant meadow below, enhancing the sense of grandeur and tranquility. This image should evoke a feeling of serenity and connection with nature.
+Seed: 2797025280
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mountain, Day

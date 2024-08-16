@@ -1,0 +1,4 @@
+Prompt: Create an image of an elegant silk cloth draped gracefully over a beautifully set table for a high-end event. The silk has rich, deep colors—emerald green and royal blue—flowing in soft waves and reflecting light delicately. The table setting includes fine china with intricate gold detailing, crystal glassware glimmering in soft candlelight, and lush floral arrangements with vibrant blooms arranged artfully in the center. The background features a softly lit ballroom with luxurious chandeliers hanging from a high ceiling, casting a warm glow over the scene. The overall atmosphere conveys sophistication and opulence, with a focus on texture and intricate details, captured in a hyper-realistic style.
+Seed: 2726232163
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silk, Event

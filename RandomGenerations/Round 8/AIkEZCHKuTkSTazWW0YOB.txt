@@ -1,0 +1,4 @@
+Prompt: Create an illustration of a stunning tropical peninsula viewed from above, showcasing its rugged coastline curving into a bright blue ocean. The landscape features lush green palm trees and colorful beach umbrellas dotting the sandy shores. In the foreground, a modern product, like a sleek water bottle or stylish sunglasses, is casually placed on a beach towel, giving a sense of vacation leisure. The sunlight bathes the scene in warm golden tones, with soft waves lapping at the beach, creating a serene atmosphere. The sky is clear with a few fluffy white clouds, enhancing the bright, cheerful vibe of a perfect day at the beach. The overall composition combines elements of nature and modern lifestyle, inviting the viewer to imagine a day of relaxation by the water. Vibrant colors, high detail, photorealistic style.
+Seed: 3727797277
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peninsula, Product

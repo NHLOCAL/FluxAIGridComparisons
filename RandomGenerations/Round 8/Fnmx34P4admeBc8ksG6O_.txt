@@ -1,0 +1,4 @@
+Prompt: Create an image of an elderly person sitting in a cozy, warmly-lit room filled with bookshelves stacked high with colorful books. The individual, with deep wrinkles and silver hair, gazes in astonishment at an open book on their lap, illuminating their face with a soft golden glow. The room should have large windows allowing soft, natural light to filter in, with a view of a beautiful garden outside. Personal items like an old-fashioned clock and framed photographs adorn the shelves, emphasizing a sense of nostalgia. The art style should be hyper-realistic, capturing fine details, such as the texture of the skin and the glow of the book's pages, creating a serene and inviting atmosphere.
+Seed: 2391392601
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Astonishment, Recognition

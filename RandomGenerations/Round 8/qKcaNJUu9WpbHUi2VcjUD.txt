@@ -1,0 +1,4 @@
+Prompt: Create an image that portrays the concept of "power" through an imposing ancient stone throne seated atop a high cliff, surrounded by a dramatic stormy sky. The throne should be intricately carved with symbols of strength and dominance, such as lions and shields, and be illuminated by flashes of lightning that cast harsh shadows across the scene. The ground below is rugged and barren, emphasizing the isolation of the throne. In the foreground, a solitary figure in a flowing dark cloak stands with arms outstretched towards the throne, symbolizing a yearning to ascend to power. The figure should be partially obscured by the swirling winds and dark clouds, contributing to a sense of longing and desire. The artwork combines elements of high fantasy and dramatic realism, focusing on sharp contrasts between light and dark, with a cool color palette of deep blues and grays.
+Seed: 3924154245
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Power, Longing

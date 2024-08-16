@@ -1,0 +1,4 @@
+Prompt: Create an image of a dark, foreboding forest path shrouded in mist. Ancient, gnarled trees with twisted branches loom overhead, their bark appearing almost black in the dim light. The ground is covered in uneven stones and overgrown roots, leading the viewer deeper into the ominous woods. Soft, eerie shadows dance around the path as faint beams of moonlight filter through the leaves, casting an otherworldly glow. In the distance, a pair of glowing eyes can be seen peering from the darkness, hinting at an unseen presence. The atmosphere is thick with mystery, evoking a sense of trepidation and adventure. The overall color palette features deep blues, purples, and blacks, adding to the dark and enigmatic feel of the scene. Art style should emphasize realism with atmospheric depth, capturing the essence of a treacherous trek through a dark fantasy landscape.
+Seed: 1382555422
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Trek, Dark

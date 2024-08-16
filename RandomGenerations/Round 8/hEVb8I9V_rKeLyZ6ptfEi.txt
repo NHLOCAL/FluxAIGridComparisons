@@ -1,0 +1,4 @@
+Prompt: Create an image of a vast, open field under a bright blue sky, with fluffy white clouds dotting the horizon. The field is awash with vibrant wildflowers in various colors, swaying gently in a light breeze. In the foreground, a gentle hill rises slightly, adorned with tall, golden grasses that catch the sunlight. In the distance, a solitary oak tree stands tall, its lush green leaves providing a contrast against the colorful landscape. The lighting is warm and inviting, creating a serene atmosphere. The perspective is slightly elevated, giving a panoramic view of the tranquil setting, evoking a sense of peace and connection with nature. Art style emphasis on realism and high detail, focusing on the interplay of light and shadow across the field.
+Seed: 1158528262
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gale, Field

@@ -1,0 +1,4 @@
+Prompt: A mesmerizing illustration of a vibrant nebula, showcasing a cosmic landscape filled with swirling gases and brilliant colors. The nebula should feature deep purples, bright blues, and fiery oranges, creating a breathtaking contrast against the dark void of space. Shooting stars and twinkling distant galaxies can be scattered throughout the scene, adding a sense of depth and movement. The foreground may include ethereal wisps of light and energy, enhancing the surreal atmosphere. The overall composition should evoke a sense of wonder and the vastness of the universe, captured in high detail and vivid colors, resembling a cosmic masterpiece.
+Seed: 4086037151
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nebula, Result

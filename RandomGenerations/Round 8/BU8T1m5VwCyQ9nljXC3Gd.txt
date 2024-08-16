@@ -1,0 +1,4 @@
+Prompt: Create an image that symbolizes the concepts of esteem and duty through tangible elements. Depict a noble knight standing proudly on a rocky cliff, holding a gleaming sword raised high in one hand. The knight is clad in intricately detailed armor, reflecting vibrant sunlight. His expression is determined and focused. The background showcases a vast expanse of rolling hills and a distant castle, under a clear blue sky with a few fluffy clouds. The light should create a sense of honor and valor, with warm golden tones illuminating the knight's figure. The scene captures the essence of commitment, responsibility, and the nobility associated with duty and esteem, rendered in a grand, epic fantasy art style.
+Seed: 305416213
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Esteem, Duty

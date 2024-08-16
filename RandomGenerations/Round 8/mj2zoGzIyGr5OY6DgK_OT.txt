@@ -1,0 +1,4 @@
+Prompt: Create a cinematic illustration depicting a powerful, cloaked figure wielding a mysterious glowing orb in one hand, surrounded by swirling energies and symbols of control. The setting is an otherworldly landscape with towering, jagged rock formations and a stormy, luminescent sky above. The orb is pulsating with vibrant colors, illuminating the figure's face, which shows determination and strength. Dark shadows loom around, enhancing the sense of tension and power. The ground beneath the figure crackles with energy, distorting the air in a surreal, dreamlike fashion. The scene captures a blend of magical and dark themes, emphasizing the concept of control over unseen forces. Use a rich color palette to create a dramatic atmosphere, combining realism with elements of fantasy.
+Seed: 517955763
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chronicle, Control
