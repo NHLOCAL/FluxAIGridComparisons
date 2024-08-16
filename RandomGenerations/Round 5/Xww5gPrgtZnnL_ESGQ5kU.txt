@@ -1,0 +1,10 @@
+Prompt: Capture a candid street scene in a bustling, historic European city at twilight. The golden hour light casts long, warm shadows across cobblestone streets, emphasizing their worn and uneven texture. A narrow, winding alleyway lined with ancient brick and stucco buildings, whose façades are adorned with wrought iron balconies and vibrant flowering plants, leads the viewer's eye towards the background of the image. Soft, ambient noise from a nearby open-air café, where patrons are engaged in animated conversation and the clinking of glasses can be faintly heard, adds a layer of auditory richness. 
+
+The photograph should be taken at a slightly low angle, enhancing the perspective and making the alley seem even more inviting and magical. In the foreground, a street musician strums a classical guitar, his fingers moving deftly over the strings. His worn, weathered hands suggest years of practice and dedication to his craft. The light reflecting off the polished wooden surface of his instrument adds subtle highlights, complementing the warm tones of the scene.
+
+The style of the photograph is timeless, with a slight vignette to gently focus attention towards the center, creating a subtle sense of depth. The moment captured should feel spontaneous yet perfectly composed, making the viewer feel as though they are standing in the scene, hearing the soft strumming of the guitar mingling with the distant echoes of city life. 
+
+In the background, the silhouette of an old cathedral rises against the deepening sapphire sky, its spires piercing the twilight. Lanterns begin to flicker on, casting a gentle, golden glow that reflects off the rooftops and windows, illuminating the façade of the alley’s buildings with a soft, warm light. The overall composition should embrace the viewer's senses of sound and intuition, effectively turning an ordinary street into an extraordinary moment frozen in time.
+Seed: 161722799
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sound, Intuition

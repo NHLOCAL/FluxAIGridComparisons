@@ -1,0 +1,14 @@
+Prompt: A breathtaking gallery-worthy photograph captures the dramatic aftermath of a powerful hurricane that recently swept through a volcanic island. The scene unfolds at twilight, where the dimming light of the sun gives way to the deepening shades of dusk. The sky, laden with dark, swirling storm clouds that have just started to dissipate, looms ominously over the landscape, adding a sense of tension and grandeur to the image.
+
+In the foreground, a vast, rugged terrain of solidified black lava stretches toward the horizon. The jagged texture of the hardened lava, marked by ancient, twisted ripples, glistens with an almost metallic sheen in the low, slanting light. Here and there, steam rises from cracks and crevices, evidence of the still-cooling earth beneath.
+
+Amidst the sea of dark lava are uprooted trees, their splintered trunks and tangled roots starkly contrasting against the desolate ground. The remnants of a small, once-sturdy wooden house, reduced to scattered planks and debris, lie in disarray to the right of the scene, testament to the hurricane's ferocity.
+
+In the mid-ground, isolated pools of glowing orange-red lava punctuate the landscape, exuding an eerie, surreal luminescence as they slowly cool. These molten patches cast an otherworldly glow that reflects off the surrounding ruins, enhancing the stark beauty of nature's raw power and the fragility of human constructs.
+
+The background features the towering silhouette of a dormant volcano, its craggy, imposing peak partially shrouded in lingering clouds. The subtle play of light and shadow along its slopes creates a dynamic depth, pulling the viewer's eyes upward.
+
+The lighting is a complex interplay of the waning natural light and the luminous glow from the lava. It creates high-contrast areas with deep shadows and vibrant highlights, infusing the photograph with a dramatic, almost painterly quality. This masterpiece of nature's fury and geological wonder contrasts with the calm after the storm, encapsulating the resilience and ever-changing state of the natural world.
+Seed: 3088916542
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hurricane, Lava

@@ -1,0 +1,10 @@
+Prompt: A breathtaking photograph captures a scene set in an ancient cobblestone courtyard. The twilight sky is a muted palette of deep purples and soft blues, the last rays of the sun casting a gentle, golden backlight on the surrounding buildings. In the center of the courtyard stands an antique wrought iron bench, partially shadowed by an overgrown trellis dripping with fragrant purple wisterias. 
+
+Sitting on the bench, a couple is seen in profile. The man, dressed in a fitted dark trench coat, gently holds the woman's hand. She wears a flowing, vintage-inspired white dress that contrasts sharply with the dusk. Her hair, loose and wavy, cascades down to her shoulders. Both of their gazes are fixed on the ground, their faces softly illuminated by a nearby vintage streetlamp, casting long shadows and bringing out the texture of the cobblestones beneath their feet.
+
+Behind them, the background reveals an ancient, ivy-clad stone wall, its weathered surface adding historical richness to the scene. A stone fountain with a trickling stream of water stands to the side, its soft burbling sound almost audible through the image. The overall atmosphere is captured in a high-resolution photograph that renders every detail with sharp clarity, from the folds in the couple's clothing to the delicate petals of the wisterias.
+
+This scene, devoid of other human presence, emphasizes an intimate yet solitary feel, captured through the photographer's lens with a play of natural and artificial light that adds depth to the evolving shades of the evening.
+Seed: 1100476522
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lover, Melancholy

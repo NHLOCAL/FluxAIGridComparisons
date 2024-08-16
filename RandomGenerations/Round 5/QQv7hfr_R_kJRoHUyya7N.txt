@@ -1,0 +1,8 @@
+Prompt: A photograph capturing the haunting beauty of an ancient relic in the midst of a barren desert. The relic is a weathered, intricately carved stone monolith standing alone, partially buried in the golden sand. The monolith's surface, etched with runes and symbols, shows signs of erosion, hinting at untold centuries under the harsh elements.
+
+The setting sun casts long, dramatic shadows that emphasize the textures of both the sand and the relic, with the play of light and shadow revealing the monolith's deep carvings in sharp relief. The desert sky is a gradient of deep oranges and purples, transitioning into a twilight blue as stars begin to twinkle faintly. The background is expansive, with rolling dunes leading the eye towards a distant horizon lined with rugged, rocky outcrops. In the far distance, there are mirage-like formations that slightly shimmer, adding to the surreal quality of the scene.
+
+The overall style of the photograph is naturalistic with a focus on hyper-real clarity, achieving a subtle interplay between stark realism and the dreamlike qualities of the desolate landscape. The lighting is warm and saturated from the setting sun, enhancing the rich, earthy tones of the desert while casting a golden glow over the scene, underlining the ancient, timeless presence of the monolith.
+Seed: 3548281423
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Relic, Desert

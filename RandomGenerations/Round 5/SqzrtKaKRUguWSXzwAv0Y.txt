@@ -1,0 +1,4 @@
+Prompt: In a lush, verdant forest clearing, a young child with golden curls stands barefoot in the soft moss, their white cotton dress gently rippling in the breeze. The scene is illuminated by the warm, dappled sunlight filtering through the dense canopy of ancient trees, casting intricate shadows and creating a natural spotlight on the child. Nearby, a crystal-clear stream flows quietly over smooth stones, reflecting the sunlight in glittering patterns. The background is a tapestry of towering trees and thick underbrush, with wildflowers and ferns creating pops of color amidst the green. This photograph is captured in a hyper-realistic style, where every detail, from the texture of the child's dress to the individual blades of grass, is rendered with exquisite clarity. The overall atmosphere is one of serene natural beauty, captured with a sense of timeless wonder.
+Seed: 1346609683
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Babe, Notion

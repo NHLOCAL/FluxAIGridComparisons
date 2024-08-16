@@ -1,0 +1,10 @@
+Prompt: A high-resolution photograph captures a sunlit coastal scene at golden hour, where gentle waves kiss the shore, their edges glittering in the warm light. Two individuals stand together at the edge of the water, their silhouettes sharply defined against the glowing backdrop of the setting sun. One, a tall figure in a flowing linen dress, looks out towards the horizon. The other, slightly shorter and dressed in rolled-up trousers and a lightweight sweater, is captured in mid-laugh, their head tilted back.
+
+The lighting impeccably highlights the contours of their faces, casting soft, elongated shadows across the sandy beach. Their connected hands form a subtle focal point, illustrating a tangible bond of companionship. Behind them, the sky is a gradient of oranges, pinks, and purples, gradually deepening into blues as the sun sinks lower. A few wispy clouds catch the last rays of daylight, adding texture to the expansive sky.
+
+The style of the photograph is elegant and timeless, with a sharp attention to detail that elevates the scene beyond a candid snapshot. The background reveals distant cliffs with patches of green, framing the scene naturally without distracting from the couple. In the distance, a sailing boat drifts lazily, adding a sense of tranquility and endless possibility.
+
+This moment, encapsulated in a single frame, is presented with high clarity and color accuracy, making it a piece worthy of display in any art gallery. The composition celebrates the themes of togetherness and partnership through meticulous framing, lighting, and natural beauty.
+Seed: 3762754850
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Friend, Partner

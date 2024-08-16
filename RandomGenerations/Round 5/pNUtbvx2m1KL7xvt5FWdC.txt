@@ -1,0 +1,8 @@
+Prompt: A high-resolution photograph taken at twilight in the depths of a dense, enchanted forest. The scene is bathed in the soft, ethereal glow of bioluminescent fungi, casting an otherworldly blue-green light on the surroundings. A narrow, meandering footpath covered in a blanket of fallen leaves leads the eye to a serene clearing where an ancient, gnarled oak tree stands tall and imposing, its twisted branches stretching out like skeletal fingers.
+
+Hanging gracefully from one of the lower branches is a tattered, antique lace curtain, whispering secrets with each gentle breeze. The curtain appears almost ghostly, translucent and barely there, floating in the stillness of the forest like a spectral presence. The bark of the tree is rough and weathered, providing a stark contrast to the delicate fabric.
+
+The background features a dense wall of towering pines, their dark silhouettes forming a natural frame that enhances the sense of isolation and intimacy in the clearing. Soft beams of moonlight filter through the canopy, creating dappled patterns on the forest floor and adding depth to the image. A faint mist lingers near the ground, adding an element of mystery and enhancing the ghostly qualities of the scene.
+Seed: 3471401328
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ghost, Graceful

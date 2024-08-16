@@ -1,0 +1,4 @@
+Prompt: A meticulously composed black-and-white photograph features an ancient relic amidst an ethereal night sky. The centerpiece is a well-preserved, intricately carved stone artifact, illuminated by a soft, focused beam of white light from above, creating sharp contrasts and deep shadows that accentuate its worn textures and intricate carvings. The artifact is set against a backdrop of a sprawling galaxy, where countless stars and nebulae twinkle softly, their light diffused and muted, providing a stark yet harmonious contrast to the relic. The stars are captured with long exposure, creating delicate streaks of light that resemble the natural arcs of time passing. The overall scene is one of timelessness and awe, expertly framed with a minimalist approach to draw attention to the delicate interplay of light and shadow.
+Seed: 998100099
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Galaxy, Relic

@@ -1,0 +1,14 @@
+Prompt: A gallery-worthy photograph captures a serene coastal village at dawn. The scene is meticulously framed to showcase the delicate interplay between natural and architectural elements. The early morning light casts long, soft shadows across cobblestone streets, lending a gentle warmth to the image. The sky transitions from a deep, navy blue at the zenith to soft, pastel purples and pinks near the horizon, where the sun's first light kisses the earth. 
+
+In the foreground, there are quaint, whitewashed houses with terracotta roofs, their exteriors adorned with climbing ivy and potted flowers. Each building reflects the soft glow of twilight, creating a subtle gradient of colors that blend seamlessly into the background. Narrow alleyways between the houses lead the viewer’s eye deeper into the composition, suggesting exploration.
+
+Midground elements include a calm, azure bay, with small fishing boats moored in neat rows. Their reflections are rendered with crystalline clarity in the still water. The surface of the bay is interrupted only occasionally by a slight ripple, hinting at the gentle caress of a morning breeze.
+
+The background is dominated by rugged, verdant hills that rise sharply, creating a natural frame for the village. The vegetation on the hills is captured with precision, each leaf and branch rendered in crisp detail, showing the lushness of the landscape. A thin veil of mist clings to the lower slopes, gradually dissipating as the sun ascends.
+
+The style of this photograph is hyper-realistic, rendering every detail with breathtaking clarity. The range of tones, from the deepest shadows to the softest highlights, is expertly balanced to create a harmonious composition. Rich textures and colors are emphasized, adding depth and dimension to the scene.
+
+Overall, this photograph is a masterful study of light, color, and composition, capturing the timeless beauty of a coastal village at dawn with astonishing detail and subtlety.
+Seed: 1997311187
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Style, Range

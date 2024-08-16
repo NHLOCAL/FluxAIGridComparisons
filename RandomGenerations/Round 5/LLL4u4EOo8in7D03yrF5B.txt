@@ -1,0 +1,14 @@
+Prompt: A gallery-worthy photograph captures a suave, mid-century modern lounge scene. The photograph is framed horizontally, focusing on a meticulously designed living room. The room is dimly lit by an elegant, vintage chandelier hanging from the ceiling, casting a warm, intimate glow over the space. The lighting is soft and diffused, creating subtle shadows that accentuate the clean lines and sleek surfaces characteristic of mid-century modern design.
+
+In the foreground, a sophisticated, low-profile sofa in rich, dark leather is positioned diagonally, drawing the viewer's eye deeper into the scene. A glass-topped coffee table with polished, chrome legs sits in front of the sofa, on which rests a precisely arranged collection of retro magazines, a crystal decanter filled with amber liquid, and two artfully placed lowball glasses with a hint of condensation.
+
+Behind the sofa, the background reveals a floor-to-ceiling bookshelf built into the wall, filled with an eclectic mix of hardcovers and vintage decor items, meticulously organized but not overly symmetrical. A mid-century armchair with wooden armrests and plush, fabric upholstery is angled towards the sofa, suggesting a conversation awaiting between occupants.
+
+The walls of the lounge are adorned with abstract oil paintings in muted tones, framed in thin, minimalist frames. A large, round mirror with a thin, brass frame is strategically placed to reflect the chandelier, adding depth and interest to the background.
+
+A lush, dark green houseplant in a sleek, ceramic pot is situated in one corner, its broad leaves adding a touch of organic contrast to the otherwise geometric and clean design elements. The floor is a rich, walnut hardwood, partially covered by a deep blue, shag area rug that adds texture and a touch of opulence to the room.
+
+This image is a photograph, capturing the essence of mid-century elegance and refinement, with every element carefully curated to evoke a sense of timeless sophistication and understated luxury.
+Seed: 2593460134
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lounge, Suave

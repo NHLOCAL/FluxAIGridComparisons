@@ -1,0 +1,4 @@
+Prompt: "A photograph capturing a mysterious, fog-laden forest at dawn. The scene is dominated by tall, ancient trees with gnarled branches, whose rough, bark-covered trunks are partially obscured by the thick, swirling fog. The ground is carpeted with a dense layer of fallen leaves and moss, adding texture to the scene. Soft, diffused light filters through the canopy of leaves above, casting muted, ethereal beams that dance upon the mist. In the mid-ground, a barely visible figure draped in a flowing, diaphanous gown moves gracefully among the trees, almost blending with the fog, adding a touch of intrigue and allure. The background fades into an impenetrable wall of mist, giving a sense of boundlessness and depth. The photograph employs a monochromatic palette of charcoal greys and subdued whites, enhancing the overall dreamlike, otherworldly quality of the scene."
+Seed: 3587441935
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sensual, Fog

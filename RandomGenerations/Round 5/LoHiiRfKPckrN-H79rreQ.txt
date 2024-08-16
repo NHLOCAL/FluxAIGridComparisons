@@ -1,0 +1,8 @@
+Prompt: Capture an image of a serene, bustling harbor at dawn. The photograph should highlight a dozen moored boats gently bobbing on the calm, reflective water. Each boat varies in size and type, from small wooden fishing vessels to larger modern yachts, creating a harmonious blend of old and new. The soft, golden hues of the rising sun should cast a gentle glow on the water, reflecting the boats and casting long, delicate shadows. Masts and sails should be bathed in this warm light, with their crisp details clearly visible. The sky should feature a gradient from light pink near the horizon to a deeper blue above, with a few wispy clouds adding texture without detracting from the serene simplicity.
+
+In the background, a quaint harbor town should be visible. Old brick buildings and newer constructions should coexist, painted in pastel tones that catch the morning light. Dockside cafes with striped awnings, early risers sipping their coffee, and a few seagulls perched on the rooftops should add life to the scene. The overall atmosphere should be one of calm and quiet activity, with an air of anticipation for the day ahead.
+
+This photograph combines a realistic depiction of the harbor with an almost painterly attention to light and detail. Clean, sharp lines and a balanced composition ensure that the viewer’s eye moves effortlessly across the scene, taking in the rich details and variegated textures.
+Seed: 329550764
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Amount, Harbor

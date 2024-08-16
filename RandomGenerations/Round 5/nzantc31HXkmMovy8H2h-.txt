@@ -1,0 +1,10 @@
+Prompt: A mesmerizing photograph captures a surreal nocturnal coastline where the infinite sky meets the endless stretch of dark, glistening sands. Overhead, a sprawling galaxy of stars is vividly contrasted against the inky blackness of space, creating a celestial canopy that appears almost within reach. The Milky Way's dense, starry core dominates the upper left quadrant, casting a faint bluish glow over the scene, while the rest of the vast sky sparkles with countless hues of white and blue stars. 
+
+In the foreground, the shoreline acts as a natural barrier, with gentle waves kissing the sand, creating a shimmering, reflective surface that mirrors the starlit heavens above. The wet sands along the water's edge are speckled with tiny, bioluminescent organisms that echo the stars, making the boundary between earth and sky seem even more blurred. Driftwood and smooth, dark boulders sporadically adorn the beach, adding textural depth and a sense of scale to the scene.
+
+The lighting is predominantly natural, solely provided by the sky's celestial bodies. Soft moonlight bathes the landscape, adding silvery highlights to the water and sand while leaving the deeper shadows rich and dark, creating a dramatic contrast. This careful balance of light and dark, along with the serene composition, evokes a sense of timelessness and wonder.
+
+In the distant background, faint silhouettes of coastal cliffs loom, their jagged shapes softened by the gentle mist rising from the sea, hinting at the rugged beauty of the unseen land beyond the immediate view. The overall style is hyperrealistic, with impeccable attention to detail that captures both the grandeur and the intricacies of the natural world. This photograph stands as a testament to the awe-inspiring beauty of our universe, depicted through the delicate balance of the celestial and terrestrial realms.
+Seed: 747946421
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Galaxy, Barrier

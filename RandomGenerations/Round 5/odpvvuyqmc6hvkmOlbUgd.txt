@@ -1,0 +1,6 @@
+Prompt: A high-resolution photograph captures an empty, antique library room bathed in the golden hues of the late afternoon sun. Large, arched windows with intricate, wrought-iron detailing allow rays of sunlight to filter through, casting elongated shadows and illuminating particles of dust suspended in the air. Ornate wooden shelves, filled with leather-bound books in deep mahogany, line the walls, their spines facing outwards with gilded titles catching the light. An intricately carved, antique wooden table stands in the center of the room, its polished surface reflecting the delicate pattern of a nearby lace doily. 
+
+Resting upon the table is an old, brass astrolabe and a parchment map, partially rolled, hinting at uncharted territories. A vintage globe, slightly turned to one side, stands next to a dark-stained, high-backed armchair upholstered in rich velvet. The floor is covered in an elaborate Persian rug, its faded patterns revealing an intricate history. Along the back wall, a half-open, secret door slightly ajar suggests hidden passages and unseen worlds beyond. The lighting creates a chiaroscuro effect, emphasizing the rich textures and inviting the viewer to explore the layers and mysteries of the scene, evoking a sense of discovery and curiosity.
+Seed: 656292549
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Suggestion, Riddle

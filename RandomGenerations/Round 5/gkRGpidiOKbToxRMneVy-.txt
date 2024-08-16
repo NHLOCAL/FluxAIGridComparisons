@@ -1,0 +1,6 @@
+Prompt: In a serene woodland glade during the golden hour, tall ancient trees cast elongated shadows over a secluded pond. The soft, diffused light filters through the dense canopy, creating a mosaic of glowing patches on the forest floor and a gentle shimmer on the pond's surface. Standing by the water's edge, a majestic white deer with striking luminescent antlers dips its head to drink, its serene reflection mirrored perfectly in the still water. Surrounding the scene, a carpet of delicate, dew-kissed wildflowers adds a touch of ethereal beauty. In the background, the dense foliage and rich texture of the woodland create a lush, intricate tapestry, while occasional beams of golden sunlight break through, illuminating the scene like a natural spotlight.
+
+This gallery-worthy masterpiece appears as a high-definition photograph, capturing every fine detail with crystal clarity. The composition exudes an almost surreal tranquility and purity, akin to a diamond's flawless brilliance.
+Seed: 1069035501
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Impact, Diamond

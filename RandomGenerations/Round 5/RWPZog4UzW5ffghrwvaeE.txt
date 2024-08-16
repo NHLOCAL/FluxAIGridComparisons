@@ -1,0 +1,10 @@
+Prompt: A captivating photograph set within a grand aquarium hall. The scene is viewed through the pristine glass of a large, elegantly curved aquarium tank that stands center stage, filled with crystal-clear water and an array of vividly colored coral reefs. Soft, ambient lighting filters through the water, creating a serene, underwater glow that illuminates the unique textures and hues of the aquatic environment.
+
+In the foreground, two distinct schools of exotic fish swim gracefully; one comprised of small, iridescent tetras that shimmer like jewels, and the other of majestic, long-finned bettas, each with uniquely patterned scales that catch the light in a mesmerizing display. The fish move in harmonious synchronization, their movements fluid and composed, calling attention to the delicate distinction between the two species.
+
+A sophisticated interplay between natural and artificial lighting highlights the contrasting yet complementary hues of the coral and fish, resulting in vibrant reflections on the polished glass surface of the tank. The background reveals more of the aquarium hall, featuring an elegantly designed structure with sleek, modern lines and large windows that allow diffused daylight to cascade into the space, adding depth and dimension to the scene.
+
+Muted, neutral tones in the hall’s architectural elements frame the vibrant aquatic display, emphasizing the aliveness within the tank. The photograph captures the essence of stillness and motion, the refined distinction between natural beauty and human-crafted elegance, making it a striking piece fit for a gallery exhibition.
+Seed: 3066419408
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Aquarium, Distinction

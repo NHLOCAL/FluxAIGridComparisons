@@ -1,0 +1,10 @@
+Prompt: A photograph capturing an urban street at dawn, where the first light of day softly illuminates the surroundings. In the foreground, there is a dilapidated building with crumbling walls and barred windows, its facade marred by graffiti. A homeless man, wrapped in layers of tattered clothing, sits hunched against the building, his face partially hidden beneath a worn hood. 
+
+To his left, the street stretches toward a more prosperous part of town, where modern skyscrapers stand tall, their windows reflecting the golden hues of the sunrise. Luxury cars are parked along the curb, and a well-dressed businesswoman in a sleek, tailored suit strides purposefully toward the horizon, her leather briefcase swinging by her side. 
+
+The background includes a narrow alley filled with overflowing trash cans and a stray cat rummaging through the debris. The lighting is natural, with the gentle dawning light casting long shadows and highlighting the textures of decay and affluence side by side. 
+
+The style is hyper-realistic photography, capturing every detail with crisp clarity, from the wrinkles on the homeless man's face to the gleam of the skyscrapers' exteriors. The stark contrast between the old and the new, the neglected and the prosperous, is emphasized by the juxtaposition of these elements within the same frame.
+Seed: 581866443
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Inequality, Consequence

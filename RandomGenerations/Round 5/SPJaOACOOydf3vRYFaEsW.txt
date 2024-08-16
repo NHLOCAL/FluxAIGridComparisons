@@ -1,0 +1,12 @@
+Prompt: A gallery-worthy photograph capturing a serene early morning scene in a quaint village. The primary focus is a small, whitewashed cottage with a thatched roof, nestled amid a lush garden teeming with vibrant flowers in full bloom. A gentle light spills from a single window, casting a soft, welcoming glow on the cobblestone path that leads up to the front door. 
+
+The sun is just beginning to rise, casting long, golden rays that stream through the gaps between trees, illuminating the scene with a warm, tender light. Shadows are long and soft, adding depth and contrast without harshness. The sky overhead is painted in delicate hues of pink and orange, with the promise of a clear day ahead.
+
+To the side of the cottage, an elderly couple tends to the garden. The man, in overalls and a straw hat, waters the plants with a well-used watering can. The woman, in a floral dress and apron, gently trims the hedges. Their movements are unhurried and synchronized, suggesting years of practiced routine and companionship. 
+
+In the background, a rolling meadow extends toward a gently sloping hill, dotted with sheep grazing peacefully. A wooden fence borders the meadow, partially covered with climbing ivy and morning glories, adding texture and layers to the composition.
+
+The overall style of the photograph is naturalistic, with an emphasis on detailed textures and a harmonious color palette that enhances the sense of tranquility and simplicity of rural life. The image is shot in high resolution, using a wide aperture to create a shallow depth of field that keeps the focus on the cottage and the couple, while the background remains gently blurred, adding a dreamy quality to the scene.
+Seed: 2485891342
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tenderness, Sun

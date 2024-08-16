@@ -1,0 +1,12 @@
+Prompt: A gallery-worthy black and white photograph captures a serene, minimalist scene in an urban setting. The photograph is taken at dusk, where soft, diffuse natural light merges seamlessly with the early glow of street lamps. 
+
+The setting is a quiet street corner, characterized by a seamless blend of modern and vintage architecture. On one side, an old brick building stands with slightly worn edges, its sturdy windows reflecting the dim light. Directly opposite, a sleek glass structure with perfect lines and reflective surfaces subtly mirrors the scene. 
+
+Two people emerge as focal points, lying side by side on a modernist bench that is perfectly centered between the buildings. They are dressed in simple, timeless clothing - neither flashy nor overly detailed. Though their heads are turned in opposite directions, both are in a similar relaxed position, creating a sense of balance and symmetry in the composition.
+
+Behind them, the background subtly fades into a defocused array of distant buildings, street signs, and intermittent foliage, creating a depth of field that draws the viewer’s eye back to the central figures. The lighting casts soft shadows that accentuate the textures of the bench and bricks, while highlighting the smooth surfaces of the glass building.
+
+The monochrome palette is intentional, emphasizing form, light, and shadow over color. The photograph’s highly polished composition, clean lines, and harmonious blend of elements reflect an underlying theme of equality, depicted not through grand gestures but through simplicity and balance in the everyday.
+Seed: 3262139152
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Topic, Equality

@@ -1,0 +1,10 @@
+Prompt: In the foreground, a crumbling yet majestic Victorian house stands, its weathered wooden shingles peeling slightly. Tendrils of ivy wrap around the porch railings, hinting at years of neglect. The setting sun casts long, golden rays that filter through gaps between the buildings, creating an ethereal glow that bathes the scene in soft, warm light. Shattered stained glass windows catch these beams, projecting a spectrum of colors on the cracked pathway leading up to the entrance.
+
+The midground features a long-abandoned garden, overgrown with wildflowers and tall grasses. Rusty wrought-iron gates, partially concealed by dense foliage, frame the entrance to the garden. A vintage bicycle, with a slightly bent front wheel and flaking paint, leans against the gate. The bike's basket brims with dried flowers, evoking memories of bygone days.
+
+In the background, the sky is painted with the hues of twilight, a blend of fiery oranges and deep purples. The remnants of a burned-down barn are silhouetted against this vivid expanse. From the ashes of the barn, a single, beautifully detailed phoenix sculpture made of tarnished brass rises, as if soaring into the fading daylight. Trails of smoke softly curl around its wings, breaking into a dozen tendrils that disperse into the twilight, lending a dream-like quality to the scene.
+
+This photograph employs a vintage style, reminiscent of early 20th-century sepia-toned images, but with vibrant color accents where the sunlight and stained glass intersect. The combination of decay and rebirth is meticulously captured, suggesting stories and lives that have faded, leaving behind traces of their existence.
+Seed: 2101342013
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nostalgia, Phoenix

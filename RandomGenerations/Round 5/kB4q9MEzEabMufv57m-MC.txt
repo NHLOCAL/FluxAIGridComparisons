@@ -1,0 +1,10 @@
+Prompt: A meticulously composed photograph presents an aged, majestic castle towering against a cerulean sky streaked with soft, wispy clouds. The castle's timeworn stones are captured in sharp detail, the texture practically palpable, revealing centuries of weather and history. Ivy clings to the fortress walls and climbs toward the battlements, adding a layer of lush green amidst the gray and brown stones.
+
+In the foreground, the scene abruptly shifts to a modern, urban setting—an incongruous yet striking juxtaposition. A figure sits slumped against a rugged, graffitied wall that intersects harshly with the base of the castle. The figure wears worn, shabby clothes, their fingers curled tightly around a small, clear plastic bag containing a few remaining pills. A streetlamp above casts a cold, stark light directly onto the scene, illuminating the figure's haggard face and the telltale signs of weariness etched into their features. Shadows created by this light are sharp and angular, emphasizing the harsh reality of the urban decay.
+
+The background reveals a cityscape in a subtle blur, an expanse of contemporary buildings that fade into the horizon, creating a dreamy contrast to the sharp realism of the castle and the foreground. This technique draws the viewer’s attention to the contrasting elements of the scene – the ancient symbol of power and longevity against the all-too-modern, poignant symbol of struggle and degradation.
+
+The overall style of the photograph is hyper-realistic, with every element captured in high definition, making the scene feel vivid and immediate. The lighting is natural but carefully orchestrated to highlight the stark contrasts and intricate details within the frame, an artistic choice that anchors the surreal meeting of two disparate worlds in tangible reality.
+Seed: 1167005161
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Castle, Addiction

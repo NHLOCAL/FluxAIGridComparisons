@@ -1,0 +1,10 @@
+Prompt: A gallery-worthy photograph capturing the essence of a quiet, reflective moment on a secluded beach. The foreground features a weathered wooden pier stretching out into the distance, its surface worn smooth by years of salt and wind. The ocean water beneath the pier is a deep, crystalline blue, with gentle waves lazily lapping against the wooden supports. 
+
+The sun is setting on the horizon, casting a soft, warm golden light that illuminates the scene. Long shadows of the pier stretch across the sand, mingling with scattered seashells and smooth, wet stones. Above, the sky transitions from a vibrant orange at the horizon to a deep indigo, sprinkled with the first glimmers of evening stars.
+
+In the background, a small fishing boat can be seen anchored near the end of the pier, rocking slightly with the rhythm of the waves. Behind the boat, a distant line of rugged, tree-covered cliffs rises dramatically from the shoreline, their dark silhouettes contrasting with the softly-lit sky. The entire scene is bathed in a serene, almost ethereal glow that suggests a moment caught just as the day surrenders to night.
+
+The photograph uses a high dynamic range (HDR) technique to capture minute details from the shadows of the pier to the brightest parts of the sky. This clarity allows the textures of the old wood and the ripples of the ocean to be almost tangible, inviting viewers to lose themselves in the tranquil beauty of the moment.
+Seed: 3762058667
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Selection, Ocean

@@ -1,0 +1,10 @@
+Prompt: A gallery-worthy photograph portraying a vibrant cityscape celebration in a dieselpunk setting. The scene is illuminated by a blend of warm, ambient street lights and the soft glows of neon signage. The sky is a deep twilight blue, with a rusty airship hovering in the background, its searchlights sweeping across the bustling streets below. 
+
+Cobblestone streets are bustling with elegantly dressed party-goers, their attire a fusion of 1920s flapper fashion and rugged industrial gear. A grand parade floats down the street, featuring towering mechanical contraptions adorned with ornate brass and copper details, trailing steam and tiny sparks. The centerpiece is a magnificently large mechanical ticker-tape machine spewing metallic-colored confetti into the air.
+
+The architecture is a blend of Art Deco and industrial design; tall, imposing skyscrapers with intricate ironwork, their windows glowing with the soft, warm light of incandescent bulbs. Along the streets, there are various street vendors with elaborately designed carts, offering refreshments and mechanical trinkets.
+
+The photograph uses a high-contrast style with rich, saturated colors and deep shadows to accentuate the gleaming metal surfaces and the soft textures of vintage fabrics. This dynamic interplay of light and shadow gives a sense of depth and movement, capturing the energetic vibrancy of the dieselpunk celebration in this urban utopia.
+Seed: 689122409
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Celebration, Dieselpunk

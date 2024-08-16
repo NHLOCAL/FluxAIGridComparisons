@@ -1,0 +1,10 @@
+Prompt: A high-resolution photograph captures the surreal intersection of art and nature. It depicts a night scene in a dense, mystical forest, illuminated by an ethereal full moon hanging overhead. The image has a deep contrast with chiaroscuro lighting, where beams of soft, silver moonlight pierce through the thick canopy, casting intricate shadows on the forest floor. The dense foliage exhibits vibrant hues of emerald and jade, while the ancient tree trunks display textured bark steeped in shades of sepia and umber.
+
+In the foreground, a hidden, moss-covered crypt emerges partially from beneath the foliage, its weathered stone facade intricately adorned with archaic carvings and ivy tendrils. Soft mist weaves through the scene, adding a dreamlike quality and subtle highlights around the crypt and nearby foliage. Rich tapestries of stars peek through the tree tops, scattered across the deep indigo sky, augmenting the mystical ambiance.
+
+The background extends into the depths of the forest, shrouded in semi-darkness, where towering trees and dense underbrush create a sense of depth and an almost otherworldly labyrinthine structure. At the left edge of the frame, a glistening stream meanders through the underbrush, reflecting shards of moonlight that dance across its surface.
+
+This photograph captures the essence of ancient mystery and natural beauty in a highly detailed, lifelike manner, invoking the enchanting allure of forgotten history and the secrets held within nature's silent guardians.
+Seed: 2295472858
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Art, Crypt

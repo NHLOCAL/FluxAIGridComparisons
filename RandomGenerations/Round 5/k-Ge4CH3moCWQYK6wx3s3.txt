@@ -1,0 +1,8 @@
+Prompt: A large-format photograph captures the essence of a centuries-old library, bathed in the soft glow of the setting sun. The elegant, dimly lit space is characterized by towering mahogany bookshelves that stretch up to an intricate, vaulted ceiling adorned with classical frescoes. Large arched windows with leaded glass panels allow the golden-hour light to filter through, casting long, intricate shadows across the room. The floor is a checkerboard pattern of polished black and white marble, reflecting the muted, warm light.
+
+In the center of the scene stands a grand, wooden reading table, its surface cluttered with antique books and scrolls, their pages slightly yellowed and edges worn. An aged, brass globe sits at one corner of the table, surrounded by various scientific instruments such as a sextant, a magnifying glass, and an ink well with quill. Beside the table, a pair of plush, high-backed armchairs, upholstered in rich burgundy leather, invite curiosity and contemplation.
+
+The lighting is natural, with beams of sunlight creating a chiaroscuro effect, accentuating textures and details—such as the fine grain of the wood, the worn edges of the books, and the delicate cracks in the frescoes above. The photograph is taken with a large-format camera, ensuring sharpness and depth, giving the scene a timeless quality. This image transcends simple documentation, presenting a visual narrative that speaks volumes about the pursuit of knowledge and the refined taste of a bygone era.
+Seed: 210399545
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Knowledge, Taste

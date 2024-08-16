@@ -1,0 +1,8 @@
+Prompt: Scene: An intricately designed wrought-iron staircase spirals gracefully upwards, each step displaying exquisite craftsmanship. The stair treads are polished mahogany, their rich, dark hues contrasting with the delicate ironwork. Sunlight streams through an expansive arched window to the left, casting elongated, soft-edged shadows that dapple the staircase in an interplay of light and dark. The golden hour light bathes the scene in a warm, honeyed glow, enhancing the textures of the wood and metal.
+
+Background: The staircase is set within an elegant, turn-of-the-century foyer. High, ornately decorative ceilings frame the space, and the walls are adorned with ornate plasterwork and subtle frescoes, their designs reflecting a bygone era of grandeur. To the right of the staircase, a small, tastefully arranged side table holds a collection of vintage frames filled with black and white photographs, their silver frames catching the soft light.
+
+Style: This is a highly detailed photograph, capturing the intricate details and the timeless beauty of the setting with stunning clarity. The overall composition and lighting evoke a sense of history and craftsmanship, emphasizing the enduring beauty of carefully curated spaces.
+Seed: 1840229409
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fondness, Staircase

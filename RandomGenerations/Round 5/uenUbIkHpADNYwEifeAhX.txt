@@ -1,0 +1,4 @@
+Prompt: A black-and-white photograph capturing an elderly couple sitting on a wooden bench in a timeless, serene garden. The couple is framed by the intricate wrought-iron archway of a secluded garden sanctuary, covered in climbing ivy and delicate blossoms. Gentle streams of late afternoon sunlight filter through the dense canopy of ancient trees, casting soft dappled shadows on the cobblestone path. The man's hand rests protectively on the woman's shoulder, while she leans into him, holding his other hand with both of hers. Behind them, a manicured hedge defines the boundaries of this tranquil oasis. The bench beneath them is rustic and weathered, its worn wood smoothed by years of use. The background reveals a glimpse of a gently flowing stream and a stone bridge, completing the serene tableau.
+Seed: 3170341056
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Connection, Sanctuary

@@ -1,0 +1,8 @@
+Prompt: A gallery-worthy photograph captures a bustling city square at twilight, where the ambient light begins to shift from the pale blue of the evening sky to the golden warmth emitted by the street lamps and surrounding storefronts. The scene is anchored by a larger-than-life bronze statue of a dwarf, standing proudly in the center of a cobblestone plaza, its intricate details illuminated by upward-facing spotlights. The dwarf statue, with an expression of determined focus, holds a chisel and hammer, symbolizing craftsmanship and industriousness.
+
+Old brick buildings with wrought-iron balconies and colorful, slightly faded awnings frame the background, adding a sense of historical depth and charm. A street vendor's cart to the side is lit by a single, swinging bulb, casting long shadows on the ground. Pedestrians blurred by motion pass on the left side of the frame, lending a dynamic, lived-in feel to the scene without detracting from the focal point. The sky overhead transitions smoothly from the warm hues of sunset into the soft purple of early night.
+
+The overall style of the photograph is sharp and detailed, with a high dynamic range that captures the contrasts between light and shadow, highlighting the textures of the dwarf's statue and the worn cobblestones beneath it. The image is printed on a matte fine-art paper, giving it a timeless quality that draws viewers into the rich, story-filled setting.
+Seed: 2822477081
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: City, Dwarf

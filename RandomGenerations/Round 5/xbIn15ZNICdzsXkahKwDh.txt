@@ -1,0 +1,10 @@
+Prompt: A gallery-worthy photograph capturing a dramatic volcanic eruption at dusk. The scene is set on an isolated, barren landscape with rugged terrain and jagged rock formations in the foreground. The active volcano dominates the mid-ground, spewing vibrant, molten lava and thick plumes of ash and smoke into the twilight sky. The lava, a searing orange-red, contrasts sharply against the deepening indigo of the evening sky, creating a striking visual clash.
+
+The lighting is natural but intensified; the glaring brightness of the lava illuminates the immediate surroundings, casting long, distorted shadows across the rocky terrain. The sky above the volcano is streaked with dark clouds interspersed with a faint gradient from the setting sun, transitioning from fiery reds and oranges near the horizon to deep purples and blues higher up. 
+
+The style of the photograph is hyper-realistic, capturing the raw, unfiltered power of the volcanic eruption with crystal clarity and meticulous detail. The background features a distant range of dormant volcanoes and undulating hills, barely visible through the haze and illuminated by the subtle, diffused glow from the erupting volcano.
+
+The photograph’s sharpness and high contrast accentuate the textures of the lava, the ruggedness of the landscape, and the turbulence of the ash cloud, providing a visual spectacle that is both awe-inspiring and intimidating.
+Seed: 3671256197
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Volcano, Striking

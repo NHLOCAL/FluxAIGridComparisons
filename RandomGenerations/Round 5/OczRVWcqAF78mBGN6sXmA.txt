@@ -1,0 +1,8 @@
+Prompt: "Create a gallery-worthy photograph that captures an immense maritime scene. The central focus is a colossal sea creature, a Leviathan, emerging from the turbulent ocean. Its massive scales glisten under the moonlight, each detail painstakingly clear, reflecting shades of deep blue and emerald. The scene is illuminated by the stark contrast of silvery moonbeams piercing through the tempestuous night clouds, casting dramatic shadows across the creature and the waves.
+
+In the background, position an ancient, weather-beaten observatory perched precariously on a rocky cliff, lit sporadically by the flashes of distant lightning. The observatory's domed roof is partially open, and a large telescope is visible, pointed towards the Leviathan, hinting at a sense of awe and inquiry. The observatory's stone walls are adorned with creeping ivy and moss, adding an aged, rustic charm.
+
+The style leans towards hyper-realism, capturing every minute detail with sharp precision, akin to a high-definition photograph. The overall composition suggests an interplay between nature's raw power and humanity's quest for understanding, emphasizing a sense of scale and majesty through meticulously captured textures and lighting contrasts."
+Seed: 1366706539
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leviathan, Observatory

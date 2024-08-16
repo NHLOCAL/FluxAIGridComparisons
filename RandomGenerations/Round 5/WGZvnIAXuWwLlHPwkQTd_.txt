@@ -1,0 +1,8 @@
+Prompt: In an evening-lit room with high, ornate ceilings adorned with intricate moldings, a large bay window framed by heavy drapes allows the last rays of the setting sun to spill inside. The wooden floor reflects a warm golden hue, accentuated by the interplay of shadows from the adjacent, elegant furniture. Near the center, a vintage leather chair with rich, brown tones sits, perfectly angled to capture the light. Resting on the chair's armrest is a tarnished silver locket, its surface catching the light just so to draw subtle glints of reflection. 
+
+Framing the shot is a narrow crop that tightly focuses on the interplay between the chair, the locket, and the light, keeping the high ceiling just at the peripheral, hinting at the grandeur of the space without detracting from the primary elements. The background is softly blurred, featuring an antique bookshelf with a mix of leather-bound volumes and porcelain trinkets, maintaining the room's air of refined history.
+
+Lighting is natural but waning, creating a soft gradient of light and shadow that bathes the scene in a nostalgic warmth. The style is hyper-realistic photography, capturing the minutest details with clarity and reverence for texture. The composition and lighting invoke the sense of time's passage and the quiet weight of memories encapsulated in objects.
+Seed: 2986902624
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Crop, Basilisk

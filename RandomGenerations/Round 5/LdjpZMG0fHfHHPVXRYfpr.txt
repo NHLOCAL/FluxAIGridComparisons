@@ -1,0 +1,4 @@
+Prompt: A monochrome photograph captures an early morning landscape cloaked in dense fog. In the foreground, a twisted, leafless tree stands as a stark silhouette, its branches etched against the pale gray sky. Surrounding the tree, the ground is not visible—only a thick carpet of ashes that gives the scene a barren, desolate feel. Wisps of smoke rise from unseen embers in the background, curling into the fog and adding layers of depth to the image. The lighting is soft and diffuse, provided entirely by the overcast sky, evenly illuminating the scene without harsh shadows. The overall style of the photograph is minimalist, focusing on texture and contrast to create an evocative tableau. In the background, indistinct forms of other trees loom, partially obscured by the smoke and fog, giving a sense of infinite depth and isolation.
+Seed: 1251340929
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ash, Smoke

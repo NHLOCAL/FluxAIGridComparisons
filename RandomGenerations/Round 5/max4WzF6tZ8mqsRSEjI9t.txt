@@ -1,0 +1,10 @@
+Prompt: A photograph of an expansive desert landscape, portraying the vast and desolate beauty of an endless sea of dunes. The scene is captured at dusk, where the low-angle sunlight casts long, dramatic shadows across the sand, highlighting the ridges and undulations with warm amber tones that gradually shift to deep purples and blues in the shaded areas. The sky above is a gradient of fading daylight, from pale orange near the horizon to indigo and star-speckled black at the zenith. 
+
+In the foreground, a solitary, weathered piece of driftwood partially buried in the sand hints at the passage of time and the relentless erosion of the elements. The driftwood is bleached and smoothed, its gnarled branches stark against the smooth dunes, suggesting a long journey from a distant ocean. A gentle breeze lifts thin trails of sand, creating a subtle, ethereal mist around the base of the dunes, adding a sense of movement to the stillness of the scene. 
+
+The background reveals a seemingly infinite chain of dunes, their edges softening into the twilight haze, creating a sense of depth and isolation. A lone figure, clad in a flowing, earth-toned robe, stands atop a distant dune, gazing towards the horizon, their silhouette clear yet small against the vast landscape, embodying the scale of the environment. The posture of the figure, slightly hunched and leaning on a wooden staff, conveys a sense of weariness and solitude. 
+
+This photograph utilizes natural lighting to accentuate the textures and contours of the desert, with an emphasis on the contrast between light and shadow. The composition is carefully balanced to draw the viewer’s eye from the foreground details to the distant figure and beyond to the endless horizon, evoking the timeless and unforgiving nature of desert life.
+Seed: 3705524479
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dune, Sadness

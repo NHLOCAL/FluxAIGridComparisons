@@ -1,0 +1,8 @@
+Prompt: A gallery-worthy photograph captures a lone mountaineer, mid-climb, on a rugged, snow-dusted peak at dawn. The climber, clad in vibrant red and black gear, is frozen in motion, one hand gripping a jutting rock and the other reaching upward, fingers splayed toward the next handhold. The ropes and carabiners glint faintly in the emerging light. The sky, a blend of soft pastels—peach, lavender, and pale blue—stretches above, hinting at the sun's imminent rise. The mountainside, a mix of jagged rocks and crisp white snow, extends in all directions, conveying the grandeur and solitude of the scene. 
+
+The lighting is natural, with the first rays of dawn casting a gentle, golden glow on the climber's face and the mountain's textures, creating subtle contrasts and shadows. The lower part of the scene is still cloaked in twilight, darker and more mysterious, while the climber and the upper reaches of the peak are bathed in the soft, promising light of the new day.
+
+The style of this photograph is hyper-realistic, capturing every minute detail with crystal clarity—from the individual snowflakes clinging to the climber's gear to the rugged texture of the mountain rock. The background comprises an endless range of snow-capped peaks fading into the misty horizon, with wisps of clouds moving slowly across the sky, adding depth and a sense of infinite possibility.
+Seed: 3046970415
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Present

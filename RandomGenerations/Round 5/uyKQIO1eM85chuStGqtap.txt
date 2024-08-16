@@ -1,0 +1,4 @@
+Prompt: A photograph of a rustic, sun-drenched kitchen scene. The wooden kitchen countertop is covered with a variety of fresh breads, herbs, and aged cheeses displayed artfully on cutting boards, their textures and colors vibrant and inviting. The warm, golden sun streams in through a large, old-fashioned window with white frames, casting long, intricate shadows across the scene. Behind the counter, the backdrop consists of wooden shelves stacked with glass jars of spices, mustard jars, and vintage kitchen utensils. Hanging from the ceiling by metal hooks are a selection of copper pans, their surfaces gleaming in the light. The walls are made of distressed, weathered wood, giving a cozy yet elegant feel. This photograph captures the essence of a well-loved, lived-in kitchen, where the air is thick with the rich scents of baked bread, fresh herbs, and aged wood.
+Seed: 3282038571
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wood, Flavor

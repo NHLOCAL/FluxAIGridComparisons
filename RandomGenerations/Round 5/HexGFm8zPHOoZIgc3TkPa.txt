@@ -1,0 +1,4 @@
+Prompt: In the heart of a historic European city, an enchanting alleyway winds through centuries-old buildings, their facades adorned with intricate iron balconies and cascading ivy. The cobblestone path, worn smooth by countless footsteps, glistens with the remnants of a recent rain shower. Warm, golden light spills from antique street lamps and shop windows, casting elongated shadows that dance playfully across the ground. The soft ambient glow contrasts with the deepening twilight sky, where the first stars begin to appear. A distant clock tower looms in silhouette, adding a silent, timeless watchfulness to the scene. This gallery-worthy photograph captures a moment suspended between the past and present, illuminated by the interplay of light and shadow.
+Seed: 3479602924
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wonder, Alley

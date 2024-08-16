@@ -1,0 +1,8 @@
+Prompt: A stunning, gallery-worthy photograph captures an intimate moment of courtship in a rustic European village square. The scene is set at the golden hour, with warm, soft sunlight bathing the cobblestone streets and illuminating the ancient, weathered facades of quaint stone buildings in hues of amber and rose. In the foreground, a young couple stands close together, the man gently holding a single, freshly-picked wildflower as he offers it to the woman. She is slightly leaning forward, her eyes locked on the delicate bloom, her fingers just inches away from accepting it. Both are dressed in timeless, elegant attire; the woman in a simple, flowing white dress and the man in a tailored, classic suit. 
+
+Their faces are captured in profile, emphasizing the subtle tilt of their heads and the tender exchange. Behind them, vibrant flower boxes hang from windowsills, overflowing with blooms in shades of red, pink, and white. The background showcases a narrow alleyway leading into an open square with a quaint, stone fountain in the center. The light reflects off the clear water of the fountain, adding a sparkling effect.
+
+The photograph is in high resolution, capturing every detail with crystal clarity—the texture of the cobblestones, the subtle folds of their clothing, the intricate petals of the wildflower. The overall ambiance is one of timeless romance, the environment meticulously chosen to amplify the intimate connection shared by the couple, creating a serene yet vivid depiction of courtship.
+Seed: 3563632845
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Courtship, Heart

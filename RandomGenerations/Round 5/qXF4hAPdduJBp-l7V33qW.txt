@@ -1,0 +1,10 @@
+Prompt: A high-resolution photograph captures an ancient, underground dungeon bathed in the dim glow of flickering torchlight. The scene is set in a sprawling, labyrinthine chamber constructed from weathered, moss-covered stone blocks. In the foreground, a narrow, rusty iron gate—slightly ajar—casts intricate shadows across the rough-hewn floor. Chains and manacles dangle from the stone walls, their metal surfaces corroded by years of neglect and moisture.
+
+A series of stone steps lead up to a central platform, where a solitary, arched window with iron bars offers a glimpse of the outside world. The pale, moonlit sky beyond the window contrasts sharply with the warm, amber hues of the torchlight inside. Dust motes dance in the shafts of light filtering through the window, creating an ethereal, almost mystical aura.
+
+Suspended on the wall opposite the gate hangs an antique, tarnished mirror encased in a baroque frame, reflecting the soft, quivering light and hinting at the passage of time. The floor is strewn with remnants of tattered parchment, broken pottery, and the occasional skeletal remains, suggesting the dungeon's long-forgotten inhabitants.
+
+The photograph is meticulously composed, capturing every detail with a sense of depth and realism, emphasizing the textures and interplay of light and shadow. The style is hyperrealistic, with a keen focus on authenticity and precision, imbuing the scene with a haunting, almost timeless quality.
+Seed: 2265278377
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Longing, Dungeon

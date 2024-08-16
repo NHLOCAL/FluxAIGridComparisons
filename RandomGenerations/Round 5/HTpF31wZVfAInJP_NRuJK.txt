@@ -1,0 +1,8 @@
+Prompt: In a serene and meticulously composed photograph, a solitary, time-worn wooden boat rests gently on the still waters of a secluded, crystal-clear lake. The scene is shot during the golden hour, where the low-angle sunlight casts a warm, diffused glow across the landscape, illuminating the boat with a soft, amber light that enhances its rustic texture and details — the weathered planks, chipped paint, and intricate carvings suggesting stories of many voyages. The boat’s position creates a perfect balance, centered within the frame yet slightly angled to the right, leading the viewer’s eye towards a treasure hidden in plain sight.
+
+The background showcases a lush, untouched forest of towering, ancient trees whose dense foliage is reflected perfectly in the mirror-like surface of the lake, creating a harmonious symmetry. In the distance, mist rises delicately from the water, adding a layer of ethereal mystery. Tiny, sparkling droplets of dew, like precious gems, cling to the delicate spider webs strung between branches, capturing the light and subtly guiding the viewer’s gaze deeper into the frame.
+
+The photograph’s style is minimalist yet rich in detail, emphasizing natural beauty and tranquility, with a palette dominated by earthy greens, blues, and the golden hues of the setting sun. This composition flawlessly captures a harmonious blend of elements and the timeless beauty that lies within simplicity, inviting viewers to lose themselves in the serene and balanced world it presents.
+Seed: 3242073232
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Balance, Treasure

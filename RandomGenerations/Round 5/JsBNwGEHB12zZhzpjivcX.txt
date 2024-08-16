@@ -1,0 +1,15 @@
+Prompt: Title: "Surgical Precision"
+
+Description: 
+A hyper-realistic oil painting depicts a futuristic operating room bathed in stark, clinical lighting. In the foreground, an advanced android surgeon with meticulously detailed chrome limbs and lifelike synthetic skin is captured mid-operation. Their fingers are precise and steady, holding delicate surgical instruments that shine under the operating lights.
+
+The android's eyes, crafted to perfection with a blend of mechanical and organic elements, focus intently on the patient. In the background, an array of advanced medical technology lines the stark white walls. Transparent screens displaying vital stats and intricate holographic projections of anatomical data hover seamlessly in the air. The floor is polished to a reflective sheen, suggesting both sterility and sophistication.
+
+The lighting comes from overhead surgical lamps, casting sharp, well-defined shadows that emphasize the precision and advanced nature of the android. The cool, blue-tinged light enhances the sterile, almost otherworldly atmosphere of the room. The painting captures a moment frozen in time — the ultimate fusion of technology and medical science.
+
+The background details include a series of sleek, metallic cabinets and stainless steel medical trays organized meticulously, reinforcing the theme of sterile orderliness. The use of texture and fine brushwork gives depth to every element, from the smoothness of the android's synthetic skin to the cold, hard surfaces of the medical instruments.
+
+The style is a blend of hyper-realism and futuristic elements, making it a quintessential piece for a gallery exhibit, showcasing the precision and sophistication of future medical advancements.
+Seed: 4159716587
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Surgery, Android

@@ -1,0 +1,8 @@
+Prompt: A large, elegantly decayed, centuries-old portico stands as the focal point amidst a vibrant, overgrown garden drenched in the soft glow of golden-hour light. This grand architectural structure, with its weathered columns and cracked plaster, exudes a sense of timeless resilience. Dappled sunlight filters through the lush canopy of tall, verdant trees, casting intricate shadows on the aged stone. In the background, a sprawling mansion, partially obscured by climbing ivy, looms with an air of forgotten grandeur. 
+
+This scene is captured in a high-resolution photograph that exudes a painterly quality, reminiscent of classical oil paintings. The warm, ethereal lighting imbues the image with a sense of warmth and nostalgia, illuminating the dust motes dancing in the air. The composition is meticulously balanced, drawing the viewer's gaze down a gravel path lined with a riot of wildflowers in full bloom, leading the eye deeper into the seemingly endless garden.
+
+The photograph captures a moment suspended in time: a meticulously detailed visual narrative that blends the decaying elegance of historic architecture with the untamed beauty of nature reclaiming its space.
+Seed: 1147362759
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spectacle, Port

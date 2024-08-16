@@ -1,0 +1,16 @@
+Prompt: Title: "Starship Descent"
+
+The scene captures a vast, alien landscape under a night sky filled with stars so densely packed they cast a silvery glow over the terrain. A massive starship, futuristic in design with sleek metallic surfaces and intricate detailing, is descending from the sky. The ship's thrusters emit a soft blue hue, illuminating the area beneath with an ethereal light. Gravity seems to be distorted around the edges of the ship, creating a lensing effect that subtly warps the starlit backdrop.
+
+Foreground: Jagged, rocky outcrops peppered with luminescent crystals that emit soft, radiant colors - purples, blues, and greens. The ground appears otherworldly, with a mix of fine dust and alien vegetation, some of which glow faintly.
+
+Background: The horizon showcases towering alien structures, possibly natural formations or remnants of ancient civilizations, silhouetted against the star-filled sky. Nebulas in the distance add a splash of color to the sky, blending crimson, violet, and indigo hues.
+
+Lighting: The primary source comes from the starry sky and the ship's thrusters. Additional light sources include the glowing crystals on the ground and the soft, diffuse light from the distant nebulas. Shadows cast by the rocky outcrops and the starship add depth and dimension to the scene.
+
+Style: Hyper-realistic oil painting, with a focus on meticulous detail and rich textures. The smooth metallic finish of the starship contrasts with the rough, rocky terrain, and the soft, diffuse light creates a dreamlike quality.
+
+This gallery-worthy piece captures the majesty and intricacy of an advanced starship navigating an alien world, with gravity subtly influencing the scene, creating a sense of wonder and awe.
+Seed: 502201915
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Starship, Gravity

@@ -1,0 +1,4 @@
+Prompt: A striking photograph captures a sprawling, ancient Mediterranean olive grove at dusk, golden beams of the setting sun piercing through the gnarled branches of olive trees, casting long, intricate shadows on the fertile, rocky ground. Bathed in an ethereal light, the grove is a medallion of nature's resilience and time. The weathered silver-green leaves, glistening with traces of the day's dew, reflect a warm, soft glow that enhances their intricate textures. The background is a soft blur of rustic stone cottages nestled among the trees, their rough-hewn walls and red-tiled roofs catching and holding the last light. The style is photographic realism, with high detail and rich, warm tones that bring out the tactile essence of the scene. A light mist hangs in the air, diffusing the illumination to create a tranquil, timeless ambiance.
+Seed: 1711076537
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Medal, Illumination

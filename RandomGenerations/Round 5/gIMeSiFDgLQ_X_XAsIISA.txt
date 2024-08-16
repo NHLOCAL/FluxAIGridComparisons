@@ -1,0 +1,14 @@
+Prompt: A high-resolution photograph captures a solitary, weathered rowboat tethered to a crumbling wooden dock at the edge of a fog-shrouded lake. The photograph is taken at dawn, with the first slivers of light just breaking the horizon, casting a gentle, golden glow that softly kisses the surface of the still water, turning it into a silvery mirror. The boat's peeling paint and the moss cascading down the dock are rendered in striking detail, emphasizing the textures and the passage of time.
+
+In the foreground (Zone), the rowboat occupies a central position, with its bow slightly pointing to the left, leading the viewer's eye organically towards the worn dock planks. Thin ropes and fishing nets draped over the boat’s side add layers of complexity to the scene.
+
+The midground (View) reveals the silent, glassy expanse of the lake, where the reflection of the narrow wooden dock melts seamlessly into a blanket of morning mist. Further back, the dense fog begins to obscure the lush treeline, hinting at dense woods that circle the water body. Silhouettes of ancient, towering trees pierce the fog, with faint velvety green shades just discernible in the subdued dawn light.
+
+The background (View) dissolves into misty obscurity, with only an impression of the rolling landscape beyond, leaving much to the imagination. Soft gradients of the morning sky transition from deep blues to vibrant oranges and pale yellows, illuminating the mist and providing a delicate contrast to the otherwise cool-toned scenery.
+
+The lighting is natural and diffused, courtesy of the morning fog. Soft, ambient light wraps around every subject within the frame, creating gentle shadows that subtly highlight textures without harshness. This balanced, tender lighting evokes quiet solitude and timeless beauty, effortlessly inviting the viewer to linger and explore each detail.
+
+The style is hyper-realistic photography, beautifully balancing meticulous detail with serene landscape, creating a captivating piece that blurs the line between reality and art.
+Seed: 2680626929
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Zone, View

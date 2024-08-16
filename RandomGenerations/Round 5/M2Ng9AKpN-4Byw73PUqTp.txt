@@ -1,0 +1,4 @@
+Prompt: A luxurious, rectangular, marble-floored hallway bathed in soft, golden light from an opulent crystal chandelier hanging from a high, intricately molded ceiling. The lighting highlights the gleaming surfaces, including the polished brass accents and the rich mahogany of the furniture. Along the walls, large, ornately framed mirrors reflect the glittering light, adding depth and a sense of infinite space. At the end of the hallway, a pair of grand double doors made of dark wood with gold inlays stands closed, hinting at the richness beyond. The style is grandiose and immaculate, reminiscent of a bygone era of aristocratic opulence, exuding a sense of timeless perfection and immense wealth. This photograph captures every sumptuous detail with crisp precision, creating a visual testament to luxury and meticulous craftsmanship.
+Seed: 1047866422
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Perfection, Wealth

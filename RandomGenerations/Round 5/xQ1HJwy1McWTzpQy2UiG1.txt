@@ -1,0 +1,10 @@
+Prompt: A sweeping photograph captured during the golden hour on an expansive African savanna. The horizon is a blend of warm oranges and cool purples as the sun begins to set, casting a soft, diffused light that bathes the entire landscape. In the foreground, a solitary acacia tree stands tall, its distinct umbrella shape stark against the sky. Its leaves, kissed by the last rays of sunshine, display a delicate interplay of light and shadow.
+
+Scattered across the mid-ground, a herd of elephants can be seen, their massive forms casting long, exaggerated shadows on the dry, grassy plains. To the right, a lone giraffe is visible, its elongated neck reaching towards the treetops. The background features a distant mountain range, shrouded in a mist that adds to the depth of the scene.
+
+The sky above is vast and endless, dotted with a few wispy clouds that catch the fading light. A flock of birds in a V-formation is flying towards the horizon. The scene is not only a showcase of the raw, untouched beauty of nature but also a powerful reminder of its grandeur and scale.
+
+This is a high-definition photograph, with a hyper-realistic style that captures even the smallest details—from the texture of the elephant’s skin to the individual blades of grass. The lighting is natural, enhancing the majestic presence of the wildlife and the serene yet vast landscape, creating a visual that invites viewers to step into the untouched world of the African savanna.
+Seed: 186983195
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Savanna, Awe

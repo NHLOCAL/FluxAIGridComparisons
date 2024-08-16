@@ -1,0 +1,6 @@
+Prompt: A solitary lighthouse stands tall on a rugged cliff against the backdrop of an overcast sky at twilight, captured in a high-definition photograph. The lighthouse, with its weathered white exterior and red-capped dome, serves as the focal point. Its light pierces the dim evening, casting a stark, almost sterile beam across the churning sea below. Jagged rocks, slick with moisture, are meticulously detailed in the foreground, their dark, craggy forms contrasting sharply against the foamy, white caps of the waves that relentlessly crash against them. 
+
+The sky is a canvas of deep, muted grays and blues, with thick clouds hanging low, almost touching the lighthouse. The chiaroscuro effect is dramatic, with the lighthouse illuminated in crisp clarity while shadows deepen around the rocky shore. In the distance, the vastness of the ocean fades into the horizon, almost merging indistinctly with the sky. The combination of the sharp focus on the lighthouse and rocks, with the soft, diffused light of dusk, creates a palpable tension in the scene, capturing the interplay between light and dark, solidity and the ephemeral.
+Seed: 3781698765
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Dark

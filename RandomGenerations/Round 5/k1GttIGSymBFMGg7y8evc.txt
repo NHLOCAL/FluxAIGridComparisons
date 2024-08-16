@@ -1,0 +1,8 @@
+Prompt: In a lavish, dimly-lit Victorian parlor, the burnished brass sconces cast a warm, golden glow on the deep crimson wallpaper, creating an intimate ambiance. An intricately carved mahogany table occupies the center of the room, with a polished surface reflecting the soft light. Flanking the table are two elegantly upholstered velvet chairs in a deep wine color, angled slightly towards each other as if anticipating conversation. An ornate, antique rug with rich patterns and a medley of dark, harmonious colors spans the oak floor. Tall bookshelves line the walls, brimming with leather-bound volumes whose gilded titles catch the light sporadically, hinting at a world of wisdom and knowledge.
+
+In the foreground, a crystal decanter half-full of amber liquid rests on the table alongside two intricately cut glasses, one standing tall and the other laid sideways, suggesting recent activity. A silver tray lies beside them, holding an array of fine cuban cigars and a single matchstick. The background features heavy, silk curtains drawn slightly apart, revealing a glimpse of a moonlit garden outside, where ivy-covered statues and meticulously trimmed hedges bask under the serene, silver light. 
+
+The photograph captures the essence of classic, old-world refinement and camaraderie without the need for figures, offering a timeless still life that reflects an era where company and sight within an elegant setting converged seamlessly.
+Seed: 580201196
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Company, Sight

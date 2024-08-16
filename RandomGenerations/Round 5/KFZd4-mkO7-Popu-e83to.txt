@@ -1,0 +1,10 @@
+Prompt: Title: "Pharmacy Icon"
+
+Prompt: This scene is captured as a high-resolution, gallery-worthy photograph depicting an iconic, early 20th-century apothecary. The setting is an ornately-decorated interior with an abundance of period-specific details. Wooden shelves, laden with glass jars and ceramic pots filled with colorful powders, line the walls. A pristine, marble countertop sits at the center, gleaming under the soft, diffused lighting filtered through large, frosted windows. Brass scales and vintage apothecary tools are meticulously arranged on the countertop.
+
+In the background, an antiquated cash register made of brass and wood glints under the ambient light, completing the scene with a sense of authenticity. Handwritten labels on the jars and apothecary drawers display meticulously detailed calligraphy, evoking a bygone era of meticulous craftsmanship. Vintage medicinal posters, slightly faded with time, adorn the walls behind the shelves, adding layers of historical depth.
+
+The lighting is soft and natural, as if twilight is seeping into the room, casting gentle shadows that add depth and texture to the scene. There is a subtle interplay of warm and cool tones, with the warm wood contrasted against the cooler hues of the frosted glass and marble. The photographer has captured this image using a slightly wide-angle lens to showcase the intricacy and depth of the space, making the observer feel as if they can step right into this meticulously recreated snapshot of history. The composition is perfectly balanced, capturing all elements in harmonious detail, creating a timeless portrayal of an iconic pharmacy.
+Seed: 3013801430
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pharmacy, Icon

@@ -1,0 +1,14 @@
+Prompt: A high-resolution photograph captures an elegant, cosmopolitan scene in the heart of the city. 
+
+Foreground: The focus is on a well-dressed woman in her mid-30s standing on a broad, marble staircase leading to a historic building. She wears a flowing, midnight-blue evening gown with intricate silver beadwork that glimmers under the lights. Her hair is styled in a classic chignon, and she holds an ornate, vintage clutch. 
+
+Midground: The building behind her is an architectural masterpiece with tall, columned facades and large, arched windows that reflect the city lights. A grand chandelier hangs inside, visible through the windows. 
+
+Background: The cityscape glows with a blend of historic and modern buildings. Skyscrapers with glass exteriors tower in the distance, while closer structures include ornate, older buildings with detailed stone carvings. Streetlights line the cobblestone streets, casting a warm, golden hue. 
+
+Lighting: Ambient evening light gently illuminates the scene with a combination of soft streetlights and the cooler glow from the windows of buildings. The contrast between the warm and cool tones creates a sophisticated, timeless atmosphere.
+
+Style: The photograph exudes a sense of classic elegance, reminiscent of old Hollywood glamour combined with contemporary urban sophistication. The high clarity and rich color depth make it suitable for a gallery display.
+Seed: 3156814884
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: City, Elegant

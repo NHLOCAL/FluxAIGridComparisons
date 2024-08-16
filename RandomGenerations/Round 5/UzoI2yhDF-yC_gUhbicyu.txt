@@ -1,0 +1,10 @@
+Prompt: The scene captures a lone swallow in mid-flight, its wings outstretched as it soars against an expansive, stormy sky. The horizon is low, with towering, dark clouds rolling in, painted in shades of deep gray and bluish tones. A sliver of golden sunlight breaks through the clouds, casting dramatic highlights and long, fleeting shadows across the bird and distant, roiling sea beneath.
+
+The lighting is stark and contrasting, with sharp edges created by the interplay of sunlight and dark clouds. The photograph utilizes high dynamic range to emphasize details in both the bright and dark areas, creating a sense of depth and intensity in the image. The photograph style is classic yet modern, with a focus on natural light and weather elements to emphasize details and textures.
+
+In the background, a vast, tumultuous sea mirrors the sky’s turmoil, with waves crashing violently against rugged, jagged rocks scattered near the shoreline. Faint silhouettes of distant mountains line the far edge of the sea under the encroaching storm.
+
+This artwork is a high-definition photograph, rendered with a realistic yet poetic approach to detail. The clarity of the bird in its flight against the dramatic backdrop symbolizes a moment of pure, uncontrolled motion juxtaposed with the foreboding, volatile elements of nature.
+Seed: 1035150507
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Freedom, Fear

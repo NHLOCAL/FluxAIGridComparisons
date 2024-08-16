@@ -1,0 +1,8 @@
+Prompt: A full-color photograph captures an ancient, stone-walled tunnel that leads into a mysteriously dark distance. The tunnel's walls are rough and aged, showcasing centuries-old graffiti and half-eroded carvings, which hint at its historical significance. The floor of the tunnel is cobblestone, uneven and cracked, telling the story of countless footsteps that have traveled this path over time.
+
+The lighting is soft and diffused, emanating mainly from concealed, modern LED strips running along the bottom edges of the walls. This lighting casts a subtle, warm glow on the rugged stone, emphasizing the textures and adding a contemporary touch to the ancient setting. Small puddles of rainwater reflect the light sporadically, adding a shimmering effect to the scene.
+
+In the background, at the very end of the tunnel, there is a faint glimpse of daylight, which barely penetrates the tunnel, creating a stark contrast between the timeless, somber interior and the promising unknown outside. The style is realistic, with meticulous attention to detail that brings every crack and crevice of the historic tunnel to life.
+Seed: 4139050630
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tunnel, History

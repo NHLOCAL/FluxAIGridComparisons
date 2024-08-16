@@ -1,0 +1,10 @@
+Prompt: In this gallery-worthy photograph, envision an expansive snow-covered landscape at dawn, where the first light of day casts a soft, ethereal glow over the ground. At the center of the scene stands a large, ancient crystal, partially buried in the snow. The crystal, masterly carved with sharp, intricate patterns, reflects the ambient light, casting shimmering fragments of color onto the white canvas of snow around it. 
+
+The lighting is natural and diffused, with the subtle, warm tones of sunrise mingling with the cool, blue shadows of early morning. The sky above is a delicate gradient, transitioning from deep indigo at the horizon to a soft, pastel pink above. Snowflakes, falling gently, create a sparse yet palpable texture in the air, each flake catching light, adding depth to the scene.
+
+The style of the photograph is hyper-realistic with a focus on fine details and clarity. Every facet of the crystal and every drift of snow is rendered with sharp precision, making the photograph almost lifelike. The background portrays a sweeping view of distant mountains, their peaks touched by the same early light, adding a sense of vastness and serenity to the composition. 
+
+The photograph captures the quiet stillness of the moment, where the crystal stands as a focal point, silently commanding attention amidst the serene, winter landscape.
+Seed: 118402012
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stare, Crystal

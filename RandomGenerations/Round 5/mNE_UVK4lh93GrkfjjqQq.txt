@@ -1,0 +1,10 @@
+Prompt: A high-resolution photograph captures a serene coastal landscape at dusk. The foreground features an intricate, weathered driftwood tree, casting long, angular shadows against the fine-grained, golden sand. The driftwood’s gnarled branches seem almost sculptural, inviting the eye to explore their complex, twisted forms. Behind the driftwood, gentle waves of the ocean lap softly at the shore, their rhythmic motions creating a soothing, repetitive texture across the bottom third of the image.
+
+The midground reveals tide pools glistening under the waning sunlight, reflecting shades of amber and soft lavender. Small, colorful marine creatures can be seen within these pools, their vibrant forms adding unexpected spots of brightness. Further out, jagged cliffs rise on the left side, partially obscured by a thin mist. These cliffs are covered in lush, deep green vegetation that contrasts strikingly with the starkness of the trees and the muted color of the sand.
+
+The sky, occupying the upper third of the photograph, is a masterpiece of transitioning light: to the west, it glows in rich hues of oranges and purples, seamlessly blending into the deepening blues of the encroaching twilight to the east. Wispy clouds streak across, illuminated at their edges by the sinking sun, creating a dramatic chiaroscuro effect. The lighting overall is soft but luminous, a natural golden hour glow that accentuates textures and details without casting harsh shadows.
+
+The style of the photograph exudes elements of both realism and fine art, with meticulous attention paid to composition and natural beauty, capturing a fleeting yet tranquil moment in nature that feels both intimate and expansive. The background fades into subtle, blurred tones that hint at the vastness of the horizon, drawing the viewer’s gaze further into the scene, creating a sense of infinite space and timelessness.
+Seed: 4086704558
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Insight, Attraction

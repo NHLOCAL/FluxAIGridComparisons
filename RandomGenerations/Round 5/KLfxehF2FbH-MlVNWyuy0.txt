@@ -1,0 +1,12 @@
+Prompt: A vivid photograph capturing an old, desolate fort sitting on a rugged cliffside overlooking a tumultuous ocean. The fort's weather-worn stone walls are covered in creeping ivy and moss, with sections of the structure crumbling, hinting at its ancient past. Jagged rocks protrude from the cliff, framing the base of the fort and adding a sense of danger. The sky above is a swirling maze of dark, moody clouds, heavy with the impending threat of a storm, casting an eerie mid-afternoon light that filters through gaps in the clouds.
+
+In the foreground, a small, weather-beaten path winds its way up towards the fort, barely visible through the dense overgrowth. The terrain is rocky and uneven, marked with indentations from centuries of footsteps. Alongside the cliff, a rusted wrought-iron cannon sits, pointed out towards the horizon, a relic of forgotten battles.
+
+In the middle ground, the ocean is a roiling mass of dark, almost black waves crashing violently against the cliff, sending up sprays of foam and mist. The water's intensity is highlighted by the contrasting light breaking through the cloud cover, creating a dramatic interplay between light and shadow.
+
+Above the fort, piercing through the stormy sky, a futuristic spacecraft designed with a warp drive mechanism hovers silently. The ship's metallic surface gleams with an unearthly luminescence, its sleek, aerodynamic form in stark contrast to the ancient, terrestrial structure below. Blue and white energetic pulses throb along the edges of the ship, suggesting readiness for interstellar travel, and casting otherworldly reflections upon the wet stone of the fort.
+
+The overall composition, with its vivid lighting, deep contrasts, and the juxtaposition of the ancient and the futuristic, creates a striking, gallery-worthy photograph that captures the viewer's attention through meticulous detail and layered complexity.
+Seed: 881581100
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fort, Warp drive

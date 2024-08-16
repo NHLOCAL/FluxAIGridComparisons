@@ -1,0 +1,10 @@
+Prompt: A gallery-worthy photograph captures a serene coastal scene at sunrise. The ocean stretches out to the horizon, with a calm surface that reflects the soft pastel colors of the early morning sky, transitioning from light pink through lavender to a gentle blue. Gentle waves lap at the shoreline, their white foam glistening in the diffused light. 
+
+In the foreground, a cozy wooden deck extends outward, furnished with rustic wicker chairs and an elegant, weatherworn table. A plush, light beige throw blanket and a couple of magazines rest carelessly on the chairs, inviting the viewer to imagine themselves seated there. Nestled next to the chairs is a finely crafted wooden basket filled with fresh oranges and a glass pitcher of homemade lemonade, adding a touch of homeliness.
+
+To the side of the deck, a large canopy umbrella is open, casting a dappled shadow over parts of the seating area and creating a contrast between light and shadow that enhances the textures of the wood and fabric. Potted plants with vibrant green leaves sit at the corners of the deck, adding a splash of color and life against the weathered wood.
+
+In the background, a few seagulls can be seen soaring effortlessly over the water, and a dock with a few small, anchored boats gently sways with the current, creating a sense of balance and tranquility. The overall lighting is soft and natural, with the sun just beginning to rise, casting a golden hue over the entire scene, enhancing the warmth and inviting nature of the setting. The style of the photograph is hyper-realistic with meticulous attention to detail, capturing the peaceful essence of a quiet morning by the ocean.
+Seed: 2683311235
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Comfort, Ocean

@@ -1,0 +1,12 @@
+Prompt: A stunning photograph capturing the grandeur of a gothic cathedral at twilight. The scene unfolds as the last vestiges of the setting sun cast long, dramatic shadows across the vast stone edifice. The cathedral's towering spires reach upward, silhouetted against a sky transitioning from hues of burnt orange to deep indigo. Intricate stone carvings and stained glass windows, darkened yet discernible, bedeck the cathedral façade, hinting at the craftsmanship from centuries past.
+
+Foregrounding this monumental structure is a winding cobblestone path, slightly damp from a recent rain, its wet stones reflecting the ambient light and leading the viewer's eye towards the cathedral entrance. Nestled in the alcove of the massive wooden doors hangs an ancient amulet, catching a subtle glint of twilight on its metallic surface. The amulet appears almost mystical, adorned with emeralds and sapphires that faintly twinkle in the diminishing light.
+
+Soft, ambient lighting filters through the scene, enhanced by the occasional warm glow of lanterns mounted on wrought iron posts that line the pathway. These lights create pools of mellow illumination, contrasting gently with the darkening shadows.
+
+In the background, the cathedral's vastness is framed by ancient, gnarled oak trees, their leaves whispering in the evening breeze. Beyond the trees, the faint outline of distant rolling hills can be seen, shrouded in the mist of an impending evening.
+
+Overall, this photograph showcases a perfect blend of natural and man-made majesty, captured with a keen eye for detail, composition, and lighting, making it a truly gallery-worthy piece.
+Seed: 1885954942
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Amulet, Cathedral

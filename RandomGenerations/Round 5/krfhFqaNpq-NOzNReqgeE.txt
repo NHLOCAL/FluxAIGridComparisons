@@ -1,0 +1,8 @@
+Prompt: In the foreground of the gallery-worthy, hyperrealistic photograph is an elderly craftsman meticulously working at a vintage wooden workbench. His hands, calloused and precise, are intently carving an intricate wooden figure. He wears an aged leather apron, with scattered wood shavings adorning its surface. The lighting is soft but focused, coming from a single overhead pendant lamp, casting a warm, golden hue over the scene, with shadows that intricately highlight the textures of the wood and the wrinkles on his hands and face. 
+
+In the background, the walls are lined with shelves cluttered with tools and various wooden creations in different stages of completion, signifying years of dedicated craftsmanship. A small, dusty window allows a sliver of the fading evening light to creep in, illuminating floating particles in the air. The far corner displays a small, hand-painted sign that reads "Est. 1942", denoting the long-standing history of this workshop.
+
+The style of the photograph melds elements of realism with a slight sepia tone, evoking a timeless, historical atmosphere. It's as if the scene is suspended in a passing era where the craft is the capital, handed down through generations.
+Seed: 2197900184
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Generation, Capital

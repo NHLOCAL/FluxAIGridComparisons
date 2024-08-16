@@ -1,0 +1,10 @@
+Prompt: A high-resolution photograph captures the interior of an ancient convent. The scene is framed with meticulous precision, presenting a long, narrow corridor lined with aged, rough-hewn limestone walls. Natural light filters through a series of tall, arched windows on the left side, casting intricate patterns of light and shadow onto the polished stone floor. The windows are adorned with delicate, hand-carved wooden latticework that diffuses the sunlight, creating a soft, ethereal glow throughout the space.
+
+In the center of the frame stands a large, ornate crystal chandelier, suspended from the vaulted ceiling by a thick, wrought-iron chain. The chandelier's facets catch and refract the light, scattering prismatic hues across the walls and ceiling, adding a vibrant contrast to the otherwise monochromatic environment.
+
+The perspective of the photograph emphasizes the depth of the corridor, drawing the eye toward a distant, ornately carved wooden door at the far end. The door is slightly ajar, revealing a glimpse of a sunlit courtyard filled with lush greenery and blooming flowers, hinting at life and serenity beyond the quiet, solemn corridor.
+
+The overall composition is balanced, with the chandelier as the focal point, capturing the juxtaposition of the convent's austere, historical architecture with the opulence of the crystal. The lighting is soft and natural, enhancing the textures and materials, giving the entire scene a timeless, almost otherworldly quality.
+Seed: 772996830
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Crystal, Convent

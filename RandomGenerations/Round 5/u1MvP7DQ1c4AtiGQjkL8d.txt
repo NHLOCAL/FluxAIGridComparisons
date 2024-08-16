@@ -1,0 +1,10 @@
+Prompt: In the center of the frame, a richly-textured piece of silk flows gently in the air, its delicate folds and subtle sheen capturing the viewer's attention. The silk fabric is deep, royal blue, embroidered with intricate, gold emblems that gleam softly under the lighting. The emblems are an elegant depiction of mythical creatures and ancient symbols, their edges meticulously detailed as if telling a hidden story. 
+
+The background is minimalist—a smooth, dark, matte wall that provides a stark contrast to the opulent fabric, allowing each crease and shimmer to stand out. On the right side of the scene, a wooden stand, aged and rustic with visible grain lines, holds the silk aloft. Its natural texture and earthy tones complement the luxurious material of the silk, enhancing its splendor by juxtaposition.
+
+The lighting is moody and deliberate: a single, soft spotlight from the top left corner casts gentle shadows that accentuate the silk's texture while illuminating the gold emblems with a warm glow. This precise lighting creates depth and drama, highlighting the delicate interplay between light and shadow on the fabric.
+
+This scene is captured as a high-resolution photograph, framed to include just enough of the wooden stand to ground the silk in reality, while allowing the richness of the fabric and the artistry of the emblems to dominate the composition. The overall style is modern yet timeless, with a focus on material juxtaposition and detailed craftsmanship.
+Seed: 2809414188
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Emblem, Silk

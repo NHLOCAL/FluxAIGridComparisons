@@ -1,0 +1,8 @@
+Prompt: A high-resolution photograph captures a woman standing in the center of a dimly lit, abandoned warehouse with high ceilings and broken windows. The woman, nude and standing with poised confidence, is positioned in the middle ground. Her skin soft and glowing, illuminated by the dramatic, warm light of a raging fire that engulfs an old, rusted car in the background to her left. The flames, stark and desperate against the decrepit, shadowy industrial environment, cast dynamic flickers of light and shadow across her form. 
+
+The lighting is harsh and directional, emphasizing the texture of the cracked cement floor and the peeling paint on the walls. The contrast between the brightness of the fire and the surrounding darkness throws an array of intense highlights and deep shadows, defining the contours of her body in sharp relief. Wisps of smoke drift upwards, curling sensuously around her, blending seamlessly with the encroaching night. 
+
+In the backdrop, faint remnants of graffiti tag the walls, barely visible in the low light but adding a raw, gritty layer to the scene. The air seems thick and dense, captured in the stillness of the photograph, as embers float around the scene like glowing fireflies. The overall composition of the photograph is balanced yet tense, drawing the viewer's eye to the stark juxtaposition of the unyielding fire, abandoned setting, and the serene, statuesque figure. The photograph, sharp and evocative, blends elements of abandonment with striking human beauty, incarnating a sense of raw, natural resilience.
+Seed: 4098797792
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nudity, Fire

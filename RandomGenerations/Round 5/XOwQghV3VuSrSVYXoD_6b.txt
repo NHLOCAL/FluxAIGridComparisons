@@ -1,0 +1,8 @@
+Prompt: A high-resolution photograph capturing the interior of a vintage woodworking workshop bathed in natural daylight. The scene is set around mid-morning, with sunlight streaming through large, dusty windows on the left side of the room, creating sharp, defined beams of light that highlight floating specks of sawdust in the air. The windows have old, wooden frames with slightly peeling paint, adding character to the setting. The wooden workbenches are cluttered with various tools, including chisels, hand planes, and measuring tapes, all showing signs of wear from years of use. 
+
+In the foreground, a partially completed wooden chair sits on the primary workbench, its intricate joinery and smooth sanded surfaces showcasing the skill and precision of the craft. The background features walls lined with shelves, filled with neatly organized jars of screws, nails, and other hardware, as well as stacks of aged wooden planks leaning against the wall. 
+
+The floor is covered in a thin layer of sawdust, with paths of clear wooden planks where footsteps have brushed it aside. Hanging from the ceiling, a few old-fashioned incandescent bulbs provide additional, warm ambient light, casting a soft glow and creating long shadows. The scene is styled to capture the essence of a traditional, skillful trade, the textures of aged wood, and the meticulous order amidst creative chaos. The photograph emphasizes rich textures, fine details, and the play of natural and artificial light, making it both visually rich and immersive.
+Seed: 549444211
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Workshop, Day

@@ -1,0 +1,4 @@
+Prompt: A large, desolate shipyard during the golden hour. The scene is captured with a high-resolution digital camera, ensuring every detail is crystal clear. In the foreground, an old rusty crane towers over, casting long, sharp shadows across the cracked concrete ground. On the right, a line of dilapidated shipping containers, their surfaces streaked with decades of wear and tear. The background features a massive, half-constructed ship with scaffolding and beams silhouetted against a vividly painted sky of oranges, pinks, and purples. The lighting is natural and warm, with the sun low on the horizon, creating dynamic contrasts between light and shadow. The style is hyper-realistic, focusing on intricate textures and the interplay of light and dark. The atmosphere is still, with a faint haze lingering from the sea, adding depth and a sense of timelessness.
+Seed: 3964420114
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mission, Construction

@@ -1,0 +1,12 @@
+Prompt: A high-resolution photograph captures a serene coastal bay at dusk. The scene is framed from a slight overhead angle to showcase the intricate dance between the land and sea. The calm waters reflect the last light of the day, casting a gentle glow that transitions from gold to deep blue as the horizon approaches. 
+
+Low-tide reveals scattered tide pools dotting the sandy beach, where delicate ripples form natural patterns on the shore. In the mid-ground, a series of jagged rocks meander out into the bay, partially submerged and covered in weathered seaweed, adding texture and contrast to the scene.
+
+The lighting is soft and natural, stemming from the setting sun positioned just to the left of the frame, casting long shadows and imparting a warm, golden hue on the landscape. The subtle play of light and shadow highlights the undulating curves of the coastline and the intricate details of the rocky outcrops.
+
+In the background, a dense forest of evergreen trees lines the edge of the bay, their dark silhouettes contrasting sharply with the pastel sky. The sky itself is a gradient, with the deepest blues at the uppermost point seamlessly blending into the softer pinks and oranges closer to the horizon.
+
+The style of the photograph is contemporary realism, with an emphasis on fine detail and natural beauty. Every element is crisp and clear, capturing the quiet majesty of the bay. The composition directs the viewer's gaze naturally from the foreground, along the curve of the shore, to the tranquil expanse of the water, and finally to the distant tree line, creating a sense of depth and space. This image encapsulates a precise moment of stillness and natural harmony, inviting the viewer to reflect on the intricate beauty of the natural world.
+Seed: 1047144008
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bay, Mind

@@ -1,0 +1,12 @@
+Prompt: A tranquil scene unfolds at the edge of a rugged coastline, capturing the essence of nature’s raw beauty in a meticulously crafted photograph. The moment is set at the golden hour, just as the sun begins to dip toward the horizon, casting a warm, amber glow over the landscape. The sunlight dances across the gentle waves of the deep-blue ocean, highlighting the frothy white tips of each crest with a soft, shimmering sparkle. 
+
+In the foreground, smooth, round pebbles and clusters of seashells are scattered across a narrow strip of wet, dark sand that glistens under the light. To the right, jagged rocks jut out toward the sea, jagged yet majestic, covered in a delicate green moss that speaks to the life thriving in the harsh coastal environment. 
+
+The style of the photograph is hyper-realistic, with an incredible attention to detail, capturing every ripple in the water and the texture of the weathered stones. The background features a gentle curve of the coastline, leading the eye to a distant lighthouse poised on a cliff, its cylindrical form an austere silhouette against the slowly darkening sky, where soft hues of lavender and blush blend seamlessly into the deeper indigo of approaching twilight.
+
+Above, the sky is a canvas of fluffy, pastel-colored clouds, reflecting the waning daylight in a spectacle of subtle, warm tones. The lighting, though soft and diffused by the cloud layer, is strong enough to create long, delicate shadows that add depth and dimension to the scene without overwhelming it.
+
+This photographic masterpiece, printed on high-quality, glossy archival paper, would be at home in any gallery, drawing viewers into its serene yet powerful representation of the intersection between land and sea, light and shadow, human construction, and nature.
+Seed: 3950377401
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Coast, Ocean

@@ -1,0 +1,4 @@
+Prompt: A high-contrast black and white photograph captures a dilapidated, abandoned theater. The backdrop reveals peeling paint on the walls, torn velvet curtains framing the stage, and rows of broken, dust-covered seats. The lighting is stark with beams of sunlight piercing through the cracks in the ceiling, casting harsh shadows that define the crumbling architecture. In the center of the stage stands an ornate, but tarnished, grand piano with keys missing and its lid partially ajar. A faded, moth-eaten red carpet stretches from the stage into the audience section, dotted with fragments of plaster and debris. Hints of what once was grandiosity clamor for relevance amidst overwhelming decay, encapsulating a forgotten grandeur frozen in a state of irreversible decline.
+Seed: 3022430169
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ego, Failure

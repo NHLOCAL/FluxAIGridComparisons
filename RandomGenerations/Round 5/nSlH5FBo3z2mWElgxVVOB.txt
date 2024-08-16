@@ -1,0 +1,10 @@
+Prompt: A high-resolution photograph captures an expansive, luminous desert landscape just after dawn. The first light spills over the horizon, casting long, defined shadows that stretch across the undulating sand dunes. Each dune is perfectly sculpted, the ripples and ridges on the sand sharply defined and textured. The sky is a vivid gradient, transitioning from deep indigo to soft pink and gold hues, reflecting the nascent morning light. 
+
+In the foreground, a singular, weathered acacia tree stands resilient, its twisted branches reaching out like nature’s intricate artwork. Sparse tufts of desert grasses dot the sandy expanse, their fine blades shimmering with the dew of the early morning. A distant mountain range forms a dramatic backdrop, its craggy peaks softened by the warm glow of the sun. 
+
+The photograph is captured with impeccable clarity — every grain of sand, every leaf on the tree, and every gradient in the sky is rendered in stunning detail. The composition adheres to the rule of thirds, with the tree positioned off-center to the left, drawing the eye naturally towards the horizon and the vast open space beyond.
+
+The overall effect is one of both openness and mastery, showcasing the boundless openness of the desert and the photographer's expert ability to harness and encapsulate the raw beauty of nature in a fleeting moment. The viewer is left in awe of nature's grandeur, feeling both small yet connected to the vastness of the scene.
+Seed: 3222303426
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Openness, Mastery

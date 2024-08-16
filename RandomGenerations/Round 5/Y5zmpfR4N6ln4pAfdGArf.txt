@@ -1,0 +1,8 @@
+Prompt: A gallery-worthy photograph capturing a dilapidated, graffiti-covered urban alleyway at twilight. The alley is narrow, lined with worn, red-brick buildings adorned with a patchwork of faded posters and vibrant street art. Overhead, a tangle of electrical wires and fire escapes forms a chaotic network against the darkening indigo sky. A single, dim streetlamp casts a sepia-toned halo around a rusted, dented garbage bin overflowing with refuse, creating stark contrasts in light and shadow. 
+
+In the foreground, a stray cat with matted fur is perched atop the bin, its eyes gleaming as it surveys the scene like a weary guardian. On the right side, the crumbling remains of a chained bicycle lean against the wall, its tires flat and spokes bent. The ground is littered with discarded newspapers and broken bottles, emphasizing neglect and decay.
+
+The photograph employs a gritty, realistic style with high contrast and detailed textures to emphasize the roughness of the environment. The background fades into deeper shadows, with the occasional flicker of neon signs from distant shops providing sporadic, colorful glints that hint at life beyond the alley's confines.
+Seed: 4240995146
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conflict, Style

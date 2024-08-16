@@ -1,0 +1,8 @@
+Prompt: A meticulously detailed photograph captures a family of four standing at the edge of a cliff overlooking an expansive ocean during the golden hour. The lighting bathes the scene in warm, rich hues of gold and orange, casting long, soft-edged shadows behind the subjects. The twilight sun is low on the horizon, throwing a spectrum of colors across the sky with shades of pink, purple, and deepening blue blending seamlessly into the ocean's surface. The family stands close together, the parents positioned behind the children with hands gently resting on their shoulders, symbolizing unity and protection.
+
+The father, on the left, wears a tailored navy-blue shirt that contrasts with the surrounding warm tones, while the mother, on the right, is dressed in a flowing white dress that catches the soft sea breeze. The two children, a boy and a girl, are in the center wearing casual but coordinated outfits in pastel shades. Their attention is drawn to a point beyond the camera, enhancing the sense of depth and contemplation in the photograph.
+
+The background reveals a rugged, yet serene coastline with dark rocks mottled with white patches from seagull perches. Small, hardy vegetation clings to the cliffside in the foreground, while the distant sea merges with the sky in a delicate, hazy line on the horizon. The overall style of the photograph is modern and minimalist, emphasizing the natural interplay of light and shadow while capturing the essence of familial bonds amidst nature's grandeur.
+Seed: 2441870215
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spectrum, Family

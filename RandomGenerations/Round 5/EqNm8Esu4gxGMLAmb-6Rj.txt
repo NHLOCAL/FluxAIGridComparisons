@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting on a grand canvas depicts a serene yet haunting winter landscape, capturing the essence of captivity within nature’s grasp. The focal point is a solitary, ancient oak tree in the middle of a frozen lake. Its gnarled branches reach skyward, encased in thick layers of pristine, crystalline ice, reflecting a myriad of delicate blues and whites. Each ice-encrusted limb glimmers as if enshrined in glass, betraying the strength and age of the tree, now immobilized in its frigid prison.
+
+Surrounding the lake is a dense, snow-covered forest, the towering pines densely packed, their dark silhouettes contrasting starkly with the glistening white snow. The background showcases an overcast sky, heavy with the promise of more snow, casting a milky, diffused light over the scene, with no direct sunlight to disrupt the tranquility. The light is soft yet pervasive, flattening shadows and creating a sense of uniform stillness.
+
+In the foreground, a lone crimson cardinal perched on one of the frozen branches adds a stark splash of color, symbolizing a distant hope or a defiant spirit against the entrapment of winter’s chill. The meticulously detailed bark of the tree and the feather patterns of the bird speak to the artist’s mastery, turning the commonplace into a nature-bound monument.
+
+The overall composition, with its icy intricacies and the silent, enveloping woods, evokes a sense of enshrined calm, the natural world captured in suspended animation. Visitors to this gallery piece will find themselves leaning in to appreciate the detailed textures, feeling the cold seeping through the canvas, and marveling at the patient captivity of time itself.
+Seed: 1616662264
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Captivity, Masterpiece

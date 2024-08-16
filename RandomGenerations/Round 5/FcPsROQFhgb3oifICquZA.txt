@@ -1,0 +1,8 @@
+Prompt: An oil painting captured on a grand canvas, depicting a lone ancient oak tree standing sentinel-like atop a rugged cliff, overlooking a vast and timeless landscape. The tree’s gnarled branches stretch skyward, silhouetted against a twilight sky painted with deep, vibrant hues of indigo and violet, as the last slivers of golden sunlight ignite the horizon. The bark of the oak, textured and worn, tells tales of centuries past, its roots gripping the earth with unyielding resolve, embedded deeply within the rocky outcrop. The ground beneath is scattered with leaves, each meticulously detailed with the precision of a master artist’s brush. 
+
+In the background, distant mountain ranges form soft, undulating lines, painted in muted greys and blues, evoking a sense of endless time and endurance. The lighting in the scene is dramatic and contrasting, with sharp shadows cast by the tree and rocks, enhancing the tree’s robust form. Subtle gradients of light and shadow play across the canvas, bringing to life the resilience embedded in nature’s monument.
+
+The style is hyper-realistic, capturing every minute detail from the texture of the bark to the delicate interplay of twilight colors. The background includes a serene, almost ethereal view of rolling hills that fade into soft mist, suggesting the boundless passage of time. This masterfully crafted oil painting elicits a deep sense of history and continuity, portraying strength and eternity through the resilient oak and the perpetual landscape.
+Seed: 3967085548
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Strength, Millennium

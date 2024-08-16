@@ -1,0 +1,8 @@
+Prompt: An oversized, jagged rock emerges from the depths of a stormy sea, its surface glistening with the sheen of emerald-tinted algae. The sea is tumultuous, with waves crashing against the rock, sending sprays of mist into the air. Positioned at the peak of the rock, a colossal, intricately carved sculpture of a Leviathan, its serpentine body wrapping around the rock, its head rearing towards the dark, oppressive clouds overhead. The Leviathan's scales shimmer, capturing the hint of emerald in the daylight, while its eyes, glistening obsidian, seem almost alive amidst the chaos of the sea. 
+
+The lighting is natural, provided by an overcast sky that casts a diffused, grey light over the entire scene, highlighting the textures of the rock and the sculpture in a stark, dramatic manner. Occasional streaks of sunlight pierce through the clouds, creating sharp contrasts and casting long shadows that stretch and warp across the scene. The background is dominated by the endless expanse of a churning ocean, with distant, indistinct forms of other rocky outcrops barely visible through the curtain of mist and spray.
+
+Shot in a high-definition photograph style, the scene captures the fine details – every scale of the Leviathan, every ripple in the water, and every crevice in the rock – with impeccable clarity. The composition draws the viewer's eye along the swirling motion of the sea and up towards the dramatic figure of the Leviathan, ensuring an engagement with every intricate element of the scene.
+Seed: 251534568
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Emerald, Leviathan

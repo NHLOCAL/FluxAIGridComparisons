@@ -1,0 +1,8 @@
+Prompt: In this gallery-worthy photograph, a vast, serene glacier stretches across the frame with its magnificent white and cerulean ice formations glistening under a soft, ethereal light. The light, emanating from a low-hanging sun barely kissing the horizon, casts a gentle golden hue on the icy surface, highlighting the intricate textures and pure beauty of the glacier. In the background, towering snow-capped mountains loom silently, their peaks shrouded in a thin veil of wispy clouds that drift lazily in the crisp, cold air.
+
+The photograph captures the essence of stillness and the enduring power of nature, with the glacier's immense presence dominating the foreground. As you look closer, a delicate mist rises from the glacier's core, giving an almost ghostly, intangible quality that suggests depth and history, as if the glacier holds stories of old, whispered through the ages. The surrounding landscape is untouched, pristine, with a few hardy fir trees clinging to the rocky outcrops that frame the scene, adding a sense of scale and resilience.
+
+The composition is meticulously balanced, with the curvature of the glacier leading the eye naturally through the frame, while the gentle side lighting from the sun emphasizes the contours and shadows, adding a three-dimensional aspect to the image. The overall style of the photograph is contemporary, with a focus on clarity and crispness, capturing not just the visual beauty, but the intricate and powerful essence of the glacier.
+Seed: 2035170931
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glacier, Soul

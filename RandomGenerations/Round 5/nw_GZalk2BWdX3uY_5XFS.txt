@@ -1,0 +1,8 @@
+Prompt: A large photograph captures an ancient, weathered boardwalk stretching into the horizon at the edge of a tranquil ocean. The scene is shot during the golden hour, where the sun is low and casts a warm, diffused light that bathes everything in shades of gold and amber. The sunlight creates long shadows from the worn wooden planks of the boardwalk, enhancing their texture and emphasizing their age. The sky above is painted in hues of soft pink, orange, and lavender, seamlessly blending with the shimmering, glassy sea that reflects the kaleidoscope of colors.
+
+The style of the photograph is hyper-realistic, with an extraordinary level of detail. Every grain of sand on the path leading to the boardwalk, every crease in the worn timber, and every ripple in the water is captured with crystal-clear precision. The perspective is from a low angle, making the viewer feel grounded and drawing the eye to the vanishing point where the boardwalk and the ocean merge in the distance, creating a sense of endless depth and continuity.
+
+In the background, a solitary lighthouse with chipped white paint stands on a rocky outcrop, its silhouette stark against the serene sky. Soft, diaphanous clouds drift lazily, further enhancing the ethereal quality of the lighting. Far-off gulls can be seen in flight, their outlines sharp and distinct against the pastel sky. The scene is devoid of human presence, allowing the elements of nature—the aged boardwalk, the steadfast lighthouse, and the untouched sea—to speak volumes.
+Seed: 1650905468
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Influence, View

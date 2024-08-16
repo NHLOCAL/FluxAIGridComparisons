@@ -1,0 +1,12 @@
+Prompt: A serene coastal scene captures the golden hour just as the sun begins to set. The photograph, in an ultra-high-definition format, showcases a picturesque lighthouse standing tall on a rocky promontory. The lighthouse is an elegant, white-painted structure with a red, circular top, and its light faintly beginning to glow as the daylight diminishes. The water below, calm and mirror-like, reflects the fading sunlight in hues of gold and amber, interspersed with patches of deep blue from the imminent twilight.
+
+A sailboat with crisp, white sails glides smoothly towards the horizon, leaving a delicate, undulating trail in its wake. The sky above is a gradient canvas, shifting from warm oranges and pinks near the sun to cooler purples and blues as night creeps in. Fluffy clouds, tinged with the last light of day, float lazily across this celestial backdrop.
+
+The lighting is natural, characterized by the soft, warm glow of the setting sun. It casts long shadows and highlights textures: the rough, rugged rocks of the coastline, the soft folds of the sail, and the weathered paint of the lighthouse.
+
+In the style of realism, this photograph is meticulously composed and balanced, with a sharp focus on the lighthouse positioned according to the rule of thirds. The background features a thin strip of sandy beach dotted with tufts of grass, leading into a dense, dark green forest that hints at the wilderness beyond.
+
+This compelling scene is captured with a sense of timelessness and calm, evoking the serene beauty and quiet power of the coastal environment, and is undeniably worthy of any esteemed gallery.
+Seed: 3714599789
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Medal, Gallery

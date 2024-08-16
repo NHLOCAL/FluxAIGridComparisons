@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic photograph depicting a high-stakes arm wrestling match between two formidable competitors is set at the center of an ornate, dimly-lit gymnasium. The competitors, one a muscular weightlifter with veins pronounced and muscles taut, the other an equally robust athlete—both representing the elite league of their sport—are locked in a moment of intense struggle. The overhead lighting casts long, dramatic shadows that highlight the rippling definition of their muscles and the tension in their grasp.
+
+The background consists of old wooden bleachers filled with a mix of antique gym equipment and a handful of engrossed spectators. On the walls behind them, vintage posters of past champions and tarnished trophies in glass cases add a touch of nostalgia. The scene is captured in crisp focus, with a shallow depth of field that blurs the background just enough to keep the attention firmly on the two athletes.
+
+The color palette is rich and earthy—deep browns, rusty reds, and muted golds dominate, contributing to a timeless, classic atmosphere. The photograph's high contrast and sharp detail evoke the sense of physical exertion and concentration, while also capturing the grandeur of the sport and its storied history within this hallowed league.
+Seed: 3518634593
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Weight, League

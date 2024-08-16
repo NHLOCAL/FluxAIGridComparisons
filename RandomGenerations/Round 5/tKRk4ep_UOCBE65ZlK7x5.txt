@@ -1,0 +1,4 @@
+Prompt: A black and white, high-contrast photograph captures an eerie alleyway between two old, towering Gothic buildings. The ground is cobbled and wet, reflecting dim light from a solitary, antique streetlamp positioned at the far end of the alley. The light casts long, irregular shadows against the jagged brick walls. Amidst the shadows, a translucent, ghostly figure dressed in tattered, vintage clothing stands, almost blending into the background, its form slightly blurred as if in motion. One of the walls bears a mural, half-eroded, depicting a faded coat of arms, symbolizing forgotten allegiance. The background showcases an overcast night sky, with heavy clouds obscuring the moon, adding to the enigmatic atmosphere. The scene is devoid of human presence, heightening the sense of desolation and history frozen in time.
+Seed: 693146378
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ghost, Allegiance

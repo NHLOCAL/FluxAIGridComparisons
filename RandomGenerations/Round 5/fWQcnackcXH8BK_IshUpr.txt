@@ -1,0 +1,8 @@
+Prompt: In this gallery-worthy photograph, capture a high-mountain scene moments after an avalanche has swept down a steep, rugged slope. The backdrop is dominated by towering, jagged peaks piercing a clear azure sky. The mountains are dusted with fresh, untouched snow, creating a stunning contrast against the deep blue hue above. To the left, a cluster of hardy pine trees stands resilient, their branches heavily laden with snow yet defiantly pointing skyward. 
+
+The scene is lit with natural sunlight, diffused by its reflection on the pristine snow, creating a soft, almost ethereal glow across the landscape. Shadows are crisp and elongated, cast by the late afternoon sun low on the horizon. In the foreground, the remnants of the avalanche are evident: a chaotic pile of snow and ice, strewn across the base of the mountain, interspersed with fragments of broken trees and rocks. 
+
+In the distance, additional flurries from the avalanche hang in the air, creating a misty blue haze that adds depth and a sense of ongoing motion to the image. The style of this artwork is hyper-realistic, achieved through a high-definition photograph that captures every minute detail with impeccable clarity. The overall composition balances the grandeur of nature's raw power with serene, untouched beauty, making this photograph a striking and thought-provoking addition to any gallery.
+Seed: 2673352524
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Blue, Avalanche
