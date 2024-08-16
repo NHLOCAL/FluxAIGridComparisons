@@ -1,0 +1,8 @@
+Prompt: A large, sophisticated oil painting on canvas depicting a bustling 19th-century market square during the Golden Hour. Cobblestone streets, worn from years of use and bathed in the soft, golden light of a setting sun, lead the eye toward a grand, ornate fountain in the center, where water glistens like jewels. The background features a row of meticulously detailed medieval buildings with high, peaked roofs and wrought-iron balconies, each facade varying in hue from earthen browns to soft pastels. 
+
+In the foreground, vendors' stalls, laden with vibrant, fresh produce and colorful textiles, create a tapestry of activity. People are portrayed in mid-gesture: a flower seller holding out a rose, a child peering curiously at a caged bird, and an elderly man examining a leather-bound book with earnest concentration. The detail is exquisite, with folds in clothing, weathered textures of the buildings, and individual fruits and vegetables all painted with a high degree of precision. 
+
+Soft shadows are cast by the warm, low-angle sunlight, creating depth and highlighting the texture of every surface. The artist employs a realistic yet slightly romanticized style, emphasizing the vibrancy and diversity of market life. The sky in the background is a gradient from warm oranges and pinks near the horizon to a twilight blue higher up, with wisps of clouds adding to the ethereal quality of the scene. The attention to detail and interplay of light and shadow evoke a sense of wonder and captivate the viewer's eye, inviting closer inspection of every element.
+Seed: 3494441836
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Curiosity, Effect

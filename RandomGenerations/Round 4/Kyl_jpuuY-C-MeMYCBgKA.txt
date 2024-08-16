@@ -1,0 +1,4 @@
+Prompt: A stunning oil painting captures a racehorse in full gallop on a verdant track, its mane and tail flying wildly in the wind, embodying sheer speed. The artist employs a dynamic, impressionistic style, with bold, sweeping brushstrokes to convey the powerful motion. The background is a blurred mix of rich greens and deep blues, suggesting the lush countryside landscape flying past. The lighting is dramatic, with a golden sunset casting long shadows and illuminating the horse in a vibrant, warm glow. The composition draws the viewer's gaze directly to the horse, its muscular form and intense focus creating a magnetic pull, evoking the power and grace of the moment.
+Seed: 3222790832
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Speed, Attraction

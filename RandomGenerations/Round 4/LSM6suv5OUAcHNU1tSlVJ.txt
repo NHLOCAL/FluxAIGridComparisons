@@ -1,0 +1,12 @@
+Prompt: A large oil painting captures a timeless maritime scene in a contemporary impressionist style. At the foreground, there is a weathered yet sturdy wooden dock extending into the distance, its surface textured and worn by the passage of years and the constant lapping of the sea. The dock is adorned with nautical ropes, coiled and neatly placed next to weathered wooden crates.
+
+To the left of the dock stands an old port building with ivy creeping up its walls and faded paint that tells stories of many seasons past. Its windows are cracked open, framed by rustic shutters that showcase the craftsmanship of bygone eras. Beyond the dock, the calm sea stretches towards the horizon, reflecting the golden hues of a setting sun that paints the sky in gradients of orange, pink, and purple.
+
+At the heart of the scene is an elegant ship, with tall masts and billowing sails, anchored near the dock. The sails catch the soft light of the sunset, casting delicate shadows and illuminating the intricate rigging. The ship’s hull is meticulously detailed, revealing its sturdy construction and the careful maintenance it has undergone.
+
+The background features a distant coastline with rolling hills, sparsely dotted with quaint cottages that seem to merge with the natural landscape. The sky is a canvas of graduating colors, with the setting sun creating a golden pathway on the water’s surface. Light plays a crucial role, with stark contrasts between the illuminated and shadowed areas, emphasizing the textures and forms within the composition.
+
+The painting’s brushstrokes are visible yet refined, capturing the motion of the water, the steady posture of the ship, and the aged character of the port. The entire scene is framed with a subtle border of maritime motifs, tying the elements together and inviting the viewer to explore the rich details and history embedded within the port.
+Seed: 1991858796
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heart, Port

@@ -1,0 +1,8 @@
+Prompt: A museum-worthy oil painting captures the surreal moment of a man mid-transformation into a werewolf, encapsulated in a dynamic, action-filled scene. The setting is a dense, ancient forest under a full moon, with towering trees that seem to whisper secrets of old legends. The forest floor is littered with autumn leaves and the distant glow of illuminated nocturnal eyes. 
+
+The scene is bathed in a combination of moonlight and the amber light of an old lantern lying broken on the ground, casting dramatic shadows and creating a high-contrast tableau. The man's posture is crouched, muscles taut, with his hands already morphing into clawed paws mid-air, veins visibly pulsating under his skin. Patches of fur have erupted sporadically across his body. His facial contortion captures the essence of primal change; eyes wide, teeth elongated. Shreds of his tattered clothes cling to his body, hinting at the internal struggle.
+
+The background is painted in a realistic, almost hyper-detailed style, with the forest depicted in deep shades of green, brown, and black, and the moon rendered in a luminescent pearly white. The use of chiaroscuro highlights the contrast between the man and the werewolf he is becoming, emphasizing the unsettling beauty of his transformation. This oil painting could adorn a museum gallery wall, drawing viewers into its intense and captivating narrative.
+Seed: 2960582035
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Werewolf, Alteration

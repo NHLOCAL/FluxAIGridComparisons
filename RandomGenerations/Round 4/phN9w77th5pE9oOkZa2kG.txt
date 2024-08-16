@@ -1,0 +1,10 @@
+Prompt: Oil painting depicting a 19th-century apothecary's shop, expertly capturing the intersection of science and commerce. The scene is enclosed within a richly adorned wooden frame, highlighting the distinction of the era's craftsmanship. The dim, yet warm lighting emanates from brass wall sconces and an overhead chandelier, casting soft shadows that bring depth to the composition.
+
+The background is a meticulously detailed pharmacy interior with dark wooden shelves lined with glass jars, ceramic bottles, and neatly labeled drawers, each containing mysterious, invaluable substances. A large, central counter made of polished mahogany is cluttered with an array of scientific instruments, scales, and an open ledger filled with precise handwritten entries.
+
+In the foreground, an elderly apothecary in period attire, with a monocle and a neatly trimmed beard, carefully measures out ingredients into a brass mortar. Beside him, a young apprentice observes attentively, capturing the essence of mentorship and learning. Through a large window to the right, the cobblestone street and a glimpse of passing horse-drawn carriages situate the scene firmly in its historical context, adding to the painting's narrative richness.
+
+The style is hyperrealistic, emphasizing the fine textures of the wooden surfaces, the sheen of the glass jars, and the intricate details of the apothecary's tools and attire. This composition, with its meticulous attention to historical accuracy and the interplay of light and shadow, creates a vivid, immersive experience that would be worthy of a gallery or museum exhibit.
+Seed: 3379604141
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Distinction, Pharmacy

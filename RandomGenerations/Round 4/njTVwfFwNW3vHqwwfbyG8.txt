@@ -1,0 +1,4 @@
+Prompt: A breathtaking oil painting depicting an immense, ancient castle perched precariously atop a craggy cliff. The castle, built of dark, weathered stone, towers majestically with its formidable spires and battlements reaching towards a stormy sky. The sky itself is a tumultuous sea of deep, swirling grays and purples, highlighted by the brilliant, fiery orange and gold streaks of a setting sun fighting through the clouds. The lighting is dramatic and intense, casting long shadows across the castle walls and illuminating the turbulent ocean waves crashing violently against the cliff below. The background extends to a vast, sweeping landscape of dense, untamed forest blanketed in a twilight mist, giving an otherworldly aura. The style is hyper-realistic, with meticulous attention to texture and detail, making the scene almost tangible.
+Seed: 4155462069
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Magnificent, Epic

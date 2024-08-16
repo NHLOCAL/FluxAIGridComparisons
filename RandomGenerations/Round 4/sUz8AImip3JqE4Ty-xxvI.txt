@@ -1,0 +1,8 @@
+Prompt: In the dimly lit space of an old and forgotten library, the scene captures the melancholic atmosphere with a touch of mystique. The setting is portrayed through an oil painting, where every brush stroke adds depth and texture. Bookshelves, filled with ancient tomes covered in dust, stretch high to the ceiling, their wooden frames darkened and worn over time. A grand, yet neglected, mahogany table sits at the center of the room, cluttered with open books and scrolls. 
+
+A single, flickering candle casts long shadows, its soft, golden light barely illuminating the immediate surroundings while leaving the corners of the room steeped in darkness. The light reveals a worn leather-bound book open to a page where a haunting illustration of a mythical creature lies. 
+
+In the background, heavy velvet curtains slightly ajar, hint at a storm outside with flashes of lightning occasionally breaking through the gloom. The artist's choice of dark, muted color palette—including various shades of brown, burgundy, and black—weave through the image, invoking a sense of both the grandeur and decay of the library. The meticulous details, from the cracked spines of the books to the intricate designs on the candle holder, highlight the sense of abandonment and the echoes of countless forgotten stories.
+Seed: 2959490072
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tale, Bitterness

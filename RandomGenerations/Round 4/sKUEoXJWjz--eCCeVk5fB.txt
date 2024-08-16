@@ -1,0 +1,10 @@
+Prompt: A large oil painting displays a dark and tumultuous landscape, dominated by a foreboding, twisted tree in the foreground. The tree's gnarled branches stretch out like claws against a stormy, cloud-filled sky, painted with deep, swirling hues of gray and black. The bark of the tree is rendered in exquisite detail, with cracks and rough textures highlighted by a subtle, ghostly light that seems to emanate from an unseen source, casting eerie shadows across the scene.
+
+In the background, rugged mountains rise sharply, their jagged peaks partially obscured by dense fog. A dilapidated wooden fence runs diagonally across the middle ground, its slats broken and splintered, conveying a sense of neglect and decay. The ground is littered with rocks and sparse, dying vegetation, adding to the somber atmosphere.
+
+The painting is framed in a distressed golden frame, ornate yet tarnished, emphasizing the contrast between past grandeur and present desolation. The lighting within the painting is stark and high-contrast, with sharp delineations between light and shadow, intensifying the dramatic and oppressive mood of the scene.
+
+The style of the painting is reminiscent of gothic romanticism, with intricate brushwork that captures the fine details and textures, while the overall composition guides the viewer’s eye through the scene, evoking a sense of deep, underlying tension and animosity embedded within every element of the landscape.
+Seed: 1676139137
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hatred, Framework

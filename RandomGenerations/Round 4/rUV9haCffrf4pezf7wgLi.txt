@@ -1,0 +1,10 @@
+Prompt: A large oil painting dominates the room, showcasing a celestial expanse that can only be described as a galaxy brought to life on canvas. The background is shrouded in deep black interspersed with swaths of purples and blues, giving depth and dimension to the infinite space. Scattered across the vastness are twinkling stars meticulously rendered with pinpoint precision in whites and silvers, creating a stark contrast against the dark backdrop. 
+
+In the foreground, an ethereal spiral galaxy takes center stage, its swirling arms depicted with delicate strokes of luminescent whites, pastel pinks, and vivid blues. Each arm of the galaxy is detailed with clusters of stars and nebulae, their glowing forms fading into wisps as they extend outward. The core glows intensely with soft yellows and oranges, giving a sense of an almost gravitational pull of light.
+
+Ambient lighting in the gallery accentuates the painting's intricate details, with overhead spotlights casting a gentle yet focused glow on the canvas, enhancing the luminescence of the galactic elements and creating subtle shadows that provide depth.
+
+The painting's style is hyper-realistic, blending meticulous detail with a dream-like quality, making the viewer feel as though they are peering through a window into the cosmic realm. The piece surrounds on-lookers with the vastness and beauty of space, effectively capturing the natural grandeur and delicate complexities of a galaxy, urging them to behold the captivating mysteries of the universe.
+Seed: 2446436868
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Galaxy, Behold

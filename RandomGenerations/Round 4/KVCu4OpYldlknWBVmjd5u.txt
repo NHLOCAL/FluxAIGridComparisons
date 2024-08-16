@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting of an exoplanet landscape, bathed in the light of three setting suns. The sky is a blend of deep purple and soft amber hues, casting long shadows across the foreign terrain. In the foreground, a lush field of alien flora, with delicate, candy-like flowers in shades of pastel pink and lavender, appears almost saccharine in its vivid detail. The horizon shows towering crystalline structures, reflecting a soft, iridescent glow, reminiscent of spun sugar. Background mountains of deep teal and turquoise rise sharply, their peaks dusted with what appears to be crystalline frost, illuminated by the residual twilight. The light source from the setting suns creates intricate patterns and contrasts, giving an otherworldly glow to the entire scene.
+Seed: 38190915
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exoplanet, Sweetness

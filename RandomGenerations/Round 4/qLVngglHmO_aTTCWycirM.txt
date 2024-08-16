@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting capturing a solitary Olympic athlete standing on the winner's podium, draped in a national flag. The scene is set against a darkened stadium with blurred spectators, highlighting the individual. Overhead stadium lights cast a dramatic glow, emphasizing the medal gleaming around the athlete's neck and the sweat on their face. The background is rich in deep shades, with the floodlights creating contrasting sharp shadows on the podium. The thick texture of the paint conveys the folds of the flag and the detailed musculature of the athlete, celebrating the pinnacle of human achievement and singular triumph.
+Seed: 1626357860
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Medal, Individuality

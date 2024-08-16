@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting capturing an intense scene within a stone-walled medieval abbey. Central to the composition is a solitary, seated young monk, dressed in a richly detailed, worn brown robe with a simple wooden cross hanging by a leather cord around his neck. His head is slightly bowed, and his eyes are closed, giving an impression of deep introspection. The texture of his robe and the individual strands of his hair are meticulously painted to emphasize realism.
+
+Muted sunlight filters in through a series of tall, arched stained-glass windows on the left, casting a kaleidoscope of soft, colored hues across the stone floor and the monk's folded hands. The right side of the painting is shadowed, with the dark outline of an ancient, intricately-carved wooden door barely visible.
+
+Behind the monk, the abbey’s high ceiling is partially in view, adorned with gothic arches and illuminated by flickering candlelight from large wrought-iron candelabras, lining the stone pillars. Subtle details such as the rough texture of the stone walls, slight moisture around the base of the pillars, and the delicate motifs in leaded glass windows enrich the scene further. The background reveals glimpses of old wooden pews and a distant altar, shrouded in shadow, adding depth and historical context to the composition.
+
+The lighting is natural and diffused, augmenting the serene and sanctified atmosphere of the abbey. The artist's technique showcases an incredible attention to detail, with every brushstroke contributing to the lifelike representation of the textures and elements within the scene. The overall ambiance evokes a profound sense of historical reverence and devoted contemplation, encapsulated within the solitary figure of the monk.
+Seed: 1808197682
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Abbey, Portrait

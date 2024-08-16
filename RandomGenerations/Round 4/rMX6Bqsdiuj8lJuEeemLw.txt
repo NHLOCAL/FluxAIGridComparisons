@@ -1,0 +1,10 @@
+Prompt: A meticulously detailed oil painting capturing a surreal town scene. The painting is set in an old European town square at dusk, where the setting sun casts long, stretching shadows that dance unnaturally. The buildings are a mix of gothic and baroque architecture, with intricate, exaggerated facades that seem to lean in peculiar, improbable angles. The cobblestone streets wind around the square haphazardly, creating a labyrinthine effect. In the center, an ornate clock tower stands tall, but its clock face shows a different, random time for each viewer's perspective, as if defying the laws of reality.
+
+The lighting in the painting is both warm and eerie. The fading daylight blends with the cool twilight, creating a gradient of oranges, purples, and deep blues. Street lamps begin to flicker on, casting soft, golden glows that contrast with the cool shadows. Tiny details, such as the reflections in puddles on the street, the glimmer of lanterns in windows, and the soft glow from inside shops, add layers of depth and richness.
+
+In the background, the sky blends into an otherworldly palette, suggesting a night that doesn't adhere to a natural order. Stars are visible, but they appear in swirling, chaotic patterns, reminiscent of Van Gogh's Starry Night, adding a layer of cosmic unpredictability.
+
+The painting style is hyper-realistic yet infused with whimsical elements. Every brick, every leaf, and every windowpane is painted with painstaking precision, but the overall composition bends the rules of physics and perspective, giving the entire scene an underlying sense of unreality—as if the town itself is a living, breathing delusion.
+Seed: 2105773232
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Town, Delusion

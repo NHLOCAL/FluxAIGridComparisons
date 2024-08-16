@@ -1,0 +1,8 @@
+Prompt: A detailed oil painting captures a frozen moment of a crumbling ancient library amidst a violent storm. The grand hall, with towering bookshelves filled with ancient texts, shows evidence of neglect and decay; cobwebs stretch across the high wooden shelves, and layers of dust coat scattered pages. The ceiling, once elaborately adorned with frescoes, has large portions collapsed, revealing jagged wooden beams. A golden, ornate chandelier hangs precariously, its candles extinguished and dripping wax.
+
+The focal point is an old, worn desk in the center of the room, where an open book lies face down in a puddle formed from a leak in the ceiling. Papers are scattered, caught in a whirlwind of wind rushing through a large, broken stained glass window, depicting a faded but grandiose scene of scholars and angels. The colors of the stained glass window, now muted by time, throw a dim, kaleidoscopic light onto the floor. The artist uses a rich, dark palette with deep browns, blues, and grays, contrasting with the occasional bright shard of glass and the golden hues of the chandelier.
+
+The lighting is a dramatic chiaroscuro; strong, directional beams of light pour in from the broken window, casting elongated shadows and illuminating the swirling dust particles in the air. The rest of the room is bathed in a murky gloom, enhancing the sense of desolation and the impending collapse. The background hints at further rooms and corridors within the library, equally dilapidated, with sections shrouded in impenetrable darkness, suggesting the vast and forgotten knowledge once held within this ruin.
+Seed: 531643878
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Consequence, Mist

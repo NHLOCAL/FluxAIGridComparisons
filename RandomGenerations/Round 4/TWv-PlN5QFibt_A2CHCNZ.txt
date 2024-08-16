@@ -1,0 +1,4 @@
+Prompt: Create an oil painting depicting a colossal spacecraft rising majestically through a luminescent nebula. The spacecraft is detailed with intricate metallic structures, exuding robustness, and powerful engines emitting brilliant blue and white energy trails. The vessel's surface gleams under the intense light of distant stars, emphasizing its massive, resilient build. The background is a vast, breathtaking expanse of space, filled with swirling, colorful gases and sparkling stars, forming an awe-inspiring cosmic tapestry. The lighting in the scene is stark and dramatic, casting long shadows and highlighting the rugged textures of the spacecraft. The painting style is hyper-realistic, with meticulous attention to detail, giving it a near-photographic quality.
+Seed: 4103909218
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spacecraft, Strength

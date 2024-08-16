@@ -1,0 +1,10 @@
+Prompt: An oil painting depicts a serene forest in early morning light. Tall, ancient trees with textured bark and lush green leaves, provide depth and perspective as their canopies form a natural archway overhead. Dappled sunlight filters through the leaves, creating patches of light and shadow on the forest floor. The ground is covered with a soft carpet of moss, ferns, and scattered wildflowers, adding a sense of untamed beauty and subtle color contrasts.
+
+In the foreground, two fluffy, woodland creatures—a young fawn and a curious rabbit—are captured with lifelike precision, playfully interacting and investigating one another. They are positioned near an old, gnarled tree stump, which bears signs of weathered age through its detailed rendering of cracks and moss growth. The fawn's soft, brown coat, complete with white spots, and the rabbit's silky fur are rendered in exquisite detail, emphasizing their gentle nudges and careful movements.
+
+In the background, a narrow, meandering stream reflects the tranquil blue of the sky above, punctuated by the occasional stepping stone. Soft, artistic brushstrokes evoke the gentle flow of water, merging seamlessly with the dense greenery around it. Faint mist rises from the undergrowth, adding an ethereal, almost otherworldly quality to the scene.
+
+The overall composition utilizes rich, warm colors and finely detailed textures to immerse the viewer within this idyllic forest sanctuary, celebrating the delicate interplay between wildlife and their natural habitat. The lighting creates a subtle chiaroscuro effect, enhancing the realism while maintaining a dreamlike atmosphere that invites prolonged reflection and appreciation.
+Seed: 3339817467
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adorable, Forest

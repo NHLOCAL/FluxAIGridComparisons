@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting captures a thunderous waterfall cascading down a rugged cliffside. The scene is bathed in the soft, diffused light of a cloudy day, enhancing the lush greenery surrounding the waterfall. The abundance of water is depicted with meticulous detail, showing the turbulence and sheer volume as it crashes into the rocks below, sending a fine mist into the air. The powerful motion and sound of the waterfall are almost palpable through the intricate brushwork. The background features dense forest, the leaves painted with varying hues of green, adding depth and richness to the scene. The overall style is classical realism, focusing on the awe-inspiring grandeur and raw power of nature.
+Seed: 2738684651
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Roar, Quantity

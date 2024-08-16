@@ -1,0 +1,10 @@
+Prompt: An oil painting that captures a majestic, untamed landscape during the golden hour. In the foreground, a lone, ancient tree with sprawling branches takes center stage, its roots gripping the rocky terrain with an almost unyielding force. The tree's gnarled bark and dense foliage are meticulously detailed, rendered in a rich palette of earthy browns and deep greens. Surrounding it, patches of wild grasses and scattered stones are painted with equal precision, hinting at the story of time and endurance.
+
+In the mid-ground, a tranquil, meandering river cuts through the landscape, reflecting the amber hues of the setting sun. The water is depicted with fine brushstrokes to convey its gentle, controlled flow, mirroring the sky’s vibrant colors. On either side of the riverbank, clusters of hardy shrubs and resilient plants thrive, their silhouettes outlined in the warm glow.
+
+The background reveals a range of imposing mountains that gradually fade into the distance, each peak cloaked in shadow and mist, suggesting the power and majesty of nature. The sky above is a symphony of colors—warm oranges and pinks near the horizon blending into the deepening blues and purples of twilight. Wispy, feather-like clouds stretch across the sky, highlighted by the diminishing light.
+
+The lighting in this artwork is soft yet dramatic, with the golden hour sun casting long shadows and bathing the entire scene in a warm, almost ethereal glow. The meticulous detailing and bold use of color emphasize the theme of nature's raw power and enduring stability, making this piece a compelling addition to a museum or gallery.
+Seed: 2074247650
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Earth, Control

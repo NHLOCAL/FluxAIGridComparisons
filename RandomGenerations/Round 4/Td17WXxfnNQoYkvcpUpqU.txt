@@ -1,0 +1,4 @@
+Prompt: An oil painting set in a grand university hall, the scene depicts a meticulous experiment with glowing antimatter in the foreground. The painting captures the intricate details of a high-tech lab setup with various scientific instruments, all rendered with striking realism. The lighting is dramatic, with a beam of ethereal blue light illuminating the antimatter apparatus, casting long shadows across the polished wooden floors and the mahogany-paneled walls adorned with ancient academic portraits. In the background, towering bookshelves filled with leather-bound volumes suggest a depth of knowledge and exploration, while large, arched windows allow diffused sunlight to filter through stained glass, adding layers of colored light. The style is hyper-realistic with a touch of surrealism, emphasizing the juxtaposition of classical academia and futuristic science.
+Seed: 2437050227
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: University, Antimatter

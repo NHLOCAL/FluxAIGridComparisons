@@ -1,0 +1,12 @@
+Prompt: An oil painting depicting an expansive, twilight cityscape viewed from a slightly elevated vantage point. The scene captures the moment just before night fully descends, with the sky painted in deep shades of indigo and violet, fading into hints of the dying golden light. The city below is modern, with towering skyscrapers that have sharp, well-defined edges and a mixture of glass and steel exteriors reflecting the last light of day and the artificial lights beginning to glow. 
+
+In the foreground, a dimly lit rooftop garden sits atop a mid-sized building. The garden is meticulously landscaped with a variety of plants and flowers, slightly overgrown yet lush, giving it an untamed beauty. A lone figure stands at the edge of the roof, back facing the viewer, clad in a simple, dark outfit that contrasts starkly against the vibrant greenery. The figure holds a telescope, directed towards the sky, symbolizing a quest for knowledge and understanding.
+
+The lighting is dappled and soft, coming from the mix of natural twilight and the emerging artificial lights of the city. Distant windows begin to glow warmly, casting reflections and soft, fragmented light onto the dull gray of the streets below. The street below is detailed with muted colors, showing parked cars, occasional pedestrians, and the subtle hint of movement, captured with a painterly blur to suggest the bustling life of the evening city.
+
+The background features the skyline dominated by various architectural styles, from classic older buildings to sleek modern high-rises. The horizon shows no divine or religious symbols, instead portraying a purely material world focused on human achievement and progress. 
+
+The painting is hyper-realistic in style, with an attention to detail that captures both the majesty and the minutiae of the urban environment, making it suitable for a museum or gallery setting.
+Seed: 2239141982
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Issue, Atheism

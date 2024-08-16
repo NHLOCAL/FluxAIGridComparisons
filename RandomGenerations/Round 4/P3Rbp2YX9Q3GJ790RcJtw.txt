@@ -1,0 +1,6 @@
+Prompt: An oil painting depicts a lone knight standing on a rugged mountaintop, gazing towards a distant castle perched precariously on a jagged cliff, shrouded in mist. The knight’s armor glistens under the setting sun, with the golden hues casting long shadows that accentuate the textures of the rocky landscape. His cape, tattered and wind-swept, flutters dramatically behind him. The scene is set during twilight, with the sky painted in deep purples and reds, creating a stark contrast with the darkening land below.
+
+The painting showcases a highly detailed, realistic style, with meticulous attention to the intricacies of the knight’s armor, the roughness of the mountain rocks, and the delicate threads of the cape. The background features rolling, dark forests descending into valleys, adding depth and a sense of vastness to the scene. The castle in the distance is shrouded in an ethereal glow, implying the knight’s challenging journey ahead. The lighting emphasizes the solitude and immense expanse of the quest before him, with the landscape bathed in both the warm light of the setting sun and the coolness of the encroaching night.
+Seed: 1420028120
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Challenge, Quest

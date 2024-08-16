@@ -1,0 +1,4 @@
+Prompt: A hyperrealistic oil painting set in a grand opera house with an intricately ornate interior. The main focus is a regal woman dressed in an elaborately embroidered Victorian gown, standing poised on an opulent crimson carpet that leads up to a grand staircase. The soft, warm lighting cascades from an enormous crystal chandelier overhead, casting delicate shadows and reflections that highlight the intricate details of her dress and the mahogany balustrades. Behind her, the background opens up to rows of lavish, velvet-covered seats and golden embellishments that decorate the balconies. The artist uses a detailed, almost photographic style, capturing every nuance of light and texture to immerse the viewer in the opulent environment, with each brush stroke painstakingly illustrating the woman's poise and the grandeur of the surroundings.
+Seed: 3675709573
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Arena, Awareness

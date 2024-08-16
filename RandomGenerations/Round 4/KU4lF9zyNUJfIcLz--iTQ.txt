@@ -1,0 +1,8 @@
+Prompt: An exquisite oil painting captures a luxurious 1920s Art Deco lounge. The scene showcases an elegantly dressed woman, adorned in a vintage, satin evening gown with intricate beadwork, her back gracefully turned towards the viewer. She stands beside a grand piano, the high-polished surface reflecting the soft, warm glow of the chandelier above. The lighting is subdued yet focused, creating gentle shadows that accentuate the opulence of the woman's attire and the rich textures of the room.
+
+The background reveals intricately designed wallpaper in geometric patterns, characteristic of the era, and lush, velvet drapes framing tall, arched windows. Through the windows, a nighttime cityscape with glimmering lights can be faintly seen, suggesting an urban sophistication. A polished wooden cocktail cabinet stands in one corner, its mirrored shelves showcasing a selection of crystal decanters.
+
+Every element in the painting is meticulously detailed, from the gleaming brass of the piano's foot pedals to the delicate lace on the woman's gloves. The overall style blends realism with the romanticized elegance of the early 20th century, capturing a moment that suggests both historical authenticity and modern refinement. The artwork’s composition draws the viewer into a scene steeped in quiet grandeur and timeless charm.
+Seed: 2923651861
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Authenticity, Suave

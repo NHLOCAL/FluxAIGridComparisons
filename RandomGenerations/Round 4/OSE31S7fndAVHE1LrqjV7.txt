@@ -1,0 +1,10 @@
+Prompt: A meticulously detailed oil painting capturing a bustling twilight scene in a retro-futuristic cityscape. Towering, ornate skyscrapers mix the gritty, industrial aesthetics of early 20th-century architecture with fantastical, futuristic elements such as exposed gears, steam pipes, and hovering platforms. The setting sun casts an amber glow that mingles with the cold, bluish artificial light emanating from numerous neon signs and giant, holographic billboards. Shadows stretch long across the cobblestone streets.
+
+In the foreground, a cobblestone street teems with activity; individuals in trench coats, aviator goggles, and mechanical accessories walk briskly, while vintage cars with futuristic modifications roll by. A large, steam-powered tram glides along its tracks, hissing clouds of steam that swirl and diffuse the light around it.
+
+The background reveals towering steel structures draped in ivy and moss, blending nature with machine in a harmonious contrast. Elevated railways and suspended walkways hint at layers of verticality. A massive clock tower looms prominently on one side, its intricate gears visibly turning. In the upper right, zeppelins with glowing dirigibles hover silently, their brass bodies reflecting the interplay of natural and artificial light.
+
+The painting is marked by an impeccable use of chiaroscuro, emphasizing contrasts between light and dark, highlighting textures of metal, stone, and steam.
+Seed: 852244905
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Appealing, Dieselpunk

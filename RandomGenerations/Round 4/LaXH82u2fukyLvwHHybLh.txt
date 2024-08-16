@@ -1,0 +1,6 @@
+Prompt: A meticulously crafted oil painting captures a bustling 1920s Paris street scene, viewed from an elevated platform on the corner of a café. The foreground focuses on a close-up of a wrought-iron balcony railing, adorned with hanging flower pots teeming with vibrant red geraniums and lush greenery. The mid-ground reveals a cobblestone street, where vintage automobiles and horse-drawn carriages traverse amid elegantly dressed pedestrians donning hats and flapper dresses. The background showcases classic Parisian architecture, with ornate façades, iron lanterns, and the distant silhouette of the Eiffel Tower peeking from behind the rooftops.
+
+The lighting is a soft, golden hour glow, casting long shadows and illuminating the scene with a warm, nostalgic hue. The sky is a blend of pastel oranges, pinks, and purples, adding to the dreamy ambiance. The painting is rich in texture, with visible brush strokes that add depth and life to the scene. The artist masterfully captures the interplay of light and shadow, highlighting the architectural details and the animated crowd. This artwork is a true testament to the elegance and charm of early 20th-century Paris, making it a captivating and worthy addition to any museum or gallery collection.
+Seed: 1712458178
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Closeness, Platform

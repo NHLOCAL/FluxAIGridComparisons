@@ -1,0 +1,10 @@
+Prompt: In the foreground, a young woman in her late twenties stands on the edge of a rugged cliff overlooking an expanse of untamed ocean. Her silhouette is illuminated by the soft, golden light of the setting sun, casting long, delicate shadows on the rocky surface beneath her. She is captured mid-moment, as if she is about to take a step into the abyss, frozen in a pose that exudes both hesitation and resolve. Her attire, a billowing white dress, contrasts starkly with the dark, jagged rocks and the deep azure of the sea.
+
+The background reveals a vast horizon where the sky meets the water, painted in rich hues of orange, pink, and lavender as the sun dips lower. The clouds are dramatic, painted with thick, textured brushstrokes that give them a palpable weight, suggesting the buildup of a distant storm. The ocean itself is restless, with waves crashing against the cliffside, depicted in painstaking detail to convey the relentless motion and fury of the water.
+
+This is an oil painting on a large canvas, created in a realist style with meticulous attention to the interplay of light and shadow. The lighting emphasizes the warmth of the sunset, casting a serene yet intense glow that enhances the textures of the cliff, the waves, and the woman’s dress. Every element of the scene is rendered with a precision that invites viewers to dwell on each detail—the ruggedness of the rocks, the fluidity of the waves, the delicate folds of fabric—each contributing to the viewer's gradual realization of the tension and significance of the moment.
+
+Behind the young woman, farther up the cliffside, there are hints of sparse, wind-swept vegetation clinging to life in the harsh environment, adding to the sense of solitude and the raw pressure of the natural elements. The foreground and the background blend seamlessly, creating a hauntingly beautiful tableau that commands the viewer's attention, inviting them to contemplate the delicate balance between human frailty and the overpowering force of nature.
+Seed: 1564364280
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Epiphany, Pressure

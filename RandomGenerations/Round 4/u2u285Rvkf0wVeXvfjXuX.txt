@@ -1,0 +1,4 @@
+Prompt: A luxurious art-deco styled lounge rendered as a high-gloss oil painting. The scene is framed by a lavish interior adorned with gleaming gold accents and rich, deep emerald hues. Velvet, plush seating is arranged with precision around a centerpiece—a marble-topped coffee table featuring an ornate vase filled with white orchids. Soft, ambient lighting casts subtle shadows that enhance the textural richness of the fabrics and furnishings. In the background, tall, arched windows draped with heavy silk curtains provide a glimpse of a twinkling nighttime cityscape, hinting at opulence and grandeur. The composition is polished, with meticulous attention to detail, from the intricately patterned rugs to the glinting glassware, capturing a tableau of timeless elegance and affluence.
+Seed: 854076149
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glamorous, Success

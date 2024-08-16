@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting capturing a mermaid sitting at the edge of a narrow, cobblestone alley in a bustling urban city. The mermaid's iridescent scales shimmer under the soft, golden glow of old-fashioned street lamps lining the alleyway. Her long, flowing hair cascades down her back, mingling with the beautifully intricate patterns of her tail. The alley is framed by tall, weathered brick buildings with a mixture of antique and modern elements, such as wrought-iron fire escapes and neon signs.
+
+The background features the vague silhouette of a busy street, blurred just enough to keep the focus on the mermaid but detailed enough to show the contrast between the mystical creature and the mundane urban environment. The ground is wet from a recent rain, with reflections of the street lamps and neon lights creating a mesmerizing, kaleidoscopic effect.
+
+The lighting in the scene is a masterful blend of natural moonlight streaming down from the sky and the warm artificial glow of the street lamps, creating a dramatic chiaroscuro effect that highlights the mermaid and casts long, soft shadows along the cobblestones. The style is a blend of photorealism and fantasy, with incredibly detailed textures on the mermaid's scales and the alley's surfaces, yet an overall dreamlike quality that makes the scene feel otherworldly.
+Seed: 1479834407
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mermaid, Alley

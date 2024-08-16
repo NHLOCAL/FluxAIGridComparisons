@@ -1,0 +1,8 @@
+Prompt: A beautifully composed oil painting depicts a high-end, modern restaurant scene frozen in time. The setting is an open-plan dining area with floor-to-ceiling glass windows that let in the golden light of the setting sun, casting long, soft shadows and bathing the room in a warm, ethereal glow. The tables, covered in crisp white linens, are elegantly set with fine china, sparkling crystal glasses, and polished silverware. Each table has a small, intricately arranged floral centerpiece, featuring fresh, vibrant blooms.
+
+In the foreground, a waiter in a tailored black suit is captured mid-motion, carrying a tray with a bottle of vintage champagne and two flutes. His expression is focused and composed, a slight glint of professionalism in his eyes. Seated at the tables are diners, dressed in stylish evening attire; a gentleman in a sleek navy suit appears to be engaged in animated conversation with a woman in a stunning red dress, her head tilted slightly as she listens attentively.
+
+The background of the scene features an intricately designed mural that pays homage to classical art, blending seamlessly with the contemporary vibe of the restaurant. Ambient lighting from modern chandeliers above adds a sophisticated sparkle, while the wooden floorboards beneath give a touch of rustic elegance. A glimpse of the bustling open kitchen can be seen in one corner, where chefs in white uniforms and tall caps diligently prepare dishes, ensuring a seamless harmony between culinary art and fine dining.
+Seed: 3735537555
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reality, Restaurant

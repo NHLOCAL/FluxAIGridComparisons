@@ -1,0 +1,10 @@
+Prompt: A riveting oil painting depicting a coastal cliffside during golden hour, bathed in the warm, honey-hued light of the setting sun. The cliffside is rugged and dramatic, with jagged rocks jutting out and a carpet of windswept wildflowers clinging to the ledges. To the right, a lone, ancient lighthouse stands sentinel, its whitewashed exterior glowing softly in the afternoon light. A narrow, winding path leads up to it, barely visible among the vegetation.
+
+The sky is a masterpiece in itself, painted with delicate hues of orange, pink, and purple that blend seamlessly into the deepening blue of the evening sky. Wisps of clouds catch the last light, adding texture and depth. Below, the ocean is a deep, rich blue, with gentle waves rolling in, each crest catching a glint of the fading sunlight. Seagulls are captured mid-flight, their wings stretched wide as they glide effortlessly on the sea breeze.
+
+In the foreground, a solitary figure stands with their back to the viewer, clad in a long coat that flutters gently in the breeze. The figure is positioned near the edge of the cliff, looking out toward the horizon, their stance suggesting contemplation and discovery. Shadows are expertly rendered to create a sense of depth and realism, with the interplay of light and shade adding to the painting's textured complexity.
+
+The style is hyper-realistic with a touch of the romantic, utilizing intricate brushwork to capture fine details and subtle gradations of color. The background features a vast expanse of rolling hills and distant mountains, painted with a slightly blurred effect to create a sense of depth and perspective. This intricate and richly detailed composition invites viewers to step closer and explore every nuance, making it a captivating centerpiece worthy of display in any prestigious gallery or museum.
+Seed: 2327900718
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intrigue, Breeze

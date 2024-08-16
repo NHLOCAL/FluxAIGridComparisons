@@ -1,0 +1,4 @@
+Prompt: A captivating oil painting depicts the moment when dawn begins to break over a tranquil mountain lake. Sharp mountain peaks, tinged with a soft pink hue from the awakening sun, stand majestically in the background, their rugged textures exquisitely detailed. The lake's reflective surface mirrors the mountains and the newly lit sky, creating a symphony of light and shadow. In the foreground, intricate brushstrokes reveal lush greenery and delicate wildflowers, their vibrant colors captured in the gentle morning light. The ambient lighting is natural and diffused, lending a serene, golden glow that pervades the scene. This picturesque landscape, with its precise attention to natural detail and masterful use of light, evokes a palpable sense of quiet and profound beauty, making it worthy of being displayed in a museum or gallery.
+Seed: 3537351816
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Begin, Picturesque

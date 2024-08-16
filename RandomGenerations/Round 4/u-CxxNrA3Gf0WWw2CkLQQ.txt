@@ -1,0 +1,10 @@
+Prompt: An intricately detailed oil painting capturing an opulent 19th-century ballroom scene. The setting is inside a grand hall with high ceilings adorned with elaborate frescoes and gold moldings. Massive, sparkling crystal chandeliers hang above, casting a warm, golden light that dances across the room, creating deep, contrasting shadows along the corners and accents of the space. The lavish décor features rich, velvet drapes in deep burgundy and ornate, gold-trimmed mirrors reflecting the glimmering candlelight.
+
+In the foreground, a group of elegantly dressed figures in period-specific attire engages in lively conversation, their attire meticulously detailed to showcase the luxurious fabrics and intricate patterns of the era. The men wear tailored tailcoats and cravats, while the women are dressed in voluminous gowns with elaborate lace and pearl adornments. To the left, a quartet of musicians is partially visible, their instruments capturing highlights from the chandeliers above.
+
+The middle ground reveals a wide, polished dance floor where pairs of dancers elegantly glide across, gracefully poised, the ladies' gowns flowing with their movements. In the background, a series of grand arched windows line one wall, allowing a glimpse of a moonlit night garden, its beauty hinted at through the soft glow of moonlight filtering in.
+
+The overall composition creates a dynamic yet harmonious balance, the precise brushstrokes and attention to detail indicative of an artist adept at capturing both the grandeur of the setting and the elegance of the individuals. The lighting, luxurious textures in the fabric, and the opulent architecture all come together to create a visually arresting and richly immersive image befitting a prestigious museum or gallery exhibit.
+Seed: 612917661
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Degree, Mall

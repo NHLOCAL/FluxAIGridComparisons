@@ -1,0 +1,8 @@
+Prompt: A meticulously detailed oil painting captures an intimate, indoor scene set in a vintage study filled with intricate wooden furniture. The main focus is a round mahogany table, polished to a mirror shine, atop which lays an elaborate diamond-studded magnifying glass. The lighting is soft yet deliberate, with a dim, golden glow emanating from a single ornate chandelier hanging from the ceiling. The room is bathed in gentle shadows, each contour of the room is kissed by the warm light, casting long, purposeful shades across the timber floor.
+
+Behind the table, an expansive bookshelf lines the wall, filled with aged, leather-bound books. Each book spine, carefully painted to showcase individual textures and titles, borders on photorealism. Above the bookshelf, an exquisite, large window flanked by deep burgundy drapes hints at the break of dawn. Faint, delicate rays of morning light pierce through, blending elegantly with the chandelier's glow, illuminating the motes of dust suspended in the air, adding a sense of stillness to the atmosphere.
+
+In the backdrop, an antique globe subtly reflects the soft lights, adding depth to the room’s nostalgic ambiance. The wooden floor extends to include a richly woven Persian rug, its intricate design rendered with such precision that it appears almost tactile. The synergy of meticulous brushstrokes and a warm, subdued color palette enhances the painting's richness, evoking the essence of a moment frozen in time. The overall composition, rich in detail and texture, beckons viewers to appreciate each element's harmonious blend, capturing a scene of timeless elegance.
+Seed: 3357602444
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gain, Diamond

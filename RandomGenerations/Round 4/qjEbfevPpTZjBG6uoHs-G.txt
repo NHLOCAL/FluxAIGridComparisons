@@ -1,0 +1,8 @@
+Prompt: A hyperrealistic oil painting titled "Future's Rift," capturing the merging of dystopian and utopian elements in a sprawling cityscape. The scene is set at dusk, where the sky is painted with hues of indigo, violet, and streaks of orange from the setting sun. The foreground features a sleek, reflective glass building, its design flawlessly blending futuristic architecture with organic curves. The building is dotted with lush vertical gardens that contrast sharply with the rusted, decaying industrial structures visible in the background, remnants of a bygone era. 
+
+The lighting is a skillful play of natural twilight merging with the artificial glow from neon signs and holographic billboards projecting ads in vibrant colors. Street-level details include autonomous vehicles gliding silently along the roads, pedestrians wearing advanced wearable tech, and drones zipping overhead, casting both faint and sharp shadows on the textured pavement.
+
+A river splits the city, its surface reflecting the dichotomy of the scene; on one side, the illuminated, advanced society with clean, geometric designs, and on the other, the grimy, neglected outskirts with graffiti-covered façades and crumbling infrastructure. The atmosphere is electric, filled with possibilities and stark contrasts, a testament to the diverse futures humanity could pave.
+Seed: 1384012728
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Future, Taste

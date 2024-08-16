@@ -1,0 +1,8 @@
+Prompt: This is a photograph taken in a dimly lit, cavernous museum gallery adorned with Greco-Roman artifacts. The centerpiece of the scene is an imposing, life-sized bronze statue of a Minotaur, positioned slightly off-center. The Minotaur's muscular form is detailed and polished, glistening under soft, strategic spotlighting that accentuates its powerful physique and the intricate texture of its skin. The background features shadowy alcoves filled with ancient pottery and fragmented sculptures, providing a stark contrast to the prominently illuminated statue.
+
+Surrounding the Minotaur, in delicate contrast, are suspended glass vessels that slowly release thin wisps of scented smoke, capturing faint notes of sandalwood and jasmine. The plumes of smoke create ethereal patterns as they drift around the statue, creating a dynamic interplay between the ephemeral and the eternal. The floor is made of polished marble, reflecting the diffused light and enhancing the sense of depth in the image.
+
+The style of the photograph is a blend of classical and contemporary, with a focus on high contrast and chiaroscuro to bring out the texture of the bronze and the softness of the smoke. The lighting is directional yet subtle, ensuring that the Minotaur remains the focal point while the surrounding elements complement rather than overshadow it.
+Seed: 4185144180
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scent, Minotaur

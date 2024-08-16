@@ -1,0 +1,8 @@
+Prompt: A large oil painting depicts a grand, regal lion standing majestically atop a rocky outcrop in the savanna as if posing for a royal portrait. The lion's mane is rendered in meticulous detail, each strand of hair catching the warm golden hues of the late afternoon sun. The lighting creates a striking chiaroscuro effect, with the lion half-bathed in light and half in shadow, giving it an almost divine semblance of power and authority. To the right, the sun casts long, stretched shadows that dance across the rocks and the wildebeests grazing in the plains below.
+
+In the background, an expansive savanna stretches to the horizon with a subtle gradient of colors that shift from the deep greens and browns of the grasses to the rich oranges and purples of the setting sun. The sky is an intensely vivid canvas sprayed with specks of gold and crimson clouds. Off in the distance, a silhouette of an ancient baobab tree stands as an emblem of resilience, its thick branches reaching skyward like a natural monument.
+
+The painting's style is reminiscent of the Romantic era's focus on nature's grandeur and man's insignificance compared to its vastness. The artist's brushstrokes are fluid yet disciplined, emphasizing both the lion's musculature and the delicate textures of the landscape. There is a palpable shift in scale and perspective—the lion as the focal point, almost otherworldly in its dominance, while the vast savanna provides a broad, humbling backdrop, grounding the scene in reality.
+Seed: 639170371
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Emblem, Shift

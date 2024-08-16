@@ -1,0 +1,8 @@
+Prompt: A breathtaking oil painting captures a winter landscape in its purest form. The scene features a solitary, elegant birch tree standing tall against a snow-blanketed field. The tree's slender branches, now bare, stretch upward, cloaked in a veneer of glistening frost. The sky overhead is a gradient of soft pastel hues, transitioning from a muted lavender at the horizon to a pale, icy blue that deepens as it approaches the zenith.
+
+The background reveals distant, gently rolling hills, barely discernible under their thick coat of snow, contributing to the scene’s tranquil simplicity. Wisps of fine, low-lying fog weave among the hills, adding layers of depth and mystery. The lighting is soft and diffused, similar to that of an overcast day, casting a gentle glow that softens all edges and eliminates harsh shadows. 
+
+On the icy surface of a near-frozen pond in the mid-ground, mirror-like reflections of the tree and sky create an almost symmetrical balance within the composition. Delicate, undisturbed snow patterns on the pond lead the eye toward the central birch tree. The minimalist design evokes a sense of profound stillness, transforming ordinary winter elements into a contemplative masterpiece suitable for a prestigious gallery.
+Seed: 3260682371
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Simplicity, Ice

@@ -1,0 +1,10 @@
+Prompt: A masterful oil painting measuring 48x36 inches captures an epic, climactic battle scene set during a twilight storm on a rugged coastal cliff. Towering waves crash violently against jagged rocks below, sending foamy sprays high into the air. The sky is a tempest of swirling charcoal clouds shot with streaks of fierce orange and red from the setting sun, casting an eerie, fiery glow over the entire scene. 
+
+In the foreground, two combatants face off with grim determination: a powerful warrior in dark, tattered armor brandishes a gleaming sword, its blade catching the dying sunlight, while his equally imposing opponent, clad in a flowing, crimson robe, summons ethereal chains of lightning from the heavens. Both figures are mid-action, their muscles taut, their faces intensely focused on the battle, their eyes locked with unwavering resolve.
+
+The lighting is dramatic, with stark contrasts of light and shadow that highlight the musculature and expressions of the figures, casting long, elongated shadows behind them. The background includes cliff-side pine trees bent and flagging in the storm’s wind, and distant, ghostly shipwrecks along the shore, half-submerged and white with salt. The tempestuous sea is rendered in thick, bold brush strokes, creating a sense of chaotic movement and raw, elemental power.
+
+This painting exudes a mix of breathtaking beauty and intense conflict, capturing a pivotal moment of struggle and defiance, demanding the viewer’s attention through its dynamic composition and vivid contrasts. It represents the moment of ecstasy in the heat of battle, where the clash of enemy forces reaches its peak under nature's wrathful gaze.
+Seed: 20097294
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enemy, Ecstasy

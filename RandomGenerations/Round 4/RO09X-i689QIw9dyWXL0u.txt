@@ -1,0 +1,10 @@
+Prompt: Create an oil painting with a grand celestial scene as the central focus. The painting captures a sprawling galaxy in vivid detail; planets, stars, and cosmic clouds are meticulously rendered. A large, ethereal nebula serves as the backdrop, bathing the scene in a surreal, luminescent glow of blues, purples, and hints of gold. 
+
+At the center of the painting is a massive, radiant star surrounded by an intricate swirl of smaller stars and cosmic dust, creating a sense of motion and depth. The lighting emanates softly but powerfully from the star, casting a gentle shimmer across the planets and nebula, which subtly reflects the light.
+
+In the foreground, a figure painted in semi-transparent, spectral hues appears to be floating, arms outstretched towards the central star, their form blending slightly with the surrounding cosmic elements. The figure’s positioning and the light interplay suggest a transcendent connection to the universe, drawing the viewer into the scene. The background is a deep, infinite expanse of space, speckled with distant stars and galaxies, reinforcing the grandeur and endlessness of the universe.
+
+The style is hyper-realistic with an emphasis on detail and clarity, giving it a mystical yet believable quality, making it worthy of display in a museum or gallery.
+Seed: 379176387
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Universe, Ecstasy

@@ -1,0 +1,8 @@
+Prompt: A mesmerizing oil painting occupies the canvas, presenting a frozen landscape where nature’s grandeur unfolds vividly. An immense iceberg, its towering spires and crystalline surfaces bathed in a soft, ethereal light, dominates the scene. The light source seems to be the low Arctic sun, casting long shadows and creating a stark interplay between the iceberg's sharp angles and smooth surfaces. The sky above is an expansive gradient of deepening twilight blues, with hints of the setting sun's amber hues feathering at the horizon. 
+
+In the foreground, a group of polar explorers is captured mid-action, their figures rendered with meticulous detail. Clad in historically accurate, thick, fur-lined parkas and sturdy boots, they are gathered around a campfire, whose warm glow contrasts sharply with the cold blue tones of the iceberg. One explorer, lips parted in a loud, boisterous laugh—frozen in the instant of a guffaw—is holding a metallic cup, likely filled with a hot beverage, which catches the fire's flickering light. 
+
+The background is a vast, snowy expanse, where distant mountains form a rugged horizon under the expansive Arctic sky. The texture of the snow is intricately depicted, each clump and patch reflecting the varying light sources. The overall scene transcends simple representation, creating a dynamic interplay between the serene and the vivid, capturing both the immensity of the natural world and the lively human enthusiasm within it.
+Seed: 815392766
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Guffaw, Iceberg

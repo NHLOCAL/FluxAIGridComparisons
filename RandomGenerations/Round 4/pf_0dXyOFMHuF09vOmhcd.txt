@@ -1,0 +1,4 @@
+Prompt: A renaissance-style oil painting featuring a grandiose marble hall with towering columns and arched ceilings adorned with intricate gold leaf molding. The lighting streams in softly from tall, narrow stained glass windows depicting celestial scenes, casting a kaleidoscope of colors upon the polished, reflective floor. In the center background, a magnificent, glowing altar with an elaborately detailed saintly figure holding scales, symbolizing divine judgment. Surrounding the altar, a group of finely dressed syndicate members engage in a quiet, heated discussion, their opulent, dark clothing in sharp contrast with the sacred ambiance. The subtle texture of the oil paint captures the rich details of the scene, from the shimmering robes to the ancient, storied marble architecture.
+Seed: 2343418563
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Divine, Syndicate

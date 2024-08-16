@@ -1,0 +1,8 @@
+Prompt: The piece is an oil painting featuring a serene, tranquil lakeside at the golden hour, achieved with masterful brush strokes. The perspective is from a low vantage point at the edge of the lake, capturing the vast expanse of water that stretches to the horizon. The lighting is soft and warm, with the setting sun casting long, delicate shadows and suffusing the scene with a golden hue. Tall, ancient trees frame the foreground on either side, their leaves painted with meticulous detail, showing the play of light and shade.
+
+The background depicts the far end of the lake, where the water meets a softly rolling hillside, covered in vibrant greenery. Here, the hills seem to merge with the sunlit sky, where hues of pink, orange, and purple blend seamlessly as the sun dips lower. In the middle ground, small, quaint sailboats with crisp, white sails are gently gliding across the calm water, their reflections captured with stunning accuracy in the mirror-like surface of the lake.
+
+The paint is applied in layers, giving the scene depth and texture, with visible brushstrokes that capture the movement of the breeze and the gentle ripples in the water. The overall style is a blend of realism and impressionism, meticulously detailed yet with a soft focus that hints at the ephemeral beauty of the moment. This is a scene that would captivate viewers in a museum or gallery, drawing them into the calm and timeless quality of nature captured on canvas.
+Seed: 1261511765
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Perspective, Image

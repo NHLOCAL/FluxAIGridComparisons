@@ -1,0 +1,4 @@
+Prompt: An intricately detailed oil painting captures a serene countryside road, bathed in the golden light of early morning. The road, winding and narrow, is bordered by lush, dew-kissed wildflowers in vivid hues of violet, yellow, and white, whose fragrances seem almost tangible. The foliage appears meticulously textured, inviting viewers to envision the subtle scents. In the background, mist lingers above rolling hills, partially obscuring the distant forest and giving a dreamlike quality to the scene. The sky, painted in soft pastels transitioning from lavender dawn to warm peach, adds a tranquil yet invigorating atmosphere. The overall style is hyper-realistic, with delicate brushstrokes that bring out the rich details and vibrant colors, making the viewer feel as if they could step into the painting and breathe in the fresh, fragrant air.
+Seed: 3882674319
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fragrance, Road

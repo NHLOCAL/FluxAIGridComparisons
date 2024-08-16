@@ -1,0 +1,10 @@
+Prompt: A large oil painting showcasing an ancient stone convent resting on the edge of a rugged cliff, overlooking a vast, tumultuous sea. The convent's stone structure is weathered and covered with patches of creeping ivy, with gothic arches and secluded courtyards visible through open gates. Golden light spills from narrow, arched windows, contrasting with the dusky twilight sky overhead that transitions from deep purples to inky blacks.
+
+In the foreground, a hidden treasure chest is partially buried and open, its contents spilling out—a mix of sparkling jewels, ancient coins, and rich fabrics—which gleam subtly in the ambient light. The chest and its trove are nestled amidst brambles and wildflowers, with delicate vines trailing over them, suggesting long periods of hidden seclusion.
+
+The lighting is soft yet dramatic, with the setting sun casting long shadows, highlighting the texture of the stone and the delicate details of the chest's treasures. The backdrop of the stormy sea adds a sense of motion and unease, with waves crashing violently against the cliffside, foam spraying high.
+
+The painting is remarkably detailed, with the artist using fine brush strokes to capture every nuance, from the cracks in the convent walls to the individual gems in the treasure. The style is akin to Romanticism, with an emphasis on drama and the sublime power of nature, mixed with the quiet, almost monastic serenity of the convent. The overall scene feels timeless and meticulously crafted, capturing a moment suspended between discovery and forgotten history.
+Seed: 858371949
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Convent, Treasure

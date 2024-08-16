@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting on a large canvas captures the striking contrast between the dense urbanity of a city and the untouched wilderness. The foreground showcases a bustling city scene at dusk, with towering skyscrapers, their windows aglow with warm, golden lights. A few cars and pedestrians navigate the busy streets, their vivid details painstakingly rendered to capture the energy of urban life. Reflective surfaces, like glass windows and wet pavement, gleam under strategically placed streetlights and the last rays of the setting sun, which casts a pink and orange hue over the scene.
+
+On the horizon, the city abruptly gives way to a lush forest, portrayed with dense, deep green foliage. Towering pine trees rise majestically, their bark textured in detail, with foliage that casts intricate shadows on the forest floor. In the background, jagged mountain peaks, capped with snow, stretch towards a clear, star-filled night sky now emerging. The wilderness is bathed in the cool, silvery light of the full moon, casting long shadows and creating a sense of serene timelessness.
+
+The contrast between the meticulously detailed urban foreground and the serene, untouched backdrop of nature represents a harmonious yet striking juxtaposition. The lighting seamlessly transitions from the artificial, warm glow of the city to the natural, ethereal illumination of the moonlit wilderness, bridging the gap between human innovation and nature's raw beauty.
+Seed: 462781599
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: City, Wilderness

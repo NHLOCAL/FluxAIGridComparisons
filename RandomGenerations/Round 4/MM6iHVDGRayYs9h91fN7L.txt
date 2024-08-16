@@ -1,0 +1,10 @@
+Prompt: An oil painting capturing a dramatic wedding scene set in a grand, historic cathedral. The focus is on the bride and groom standing under an elaborately decorated archway at the altar, both dressed in traditional wedding attire—the bride in a flowing, white lace gown with intricate beadwork and the groom in a classic black tuxedo. The bride’s veil is gently blowing as if caught by a breeze emanating from the arched, stained glass windows behind them, which bathe the scene in soft, multi-colored light.
+
+The moment captured is one of intense energy: the groom is in mid-shout, his mouth open wide, directed towards a group of onlookers in the front row—perhaps friends, perhaps objectors. The guests in the pews are a mix of well-dressed individuals, some seated, some standing, with expressions that range from wide-eyed surprise to curiosity, their faces turned towards the couple. Their elaborate attire adds a rich texture to the scene, with a range of colors and patterns contributing to the opulent setting.
+
+The lighting is a combination of the warm, golden glow from candelabras situated along the aisle and the soft, natural light filtering in through the stained glass, casting a mosaic of colors onto the stone floor and wooden pews. The background is a blend of architectural grandeur—tall, arched ceilings with detailed frescoes, and walls lined with ornate, gold-framed paintings depicting various historical and religious figures.
+
+The painting style is highly detailed and realistic, with a touch of baroque influence, evident in the dramatic lighting and the dynamic poses of the figures. The brushwork is meticulous, each stroke contributing to the texture of the fabrics, the sheen of the surfaces, and the intricate details of the environment. The overall composition is balanced, drawing the viewer’s eye towards the central figures of the bride and groom, yet inviting a deeper exploration into the surroundings and the myriad of reactions from the attendees.
+Seed: 4038877259
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wedding, Shout

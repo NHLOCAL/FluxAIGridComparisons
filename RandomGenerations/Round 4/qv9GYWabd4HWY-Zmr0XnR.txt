@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting depicts a classic 1950s diner at twilight. The scene is bathed in the soft, ambient, blue tones of the evening sky, with the warm golden glow of the diner's neon sign and interior lights spilling out through large windows onto the surrounding sidewalk. The diner's chrome and red vinyl aesthetics are meticulously detailed, every gleam and reflection captured with precision. 
+
+Inside, seated at a corner booth is a mage, garbed in flowing deep blue robes adorned with silver embroidery that catches the light subtly. The mage’s hood is pulled back, revealing wisps of white hair and an ageless face deep in contemplation as they peruse an ancient, leather-bound tome spread on the table. A staff with a faintly glowing crystal orb leans against the booth’s wall within reach.
+
+The background is a bustling yet serene street scene, with period-appropriate cars parked along the curb and a few pedestrians going about their evening. The dim, late summer light casts long shadows and subtle highlights, enhancing the realism of the meticulously painted details. The contrast between the mundane setting of the diner and the mystical presence of the mage creates a striking, thought-provoking image that invites closer inspection.
+Seed: 3478838930
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Diner, Mage

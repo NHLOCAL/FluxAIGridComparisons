@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting depicts a quiet, sunlit room with floor-to-ceiling windows that open out to a lush, green garden. The sunlight filters through sheer white curtains, casting delicate shadows and illuminating various elements within the room. In the center of the room stands an antique wooden table with intricate carvings. On it lies an open book with yellowed pages, as if recently read and gently put aside. Beside the book, a small potted plant with vibrant green leaves seems almost alive, reaching towards the light.
+
+To the left, a comfortable armchair, upholstered in deep blue velvet, appears well-worn with signs of frequent use - the cushions slightly indented and the fabric softened by time. Above the chair hangs a large framed portrait of an elderly woman with a kind, weathered face, her eyes almost seeming to gaze at the open book, creating a connection between past and present.
+
+The background shows a meticulously detailed bookshelf filled with a variety of books, their spines in an array of colors and sizes, hinting at years of collection and cherished reading. The room's walls are painted in a warm, light beige, which complements the natural wooden floor, polished to a soft shine.
+
+The lighting in the painting brings a golden warmth to the room, making all the elements feel cohesive and inviting. The meticulous attention to detail, from the texture of the upholstery to the gentle sway of the curtains, creates a lifelike and immersive scene. This work of art is a testament to the everyday beauty found in quiet moments of solitude and reflection.
+Seed: 4049567527
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Connection, Truth

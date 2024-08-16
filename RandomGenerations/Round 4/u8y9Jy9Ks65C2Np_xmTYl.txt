@@ -1,0 +1,6 @@
+Prompt: A large, bustling Mediterranean market scene depicting a warm, sunlit day. This is an oil painting with rich, bold colors and intricate details that make it gallery-worthy. In the foreground, vendors are displaying a vibrant array of fresh produce, spices, and textiles on wooden stalls. The light casts soft but distinct shadows, creating depth and highlighting the textures of the fruits and fabrics. To the left, a woman in traditional attire is captured mid-conversation with a vendor, while children weave their way through the crowd. 
+
+The background features an ancient stone stadium partially visible, indicating the market's historical setting. Its towering arches and weathered walls contrast with the lively market activity below. The sky is a brilliant blue with wisps of white clouds, and the soft golden light of late afternoon illuminates the scene. The painting style is realistic with meticulous attention to detail, making each element feel tangible and life-like. The atmosphere is busy yet orderly, every inch of the canvas filled with purposeful activity and vivid color.
+Seed: 1151452093
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stadium, Market

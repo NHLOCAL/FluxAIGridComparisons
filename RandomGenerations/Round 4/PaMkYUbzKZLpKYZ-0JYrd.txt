@@ -1,0 +1,4 @@
+Prompt: A breathtaking oil painting captures an expansive, serene forest where the interplay of light and shadow creates a bewitching ambiance. Rays of soft, ethereal sunlight filter through the thick canopy of towering trees, illuminating patches of lush, verdant undergrowth. The artist's brushwork showcases exquisite detail, with leaves and foliage rendered in varying shades of green, dappled with warm golden hues. The background reveals a meandering, crystal-clear stream that glistens softly as it winds its way through the forest. Here and there, ancient, moss-covered rocks punctuate the stream’s edges, adding depth and texture to the scene. The painting’s composition leads the eye toward a distant glade, where a delicate mist hangs in the air, hinting at the boundless capacity of nature's beauty and mystery.
+Seed: 2064316960
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bewitching, Capacity

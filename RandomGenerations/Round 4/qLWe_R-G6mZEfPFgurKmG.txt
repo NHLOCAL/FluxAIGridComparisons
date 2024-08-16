@@ -1,0 +1,8 @@
+Prompt: A meticulously detailed oil painting set in a cluttered, old-world library. The scene captures a high, arched ceiling with beams of natural light filtering through tall, leaded glass windows that cast a gentle, golden hue across the room. The foreground showcases a large, polished wooden table scattered with ancient, open books, scrolls, and quills. A globe is positioned to one side of the table, partially turned to Africa, hinting at historic explorations. 
+
+In the mid-ground, shelves upon shelves of leather-bound tomes rise to the ceiling, with a sliding ladder to the right, caught in the motion of being loosely held by an elderly man. He wears a simple, yet elegant, dark waistcoat and round spectacles, peering thoughtfully at a text in his hands. A grandfather clock stands sentinel in the background, its hands frozen at midday, providing a timeless quality to the scene.
+
+The painting utilizes chiaroscuro to heighten contrast, with shadows creating depth and drawing focus towards the scholar and his illuminated position at the center of the scene. The style is reminiscent of the Dutch Golden Age, with rich details and textures that invite closer inspection. The background features a distant archway leading to more rooms, hinting at an endless repository of knowledge and history.
+Seed: 1912972423
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Knowledge, Perspective

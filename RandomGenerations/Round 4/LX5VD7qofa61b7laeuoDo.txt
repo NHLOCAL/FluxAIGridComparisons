@@ -1,0 +1,12 @@
+Prompt: A meticulously detailed oil painting captures the essence of a stormy night in a serene, forested landscape. The scene is dominated by towering, ancient trees with gnarled branches that stretch skyward, their foliage thick and dark green, almost blending with the night. In the background, a dense canopy of emerald leaves is intermittently illuminated by the stark, jagged flashes of lightning severing the inky black sky, casting fleeting, intense light that makes the scene almost surreal.
+
+At the heart of the composition, nestled within the protective embrace of the forest, lies a quaint log cabin. The cabin's windows are shuttered, and its roof is slick with rain, glistening under the sporadic bursts of light. The soft, yellow glow from a single oil lamp inside leaks through small gaps in the shutters, suggesting a cozy refuge within. Surrounding the cabin, a mist is rising from the forest floor, thickening the air, and giving the scene an ethereal, dream-like quality.
+
+The lower part of the painting captures the wet, forest floor blanketed with fallen leaves, vibrant mushrooms, and creeping ivy. Puddles reflect the sporadic light from the storm above, and the shadows cast are long and hauntingly beautiful.
+
+The background features distant, rolling hills that disappear into the horizon, shrouded in a veil of relentless rain. The sky above is a masterful display of swirling indigo and charcoal clouds, with occasional glimpses of the moon peeking through the tumult.
+
+The brushstrokes are both bold and delicate, capturing the raw power of the thunderstorm and the peaceful stillness of the night, with a monochromatic palette punctuated by vibrant bursts of light and the serene glow of the cabin. This oil painting evokes the majestic power of nature and the safe haven found in the depths of a stormy forest night.
+Seed: 98138379
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Thunder, Sleep

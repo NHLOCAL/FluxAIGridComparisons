@@ -1,0 +1,4 @@
+Prompt: A serene oil painting depicting a golden field of wheat under a vast, radiant sky at dawn. In the center of the field, a rustic wooden cross stands tall, adorned with a simple garland of flowers. The soft light of the rising sun casts a gentle glow over the scene, creating long shadows and highlighting the intricate textures of the wheat and wood. In the foreground, a family, dressed in modest, timeless clothing, kneels in prayer, their figures partially silhouetted against the light. The background shows a distant, peaceful village with a small steepled church, partially enveloped in a soft morning mist. The painting style is highly detailed and realistic, with rich, warm colors and soft, blended brushstrokes that evoke a sense of calm and reverence.
+Seed: 1502596218
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Thankfulness, Faith

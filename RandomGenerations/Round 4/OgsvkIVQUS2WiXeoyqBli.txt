@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting captures a serene bedroom scene at dawn. The room is bathed in the gentle, amber glow of early morning sunlight streaming through partially opened, floor-to-ceiling windows, casting soft, elongated shadows across the wooden floor. In the foreground, a neatly made bed with white linen sheets and a dark olive-green velvet duvet sits against a finely textured blue-grey accent wall. To the left of the bed, there is a nightstand with a vintage brass lamp, its light turned off, yet catching the sunlight, making it gleam subtly. 
+
+On the right side, a mid-century modern armchair upholstered in muted teal fabric is paired with a small wooden table holding an open book and a pair of round reading glasses. Green leafy plants in rustic terracotta pots, arranged around the room, add a touch of natural life and tranquility. 
+
+In the background, a large, abstract painting mounted above the headboard, made with broad strokes of deep blues and swirling golds, hints at a dreamlike, subconscious state, contrasting the awake, orderly nature of the bedroom setting. The painting, though abstract, feels like a window into another dimension, enticing yet enigmatic. The polished wooden floor reflects the fine details of the room and the subtle interplay of light and shadow, imbuing the scene with a sense of calm and clarity.
+Seed: 2686001090
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Subconscious, Awake

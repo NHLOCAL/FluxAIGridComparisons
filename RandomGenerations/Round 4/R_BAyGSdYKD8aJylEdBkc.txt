@@ -1,0 +1,10 @@
+Prompt: A highly detailed oil painting set against a galactic backdrop. The central figure is a majestic centaur, standing tall and proud with the upper body of a strong, chiselled human and the robust lower body of a sleek, muscular horse. The centaur's human skin is painted with a lifelike texture, demonstrating an array of taut muscles under a sheen of sweat that reflects ambient starlight. The horse body has a soft, glossy coat with a deep chestnut brown that is illuminated by the ethereal light of distant stars. 
+
+The centaur's arms are extended as if casting a spell, with their hands glowing and surrounded by spirals of translucent, iridescent glass orbs that float and shimmer around them. The orbs catch the light and seem to absorb the stars' glow, creating a magical aura of mystique. The lighting is a blend of cool blues and purples, accented by the silvery white of the stars, providing stark contrasts and lending a three-dimensional depth to the scene.
+
+The backdrop consists of a mesmerizing spread of galaxies, nebulous clouds, and distant twinkling stars with flecks of cosmic dust, painted with such detail that it draws the viewer into the infinite expanse of space. Dust clouds are depicted in swirling patterns, ranging from deep blues and blacks to radiant magentas and soft pinks, creating a sense of movement and depth. The centaur stands on what appears to be a surface of solidified stardust and shattered glass, which crunches underfoot and reflects the celestial colors above, grounding the mythical creature amid the endless universe.
+
+The overall style combines hyperrealism for the centaur and the glass elements, with an abstract surrealism for the background, blending the two seamlessly to create a scene that is both dramatic and awe-inspiring, perfectly worthy of a grand exhibition in a museum or art gallery.
+Seed: 933208887
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Centaur, Glass

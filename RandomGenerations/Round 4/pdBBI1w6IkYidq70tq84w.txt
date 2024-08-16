@@ -1,0 +1,12 @@
+Prompt: A large, captivating oil painting depicts a breathtaking cosmic event: a supernova explosion in a distant galaxy. The epicenter of the canvas is dominated by a brilliant, fiery burst of light, painted with dynamic strokes of white, gold, and orange. The explosion radiates outward, transitioning into shades of deep red and violet, and finally dispersing into the inky blackness of space, scattered with distant stars.
+
+In the foreground, the silhouette of an ancient, weathered tree stands alone on a barren hill, its gnarled branches reaching out as if in awe. The tree is meticulously detailed, with intricate bark textures and twisted limbs painted in muted browns and grays. The ground beneath the tree is rocky and uneven, shaded in dark, earthy tones to contrast with the luminescence of the supernova.
+
+The light from the explosion casts long shadows and a warm, ethereal glow across the landscape, highlighting the contours of the tree and the undulating terrain. Tiny specks of glowing debris from the supernova add a sense of wonder and dimension to the otherwise desolate scene.
+
+The background consists of a vast and endless night sky, dotted with faint galaxies and nebulae, meticulously rendered to give the impression of the infinite expanse of the universe. The use of chiaroscuro creates a dramatic contrast between the intense brightness of the supernova and the dark void of space, focusing the viewer's attention on the relationship between creation and destruction.
+
+This museum-worthy oil painting stands out for its impeccable detail and striking use of color and light, inviting viewers to ponder the enormity of cosmic events and the enduring presence of nature amidst the grandeur of the universe.
+Seed: 499270797
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Supernova, Responsibility

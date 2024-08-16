@@ -1,0 +1,10 @@
+Prompt: A grand oil painting, sized to dominate a museum gallery wall, captures a sweeping valley panorama post-rainstorm. In the mid-ground, a vibrant and full-spectrum rainbow arches across the sky, juxtapositing against chiaroscuro clouds that fragment with beams of sunlight. The lighting is dramatic and multi-directional, emanating from both the sun breaking through the storm clouds and the refracted glow of the rainbow itself, casting an ethereal luminescence over the scene.
+
+The painting's foreground is deeply textured with wildflowers and grasses, each dewdrop meticulously rendered to catch the dispersed light, creating a sparkling, almost mystical effect. The middle-ground is populated with rolling hills that arc gracefully into the distance, leading the eye towards a distant village with neatly clustered rooftops and a spired church, which gives a sense of scale and depth to the scene. 
+
+The background comprises towering, blue-gray mountain ranges partially obscured by lingering mist, their jagged peaks softened by the atmospheric haze. The sky, still pregnant with departing storm clouds, transitions from deep, brooding grays near the mountains to a lighter, warmer hue near the horizon, highlighted by the parallel arc of the rainbow.
+
+The painting exudes a hyper-realistic style, where meticulous attention to detail creates a lifelike portrayal that transcends photographic realism, becoming a visual spectacle worthy of prolonged contemplation.
+Seed: 1018639510
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spectacle, Rainbow

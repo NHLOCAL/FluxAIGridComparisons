@@ -1,0 +1,8 @@
+Prompt: An oil painting vividly portraying a wartime propaganda campaign in a dilapidated urban environment. The scene is set in a narrow, rubble-strewn alleyway, bordered on both sides by crumbling brick buildings with shattered windows. In the center of the frame, a larger-than-life, garish poster of a political leader is plastered across one of the building walls. The leader's exaggerated smile and pristine uniform starkly contrast with the grim surroundings, highlighting the disconnect between propaganda and reality. In front of the poster, a few scattered and tattered leaflets litter the ground, partially covered in dirt and grime.
+
+The lighting is harsh and artificial, casting long, dark shadows on the broken pavement. It appears to be early dawn, with the sky a dull, overcast gray, giving the entire scene an eerie, cold atmosphere. This lighting brings into sharp relief the grotesque details of decay: rusting pipes, graffiti-covered walls, and debris that hint at the everyday struggle in the war-torn neighborhood.
+
+The style of the artwork is hyper-realistic, with meticulous attention to texture and detail. The brushstrokes are fine and precise, capturing every nuance of the grimy surfaces and the forlorn setting. The realistic portrayal enhances the stark contrast between the vibrant, almost mocking face of the leader on the poster and the surrounding desolation. The background showcases a collection of partially collapsed buildings, with bare, skeletal frameworks exposed, symbolizing the destruction and the dire situation of the environment facing the relentless campaign rhetoric.
+Seed: 1067737506
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Disgust, Campaign

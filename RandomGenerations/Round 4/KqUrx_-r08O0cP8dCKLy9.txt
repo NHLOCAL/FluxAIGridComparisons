@@ -1,0 +1,12 @@
+Prompt: Imagine a large oil painting that could be hung in an esteemed art gallery. The central scene depicts a serene, starlit night sky over a quaint, rustic village nestled in a valley. Each house has a thatched roof and classic wooden structure, illuminated softly by golden-hued lanterns hanging by the doors and windows. The architecture reflects a blend of historical European influences, with intricate details reminiscent of medieval craftsmanship. The streets are cobblestone, reflecting the gentle glow of the lights.
+
+The sky dominates the canvas, filled with stars that seem to be almost tangible, painted with a kind of luminescence that makes them appear like diamond dust scattered across a velvet blanket. The Milky Way is a shimmering river that cuts through the celestial expanse, while distant galaxies add depth and intrigue. 
+
+The lighting in the painting is predominantly moonlight, casting long, soft shadows and giving the landscape a cool, blue-toned ambiance. There is a subtle warm contrast with the orange lights from the village, creating a harmonious balance between night and the gentle signs of human life. 
+
+The background features rolling hills that gradually meet a dense, ancient forest, painted in deep greens and greys. Behind the hills, distant mountain peaks rise, their tips capped with snow that glows faintly under the starlight. 
+
+The style of the painting is a blend of realism and impressionism, with meticulous attention to detail in the village and expressive, flowing strokes that give texture to the sky and landscape. Overall, the scene is an intricate interplay of light and shadow, natural beauty, and human craftsmanship, creating a timeless, contemplative tableau.
+Seed: 1785283449
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Influence, Stars

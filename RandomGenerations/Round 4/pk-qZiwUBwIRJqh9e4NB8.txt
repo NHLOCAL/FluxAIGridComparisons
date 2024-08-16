@@ -1,0 +1,4 @@
+Prompt: A serene cobblestone path winds through a lush, sun-dappled forest in an impressionist oil painting. Tall trees on either side arch slightly overhead, their dense canopies filtering the golden afternoon light into a warm, gentle glow that casts playful shadows on the path. The foliage is a mix of vibrant greens with occasional bursts of flowers in hues of yellow, red, and purple, creating a lively and inviting scene. In the distance, the path leads to an open clearing, suggesting a sense of adventure and discovery. The painter's brushstrokes are fluid and dynamic, capturing the essence of movement and life in the environment. The background features a soft-focus depiction of rolling hills bathed in sunlight, enhancing the idyllic and timeless nature of the scene.
+Seed: 3998818049
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Path, Joy

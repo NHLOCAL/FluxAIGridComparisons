@@ -1,0 +1,10 @@
+Prompt: A masterfully crafted oil painting captures a bustling, ancient Moroccan marketplace at dusk. The rich, textured brushstrokes bring to life a labyrinth of narrow, winding streets, with the walls of the buildings painted in warm, earthy tones of ochre and terracotta. The foreground of the painting showcases a vendor's stall teeming with a colorful array of spices, their granular textures almost tangible. Small tagines and woven baskets containing herbs are meticulously detailed, with minute, deliberate strokes that convey their individual essence.
+
+The scene is bathed in the soft, golden light of the setting sun which casts long, intricate shadows across the cobblestone pathways. Lanterns hanging from the upper eaves of the surrounding buildings begin to glow, their flickering light reflecting off metalware and adding a sense of depth and warmth. In the background, distant minarets and domes fade into a purplish twilight sky dotted with the first stars.
+
+The air is thick with the implied aromas of saffron, cumin, and freshly baked bread, and the sense is conveyed through the visible dust particles suspended in the air, catching the light. People in traditional Moroccan attire engage in the timeless act of bartering, their robes rendered with a fine level of detail that showcases the texture of the fabric.
+
+In the distance, the outline of olive trees and date palms forms a natural border, beyond which lies a hint of the Sahara desert, its golden dunes just perceptible under the twilight. The painting captures the smell of earth and spices blending seamlessly with the warmth of the day cooling into night, creating an almost tangible experience for the viewer.
+Seed: 1377467902
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Smell, Reality

@@ -1,0 +1,8 @@
+Prompt: A meticulously detailed oil painting showcases a majestic dragon perched atop a craggy cliff, with its powerful wings partially unfurled as if on the cusp of flight. Its lustrous scales shimmer in shades of emerald green and deep indigo, reflecting the dim golden hues of the setting sun that casts long shadows across the rugged terrain. The dragon's glowing eyes are fixed on the distant horizon, embodying a deep, almost palpable sense of yearning for the unknown beyond.
+
+Surrounding the dragon, the cliff is covered in gnarled, ancient trees with twisted branches that seem to reach out towards the sky, their leaves rustling softly in an unseen breeze. Below the cliff, a dense, misty forest stretches out, gradually fading into shades of blue and grey as it recedes into the distance. The scene is bathed in a warm, ethereal light that enhances the rich textures of the dragon's scales and the intricate details of the foliage. The background features a vast, open sky painted in gradient tones from deep orange near the horizon to dark indigo at the zenith, adorned with wisps of clouds in soft purples and pinks.
+
+The style of the painting blends realism with fantasy, capturing the dragon's intricate details and the natural beauty of the landscape with masterful brushwork and dynamic lighting. The overall composition draws the viewer’s gaze to the dragon’s contemplative expression and the beckoning horizon, evoking a timeless sense of wonder and discovery.
+Seed: 4221178192
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dragon, Yearning

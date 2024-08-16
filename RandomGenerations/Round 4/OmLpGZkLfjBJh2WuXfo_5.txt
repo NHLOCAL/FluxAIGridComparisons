@@ -1,0 +1,14 @@
+Prompt: A large, detailed oil painting dominates the gallery's center wall, masterfully depicting a serene mountain landscape. The scene captures an early morning moment where the rising sun casts a soft, golden hue over the peaks, creating elongated shadows that stretch down the slopes and into the valley below. Each brushstroke in the sky blends shades of orange, pink, and purple, transforming seamlessly into the snow-capped peaks of the mountains.
+
+The foreground is filled with lush, evergreen trees, their needles rendered in meticulous detail, glistening like they’re still wet with dew. A clear, sparkling stream runs through the scene, reflecting the sunlight in a dazzling display of shimmering light and transparent blue-green. These reflections dance across the water’s surface, creating a mesmerizing interplay of light and shadow that draws the viewer’s eye across the canvas.
+
+Mid-ground features detailed rock formations jutting out from the mountainside, their textures so finely captured they seem almost touchable. Tiny wildflowers with brilliant colors dot the landscape, adding splashes of red, yellow, and blue among the greenery.
+
+The distant background is filled with layers of mountains, each progressively more muted, giving a sense of vastness and depth. The furthest peaks are shrouded in a gentle mist, suggesting the cool crispness of the mountain air and the isolation of the high altitudes.
+
+The lighting throughout the painting is natural and soft, with delicate rays of sunlight breaking through scattered clouds, casting a gentle, serene glow over the entire scene. The artist’s technique in capturing the interplay of light and shadow is flawless, adding a dynamic yet tranquil effect to the composition. 
+
+In the bottom right corner, a red fox pauses mid-step, its fur meticulously painted to reflect the shifting sunlight, adding a touch of life and movement to the otherwise still scene. The detailed, realistic style of the painting showcases exceptional skill, making it a piece worthy of deep admiration in any museum or gallery.
+Seed: 1488045178
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Effect, Mountain

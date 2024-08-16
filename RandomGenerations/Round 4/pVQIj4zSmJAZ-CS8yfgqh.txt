@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting captures two lifelong friends as they embark on a scenic mountain route. The scene is set during autumn, with vibrant fall foliage in various shades of red, orange, and yellow framing the winding path. The friends are depicted mid-conversation, walking side-by-side with a sense of purpose and familiarity in their steps. One carries a hiking stick while the other has a backpack slung over one shoulder.
+
+The lighting in the painting is natural, suggesting late afternoon with the sun casting a warm, golden hue across the landscape. Long shadows stretch across the ground, indicating the approach of evening. The background features towering, jagged peaks dusted with the season's first snow, and a distant waterfall cascading down a rocky ledge, adding an element of dynamism to the serene setting.
+
+Details in the painting are meticulously rendered: from the texture of their worn leather boots to the leaves crunching underfoot, and the faint breath visible in the crisp air. The painter’s brushwork and layering technique create a rich, textured surface that brings the scene to life. The overall style is classical with a touch of contemporary realism, making it worthy of display in a museum or gallery.
+Seed: 948101866
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Friend, Route

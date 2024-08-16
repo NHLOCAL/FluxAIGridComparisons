@@ -1,0 +1,4 @@
+Prompt: A vibrant oil painting depicting a dynamic street market at dawn, bustling with activity. The scene is filled with vendors, their stalls overflowing with colorful fruits, vegetables, and fabrics. The early morning light casts a warm golden glow, creating long shadows that dance across the cobblestone streets. The background features historic buildings with ornate facades, their windows reflecting the bright hues of the market. People of various ages and backgrounds interact warmly, exchanging goods and lively conversation. The painting style is impressionistic, with bold brush strokes and vivid colors capturing the energy of the moment.
+Seed: 2272685569
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enthusiasm, Association

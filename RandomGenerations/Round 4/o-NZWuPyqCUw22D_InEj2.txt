@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting depicts a large dahlia in vivid, intricate detail. The flower is captured from a low-angle perspective, enhancing its grandeur and the natural intricacies of its petals. Each petal is meticulously defined with delicate strokes and a range of shades from deep magenta to soft pink. The lighting is soft and diffused, originating from the upper left corner, casting gentle shadows that add depth and dimension to the flower. The background is a blurred blend of fresh greens and muted earth tones, suggesting a garden setting in a gentle, abstract manner, allowing the focus to remain solely on the magnificent dahlia. The piece is framed in an elegant, dark wooden frame with subtle gold leaf details, enhancing its sophisticated presentation.
+Seed: 464733335
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Flower, Angle

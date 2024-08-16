@@ -1,0 +1,8 @@
+Prompt: A masterfully composed oil painting portrays a dramatic moment where a bolt of lightning splits the stormy night sky over a cliffside setting. The scene is set during an intense thunderstorm, with dark, swirling clouds casting a shadow over the rugged cliffs and turbulent ocean waves crashing against the rocks below. The painting captures the precise instant the lightning bolt illuminates the landscape with a brilliant, white-blue glow, highlighting the jagged edges of the cliffs and the churning sea.
+
+In the foreground, a lone figure, cloaked and hooded, stands on the edge of the cliff, holding a small, ornately wrapped gift box towards the sky. The lightning's harsh light reflects off the metallic accents on the box, drawing the viewer's eye to the intricate details and craftsmanship of the object. The background is a gradient of dark sky melding into the restless sea, with subtle strokes of blue and gray creating depth and movement.
+
+The artist employs a realistic, yet dramatic style, using bold brush strokes and a rich, dark palette to convey the intensity and solemnity of the scene. The lighting is stark and theatrical, with sharp contrasts between the illuminated sections of the painting and the deep shadows that seem to swallow the figure and the surroundings. The overall composition is balanced and dynamic, leading the viewer’s gaze from the explosive brilliance of the lightning to the solitary figure and the mysterious gift they hold aloft.
+Seed: 1057500342
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lightning, Gift

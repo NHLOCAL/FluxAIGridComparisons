@@ -1,0 +1,10 @@
+Prompt: An intricately detailed oil painting depicting a late 19th-century ballroom scene. The room is vast, with high, ornately decorated ceilings filled with golden chandeliers that cast a soft, warm light across the space. The floor is a highly polished mahogany wood, reflecting the light and the figures dancing upon it. The painting captures the fluid movement of elegantly dressed couples engaged in a waltz, their flowing gowns and coattails creating dynamic arcs that guide the viewer's eye through the scene. 
+
+The figures are rendered with a sense of realism, each face and attire meticulously detailed to capture the era's fashion. The lighting highlights the sheen of satin dresses and the richness of velvet jackets, while also casting delicate shadows that add depth to the characters' forms. Background elements include tall windows with heavy drapes, intricate crown moldings, and large, ornate mirrors that subtly reflect parts of the scene, adding layers to the composition.
+
+A small ensemble of musicians is positioned on an elevated platform to one side, their instruments and sheet music detailed to show mid-performance activity, with bows drawn across strings and fingers pressed against keys. The backdrop is an array of rich, dark tones, helping to frame the lively motions and bright attire of the dancers, while also giving a sense of a grand, timeless setting.
+
+In the foreground, a young woman, slightly apart from the dancers, is caught mid-twirl, her slightly upturned face and cascading curls frozen in an almost magical moment that suggests an enchanted spell over the scene. The intricate lace of her gown's hem is slightly blurred, emphasizing her movement and adding a touch of ethereal grace to the scene. This depiction captures not just a historical moment but invokes the timeless allure and elegance of classical ballroom dance.
+Seed: 1426162559
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Movement, Spell

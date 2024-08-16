@@ -1,0 +1,12 @@
+Prompt: A masterfully composed oil painting, showcasing a tranquil, ancient cemetery at dawn. The scene is skillfully captured in the style of Romanticism, with a focus on detailed textures and a sublime interplay of light and shadow. The foreground features delicately carved tombstones, weathered by time, with intricate inscriptions barely visible through the moss that has encroached over the centuries. Some gravestones are adorned with faded floral patterns, carved angels, and ivy tendrils that softly drape over their stone surfaces. 
+
+In the middle ground, a cobblestone path winds through the cemetery, guiding the viewer’s eye past rows of neatly aligned graves and leading towards a grandiose mausoleum. The mausoleum stands in solemn prominence, its Gothic architecture emphasized by the early morning light that filters through the trees, casting long, gentle shadows that stretch across the path. 
+
+The background is dominated by an expansive grove of towering, ancient oaks whose branches interlace high above, creating a dense canopy that only sporadically allows the dawn’s first rays to pierce through. The leaves, painted with exquisite detail, exhibit a lush green tinged with the first hints of autumn. Beyond the trees, the faint outline of misty hills can be seen, adding a layer of depth to the composition. 
+
+The lighting is ethereal, with the early dawn gently illuminating the scene, casting a soft, golden hue over the landscape. This light creates a harmonious contrast between the dark, moss-covered stones and the vibrant green of the foliage, enhancing the textures and bringing a sense of timelessness to the cemetery. The overall atmosphere is both serene and majestic, inviting viewers to reflect on the passage of time and the enduring beauty of the past. 
+
+The painting exemplifies technical merit through its meticulous attention to detail, masterful handling of light and shadow, and the evocative portrayal of the cemetery as a place of both solemn remembrance and tranquil beauty.
+Seed: 166104441
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cemetery, Merit

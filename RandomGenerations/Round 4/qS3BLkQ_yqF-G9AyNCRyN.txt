@@ -1,0 +1,10 @@
+Prompt: A mixed-media oil painting on canvas showcasing a bustling Parisian street scene during the early 20th century. The viewer is placed at a slightly elevated angle, offering a panoramic view of cobblestone streets lined with charming, vintage storefronts displaying ornate signs. An elegant Art Nouveau facade dominates the foreground, with intricate wrought iron balconies adorned with overflowing flower pots of geraniums and petunias.
+
+Unfurled canopies in deep shades of burgundy and emerald provide shelter for outdoor café tables, where patrons in period attire leisurely sip their beverages and engage in conversation. Horse-drawn carriages and early automobiles share the streets with well-dressed pedestrians holding parasols and wearing hats. The figures are painted with fine brush strokes, capturing elaborate clothing textures and detailed facial features.
+
+The ambiance is complemented by warm, golden hour lighting that casts elongated shadows across the scene, illuminating the creamy beige and pastel tones of the buildings. The sky holds a golden-pink gradient blending seamlessly into a deeper twilight hue, hinting at the approaching evening. In the distant background, the iconic silhouette of the Eiffel Tower rises, partially obscured by delicate tendrils of mist, adding an air of grandeur and sophistication.
+
+The painting style is highly detailed and realistic with a touch of Impressionist influences, capturing the vibrancy and grandeur of a bygone era. The edges of the canvas display subtle textures of the oil medium, giving the scene a tactile richness and depth that invites viewers to closer inspection, marveling at the intricacies of the historical depiction. This artwork would not only serve as a piece of historical reference but also as a testament to the artistic finesse, ideal for a prominent position in a prestigious museum or art gallery.
+Seed: 2317409570
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Novelty, Hall

@@ -1,0 +1,10 @@
+Prompt: An oil painting titled "The Oracle's Breeze," capturing the enigmatic moment of a seer amidst a rugged, ancient cliffside. The scene is set during the golden hour, where the low sun casts long, soft shadows and bathes the entire landscape in a warm, amber hue. 
+
+The Oracle, an elderly woman with long, flowing silver hair that catches the light, is standing with her arms gently extended towards the horizon. Her robes are earthy tones of sienna and umber, intricately detailed with patterns reminiscent of ancient scripts. The breeze lightly lifts her hair and the fabric of her clothing, giving a sense of gentle movement.
+
+The cliffside is rugged and detailed with weathered rocks, tufts of wild grass, and moss. In the background, a vast, rolling landscape stretches out to meet a tranquil sea, the water sparkling and golden under the setting sun. Distant mountains rise hazily in the background, their peaks partially obscured by thin, wispy clouds. 
+
+The lighting emphasizes the contrast between the warm glow of the sun and the cooler tones of the shadows, creating depth and highlighting the textures of the rocks, the Oracle's hair, and her robes. The style of the painting is realistic with an ethereal touch, capturing intricate details while also imparting a sense of timeless mystery in the Oracle's presence.
+Seed: 3211699516
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Oracle, Breeze

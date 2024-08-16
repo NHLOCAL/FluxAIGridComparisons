@@ -1,0 +1,10 @@
+Prompt: A museum-worthy oil painting captures a serene wetland at dawn. Gentle, muted light blankets the scene, as the sun peeks just above the horizon, casting soft, warm hues of pink and orange across the sky. Wisps of mist rise from the water, subtly diffusing the morning light and partially veiling the distant tree line. The wetland itself is a calm expanse of shallow water, interspersed with clusters of reeds and lily pads. The water's surface is a glassy mirror, reflecting the sky and the surrounding vegetation with striking clarity.
+
+In the foreground, a solitary, leafless tree stands with gnarled branches reaching out, its reflection perfectly mirrored in the still water below. The bark of the tree is textured with intricate detail, showcasing years of growth and resilience. Surrounding the tree, delicate ripples suggest minimal movement, enhancing the tranquil atmosphere.
+
+Background elements include a distant line of low, rolling hills. They are softly blurred by the mist, adding depth and a sense of mystery to the horizon. The color palette features subtle earth tones, greens, and the soft pastels of the dawn sky, meticulously blended to create harmony and depth.
+
+This oil painting's meticulous brushstrokes and attention to natural light and texture immerse the viewer in the hushed beauty of this untouched wetland sanctuary, capturing the fleeting stillness of dawn in nature.
+Seed: 3286349354
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hush, Wetland

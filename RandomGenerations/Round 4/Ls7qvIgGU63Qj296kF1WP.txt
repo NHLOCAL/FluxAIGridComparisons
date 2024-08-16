@@ -1,0 +1,8 @@
+Prompt: Create an oil painting showcasing an urban alley that celebrates diversity. The alley is narrow and cobblestone, with weathered, graffiti-adorned brick walls on either side. The walls feature a wide array of vibrant street art created by various artists, depicting different cultural motifs, faces of diverse individuals, and abstract patterns interweaving seamlessly. Midway down the alley, there's a cozy, worn wooden bench with a colorful mosaic design on its backrest.
+
+Sunlight filters through gaps between the buildings, casting soft, scattered light that highlights different parts of the alley, creating a lively interplay of light and shadow on the cobblestones. A variety of plants in mismatched pots line one side of the alley, their lush greens contrasting with the bright hues of the murals. The background reveals a glimpse of the urban skyline, with modern high-rises dotting the horizon, juxtaposing the historical charm of the alley.
+
+Figures of people from different walks of life are captured mid-motion in the painting, going about their day—one person walks a dog, another reads a book on the bench, while a group of children play near a brightly colored mural. Their clothing reflects a mixture of cultures and styles, further emphasizing the theme of diversity. The scene is lively yet intimate, inviting viewers to explore the rich textures and stories embedded in the alley.
+Seed: 1970257658
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Diversity, Alley

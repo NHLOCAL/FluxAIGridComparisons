@@ -1,0 +1,8 @@
+Prompt: A large-scale oil painting on a canvas positioned in a prestigious art gallery. The scene captures the aftermath of a devastating hurricane in a coastal town. The foreground depicts a shattered window of an old, once-cheerful house, its framework precariously leaning. Strewn across splintered wood and shattered glass sits a child's toy, waterlogged and abandoned. In the mid-ground, a tattered American flag clings to a bent flagpole, its stars barely visible through the debris. The trees are skeletal, stripped of leaves and broken, their barren branches pointing upwards like accusing fingers. 
+
+The background shows the remnants of a town, with roofs torn off buildings, and vehicles overturned and piled atop one another. The sky is painted with swirling, dark clouds, tinged with an eerie green hue, signaling the storm's recent passage. Sharp, contrasting light shines from a break in the clouds, casting elongated shadows that emphasize the scene's depth and desolation. 
+
+The style is hyper-realistic, capturing minute details such as the texture of the splintered wood, the ripples in the water-filled potholes, and the fraying threads on the abandoned toy. The lighting is dramatic: shafts of light pierce through the ominous clouds, illuminating the town's ruin while casting dark, long shadows, enhancing the sense of desolation and abandoned normalcy. This painting pulls the viewer into a scene of stark reality and the stark consequences of natural disasters on human life and settlements.
+Seed: 2129644397
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hurricane, Lie

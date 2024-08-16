@@ -1,0 +1,8 @@
+Prompt: A highly detailed oil painting depicting a dynamic scene under a stormy sky. At the forefront is a magnificent stallion, muscles rippling with vigor, mane and tail flowing wildly as if caught in an intense wind. The horse stands on its hind legs, as if ready to leap, the sheer force of its movement almost palpable. Beside the stallion, a mysterious figure cloaked in dark, flowing robes holds a glowing, ornate staff aloft. From the staff’s tip, intricate swirls of blue and silver light burst forth, creating a portal that seems to bend and warp the very fabric of reality.
+
+In the background, a desolate rocky landscape stretches out, contrasting heavily with the sheer energy emanating from the portal and the stallion. The ground is littered with fragments of ancient statues and crumbling ruins, hinting at a once-great civilization now vanished. Above, the sky is a tumultuous sea of dark clouds, with occasional flashes of lightning illuminating the scene in harsh, white light. The lighting captures the slick, wet surfaces of the rocks and the reflective qualities of the portal's light. The overall palette of the painting merges dark, brooding colors with brilliant, almost ethereal hues, creating a captivating contrast that draws viewers deeper into the mystical scene.
+
+This artwork delicately balances realism in the anatomical details with fantasy elements, achieved through meticulous brushwork and rich texture. The whole composition maintains a sense of drama and movement, inviting viewers to pause and immerse themselves in the striking interplay of natural power and otherworldly magic.
+Seed: 1881780819
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vigor, Teleportation

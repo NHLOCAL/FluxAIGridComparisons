@@ -1,0 +1,8 @@
+Prompt: An oil painting capturing a historical moment in a grandiose ballroom set in the early 19th century. The scene is defined by meticulous details: a man in a crisply tailored military uniform stands at one end of the elegantly decorated room, his face taut with concentration as he writes fervently on a parchment at an ornate writing desk. At the opposite end of the room, near a large, cascading window draped with velvet curtains, a woman in a luxurious, flowing evening gown of deep sapphire hues stands with one hand resting gracefully on a mahogany piano, her gaze fixed intently towards the man, her posture both poised and seemingly on the edge of an urgent movement.
+
+The lighting of the painting employs the natural golden glow of a setting sun, streaming through the grand window, casting long, dramatic shadows that play on the polished wooden floor and add depth to the intricacies of the room's Rococo decor. The chandeliers overhead provide a soft, diffuse light that bathes the entire setting with a warm yet somber ambiance, reflecting off gilded mirrors and marble statues that decorate the background.
+
+The style of the painting is hyper-realistic, with a focus on the rich textures of the detailed costumes, the reflective surfaces of the room's ornate furnishings, and the delicately rendered expressions of both figures, capturing the timeless tension of their connection within this meticulously depicted setting.
+Seed: 3030916487
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Problem, Lover

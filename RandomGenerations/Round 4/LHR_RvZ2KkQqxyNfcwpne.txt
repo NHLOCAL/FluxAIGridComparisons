@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting depicts a solitary, ancient oak tree in the heart of an expansive, lush forest. The tree’s gnarled branches stretch outward, adorned with delicate, intricately detailed leaves that appear almost three-dimensional due to advanced augmented reality techniques embedded in the medium. Each leaf glistens with the illusion of dew, meticulously highlighted by soft, filtered sunlight breaking through the dense canopy above, casting dappled shadows on the forest floor.
+
+The lighting is natural, with golden sunlight peeking through the green foliage, creating a warm, inviting atmosphere that draws viewers in. This interplay of light and shadow gives the illusion of the leaves rustling gently in an unseen breeze. The background showcases layers upon layers of verdant vegetation, with varying shades of green and brown, leading into a misty depth that suggests an endless expanse of forest.
+
+Embedded within the scene are augmented reality elements—small, almost imperceptible details that come to life when viewed through an AR device, such as leaves fluttering off the tree or tiny woodland creatures briefly appearing and disappearing. These elements seamlessly integrate into the painting, making the tree and its surroundings appear to breathe with life.
+
+The painting’s style is a blend of hyper-realism and cutting-edge digital innovation, making it a contemporary masterpiece suitable for a high-end gallery or museum. The frame is minimalist, allowing the intricate details and the blended reality effects to capture and hold the viewer's gaze.
+Seed: 2555811038
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leaf, Augmented reality

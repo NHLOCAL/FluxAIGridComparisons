@@ -1,0 +1,8 @@
+Prompt: A large oil painting on canvas, measuring approximately 6 feet by 8 feet, placed prominently in an art gallery with soft, ambient lighting that highlights the intricate details of the artwork. The scene depicts a dense, ancient forest illuminated by a haunting, dim moonlight filtering through the twisted branches of towering, gnarled trees. The branches create a complex, tangled pattern that seems to form almost a cage-like barrier, drawing attention to the center of the painting. A narrow, winding path cuts through the forest, leading the eye deeper into the dark woods where shadows loom ominously. 
+
+In the background, a mist hangs low, further obscuring visibility and lending a sense of forboding. Scattered among the trees are faint, ghostly figures barely distinguishable from the shadows, creating an uneasy feeling of being watched. The foreground features a decrepit, abandoned cabin with broken windows and a collapsed roof, overtaken by creeping vines and underbrush. The rough texture of the brushstrokes gives the structure an aged, decaying look, contrasting with the smoother, almost ethereal quality of the mist and moonlight. The leaves and branches are meticulously detailed, capturing the natural patterns found in a real forest.
+
+This piece of art captures the viewer's attention with its intricate detail and masterful use of light and shadow, making it a standout piece worthy of display in a museum or gallery.
+Seed: 1595674735
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pattern, Fear

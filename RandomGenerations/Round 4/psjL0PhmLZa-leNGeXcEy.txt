@@ -1,0 +1,12 @@
+Prompt: Create an exquisitely detailed oil painting satisfying the following scene: 
+
+The painting is set at the twilight hour, capturing the expanse of a high cliff overlooking a serene ocean. The cliff is composed of jagged rocks that taper off into the smooth sand below, meeting the gentle waves. The rock formations are intricately detailed, with each crevice and striation painstakingly rendered to show the history etched into them by time and tide. The sky is a gradient of deep indigo at the zenith, blending into softer purples and oranges near the horizon where the last remnants of the sun's light linger. 
+
+The lighting in the painting is subdued, with the primary light source being the faint glow of the setting sun, which casts elongated shadows of the rocks, adding depth and texture. There are subtle reflections on the calm surface of the water, creating a mirror-like effect that adds to the tranquility of the scene. 
+
+The style of the painting leans towards Realism, with impeccable attention to detail and a focus on capturing the true essence of the natural world. The background shows a distant view of undulating waves, barely discernible, giving a sense of vastness and isolation.
+
+Both the rock formations and the seascape work harmoniously to create a scene of profound silence and stillness, devoid of any human or animal presence, inviting the viewer to immerse themselves in the timeless and solitary beauty of nature.
+Seed: 722609165
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Rock, Silence

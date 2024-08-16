@@ -1,0 +1,4 @@
+Prompt: An oil painting measuring 48x36 inches, depicting an android in an elaborate underground laboratory. The android stands in the center, lifelike and intricately detailed, with metallic skin glistening under the soft, diffused glow of overhead lamps. The scene is set during the late hours of night, the lighting casting mysterious shadows that dance around the cold, metallic surfaces of the lab. The background is a labyrinth of towering shelves filled with ancient books, esoteric instruments, and frayed blueprints, hinting at secret experiments and hidden knowledge. On the walls, faded schematics of the android's design are barely visible under layers of dust and grime. The style is hyper-realistic, with meticulous attention to the textures of metal, glass, and aged paper, creating a visual narrative that speaks to both technological advancement and the forgotten past.
+Seed: 1973423027
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Android, Secret

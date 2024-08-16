@@ -1,0 +1,8 @@
+Prompt: A meticulously detailed oil painting depicts the poignant scene of a hospital room. The central focus is on a couple holding hands; the man sits in a wooden chair beside the hospital bed, while the woman lies in the bed, attached to medical equipment. The room is dimly lit by the soft, warm glow of amber-tinted lamps placed strategically to create a serene ambiance. Crisp, white hospital sheets contrast with the muted cream walls adorned with contemporary artwork, which serves as a subtle reminder of the world outside.
+
+The man’s suit, slightly wrinkled as if he has been sitting there for hours, is a deep navy blue, providing a stark contrast to the woman's light blue hospital gown. His eyes are fixated on the woman, showing depth and care without overt emotion. The woman’s hand, frail but purposeful, clasps his with as much strength as she can muster. On the bedside table, a small but lush bouquet of white lilies and pink roses is placed in a simple glass vase, symbolizing purity and love.
+
+The background includes details of medical equipment: an IV stand with a clear bag of fluid, a heart rate monitor displaying green lines gently pulsating on its black screen, and a chair placed against the far wall, suggesting visitors. The ceiling is tiled, with a single overhead fluorescent light that blends with the soft amber hues, preventing any harsh shadows and enhancing the intimate setting. The painting style captures fine details with realistic textures and thoughtful brushstrokes, ensuring every element is meticulously rendered to highlight the significance of the moment being shared within the confines of the hospital room.
+Seed: 3299177591
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Marriage, Hospital

@@ -1,0 +1,4 @@
+Prompt: A mesmerizing oil painting capturing a quiet moment in a sunlit garden. The scene features a small, secluded alcove with a wrought-iron bench partially concealed by lush, flowering vines and delicately hanging wisteria. The lighting is soft and golden, with beams of sunlight filtering through the foliage, casting dappled patterns of light and shadow on the ground and bench. In the background, the vague outline of a weathered stone wall adds depth and texture, subtly guiding the viewer's eye towards the intimate corner. The painting's brushwork is detailed and fluent, highlighting the intricate play of light and nature. The overall style gives an impression of a serene and inviting hideaway, urging visitors to pause, linger, and bask in the tranquil beauty of the moment.
+Seed: 3760775455
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intimacy, Captivating

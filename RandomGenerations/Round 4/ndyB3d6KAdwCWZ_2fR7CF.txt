@@ -1,0 +1,12 @@
+Prompt: Oil painting: A moonlit scene set within an ancient, gothic convent surrounded by lush, overgrown foliage. The convent's architecture features towering, pointed arches, intricate stone carvings, and weathered walls that whisper tales of centuries past. The night sky is a deep, velvety indigo, dotted with twinkling stars and a full moon that casts silvered light across the landscape, creating stark contrasts and long, mysterious shadows.
+
+In the forefront, a narrow, cobblestone path winds through a garden overrun with wildflowers, ivy, and untamed roses whose petals reflect the moonlight in a soft, enchanting glow. The convent building itself stands tall and imposing in the midground, with stained-glass windows that capture and reflect flecks of moonlight in vibrant, fractured colors. Flickers of candlelight can be seen through some of the windows, hinting at life within.
+
+A cloistered nun, dressed in a traditional habit, is depicted walking along the cobblestone path. Her presence is both serene and enigmatic; she seems almost to glide as the hem of her dark, flowing garment brushes the path. Her head is slightly bowed, and her hands are clasped in front of her, holding an intricately detailed, antique lantern that emits a gentle, warm light, contrasting with the cool hues of the moonlight.
+
+The convent's background is thick with towering, ancient oak trees whose gnarled branches stretch out like protective arms around the building. The leaves rustle softly in a faint breeze, and fireflies dance sporadically through the air, adding a whimsical touch to the solemn setting.
+
+The painting employs a rich, earthy color palette, with the cool blues and grays of the night harmoniously blended with the warm, inviting hues of the lantern light. The brushstrokes are meticulous and textured, bringing depth and a tactile sense of realism to the scene, while also preserving a dreamlike quality that feels both timeless and otherworldly.
+Seed: 321037536
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bewitching, Convent

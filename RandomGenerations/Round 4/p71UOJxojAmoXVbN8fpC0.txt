@@ -1,0 +1,6 @@
+Prompt: A hyper-realistic oil painting depicts a serene, twilight scene within a meticulously curated botanical garden. The central focus is a couple, elegantly dressed in period attire from the early 20th century, standing closely under a wrought-iron gazebo adorned with blooming wisteria. The man, in a tailored dark suit with a crisp white shirt and a vintage pocket watch, lightly touches the woman's gloved hand. The woman, in a flowing, pastel-colored dress with intricate lace details and pearls, gazes thoughtfully at the horizon. Soft, ambient lighting from antique-style lampposts surrounds them, casting gentle shadows and highlighting the lush greenery and diverse flora. In the background, a manicured lawn leads to an elaborately designed marble fountain, gently cascading water that glistens under the soft glow of lanterns. The sky above, painted in deep blues and purples with hints of the setting sun, adds depth and a sense of tranquil closure to the day. 
+
+
+Seed: 1329408840
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spouse, Conscious

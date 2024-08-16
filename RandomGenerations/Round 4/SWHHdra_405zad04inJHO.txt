@@ -1,0 +1,10 @@
+Prompt: An oil painting captures a panoramic view of an otherworldly landscape on an alien planet, bathed in the soft glow of a distant galaxy. The foreground is dominated by an intricate alien metropolis, with towering structures crafted from iridescent metals and glowing crystals. The architecture features organic, flowing lines reminiscent of both natural formations and advanced technology. Light emanates from the buildings themselves, casting an ethereal glow that illuminates the cityscape in shades of blue and purple.
+
+In the mid-ground, extraterrestrial flora with bioluminescent qualities stretch towards a sky filled with swirling celestial formations, including nebulae and countless stars. These plants have unusual, fractal patterns and emit a soft, pulsating light that adds depth to the scene.
+
+The background showcases the vast expanse of space, with a dominant spiral galaxy stretching across the sky. The galaxy's swirling arms are highlighted by various hues of pink, blue, and gold, creating a breathtaking cosmic backdrop that emphasizes the alien world's place in the universe. Stars scatter the dark void, their light faint but twinkling with serene constancy.
+
+The overall lighting of the painting is surreal, with the primary light sources being the bioluminescent flora and the glowing structures, providing a soft, otherworldly illumination. The shadows cast are long and diffuse, blending into the cool tones of the environment. The meticulous brushwork and blending techniques used by the artist result in a hyper-realistic yet fantastically imaginative scene, making it a captivating centerpiece for any gallery or museum.
+Seed: 2664524074
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alien, Galaxy

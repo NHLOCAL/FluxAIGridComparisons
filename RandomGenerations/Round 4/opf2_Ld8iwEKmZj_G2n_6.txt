@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting set in a dimly lit, vintage study room. The room is furnished with dark mahogany bookshelves filled with old, leather-bound books, and a massive oak desk covered in papers, a brass inkwell, and a feather quill. A single green banker’s lamp on the desk casts a soft, yellowish light that illuminates the immediate area, creating deep shadows that obscure the corners of the room. 
+
+In the foreground, a woman in an elegant 19th-century dress sits in a carved wooden chair, her back slightly turned to the viewer. She holds a delicate glass vial filled with an amber liquid, presumably perfume, close to her nose, caught in the moment of inhaling its scent. Her features are sharp and finely detailed, with the light subtly highlighting the contours of her face and the intricate lace pattern on her dress. The background, shrouded in shadow, offers only hints of other antique furnishings, including a tall floor clock and heavy drapes that frame a window showing a sliver of a moonlit night.
+
+The atmosphere is one of intense focus, almost burdened by the isolation of the room and the task at hand, as if the woman is lost in thought over a profound, perhaps troubling matter. No outward emotion is on display, but the ambience leaves an impression of a mind wrestling with a complex problem, while the fragrance provides a fleeting escape from the surrounding dark.
+Seed: 1540894529
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Problem, Fragrance

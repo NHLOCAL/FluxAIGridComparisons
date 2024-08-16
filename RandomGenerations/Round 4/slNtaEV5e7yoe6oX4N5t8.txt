@@ -1,0 +1,4 @@
+Prompt: An oil painting captures a serene moment in a lush, ancient forest during the early morning light. Shafts of golden sunlight filter through the dense canopy, casting a soft, dappled glow onto the forest floor, which is covered in a thick carpet of moss and scattered wildflowers. In the foreground, a small, charming woodland clearing reveals a family of playful, wide-eyed fox cubs rolling and pouncing on each other. The scene is detailed meticulously, showing the fine textures of their fur and the delicate patterns of leaves and bark. Tall, majestic trees with gnarled roots and branches dominate the background, gradually fading into a misty, enchanted distance. The painting's style is hyper-realistic, with a focus on intricate detail and vibrant, lifelike colors that bring the tranquil, magical essence of the forest to life.
+Seed: 2397767104
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adorable, Forest

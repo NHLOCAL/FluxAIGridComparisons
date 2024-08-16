@@ -1,0 +1,10 @@
+Prompt: A masterfully crafted oil painting depicts a tranquil yet dynamic coastal scene at sunrise. The focal point is an intricately detailed lighthouse standing tall on a rugged cliff, bathed in the gentle, golden light of dawn. The lighthouse, constructed of weathered stone, stands as a testament to resilience and hope, its stark white and red stripes contrasting vividly against the soft pastels of the early morning sky. Bordered by crashing waves, the cliff showcases a rich texture achieved through meticulous brushstrokes, capturing both the raw, untamed energy of the sea and the timeworn solidity of the rock.
+
+In the foreground, lush, windswept grasses and wildflowers in muted greens and purples sway lightly, leading the viewer’s eye towards the lighthouse. The ocean stretches out in the background, flawlessly rendered in varying shades of blue and green, the distant horizon just a whisper against the brightening sky. Seabirds, meticulously painted in mid-flight, scatter across the scene, their presence adding a sense of motion and life.
+
+The lighting is carefully considered, with the warm, rising sun casting gentle, long shadows, emphasizing the textures and forms within the painting. The subtle interplay of light and shadow brings depth and dimension, highlighting the construction of both natural and man-made elements. The overall style is realistic, with a distinct emphasis on fine detail and texture, making the scene almost tangible.
+
+The background seamlessly blends the vast expanse of ocean with the delicate, evolving colors of the sky, creating a harmonious balance that anchors the painting. This composition, along with the poignant symbolism of the lighthouse, promises a story of guidance, strength, and continuity, making it a worthy addition to any prestigious gallery or museum collection.
+Seed: 522983592
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Promise, Construction

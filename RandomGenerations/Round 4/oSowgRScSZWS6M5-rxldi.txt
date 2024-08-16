@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting captures an intimate moment in an ancient library. The scene is set at dusk; soft, golden sunlight streams through grand, arched windows laden with intricate stained glass depicting historical scenes. Shelves of timeworn books stretch up to a vaulted ceiling adorned with elaborate frescoes. Dust motes dance in the light, creating a mystical atmosphere. 
+
+In the foreground, an old wooden table bears the weight of open manuscripts, quills, and inkwells. The texture of worn leather and brittle parchment is meticulously detailed. A vintage globe and an ornate brass candle holder add a touch of antiquity.
+
+The background features towering bookshelves lined with tomes bound in rich leathers of burgundy, emerald, and sapphire. An ornate wooden ladder on brass rails hints at countless hours of research and discovery.
+
+The lighting is diffused and warm, casting soft shadows that emphasize the depth and richness of the scene. The precision in capturing the textures of wood, paper, and metal elevates the painting to gallery-worthy status, demanding attention to its intricate details and masterful execution.
+Seed: 2825091127
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hack, Act

@@ -1,0 +1,8 @@
+Prompt: An oil painting depicting an early morning coastal scene, captured with the meticulous detail and gentle brushstrokes reminiscent of the Impressionist era. The composition centers on a sturdy lighthouse perched on a rocky outcrop, its white facade and red roof standing in sharp contrast to the dusky, muted tones of the surrounding landscape. The sky is a masterful blend of soft purples, pinks, and oranges, indicating the first light of dawn breaking over the horizon. The ocean beneath is calm, with gentle waves softly lapping against the shore, each wave carefully defined with delicate, accurate strokes.
+
+In the foreground, the rocky outcrop is rendered with precise texture, showcasing the solid, dependable nature of weather-worn stone. Around the lighthouse, tufts of grass and small flowers are depicted with fine, deliberate detail, emphasizing their resilience and stability. The scene is illuminated by the natural, diffused light of dawn, casting long, soft shadows that enhance the depth and layering of the landscape.
+
+In the background, distant cliffs and a small village are subtly suggested with lighter, more impressionistic touches, adding a sense of depth and continuity to the piece without detracting from the main subject. The overall palette consists of cool blues and greens contrasted with the warm hues of the sunrise, creating a balanced, harmonious composition. This painting captures the essence of competence and stability through its depiction of enduring natural elements and the human-built structure of the lighthouse standing firm against the elements.
+Seed: 2078611821
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Competence, Stability

@@ -1,0 +1,10 @@
+Prompt: An oil painting depicts an imposing mausoleum situated atop a gently sloping hill. The structure is immense, constructed of ancient, weathered stone that gives a sense of timelessness and reverence. The mausoleum is surrounded by a dense, misty forest of towering pine trees, their dark green needles softened by the muted, overcast sky. 
+
+The lighting is diffuse, with no direct sunlight, adding a subtle glow to the scene that accentuates the textures of the stone. Shadows are soft and elongated, merging into the fog that slightly blurs the line between the mausoleum and the natural surroundings. The detailed craftsmanship of the mausoleum's ornate carvings and grand, arched entrance is highlighted by the soft light, showcasing each intricate detail with clarity.
+
+In the background, the forest stretches infinitely, the trees progressively diminishing in scale, giving the scene a sense of vastness. The sky is a blanket of thick, gray clouds, creating an atmospheric backdrop that amplifies the scale and grandeur of the mausoleum. The foreground features a narrow, winding path leading to the mausoleum, lined with small, scattered gravestones that hint at the history and importance of the site.
+
+Overall, the painting is rendered in a realistic yet dramatic style, with painstaking attention to the play of light and shadow, texture of the stone, and the dense, enveloping foliage, making it a piece worthy of display in a distinguished museum or gallery.
+Seed: 689132337
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mausoleum, Scale

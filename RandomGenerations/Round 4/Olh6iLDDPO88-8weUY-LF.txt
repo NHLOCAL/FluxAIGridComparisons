@@ -1,0 +1,8 @@
+Prompt: A meticulously crafted oil painting captures a stark contrast between chaotic turmoil and serene tranquility. In the foreground, a disheveled figure with hollow cheeks and sunken eyes, representing an addict, clutches a frayed cloak around their shoulders. The figure's skin appears pale and gaunt, and their posture is hunched, suggesting weariness and struggle. Their eyes, though tired, have a glimmer of longing as they gaze toward the background.
+
+The background of the painting transitions smoothly into an ethereal oasis bathed in soft, golden light. Lush greenery, vibrant flowers, and a crystal-clear stream with a gentle ripple effect create a paradisiacal setting. Rays of sunlight filter through the verdant canopy, casting a dappled pattern on the ground. The lighting in the foreground is dim and shadowy, emphasizing the figure's bleak existence, while the oasis is illuminated with warm, inviting hues that highlight the verdant plants and the shimmering water.
+
+The painting is executed in a hyper-realistic style, where every detail, from the cracks in the addict's lips to the intricate petals of the distant flowers, is rendered with painstaking precision. The transition between the two sections of the scene is seamless yet stark, emphasizing the dichotomy between the desolate present and the serene, unattainable haven just beyond reach. The overall composition draws the viewer's eye from the desolate figure to the inviting sanctuary, creating a powerful narrative through sheer contrast and meticulous attention to detail.
+Seed: 4038091750
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Addict, Oasis

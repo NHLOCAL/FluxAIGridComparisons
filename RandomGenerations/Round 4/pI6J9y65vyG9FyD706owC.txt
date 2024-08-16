@@ -1,0 +1,8 @@
+Prompt: An oil painting depicts a tranquil pond in the heart of an ancient forest. The water is so clear that the rocks at the bottom create mosaic-like patterns, interspersed with smooth, green lily pads. Tall, gracefully arching reeds frame the pond’s edge, their thin leaves stirring gently in the breeze. A large, gnarled tree with an expansive canopy leans over the water, its reflection creating a mirror that blurs the lines between reality and illusion. 
+
+The scene is bathed in the soft, diffused light of early morning, with the sky just beginning to turn from the deep blue of night to the first hints of dawn. This subtle lighting filters through the dense foliage, casting intricate, dappled shadows on the water’s surface and the surrounding ground. In the background, the forest recedes into a mysterious haze, each layer of trees slightly less distinct than the one before.
+
+At the center of the pond, resting on a large, flat rock, lies a beautifully ornate, ancient scroll, half-submerged and partially unfurled. The scroll’s exotic symbols and intricate designs suggest hidden knowledge. Small, delicate ripples emanate from the rock, hinting at a recent disturbance. Nearby, a mysterious wooden puzzle box, adorned with cryptic carvings, sits slightly ajar on the soft earth beside the pond, its contents just out of view. This element adds a tantalizing, enigmatic aspect to the scene, as if the forest itself holds the key to an age-old riddle yet to be solved.
+Seed: 1855140867
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pond, Riddle

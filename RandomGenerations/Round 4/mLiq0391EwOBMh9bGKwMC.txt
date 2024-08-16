@@ -1,0 +1,8 @@
+Prompt: A large, imposing orc stands center frame, shirtless with greenish-gray, textured skin glistening under the harsh spotlight that casts stark shadows across his muscular form. His head hangs low, eyes downward, showing the weariness of many battles, each scar and blemish on his skin a testament to his past struggles. He clutches a broken, rusted sword in one hand, its blade jagged and useless, while the other hand rests heavily against his knee for support. The flooring is wooden, age-worn with deep grooves.
+
+In the background, a dilapidated fortress looms, partially obscured by a dense fog. The bricks of the fortress are crumbling, ivy creeping through the cracks, suggesting decay and neglect. The sky overhead is stormy and dark, with thick, swirling clouds threatening rain, casting a dim, ominous light over the entire scene. 
+
+This image is created in the dramatic style of a hyper-realistic oil painting, with a focus on intricate details and texture. The dark tones and realistic shadows emphasize the roughness of the orc’s skin and the dilapidation of his surroundings, giving a sense of his downfall and the weight of his burdens. The overall lighting is low-key, with the spotlight on the orc creating a focal point while the edges of the scene recede into darkness.
+Seed: 2909802997
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Orc, Failure

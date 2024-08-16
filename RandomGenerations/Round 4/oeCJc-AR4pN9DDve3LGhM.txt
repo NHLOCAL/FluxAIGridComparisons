@@ -1,0 +1,4 @@
+Prompt: An oil painting depicting a dimly lit medieval tavern with rustic wooden beams and stone walls. In the center, a small, hunched goblin with green, leathery skin and elongated fingers is offering a shimmering, ornate goblet to a mysterious hooded figure seated at a rough-hewn table. The goblin's eyes gleam with a sinister, cunning light, while the hooded figure's face is shrouded in shadow, creating an air of intrigue and tension. Flickering candlelight casts long shadows, adding depth and drama to the scene, while the background reveals other shadowy patrons engaged in whispered conversations, partially obscured by swirling smoke from a nearby hearth. The style of the painting is detailed and realistic, with a rich, earthy color palette emphasizing the ancient and mysterious ambiance of the setting.
+Seed: 1398505687
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Goblin, Offering

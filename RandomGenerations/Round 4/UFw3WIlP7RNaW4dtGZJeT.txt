@@ -1,0 +1,4 @@
+Prompt: A high-resolution photograph capturing a contemporary college campus during the crisp, golden hour of early morning. The scene centers around a historic, ivy-covered building with imposing, neoclassical architecture. Morning sunlight streams through the trees, casting long, soft shadows on the freshly manicured lawn. Students are scattered across the scene, some walking hurriedly with backpacks slung over their shoulders, others sitting in small groups on the grass, engaged in quiet discussion or studying from open books and laptops. In the foreground, there is a vintage lamppost casting a gentle glow, contrasting with the soft sunlight. The background features a modern glass library building reflecting the warm hues of the dawn, and a landscaped garden with blooming flowers. The overall atmosphere is one of quiet diligence and scholarly pursuit.
+Seed: 3197815560
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Image, College

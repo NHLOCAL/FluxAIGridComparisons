@@ -1,0 +1,12 @@
+Prompt: This piece is an oil painting titled "The Summoning of Shadows." The scene depicts a necromancer standing in the center of a dark, ancient forest clearing surrounded by towering, gnarled trees with branches that twist like skeletal fingers. The necromancer is cloaked in tattered, deep crimson robes that seem to absorb the dim light around him. His gaunt frame is illuminated by a sickly, greenish glow emanating from a large, intricately carved summoning circle on the moss-covered ground in front of him. 
+
+Within the summoning circle, a demonic entity begins to materialize. The demon’s form is shadowy and incomplete, as if just breaking through the veil between worlds. Its eyes burn like smoldering coals, piercing through the dim light with a fierce intensity. Sharp, jagged horns protrude from its head, and ethereal chains seem to bind its wrists, glowing with a faint blue luminescence.
+
+The lighting in the scene is predominantly low and eerie, casting long, ominous shadows through the clearing. A faint, ghostly moonlight filters through the forest canopy, barely illuminating the dense fog that swirls around the necromancer and the demon, adding a sense of otherworldly mystique. The mist is painted with delicate, almost translucent brush strokes, giving the entire scene an intangible, spectral quality.
+
+In the background, the forest fades into inky darkness, with only the faintest hints of twisted tree silhouettes visible, suggesting an endless expanse of ancient, haunted woods. The overall color palette is dominated by dark, muted tones, with occasional bursts of luminescent green and blue to highlight the supernatural elements.
+
+The style of the painting is highly detailed and realistic, yet with a fantastical, almost nightmarish quality that draws the viewer into this dark, eldritch world. The brushwork is exquisite, with meticulous attention to the textures of the necromancer’s robes, the demon’s form, and the eerie forest setting. The overall composition and expert use of lighting evoke a sense of foreboding and the arcane, making the painting a captivating centerpiece in any museum or gallery dedicated to the mystical and macabre.
+Seed: 3423200793
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Necromancer, Demon

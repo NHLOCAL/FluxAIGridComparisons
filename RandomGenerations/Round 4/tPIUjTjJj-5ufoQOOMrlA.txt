@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting captures a tranquil forest scene where a narrow, crystal-clear brook winds through moss-covered rocks and fallen autumn leaves. The scene is bathed in the soft, diffused sunlight of early morning, casting gentle, dappled shadows on the brook's surface from the overhanging branches of tall, ancient trees. The trees are painted with meticulous detail, each leaf and bark texture rendered with precision, showcasing the artist's extraordinary skill. In the background, a subtle mist enshrouds the forest, hinting at the peaceful, undisturbed wilderness. The painting's hyper-realism draws in viewers, inviting them to discover intricate details hidden in the underbrush and reflective water. The overall style combines traditional landscape techniques with an almost photographic clarity, blurring the line between reality and art.
+Seed: 3444601007
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Brook, Insight

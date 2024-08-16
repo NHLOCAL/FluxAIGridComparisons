@@ -1,0 +1,4 @@
+Prompt: A meticulously crafted oil painting features a sophisticated woman poised in an elegantly understated, high-back leather chair. The sheen of her sleek, luxurious gown gleams under the soft, directional lighting that casts delicate shadows, accentuating her refined silhouette. Her posture is erect, with her head turned slightly to the right, capturing the viewer's attention with a sidelong glance. The background is a minimalist yet richly textured tapestry of deep, muted colors that complement the subdued palette of the foreground. The interplay of light and shadow in the room evokes a sense of timeless sophistication and quiet contemplation, making the piece a compelling addition to any museum or gallery.
+Seed: 475334648
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glance, Leather

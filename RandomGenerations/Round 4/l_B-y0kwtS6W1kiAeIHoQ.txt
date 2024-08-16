@@ -1,0 +1,12 @@
+Prompt: A grand oil painting depicts a solitary miner working tirelessly on a steep mountainside at twilight. The miner, dressed in tattered, earth-toned work clothes and a wide-brimmed hat, is hunched over, chipping away at a rugged outcrop with a pickaxe. The texture of the rocky terrain is intricately detailed, with small stones and pebbles scattered around his sturdy boots. 
+
+In the distance, towering, mist-covered peaks loom, their snow-capped summits glistening under the fading light. The sky is an intricate blend of purples and oranges, capturing the breathtaking transition between day and night. A few thin, wispy clouds drift across the horizon, adding to the ethereal quality of the scene.
+
+The artist utilizes chiaroscuro to highlight the contrast between the miner's dimly lit, muscular form and the glowing remnants of daylight reflecting off the mountains. The background is a spectrum of rich, natural colors, with dark, forested areas hinting at the lush flora that thrives at the lower altitudes. 
+
+In the foreground, a weathered, wooden cart filled with rocks and minerals stands to the side, signifying the arduous task at hand. The wear-and-tear of the miner's tools and equipment are finely rendered, showcasing the dedication and labor involved. 
+
+The overall style is reminiscent of Realism, with painstaking attention to detail, texture, and light. The scene captures the essence of manual labor in the sublime and daunting environment of the mountains, celebrating the resilience and strength required in such work.
+Seed: 301497614
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Work, Mountain

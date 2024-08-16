@@ -1,0 +1,10 @@
+Prompt: A large oil painting depicts a grand, sprawling cliffside at dusk, with intricate, lifelike details. The cliff is rugged and textured, with subtle shades of gray and dark brown, dotted with small tufts of greenery that cling to the rock face. The top of the cliff is uneven, with jagged edges that appear to be formed from centuries of erosion. The sky above is awash with an array of colors as the sun sets; deep purples and pinks blend seamlessly into soft orange and yellow hues. 
+
+Far in the background, the vast expanse of the ocean stretches out towards the horizon, its surface reflecting the twilight colors, creating a shimmering effect that adds depth to the scene. The water closest to the base of the cliff is tumultuous, with white-capped waves crashing against the rocks, sending fine sprays into the air.
+
+The lighting in the painting is natural and dynamic, with the setting sun casting long shadows and providing a warm, golden light that highlights the cliff's textures and the roughness of the rocks. The shadows themselves are deep and dark, adding contrast and dimension, creating a dramatic effect. Small details, like the intricate lines on the cliff face and the movement in the waves, are meticulously rendered, adding to the realism.
+
+In the foreground, a small, winding path leads to the edge of the cliff, slightly overgrown with wildflowers and grasses that sway gently as if in a soft breeze. Near the cliff's edge stands a solitary, ancient tree with gnarled branches reaching out towards the sky, its leaves sparse but vibrant, as if clinging to life amid the rugged surroundings. The detailed brushwork and the realistic portrayal of light and shadow contribute to the painting’s overall vividness and visual impact, making it a museum or gallery-worthy piece.
+Seed: 487844981
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Cliff

@@ -1,0 +1,4 @@
+Prompt: An oil painting depicting a dimly lit, vintage boutique, its narrow aisles casting long, unsettling shadows. The lighting is low and warm, coming from flickering, aged chandeliers above, giving the scene a sepia-toned ambiance. The background features walls lined with old, ornate mirrors and antique wooden shelves filled with oddities – tarnished silverware, porcelain dolls with cracked faces, and mysterious relics. At the center of the scene stands a lifelike mannequin dressed in Victorian attire, posed in an almost too-human stance, its glassy eyes slightly catching the light, adding to the eerie atmosphere. Dust particles are visible in the beams of light, enhancing the sense of age and abandonment.
+Seed: 953723284
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creepy, Boutique

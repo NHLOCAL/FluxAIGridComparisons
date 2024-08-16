@@ -1,0 +1,10 @@
+Prompt: An oil painting depicting a serene, early morning scene in a small, picturesque coastal village. The horizon is painted with a masterful gradient, transitioning from the dark hues of an ending night to the soft, pastel colors of dawn. The sky is partially cloudy, with the clouds catching the first light of the sun, providing a gentle illumination over the tranquil sea. The water is calm and mirrors the sky's colors, creating a seamless blend between sea and sky at the horizon.
+
+In the foreground, a cobblestone path runs alongside the shore, leading to a quaint harbor filled with wooden fishing boats, each tethered neatly, some with their sails still unfurled. A few fishermen are depicted in slow motion, preparing their boats for the day's catch, their deliberate actions capturing the unhurried pace of coastal life.
+
+The background features charming, centuries-old stone cottages with tiled roofs, their windows just beginning to glow with the warm, golden light from inside. Above the village, rolling hills covered in lush greenery are shrouded in morning mist that rises slowly, giving an ethereal quality to the scene. 
+
+The light is subtle, with long, soft shadows cast by the early morning sun, emphasizing the textures of the cobblestones and the gentle ripples in the water. The painting style is realistic yet with a touch of romanticism, showcasing meticulous attention to detail and a harmonious color palette that enhances the peaceful and timeless feel of the scene.
+Seed: 3004723588
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Episode, Slowness

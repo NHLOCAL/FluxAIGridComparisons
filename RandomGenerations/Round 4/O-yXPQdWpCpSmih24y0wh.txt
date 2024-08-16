@@ -1,0 +1,6 @@
+Prompt: A hyper-realistic oil painting on a large canvas, set against a sepia-toned, futuristic cityscape backdrop with towering skyscrapers and neon signs partially obscured by a thin veil of mist. The central figure is a cyborg with a blend of human and machine features, standing in a three-quarter pose. The cyborg’s metallic, intricately designed limbs and torso are seamlessly integrated with patches of human skin. The human face is detailed with lifelike precision, showing faint mechanical lines running from the jaw to the temple. The eyes, one organic and the other a glowing blue optical sensor, reflect the ambient city lights.
+
+The lighting in the scene is dramatic, reminiscent of Rembrandt’s chiaroscuro technique. A spotlight from the upper left corner casts deep shadows and highlights, enhancing the metallic sheen of the cyborg’s body and intensifying the skin texture. The background is a blend of dark and light contrasts, with faint but discernible architectural details adding depth and complexity. The overall style combines realism with a hint of surrealism, especially in detailing the mechanical components which possess a futuristic, almost otherworldly design.
+Seed: 1672946176
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cyborg, Portrait

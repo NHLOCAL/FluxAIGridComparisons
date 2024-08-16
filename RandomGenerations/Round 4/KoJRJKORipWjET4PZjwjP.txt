@@ -1,0 +1,4 @@
+Prompt: Prompt: An oil painting displays an otherworldly scene with meticulous detail. At its center, a sophisticated alien figure stands tall and slender, with elongated limbs and an intricate exoskeleton shimmering in hues of emerald and opal. The background features a futuristic alien cityscape, with crystalline spires and bioluminescent flora casting a mystical radiance. The lighting is ethereal, with a soft, diffused luminescence emanating from an alien moon hanging in a gradient sky of teal and violet. Tiny, luminescent organisms float in the air, reflecting on the alien's exoskeleton and enhancing the surreal atmosphere. The brush strokes are delicate and precise, merging realism with the abstract nature of the extraterrestrial environment.
+Seed: 488250100
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alien, Ardor

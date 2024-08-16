@@ -1,0 +1,10 @@
+Prompt: Create an oil painting that would be museum or gallery-worthy, illustrating a mathematically inspired, gemstone-themed scene. The focal point is an elegantly dressed woman in a vintage dress adorned with patterns of geometric shapes and probability charts, standing in the middle of a grand, richly decorated room. In her hand, she holds a large, luminous gemstone that scatters light around the room in a multitude of colors. 
+
+The background features an intricately designed wall filled with ornate, gilded frames, each showcasing different gemstones labeled with their mineral composition. One corner of the room contains a grand, vintage wooden desk cluttered with gemological tools, open books coated with numerical data and probability equations, and a velvet bag spilling small, polished gems.
+
+The lighting is dramatic with a strong, singular beam from a high window casting concentrated bright light on the gemstone the woman holds, creating vibrant reflections on the polished marble floor and highlighting the mesh of colors embedded within the gem. The rest of the room remains in softer, subtler illumination, allowing the details of the gemstones on the wall and the textures in the scene to emerge gradually upon closer inspection.
+
+The room’s opulent drapery frames the scene with rich, deep hues of burgundy and gold, casting shadows that add depth and complexity to the composition. The painting should evoke a sense of meticulously detailed craftsmanship, showcasing the artist’s skill in portraying both scientific elements and gemological beauty. The style of this oil painting should blend realism with detailed, almost scientific precision, evoking comparisons to classical Renaissance art with a modern, analytical twist.
+Seed: 3960939573
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Probability, Gem

@@ -1,0 +1,8 @@
+Prompt: An oil painting titled "Harvest Moon's Embrace": The scene depicts an expansive, golden wheat field under the soft, silvery glow of a full moon. The wheat sways gently in a light breeze, each stalk meticulously detailed, capturing the interplay of moonlight and shadow. In the middle distance, a rustic wooden fence stretches across the landscape, its weathered texture contrasting with the lushness of the field. Beyond the fence, a dense forest of tall, dark pine trees forms a stark, midnight-blue backdrop, their needle-covered branches barely visible in the dim light.
+
+The sky is a deep indigo, speckled with a scattering of stars that twinkle faintly, adding a sense of infinite vastness. The moon, large and luminous, hangs low in the sky, its light casting elongated, silver-tinged shadows across the field. The foreground features a single, intricately detailed scarecrow, dressed in patchwork clothes, standing solemnly among the wheat.
+
+The painting's style is hyperrealistic, with an emphasis on texture and light, capturing the intricate details of each element, from the roughness of the scarecrow's burlap face to the delicate shimmer of the wheat illuminated by moonlight. The overall lighting is soft and diffused, creating a tranquil yet vivid scene that draws the viewer into the quiet majesty of the nighttime rural landscape.
+Seed: 3602849389
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Field, Flavor

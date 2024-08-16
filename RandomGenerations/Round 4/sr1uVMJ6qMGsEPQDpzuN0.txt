@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting captures an opulent ballroom filled with intricate Baroque architecture. The room features gilded columns and crystal chandeliers that refract light in every direction, creating a luminous, glittering effect. Warm, golden light cascades from the chandeliers, casting a soft glow on the polished marble floors and opulent furnishings. The background reveals large, arched windows draped in heavy, velvet curtains that are tied back with gold tassels, allowing a muted sunset to seep through and illuminate the room in a rosy hue.
+
+At the center of the painting, a grand, circular table dominates the space, richly adorned with an elaborate floral arrangement in a gold, rococo vase. Around the table, men and women in 18th-century attire—in exquisite silks and brocades—are engaged in animated conversation, their lavish costumes contributing to the room’s grandeur. Their powdered wigs and intricate hairstyles, embellished with jewels and feathers, reflect the candlelight, adding to the texture and depth of the scene.
+
+The painting’s composition draws the eye towards a singular figure at the head of the table, a woman in an elaborate, floor-length gown of deep sapphire blue, intricately embroidered with silver threads. Her commanding presence is emphasized by the brighter illumination focused on her, highlighting her delicate features and the pearls adorning her neck. This figure’s authoritative posture and the attention directed towards her by the others establish her dominance in the setting.
+
+Throughout the room, smaller details—the shadows under the table, the glint of silverware, the subtle textures of the fabrics—are rendered with painstaking precision, pulling the viewer deeper into the historical moment captured by the artist. The scene, rich in opulence and mastery of technique, makes the painting a gallery-worthy masterpiece, commanding admiration for both its contribution to the depiction of historical grandeur and its dominant presence in any exhibition space.
+Seed: 1042449843
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Contribution, Domination

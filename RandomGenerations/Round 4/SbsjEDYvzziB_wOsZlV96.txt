@@ -1,0 +1,8 @@
+Prompt: An enchanting oil painting captures a charming coastal village at sunset. The scene is set in a quaint harbor, where cobblestone streets wind between cozy, pastel-colored cottages adorned with flower boxes blooming in vibrant hues. The golden light of the setting sun casts a warm glow over the entire landscape, reflecting off the rippling waters of the tranquil bay. 
+
+In the foreground, a pair of small, wooden fishing boats with peeling paint are gently tethered to a weathered dock, their nets neatly arranged and fishing gear stowed. The horizon is a breathtaking gradient of oranges, pinks, and purples, seamlessly blending into the serene, clear blue sky that is dotted with a whisper of clouds catching the last of the daylight.
+
+The background reveals rolling hills lush with greenery, and the silhouette of a lighthouse standing tall on a distant cliff, its white exterior contrasting against the rich, warm colors of the setting sun. The meticulous brushstrokes and fine attention to detail bring the scene to life, from the individual leaves on the trees swaying in a mild evening breeze to the shimmer of light upon the water’s surface. This painting, with its idyllic setting and masterful use of light and color, would be a captivating centerpiece in any museum or gallery.
+Seed: 3042907475
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Charming, Sunset

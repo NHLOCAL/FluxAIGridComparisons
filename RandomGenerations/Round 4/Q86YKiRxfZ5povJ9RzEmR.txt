@@ -1,0 +1,8 @@
+Prompt: Create a highly detailed, oil painting on a large canvas. Depict a tumultuous scene where a dormant volcano stands in the background, its form massive and imposing. Surrounding the base of the volcano, a sea of dark, jagged rocks stretch outwards, leading to the central subject. Here lies a colossal iceberg, fractured and juxtaposed with the volcanic landscape. Sharp, angular facets of ice catch the light, reflecting a cool, cerulean hue. The contrast between fire and ice is stark, with the iceberg occupying the foreground in an almost defiant stance against the looming volcano.
+
+The lighting in the scene is low and dramatic, with the sun setting behind the volcano, casting long shadows across the ground. The sky above is painted in deep oranges, reds, and purples, with thick plumes of smoke adding a textured, atmospheric depth. The iceberg itself is illuminated by an unseen moon, lending it an otherworldly glow, and highlighting its pristine, frosty edges.
+
+The background consists of an expansive volcanic plain, with distant, smaller peaks almost fading into the hazy horizon. The ground is a subtle mix of ash and hardened lava flows, detailed meticulously to show their rugged and treacherous nature. The painting employs a realism style, capturing each detail with precision, from the reflective surfaces of the ice to the rough, uneven texture of the lava, making it worthy of a prime spot in a museum or gallery.
+Seed: 691478508
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Volcano, Iceberg

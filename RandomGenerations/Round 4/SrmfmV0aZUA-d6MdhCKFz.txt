@@ -1,0 +1,10 @@
+Prompt: In the foreground, an older shepherd with weathered skin and a deeply lined face stands beside a flock of sheep grazing on a vibrant, grassy meadow. His attire is traditional, made from coarse wool, worn but meticulously maintained. He holds a wooden staff adorned with carvings of ancient symbols. Beside him, a sheepdog with alert eyes, ears pricked up, stands guard, its coat glossy under the sunlight. 
+
+The background is dominated by a majestic mountain range, its peaks capped with snow that gleams brilliantly in the late afternoon sun. The mountains are a mix of rugged cliffs and gentle slopes, covered with patches of evergreen forests and alpine flowers in full bloom. An eagle soars high above, silhouetted against a clear, blue sky with wisps of clouds drifting lazily. 
+
+The lighting captures the golden hour, casting a warm, honey-colored glow over the entire scene, and creating long, soft shadows that add depth and dimension. The light accentuates the textures — the roughness of the shepherd’s skin, the wool of the sheep, the grass, and the rocky surfaces of the mountains.
+
+The style of this artwork is a hyper-realistic oil painting, every detail painstakingly rendered with fine brush strokes and rich, layered colors. The paint's depth and texture bring a lifelike quality to the entire piece, making it come alive with vivid detail and rich color contrast. The painting’s background features exquisite attention to the interplay of light and shadow across the mountainous landscape, seamlessly capturing a moment in nature's grandeur and the humble life within it.
+Seed: 3372057520
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Life, Mountain

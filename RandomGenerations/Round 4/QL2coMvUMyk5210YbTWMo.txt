@@ -1,0 +1,4 @@
+Prompt: A meticulously crafted oil painting captures an opulent 19th-century ballroom, filled with elegantly dressed figures engaged in vibrant yet poised conversation. The grandeur of the scene is framed by towering marble columns, adorned with intricate gold leaf detailing and embedded gemstones that catch the ambient light. Soft, warm light emanates from a colossal chandelier hanging from the ornate ceiling, casting intricate shadows and highlighting the richness of the fabric in the ladies' gowns and the luster of the gentlemen's tailored suits. The background showcases tall arched windows with translucent drapes that hint at a moonlit garden outside, adding depth to the setting. The use of chiaroscuro techniques accentuates the contours and textures, giving the scene a three-dimensional existence within the frame.
+Seed: 1466862474
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Framework, Existence

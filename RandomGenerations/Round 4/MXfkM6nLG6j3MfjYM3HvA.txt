@@ -1,0 +1,4 @@
+Prompt: A photograph capturing a regal blacksmith's forge at twilight. In the foreground, a muscular blacksmith stands with poised strength, hammer in mid-swing, sparks flying from the anvil. His face, illuminated by the intense glow of molten metal, shows focused determination and expert control. The background reveals the forge's blazing furnace, casting dramatic, flickering shadows and rich, warm hues on rough stone walls and wooden beams. The intricate details of tools hanging meticulously on the walls highlight his craftsmanship. Soft twilight filters through a small, dusty window, creating a harmonious blend of natural and man-made light, emphasizing the smoky atmosphere and dust particles dancing in the air. The overall composition showcases the raw power, precision, and timeless tradition of the blacksmith's art, suitable for any art museum or gallery.
+Seed: 1793973799
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Power, Fire

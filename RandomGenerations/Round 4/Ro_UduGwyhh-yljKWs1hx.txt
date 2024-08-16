@@ -1,0 +1,4 @@
+Prompt: An oil painting of a dynamic ballet dancer captured mid-pirouette. The dancer's dress, an intricate swirl of deep blues and silvers, billows around her like an ethereal cloud. The scene is set on a grand stage, with warm, golden spotlights highlighting the elegant contours of her form and casting delicate shadows that accentuate the fluidity of her motion. The background showcases rich burgundy curtains draped in soft folds, their texture meticulously detailed to give a sense of depth and luxury. Scattered on the polished wooden floor are a few rose petals, caught in mid-air, emphasizing the dancer's swift movement. The overall composition exudes an aura of timeless beauty and grace, with every brushstroke meticulously crafted to capture the fleeting yet powerful moment of performance.
+Seed: 1897425224
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ravishing, Movement

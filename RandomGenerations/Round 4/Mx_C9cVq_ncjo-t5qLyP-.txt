@@ -1,0 +1,10 @@
+Prompt: This is an oil painting titled “The Scholar’s Corner”, measuring 36 x 48 inches. The scene captures a dimly lit, cozy study room steeped in historical charm. The focus of the painting is a vintage wooden desk positioned in the center of the frame, scattered with open, weathered books and rolled parchment. An antique brass lamp on the desk casts a warm golden glow, illuminating the texts and casting soft shadows that dance across the surface. Behind the desk, there’s a tall, grand bookshelf overflowing with tomes of varying sizes and colors, some leaning against each other, others lying stacked haphazardly, suggesting frequent use.
+
+The background walls are adorned with richly textured, dark green tapestry that conveys a sense of old-world elegance. There’s a large, leaded glass window to the right of the desk, through which faint, golden light of the early morning or late afternoon filters in, creating a dappled light effect on the wooden floor and enhancing the room’s ambiance. An intricate Persian rug, with deep reds and blues, anchors the space, adding to the room’s warmth.
+
+On one side of the room, a solitary, high-backed leather armchair sits invitingly, well-worn from hours of contemplative reading. A small side table next to the chair holds a delicate porcelain teacup and saucer, with a slight wisp of steam rising from it, adding a touch of life to the otherwise still setting. In the far corner, there’s an easel with a half-finished sketch, suggesting the presence of creativity and ongoing work.
+
+The painting style is hyper-realistic, with meticulous attention to detail – from the intricate wood grain of the desk to the intricate design of the tapestry and the delicate texture of the book pages. The color palette is rich and warm, dominated by earthy browns, deep greens, and soft yellows, creating an inviting and intellectual atmosphere. This piece would belong in a museum dedicated to literary history or in a gallery focused on classical and historical themes.
+Seed: 365157439
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glance, Knowledge

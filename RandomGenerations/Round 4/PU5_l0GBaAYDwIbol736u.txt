@@ -1,0 +1,4 @@
+Prompt: Create an oil painting. The artwork captures a massive glacier at twilight, with hues of twilight orange and deep blue reflecting off the icy surface. The glacier's jagged crevices and sheer cliffs are portrayed with meticulous detail, revealing the ancient wisdom encoded in its frozen expanse. The foreground features an elder pine tree, leaning slightly as if bowing to the glacier's timeless presence. The intricate textures of the pine's rough bark and snow-covered branches contrast with the smooth, glass-like ice. In the background, distant snow-capped mountains form a natural border under a clear, starry sky. Subtle, soft lighting emphasizes the quiet strength of the glacier and casts delicate shadows on the surrounding landscape, enhancing the solemn grandeur of the scene.
+Seed: 238584535
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glacier, Wisdom

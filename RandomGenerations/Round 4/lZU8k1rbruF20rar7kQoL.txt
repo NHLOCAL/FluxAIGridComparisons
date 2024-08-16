@@ -1,0 +1,4 @@
+Prompt: A high-resolution photograph showcases a quaint European street at twilight. The cobblestone pathway glistens subtly from a recent rain, reflecting the warm, golden glow of antique street lamps. The buildings on either side are painted in soft pastel colors, their facades adorned with iron balcony railings and climbing ivy. In the background, a towering cathedral with intricate gothic architecture looms, its stained glass windows illuminated from within, casting a kaleidoscope of colors onto the square below. The sky is a dusky canvas, gradients of deep blue transitioning into the last hues of a pink and orange sunset. The scene is pristinely sharp, each texture—from the smooth wet stones to the rough brick walls—conveyed with vivid clarity.
+Seed: 3889661421
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Photon, Yesterday

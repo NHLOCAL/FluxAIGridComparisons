@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting depicting a serene, late afternoon scene in a meticulously maintained Japanese garden. At the forefront, an elegant white heron stands gracefully by a small koi pond, its feathers meticulously rendered to showcase individual strands catching the soft, diffused light of the setting sun. The heron's slender legs and elongated neck are captured in a natural, poised stance, drawing the viewer's attention. Behind the heron, the pond is filled with vibrant koi fish, their scales reflecting a spectrum of colors as they swim gracefully through the crystal-clear water.
+
+Surrounding the pond, a carefully arranged landscape of lush, manicured bonsai trees and carefully placed rocks create a harmonious setting. The ground is covered in a pristine layer of white sand, raked into delicate patterns that evoke a sense of meticulous craftsmanship. In the background, a traditional shoji screen stands partially open, revealing a glimpse of a zen tea house nestled among the foliage. The tea house, with its wooden beams and paper walls, stands as a testament to classic Japanese architecture.
+
+The lighting in the scene is subtle and warm, with the golden hues of the setting sun casting long shadows and illuminating the heron's feathers with a gentle glow. The interplay of light and shadow on the bonsai trees and rocks adds depth and dimension to the painting. The overall style of the artwork reflects an attention to detail and an appreciation for the beauty of nature, captured in a moment of tranquility and meticulous order.
+Seed: 3227228703
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: White, Merit

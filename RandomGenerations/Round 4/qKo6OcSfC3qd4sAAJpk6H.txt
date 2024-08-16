@@ -1,0 +1,8 @@
+Prompt: An oil painting set in a rustic, sunlit countryside from the late 1800s. The scene features a charming, weathered farmhouse with ivy-covered stone walls and a thatched roof, nestled amidst rolling, golden fields of wheat ready for harvest. In the foreground, a cobblestone path leads to the farmhouse, worn smooth by generations of foot traffic. The path is flanked by wildflowers in warm hues of yellow, orange, and red. To the left, an ancient oak tree with sprawling branches provides dappled shade, its leaves rustling gently in a barely perceptible breeze. Beyond the farmhouse, in the distance, there is a quaint wooden barn, its red paint faded but well-maintained.
+
+The background of the painting features a clear, azure sky with wisps of white clouds drifting lazily across it. Nearby, a small pond reflects the blue of the sky and the surrounding greenery, its surface dotted with lily pads and occasional ripples from a fish breaking the surface.
+
+The lighting of the painting is late afternoon, casting a warm, golden glow over the entire scene. Shadows are long and soft, adding depth and dimension. The style of the painting is realistic yet romantic, with meticulous attention to detail in the texture of the thatched roof, the roughness of the cobblestones, and the delicate petals of the wildflowers. The overall composition evokes a sense of longing for simpler times, with every brushstroke capturing the inherent beauty and timeless charm of rural life.
+Seed: 2125087505
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nostalgia, Comely

@@ -1,0 +1,10 @@
+Prompt: An oil painting captures a serene, sunlit morning in a small, ancient village nestled at the foot of verdant hills. Traditional, stone-built cottages with neatly thatched roofs line the cobblestone street that winds gently through the heart of the village, symbolizing the stability of time-honored architecture. The warm, golden light of dawn casts long, soft shadows, bathing the entire scene in a tranquil glow. 
+
+In the foreground, villagers of various ages are engaged in communal activities: men and women uniformly dressed in simple, well-crafted attire gather around an open-air market stall exchanging goods and greetings, illustrating a scene of equality and shared community life. Children of diverse backgrounds, clad in similar playful garments, gather at the village square around a stone well, laughing and fetching water with equal delight. 
+
+The background is dominated by rolling hills clothed in rich, green foliage, under a sky painted with soft pastel hues from the rising sun. The delicately detailed texture in the stone walls and cobblestones, the dappled light filtered through the leaves, and the harmonious balance in the composition convey a deep sense of enduring peace and harmonious living. The meticulous brushwork enhances the tactile quality of the scene, from the rough stones to the soft, flowing fabric of the villagers' clothing. 
+
+The overall aesthetic is reminiscent of classical realism, with a touch of romanticism in the lighting and color palette that elevates the everyday setting into a timeless tableau.
+Seed: 3640986102
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stability, Equality

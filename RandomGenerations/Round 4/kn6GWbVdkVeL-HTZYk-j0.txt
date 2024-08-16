@@ -1,0 +1,10 @@
+Prompt: Create a large canvas oil painting titled "Campus Café Conversations." The scene is set in a cozy café located on a bustling college campus. The foreground features a long wooden table covered with an eclectic assortment of mismatched ceramic mugs, open textbooks, scattered notes, and laptops. Seated around the table are a diverse group of college students engaged in animated discussions, their faces illuminated by the golden afternoon light streaming through large, arched windows. Some students are leaning in, eyebrows furrowed, while others are gesturing with their hands, their eyes wide with curiosity. 
+
+The café itself has an inviting yet slightly worn charm, with exposed brick walls adorned with vintage academic posters and framed photographs of past university events. The counter in the background is lined with an array of pastries under glass domes, and a barista, mid-pour, can be seen behind a gleaming espresso machine. 
+
+Lighting is natural and soft, casting gentle shadows that add depth to the scene. The colors are rich and warm, with deep browns, soft yellows, and splashes of vibrant hues from the students' clothing and the café decor. Thick brushstrokes give texture to the wood grain of the tables and the steam rising from the coffee cups. 
+
+The background through the windows shows a glimpse of the campus with students walking, bikes parked haphazardly, and autumn trees in various stages of golden, orange, and red foliage. The scene within the café and the view outside create a harmonious blend that captures the essence of academic community and youthful energy. The painting is detailed and realistic, yet with an impressionist twist that brings an almost dreamlike quality to the everyday scene.
+Seed: 3960628605
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Café, College

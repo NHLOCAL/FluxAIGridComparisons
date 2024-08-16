@@ -1,0 +1,14 @@
+Prompt: A large oil painting occupies most of the wall in the gallery, measuring 60 inches by 40 inches. The setting is an enchanting lagoon bordered by lush greenery. The lagoon is bathed in the soft, golden hue of late afternoon sunlight, creating elongated shadows that stretch across the water's surface. The water is crystal clear, allowing hints of the sandy bottom and small, colorful fish to be visible.
+
+In the foreground, a detailed representation of a leafy green plant extends from the right-hand side of the painting. The leaves are illustrated with meticulous attention to detail, each vein and serration clearly visible. They glisten as if freshly kissed by dew, catching the light in a way that makes them appear almost three-dimensional.
+
+At the center of the painting, there is a wooden rowboat, artistically aged and slightly weathered to suggest years of use. It is tethered to a crooked, hand-hewn wooden post planted firmly in a small, natural dock made of rough planks that blend seamlessly into the shoreline. Inside the boat are scattered leaves, as if they had fallen naturally from the surrounding foliage.
+
+Background elements include tall, slender trees with cascading branches that almost touch the serene surface of the lagoon. The opposite shore is faintly visible, shrouded in mist that gives it a soft, almost dreamlike quality. Closer inspection reveals small birds resting on the branches, blending into the spectacular backdrop.
+
+The lighting captures a moment frozen in time, with light filtering through the dense canopy of leaves above, casting intricate patterns on the ground and water below. Shadows are sharp and well-defined, but soften as they extend further from their source. This creates a balanced interplay of light and shade, enhancing the natural beauty of the scene while drawing the viewer's eye toward the central elements.
+
+The style of the painting borders on hyperrealism, blending extraordinary attention to detail with a hint of the surreal in the misty background, invoking a nearly palpable sense of place that captures the beauty and tranquility of the lagoon and the detailed, almost lifelike leaves that dominate the scene.
+Seed: 3895936112
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lagoon, Leaf

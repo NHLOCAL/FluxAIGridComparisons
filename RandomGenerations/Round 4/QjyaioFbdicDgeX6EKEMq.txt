@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting captures the serene scene of an ancient library. The setting is dimly lit, with flickers of candlelight casting soft, warm glows across centuries-old wooden bookshelves filled with leather-bound tomes. The background is dominated by towering shelves that nearly touch the vaulted ceiling, adorned with intricate woodwork and crowned with age-old dust. 
+
+In the middle ground, a long oak table is strewn with parchment, quills, and mysterious artifacts—suggesting secrets whispered through time. A solitary, life-like figure clad in scholarly robes leans over the table, eyes focused intently on a cryptic manuscript. The shadows play quietly off their face, alluding to the deep concentration and seclusion.
+
+The foreground features an elegantly worn, Persian rug, its patterns barely discernible in the dim ambiance, hinting at stories and murmured conversations past. Gold accents from the candle holders and the spines of the books spark subtle highlights, bringing a gentle but vivid contrast to the darker hues that dominate the scene. This oil painting's hyper-realism captures every intricate detail, inviting viewers to uncover the layers of secrets and murmured history within.
+Seed: 3949613330
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Secret, Murmur

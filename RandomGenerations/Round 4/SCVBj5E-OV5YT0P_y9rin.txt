@@ -1,0 +1,8 @@
+Prompt: A serene oasis scene captured in hyper-realistic oil painting. In the foreground, a pristine, clear pond reflects the azure sky and nearby lush greenery with impeccable detail. A weeping willow bends gracefully towards the water's edge, its leaves almost brushing the surface. To the right, a small, timeworn wooden bridge arches elegantly over a narrow stream feeding into the pond. The lighting is soft and diffused, as if a cloud had just passed over the sun, casting gentle, natural shadows and preventing any harsh contrasts. 
+
+In the background, towering, jagged cliffs loom with an imposing presence, their craggy surfaces displaying intricate textures and shadows, hinting at a rugged, inhospitable terrain beyond the tranquility of the oasis. The cliffs are partially shaded, suggesting an overcast sky, adding a sense of unease and tension to the composition. Sparse vegetation clings to the cliff faces, fighting for survival in the harsh landscape. 
+
+The juxtaposition of the calm, inviting oasis and the foreboding cliffs creates a compelling visual narrative, rich in detail and contrast, making it worthy of display in a gallery or museum setting.
+Seed: 1537233726
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Oasis, Tension
