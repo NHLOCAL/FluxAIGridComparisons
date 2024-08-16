@@ -1,0 +1,8 @@
+Prompt: A museum-worthy oil painting depicts a surreal night scene of a vintage town square, bathed in the cold, silvery light of a full moon. The architecture hints at a late 19th-century European village, with cobblestone streets and stone buildings lined with flickering gas lanterns. In the foreground, a lone, timeworn clock tower stands tall, its hands frozen at exactly midnight. 
+
+In stark contrast, the background showcases a mystery: in the night sky above, a vivid, swirling black hole dominates the celestial canvas, pulling in stardust and casting an eerie, distorted glow over the scene. The black hole's event horizon is depicted with intricate swirls of dark purple and inky black, blending masterfully with the deep navy and cobalt blue of the night sky.
+
+The lighting is a chiaroscuro, balancing deep shadows with patches of intense moonlight, emphasizing the texture of the weathered stones and the reflective surfaces of the nocturnal setting. Stars are subtly luminescent, faintly visible, being drawn towards the black hole, adding a sense of both timelessness and impending obscurity. This juxtaposition of serene historicity and cosmic mystery creates a masterful contrast, compelling the viewer to ponder the dialogues between the past and the vast unknown.
+Seed: 2676213650
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yesterday, Black hole

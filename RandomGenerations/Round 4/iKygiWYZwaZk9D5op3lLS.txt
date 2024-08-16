@@ -1,0 +1,12 @@
+Prompt: A hyper-realistic oil painting captures the timeless scene of an old, bustling European marketplace at mid-morning. The square is filled with wooden stalls brimming with fresh fruits, vegetables, flowers, and handcrafted goods. Each stall is manned by traders with nuanced, life-like faces etched with years of experience and deep lines that hint at countless stories. The colors are meticulously detailed, with vibrant reds of apples, the deep greens of leafy vegetables, and the multifaceted hues of handmade pottery. 
+
+In the foreground, a woman in traditional 19th-century attire examines a piece of ceramic pottery with careful attention. Her dress, with intricate lace and patterns rendered in exquisite detail, complements the authenticity of the scene. Nearby, a child tugs at her skirt, holding a half-eaten apple, its juices glistening realistically.
+
+The lighting is natural, with the morning sun casting long, soft shadows across the cobblestone ground. Each stone in the pathway is distinct, showing wear and irregularities as if they were laid centuries ago. The stalls cast patches of shadow, giving depth and dimension to the various textures in the scene.
+
+In the background, aged buildings with worn facades and terracotta-tiled rooftops encircle the square. Their windows are open, revealing glimpses of life inside, from hanging laundry to potted plants on the sills. Narrow alleyways invite the eyes to wander deeper into the scene, promising hidden stories beyond the market.
+
+The style is such that viewers would need to get close to catch the minute details, yet the overall composition provides a vivid experience of stepping into a bygone era, making this piece worthy of a prominent place in a sophisticated museum or gallery.
+Seed: 3597780085
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Closeness, Experience

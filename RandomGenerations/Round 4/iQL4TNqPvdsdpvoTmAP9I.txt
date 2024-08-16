@@ -1,0 +1,10 @@
+Prompt: An oil painting depicting a grand ballroom drenched in warm, golden light emanating from an elaborate crystal chandelier suspended from the high vaulted ceiling. The chandelier's intricate details and shimmering lights create a mesmerizing focal point. The polished marble floors reflect the soft glow, enhancing the opulence of the scene. To the right, large, arched windows with velvet drapes pulled back reveal a crimson evening sky, casting a soft, natural light that mingles with the chandelier’s radiance. 
+
+Elegant, high-backed chairs with detailed wooden carvings and silk upholstery are artfully arranged around finely crafted wooden tables adorned with intricate lace tablecloths. The tables boast delicate porcelain vases with freshly cut roses in varying shades of red and pink. Against the far wall, a grand piano with an open lid displays gleaming black and white keys, inviting to be played.
+
+Intermingled with the refined decor, well-dressed figures wearing fashion reminiscent of the 19th century indicative of nobility are quietly engaging in polite conversation or gracefully waltzing across the room. The men are in tailored tailcoats and cravats, while the women wear flowing gowns with intricate embroidery and subtle jewel tones, their hairstyles immaculate and adorned with understated accessories.
+
+The background features oil paintings in ornate gold frames depicting classical themes, and a marble fireplace opposite the windows, above which rests a large, gilded mirror reflecting the chandelier and adding depth to the room. The choice of a rich color palette with deep reds, golds, and dark greens, combined with the precise and refined brushstrokes, creates a scene of majestic elegance and timeless sophistication.
+Seed: 3506147935
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alpha, Elegant

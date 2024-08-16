@@ -1,0 +1,10 @@
+Prompt: An oil painting captures a surreal scene of a coastal marshland at twilight, bathed in moody, muted hues. The sky transitions from deep indigo to stormy gray, casting an ethereal, almost eerie light across the landscape. Shadows elongate and dance across the uneven terrain, where clusters of hardy salt-tolerant grasses poke out from brackish pools, their green and yellow blades swaying slightly. 
+
+Dominating the foreground is a figure that is both human and otherworldly: a mutant with elongated limbs and a body mottled like the bark of ancient trees. Its skin glistens as though perpetually wet, with a briny texture reminiscent of sea salt crystals. The figure appears to be emerging from the ground itself, blending seamlessly with the natural elements around it—half-submerged in a pool, its lower limbs indistinguishable from the twisted roots of nearby mangroves.
+
+In the background, dilapidated wooden shacks on stilts skirt the horizon, their fragile silhouettes outlined against the fading twilight. Weathered and leaning, they appear almost spectral, a testament to the harsh, salt-laden winds that batter the area. The water reflects the darkening sky, broken only by the occasional ripple as unseen creatures disturb the surface. 
+
+The painter uses thick, expressive brushstrokes to bring texture and depth to each element, allowing the viewer to almost feel the roughness of the salt-crusted shack walls or the slimy smoothness of the mutant's skin. The overall atmosphere is one of alien beauty, a place where the natural world collides with the fantastical, captured in a moment of haunting stillness.
+Seed: 1410695817
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Saltiness, Mutant

@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting on a large canvas depicting a futuristic cityscape at dawn. The scene is viewed from a rooftop garden atop a sleek, glass skyscraper, overlooking an expansive urban area where traditional, classic architecture coexists with advanced, cutting-edge structures. In the foreground, the rooftop garden features meticulously arranged exotic plants and modernist sculptures made from polished metals and glass. There’s a sense of fresh potential in the air, as morning light begins to spill over the horizon.
+
+The lighting is dynamic, capturing the first rays of sunlight as they pierce through scattered clouds, casting a golden hue over the city. Reflections off the glass buildings create intricate patterns of light and shadow. The garden itself is softly illuminated, with strategically placed lamps glowing faintly, hinting at the use of renewable energy sources.
+
+The background reveals high-speed transit systems weaving between buildings, showcasing hovering vehicles and flying drones. Digital billboards flash with innovation advertisements, suggesting a society deeply integrated with technology yet harmoniously balancing nature and progress. The streets below, lined with a mix of automated walkways and green spaces, are bustling with people in sleek attire, engaged in morning activities, and robotic assistants seamlessly blending into daily life.
+
+Overall, the painting captures the intersection of progress and possibility, where the old meets the new, and nature integrates with advanced technology, hinting at an optimistic future where human ingenuity thrives.
+Seed: 4068481941
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Progress, Possibility

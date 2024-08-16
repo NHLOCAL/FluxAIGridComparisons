@@ -1,0 +1,8 @@
+Prompt: In an oil painting of museum quality, the scene captures a grand, historic university courtyard bathed in the soft, golden light of the early evening. Dominating the foreground, a cobblestone path winds through meticulously maintained gardens, where the vibrant colors of blossoming flowers contrast with the lush green of neatly trimmed hedges. Alongside the path, an ancient ivy-covered convent building showcases its intricate Gothic architecture, with tall, pointed arches and beautifully stained glass windows that catch and refract the waning sunlight.
+
+Students, clad in traditional academic gowns, are engaged in various scholarly activities; some sit on wooden benches engrossed in thick, leather-bound books, while others walk in pairs discussing theories and ideas. A few nuns in simple habits, adding a serene atmosphere, move silently along the cloister, their presence connecting the academic setting with the spiritual discipline of the past.
+
+The background of the painting features towering, century-old oak trees that frame the scene and add depth, their branches swaying gently in the evening breeze. The sky above is a delicate wash of pastel oranges and purples, transitioning to a deeper indigo, dotted with the first few stars of the evening. The lighting throughout the painting is warm and natural, casting long, soft shadows that hint at the approaching twilight, highlighting the timeless beauty and intellectual legacy of the setting.
+Seed: 1626433594
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Convent, University

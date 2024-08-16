@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting depicts an enthralling scene set at dusk along a serene ocean shoreline. The main focus is a solitary figure of a robed sorcerer standing on a jagged cliff that juts out into the sea. The sorcerer’s robe is a deep, velvety blue, matching the twilight sky, and it flutters dramatically in the ocean breeze. He holds an ornate staff that emits a soft, incandescent glow, casting an ethereal light on his ancient, weathered face and long, silver hair.
+
+The ocean water below is painted with remarkable detail, showing the gentle ebb and flow of the tides. Silvery moonlight reflects off the waves, creating shimmering trails across the surface. The coast is lined with smooth, darkened rocks, and tide pools that capture miniature reflections of the sky above. Scattered seashells and driftwood add texture to the sandy foreground which is bathed in the fading ambiance of the setting sun.
+
+In the background, the sky transitions from deep, cobalt blue to a rich, purplish hue with streaks of crimson and golden light from the sun that has just disappeared beyond the horizon. Wisps of cloud, tinged with the last light of day, stretch across the canvas, adding depth and movement to the sky. A crescent moon hangs high, casting a subtle light that mingles with the softer, magical luminescence of the staff.
+
+The overall lighting captures the tranquil yet powerful nature of the scene, with the juxtaposition of natural moonlight and the mystical glow blending seamlessly together. The intricate brushstrokes and meticulous attention to detail elevate this painting to a piece worthy of gallery display, encapsulating a moment of enchantment and natural beauty.
+Seed: 3384349431
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ocean, Spell

@@ -1,0 +1,10 @@
+Prompt: A large oil painting captures the tranquil scene of an ancient river winding through a dense, lush forest. The river, with its crystal-clear water, reflects the verdant canopy of trees that arch overhead. The artist has meticulously detailed the leaves, showing varying shades of green that suggest the vibrancy and health of the flora. The riverbank is lined with rocks and patches of wildflowers, which lend splashes of color to the scene.
+
+At the center of the painting, a weathered wooden footbridge spans the river, its planks worn smooth by time and countless journeys. On one side of the bridge, a narrow dirt path — the route — meanders through the forest, disappearing into the thick underbrush in the distance. The path is partially obscured by shadows, giving a sense of depth and mystery to the composition.
+
+Soft, natural light filters through the dense canopy, casting dappled patterns on the forest floor and the surface of the river. The light creates subtle contrasts and highlights, bringing depth and texture to the piece. The sky, barely visible through the treetops, glows with the warm hues of a setting sun, suggesting the end of a perfect day. The background extends to undulating hills covered in dense forest, fading into a soft focus, which adds a sense of vastness to the scene.
+
+The painting's style is realistic yet romantic, with a meticulous attention to detail that captures the viewer's eye. The colors are rich and earthy, dominated by varying greens, browns, and the golden touches of sunlight. The detailed brushstrokes create a sense of movement in the flowing water and rustling leaves. This masterpiece exudes a quiet reverence for nature, inviting viewers to step into a world undisturbed by modern life.
+Seed: 814718658
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: River, Route

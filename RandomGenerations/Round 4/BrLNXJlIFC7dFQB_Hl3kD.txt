@@ -1,0 +1,10 @@
+Prompt: This is an elegantly detailed oil painting that seamlessly blends realism with a touch of the surreal. The scene captures a grand, dimly lit hallway of an abandoned, yet palatial mansion. Tall, arched windows on one side allow beams of muted, silver moonlight to stream in, casting long, distorted shadows on the marble floor and against ornate, cracked wallpaper. The walls are adorned with ancient portraits, their eyes seemingly following every movement with eerie precision. 
+
+Ethereal figures, almost transparent, are faintly visible walking down the hallway, their somber and fluid forms creating a ghostly procession. Some appear to blend into the background, disappearing and reappearing as though they are part of the structure itself. The perspective is slightly skewed, giving the viewer a sense that the mansion is alive, subtly shifting around them with every glance.
+
+In the distance, a large, dust-covered chandelier hangs precariously above an opulent staircase leading to darkness, its once grand design now enveloped in cobwebs and decay. The distant corners of the hallway fade into shadows, effectively obscuring what lies beyond and granting the viewer a sense of both intrigue and apprehension. A subtle mist clings to the floor, reflecting the spectral light and adding to the overall otherworldly atmosphere.
+
+The meticulous brushstrokes and unsettlingly precise details of the painting invite prolonged scrutiny, allowing the viewer to discover hidden elements and subtleties that alter their perception with each observation. This masterful interplay of light, shadow, and form encapsulates the essence of a scene caught between realms, making it a timeless piece worthy of the finest museum or gallery exhibition.
+Seed: 685233314
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Specter, Perception

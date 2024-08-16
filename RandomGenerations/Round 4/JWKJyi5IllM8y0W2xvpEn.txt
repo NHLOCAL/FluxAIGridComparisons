@@ -1,0 +1,6 @@
+Prompt: A colossal glacier towers majestically within the frame, its brilliant, ice-blue facade sharply contrasted against a serene, cloudless sky painted in tender morning hues. The texture of the ice is captured in exquisite detail, showcasing an array of jagged peaks and smooth valleys, glinting as they catch the early sunlight. Towards the horizon, a field of snow stretches out, unmarred, its pristine surface reflecting a soft, golden glow. In the foreground, a scattering of delicate frost-covered flora subtly peeks through the snow, adding a hint of life to the otherwise stark landscape.
+
+This is a hyper-realistic oil painting, where the artist's masterful brushwork meticulously captures the translucent quality of ice and the subtle interplay of light and shadow. The lighting is magical, a blend of natural sunlight enhancing the ethereal quality of the scene. The painter employs a delicate palette, emphasizing soft blues, whites, and hints of warm yellows. The background, a scarcely visible range of distant mountains, adds depth and scale to the composition, completing a breathtaking tableau that invites viewers to linger and explore every intricate detail.
+Seed: 2945495215
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ice, Bliss

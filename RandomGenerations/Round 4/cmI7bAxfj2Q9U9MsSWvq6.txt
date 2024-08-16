@@ -1,0 +1,8 @@
+Prompt: A large-scale oil painting captures a sprawling, rustic workshop bathed in the warm, golden light of the afternoon sun. The rays of sunlight stream through the high, dusty windows, casting long shadows and illuminating particles of sawdust in the air, creating an almost ethereal atmosphere. The foreground is dominated by a well-worn wooden workbench, covered with an array of hand tools—chisels, hammers, and saws—each showing signs of long use with handles polished by countless hours of work. Strewn across the bench are blueprints and sketches, some rolled, some unfurled, their edges curling with age.
+
+In the middle ground to the left, an anvil and forge occupy the space, hinting at metalwork; the forge's lingering embers emit a faint, reddish glow. To the right, shelves cluttered with jars of nails, bolts, and other hardware stand against a backdrop of pegboard covered with neatly hung tools. The walls are lined with rich wooden planks that echo the structure's age and history, while the floor is a patchwork of worn stone and scattered wood shavings, their textures meticulously rendered.
+
+At the center of this workshop is the craftsman, an older man with a grey beard and rugged hands, intently focused on a wooden sculpture he's carving. He's dressed in a simple, worn apron with patches of paint and wood dust, almost blending into the setting that speaks of years of dedication and skill. This painting's meticulous detail captures the workshop's blend of order and chaos, each element carefully positioned to narrate a story of craftsmanship and tradition.
+Seed: 2974135089
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tip, Workshop

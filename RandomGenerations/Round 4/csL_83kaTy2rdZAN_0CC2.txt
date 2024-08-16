@@ -1,0 +1,10 @@
+Prompt: A large, intricately detailed oil painting on canvas, measuring 6 feet by 4 feet, depicts a grandiose underwater scene. Dominating the foreground is a colossal, ancient Leviathan, its scales shimmering with shades of deep blue, emerald green, and flecks of gold under the dappled light filtering through the water above. The creature's eye, deep and mysterious, seems almost lifelike, capturing the viewer's gaze and holding it. Surrounding the Leviathan are schools of smaller, brilliantly colored fish that seem to dance around the great creature, creating a sense of motion and contrast. 
+
+The background features a meticulously painted underwater city of ancient ruins, with coral formations and sunken statues, half-buried in the sand, hinting at a lost civilization. The ruins are balanced in composition, with crumbling pillars on one side and a broken archway on the other, drawing the viewer's eye through the painting. 
+
+The lighting is soft and diffused, as if the sun is breaking through the surface of the water, casting beams of light that pierce the darker depths, illuminating the scene with a gentle, almost ethereal glow. The artist has used a combination of dark and light blues intermixed with greens to create a tranquil yet profoundly majestic underwater world. 
+
+The painting, though static, conveys a sense of movement and balance, with the Leviathan's poised, yet powerful posture contrasting the fluidity of the swarming fish and the stillness of the submerged ruins. The attention to detail, the harmony of elements, and the sheer scale of the piece make it worthy of being displayed in a prestigious art gallery or museum.
+Seed: 1584105932
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leviathan, Balance

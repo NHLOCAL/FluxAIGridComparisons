@@ -1,0 +1,4 @@
+Prompt: A large oil painting in the style of Romanticism depicts an opulent ballroom adorned with gleaming chandeliers casting soft, warm light across the room. The intricate details of ornate gold-framed mirrors and rich, damask curtains create a lavish backdrop. In the foreground, elegantly dressed figures in period attire exhibit a range of sophisticated poses. A sensuous couple in the center, their faces close yet not touching, show a compelling tension in their postures, with intricate brushwork capturing the texture of their luxurious garments. The surrounding dancers create dynamic swirls and intricate patterns, their movements almost palpable through the use of vibrant, fluid colors. The entire scene is imbued with meticulous attention to detail, from the reflection of light on polished floors to the delicate play of shadows amongst the crowd.
+Seed: 412435250
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Variation, Lust

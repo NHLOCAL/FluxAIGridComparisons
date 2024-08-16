@@ -1,0 +1,8 @@
+Prompt: A large, meticulously detailed oil painting depicts an ethereal scene of a wormhole opening up in the vastness of deep space. The wormhole is a swirling vortex of vibrant colors—electric blues, purples, and greens—interspersed with streaks of golden light that seem to almost pulse outwards. The wormhole’s rim is jagged and irregular, with tendrils of light snaking out into the void.
+
+Beyond the wormhole, a destination is painted with stark contrast to the dark void of space: an alien planet with an otherworldly landscape. Giant, crystalline structures rise up in impossibly angular forms, their translucent surfaces glistening under multiple unknown celestial bodies—moons or suns—that cast a soft, diffused light onto the scene. The sky of this alien world is painted in hues of orange and pink with swirling clouds that reflect the light in shimmering arrays.
+
+Around the wormhole, distant stars and nebulae are painted in intricate detail, providing a backdrop of cosmic grandeur. The light in the painting is luminous and radiant, with the wormhole itself being a primary light source, casting surreal shadows and highlights on the alien terrains. The style is hyper-realistic, capturing minute details with precision yet maintaining a fantastical element through vibrant and almost surreal color choices. This artwork stands as a testament to masterful skill and imagination, earning its place in a prestigious museum or art gallery.
+Seed: 2200100035
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wormhole, Destination

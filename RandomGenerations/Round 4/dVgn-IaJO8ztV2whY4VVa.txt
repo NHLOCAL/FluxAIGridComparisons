@@ -1,0 +1,8 @@
+Prompt: A large, imposing medieval castle made of gray stone sits atop a rocky outcrop surrounded by a dense, dark forest. This is an oil painting on a large canvas, with masterful, meticulous brushwork and rich, layered textures. The style is highly detailed realism with a touch of romanticism, capturing the foreboding grandeur of the structure. The castle's towering spires and thick, fortified walls are illuminated by a brooding twilight, where the sky shifts from deep purples to the last lingering hues of orange and pink from the setting sun. Dense, swirling clouds gather ominously above, casting long, dark shadows across the castle's facade. 
+
+In the foreground, a lone, heavily armored knight stands, sword drawn and shield at the ready, facing the castle as if preparing for an imminent confrontation. The knight's armor gleams dully in the dying light, with intricate etchings visible upon closer inspection. His posture is taut, braced for battle, with a determined stance that contrasts with the overwhelming size and menacing presence of the fortress ahead.
+
+The background reveals parts of the forest, with tall, ancient trees whose twisted branches seem to claw at the darkening sky. Shadows stretch unnaturally long, creating an almost surreal sense of depth and foreboding. The ground is scattered with fallen leaves and the occasional gnarled root breaking through the earth, adding to the untamed and perilous atmosphere of the scene.
+Seed: 3249381881
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enemy, Castle

@@ -1,0 +1,4 @@
+Prompt: An intricate oil painting captures the serene interior of a historic European parish during a special hearing. The style is hyperrealistic, with impeccable attention to detail. The warm, golden light of late afternoon streams through the tall, stained-glass windows, casting vibrant, colorful shadows on the polished wooden pews and intricately tiled floor. The altar, adorned with white lilies and lit candles, stands as the focal point, with the soft glow of candlelight creating a peaceful ambiance. In the background, the ornate architecture of the parish's arched ceiling and elegant columns is highlighted by the interplay of natural and artificial light. The soft murmuring of the congregation can almost be heard as they gather in hushed anticipation, their faces illuminated by the ambient lighting, reflecting a moment of sacred communal gathering.
+Seed: 3423712400
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Parish, Hearing

@@ -1,0 +1,12 @@
+Prompt: An intricately detailed oil painting capturing a scene set during the early construction of a majestic cathedral. In the foreground, skilled artisans are meticulously carving gargoyles and intricate stone filigree, their tools and materials meticulously rendered to show individual grains in the stone. Nearby, a group of laborers in patched but sturdy attire is hoisting a massive wooden beam with thick ropes, their muscles taut, depicted with incredible realism. 
+
+In the middle ground, scaffolding of weathered wood and rope rises high, populated by workers, some suspended in mid-motion, hammering and measuring with precision. The scaffolding seems almost alive, a web of bracing timbers and ropes against the skeleton of the cathedral that towers above them. 
+
+The towering structure itself, though still incomplete, hints at the grandeur to come with its sweeping arches and tall spires that pierce through the sky filled with a golden hue of the setting sun. The sun's rays filter through the clouds, casting a warm, almost divine light across the construction site. Each layer of stone seems to glow, emphasizing the monumental nature of the work.
+
+In the background, the city sprawls beneath the setting sun. Narrow, winding streets filled with curious onlookers provide scale, emphasizing the cathedral's sheer size. The rooftops of medieval houses are rendered with precision, from thatched roofs to early tiled structures.
+
+The oil painting employs rich, deep earth tones enhanced with luminous highlights, creating a sense of depth and realism. The strokes are both meticulous and expressive, ensuring every element, from the smallest chisel to the broadest beam, is alive with detail and purpose.
+Seed: 705825635
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wonder, Construction

@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting capturing an underwater reef scene juxtaposed with a submerged, abandoned subway car. The setting is an ethereal underwater world, vividly illuminated by rays of sunlight piercing through the clear blue water. The foreground is a bustling coral reef, with vibrant corals in shades of orange, pink, and purple, and schools of brightly colored fish swimming gracefully around. To the right, partly concealed by the reef, is a rusted, seaweed-draped subway car. Its windows are broken, and small sea creatures like crabs and starfish are visible inside. The background reveals the soft, distant silhouettes of more underwater structures, hinting at a lost urban world reclaimed by nature. Faint, shimmering particles float throughout the water, adding to the surreal quality of the scene.
+Seed: 2195406695
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reef, Subway

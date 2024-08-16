@@ -1,0 +1,8 @@
+Prompt: In an oil painting, the scene captures a sprawling battlefield that extends into a mountainous horizon under a twilight sky. In the foreground, a triumphant general stands tall on a slightly elevated mound, his polished armor reflecting the remnants of sunlight, casting a golden halo around him. His sword is raised high, and his battle-worn banner flutters gently in the evening breeze. Around him, soldiers, their expressions stern and exhausted, gather in disorganized clusters, some attending to the wounded, others holding aloft their own flags, torn but still billowing. 
+
+In stark contrast, the middle ground depicts the defeated, sprawled across the rugged terrain with broken shields and discarded weapons, their faces turned toward the ground. The darkening sky is tinged with the orange hues of sunset, creating long shadows that stretch across the divided masses, the light subtly highlighting the victors and casting the vanquished into somber shade.
+
+The background features jagged, snow-capped mountains towering against a sky transitioning from vibrant oranges and purples to the deep blues of night, symbolizing the persistent divisions and looming challenges. The style is highly detailed, with each expression, and fold in the fabric, and glimmer of metal meticulously rendered, emphasizing the gravity of the scene. The light emanates naturally from the setting sun, casting dynamic shadows and enhancing the textures of the armor, weaponry, and landscape, ultimately capturing a moment frozen in time where triumph is celebrated amidst the scars of conflict.
+Seed: 3441226262
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Victory, Division

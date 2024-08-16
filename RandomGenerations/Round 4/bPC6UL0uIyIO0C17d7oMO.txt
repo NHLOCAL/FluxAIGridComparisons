@@ -1,0 +1,8 @@
+Prompt: An oil painting captures the grandeur of an opulent palace interior during the late Renaissance period. The gilded walls are adorned with intricate frescoes depicting mythological scenes, their colors vivid and rich under the ambient light. Crystal chandeliers hang majestically from the high ceilings, their facets casting a soft, diffused glow that dances across the marble floors and elaborately woven Persian rugs. 
+
+In the foreground, a lavish banquet table is set with fine porcelain, glimmering silverware, and towering candelabras with flickering flames, casting subtle shadows on the white linen cloth. Plates are piled high with sumptuous food, the faint aroma of roasted meats, aromatic herbs, and freshly baked bread wafting through the air, almost tangible in the painting.
+
+The background reveals a set of grand double doors made of dark mahogany, slightly ajar to hint at the expanse beyond. Tall, arched windows draped with heavy velvet curtains allow glimpses of a meticulously manicured garden bathed in the golden hue of a setting sun, its rays filtering in just enough to enhance the warm, opulent atmosphere inside. The meticulous brushstrokes highlight the texture of the surfaces, whether it’s the smoothness of the marble or the plush weave of the fabric, inviting viewers to lose themselves in the luxurious details of the scene.
+Seed: 1447138943
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Smell, Palace

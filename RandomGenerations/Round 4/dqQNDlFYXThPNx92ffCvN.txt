@@ -1,0 +1,8 @@
+Prompt: A meticulously detailed oil painting set in the lush interior of a grand Victorian greenhouse. The scene captures an opulent array of exotic plants and flowers, with meticulously rendered foliage in various shades of green, interspersed with vibrant blooms of red, yellow, and purple. A well-worn stone pathway meanders through the dense greenery, leading the observer’s eye toward a white wrought-iron bench placed invitingly in a sun-dappled clearing. 
+
+The greenhouse's tall, arched glass windows allow soft, natural light to filter through, casting delicate shadows and highlighting the intricate textures of the leaves and petals. The background features an ornate wooden door, partially open, suggesting an inviting pathway to further exploration. In the foreground, a finely detailed peacock stands at ease, its iridescent feathers fanned out in exquisite detail, reflecting the dappled sunlight. 
+
+The artist employs a classic, realistic style, with an emphasis on detailed brushwork and vibrant, true-to-life colors. The interplay of light and shadow is masterfully rendered, creating a sense of depth and realism that draws the viewer into the scene. The overall composition guides the observer to take in every meticulously painted detail, inviting them to linger and explore the rich, verdant setting.
+Seed: 715110430
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pleasure, Observe

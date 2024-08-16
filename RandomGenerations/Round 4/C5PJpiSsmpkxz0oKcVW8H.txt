@@ -1,0 +1,10 @@
+Prompt: A meticulously detailed oil painting capturing the late afternoon sun casting long shadows over a rustic wooden pier. The pier extends out into a calm, azure lake with water so clear that the pebbles on the lakebed are visible. The sky is painted with the soft hues of twilight — a gradient of pink, orange, and lavender as the sun begins to dip below the horizon. Around the pier, clusters of reeds and lilies are skillfully rendered with delicate brushwork, swaying gently in an imagined breeze.
+
+In the background, there is a dense forest of ancient, towering pines and oaks, depicted with a mix of deep greens and browns, fading into cooler, darker tones as they recede into the dense wilderness. A solitary, weathered rowboat is tied to the pier, showcasing intricate details of worn wood and frayed rope. The artist has subtly highlighted the textures with careful lighting, emphasizing the boat's aged, yet sturdy, build.
+
+Dappled sunlight filters through gaps in the tree canopy, creating specks of light on the forest floor and adding depth to the scene. The overall lighting is soft but directional, guiding the viewer's eye from the foreground to the horizon, where the last light of the day lingers.
+
+This piece of art effectively captures a moment of transition, detailing the serene quietness of evening settling over the landscape while emphasizing the calmness and clarity of the environment. The thorough detailing and masterful use of light and shadow elevate the painting, making it ideal for display in a prestigious gallery or museum.
+Seed: 1100863020
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adjustment, Ending

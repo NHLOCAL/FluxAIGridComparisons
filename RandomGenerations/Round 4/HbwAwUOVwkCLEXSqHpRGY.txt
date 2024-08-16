@@ -1,0 +1,10 @@
+Prompt: A large-scale oil painting depicts a post-apocalyptic urban environment. The remnants of once grand skyscrapers crumble in the background under a foreboding, blood-red sky, where clouds twist like gnarled fingers of some unseen monstrosity. Broken glass, twisted metal, and charred debris litter the cracked, desolate streets, painting a picture of total ruin and abandonment. In the foreground, a lone, regal vampire stands atop a pile of rubble.
+
+The vampire is dressed in Victorian-era attire, meticulously detailed with deep crimson velvet and intricate black lace. His skin is pale, almost luminescent against the darkness surrounding him, and his eyes glow with an eerie, preternatural light. His elongated fangs protrude slightly from his lips, and wisps of smoke rise from a freshly-drained chalice held in one elegantly clawed hand. His long, flowing black hair billows as though caught in an ethereal gust of wind, adding to his unsettling allure.
+
+The lighting in the scene is stark and dramatic, with sharp contrasts created by the dim embers of distant fires. Moonlight filters through thick, ominous clouds casting long, sinister shadows. The overall color palette consists of dark, muted tones with highlights of blood-red and ghostly whites, enhancing the sense of decay and predation. Within the devastated landscape, a shattered cathedral looms in the distance, its stained-glass windows fragmented but still faintly hinting at their former beauty. 
+
+Every brushstroke of this oil painting emphasizes the duality of beauty and horror, civilization and ruin, life and undeath, capturing a moment of eerie stillness in a world laid to waste.
+Seed: 1213839363
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Destruction, Vampire

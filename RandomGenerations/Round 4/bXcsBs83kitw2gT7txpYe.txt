@@ -1,0 +1,10 @@
+Prompt: A masterfully crafted oil painting captures the calm before a storm. It is a dynamic seascape viewed from a rocky cliff edge. The foreground is dominated by rugged rocks, wet from crashing waves, each detail meticulously rendered in varying shades of gray and brown. The ocean stretches infinitely, its turquoise waters darkening under the encroaching storm clouds. The waves are painted with a sense of movement, their white caps frozen in time as they crest and fall. The horizon line is slightly tilted, adding to the sense of unease and impending change.
+
+Above, the sky is an artwork in itself, a swirling mix of navy blues and purples, with streaks of lighter clouds that seem to be racing across the canvas. The lighting is dramatic, with patches of sunlight breaking through the ominous clouds, casting an eerie glow on the water's surface. The interplay of light and shadow creates a sense of depth and texture, drawing the eye to different parts of the painting.
+
+In the background, a small, solitary lighthouse stands resolute on a distant cliff, its white exterior contrasting starkly with the darkening environment. Its light is not yet on, but the viewer can sense that it soon will be. Birds are depicted in mid-flight, their wings caught in various stages of movement, giving a sense of life and urgency to the scene.
+
+The painting is realistic in detail yet imbued with an almost surreal quality through its dramatic use of color and light. It's museum-worthy, a testament to both technical skill and the ability to capture a fleeting moment in nature with authenticity and profound influence.
+Seed: 1897006771
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Movement, Authenticity

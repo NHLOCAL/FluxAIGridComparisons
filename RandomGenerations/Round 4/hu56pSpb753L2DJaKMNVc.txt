@@ -1,0 +1,10 @@
+Prompt: This is an oil painting titled "The Scales of Knowledge." The scene is set in an ornate, high-ceilinged room reminiscent of the Renaissance period with wood-paneled walls adorned with intricate carvings of astrological symbols and fundamental scientific equations. At the center of the composition is a large, imposing scales of justice, perfectly balanced. On one side of the scales, there's a set of ancient scientific manuscripts, rolled and tied with red ribbons. On the other, a polished set of modern scientific instruments, including a microscope and a beaker with a bubbling liquid.
+
+The lighting is dramatic, with a single source of warm light streaming in from a tall, stained-glass window on the left, casting elongated shadows that stretch across the wooden floor. The stained-glass window features images of mythological figures like Athena, the goddess of wisdom, and Galileo, subtly blending the themes of science and justice.
+
+In the background, the far wall is lined with wooden shelves filled with old books, skulls, and preserved specimens in glass jars. A large, ornate globe on a dark mahogany stand is placed to the right, partially illuminated by the light, its surface detailed with fine lines depicting the constellations, continents, and trade winds.
+
+The painting exhibits a high level of realism with meticulous attention to detail, especially in the textures of the wood and the delicate reflections on the glass jars. The overall style has a nostalgic, classical Renaissance quality with modern scientific elements seamlessly integrated, creating a thought-provoking juxtaposition.
+Seed: 3196094089
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Science, Justice

@@ -1,0 +1,8 @@
+Prompt: A large oil painting on canvas, museum-worthy, showcasing a poignant scene inside a hospital room. The setting is a private room with soft, warm lighting streaming in from a window on the left, casting gentle shadows. The background reveals a clean, sterile environment with white walls and a few medical devices discreetly positioned, indicating a well-maintained hospital room. 
+
+In the foreground, a man in his early forties, dressed in casual clothing, sits beside a hospital bed, his posture attentive and slightly forward-leaning. His hands are gently clasping those of a person lying in the bed; only their arm is visible, pale against the crisp white sheets. The man’s expression is one of focus, with slight lines on his face suggesting time spent in worry and care. 
+
+On the bedside table, a small vase with fresh flowers adds a splash of color, along with a few personal items such as a book and a pair of glasses, hinting at the presence of regular visits. The overall style of the painting is realistic with fine details, capturing the textures of the man’s clothing, the fabric of the bed sheets, and the subtle interplay of light and shadow in the room.
+Seed: 2705543782
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Husband, Hospital

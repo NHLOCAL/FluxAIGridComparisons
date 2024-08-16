@@ -1,0 +1,10 @@
+Prompt: An oil painting capturing a meticulously detailed street scene in a historical European village. The cobblestone streets, rendered with painstaking precision, glisten slightly from a recent rain shower, reflecting the warm, golden lights emanating from wrought iron street lamps. These lamps cast both sharp and diffused shadows on the well-worn stones, highlighting their individual textures. 
+
+In the foreground, a finely dressed lady in 19th-century attire, with an intricately embroidered parasol, walks beside a shoemaker's modest workshop, its sign slightly askew. The shoemaker, donned in tattered but clean clothes, hunches over a wooden stool, delicate leather boots in hand. His shop is dimly lit from within by candlelight, adding a halo effect around his concentrated figure.
+
+The background reveals a contrast, featuring grand, stately homes with meticulously maintained facades and opulent wrought-iron gates, each intricate detail of the ironwork and the ivy that creeps up the walls depicted with high fidelity. Beyond these, a gothic church tower rises, almost scraping the twilight sky that transitions seamlessly from deep indigo near the horizon to a soft, velvety black speckled with the first stars of evening.
+
+The overall style of this painting is hyper-realistic, with a high degree of detail and fine brushstrokes that almost make the viewer feel like they are stepping into a snapshot of another era. Every element, from the texture of the cobblestones to the sheen of the lady's satin dress, is captured with unwavering accuracy, creating a striking contrast and dialogue between the richness of the upper class and the humble, hardworking craftsman. This artwork would be a centerpiece in any museum, inviting viewers to lose themselves in both its aesthetic beauty and the implicit narrative of social disparity it portrays.
+Seed: 140807668
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fidelity, Inequality

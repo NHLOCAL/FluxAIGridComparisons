@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting captures an autumn forest path drenched in the golden light of late afternoon. Tall, ancient trees with bark textured to lifelike detail stand on either side, their leaves a radiant tapestry of yellows, oranges, and reds. The light filters through the canopy, creating dappled patterns on the leaf-strewn path, guiding the viewer’s eye deeper into the scene. In the foreground, a weathered wooden signpost stands at a slight angle, its wood grain and paint chips meticulously rendered, yielding to the inevitable passing of time. The background reveals rolling hills with hints of distant mountains, wrapped in a soft, hazy glow that contrasts with the vivid clarity of the near elements. The overall composition is balanced yet dynamic, with rich layers of texture and light that render the painting museum exhibition-worthy.
+Seed: 2380047433
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Yield, Radiant

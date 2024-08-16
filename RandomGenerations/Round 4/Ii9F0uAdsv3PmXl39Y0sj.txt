@@ -1,0 +1,8 @@
+Prompt: An oil painting depicts a vast, serene desert landscape at twilight, where a solitary sandstone arch stands majestically in the foreground. The spotlight is cast on this natural monument by the last rays of the setting sun, illuminating it with a soft, golden hue and casting elongated shadows across the arid ground. The sky transitions from deep blue at the zenith to a palette of warm oranges and pinks near the horizon, where the sun dips below the distant dunes. Tiny, well-defined stars begin to pepper the upper portion of the sky.
+
+In the middle ground, a shimmering mirage creates an ethereal lake effect, subtly reflecting the shimmering twilight colors and distorting the distant sand dunes' shapes. The background showcases an expansive, undulating desert that stretches indefinitely, with the faint outlines of rocky mesas and distant mountain ranges barely visible against the haze.
+
+The painting style is hyper-realistic, capturing minute details such as the texture of the sand, the intricate patterns in the sandstone arch, and the delicate gradients in the sky. The overall composition balances the stark beauty of the desert with the mystique of the mirage, creating a timeless, almost otherworldly scene.
+Seed: 4048375421
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vision, Mirage

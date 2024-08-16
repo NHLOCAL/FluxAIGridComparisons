@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting depicts a grand, opulent ballroom from the Victorian era, dimly lit by flickering candelabras mounted on the walls. The room is bathed in a sepia-toned light, casting long dramatic shadows across the intricately patterned marble floor. The walls are adorned with rich, dark wood paneling and large, ornate mirrors reflecting the flicker of the candle flames. At the center of the scene stands a solitary, regal vampire, dressed in a deeply crimson velvet coat with gold embroidery. His pale, almost luminescent skin contrasts starkly against the darkness enveloping the room. The vampire's sharp, poised stance and piercing gaze emanate an aura of ancient wisdom and untold possibilities. In the background, the silhouettes of grand chandeliers hang like silent, ghostly sentinels, adding to the room's majestic yet eerie atmosphere.
+Seed: 821541432
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Possibility, Vampire

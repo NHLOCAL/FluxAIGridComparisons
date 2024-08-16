@@ -1,0 +1,4 @@
+Prompt: Oil painting: A weathered shipwreck lies half-submerged on a rocky, storm-battered coast. The schooner's broken masts jut out at jagged angles, ropes fraying and sails torn, evocative of a fierce struggle lost. Dark, tumultuous clouds roil overhead, pierced by sharp, sporadic flashes of lightning that illuminate the scene in stark, white brilliance. Waves crash ferociously against the rocks, spraying mist and foam high into the air, the water rendered in thick, swirling brushstrokes of deep blues and grays. The background reveals an imposing cliff face, shrouded in shadow, with sparse, wind-bent trees clinging desperately to the edges, suggesting an unforgiving environment. The scene captures the finality of nature's triumph, brought vividly to life by a masterful play of light and texture, immortalizing a moment of profound desolation and relentless power.
+Seed: 583384371
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Failure, Storm

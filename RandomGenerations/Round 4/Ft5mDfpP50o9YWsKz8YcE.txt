@@ -1,0 +1,4 @@
+Prompt: In this photorealistic oil painting, we see an ancient library bathed in the soft, golden light of an afternoon sun filtering through massive, arched windows with stained glass details. Swaths of sunlight whisper through the lingering dust motes, creating an ethereal glow. The painting focuses on two large oak tables, their surfaces polished from centuries of use, laden with a quantity of aged, leather-bound tomes and manuscripts spilling over. Shelves upon shelves of archaic books stretch to the towering ceiling, their spines worn and gilded in equal measure. In the background, a grandiose spiral staircase of wrought iron and dark wood coils purposefully upwards, leading the eye to a mezzanine brimming with more literary relics. The intricate detailing captures the subtle play of shadow and light, giving a sense of depth and timeless stillness to the scene.
+Seed: 2641824855
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quantity, Whispers

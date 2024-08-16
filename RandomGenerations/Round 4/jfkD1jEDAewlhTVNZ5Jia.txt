@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting of a bustling urban borough during early evening, capturing the minute details with exquisite precision. The scene depicts a narrow street lined with weathered brick buildings, their façades adorned with intricate ironwork balconies and faded murals. The street is alive with a throng of pedestrians, each figure meticulously detailed, from the wrinkles in their clothing to the expressions of urgency on their faces. Street vendors with colorful stalls are stationed along the sidewalk, showcasing an array of goods, their vibrant colors contrasting with the subdued tones of the surrounding buildings.
+
+A series of streetlights begin to flicker on, casting a warm, golden hue that causes elongated, soft-edged shadows to dance across the cobblestones. Light spills out from shop windows, creating small pools of illumination that highlight the textures of the pavement and the nuances of scattered litter and fallen leaves. In the background, a towering steel and glass skyscraper looms, juxtaposing the historical with the contemporary and symbolizing the constant push and pull of urban life.
+
+The painting’s composition and lighting are reminiscent of the Baroque period, with deep contrasts between light and shadow, imbuing the scene with a dramatic tension. The sky above is painted in a gradient of indigo and violet as the last remnants of daylight fade into night, while a thin veil of smog gently hovers, adding a layer of atmospheric depth.
+
+
+Seed: 3871030625
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Borough, Stress

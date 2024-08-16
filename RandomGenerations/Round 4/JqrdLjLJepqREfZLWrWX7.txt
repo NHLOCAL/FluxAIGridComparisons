@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting depicts a timeless moment in the vastness of the cosmos. In the foreground, a sleek, silver astronaut suit, illuminated by soft, ethereal light that bounces off the polished metal, seems to float against the backdrop of an expansive, star-studded universe. Each detail in the suit is meticulously painted, from the texture of the fabric to the intricate components of the helmet. The visor of the helmet reflects distant galaxies, captured in dazzling, minute detail, adding depth to the celestial scenery. 
+
+The background portrays the grandeur of space with swirling nebulas and shimmering clusters of stars, painted in rich, vibrant colors that contrast sharply with the austere silver of the astronaut. A faint, luminous glow outlines the edges of the suit, creating a halo effect that enhances the surreal quality of the scene. The light source appears to emanate from an unseen celestial body, casting a gentle, even illumination that highlights the subject without creating harsh shadows.
+
+In the mid-ground, a silver stardust cloud slowly disperses, painted with delicate, wispy strokes to give a sense of motion and fluidity. The entire scene is rendered with such precision and attention to detail that the textures and reflections resemble those of a high-resolution photograph, despite being an oil painting. The canvas captures a sense of infinite space and the wonder of exploration, engaging the viewer in the vast beauty of the universe.
+Seed: 4174728440
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Amazement, Silver

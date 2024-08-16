@@ -1,0 +1,10 @@
+Prompt: A meticulously detailed oil painting captures an intimate pub scene in a rustic, dimly-lit interior. The central focus is a group of weathered wooden tables and chairs with a patina of years of use, each table carrying modest, scattered objects like half-empty pint glasses, coasters, and the occasional stray napkin. Pendant lights with warm, almost amber lighting cast soft, inviting pools of light across the tables, contrasting with the deep shadows that gather in the corners of the room. 
+
+In the background, a large, aged oak bar runs the width of the scene, shelves filled with an assortment of glass bottles reflecting subtle gleams of light. The bartender, caught mid-pour, wears a crisp white shirt and black vest, the folds and shadows of the fabric rendered with exquisite detail. Patrons are engaged in quiet, deep conversations, their postures relaxed and their attention drawn inward, contributing to a calm, welcoming atmosphere. 
+
+The walls are adorned with vintage posters and paintings, faded with time, perhaps depicting historic scenes or notable figures, adding layers of history and culture to the setting. The floor is made of uneven stone tiles, worn smooth by countless footsteps, their cool, gray surface the perfect counterpoint to the rich, warm tones dominating the scene. 
+
+Outside the window, indicated by just a slice of moonlit street, the night is clear, with stars faintly visible in a deep navy sky, suggesting a sense of peaceful seclusion and timeless continuity. The meticulous brushwork and mastery of light and shadow make this painting a fitting centerpiece for any esteemed gallery or museum.
+Seed: 2955573386
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Enticing, Pub

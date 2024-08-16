@@ -1,0 +1,10 @@
+Prompt: This is a large-scale oil painting, capturing a striking contrast between eternity and destruction. The scene depicts an ancient, colossal tree standing resiliently in the center of a desolate landscape. The tree's gnarled branches stretch out infinitely, intertwining with the sky as if reaching for the heavens, demonstrating a sense of timeless endurance. The bark of the tree, textured with intricate details, shows the passage of centuries, with moss and lichen clinging to its surface.
+
+Surrounding the tree, the landscape tells the story of destruction. The ground is cracked and barren, covered with cinders and remnants of a once-flourishing forest now reduced to charred stumps and ash. Scattered among the ruins are decaying structures, overgrown with twisted vines, hinting at a lost civilization reclaimed by nature. The background features distant mountains, veiled in a smoky haze, suggesting recent volcanic activity that has wrought havoc on the land.
+
+The lighting is primarily natural, with a warm, golden hour glow illuminating the scene. The sun, low on the horizon, casts long shadows and highlights the textures and colors with a soft, diffused light. This golden light contrasts with the dark, ominous storm clouds gathering in the sky, symbolizing the ever-present threat of further destruction.
+
+The art style is highly realistic, with meticulous attention to detail that brings every element to life. The brushstrokes are both delicate and deliberate, enhancing the contrast between the eternal, undying tree and the surrounding decay. The use of rich, earthy tones conveys the weight of time, while occasional bursts of vivid color draw the eye to key elements, such as the green sprouts emerging from the base of the tree, hinting at the possibility of rebirth amidst ruin.
+Seed: 1080117110
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Eternity, Destruction

@@ -1,0 +1,8 @@
+Prompt: Create an oil painting capturing a splendid noon at a bustling ancient city market. The canvas should be large, allowing the viewer to be immersed in the intricate details. Utilize a vivid, natural color palette with rich earth tones and splashes of vibrant hues from various goods being sold. The market is crowded with vendors and shoppers, each dressed in historically accurate attire of flowing robes and turbans, indicating Middle Eastern influence.
+
+The sun is directly overhead, casting sharp, defined shadows on the cobblestone ground. Bright sunlight illuminates the scene, creating a shimmering effect on metal wares and brightly colored fabrics. The background features a series of tall, sand-colored buildings with intricate carvings and arches, showing signs of age and history. An ancient stone fountain stands in the center, water glistening as it catches the light, surrounded by baskets of exotic fruits, spices, and pottery.
+
+Details like the texture of rough stone walls, the fine threads of woven rugs, and the sheen on brass utensils are meticulously painted. A few trees with lush green foliage provide patches of shade, contrasting with the sunlit areas. The painting cleverly plays with light and shadow to enhance depth and realism, capturing the vibrant atmosphere and dynamic nature of a historical market at noon.
+Seed: 3788474786
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Splendid, Noon

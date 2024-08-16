@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting captures a serene moment in a rustic fishing village at dawn. The scene is set on a wooden pier that juts out into a tranquil, mist-covered lake. The lighting is soft, with early morning sunlight casting a golden hue across the water and the wooden planks of the pier, creating delicate reflections that dance on the water's surface. In the foreground, a weathered fisherman in worn overalls and a wide-brimmed hat stands at the edge of the pier, carefully mending a large fishing net. The details of his wrinkled hands and focused expression are rendered with exquisite precision, highlighting his dedication to his craft.
+
+In the background, a small cluster of rustic wooden boats gently bob in the water, their oars and fishing gear meticulously detailed. The far shore is lined with tall reeds that sway slightly in a gentle breeze, while a dense forest looms beyond, bathed in the soft, diffused glow of the rising sun. The sky above is a gradient of pastel colors, transitioning from deep purples and blues to soft pinks and oranges, indicating the beginning of a new day. A few distant birds are visible in flight, adding a sense of calm and stillness to the scene. 
+
+The overall composition balances intricate foreground details with a serene, expansive background, inviting viewers to immerse themselves in the quiet industriousness and natural beauty of the fishing village. The artist's skillful use of light and texture captures the essence of diligent work in harmony with nature, making this painting a worthy addition to any museum or gallery collection.
+Seed: 2523052906
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fish, Work

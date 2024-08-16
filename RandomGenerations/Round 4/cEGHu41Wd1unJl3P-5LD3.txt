@@ -1,0 +1,6 @@
+Prompt: A meticulously detailed oil painting captures the interior of a rustic woodworking workshop set on the edge of a vast, frozen tundra. The foreground is dominated by a sturdy, well-worn workbench covered with hand tools, wooden planks, and scattered wood shavings. To one side, there's a half-finished wooden sculpture of a caribou, its lifelike details beginning to take shape under the capable hands of an unseen artisan. Warm, golden light from an old-fashioned oil lantern and some rays of the low-hanging sun coming through a frosted window illuminates the scene, casting soft shadows that dance along the rough, but carefully crafted wood surfaces.
+
+In the background, the workshop's walls are made of dark, aged timber, adorned with various antique woodworking tools neatly hanging on hooks. The window reveals a glimpse of the harsh, snow-covered tundra outside, where an endless white expanse meets a pale, pastel-hued sky streaked with twilight colors. The painting's rich textures and nuanced brushstrokes bring out the contrasting warmth of the workshop's interior against the frigid, serene bleakness of the tundra, creating a harmonious interplay between the two worlds.
+Seed: 4020934270
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Workshop, Tundra

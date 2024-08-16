@@ -1,0 +1,12 @@
+Prompt: Title: "Whirlwind of Dissonance"
+
+A captivating mixed media piece blending photography and digital art, showcased in a renowned contemporary art museum. The focal point is a tornado made of interwoven, semi-opaque fabrics and metallic scraps, spiraling violently from the ground to the sky, symbolizing chaos. The swirling elements are meticulously detailed, with bolts, screws, and shreds of paper caught mid-air, giving a tactile sensation of disarray.
+
+The background is a stark, post-apocalyptic urban landscape, with crumbling buildings, shattered windows, and twisted metal beams reaching out like skeletal hands. The sky is ominous, a palette of dark greys and muted purples, rich with rolling storm clouds thick with rain, contoured against sporadic flashes of electric blue lightning.
+
+Lighting is harsh and dramatic, primarily emanating from the flashes of lightning, casting stark, elongated shadows that dance fleetingly across the debris-strewn ground. Additional lighting comes from sporadic, flickering street lamps that punctuate the gloom, emphasizing the chaos in their inconsistent illumination.
+
+The style of the piece is a hybrid of hyper-realistic photography and surreal digital manipulation, enabling an intricate level of detail while maintaining a dreamlike disconnect with reality.
+Seed: 3791126039
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chaos, Sensation

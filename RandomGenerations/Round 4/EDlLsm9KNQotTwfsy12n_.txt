@@ -1,0 +1,8 @@
+Prompt: Create an oil painting depicting a secluded graveyard at twilight, capturing the tension between tradition and modernity. The sky above the graveyard is a gradient of deep purples and blues, hinting at the last light of the dying day. The gravestones, weathered and ancient, are scattered unevenly across a moss-covered terrain, with vines and ivy encroaching upon their surfaces. In the midst of these graves stands a single, sleek, metallic obelisk, its surface gleaming with the reflective light of miniature LED strips embedded within. This juxtaposition of old and new is striking and serves as the focal point of the image.
+
+The obelisk casts a subtle blue-white glow that contrasts with the natural shadows of the scene. The light from the obelisk illuminates nearby gravestones, accentuating the textures and inscriptions etched into the stone. Far in the background, there is a dense forest barely visible in the dim light, shrouded in a thick fog that creeps into the graveyard, giving it an ethereal, almost otherworldly atmosphere. The lighting is low and moody, with sharp contrasts created by the interplay of natural twilight and artificial illumination. The overall palette is dominated by cool tones, with hints of green from the moss and faint warm hues from the few remaining rays of the sunset. 
+
+The painting technique is highly detailed, with meticulous attention to textures and lighting effects, blending realism with surreal elements to convey the clash between eras.
+Seed: 3738271134
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Graveyard, Innovation

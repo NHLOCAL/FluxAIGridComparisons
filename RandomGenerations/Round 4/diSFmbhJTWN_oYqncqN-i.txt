@@ -1,0 +1,6 @@
+Prompt: A meticulously detailed oil painting captures a nocturnal forest clearing bathed in the soft illumination of a crescent moon. In the foreground, a witch stands poised at the edge of a serene, mist-covered pond. She is garbed in an intricately designed robe that cascades down to her feet, the fabric shimmering with threads of silver and midnight blue, catching the faint light. Her hair, long and raven-black, flows freely, blending into the shadows around her. Her hands, adorned with silver rings, are raised as she's conjuring an ethereal spirit that materializes above the water's surface. 
+
+The spirit, translucent and wispy, takes the form of a delicate, almost porcelain figure, its edges glowing with an otherworldly luminescence. The background is a dense thicket of ancient trees, their gnarled branches intertwined, casting complex, dancing shadows across the scene. The moonlight filters through the leaves, creating a dappled pattern on the moss-covered ground. Fireflies dot the air, adding tiny points of light that complement the mystical ambiance. This artwork's style is hyper-realistic, with painstaking attention to the textures of fabric, foliage, and ethereal elements, making it a stunning centerpiece for any gallery.
+Seed: 3590915494
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Witch, Spirit

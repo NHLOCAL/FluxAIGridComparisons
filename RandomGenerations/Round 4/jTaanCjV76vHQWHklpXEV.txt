@@ -1,0 +1,8 @@
+Prompt: An oil painting depicts a timeworn writer's desk in a cozy, sunlit study. Warm, golden light filters in through a large, arched window draped with partially drawn, sheer white curtains, casting long, soft shadows across the wooden floor. The desk, made of rich mahogany, stands at the center of the room, cluttered yet organized with an old-fashioned typewriter, stacks of handwritten manuscripts, a steaming cup of tea, and a vase of fresh wildflowers.
+
+In the background, the wall is lined with tall, overloaded bookshelves that reach the ceiling, filled with worn, leather-bound volumes. The floor is covered with a plush Persian rug, its intricate patterns subtly faded by time. A large, antique globe and an assortment of brass instruments evoking exploration and knowledge are positioned beside the desk.
+
+The style of the painting is realistic, with meticulous attention to detail, especially in the textures of the wood, paper, and fabric. The study room itself is serene and intimate, suggesting a sanctuary of thought and creativity. The play of natural light with the deeply saturated colors gives the painting a timeless quality, reflecting both the solitude and the fulfillment found in intellectual pursuits.
+Seed: 220626920
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gratitude, Development

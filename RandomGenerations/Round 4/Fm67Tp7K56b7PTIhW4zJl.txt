@@ -1,0 +1,4 @@
+Prompt: A captivating oil painting entitled "Cathedral of Souls" showcases an immense Gothic cathedral, bathed in the soft golden light of an ethereal sunrise. The towering spires and intricate stained glass windows are rendered with meticulous detail, casting long shadows upon the cobblestone courtyard below. The twin flames, depicted as two ghostly, intertwined wisps, ascend gracefully towards the heavens from the cathedral's entrance, illuminating the ancient stone facade with a warm, otherworldly glow. The background reveals a lush, verdant landscape just beyond the cathedral, shrouded in early morning mist, creating a sense of timeless serenity. Each brushstroke in this masterful artwork captures the sublime interplay of light and shadow, highlighting the grandeur and spiritual depth of the scene.
+Seed: 588103449
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cathedral, Twin flame

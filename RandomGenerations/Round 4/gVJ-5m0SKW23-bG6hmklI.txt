@@ -1,0 +1,10 @@
+Prompt: A large, hyper-realistic oil painting of a serene beach scene stretched on a grand canvas. The primary focus is a golden sandy shore that extends toward a calm turquoise ocean which mirrors the impeccable blue sky. Waves gently lap against the shoreline, displaying a gradient of frothy white to glassy transparency as they roll in. The sunlight filters through scattered cotton-like clouds, casting a warm, golden light that accents the scene with a soft, inviting glow, symbolic of an eternal summer noon.
+
+In the foreground, finely detailed seashells, driftwood, and small pools left by receding waves are captured with incredible precision. The wet sand glistens under the sunlight, invoking the smell of salty, fresh ocean air intermixed with subtle hints of marine flora. Gentle wisps of sea spray add a touch of realism, as they seem to almost leap off the canvas.
+
+The background transitions seamlessly from the beach to a distant line of towering, verdant palm trees that sway slightly, suggesting a light, soothing breeze. Near the horizon, a wooden pier stretches out into the serene waters, with small boats tied to its posts, their reflections softly rippling in the gentle waves.
+
+The use of light and shadow brings depth and dimension to the scene, and the meticulous brushstrokes reveal the texture of every grain of sand, every leaf, and every ripple on the water. The overall effect is a vivid, lifelike capture of a tranquil beach paradise, inviting viewers to almost hear the whispering waves and feel the warm sand underfoot.
+Seed: 453500531
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Smell, Beach

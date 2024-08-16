@@ -1,0 +1,8 @@
+Prompt: A grand oil painting captures the heart of a thriving ancient city, reminiscent of a capital in its prime. It is nearing dusk, and the sky is an intricate symphony of fiery oranges, deep purples, and the last flickers of twilight mingling with the early glow of starlight. Dominating the foreground, a majestic bonfire roars, its flames dancing and casting a warm, flickering light that illuminates the faces of the gathered citizens. The firelight creates dramatic shadows on the cobblestones, generating a palpable sense of depth and texture within the image. 
+
+Surrounding the bonfire, figures in richly detailed classical attire, togas, and tunics engage in a mix of lively conversation and reflective stillness, their forms meticulously textured with visible brushstrokes that convey the fabric’s weight and movement. Extending into the background, grand stone buildings rise impressively, their columns and arches meticulously rendered. These structures reflect the golden hues of the fire, adding a layer of luminescence to the scene.
+
+The painting includes subtle details indicating that this is a significant event, perhaps a festival or a communal gathering. Market stalls laden with goods are positioned strategically along the edges of the city square, and the hint of musicians playing by the light of smaller fires brings dynamism and a sense of scale to the piece. In the far distance, the city walls are barely visible, suggesting the vastness of this ancient capital. The composition, rich in color and detail, uses chiaroscuro techniques to emphasize contrast and depth, creating a timeless depiction of community and grandeur.
+Seed: 1368788744
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fire, Capital

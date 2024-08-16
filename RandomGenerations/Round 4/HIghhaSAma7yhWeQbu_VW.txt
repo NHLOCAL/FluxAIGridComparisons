@@ -1,0 +1,12 @@
+Prompt: A large oil painting depicts a striking valley bathed in the ethereal golden light of a setting sun, casting long shadows across the undulating landscape. The valley is enclosed by jagged, imposing mountains that loom on either side, their peaks dusted with a faint hint of snow that glistens in the waning daylight. In the foreground, the intricate detail captures wildflowers and tall grasses that sway gently in a nonexistent breeze.
+
+A narrow, winding river cuts through the valley floor, its surface reflecting the hues of the sky above—a captivating blend of pinks, oranges, and purples. Along the riverbank, a collection of ancient, gnarled trees stand, their twisted branches clawing at the sky, adding an element of age-old mystique to the scene.
+
+Near the center of the painting, partially hidden by the flora, stands a solitary figure. The figure is a mutant, meticulously rendered with exaggerated, alien features that blend seamlessly into the natural elements around them—their skin has the rough texture of tree bark, and their elongated limbs evoke the wavy lines of the wild grasses. Despite their unnatural appearance, they seem a natural part of the landscape, almost as if they have grown from the earth itself.
+
+The background showcases the lowering skyline with a rich palette of deep blues and purples, signaling the approach of night. Wisps of cloud, thin and almost translucent, stretch across the heavens, catching the last rays of sunlight.
+
+The overall style of the painting is hyper-realistic yet tinged with surreal elements, creating a tension between the real and the otherworldly. The lighting is soft and diffused, emanating a serene glow that enhances the intricate details and textures throughout the composition. This oil painting commands attention with its blend of natural beauty and fantastical imagination, making it a worthy centerpiece in any prestigious gallery or museum.
+Seed: 428391836
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Valley, Mutant

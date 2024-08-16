@@ -1,0 +1,8 @@
+Prompt: A large, meticulously detailed oil painting showcases a post-apocalyptic urban landscape. The scene is dominated by the skeletal remains of high-rise buildings, their steel frameworks twisted and torn, as if locked in eternal rage. The sky overhead is an angry, molten red, streaked with dark clouds that seem to boil and churn, lit from underneath by ominous, intermittent flashes of lightning. The foreground is scattered with the debris of a once-thriving city; twisted metal, shattered glass, and remnants of everyday life now warped and discarded. 
+
+At the center of the painting stands a lone, defiant figure dressed in tattered clothes, arms spread wide as if to challenge the harsh world or surrender to it, silhouetted against the burning horizon. The figure's shadow stretches long and dark across the cracked, desolate street beneath. A faded, battered flag flutters from a crumbling building in the background, its colors and symbols barely discernible, symbolizing the end, the omega of a civilization.
+
+The light in this piece is primarily from the turbulent sky, casting the entire scene in a harsh, surreal glow that accentuates the destruction, highlighting the deep shadows and stark contrasts. The painting style is hyper-realistic with a level of detail that captures every shattered object and every wisp of dust suspended in the toxic air, making the viewer feel as though they could step into this nightmarish world. The overall composition draws the eye naturally across the scene, culminating at the central figure, whose presence anchors the tableau of desolation and chaotic beauty.
+Seed: 3936720880
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Anger, Omega

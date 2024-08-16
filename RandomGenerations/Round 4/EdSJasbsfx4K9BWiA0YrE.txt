@@ -1,0 +1,4 @@
+Prompt: A high-contrast, black and white photograph captures the night-time scene of an old, cobblestone street in a historic European city. The wet ground reflects the dim light from wrought-iron street lamps, casting long, eerie shadows that stretch across the frame. Buildings with intricate Gothic architecture line both sides of the narrow alley, their tall, narrow windows partially obscured by the fog rolling in from the background. In the foreground, an open iron gate with ornate detailing stands ajar, leading into a shadowy garden. In the distance, the silhouette of a lone figure wearing a long coat and hat is barely visible, standing beneath a lamppost. The photograph uses dramatic lighting and deep contrast to create a sense of depth and intrigue, capturing the viewer's attention with its blend of historical richness and enigmatic allure.
+Seed: 2181055700
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Excitement, Mystery

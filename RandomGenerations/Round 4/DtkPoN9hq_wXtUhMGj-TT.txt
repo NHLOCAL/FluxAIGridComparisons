@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting capturing a serene twilight beach scene. At the center of the canvas, two individuals, a woman and a man, stand closely together on the wet sand, just where the gentle waves kiss the shore. They face each other, their eyes locked in a powerful, unspoken conversation, and their hands softly touching, capturing the sheer magnetism of their connection. 
+
+The lighting is delicate yet vivid, with the setting sun casting a golden-pink hue across the sky and reflecting off the ocean, lending a subtle shimmer to the water's surface. The distant horizon melds into an array of soft oranges, pinks, and purples, creating an ethereal backdrop that highlights the couple's silhouette. The woman’s flowing dress is slightly lifted by a gentle breeze, adding motion to the scene, while the man's casual attire hints at spontaneity and comfort.
+
+The sandy beach is depicted in intricate detail, with small shells and pebbles dotting the area around the couple's bare feet. In the background, a few seagulls soar high above the water, their wings catching the last light of the day. The painting uses a soft-focus technique for the background elements, ensuring the viewer's attention stays on the intricate, life-like portrayal of the couple. Every detail, from the delicate lace of the woman’s dress to the texture of the man’s short-cropped hair, is rendered with precision, making this piece a stunning synthesis of photorealism and emotive artistry.
+Seed: 803828275
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Amour, Chemistry

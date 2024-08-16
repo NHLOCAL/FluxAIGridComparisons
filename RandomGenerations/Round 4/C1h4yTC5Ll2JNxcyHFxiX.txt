@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting capturing the moment of a seasoned astronaut's return to Earth. The scene depicts the astronaut, still in their stark white EVA suit, standing on the deck of a massive spaceship, gazing through a large, transparent observation dome that reveals a sprawling, detailed view of the Earth below. 
+
+The background showcases the curvature of the Earth with rich, varied blues of the ocean interspersed with the deep greens and browns of the continents, all framed by the velvety blackness of space. Distant scattered stars can be faintly seen, adding depth to the background. 
+
+The lighting is a soft, celestial glow emanating from the planet and reflecting off the polished surfaces of the spaceship, creating an ethereal halo around the astronaut. This light casts subtle, elongated shadows that accentuate the intricate textures of the astronaut’s suit. The suit itself is meticulously detailed, showing signs of wear and small traces of cosmic dust, symbolizing the long journey and exploration in space.
+
+The style of the painting involves high realism with an incredible attention to detail, almost blurring the lines between photograph and oil painting. The spaceship’s interior is sleek, metallic, and modern, with subtle reflections and hints of futuristic design elements like holographic screens and control panels. The overall composition and fine detail elevate the image to a museum or gallery-worthy piece, capturing the profound contrast between human-made technology and the vast natural beauty of the Earth.
+Seed: 4242941996
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exploration, Return

@@ -1,0 +1,10 @@
+Prompt: A highly detailed oil painting shows a scene from a dense, futuristic urban landscape at twilight. The background is filled with towering skyscrapers made of glass and steel, their reflective surfaces capturing the last light of the setting sun, casting a warm, coppery hue across the surroundings. Above, the sky transitions from deep indigo to a gradient of purples and oranges, dotted with the first pinpricks of stars and a few hovercrafts flying among them.
+
+In the foreground, a small group of individuals with distinct, otherworldly features—glowing eyes, bioluminescent skin patterns, and extra limbs—stand in a bustling marketplace. They are mutants, integrated yet distinct within the human populace. They wear futuristic attire blending organic and synthetic materials, and some have technological enhancements seamlessly integrated into their bodies.
+
+The marketplace stalls are adorned with exotic goods from across the galaxy—vibrant fabrics, mysterious artifacts, and holographic displays promoting futuristic wares. The scene is lit by a combination of neon signs in a spectrum of colors, casting sharp shadows and creating a stark contrast with the warm twilight. Ambient light glows softly from street lamps and shop windows, enriching the textures of the mutants' skin and the materials of the marketplace.
+
+In the mid-ground, a massive billboard displays a digital advertisement for "Opportunities Unlimited" in bright, electrifying fonts, portraying an open star gate, symbolizing new beginnings and adventures. A diverse crowd mill about, including humans and mutants alike, their attire and actions suggesting a society rich in diversity and innovation, yet marked by the harsh realities of rapid progress.
+Seed: 3594690274
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opportunity, Mutant

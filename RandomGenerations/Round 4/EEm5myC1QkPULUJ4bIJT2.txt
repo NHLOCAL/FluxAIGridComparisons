@@ -1,0 +1,12 @@
+Prompt: Create an image of a captivating oil painting that features a divine portrait of a celestial being. This figure radiates ethereal light, with golden, flowing locks cascading down like a waterfall of pure sunlight. Their serene, almond-shaped eyes shimmer with an inner glow, hinting at ancient wisdom and grace. The being's robes are depicted in luxurious, flowing fabric that shimmers with iridescent hues of blues and purples, catching the viewer's eye with every subtle fold and crease.
+
+Surrounding the central figure, the background is a rich tapestry of deep, celestial blues and blacks, dotted with meticulously detailed stars that seem to pulsate gently, giving the illusion of a living night sky. In the peripheries, faint auroras ripple upwards, blending seamlessly with the heavens, adding to the otherworldly atmosphere.
+
+The lighting of the painting is delicate, with a supernatural radiance emanating from the figure themselves. This divine light doesn't cast shadows in the conventional sense but rather softly illuminates the immediate surroundings, creating a halo effect that highlights the intricate details of the celestial being. Illuminated strands of their hair catch the light and offer a contrast against the darker, star-studded backdrop.
+
+The style of the painting is hyper-realistic, with painstaking attention to detail in every element, from the texture of the robes to the glimmering stardust. The blending techniques used are seamless, ensuring a smooth transition between light and dark areas, enhancing the divine aura of the portrait.
+
+Positioned in an ornate, antique gold frame, this oil painting demands attention, evoking a sense of reverence and awe through its masterful depiction of celestial divinity and the infinite universe.
+Seed: 1886766396
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Divine, Portrait

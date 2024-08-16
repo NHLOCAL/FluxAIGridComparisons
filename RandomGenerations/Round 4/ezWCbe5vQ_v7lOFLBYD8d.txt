@@ -1,0 +1,8 @@
+Prompt: A meticulously crafted oil painting captures a serene moment in a lush botanical garden bathed in the soft, golden light of late afternoon. The central figures are a couple dressed in elegant, timeless attire — she in a flowing, ivory lace dress adorned with delicate floral details, and he in a classic, tailored suit with a matching ivory boutonniere. They stand under a rustic pergola entwined with blooming wisteria and climbing roses, casting dappled shadows around them.
+
+In the man's hand is a small, antique wooden box artfully carved with intricate patterns, its lid open to reveal a radiant, vintage ring, signifying a cherished promise. Their fingers gently touch over the box, capturing the tender intimacy of their connection. Behind them, a meticulously trimmed hedge lines the horizon, while the sun slowly descends, rendering a warm gradient in the sky from amber to a gentle lavender hue. In the background, a fountain of crystal-clear water trickles into a lily pond surrounded by vibrant flowerbeds bursting with peonies, tulips, and daffodils.
+
+The painting's style evokes a gentle, impressionistic feel, with soft yet precise brushstrokes that breathe life into the scene, highlighting the textures of fabric, foliage, and water. Each element, from the gentle play of light to the detailed flora, alludes to the celebration of an enduring union, making the artwork a timeless piece suitable for a revered museum or a prestigious art gallery.
+Seed: 18598300
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Anniversary, Promise

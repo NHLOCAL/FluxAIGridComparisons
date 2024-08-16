@@ -1,0 +1,10 @@
+Prompt: An oil painting depicts an intimate wedding scene set in a lush, verdant garden during the golden hour of the evening. The soft, warm light filters through the leaves of ancient oak trees, casting dappled patterns on the grass and the elegantly dressed guests. The bride stands at the center of the composition in a stunning, classic white gown with intricate lace detailing, the train cascading onto the ground. Her veil, adorned with delicate floral embroidery, catches the light, creating a subtle halo effect around her.
+
+Beside her, the groom, a heartthrob with chiseled features, stands tall and confident in a custom-tailored, deep navy suit with a crisp white shirt and an elegantly knotted tie. His eyes, filled with a soft intensity, are fixed on the bride, highlighting the depth of their connection. 
+
+Around them, the background blends seamlessly from the detailed figures of close family and friends in celebratory attire to more impressionistic renderings of the broader garden. The crowd, captured with a mix of subtle brushstrokes and fine details, shows people mid-laugh, clapping, or capturing the moment on cameras, all under the canopy of interwoven tree branches.
+
+The lighting in the painting strikes a perfect balance between the golden sunlight and the growing shadows, emphasizing the time of day and adding a sense of warmth and tranquility to the scene. The style of the painting combines realism with romanticism, employing vivid details for the central figures and a slightly softer focus for the background elements, evoking a timeless quality. The delicate interplay of light and shadow, combined with the lush garden setting and the evocative portrayal of the couple at their most candid and beautiful, makes this painting a captivating addition worthy of any esteemed gallery or museum collection.
+Seed: 2555601125
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heartthrob, Wedding

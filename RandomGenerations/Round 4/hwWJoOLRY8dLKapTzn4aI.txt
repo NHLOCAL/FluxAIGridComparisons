@@ -1,0 +1,4 @@
+Prompt: A large oil painting depicts a solitary Siberian tiger gracefully stepping through the dense Taiga forest, its vibrant fur contrasting sharply against the muted tones of the snow-laden trees. The artist employs a hyper-realistic style with meticulous brushstrokes capturing each hair and muscle. The scene is illuminated by soft, diffused sunlight filtering through the canopy, casting a delicate interplay of shadows on the forest floor. In the background, a serene river winds through the trees, its icy surface reflecting the muted blues and greens of the surrounding foliage. The composition includes laser-precise details in the tiger's piercing eyes and the texture of the bark on ancient pines, creating a palpable sense of depth and life.
+Seed: 2688351823
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Taiga, Laser

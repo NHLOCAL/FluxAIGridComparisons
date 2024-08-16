@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting captures a grand neoclassical elevator lobby in an opulent, historical building. The scene is meticulously detailed, with the elevator doors centered and slightly ajar, revealing a glimpse of the ornately decorated elevator interior lined with polished brass and rich mahogany paneling. The walls of the lobby are adorned with intricate crown moldings and classical frescoes depicting mythological scenes. 
+
+Soft, warm lighting emanates from antique crystal chandeliers suspended from a coffered ceiling, casting delicate shadows and enhancing the textures of the marble floors and decorated walls. In the background, a sweeping staircase with a wrought-iron balustrade spirals upwards, adding depth and complexity to the composition. The attention to detail captures the interplay of light on different surfaces, from the gleam of polished bronze to the subtle reflection on the marble tiles.
+
+The painting’s style is characterized by its precision and clarity, inviting viewers to immerse themselves in the luxurious and timeless atmosphere of the scene. Every element is rendered with a high degree of realism, creating a sense of being in the presence of a masterwork that celebrates classical architecture and the splendor of a bygone era.
+Seed: 784332943
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elevator, Result

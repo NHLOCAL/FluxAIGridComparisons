@@ -1,0 +1,10 @@
+Prompt: A dramatic oil painting captures a tempestuous sea under a stormy night sky, depicting a gigantic, mythical sea creature, the Leviathan, breaching the surface. The Leviathan's scales glisten with the reflections of harsh, white lightning bolts that dance across the turbulent waves. Its enormous form, half-emerged from the ocean, overpowers the scene, with muscular coils twisting and churning the dark, roiling water. 
+
+In the foreground, on a small, perilous cliff illuminated by the intermittent lightning, there stand two figures clinging to each other, their outlines softly highlighted against the menacing backdrop. They are dressed in tattered 19th-century seafaring attire, with the wind blowing their hair and clothes dramatically. A lantern, the only steady light source in the scene, emits a warm, golden glow that envelops the lovers, casting long shadows and emphasizing their closeness.
+
+The background reveals the vast expanse of the open ocean stretching into the distance, where towering waves rise and fall under the bleak, cloudy sky. On the horizon, a faint suggestion of a ship's silhouette is barely visible through the spray and mist, hinting at a vessel braving the storm.
+
+The painting’s style features meticulous brushstrokes, with an emphasis on texture and contrast. The detailed depiction of the Leviathan's scales and the churning sea contrasts with the softer, more fluid rendering of the human figures, creating a dynamic interplay between chaos and tranquility. The overall tone is dramatic and intense, with a deep, brooding color palette dominated by dark blues, blacks, and grays, punctuated by the sharp, bright whites of the lightning and the warm, intimate light of the lantern.
+Seed: 249342203
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leviathan, Love

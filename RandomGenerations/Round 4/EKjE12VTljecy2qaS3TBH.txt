@@ -1,0 +1,4 @@
+Prompt: A large oil painting depicting a medieval warrior standing stoically in a crumbling castle courtyard at dusk. The warrior, clad in worn-out but intricately detailed armor, holds an ancient sword with runes etched along its blade. He gazes into the distance, his face weathered and scarred, framed by long, unkempt hair. The courtyard is overrun with vines and moss, hinting at years of neglect and past glories. In the background, the remnants of grand archways and battlements are silhouetted against the soft, orange-pink hues of the setting sun. Beams of fading light fall across the scene, casting long, dramatic shadows that emphasize the texture of the stone and the armor. The painting style is realistic with a touch of the fantastical, capturing every detail from the fine etchings on the sword to the texture of the worn flagstones and the warrior's tattered cloak.
+Seed: 2909444462
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Saga, Relic

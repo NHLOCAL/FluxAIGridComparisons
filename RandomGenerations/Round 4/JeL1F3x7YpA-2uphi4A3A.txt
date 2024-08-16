@@ -1,0 +1,10 @@
+Prompt: A meticulously crafted oil painting capturing the serene beauty of a young woman seated by a window. The woman is placed slightly off-center, dressed in an elegant vintage dress of soft, pastel hues, with delicate lace detailing at the cuffs and neckline. Her gentle gaze is directed downward, absorbed in the pages of a book resting on her lap, her soft features illuminated by the natural light streaming through the window.
+
+The light is warm and diffused, the late afternoon sunlight casting a tender glow on her face and reflecting off her auburn hair in golden streaks. The window beside her is framed with heavy, velvety curtains in a deep emerald green, slightly parted to reveal a glimpse of a tranquil garden outside, where a stately oak tree’s branches sway gently in the breeze. 
+
+The background of the room is adorned with vintage wallpaper in a muted floral pattern, complementing the overall color palette and adding a touch of timeless elegance. On a small wooden table next to her rests a delicate porcelain teacup and an antique lamp with a softly glowing, fringed shade, further enhancing the intimate and contemplative atmosphere.
+
+The scene is painted with remarkable precision and detail, invoking a sense of stillness and quiet reflection. The brush strokes are smooth and meticulous, with a touch of Impressionism in the way the light and shadows play across the surfaces. This artwork, with its tranquil setting and exquisite attention to detail, evokes a moment captured in time, a study in the beauty of simplicity and the allure of quiet moments.
+Seed: 553506007
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sweetie, Stillness

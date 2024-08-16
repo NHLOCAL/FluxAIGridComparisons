@@ -1,0 +1,8 @@
+Prompt: Create a high-resolution photograph destined for a modern art gallery. The scene is an austere yet captivating convent courtyard framed by stone archways with intricate carvings. In the center of the courtyard, there is a large, weathered wooden table upon which lies an ancient badge made of silver and etched with ornate designs, glinting softly under natural light.
+
+The scene is lit by diffused sunlight filtering through overcast skies, casting a soft, even light without harsh shadows, enhancing the textures of the stone walls and the tabletop. The background features a serene, manicured garden with lush greenery and blooming flowers, providing a stark yet harmonious contrast to the aged stone and the bright badge. The style of the photograph is minimalist, focusing on the interplay between the antiquity of the convent and the detailed craftsmanship of the badge.
+
+The overall composition creates a sense of timelessness and quiet reverence. All elements are sharply in focus, capturing the fine details and textures, from the grain of the wood to the intricate carvings on the convent arches. The photograph evokes a sense of history and contemplation through its meticulous composition and the interplay of natural elements and human craftsmanship.
+Seed: 34724256
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Convent, Badge

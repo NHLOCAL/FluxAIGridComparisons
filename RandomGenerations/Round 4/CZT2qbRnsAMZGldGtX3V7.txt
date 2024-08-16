@@ -1,0 +1,8 @@
+Prompt: An oil painting captures a tranquil, rugged coastline at dawn. Craggy cliffs carved by years of relentless waves frame the scene, casting deep shadows that starkly contrast with the soft, pre-dawn light. The sea is rendered in delicate hues of blues and greens, with hints of white caps indicating a gentle, persistent breeze. Wisps of fog drift lazily across the water, partially obscuring a distant lighthouse that flickers faintly, a guardian of this serene seascape.
+
+The sky is a masterpiece of gradient color, transitioning from the indigo remnants of night at the top to the subtle, hopeful blush of the approaching sunrise near the horizon. Feathered clouds are sparse, allowing the gradual illumination to paint a delicate glow over the entire scene. Each rock and crevice of the cliff is meticulously detailed with layers of textured paint, suggesting years of natural weathering.
+
+In the foreground, patches of hardy coastal grasses and wildflowers cling to the rocky terrain, reflecting the intuitive resilience of nature. The artist has captured the nuances of light with exceptional skill, where the soft, ambient illumination of dawn renders the landscape in serene clarity without harsh shadows, offering an almost ethereal quality to the scene. The background features rolling, mist-covered hills that gently slope away from the shore, their muted tones ensuring they do not detract from the central focus of the rugged coast and its interplay with the dawn light.
+Seed: 1284674033
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Coast, Intuition

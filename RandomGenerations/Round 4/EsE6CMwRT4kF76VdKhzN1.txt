@@ -1,0 +1,8 @@
+Prompt: An oil painting capturing the serene atmosphere of a traditional Japanese dojo under the gentle illumination of a full moon. The dojo stands proudly with its wooden sliding doors slightly open, revealing a glimpse of the meticulous tatami mats inside. The moonlight cascades through the open dojo doors and windows, creating intricate patterns of light and shadow on the floor. 
+
+In the foreground, a cherry blossom tree in full bloom frames the scene, its delicate petals softly drifting in the night breeze. The background consists of a tranquil garden with meticulously pruned bonsai trees and a tranquil koi pond reflecting the silvery moonlight. The painter uses a rich palette of deep blues and purples for the night sky, contrasting with the warm, earthy tones of the dojo’s wooden structure.
+
+Soft, diffused light enhances the calming atmosphere, with the moon’s glow providing a natural yet ethereal lighting effect. The detailed brushstrokes capture the texture of the wood, the softness of the cherry blossom petals, and the gentle ripples in the pond. The overall composition exudes a sense of peace and timeless beauty, inviting the viewer to immerse themselves in the quiet, meditative space.
+Seed: 2199681288
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Moon, Dojo

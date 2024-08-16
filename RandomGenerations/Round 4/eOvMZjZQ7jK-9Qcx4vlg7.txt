@@ -1,0 +1,8 @@
+Prompt: An oil painting on a large canvas, museum-worthy for its exquisite detail and artistic mastery. The primary subject is a nude female figure, reclining on a luxurious chaise longue in the foreground. Her skin glows with a soft, warm light, capturing the delicate play of light and shadow across her form. The lighting suggests an interior scene lit by a dazzling, golden afternoon sun pouring in from an unseen window to the right. This sunlight highlights the contours of her body and creates a lustrous effect, almost as if her skin were glowing. Her pose is relaxed, with one arm resting above her head and the other gently draped over the side of the chaise longue, fingers grazing the floor. 
+
+The background of the scene is an opulent room with high ceilings, adorned with rich, deep-red draperies and tapestries that catch the sunlight, adding texture and depth to the space. A grand, antique chandelier hangs above, partially in shadow, adding an element of grandeur to the scene. The floor is a polished, dark wood that reflects the warm light from the window, adding to the richness of the setting. 
+
+The style of the painting is realistic with a touch of romanticism, evidenced by the meticulous attention to detail in the textures of the skin, the fabric, and the room's decor. The painting's palette is dominated by warm, earthy tones that contrast beautifully with the radiant brilliance of the sunlight, creating a harmonious balance that draws the viewer's eye to the central figure and the room's atmospheric depth.
+Seed: 660925147
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nude, Dazzling

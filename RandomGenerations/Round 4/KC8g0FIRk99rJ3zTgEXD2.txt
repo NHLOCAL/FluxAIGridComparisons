@@ -1,0 +1,8 @@
+Prompt: An oil painting capturing a high-stakes poker game in a dimly lit, opulent parlor room reminiscent of the early 20th century. The room's deep burgundy walls are adorned with gilded frames holding classical artworks. A crystal chandelier hangs low, though only a few bulbs are illuminated, casting long, heavy shadows and a focused pool of warm light on the green felt of the poker table below.
+
+At the center of the table sits a distinguished gentleman in a black tuxedo, his face partially obscured by a cloud of cigar smoke, giving an air of authority. Across from him, a young man dressed in more casual attire—rumpled shirt, sleeves rolled up—leans in, his eyes locked onto the older man's expression, every muscle tense as he contemplates his next move. In the background, amidst luxurious leather chairs and wooden bookshelves filled with expensive tomes, a silent observer stands by the window, partially hidden by the heavy velvet curtains, their profile stern and inscrutable.
+
+The painting style showcases meticulous attention to detail, particularly in the interplay of light and shadow, as well as the textures of the various materials—from the sheen on the cards and the wooden table to the softness of the velvet curtains and the crispness of the tuxedo. The overall ambiance is one of gravity and tension, heightening the dramatic interaction between chance and authority in the unfolding game.
+Seed: 3346963552
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chance, Authority

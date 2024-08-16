@@ -1,0 +1,8 @@
+Prompt: A meticulously detailed oil painting depicts a weathered cobblestone street in an old European city, illuminated by the warm, golden hues of an early evening sunset. Deep, elongated shadows stretch across the scene, cast by tall, narrow buildings that flank the street, their centuries-old stone facades mottled with the patina of age and neglect. One side of the street houses grand, opulent residences with intricate wrought iron balconies draped in lush, flowering vines, their windows reflecting the setting sun's glow.
+
+Contrasting starkly, the opposite side features dilapidated apartments, clotheslines strung haphazardly between windows with frayed, faded garments swaying slightly in a tentative breeze. In the foreground, standing on the cobblestones, is an elderly man wearing a threadbare coat, his bent frame supported by a weather-beaten cane. He gazes across the street with a mixture of yearning and resignation at a young couple, elegantly dressed, who are absorbed in conversation outside one of the grand houses.
+
+The background reveals an expanse of the street receding into an indistinct blur of more buildings, mirroring the division of wealth, as vibrant, well-kept structures give way to more rundown edifices. The painting’s soft brushstrokes capture the texture of every surface, from the rough cobblestones to the smooth, polished windows of the affluent homes. The overall color palette consists of warm earth tones with interspersed rich blues and greens, highlighting both the beauty and decay.
+Seed: 3182648605
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Attachment, Inequality

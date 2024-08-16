@@ -1,0 +1,4 @@
+Prompt: A hyperrealistic oil painting captures a massive ancient oak tree rooted majestically in the center of a vast, open field. The time is late afternoon, as evidenced by the golden rays of sunlight piercing through the dense canopy of leaves, casting long shadows across the textured, undulating terrain. Each leaf and bark crevice is meticulously detailed, creating a tangible sense of weight and age. The ground around the tree is dry and cracked, suggesting a long period of drought, amplifying the tension of the scene. Far in the background, a distant line of rolling hills blends subtly into a hazy horizon, where the sky transitions from a deep blue to softer pastel hues. The painting is displayed with museum-quality lighting, ensuring that every intricate detail and shadow is illuminated perfectly, drawing viewers into the depth and richness of the scene.
+Seed: 787030845
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pressure, Tree

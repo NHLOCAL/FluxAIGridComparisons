@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting depicts a late-19th-century clinic room during a shift change. The room is softly illuminated with warm, golden light streaming through a large, arched window, casting intricate shadows on the worn wooden floorboards. The walls are lined with period medical instruments, meticulously rendered in exquisite detail. A distinguished doctor in a white coat, slightly sweat-streaked, hands over a leather-bound notebook to a fresh-faced young nurse. She stands erect, with her crisp white uniform catching the sunlight just right to highlight its pristine condition. Background features include a wooden medicine cabinet with jars and vials labeled in elegant handwriting, and a wrought-iron bed draped with a cream-colored sheet. The painting captures the exact moment of transition, meticulously illustrating the textures of cloth, metal, and wood.
+Seed: 4126207453
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clinic, Shift

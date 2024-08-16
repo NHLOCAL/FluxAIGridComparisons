@@ -1,0 +1,10 @@
+Prompt: A meticulously detailed oil painting titled "Precision and Passion." The scene captures an exquisitely adorned ballroom of the Baroque period, with its expansively high ceilings accentuated by intricate frescoes and gilded moldings. The floor is an elaborately patterned marble, reflecting the shimmering light from grand crystal chandeliers above. 
+
+At the center stands a striking pair of dancers, caught mid-waltz, their bodies perfectly aligned and in sync, reflecting both ardor and precise measure in their graceful movement. The gentleman is attired in a sharply tailored, deep blue frock coat with gold embroidery, his posture erect and steady, evoking discipline. The lady is adorned in a flowing crimson gown, its fabric cascading like liquid fire around her, suggesting fervent intensity. Her dress sparkles subtly where the chandeliers’ light kisses the delicate beadwork.
+
+Their gazes meet, locked in silent communication, while around them, other dancers form a semi-circle, caught in varied stages of movement that show the rhythm and structure of the dance. The background is filled with ornately dressed onlookers, seated in elegantly carved wooden chairs, their faces attentive to the couple, highlighting the importance of the moment.
+
+The lighting is warm and opulent, emanating primarily from the chandeliers but complemented by diffused candlelight from polished silver sconces along the walls, casting soft shadows that enhance the depth and richness of the room. The art style is hyper-realistic, with minute attention to fabric textures, facial features, and the intricate details of the ballroom setting, making it worthy of admiration in a grand museum or gallery setting.
+Seed: 3101734585
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ardor, Measure

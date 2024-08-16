@@ -1,0 +1,4 @@
+Prompt: An oil painting titled "Ruby's Realm," showcased in a prestigious gallery. The centerpiece is a majestic ruby, intricately detailed to capture the light, laying atop a velvet cushion. The ruby sparkles, reflecting the light from a soft, unseen source, casting a delicate array of rainbow hues that gently fan out onto the dark, polished wooden pedestal it rests on. The background features a deep, textured canvas in shades of midnight blue, giving depth and contrast to the glowing gem. The painting's edges fade into darkness, seamlessly drawing viewers' attention to the radiant crystal and its prismatic display.
+Seed: 1022544469
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ruby, Rainbow

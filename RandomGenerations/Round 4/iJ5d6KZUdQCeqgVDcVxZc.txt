@@ -1,0 +1,10 @@
+Prompt: A large, intricate oil painting captures a bustling farmers' market on a sun-drenched morning. The composition is teeming with vibrant colors and lifelike details, drawing viewers into the depth of the scene. Stalls overflow with an opulent variety of fresh produce: glossy red tomatoes, deep green cucumbers, golden bell peppers, and plump, purple eggplants, their textures and colors rendered with meticulous precision. The market is alive with activity, as vendors energetically tend to their stands, showcasing their goods with proud, inviting gestures.
+
+In the foreground, a weathered wooden crate overflows with citrus fruits, each orange and lemon meticulously detailed to capture the light glistening off their bumpy skins. Beside it, a young woman in a simple, sun-worn dress examines a bunch of radishes, her fingers lightly brushing the vivid, leafy greens.
+
+The background features a cobblestone street lined with vibrant awnings and antique brick buildings, their architectural details crisp and historically accurate. The scene is partially in shadow, with light streaming through breaks in the buildings, creating a dynamic interplay of light and shadow that lends depth and realism to the painting. The sky is a rich blue, with a few wispy clouds adding a sense of movement and life.
+
+The overall style is hyperrealistic, with an extraordinary attention to detail and craftsmanship that captures the essence of the market. Lighting is natural and multi-directional, emphasizing the freshness and abundance of the produce and the lively, hardworking nature of the market scene. Every element, from the textures of the vegetables to the expressions and movements of the people, is executed with excellence, making it a piece worthy of the most prestigious gallery or museum display.
+Seed: 3198464259
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Produce, Excellence

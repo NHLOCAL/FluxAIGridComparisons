@@ -1,0 +1,8 @@
+Prompt: An exquisite oil painting captures an otherworldly desert scene where the horizon blurs into a shimmering mirage. The sand dunes, intricately defined and painted with a rich palette of golds and ochres, stretch into the distance. In the foreground, a solitary camel stands motionless, its intricate fur texture showcasing an expert hand at work. The sky, vast and endless, transitions from deep cobalt at the zenith to pale turquoise near the horizon, creating a surreal contrast with the arid land below. The sun, low in the sky, casts elongated, soft shadows that delicately trace the contours of the dunes, adding depth and dimension.
+
+The background features distant, ghostly outlines of an ancient city, hazy and almost blending into the sky, suggesting a mirage or an ethereal presence. Surrounding the camel, sparse vegetation—tiny, meticulously detailed shrubs with delicate leaves—adds more layers to the scene. The overall style is hyperrealistic with a touch of surrealism; every grain of sand, every detail is rendered with breathtaking precision.
+
+The lighting in the painting is gentle yet stark, mimicking the golden hour with warm, diffused light that enhances the textures while casting a dreamy aura over the entire scene. The combination of precise realism and fantastical elements results in a compelling fusion that is both tangible and elusive, drawing the viewer into a mesmerizing conceptual journey.
+Seed: 3629604778
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mirage, Concept

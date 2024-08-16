@@ -1,0 +1,10 @@
+Prompt: A monochrome oil painting captures an expansive, deserted beach at sunset. The artist has used a grayscale palette to create varying shades of black, white, and gray, which adds depth and contrasts to the scene. The horizon stretches across the middle third of the canvas, with gentle, rolling waves lapping at the shore. Above, the sky is segmented into a gradient array; dark, almost black clouds at the zenith gradually lighten as they approach the horizon, becoming soft shades of grey near the setting sun. The sun itself is a bright white sphere, half-submerged in the distant water, casting a long, shimmering reflection across the wet sand.
+
+In the foreground to the left, a series of weathered wooden posts, remnants of an old pier, extend diagonally into the water, each post a different height and thickness, creating an array of vertical elements that break the horizontal flow of the scene. Shadows cast by the posts stretch towards the bottom right of the canvas, their lengths varying due to the low angle of the sun, adding dynamic interest and emphasizing the loneliness and antiquity of the setting.
+
+The beach itself is textured with delicate brush strokes that reveal fine details: ripples in the sand, small tide pools, and scattered seashells. There is a single, abandoned fishing net tangled among the posts, its intricate netting captured in painstaking detail. The background consists of distant, blurred cliffs on the right edge, barely visible through the mist rising from the waves, adding depth to the scene and leading the viewer's eye into the distance.
+
+The lighting, chiefly from the low sun, casts long, dramatic shadows and imbues the painting with a sense of time standing still. The highly detailed and realistic style highlights the skill and thoughtfulness of the artist, making this piece worthy of a museum or gallery display.
+Seed: 1277342072
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Monochrome, Array

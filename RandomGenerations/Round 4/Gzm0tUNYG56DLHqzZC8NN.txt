@@ -1,0 +1,10 @@
+Prompt: In a dimly lit, ancient forest clearing under the silver light of a full moon, a monstrous werewolf is central to the scene. This artwork is a hyper-realistic oil painting. The werewolf's form is hunched, with sinewy muscles and coarse, matted fur. Its elongated snout is twisted in a grimace, revealing jagged, yellowed teeth, still stained with the remnants of its last meal, adding a layer of grotesque realism. Its clawed hands are partially buried in the soil, with dirt and blood caked under its nails. 
+
+The background is richly detailed with ancient, gnarled trees that appear almost sentient, their twisted branches weaving together like skeletal fingers in silhouette against the moonlight. Patches of moonlight pierce through the dense canopy, casting sporadic, eerie shadows that dance across the forest floor littered with fallen leaves and bones. Hidden within the foliage, hints of glowing eyes of unseen creatures can be discerned, watching the monstrous being with a mixture of fear and curiosity.
+
+The lighting is meticulously crafted, contrasting the chilling moonlight with the deep, oppressive shadows of the forest, amplifying the sense of an age-old menace lurking in the darkness. The werewolf's eyes, reflecting the moonlight, glow with an uncanny, almost supernatural intensity, making them the focal point amidst the muted, earthy tones of the forest. The night sky overhead is a tapestry of stars, adding a serene yet distant backdrop, further highlighting the stark horror of the werewolf's presence.
+
+The overall style of the painting is vivid and highly detailed, with an emphasis on capturing the raw, visceral essence of the scene. The meticulous brushwork brings out the textures of fur, flesh, and forest floor, while the atmospheric composition ensures that every element from the gory details of the werewolf to the silent, watching forest contributes to the overall narrative tension.
+Seed: 3163994007
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Werewolf, Disgust

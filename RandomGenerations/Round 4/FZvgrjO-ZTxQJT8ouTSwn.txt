@@ -1,0 +1,10 @@
+Prompt: Title: "Eternal Transformation"
+
+This image is a highly detailed surrealist oil painting. Dominating the center of the canvas is a monumental black hole, swirling with intricate spirals of deep purples, blues, and blacks. Surrounding the black hole, a myriad of transformed objects float in suspended animation—an ancient, weathered clock with shattered gears drifting away, its hands twisted into impossible shapes; fractured pieces of a grand, decaying statue, its once-majestic form now scattered and reassembling into something new.
+
+The background is a cosmic expanse, speckled with starlight and nebulas, where colors transition subtly from muted, melancholic hues to vibrant, energetic bursts as they approach closer to the black hole. Illumination arises from the stars and a soft, ethereal glow emanating from the black hole itself, casting an otherworldly light on the floating debris and the remnants of change. Shadows are sharp and contrast starkly against the illuminated elements, enhancing the surreal depth and texture.
+
+The style merges hyperrealism with abstract elements—fine, exacting details in the depiction of each fractured piece and celestial element juxtaposed with the fluid, dream-like quality of their arrangement. The painting invites viewers to perceive the beauty in decay and the perpetual cycle of transformation, capturing the mysterious and relentless force of change symbolized by the black hole.
+Seed: 1690171730
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Change, Black hole

@@ -1,0 +1,8 @@
+Prompt: A breathtaking oil painting captures a seascape at dawn. The sky is a vast expanse of deep blue, transitioning to a lighter hue as it meets the horizon. The magnitude of the ocean is depicted with remarkable depth, its powerful waves crashing against rugged cliffs on the right side of the canvas. The waves are intricately detailed, each brushstroke representing the white foam and the varying shades of blue within the water's depth. The cliffs are painted with dark, earthy tones, creating a stark contrast to the vibrant blue of the sea and sky.
+
+The lighting in the scene is dramatic, with the first light of dawn casting a soft, golden glow over the scene. This light illuminates parts of the cliff, highlighting the textures of the rock formations. The foreground shows a small portion of a sandy beach, with the tide gently reaching towards it, painted in lighter, more serene blues and tans. Far in the background, a solitary lighthouse stands on a distant cliff, its light faint but visible, adding a sense of scale to the immense natural landscape.
+
+The overall style is hyper-realistic, with meticulous attention to detail and a high level of craftsmanship that makes every element of the painting almost lifelike. The background sky transitions smoothly from dark to light blue, with a few scattered, wispy clouds reflecting the dawn's early light. This painting, with its vivid blues and intricate depiction of natural magnitude, is worthy of a prominent place in a prestigious art gallery.
+Seed: 1014854399
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Blue, Magnitude

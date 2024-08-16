@@ -1,0 +1,4 @@
+Prompt: An oil painting capturing a stormy, desolate cliffside at night, where a twisted, ancient tree stands silhouetted against a sky riven with jagged lightning. The ground is rugged and uneven, strewn with sharp rocks and scattered bones. The bark of the tree is gnarled and blackened, and its few remaining leaves rustle eerily in the wind. The cliff drops off sharply into an abyss, with waves crashing violently far below. Faint outlines of crumbling ruins can be discerned in the background, illuminated intermittently by lightning flashes. The painting uses a dark, moody color palette with sharp contrasts between deep shadows and sudden bright illuminations, evoking a sense of awe and unease. The texture is rich and detailed, bringing out the roughness of the terrain and the turbulent atmosphere.
+Seed: 883739572
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scary, Level

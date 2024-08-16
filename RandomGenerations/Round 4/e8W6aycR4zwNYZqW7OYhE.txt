@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting of an astronaut's outstretched hand reaching out to gently touch the surface of a gleaming, metallic spacecraft. The perspective is intimate, capturing the fine details of the spacesuit's fabric and the faint reflections on the spacecraft's hull. The scene is lit by a brilliant, distant sun, casting sharp, long shadows and highlighting intricate textures. In the background, the vast expanse of space provides a stark, inky black contrast, dotted with distant stars and nebulae. Crisp clarity and precise brushstrokes bring out the tension and meticulous care evident in the act of connection between the human hand and the advanced machine, evoking a sense of exploration and human ingenuity.
+Seed: 171994717
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spacecraft, Touch

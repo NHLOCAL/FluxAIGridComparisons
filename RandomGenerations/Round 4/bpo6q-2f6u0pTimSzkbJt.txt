@@ -1,0 +1,10 @@
+Prompt: A masterful oil painting showcases a meticulously maintained formal garden at the peak of late spring, bathed in the soft, golden hues of the setting sun. The scene is framed by tall, manicured hedges forming a natural border, creating a sense of privacy and seclusion. Majestic, ancient oak trees stand sentinel in the background, their limbs stretching skyward, draped in verdant foliage.
+
+In the heart of the garden lies a grand Victorian-style greenhouse with glass panels glistening in the warm light. Inside, an array of rare and exotic plants can be seen, each showing the careful attention and dedication of the gardener. Marble statues depicting classical figures line the gravel pathways, leading the viewer’s eye towards a central, ornate fountain. Water cascades gracefully from the fountain, creating a tranquil surface in the small pond below, where lilies float in serene clusters.
+
+The foreground is dominated by vibrant flowerbeds, bursting with meticulously arranged roses, tulips, and lavender, their vivid colors creating a harmonious, yet striking contrast against the deep green of the surrounding foliage. The painter’s use of nuanced brushstrokes and a rich color palette emphasizes the lushness and vitality of the garden. Soft shadows cast by the fading sunlight imbue the scene with a gentle warmth, highlighting the texture of the flowers and the delicate play of light on the intricate details of the greenhouse and statues.
+
+In the background, the sky transitions from a brilliant azure to a deep amber, signaling the approaching twilight. Fluffy clouds, tinged with hints of pink and purple, drift lazily, adding a sense of depth and scale to the composition. The overall effect is one of timeless elegance, showcasing the triumph of dedicated cultivation and the beauty of nature at its most abundant, inviting viewers to linger and appreciate the harmonious balance of human achievement and natural splendor.
+Seed: 1561170839
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Garden, Success

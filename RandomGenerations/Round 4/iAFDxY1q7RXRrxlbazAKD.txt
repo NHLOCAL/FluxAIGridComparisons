@@ -1,0 +1,10 @@
+Prompt: Create a meticulously detailed oil painting depicting a bustling 1920s speakeasy hidden within an opulent mansion. The scene is set in a grand hall adorned with rich, dark wood paneling and glistening chandeliers emitting a warm, golden light that casts intricate shadows, revealing both the opulence and secrecy. 
+
+In the foreground, a finely dressed woman in a flapper dress, embroidered with silver sequins that catch the light, leans in towards a man in a sharp tuxedo. Around them, groups of elegantly attired people engage in animated conversation, their gestures animated yet tinged with subtle anxious glances towards the doors. 
+
+Behind them, a jazz band plays energetically on a makeshift stage, the brass instruments gleaming under the ambient chandeliers. The far wall, adorned with vintage, luxurious tapestries, features a hidden doorway slightly ajar, where shadowy figures of the prohibition-era syndicate are barely visible, planning their next venture, their presence commanding both respect and caution.
+
+The painting captures the dynamic energy of the era, the disparity between the glamorous setting and the underlying tension, embodied in the careful detailing of every fabric and face, reflecting both the celebration and the covert operations central to the time.
+Seed: 2076138748
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Syndicate, Yearning

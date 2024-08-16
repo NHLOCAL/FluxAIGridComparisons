@@ -1,0 +1,8 @@
+Prompt: An oil painting depicting a mid-20th century coastal village at dawn. The scene shows an elderly fisherman and a young boy standing on a wooden pier, both gazing out at the calm sea. The fisherman, with a weathered, sun-browned face and a gray beard, wears a traditional yellow raincoat and hat, while the boy, full of vibrant energy, wears a striped shirt and blue overalls. The fisherman has his hand on the boy's shoulder, a sign of mentorship and pride. 
+
+The sky transitions from the deep purples of night to the soft pinks and oranges of dawn, casting a warm, golden light on the scene. The light catches the sparkling water and the aging, salt-weathered boats moored nearby. The village behind them is rendered in painstaking detail, with cobblestone streets and whitewashed cottages topped with terracotta roofs, some emitting gentle plumes of smoke from their chimneys.
+
+The oil painting style features rich textures and intricate details, capturing each individual brushstroke, especially noticeable in the fisherman’s raincoat and the gentle waves of the sea. The background shows an expanse of rugged cliffs with scattered patches of green, hinting at the rural and tough beauty of the land. The overall composition balances the focal point on the pier with the expansive sea and village background, embodying a sense of history, tradition, and the passing of knowledge from one generation to the next.
+Seed: 1734284665
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Chuckle, Honor

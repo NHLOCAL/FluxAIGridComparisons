@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting captures a serene coastal village at twilight. The scene is set in an idyllic enclave, with quaint stone cottages dotting the shoreline, their thatched roofs and ivy-covered walls blending seamlessly into the landscape. The soft, fading sunlight casts a warm, golden glow across the scene, highlighting the textures of the cobblestones underfoot and the gently swaying grasses in the foreground. 
+
+In the background, a calm expanse of ocean stretches towards the horizon, its surface reflecting the deep hues of the setting sun and the first twinklings of evening stars. A small, weathered fishing boat is moored at a rustic wooden dock, its details meticulously rendered to show years of faithful service—scratches, barnacles, and all. The sky is a masterpiece of gradient colors, transitioning from fiery oranges and pinks near the horizon to deep blues and purples as it ascends.
+
+The painting uses a play of light and shadow to accentuate the timeless, trustworthy nature of the village, suggesting a place where generations have lived and worked, creating a deep resonance with the viewer. Each brushstroke is precise, offering a tactile sense of the materials depicted, from the rough-hewn stones to the delicate leaves on the ivy. In the foreground, a cobblestone path invites the viewer to walk into the scene, fostering a sense of connection and continuity between the past and the present.
+Seed: 3248434857
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Resonance, Trust

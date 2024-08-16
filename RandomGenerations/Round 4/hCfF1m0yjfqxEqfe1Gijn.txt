@@ -1,0 +1,8 @@
+Prompt: A panoramic oil painting on canvas portrays a grand, old-world corporate headquarters situated in a bustling, historic city center. The headquarters building, an architectural marvel, features neoclassical design elements with grand columns, ornate carvings, and expansive windows. The sky is a golden hue, hinting at the early evening. The building’s aged stone facade is bathed in a soft, amber light from the setting sun, creating contrasting shadows that emphasize the intricate details of the architecture. 
+
+A vibrant, cobblestone street leads up to the entrance, filled with well-dressed figures walking briskly, suggesting the end of a workday. Cast-iron street lamps flicker gently, their warm light adding to the detailed texture of the evening scene. Trees lining the avenue are depicted in lush green, their leaves slightly swaying, capturing the subtle movement of a breeze.
+
+In the deep background, historic buildings and distant silhouettes of skyscrapers signify the city’s mixture of old and new. The horizon shows a subtle gradient of colors from the setting sun, transitioning from pink to deep blue as the evening approaches. The brushstrokes are deliberate and finely detailed, each element precisely crafted to suggest a scene frozen in time, brimming with activity and life.
+Seed: 2267171538
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Headquarters, Idea

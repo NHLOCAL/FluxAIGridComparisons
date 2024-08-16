@@ -1,0 +1,8 @@
+Prompt: A dimly-lit room with cracked, aged wooden floors and walls is the setting of this powerful, captivating oil painting. The scene depicts a desolate attic filled with ominous, surreal elements. At the center, an old rocking chair sits slightly tilted, casting a long, distorted shadow that stretches unnaturally across the floor. Cobwebs hang from the ceiling beams, catching the sparse light filtering through a single, small, grimy window high on the wall, creating eerie silhouettes. 
+
+In the background, an old mirror with a tarnished frame reflects a faintly visible figure, shadowy and indistinct, almost melding with the darkness. On the dusty floor lies an old, leather-bound book, its pages seemingly frozen in mid-flutter as if disturbed by an unseen presence. The overall color palette consists of deep, muted tones—dark browns, deep grays, and sickly greens—accentuated by the cold, silvery light from the window, enhancing the unsettling atmosphere.
+
+The painting style is hyper-realistic, capturing minutiae such as the texture of the cracked paint on the walls, the intricate patterns of the cobwebs, and the decaying fibers of an old rug. The meticulous use of shadows and highlights creates a sense of depth, drawing the viewer into the claustrophobic space. This artwork is a masterful blend of detail and atmosphere, holding the viewer's gaze and inviting them to uncover every haunting element.
+Seed: 4176920663
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tension, Fear

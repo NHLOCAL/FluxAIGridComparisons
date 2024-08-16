@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting depicting a deserted road stretching infinitely into the horizon under a vast, starry galaxy. The road is illuminated by a faint, otherworldly glow emanating from the celestial bodies above, casting a soft blue and violet hue upon the asphalt. The galaxy's swirls of stars, nebulae, and cosmic dust are meticulously detailed, almost pulsating with vibrant colors against the velvety blackness of space. Silhouettes of distant mountains line the horizon, their dark outlines contrasted against the luminous sky. The surrounding landscape is barren and rocky, with jagged formations faintly visible under the starlight. The perspective and depth in the painting draw viewers into the scene, making them feel as though they could step onto the road and journey into the cosmos.
+Seed: 194713171
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Road, Galaxy

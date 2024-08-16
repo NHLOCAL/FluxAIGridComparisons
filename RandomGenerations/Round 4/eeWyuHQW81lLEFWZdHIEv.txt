@@ -1,0 +1,6 @@
+Prompt: A grand theater scene rendered as an oil painting. The composition is centered on an opulent stage, framed by ornate, golden-hued arches draped in crimson velvet curtains that cascade richly to the floor. The stage is illuminated by warm, ambient lighting that casts a soft glow on the detailed set pieces, including a lavishly decorated chaise longue and an intricately designed antique floor lamp. The rear of the stage features a trompe-l'oeil backdrop painted with a scenic countryside landscape under a twilight sky, with delicate brushstrokes capturing the ethereal blend of colors.
+
+In the foreground, actors dressed in period costumes of sumptuous fabrics—silk, brocade, and lace—stand in dramatic poses, their faces and figures exquisitely detailed to capture the light and shadow. The audience, depicted as a shadowy, indistinct mass of silhouettes, looks on from plush red velvet seats, enhancing the sense of depth and immersion. The background of the painting extends to the luxuriously adorned theater interior, with grand chandeliers hanging from an intricately frescoed ceiling. The entire scene is bathed in a golden, enveloping light that highlights the rich textures and opulence of the setting, making each element vivid and lifelike.
+Seed: 2510883350
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Theater, Show

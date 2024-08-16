@@ -1,0 +1,8 @@
+Prompt: A large oil painting exhibits a grandiose scene in the style of Baroque art. The central figure, an imposing and noble conqueror clad in meticulously detailed armor, stands triumphantly on a marble platform, with a flowing crimson cape billowing behind him. His right hand grips a gleaming, elaborately decorated sword pointed skyward, catching the viewer's eye with how it reflects the ambient light. Surrounding him, fallen banners and shields from vanquished foes are strewn about, symbolizing victory and dominance.
+
+In the background, a vast, awe-inspiring Academy looms, designed with classical architecture elements such as towering columns and intricate friezes. Its entrance, a pair of grand double doors flanked by statues of revered scholars, opens to reveal a glimmer of soft, inviting light emanating from within, suggesting a place of great wisdom and learning. The sky above is dramatic, capturing the tumultuous interplay of stormy clouds parting to reveal beams of golden sunlight that spotlight the conqueror, creating a dynamic contrast of shadow and illumination.
+
+The scene is brought to life with rich, deep colors and sharp contrasts that highlight the tactile textures of metal, fabric, and stone. The meticulous brushwork lends a sense of realism to the figures and architecture, while the composition directs the viewer’s gaze from the hero’s figure to the prestigious Academy in the background, evoking a sense of monumental achievement and the eternal pursuit of knowledge.
+Seed: 3278239066
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conquest, Academy

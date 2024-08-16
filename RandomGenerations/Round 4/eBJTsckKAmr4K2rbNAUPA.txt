@@ -1,0 +1,6 @@
+Prompt: A meticulous oil painting of an ancient tree in the heart of an old forest. The tree's massive, gnarled trunk dominates the foreground, its bark rough and textured with deep, shadowed crevices. The roots sprawl outwards, gripping the forest floor like nature's own intricate lattice. Surrounding the tree, the forest floor is a tapestry of fallen leaves in varying stages of decay, mushrooms sprouting from decomposing logs, and moss climbing up smaller stones and roots. 
+
+The dense foliage overhead forms a natural canopy, allowing dappled sunlight to filter through, creating a mosaic of light and shadow that plays across the scene. Rays of sunlight pierce through gaps in the leaves, casting soft, golden light on the tree's ancient bark, accentuating its age and grandeur. In the background, shadows deepen, evoking a sense of depth and the endless stretch of the forest. Tiny details like a squirrel perched on a branch and birds taking flight add life and energy to the serene and timeless setting. This painting captures the intricate beauty and enduring spirit of nature, making it an evocative centerpiece for any museum or gallery.
+Seed: 2009601425
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Energy, Age

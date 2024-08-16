@@ -1,0 +1,4 @@
+Prompt: A high-resolution photograph, captured in black and white, depicting an elderly woman seated alone on a weathered wooden bench in an empty park. The woman is wearing a simple, dark dress and a headscarf, her hands resting on a wooden cane. The light is soft but with enough contrast to highlight the deep wrinkles and fine lines of her face, suggesting a life of hard experiences. The background features leafless trees whose barren branches form a delicate web against the overcast sky. The ground is covered in a thin layer of mist, creating a subtle haze that gently blurs the distant park paths and an old iron lamp post that stands slightly tilted. The photographic style emphasizes realism, capturing the minute details and textures with precision, making it feel as though the observer is standing just a few feet away, witnessing a quiet moment frozen in time.
+Seed: 8605796
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Witness, Photograph

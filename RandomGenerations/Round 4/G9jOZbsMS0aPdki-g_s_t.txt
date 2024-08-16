@@ -1,0 +1,10 @@
+Prompt: A large, finely detailed oil painting depicts a somber, moonlit cityscape set against a clear, star-studded night sky. The primary focus is an ethereal, almost translucent angel with outstretched wings, hovering in the center of the painting. The angel's wings are intricately detailed with delicate feathers that catch the moonlight, creating a subtle shimmer. Bathed in a soft, celestial glow, the angel's presence contrasts starkly with the city below.
+
+The cityscape is a maze of dark, narrow alleys and dilapidated buildings, painted with a mix of grays and muted tones, capturing the decay and neglect. In one of the alleys, a lone figure stands, leaning against a graffiti-covered wall. The figure is cloaked in shadows, but hints of their profile reveal a gaunt, tired face and worn-out clothing, with a bottle clutched tightly in one hand. The street is littered with debris, adding to the sense of desolation.
+
+The lighting in the scene is masterfully orchestrated; the moonlight bathes the angel in a soft, divine radiance, casting long shadows across the buildings and streets. Dim streetlights provide a weak, orange glow, struggling to puncture the darkness enveloping the city. The overall style of the painting is hyper-realistic with dramatic contrasts, giving it a hauntingly lifelike quality.
+
+In the background, distant skyscrapers loom under the night sky, their windows darkened, save for a few that flicker with faint light, suggesting life that continues despite the overwhelming bleakness. The meticulous brushwork and the contrast between the celestial being and the earthly landscape create a powerful visual narrative.
+Seed: 959588245
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Angel, Addiction

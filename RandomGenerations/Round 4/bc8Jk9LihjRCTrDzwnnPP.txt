@@ -1,0 +1,8 @@
+Prompt: A large, imposing oil painting dominates the room, its canvas stretching over six feet in height. The scene is a grand, ornate chamber with high vaulted ceilings and rich, dark wood paneling. At the center stands a regal figure clad in luxurious, flowing garments that shimmer with intricate embroidery and gold thread, suggesting authority and power. In her hand, she holds an elaborately designed scepter, symbolizing control, with a translucent glowing gem at its top, casting rays of light that refract in myriad colors around the room. 
+
+The background is detailed with intricate tapestries depicting historical battles and scenes of conquest, adding layers of history and gravitas. Flanking the central figure are two towering columns, each wrapped in ivy and depicting scenes of ancient mythologies involving giant sea creatures. On closer inspection, the shadows and textures of these columns subtly form the silhouette of the Leviathan, an almost hidden yet ever-present behemoth, symbolizing an omnipresent undercurrent of immense power.
+
+The lighting in the scene is dramatic, focusing high from a crystal chandelier that casts a warm, golden glow directly on the central figure, causing her to stand out against the darker, more muted tones of the chamber. Shadows are deep and defined, creating a striking contrast and adding to the painting's depth. The meticulous brushwork captures fine details, from the folds in the fabric to the gleam of metal and the rough textures of stone, bringing an aura of timelessness and supremacy to the composition.
+Seed: 475366968
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Control, Leviathan

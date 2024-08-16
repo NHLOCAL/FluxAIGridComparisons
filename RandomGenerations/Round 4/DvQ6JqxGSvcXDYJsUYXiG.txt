@@ -1,0 +1,8 @@
+Prompt: An oil painting on a grand canvas depicts a tranquil, countryside pharmacy set in the early 1900s. The scene captures a quaint, rustic building with weathered wooden walls and a charming, hand-painted sign reading "Apothecary & Remedies." Soft, golden sunlight filters through the tall, lush trees that frame the background, casting delicate shadows across the cobblestone path leading to the pharmacy's entrance. The lighting is warm and natural, highlighting the intricate details of the pharmacy's exterior, such as the flower boxes filled with vibrant, blooming herbs and the vintage lantern hanging by the door.
+
+In the foreground, a small wooden bench sits beside the entrance, with an old wicker basket filled with freshly picked lavender resting on it. The pharmacy's large windows reveal shelves lined with neatly arranged bottles and jars, their labels meticulously written in elegant script. A gentle breeze appears to ruffle the curtains and the delicate leaves of a nearby potted plant.
+
+The sky is a serene expanse of pastel hues, with a few fluffy clouds lazily drifting by, enhancing the sense of calm and timelessness. The painting style is realistic with a touch of impressionism, marked by soft brushstrokes and a harmonious color palette that emphasizes the peaceful ambiance of the scene. The detailed textures convey the aged yet well-maintained charm of the pharmacy, making it a captivating piece that invites viewers to step into its serene world.
+Seed: 2404759891
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Peace, Pharmacy

@@ -1,0 +1,8 @@
+Prompt: A suave oil painting captures an aristocratic gentleman in the center. The subject, dressed in an impeccably tailored black tuxedo with a crisp white shirt and a dark silk bow tie, exudes sophistication. His coiffed hair, peppered with a hint of silver, is slicked back, complementing his well-groomed beard. The background suggests opulence, featuring an elegantly decorated room with detailed paneling.
+
+A grand chandelier, sparkling with crystal prisms, subtly illuminates the room from behind and above, casting a gentle, warm glow. This lighting delicately highlights the smooth texture of the gentleman's suit and the fine lines of his face, creating soft shadows that add depth and realism to the portrait. To his left, a large, intricately designed wooden table supports an antique globe and a few leather-bound books, their spines embossed with gold.
+
+The painting style is reminiscent of classical portraiture with meticulous attention to detail. The light from the chandelier enhances the textures in the room and softly outlines the figure, striking a balance between illuminated and shadowed areas, resulting in a three-dimensional effect. The background elements, while secondary, are essential to the richness of the scene, underscoring the subject's sophisticated lifestyle and genteel nature.
+Seed: 1997051291
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Suave, Portrait

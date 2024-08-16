@@ -1,0 +1,4 @@
+Prompt: An exquisite oil painting capturing a grand hall in the heart of an opulent mansion, lit by warm, ambient lighting from an ornate crystal chandelier hanging majestically from a high, frescoed ceiling. The background features towering arches adorned with intricate gold leaf details and murals depicting mythological scenes. Elegant, polished marble floors reflect the soft glows, while lush, velvet drapes in deep burgundy frame tall, arched windows through which a hint of twilight can be seen. In the forefront, a scent of rich mahogany and antique leather emanates from an intricately carved wooden table, upon which rests a vase of freshly cut lilies and roses, exuding a subtle yet intoxicating fragrance. The hall exudes an air of history and grandeur, capturing a moment of hushed reverence and timeless beauty.
+Seed: 3966842601
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scent, Hall

@@ -1,0 +1,20 @@
+Prompt: Title: "Whispers of the Courtyard"
+
+Art Style: Realistic oil painting
+
+Scene Description: 
+A secluded Renaissance-era courtyard surrounded by high, ivy-covered stone walls that delineate the boundaries. The courtyard is illuminated by soft, late afternoon light that filters through a canopy of ancient oak and olive trees, casting intricate, dappled shadows on the cobblestone ground. A narrow, winding path leads to an ornate wrought iron gate, partly obscured by creeping vines, suggesting the entrance to a hidden sanctuary.
+
+In the foreground, a worn wooden bench sits beneath the branching shadows. On the bench, a solitary open book with yellowing pages caught in a gentle breeze is suggestive of recent occupancy. Nearby, a delicately painted porcelain teacup with a single drop of tea languidly descending its side rests on an iron table matching the bench.
+
+Background Elements:
+Lush greenery fills the courtyard – delicate ferns nestled among the stonework, and vibrant bursts of wildflowers poke through the cracks in the cobblestones, adding life to the tranquil scene. On one side of the courtyard, an intricately carved stone fountain trickles water into a mosaic-tiled basin, creating a soft, continuous sound that adds to the aura of serenity.
+
+Lighting:
+The afternoon sun, edging towards twilight, bathes the scene in warm, golden light, illuminating the leaves and making the shadows dance. The light captures the textures vividly – the roughness of the cobblestones, the smooth, polished surface of the teacup, and the glossy pages of the book, carefully opened to the center.
+
+Style:
+Realistic oil painting, where meticulous attention to detail brings out the textures of each element, enhancing the immersive experience of the scene as if the viewer could step into the courtyard and feel the breeze, hear the water, and pick up the book to uncover a story left behind.
+Seed: 3633894387
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sincerity, Secret

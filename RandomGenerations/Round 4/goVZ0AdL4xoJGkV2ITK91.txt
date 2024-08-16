@@ -1,0 +1,4 @@
+Prompt: A photograph capturing a serene encounter between a delicate sapphire blue butterfly and a blooming lavender flower in a sun-drenched meadow. The late afternoon sunlight casts a warm golden hue, creating a soft, natural glow that highlights the intricate patterns on the butterfly's wings and the fine details of the lavender petals. The background, a gentle blur of wildflowers and tall grasses, provides a vivid tapestry of colors, from deep greens to vibrant purples, enhancing the ethereal quality of the scene. The composition employs a shallow depth of field to draw focus on the butterfly and flower, while the play of light and shadow adds depth and dimension, making the image appear almost three-dimensional. This photograph is meticulously composed to evoke the delicate, transient beauty of nature, suitable for display in a fine art gallery.
+Seed: 1417156316
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Encounter, Sapphire

@@ -1,0 +1,10 @@
+Prompt: A large oil painting dominates the gallery wall, capturing the quiet essence of an early 19th-century library just after dawn. The scene is illuminated with soft, golden light streaming through tall, arched windows with intricate, wrought-iron latticework. Dust motes are visible in the morning sunbeams that create dappled patterns on the polished, dark wooden floor. 
+
+In the foreground, a heavy oak table is laden with parchment scrolls, ink bottles, and an open, leather-bound book whose pages are slightly curled at the edges, hinting at its age and frequent use. A quill rests delicately on the open book, as if just set down by an invisible hand. Ornately carved chairs, with deep green velvet cushions, are pushed slightly away from the table, suggesting recent but serene occupancy.
+
+The background reveals towering bookshelves filled with rows of ancient, leather-bound tomes, their spines adorned with faded gold lettering. A rolling ladder is fixed to the shelves, hinting at the quiet pursuit of knowledge. 
+
+The edges of the painting are softly blurred, focusing the viewer’s attention on the central tableau, enhancing its intimacy and allure. The entire oil piece carries a rich, earthy palette with deep browns, muted greens, and soft golds, evoking a timeless, peaceful atmosphere, as if the room itself is steeped in whispered stories and scholarly silence.
+Seed: 3934757199
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quiet, Story

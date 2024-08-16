@@ -1,0 +1,4 @@
+Prompt: A photograph capturing an abandoned, dilapidated Gothic cathedral at twilight. The cathedral, once grand with its towering spires and intricate stonework, is now partially overgrown with ivy and moss, its stained glass windows shattered and missing in places. The lighting is soft and diffuse, with the remnants of daylight casting long, melancholic shadows that accentuate the crumbled stone and weathered statues. A thick, misty haze envelopes the background, blurring the outlines of skeletal trees and giving an ethereal, ghostly ambiance to the scene. The ground is scattered with fallen leaves and debris, and small pools of still water reflect the fragmented sky above. This photograph captures the stillness and silence of a place lost in time, with the meticulous detail and high contrast bringing out the textures of decay that speak of years of abandonment and neglect.
+Seed: 2941361547
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hush, Decay

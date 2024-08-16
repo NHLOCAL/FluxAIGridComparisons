@@ -1,0 +1,8 @@
+Prompt: In an oil painting, an ancient relic from a lost civilization is depicted in a lush, dense jungle. The relic, a massive, weathered stone statue with intricate carvings, blends seamlessly with biomechanical elements—vines and roots intertwined with metallic structures, gears, and cables, suggesting a fusion of nature and advanced technology. The statue's eyes are illuminated by a faint, ethereal glow, hinting at a mysterious power source. 
+
+The background showcases towering trees with bioluminescent flora casting a soft, cool light, contrasting with the warm, golden rays of sunlight piercing through the canopy in irregular patterns. The scene is bathed in a mix of natural and artificial light, highlighting the contrast between the organic and the mechanical. The artist's brushwork captures the texture of the ancient stone, the smooth yet complex mechanics, and the vibrant, lush foliage. The painting's style is hyperrealistic, drawing viewers into the scene with meticulous detail and depth.
+
+In the foreground, a small stream flows gently, its clear water reflecting both the greenery and the metallic components of the relic. Small, mechanical insects can be seen moving along the statue, suggesting a life form that has adapted to this biomechanical environment. The overall composition balances the ancient and the futuristic, creating a sense of timeless wonder.
+Seed: 1627748352
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Relic, Biomechanics

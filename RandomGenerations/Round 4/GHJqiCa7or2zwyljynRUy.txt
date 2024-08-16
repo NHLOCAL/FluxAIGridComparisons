@@ -1,0 +1,12 @@
+Prompt: A large-scale oil painting fills the canvas, capturing a breathtaking coastal cliffside where land meets the vast ocean. The cliff's rugged edges are intricately detailed with layers of earthy browns, grays, and a touch of mossy green, each brushstroke meticulously defining the jagged rock formations. At the base, turbulent waves crash against the stones, their white foam showing movement that contrasts with the solidity of the earth above. 
+
+The ocean's deep, azure blue dominates the right side of the frame, with hints of green and turquoise closer to the shore, revealing the water's depth. The artist uses a palette knife to create a textured effect on the ocean surface, evoking the choppy, restless nature of the sea. 
+
+The sky above is painted in gentle pastels—soft pinks, purples, and golden hues—suggesting the calmness of dawn or the tranquility of a setting sun, with the light reflecting off the water and enhancing the overall luminosity of the scene. The lighting in the painting is surreal yet realistic, with the sunlight casting long shadows on the cliff and dappled light playing across the breaking waves, giving the scene a radiant glow.
+
+The background is an expansive sky that fades into the horizon, subtly blending colors to suggest depth and distance. Whispy, delicate clouds are painted with precision, adding to the sense of openness and infinite space. 
+
+This scene is captured with a high level of detail and technical skill, creating a breathtaking representation of the natural world. This piece commands attention in any gallery or museum setting, inviting viewers to immerse themselves in the raw beauty and relentless power of Earth and Ocean.
+Seed: 1520101570
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Earth, Ocean

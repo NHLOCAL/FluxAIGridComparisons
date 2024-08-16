@@ -1,0 +1,6 @@
+Prompt: A stunning oil painting capturing the quiet serenity of dawn on a coastal cliffside. In the foreground, a narrow path wends through rocks covered in dewy grass, leading to a small wooden pier that juts out into the ocean. On the pier sits an old wooden rowboat, gently tethered and bobbing with the currents. Extending into the middle ground, the ocean spreads out, the water painted in shades of deep blue and turquoise, reflecting the early morning sky. Gentle waves lap against the rocks at the base of the cliff, creating a rhythmic, calming pattern. 
+
+The lighting is soft and diffused, with the first rays of the sun piercing through low-hanging clouds, casting a warm golden hue across the scene. The background showcases a vast expanse of the ocean meeting the horizon, with a distant lighthouse faintly visible to the right, its light faintly emanating. The overall style combines realistic detail with an ethereal, almost dreamlike quality, achieved through delicate brushstrokes and layered textures. Clouds, mixed with the early mist, add a layer of mystique and atmosphere to the tranquil scene.
+Seed: 2577716670
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Water, Direction

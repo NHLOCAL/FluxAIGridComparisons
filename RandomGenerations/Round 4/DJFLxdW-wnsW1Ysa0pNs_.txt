@@ -1,0 +1,8 @@
+Prompt: A meticulously detailed oil painting on a grand canvas captures an intimate beachside scene at twilight. In the foreground, a wooden chaise lounge, slightly weathered by the salty breeze, is positioned diagonally, its angle inviting and suggestive of comfort. A silk, cream-colored throw drapes over one armrest, its folds capturing the last golden rays of the setting sun. Alongside the chair, a small round table holds a half-empty glass of red wine, the deep crimson of the liquid contrasting beautifully with the pale hues of the sand.
+
+The background reveals a tranquil ocean with gentle waves rolling towards the shore, their tips kissed by the fading light. The horizon is a gradient of deep purples and pinks, merging flawlessly into the soft blues of the impending night. Far in the distance, a solitary sailboat rests motionless on the calm water, its sail lowered, indicating an end to a perfect day.
+
+Ambient lighting is achieved through the glow of an antique lantern hanging on a nearby post, casting soft, warm circles of light onto the sand, creating intricate patterns of shadow. The subtle textures of the sand, the intricate details of the wood grain in the chaise lounge, and the delicate glimmer of the wine glass are all rendered with painstaking precision, epitomizing the tranquil beauty of relaxation and the inviting allure of desire.
+Seed: 2711752682
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desire, Relaxation

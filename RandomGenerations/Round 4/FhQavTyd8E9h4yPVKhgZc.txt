@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting portrays a serene domestic scene set within a tastefully decorated mid-century modern living room. The centerpiece of the painting is a woman, depicted with meticulous detail, sitting on a vintage wooden armchair upholstered in teal fabric. She wears a cream-colored knit sweater and dark blue jeans, her hair neatly pulled back into a bun. Her gaze is softly directed towards a large window that allows warm afternoon sunlight to flood the room, casting gentle shadows and illuminating her relaxed features.
+
+In her lap, she holds a small, heart-shaped locket made of gold, the intricate design of which is rendered with stunning precision. Her slightly parted lips and the delicate way she cradles the locket suggest a moment of quiet reminiscence. Beside her, a wooden side table boasts a slender vase with fresh daisies and a stack of neatly arranged books. The background is a harmonious blend of soft pastels, with the walls adorned by abstract paintings and a large, leafy houseplant that adds a touch of nature to the scene.
+
+The lighting is soft and natural, emphasizing the warmth and comfort of the setting while highlighting the fine brushstrokes that give life to the textures of fabric, wood, and metal. The artist's style pays homage to the Dutch Golden Age, where attention to light and detail brings a contemplative quality to the everyday moment captured.
+Seed: 3313044965
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wife, Heart

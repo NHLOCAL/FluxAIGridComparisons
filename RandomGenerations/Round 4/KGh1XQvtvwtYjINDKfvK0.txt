@@ -1,0 +1,8 @@
+Prompt: A large oil painting depicts an idyllic countryside scene during the golden hour just before sunset. The focal point is an old stone farmhouse with a slate roof, nestled amidst rolling green hills. The structure is sturdy with ivy climbing its ancient walls, suggesting a sense of history and resilience. Two enormous oak trees frame the farmhouse, their branches arching gracefully, creating a natural border for the scene. A dirt path, worn smooth from years of use, leads from the foreground to the house, flanked by wildflower meadows bursting with color.
+
+The lighting is soft and warm, casting long shadows and giving the entire scene a golden hue. Rays of sunlight filter through the trees, dappling the ground with spots of light. The sky is a brilliant gradient from orange to pink, with a few wispy clouds illuminated by the setting sun. In the background, a gently winding river glistens as it catches the last light of day, meandering through the landscape and disappearing into a grove of distant trees.
+
+The meticulous brushstrokes capture every detail with precision, from the texture of the stone walls to the blades of grass swaying in a gentle breeze. The painting exudes a sense of timelessness and tranquility, as if this serene moment could stretch on forever.
+Seed: 4075386926
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Structure, Idyllic

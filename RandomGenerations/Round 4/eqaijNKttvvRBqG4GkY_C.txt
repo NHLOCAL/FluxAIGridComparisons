@@ -1,0 +1,10 @@
+Prompt: A photograph captures a serene scene of an old, rustic wooden boat floating gently on a calm and glassy lake at dawn. The boat is centered in the frame, its weathered wood showing the passage of time with chipped paint and worn edges. The water reflects the soft pastel colors of the early morning sky, blending hues of light pink, lavender, and pale blue. 
+
+The background features a distant, mist-shrouded forest of towering pine trees, their dark silhouettes contrasting the gentle glow of the horizon. The trees form a natural frame, guiding the viewer's eyes towards the boat and the stillness of the water. 
+
+The lighting is soft and diffused, emanating from the rising sun just below the horizon, casting a gentle, even illumination across the scene. There are no harsh shadows, only subtle gradients of light and shade that enhance the tranquillity of the moment.
+
+This photograph is presented in a large format, its high resolution showcasing every fine detail—the textures of the boat, the ripples in the water, and the layers of the distant mist. The composition's simplicity and the stillness of the scene invite viewers to pause, observe, and appreciate the subtle beauty captured in this moment.
+Seed: 1588520964
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Issue, Simplicity

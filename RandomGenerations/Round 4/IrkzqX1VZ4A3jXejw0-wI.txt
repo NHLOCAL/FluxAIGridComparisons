@@ -1,0 +1,10 @@
+Prompt: In the scene, we see a striking oil painting that captures a moment at the end of a long journey. The main subject is a battle-worn, yet resilient dwarf standing at the precipice of a cliff overlooking a vast, ethereal landscape. His stout frame, adorned in intricately detailed armor, tells stories of numerous battles. The craftsmanship of his axe, held firmly in his hand, gleams even through the layers of crusted dirt and blood. His eyes, though tired, reflect the flicker of hope and determination.
+
+The lighting in the scene is a dramatic twilight, with the sun setting in the horizon. The sky is a breathtaking tapestry of deep purples, warm oranges, and soft pinks that gradually blend into the dark blues of the coming night. This natural lighting casts long shadows and creates a sharp contrast with the dwarf's silhouette, highlighting the textures and details of his armor and the rugged terrain.
+
+The background is a meticulously painted panoramic view of a mystical land. Towering, jagged mountains blend into valleys that are kissed by the golden hues of the setting sun. Flecks of distant, ancient ruins can be seen, hinting at the rich history and vastness of the world. The attention to detail in the scenery—the individual blades of wind-swept grass, the subtle mist rolling off the cliffs, and the faint glimmer of a distant river—adds to the grandeur and depth of the painting.
+
+This museum-worthy artwork is rendered in a hyper-realistic style, where the strokes are precise and the use of color is vibrant yet controlled. The artist’s technique captures both the majesty of the environment and the indomitable spirit of the dwarf, making the viewer feel the weight of the epic journey that has come to an end.
+Seed: 4222580909
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: End, Dwarf

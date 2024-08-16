@@ -1,0 +1,4 @@
+Prompt: A large, intricately detailed oil painting showcases an orc standing on a rocky cliff at sunrise. The orc, adorned in battle-worn armor with intricate patterns and scars, gazes solemnly into the distance. The early morning light bathes the scene in a golden hue, casting long shadows and illuminating the orc's rugged features and muscular build. The sky is a gradient of rich oranges and pinks blending into the deep blue of the receding night, and a sliver of the sun peeks over the horizon, creating a breathtaking glow. The background features a misty, ancient forest with towering, gnarled trees and faintly visible, mythical creatures lurking in the shadows. The style of the painting merges realistic anatomy with fantasy elements, detailed textures in the orc's skin, armor, and the natural landscape.
+Seed: 3842202175
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sunrise, Orc

@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting captures an opulent Victorian-era study. Rich, dark mahogany bookcases filled with leather-bound volumes line the walls, each shelf meticulously detailed. A grand, intricately carved oak desk is placed centrally, its surface cluttered with antique objects: an inkwell and quill, parchment paper mid-letter, a brass telescope, and an open pocket watch, its delicate hands frozen at a precise moment. Upon the desk, light from an ornate brass chandelier above glimmers, casting subtle, complex shadows that dance across the scene.
+
+In the background, a tall, arched window draped with heavy, burgundy velvet curtains stands ajar, allowing the soft golden light of dawn to streak through, highlighting motes of dust suspended in the air. The exterior hints at a meticulously manicured garden just beyond, with the faint, blurred suggestion of topiary and rose bushes visible through the glass. 
+
+An intricately woven Persian rug with deep reds and blues and a plush armchair upholstered in dark green velvet sit nearby, inviting viewers to imagine the intellectual pursuits that might take place here. The painting's utter precision elicits surprise and marvel at the artist's aptitude for detail, making it a fitting piece for any esteemed museum or gallery collection.
+Seed: 3894234101
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Aptitude, Surprise

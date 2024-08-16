@@ -1,0 +1,10 @@
+Prompt: An intricately detailed oil painting capturing a timeless romantic scene set against a serene lakeside at twilight. The image features a wooden rowboat gently floating on the mirror-like surface of the lake, with two figures seated inside. The woman wears a flowing, cream-colored gown with delicate lace trimmings, her hair softly cascading down her shoulders in loose curls. The man, dressed in a classic dark suit with a crisp white shirt, holds a small bouquet of freshly picked wildflowers, gently offering it to her.
+
+The lighting is natural yet ethereal, with the soft, golden glow of the setting sun casting elongated shadows and bathing everything in a warm, golden hue. The sky is a blend of purples, pinks, and deep blues, with hints of the first stars beginning to twinkle. Reflections of the sky and the boat are almost perfectly mirrored in the still water, broken only by the gentle ripples caused by the movement of the oars.
+
+In the background, the lush greenery of the forest edges the lake, with tall trees partly silhouetted against the diminishing daylight, their leaves rustling lightly in the gentle breeze. A distant, ancient stone castle perched atop a hill adds a mystical touch, its towers and battlements just visible through the haze of twilight.
+
+The painting style is reminiscent of the great Romanticism period, with rich, vibrant colors and exquisite attention to detail in both figures and nature. The atmosphere exudes a calm, picturesque tranquility, framed in a way that draws the viewer into the moment, capturing the essence of a dreamlike, intimate connection between the couple and their surroundings, a perfect vision of timeless romance and serene beauty.
+Seed: 1035651759
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vision, Sweetheart

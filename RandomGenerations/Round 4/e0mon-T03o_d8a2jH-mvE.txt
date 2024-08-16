@@ -1,0 +1,10 @@
+Prompt: A large oil painting titled "Digital Frontier" depicts a grand campaign scene set in an expansive futuristic city blending classical and modern architecture. In the foreground, a diverse group of warriors dressed in sleek, high-tech armor is strategizing around a holographic map displaying various city sectors and data points. The figures are meticulously detailed, showcasing various cultural symbols integrated with advanced technology. 
+
+In the background, towering skyscrapers with neon lights and digital billboards stretch into a twilight sky, casting elongated reflections on the polished chrome and glass surfaces below. The sky has a gradient from deep blue to soft pink, suggesting either dawn or dusk. Drones soar above, their lights creating trails that highlight the bustling activity within the city.
+
+The lighting is dramatic, with strong contrasts created by numerous light sources like holograms, neon signs, and the natural ambient light of the twilight sky. This interplay of light and shadow adds depth and intensity to the scene, emphasizing the intricate details of both the human figures and the city's architectural elements.
+
+The style of the painting is hyper-realistic with an almost cinematic quality, capturing the intricacies of human expressions, the textures of their armor, and the futuristic urban landscape with incredible precision. The overall composition is balanced yet dynamic, guiding the viewer’s eye from the determined faces of the campaigners to the panoramic view of the cityscape that stretches out behind them.
+Seed: 632848319
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Artificial intelligence, Campaign

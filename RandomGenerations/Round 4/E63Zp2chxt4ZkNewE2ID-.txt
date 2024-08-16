@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting capturing an opulent Victorian-era ballroom. The scene is set in a grand hall with intricate marble floors and towering, ornately decorated pillars. In the foreground, a lavishly dressed couple engaged in a flirtatious dance takes center stage, their luxurious garments embellished with gold threads and intricate lace. The woman’s dress cascades to the floor, its deep crimson hue highlighted by the chandelier’s soft, warm glow, casting delicate shadows that enhance the intricate patterns of her attire. 
+
+The background features towering, heavy velvet drapes in a rich, royal blue, embroidered with silver and gold designs, framing grand windows. Through these windows, a dusky twilight sky can be seen, suggesting the late hours of evening. On the walls are large, classical paintings and golden candelabras, their flickering flames adding a dynamic interplay of light and shadow across the room. 
+
+In the mid-ground, other elegantly dressed attendees engage in conversations, sipping from crystal glasses, their gestures captured in elegant poses. The entire painting is marked by meticulous attention to detail, from the reflective gleam on the polished marble floors to the delicate beadwork on the attire, creating a scene of sensual elegance and cultural opulence.
+Seed: 2466210880
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lust, Culture

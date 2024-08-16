@@ -1,0 +1,10 @@
+Prompt: A large, oil painting captures a serene lakeside view at sunset. In the foreground, an intricately detailed wooden dock extends into the lake, with calm, glass-like water that reflects the vibrant hues of the sky. The sky is a mesmerizing gradient of warm oranges, pinks, and purples, transitioning to a deep blue as dusk approaches. Fluffy clouds are scattered sparsely, adding texture to the sky without obstructing the sunset. The dock is weather-worn but sturdy, with subtle textures that suggest years of use. 
+
+Flanking the dock, tall reeds and grasses sway gently as if a light breeze is moving through them, their greens and browns rendered in fine detail. Just off the dock, a small, rowboat is tethered, its paint slightly chipped, hinting at the comfort of daily use and history. The boat bobs ever so slightly in the water, casting soft ripples that distort the glassy reflection subtly. 
+
+To the left of the dock, a softly illuminated lantern hangs from a post, casting a warm, golden glow that contrasts with the cool tones of the encroaching twilight. In the distance, rolling hills and dense forests form a natural backdrop, their silhouettes becoming deeper and more blended as they recede into the horizon. 
+
+The painting is executed in a realistic style, with meticulous attention to detail in the textures of the wood, the subtleties of the water's surface, and the gradual blending of colors in the sky. The overall lighting captures the magical hour of twilight, where natural light is dwindling but still bathes the scene in a soft, almost ethereal glow. The viewing experience is peaceful and contemplative, drawing the eye towards the distant horizon while anchoring it with the comfortable, familiar elements of the dock and boat.
+Seed: 2772084844
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: View, Comfort

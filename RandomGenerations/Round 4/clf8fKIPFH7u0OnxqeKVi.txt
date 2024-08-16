@@ -1,0 +1,10 @@
+Prompt: Create an oil painting titled "Skepticism in Orange." The scene takes place in a dimly lit, rustic study filled with old bookshelves, each shelf crammed with weathered tomes and scrolls. In the background, a tall window covered with translucent orange curtains filters in the waning light of dusk, casting a warm amber glow that contrasts with the shadows creeping into the room. 
+
+Center the composition around a solitary, wood-carved desk where an elderly man sits. He’s dressed in worn, scholarly attire—a gray waistcoat and wire-rimmed glasses perched low on his nose. His expression is engraved with lines of contemplation as he peers over the rim of his glasses at an ancient manuscript laid out before him. His eyes are narrowed in concentration, and one hand hovers above the text, fingers slightly curled as if deciding whether to turn the page or close the book.
+
+On the desk, besides the manuscript, place a brass oil lamp that flickers softly, adding more layers of orange and gold to the scene, and casting moving shadows that dance on the wooden surface. A quill, an inkpot, and scattered parchment papers add to the scholarly ambiance, inviting the viewer to ponder the deep mysteries the scene evokes. 
+
+Elevate the background by including partially visible portraits of philosophers and scientists on the walls, painted in subdued tones, their gazes seemingly fixed on the manuscript as well, subtly reminding the viewer of the weight of intellectual tradition and inquiry. The overall lighting should be chiaroscuro, emphasizing the interplay of light and shadow to create a composition that feels both intimate and profound, inviting the museum or gallery-goer to linger and look closer.
+Seed: 930907758
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Skepticism, Orange

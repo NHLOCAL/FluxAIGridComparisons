@@ -1,0 +1,14 @@
+Prompt: **A surreal oil painting titled "Dominion of the Machine Gods" depicts a grandiose scene set in a dark, post-apocalyptic cityscape draped with night-time hues.**
+
+Foreground: A towering, humanoid machine, intricately designed with biomechanical details blending seamlessly into its form, dominates the foreground. Its metallic exoskeleton is laced with pulsing tubes and gears, merging the organic with the mechanical. The 'skin' of the machine is highly reflective, showing the gleam of distant firelight and the faint shimmer of stars. It stands in a powerful, assertive pose, with its robotic ‘hand’ gripping a scepter-like artifact made of intertwined wires and circuit boards.
+
+Background: The ruins of once-great skyscrapers frame the skyline, crumbled into jagged silhouettes against a backdrop of a star-streaked night sky. The remnants of old concrete clash with the sleek, neon-lit lines of newer, biomechanical structures that have overtaken the city. Vines of circuitry grow along the ruins, emitting a faint, eerie glow that contrasts with the dark bleakness of the decay.
+
+Lighting: The primary light source is an artificial one, emanating from the biomechanical elements of both the machine and the surrounding environment. Subtle glows from the machine's multiple eyes and the circuitry vines provide a stark contrast to the natural darkness, casting long, complex shadows that emphasize the fusion of technology and nature. Occasional bursts of light from distant fires or malfunctioning electronics contribute to the chaotic ambiance.
+
+Style: The painterly style is hyper-realistic, with each metallic component and organic element rendered in minute detail. The use of chiaroscuro heightens the drama between light and shadow, giving depth to the mechanical form and the ruins it stands among. The brushwork is meticulous, capturing the coldness of metal and the raw texture of decaying concrete, blending in a way that the boundary between the synthetic and organic becomes almost indistinguishable.
+
+The overall composition and the high level of detail reflect the theme of domination through the integration of advanced technology, while the decayed background tells a story of an era overrun by its own creations.
+Seed: 1693418001
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Domination, Biomechanics

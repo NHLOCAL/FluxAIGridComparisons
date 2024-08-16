@@ -1,0 +1,6 @@
+Prompt: A breathtaking oil painting captures a mysterious atoll bathed in the soft, golden light of a setting sun. The main focus of the scene is a circular chain of low-lying islands, their lush greenery wrapping around a tranquil, azure lagoon. The water inside the atoll appears almost still, providing a mirror-like reflection of the emerald foliage and the fiery sky. Shadows from the outskirts of the islands extend purposefully towards the lagoon, hinting at the imminent approach of twilight. Each stroke of the oil paint is meticulous, detailing the textures of the palm trees’ leaves, the sandy shorelines, and the subtle ripples in the water.
+
+In the background, the sky is a symphony of colors—a gradient from deep orange near the horizon, transitioning to purples and blues as it ascends. Wispy clouds catch the last rays of daylight, painted with delicate strokes that give them an ephemeral quality. The light cascades naturally through the gaps in the foliage, creating dappled shadows that dance across the ground and water. The entire scene exudes a masterful play of light and shadow, immersing the viewer in the serene, untouched beauty of the atoll, capturing a moment just before dusk transitions into night.
+Seed: 1990662419
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shadow, Atoll

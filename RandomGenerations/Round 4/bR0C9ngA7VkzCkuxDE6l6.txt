@@ -1,0 +1,4 @@
+Prompt: An oil painting capturing the majesty of an ancient kingdom set atop a steep mountain range. The kingdom's grand stone palace stands tall with ornate spires and intricate carvings, illuminated by the soft, golden light of the setting sun which casts long shadows across the scene. Wisps of clouds float lazily around the mountain peaks below, emphasizing the kingdom's elevated position. In the foreground, a series of stone steps, worn by countless years of use, lead the viewer's eye upward towards the palace gates. The background is a vast expanse of blue sky gradually blending into an array of warm sunset hues, creating a sense of infinite space. The brushstrokes are meticulous, with a focus on fine details that bring the texture of stone and sky to life, while the play of light and shadow adds depth and realism to the towering structures and surrounding landscape.
+Seed: 3899035445
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Kingdom, Gravity

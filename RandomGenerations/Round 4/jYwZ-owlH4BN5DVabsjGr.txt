@@ -1,0 +1,4 @@
+Prompt: An oil painting depicts a serene and meticulously arranged Japanese rock garden. The garden features a central composition of raked gravel that forms concentric circles around strategically placed moss-covered stones. In the background, a meticulously pruned bonsai tree flourishes next to a simple yet elegant bamboo fence. The scene is illuminated by soft, diffused natural light, casting subtle shadows that enhance the textures of the gravel, stones, and foliage. The painting exhibits a classical Japanese art style, with precise brushstrokes and a harmonious color palette dominated by earthy tones and gentle greens. The composition exudes an aura of controlled precision and meticulous care, illustrated by the flawless arrangement of elements and the serene, undisturbed nature of the environment.
+Seed: 1967960768
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Control, Task

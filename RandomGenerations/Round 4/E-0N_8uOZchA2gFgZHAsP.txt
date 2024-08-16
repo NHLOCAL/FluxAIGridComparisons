@@ -1,0 +1,8 @@
+Prompt: An oil painting captures a serene coastal scene during the early hours of dawn. In the foreground, smooth, weathered rocks are partially submerged by gentle waves, their surfaces glistening with a light sheen. A thin, translucent mist rolls across the surface of the water, blurring the line where the sea meets the horizon. The water is painted in subtle gradients of deep blues and greens, with lighter purples and pinks where the mist sits. The sky above is a tranquil, pale lavender transitioning to soft pink as it nears the horizon, suggesting the impending rise of the sun.
+
+The painting is divided into zones of contrasting yet harmonious tones: the darker, cooler hues of the rocks and deeper waters create a sense of grounding in the lower portion, while the lighter, warmer colors of the sky and misted water draw the eye upward and towards the distance. The background features faint silhouettes of a far-off island, almost ghostly through the veil of mist, adding a sense of depth and mystery to the composition.
+
+The lighting is soft and diffused, with no harsh shadows, giving the entire scene a dreamlike quality. The reflective surfaces of the rocks and the gentle ripple patterns on the water are detailed with fine brushwork, demonstrating the artist’s meticulous technique and control over light and texture. This masterfully crafted painting captures the delicate interplay between sea, sky, and light, presenting a moment of quiet beauty that invites prolonged viewing and contemplation.
+Seed: 1734085990
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Zone, Mist

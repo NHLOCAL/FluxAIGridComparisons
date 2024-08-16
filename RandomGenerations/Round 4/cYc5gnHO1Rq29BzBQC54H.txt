@@ -1,0 +1,14 @@
+Prompt: A meticulously detailed oil painting captures a twilight scene in the heart of an ancient, sprawling forest. The style is hyperrealistic, with an ethereal touch that borders on the surreal. A primordial sense of stillness and timelessness envelops the dense woodland.
+
+In the foreground, a massive, twisted oak tree with gnarled branches spreads out like an ancient guardian, its bark etched with the lines of countless centuries. Intricate details of moss and lichen cling to its trunk, their velvety texture vividly rendered. The tree is highlighted by beams of silvery moonlight that break through the thick canopy above, illuminating the scene with a soft, otherworldly glow.
+
+Around the base of the tree, a carpet of luminescent fungi casts a subtle, bioluminescent blue light onto nearby leaves and rocks, creating a mesmerizing interplay of shadows and light. The forest floor is scattered with fallen leaves and delicate ferns, painted with such precision that each vein and frond is discernible.
+
+In the background, the dense underbrush and towering trees recede into a midnight blue haze, their silhouettes etched faintly against a backdrop of a star-studded sky. Tiny specks of starlight peek through the gaps in the foliage, adding a sense of depth and vastness to the composition.
+
+The painting's lighting is a masterful blend of natural and supernatural elements, with the cool, silvery light of the moon contrasting with the warm, internal glow of the fungi. Shadows are deep and rich, nearly swallowing the darker recesses of the forest, while highlights are so precisely placed they suggest a hidden life force within the landscape.
+
+Overall, the scene evokes a sense of wonder and discovery, as though stepping into a forgotten, enchanted realm.
+Seed: 3977593711
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awake, Fascination
