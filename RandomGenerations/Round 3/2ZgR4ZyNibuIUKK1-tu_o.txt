@@ -1,0 +1,6 @@
+Prompt: Create an oil painting that captures a fantastical future landscape centered around a majestic citadel. The scene should depict a towering citadel with intricate architectural details that combine futuristic technology with ancient elements. Surrounding the citadel, a lush landscape stretches out with abundant, exotic flora and bioluminescent plants. The sky is filled with an array of vibrant colors from a setting sun, casting a golden and purple hue across the landscape. 
+
+In the background, several smaller, advanced structures blend harmoniously with natural elements, suggesting a society that has achieved a perfect balance between nature and technology. There are a few humanoid figures dressed in futuristic attire, engaged in various activities such as tending to the gardens, conversing, or analyzing holographic information panels. The lighting is soft yet radiant, illuminating the scene with a warm, ethereal glow.
+Seed: 3216735598
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quantity, Citadel

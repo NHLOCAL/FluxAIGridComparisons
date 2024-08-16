@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk, where towering glass buildings with neon accents stretch into the sky, creating a mesmerizing skyline. In the foreground, a hidden alleyway with cobblestone streets, partially concealed by holographic advertisements. A figure cloaked in a sleek, black trench coat with a shiny, silver badge clipped to their chest, stands in the shadows, their face obscured by a wide-brimmed hat. Sparse, glowing graffiti in an unknown language decorates the alley walls. The sky is painted in deep shades of purple and red as the sun sets behind the city. The scene is rendered as a highly detailed digital painting with sharp contrasts and vibrant colors, giving it a vivid, realistic yet slightly fantastical appearance.
+Seed: 2335574430
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Badge, Secret

@@ -1,0 +1,4 @@
+Prompt: A serene sanctuary nestled in a futuristic village province, surrounded by towering bioluminescent trees casting a soft, ethereal glow over the area. The center of the scene features a circular pavilion with an intricately designed roof, made of transparent panels that allow the starlit night sky to shine through. Around the pavilion, small humanoid robots tend to lush, vertical gardens filled with vibrant, exotic plants. The ground is paved with smooth, polished stones that glisten under the soft lighting. In the background, modern yet rustic cottages with green roofs blend seamlessly into the verdant landscape. This scene is depicted as a high-resolution digital illustration with a hyper-realistic art style, capturing minute details and textures vividly.
+Seed: 3551071983
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Sanctuary, Province

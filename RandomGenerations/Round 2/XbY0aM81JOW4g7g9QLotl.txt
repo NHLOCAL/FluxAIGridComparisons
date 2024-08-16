@@ -1,0 +1,4 @@
+Prompt: A futuristic space station nestled among distant galaxies, illuminated by radiant nebulae with hues of purple, blue, and green. This detailed scene shows sleek, high-tech structures with glowing lines connecting different modules. People in advanced spacesuits walk leisurely along transparent pathways suspended in zero gravity, holding intricate trophies that glint under the starlight. There is an elaborate garden within a biodome, with exotic plants and trees, evoking an otherworldly yet harmonious atmosphere. The background features the majestic band of the Milky Way, and far-off planets with visible rings, rendered in stunning hyper-realistic detail as an oil painting. The lighting is a blend of natural cosmic light and soft, futuristic glows from the station's architecture.
+Seed: 2647861933
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Station, Trophy

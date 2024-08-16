@@ -1,0 +1,4 @@
+Prompt: "An expansive, futuristic cityscape set at twilight with towering skyscrapers dominating the skyline. The buildings are a blend of sleek, reflective surfaces and intricate, ornate designs, showcasing advanced architecture and technological prowess. Below, an elevated monorail effortlessly glides between the towering structures. In the foreground, a group of people in modern, high-tech clothing walk purposefully, their holographic devices illuminating their faces with a soft glow. The scene is depicted in the hyper-realistic style of a highly detailed digital painting. The lighting casts long shadows, accentuating the grand scale of the city, while the background reveals glimpses of lush, green parks interspersed between the futuristic buildings, hinting at a harmonious blend of nature and technology."
+Seed: 582551958
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Control, Might

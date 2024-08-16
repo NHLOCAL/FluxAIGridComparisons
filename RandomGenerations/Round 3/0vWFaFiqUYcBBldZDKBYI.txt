@@ -1,0 +1,4 @@
+Prompt: An enchanted forest at twilight, filled with towering, ancient trees with gnarled branches. The ground is covered in a carpet of moss and scattered with luminescent mushrooms casting a faint blue glow. In the background, a towering, weathered abbey, partially reclaimed by nature, stands in ruins, telling stories of a bygone era. The lighting is a soft mix of the last golden rays of the setting sun and the cool, ethereal light from an emerging crescent moon. In the foreground, a group of wise-looking, robed figures gathered around a weathered stone altar, deep in ancient rituals. The entire scene is depicted in the style of an intricate, detailed oil painting with a touch of magical realism, capturing the timeless and ethereal essence of the forest and its inhabitants.
+Seed: 1021830042
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Brown, Abbey

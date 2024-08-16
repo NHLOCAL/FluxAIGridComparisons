@@ -1,0 +1,4 @@
+Prompt: Create an imaginative oil painting set in the distant future, featuring an expansive canyon bathed in the golden hues of a setting sun. The canyon walls are majestic, carved with intricate patterns and futuristic hieroglyphics. Hovering in the sky are sleek, advanced flying vehicles with a metallic sheen, reflecting the sunlight. At the canyon's edge, a group of explorers clad in futuristic gear stand in awe, their helmets equipped with advanced visors that glint with various data displays. The lighting is warm and ethereal, casting long, dramatic shadows across the rugged terrain. In the background, a distant waterfall cascades down into a shimmering river, with lush, alien vegetation lining its banks. The overall style is a rich, textured realism with attention to detail and a surreal twist, creating a captivating aura of discovery and wonder.
+Seed: 2165875378
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Canyon, Euphoria

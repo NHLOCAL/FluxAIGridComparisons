@@ -1,0 +1,4 @@
+Prompt: A mystical forest scene set in a twilight dusk. There is an ancient stone bridge arching over a glistening, bubbling stream that cuts through the dense forest. On the bridge stands a tall warlock adorned in elaborate, tattered robes, with a gnarled staff that glows faintly at the tip. His face is partially obscured by a large hood, and long tendrils of mist wrap around his feet and trail off into the forest. Large, ancient trees with twisted branches frame the background, their leaves casting shadows that dance in the soft, glowing light of countless fireflies. The setting sun casts long shadows and paints the scene in hues of orange, purple, and gold. Painted in an oil painting style with rich textures and deep, vibrant colors.
+Seed: 2448141936
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Stream, Warlock

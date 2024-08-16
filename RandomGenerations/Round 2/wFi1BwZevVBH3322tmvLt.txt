@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at sunset, featuring towering skyscrapers with ornate designs and integrated greenery. The scene is bustling with uniquely dressed people in vibrant, elaborate clothing, reminiscent of both historical regal attire and advanced tech-wear. Hover cars and drones are seamlessly integrated into the scene, indicating a highly developed yet aesthetically appealing society. The lighting casts long shadows and a golden hue over the city, creating an enchanting glow. In the background, mountains with ancient ruins are visible through a translucent, holographic dome that protects the city. The sky is an interplay of deep purples, cerulean blues, and tinges of gold, with floating lanterns ascending. The style of the image is a highly detailed digital illustration that mimics the rich textures and depth of an oil painting.
+Seed: 1521228116
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Generation, Enchanting

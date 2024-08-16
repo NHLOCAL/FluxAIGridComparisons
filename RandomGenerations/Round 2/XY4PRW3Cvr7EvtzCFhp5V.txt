@@ -1,0 +1,4 @@
+Prompt: Create an oil painting depicting a surreal landscape set in a distant future. The scene showcases a vast, undulating terrain of bioluminescent plants in vivid purples and blues, softly glowing under a twilight sky filled with stars and nebulae. In the background, towering structures of organic, alien architecture rise seamlessly from the ground, blending nature and advanced technology. A group of human explorers dressed in sleek, futuristic suits can be seen inspecting a massive, ancient stone monolith covered in strange symbols, indicating a blend of stability and change. The lighting is ethereal, with the bioluminescent flora casting an otherworldly glow on the explorers and the ancient monolith. The painting should exhibit intricate details and a dreamlike quality, capturing the essence of a new yet familiar world that balances stability and metamorphosis.
+Seed: 2424992669
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Stability, Change

@@ -1,0 +1,4 @@
+Prompt: An ultra-modern futuristic cityscape at twilight, where the horizon glows with the soft purple and orange hues of a setting sun. In the foreground, a towering, sleek, glass elevator ascends the side of a skyscraper that glistens with integrated LED patterns. The buildings, with sharp, clean lines and innovative architectural designs, dominate the skyline. The streets below are bustling with humanoid robots and humans in advanced, stylish attire. Hovering vehicles zoom through the air, leaving trailing lights. The scene is done in a hyper-realistic digital art style, capturing every glint of the metallic surfaces and the intricacies of the city's design. The background features a vast, sprawling city with interconnected bridges and skywalks, all illuminated by a plethora of neon signs and digital advertisements.
+Seed: 1227573374
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Elevator, Power

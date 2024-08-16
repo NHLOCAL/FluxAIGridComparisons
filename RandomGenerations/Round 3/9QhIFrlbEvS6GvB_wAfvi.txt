@@ -1,0 +1,4 @@
+Prompt: A futuristic, surreal landscape at dusk where a miniature gnome village is built precariously on floating chunks of lava rock amidst a sea of molten lava. Lava streams glow with intense orange and red hues, illuminating the scene with a fiery, otherworldly light. The gnome houses are built from enchanted stones and bioluminescent mushrooms, with tiny, circular windows emitting a soft, blue glow. In the background, towering volcanoes periodically spew out lava, and the sky is a deep purple with streaks of vivid red and orange. The gnomes, dressed in intricately detailed, medieval-like attire, are seen tending to their glowing mushroom gardens and crossing narrow, vine bridges between floating lava rocks. The style is highly detailed, hyper-realistic digital art with an emphasis on vibrant colors and intricate textures.
+Seed: 1018509335
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lava, Gnome

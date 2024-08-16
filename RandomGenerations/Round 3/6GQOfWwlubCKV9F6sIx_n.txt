@@ -1,0 +1,4 @@
+Prompt: A futuristic, dystopian landscape where a small, beleaguered village with thatched roofs and cobblestone streets is under siege by towering, sleek robots. The sky above is a stormy gray, with flashes of lightning illuminating the scene in stark contrasts. The ground is wet with puddles reflecting the dim, flickering lights of the village. In the foreground, a group of villagers in tattered medieval clothing, armed with rudimentary spears and shields, are seen making a desperate last stand. The background features towering skyscrapers in ruins, with vines and vegetation reclaiming them, indicating a world that has moved far beyond its peak and is now in decline. The scene is rendered in hyper-realistic, digital art style, with meticulous attention to detail in the textures of the buildings, the wet ground, and the armor of both robots and villagers.
+Seed: 683049607
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conquest, Village

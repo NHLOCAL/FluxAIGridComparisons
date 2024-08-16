@@ -1,0 +1,4 @@
+Prompt: A highly detailed drawing of a handsome young man standing in a futuristic cityscape. The man is dressed in sleek, modern clothing with clean lines and metallic accents that reflect the ambient light. The city around him is filled with towering skyscrapers that have a blend of glass and holographic surfaces. There are flying cars zooming by in the background. The streets are bustling with people wearing advanced tech gadgets, and robotic vendors are scattered around. The scene is illuminated by the soft, neon glow of various digital advertisements and floating billboards. This drawing captures a sense of innovation and sophistication, as if offering a glimpse into a well-organized, high-tech society of the future. The style combines detailed line work with a smooth shading technique, resembling a highly polished graphic novel illustration.
+Seed: 4169303990
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Drawing, Handsome

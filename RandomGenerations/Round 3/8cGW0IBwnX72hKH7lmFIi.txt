@@ -1,0 +1,4 @@
+Prompt: "Create an imaginative image set in the future, of a surreal coastal landscape at sunrise. The scene combines elements of nature and futuristic architecture. Gleaming silver skyscrapers rise from the ocean like ancient monoliths, their surfaces covered with pulsing bioluminescent patterns. A few people, dressed in sleek, minimalist attire, stand on a floating, transparent platform that hovers above the calm sea. The sky is painted with soft gradients of violet and orange, and a pair of large, crescent moons are visible on the horizon. The lighting is ethereal and softly diffused, illuminating every detail with a divine glow. The entire scene is depicted as a highly detailed digital painting, with a focus on crisp, clean lines and subtle shadings that give it a hyper-realistic, yet otherworldly appearance."
+Seed: 1807465301
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Simplicity, Riddle

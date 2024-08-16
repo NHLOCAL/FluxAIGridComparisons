@@ -1,0 +1,4 @@
+Prompt: A bustling futuristic cityscape at twilight, where towering skyscrapers with neon-lit advertisements dominate the skyline. In the foreground, there is a sleek, high-tech pharmacy with a glass facade, where robots dispense medications to waiting customers. The scene is filled with holographic teleportation portals stationed along the streets, with people materializing and dematerializing in seamless transitions. The background reveals a blend of modern and nature, with vertical gardens on buildings and flying vehicles zipping through the sky. Soft, ambient glow from neon signs and streetlights contrasts with the natural golden-pink hues of the setting sun. The art style is hyper-realistic, combining photographic clarity with the imaginative design elements of a future world.
+Seed: 4014095951
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Teleportation, Pharmacy

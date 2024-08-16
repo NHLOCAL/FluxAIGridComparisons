@@ -1,0 +1,4 @@
+Prompt: Create an oil painting of a futuristic cityscape at dusk. The city is a sprawling metropolis with towering skyscrapers made of glass and metal, illuminated by neon lights and holographic advertisements. The streets are bustling with people in futuristic clothing, some with cybernetic enhancements, and self-driving electric vehicles that hover slightly above the ground. In the foreground, a park with bioluminescent plants and robotic caretakers offers a touch of nature amidst the urban setting. The sky has hints of purples, oranges, and blues as the sun sets, casting reflections on the buildings. The overall lighting captures the transition from day to night, with streetlights beginning to glow. The background features distant mountains that are barely visible through a slight atmospheric haze.
+Seed: 976778659
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adjustment, Development

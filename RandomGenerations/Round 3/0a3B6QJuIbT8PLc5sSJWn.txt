@@ -1,0 +1,4 @@
+Prompt: Create an oil painting scene depicting a grand, futuristic empire set in a lush, alien landscape. The foreground features adventurers in intricate armor, exploring colossal, bioluminescent flora. The adventurers carry advanced technology and weapons that hint at an ancient, powerful empire. The background showcases towering, crystalline structures that reflect a setting sun, casting a warm, golden light across the scene. There are both alien creatures and humanoids interacting within this majestic environment. The sky teems with distant stars and planets, suggesting an advanced civilization with interstellar connections. The lighting creates dramatic shadows, amplifying the grandeur of the empire and the sense of wonder in the explorers' journey.
+Seed: 2681132332
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Empire

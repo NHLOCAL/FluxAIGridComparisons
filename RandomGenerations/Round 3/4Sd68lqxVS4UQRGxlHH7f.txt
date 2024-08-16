@@ -1,0 +1,4 @@
+Prompt: A futuristic urban landscape at twilight, with sleek skyscrapers illuminated by neon lights and holographic advertisements. The scene is a bustling city square filled with people dressed in avant-garde, high-tech clothing, some interacting with touchscreen interfaces on their devices or projecting holograms into the air. In the middle of the square, there's an art installation resembling a digital tree with branches made of holographic light, where a few individuals are gathered, pointing and discussing. In the background, autonomous flying vehicles glide between buildings, leaving trails of light. The sky is a gradient of deep purple and blue, dotted with distant stars. The entire image is depicted in a hyper-realistic digital art style, with intricate details and vibrant colors that reflect the advanced, yet human-centered environment.
+Seed: 686270019
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intuition, Mall

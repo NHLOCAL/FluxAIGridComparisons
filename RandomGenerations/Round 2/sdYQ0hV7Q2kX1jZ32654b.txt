@@ -1,0 +1,4 @@
+Prompt: A stunning alien planet landscape at twilight, where three moons hang in the sky in various phases. The sky is a mix of deep purples and dark blues with shimmering stars. The foreground features colossal, bioluminescent mushrooms and plants casting a soft, otherworldly glow on the scene. A small humanoid figure in futuristic, sleek attire stands on an elevated rock, gazing at an enormous, crystalline cavern entrance nestled into a towering mountain in the background. The lighting is ethereal, with the bioluminescence providing a mysterious and inviting touch. The scene is created in the style of a hyper-realistic digital painting, with an incredible attention to detail in both the flora and geological formations.
+Seed: 1672088288
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Bewildering, Desire

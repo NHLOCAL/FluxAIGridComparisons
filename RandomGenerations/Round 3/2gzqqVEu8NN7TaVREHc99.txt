@@ -1,0 +1,4 @@
+Prompt: A futuristic, urban cityscape at dusk, with skybridges connecting towering, sleek skyscrapers made of reflective glass and steel. The ground level is bustling with people wearing advanced tech-infused outfits, some interacting with holographic displays. Neon signs and floating drones illuminate the scene with vibrant colors. In the background, you can see a sprawling digital billboard that changes with the environment. In the sky, flying cars zip by between the buildings. The artwork resembles a hyper-realistic digital painting, capturing intricate details and a dynamic sense of motion, while golden rays from the setting sun cast long shadows and add a warm glow to the scene.
+Seed: 3858109887
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Connection, Surprise

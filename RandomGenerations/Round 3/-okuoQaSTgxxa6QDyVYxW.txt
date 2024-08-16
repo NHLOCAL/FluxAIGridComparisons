@@ -1,0 +1,4 @@
+Prompt: "Create an oil painting of a futuristic mall where advanced antimatter technology is seamlessly integrated into everyday life. The mall is sprawling, with multiple levels connected by sleek, transparent elevators and moving walkways. The architecture is a combination of smooth, flowing curves and sharp, geometric angles, made from materials that shimmer and glow subtly. Various stores feature floating displays and holographic advertisements. People of diverse ages and futuristic attire casually shop and socialize, some accompanied by small, hovering robots. The lighting is bright but soft, emanating from unseen sources in the ceiling and walls, casting a warm, even glow. In the background, large, transparent windows provide a view of a cityscape filled with similarly advanced buildings and flying vehicles, under a clear, twilight sky with stars beginning to appear."
+Seed: 227494282
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mall, Antimatter

@@ -1,0 +1,4 @@
+Prompt: An eerie, fog-filled forest landscape at twilight with twisted, gnarly trees and oversized, luminescent mushrooms casting an unnatural glow. In the foreground, a hunched figure with elongated limbs and tattered clothing crouches by a grotesque, ancient altar covered in cryptic symbols, clutching a small, glowing vial. In the background, faint silhouettes of similar figures can be seen, partially obscured by the dense mist. The scene is set in a dystopian future, with decrepit remnants of advanced technology half-buried in the undergrowth. Illumination comes from the ghostly mushrooms and the dim, cold light filtering through the fog. The scene is rendered in a hyper-detailed oil painting style, capturing every unsettling shadow and sinister detail, evoking a sense of malevolent mystery and twisted obsession.
+Seed: 130139115
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creepy, Addict

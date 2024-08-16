@@ -1,0 +1,4 @@
+Prompt: Create a highly detailed oil painting depicting a futuristic cityscape at sunset. The scene is a sprawling metropolis filled with towering skyscrapers made of reflective glass and cutting-edge architecture. A massive, sleek suspension bridge, lined with glowing blue lights, connects two parts of the city over a wide, serene river. The bridge has multiple levels, with futuristic vehicles and pedestrians moving seamlessly. In the foreground, there are a few people dressed in high-tech attire, interacting with holographic devices. The background features the vibrant colors of the setting sun, casting a warm, golden light that contrasts with the cool, neon hues of the city and the bridge. The overall lighting is dynamic, with the golden light of the sunset blending harmoniously with the artificial blue lights, creating a balanced and striking visual effect.
+Seed: 2934814087
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Adjustment, Bridge

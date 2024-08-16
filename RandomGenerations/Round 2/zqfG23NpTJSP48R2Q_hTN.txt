@@ -1,0 +1,4 @@
+Prompt: A futuristic bustling city square at twilight, featuring intricate networks of floating pathways and towering skyscrapers with neon signs. People in sleek, high-tech attire move along the pathways, some riding hoverboards and others in floating pods. Soft ambient lighting from neon signs and street lamps illuminates the scene, casting vibrant reflections on glass facades. In the background, the skyline is dotted with luminescent drones and airships, moving between buildings. The entire scene is captured in a hyper-realistic digital art style, with an incredible level of detail making it look almost photographic.
+Seed: 378872963
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Route, Hall

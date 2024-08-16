@@ -1,0 +1,4 @@
+Prompt: A surreal futuristic landscape set in a sprawling neon-lit city at dusk, where towering skyscrapers with unconventional, geometric designs loom over the streets. The buildings are adorned with digital billboards displaying fluid, dynamic advertisements. In the foreground, two humanoid robots with sleek, metallic bodies are standing side by side, positioned as if they're discussing something important. One robot is pointing towards the horizon, emphasizing a sense of urgency. The sky is a gradient of deep purples and blues with scattered stars beginning to twinkle. Hovering vehicles zip through mid-air lanes. Shadows from the setting sun cast long, sharp angles on the streets below. This scene should be rendered as a high-resolution digital painting with a focus on vibrant colors and fine details, emphasizing the contrast between organic and mechanical elements.
+Seed: 2592447762
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Pressure, Partner

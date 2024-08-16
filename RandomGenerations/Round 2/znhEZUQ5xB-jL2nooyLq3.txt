@@ -1,0 +1,4 @@
+Prompt: A distant, futuristic landscape set on a black, starry night, illuminated by the soft, ethereal glow of bioluminescent plants scattered across alien terrain. Towering in the background are sleek, dark skyscrapers with shimmering, transparent facades, reflecting the starlight. The foreground features a lone figure cloaked in a high-tech, black robe, standing on the edge of a cliff, gazing towards the city with an old, metallic telescope. The scene merges the surrealism of a dream with the meticulous detail of photorealism, capturing the intricate textures of both the natural and artificial elements. The style mimics that of a hyper-detailed digital painting, emphasizing striking contrasts between the dark environment and the luminous accents.
+Seed: 4040579463
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Black, Longing

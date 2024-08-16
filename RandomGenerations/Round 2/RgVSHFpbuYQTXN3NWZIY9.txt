@@ -1,0 +1,4 @@
+Prompt: Create a hyperrealistic photograph of a futuristic floating cityscape suspended over a vast, reflective ocean that goes on infinitely. The image captures a surreal twilight sky with vibrant hues of purple, blue, and orange with the city’s buildings illuminated by neon lights. The floating structures are a blend of sleek, metallic skyscrapers with glassy surfaces reflecting the colorful sky, interconnected by transparent walkways. Hovering vehicles and drones move seamlessly between them. There are no visible people, adding to a sense of tranquility and endless possibility. The scene is lit by a soft, ambient glow coming from both the neon lights and the twilight sky, creating an ethereal atmosphere. In the distance, the ocean merges with the horizon, giving a sense of infinite expanse.
+Seed: 1306480186
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Possibility, Infinity

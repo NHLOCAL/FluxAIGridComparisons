@@ -1,0 +1,4 @@
+Prompt: A futuristic, moonlit cityscape set at midnight, featuring towering skyscrapers with glowing neon signs and flying vehicles streaming through the sky. The ground level showcases bustling streets with robotic vendors and holographic advertisements. In the background, a massive, luminescent moon casts an ethereal blue light over the scene, reflecting off the glass buildings and casting long, sharp shadows. The art style is a detailed, hyper-realistic digital painting, capturing every vivid detail and reflective surface. The overall composition emphasizes the sleek, advanced technology and the ceaseless energy of a future metropolis, bathed in the quintessential essence of midnight.
+Seed: 4070199762
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Midnight, Essence

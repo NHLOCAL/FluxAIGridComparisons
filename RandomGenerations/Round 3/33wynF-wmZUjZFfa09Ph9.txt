@@ -1,0 +1,4 @@
+Prompt: In a landscape setting, imagine a futuristic city with towering skyscrapers made of shimmering glass and metal, reaching towards a twilight sky. The horizon is filled with a mix of fading sunlight and the beginning of night, casting a warm orange and purple hue. At the forefront, a bustling elevated track floats above the ground, with sleek, high-speed trains speeding along it. The city below is densely packed with people dressed in modern, minimalistic clothing, engaged in various activities on the vibrant streets lined with neon signs and holographic billboards. In the background, there is a large park, lush and green with trees and artificial lakes, providing a stark contrast to the urban jungle. The scene is captured in a highly detailed digital illustration style, with crisp lines and vivid colors that bring out the futuristic and dynamic nature of the setting.
+Seed: 598396547
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Closeness, Track

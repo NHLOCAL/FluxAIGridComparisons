@@ -1,0 +1,4 @@
+Prompt: An oil painting depicting a futuristic, steampunk-inspired cityscape on the verge of twilight. In the foreground, a bakery constructed with dark, polished iron and brass details stands resilient. Its large, arched windows emit a warm, amber glow from the gas-lit lamps inside, contrasting against the cool, stormy hues of the sky. The background showcases towering buildings with intricate gears and pipes, partially illuminated by street lamps casting elongated shadows. People in Victorian-era attire, with mechanical enhancements, hastily move towards the bakery for refuge. In the distance, a massive, swirling tornado approaches, tearing through the metallic structures with lightning bolts highlighting its chaotic path. The overall mood is tense with an undercurrent of safety emanating from the sturdy, inviting bakery.
+Seed: 3985696323
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tornado, Bakery

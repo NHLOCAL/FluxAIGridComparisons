@@ -1,0 +1,4 @@
+Prompt: An oil painting of a post-apocalyptic cityscape at dawn. The remnants of crumbling skyscrapers rise in the background, with nature slowly reclaiming the ruins through overgrown vines and patches of vibrant green foliage. In the foreground, a diverse group of survivors wearing a mix of scavenged modern clothes and makeshift armor gather around a large, makeshift bonfire. They are depicted celebrating, with some holding hands, others clapping, and a few hoisting a salvaged flag featuring a symbol of unity. The dawn light softly illuminates their faces, casting long, dramatic shadows and adding a golden hue to the scene. The overall atmosphere combines the harsh reality of their surroundings with the warmth of human connection and shared victory.
+Seed: 3903224131
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Triumph, Company

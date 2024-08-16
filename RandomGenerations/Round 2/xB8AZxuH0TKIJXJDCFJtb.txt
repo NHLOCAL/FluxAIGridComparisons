@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk with towering skyscrapers surrounded by lush, bioluminescent flora. The scene is illuminated by a blend of neon lights from the buildings and a faint, glowing horizon. The style is a hyper-realistic digital painting. In the foreground, a group of diverse people in modern, yet slightly unconventional attire are engaged in what appears to be a technological ritual around a mysterious, hovering artifact emitting a soft, ethereal light. The background reveals a hint of ancient architecture, partially hidden by mist, suggesting an advanced civilization built upon echoes of the past.
+Seed: 3823425218
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Present, Enigma

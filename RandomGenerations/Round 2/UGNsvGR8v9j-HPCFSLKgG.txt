@@ -1,0 +1,4 @@
+Prompt: An oil painting of a futuristic landscape in vivid colors. In the foreground, a group of artisans, dressed in elaborate, metallic, and intricately designed guild robes, are working on advanced musical instruments that produce holographic sound waves. The sky is a deep twilight, featuring multiple moons and distant stars, casting a surreal glow over the scene. Futuristic cityscape structures in smooth, flowing forms rise in the background, interspersed with bioluminescent trees and plants. The ground is a mix of metallic and natural elements, blending seamlessly. The lighting softly highlights the craftsmanship and dedication of the artisans, with shadows expertly painted to add depth and intrigue. This oil painting captures the harmony between ancient craftsmanship and futuristic technology, set against an otherworldly backdrop.
+Seed: 1858874693
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Guild, Sound

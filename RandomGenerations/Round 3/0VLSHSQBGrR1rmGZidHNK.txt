@@ -1,0 +1,4 @@
+Prompt: A futuristic marsh landscape at twilight, with bioluminescent plants casting a gentle glow across the water. In the foreground, a solitary, humanoid griffin, part eagle, part lion, stands alert on a large, moss-covered rock. Its feathers iridescent and metallic, reflecting hints of purples and blues. The background reveals a dense, alien forest with towering, twisted trees and vines, partially shrouded in mist. The sky is a cobalt blue with streaks of lavender and mauve from the setting sun. The scene is depicted in a hyper-realistic digital art style, capturing every intricate detail from the texture of the griffin’s feathers to the shimmering water and the fine mist enveloping the trees.
+Seed: 1804951734
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Marsh, Griffin

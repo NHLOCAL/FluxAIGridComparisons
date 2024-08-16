@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dawn, where towering buildings with sleek, glass surfaces reflect the first light of the day. Hovering vehicles move smoothly between the skyscrapers, while people dressed in cutting-edge, fashionable attire walk on elevated walkways connecting the buildings. The sky is a blend of purples, pinks, and blues, gradually transitioning to golden hues. The entire scene is bathed in a soft, warm light that gradually brightens as the sun rises. In the background, distant mountains with lush greenery are visible, adding a natural contrast to the ultra-modern city. The style of the artwork is a detailed, high-resolution digital painting, capturing both the technological marvels of the future and the serene beauty of nature.
+Seed: 4119975530
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exploration, Euphoria

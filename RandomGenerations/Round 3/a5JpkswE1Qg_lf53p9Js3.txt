@@ -1,0 +1,10 @@
+Prompt: An ethereal gymnasium set in the future, illuminated by the ambient glow of holographic lights. The scene captures the interior of this high-tech gymnasium with a sprawling landscape of interactive exercise platforms, where sleek, futuristic exercise machines are seamlessly integrated into the design. 
+
+In the foreground, there are diverse people dressed in advanced fitness gear, engaged in workouts on machines that hover slightly off the ground. Some are lifting free weights that adjust to gravity patterns, while others are jogging on a treadmill that changes inclines automatically. A personal drone hovers beside an individual, monitoring their vitals. 
+
+In the background, large translucent windows offer a panoramic view of a lush, utopian cityscape under a brilliant, golden afternoon sun. Skyscrapers with green terraces and advanced transportation systems move in harmony with nature. The lighting inside is soft yet precise, with beams that spotlight certain areas, showing where open spaces for yoga and meditation lie.
+
+The style of the art is a hyper-realistic digital painting, with sharp details and vibrant colors that bring the futuristic elements to life. The overall atmosphere is inviting and bustling, portraying a sense of endless possibilities through cutting-edge technology and human fitness.
+Seed: 1427795865
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opportunity, Gymnasium

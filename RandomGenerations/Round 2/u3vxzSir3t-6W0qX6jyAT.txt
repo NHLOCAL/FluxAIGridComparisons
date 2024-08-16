@@ -1,0 +1,8 @@
+Prompt: Create a highly detailed, imaginative oil painting of a misty forest in the early morning light. In the center of the scene, an ancient, ethereal figure, half-translucent with flowing white robes, appears to be made of shimmering mist and delicate, ghostly outlines, blending seamlessly with the fog around it. The figure’s eyes exude an infinite wisdom, suggesting philosophical depth and timelessness.
+
+Ancient, towering trees with gnarled branches envelop the background, their leaves barely visible through the thick fog. The forest floor is covered in soft, mossy patches and scattered with fallen leaves, dappled in the muted, silver light of the rising sun that struggles to pierce through the dense canopy and mist.
+
+The scene is void of any modern elements, maintaining a timeless, otherworldly quality. The painting uses a muted color palette dominated by soft, misty grays, pale greens, and touches of faded brown. The lighting is soft, diffused, with gentle beams of sunlight trying to break through, creating a serene yet mysterious atmosphere. The style of the painting should capture intricate details with a touch of surrealism, adding to the mystical and contemplative essence of the scene.
+Seed: 3581380113
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Ghost, Philosophy

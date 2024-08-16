@@ -1,0 +1,4 @@
+Prompt: A detailed scene of a whimsical, futuristic landscape with rolling hills covered in bioluminescent, yellow grass under a twilight sky filled with unusual constellations and two moons. At the forefront, a small dwarf figure wearing intricately designed, metallic armor stands proudly, holding a glowing staff with a crystal at its tip. The dwarf's deep-set eyes and long, braided beard suggest wisdom and ancient lore. In the background, a shimmering, translucent city of floating towers and bridges hovers over the horizon, illuminated by soft, ambient lights. The scene is bathed in otherworldly twilight, casting long, surreal shadows. The overall style is a digital illustration with intricately detailed features and vibrant colors.
+Seed: 3009053187
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Dwarf, Yellow

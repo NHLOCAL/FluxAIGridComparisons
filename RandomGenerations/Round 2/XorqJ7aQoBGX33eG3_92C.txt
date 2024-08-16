@@ -1,0 +1,4 @@
+Prompt: An exquisite, futuristic landscape city sprawling across sapphire-blue shores. The cityscape is vibrant with skyscrapers that have sleek, reflective glass surfaces, seamlessly blending into the golden hues of a setting sun. The sky above transitions from deep orange to twilight purple, scattered with flying vehicles emitting soft, ambient lights. In the foreground, elegant humanoid robots in stylish, minimalist attire interact with humans, exchanging holographic ideas on floating screens. The background features a sapphire-colored ocean, calm and vast, gently meeting the shore with crystalline waves. The scene is bathed in soft, diffused light, capturing a perfect blend of natural and artificial illumination. The artwork is created in a hyper-realistic style, almost photographic in its details, yet with a touch of digital surrealism that enhances the futuristic elements.
+Seed: 3571662089
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Sapphire, Idea

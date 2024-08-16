@@ -1,0 +1,4 @@
+Prompt: Create an image of a mystical bar set in an ethereal, enchanted forest during twilight with a hint of fog. The bar is constructed from ancient, gnarled trees, and the counter is adorned with glowing, bioluminescent fungi. The trees around the bar have lanterns hanging from their branches, emitting a soft, warm light that casts gentle, dancing shadows. Forest spirits in translucent, human-like forms are seen mingling and enjoying drinks that shimmer with an otherworldly glow. A celestial night sky with vibrant nebulae and glittering stars is visible through the canopy. The scene should be rendered in the style of a detailed, fantastical oil painting, emphasizing the mystical and serene ambiance of this unique, otherworldly location.
+Seed: 1409573338
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Bar, Spirituality

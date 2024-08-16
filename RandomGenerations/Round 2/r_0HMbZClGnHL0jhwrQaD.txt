@@ -1,0 +1,4 @@
+Prompt: A futuristic swamp landscape under the silvery glow of a full moon. Papery trees with translucent, thin leaves resembling sheets of old parchment rustle in a gentle, cool breeze. The swamp is shrouded in a mist that refracts the moonlight, creating a delicate luminescent aura around the scene. Strange, bioluminescent insects hover above the murky, inky waters which are dotted with large, floating lily pads that look like antique paper textures. In the background, a distant, moss-covered futuristic city with tall, slender spires made of what appears to be folded paper rises out of the fog. The scene is devoid of people, focusing purely on the enigmatic, otherworldly environment. The image is presented as a hyper-realistic digital painting with meticulously detailed textures and a somber, mystical atmosphere.
+Seed: 644203053
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Swamp, Paper

@@ -1,0 +1,4 @@
+Prompt: A futuristic city square at sunset with tall, sleek skyscrapers made of glass and metal reflecting a golden hue. In the center of the square, a transparent bubble-shaped stage with a live band playing electronic instruments made of light and holograms. People dressed in modern, high-tech fashion, some with augmented reality visors, gather around, while others float on hoverboards or sit on floating benches. Robotic street vendors selling food that glows with subtle neon colors are stationed along the square. The sky is a gradient of orange and purple with a few flying cars zipping by. Art style is a hyper-realistic digital painting with vibrant, sharp details and dynamic lighting that captures the energy and innovation of the city.
+Seed: 4001618541
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Present, Chance

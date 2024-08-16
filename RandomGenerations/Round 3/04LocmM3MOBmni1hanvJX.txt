@@ -1,0 +1,4 @@
+Prompt: An otherworldly desert landscape set at dusk, where towering crystalline structures jut out from the sands, reflecting the dim light of the setting sun. In the foreground, a group of explorers in futuristic attire are seen shouting into handheld communication devices, their words lost in the vast expanse. Hovering drones with blinking lights hover above them, indicating the direction they should travel. The sky is a canvas of purples and oranges with streaks of impending night. The art style is a hyper-realistic oil painting, capturing every minute detail from the reflective crystals to the grains of sand. The background showcases distant sand dunes merging seamlessly with an alien-looking mountain range.
+Seed: 3560354160
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shout, Direction

@@ -1,0 +1,4 @@
+Prompt: A futuristic lunar landscape at twilight featuring a sleek, cylindrical space station partially embedded into a crater. Dozens of scientists in white, high-tech suits with glowing blue accents interact around a holographic mineral projection table near the station's entrance. In the background, the Earth looms large on the horizon, casting a subtle blue hue. The sky is adorned with a myriad of visible constellations and distant galaxies. The scene is rendered in a hyper-realistic digital art style, with intricate detailing on the lunar surface's craters and rock formations, and a cool, low-light ambiance emphasizing the advanced technology and vastness of space.
+Seed: 1893713539
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Project, Vision

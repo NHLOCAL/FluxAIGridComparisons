@@ -1,0 +1,8 @@
+Prompt: An enchanting woodland scene set at twilight, captured in a hyper-realistic digital painting. The foreground features a tranquil, sparkling stream running through lush greenery, with fireflies illuminating the area. On the left side, partially hidden among ancient, gnarled trees, stands an old wooden cabin with light filtering through its windows, casting warm reflections on the water. To the right, a group of elven figures clad in shimmering robes and intricate, nature-inspired jewelry are mid-dance, their movements full of grace, as they celebrate around a glowing, mystical stone circle.
+
+In the background, a steep cliff rises, leading up to an eerie, mist-covered mountain. Silhouetted against a star-studded sky, a pair of sinister, towering stone statues with distorted, screaming faces stand as silent sentinels at the mountain's base. The lighting contrasts between the warm glow near the cabin and the cold, haunting shadows cast by the statues and mountain. 
+
+The style blends romanticism with elements of dark fantasy, drawing attention to both the serene and unsettling parts of the scene. The painting's textures are rich, making the foliage look lush and the stone appear rugged and imposing.
+Seed: 3238931433
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Charm, Scream

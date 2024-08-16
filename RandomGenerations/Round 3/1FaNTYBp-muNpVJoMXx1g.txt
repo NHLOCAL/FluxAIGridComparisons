@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape set in a sprawling, lush forest illuminated by bioluminescent plants. Towering trees with glowing vines stretch into the sky, their canopy forming a natural roof that lets in beams of moonlight. In the clearing, a group of humanoid werewolves with sleek, metallic fur stand in a circle, hands clasped together, their eyes reflecting the glowing flora around them. They are participating in a ritual that signifies unity and coexistence. The background features a distant, high-tech city with glistening spires visible through the gaps in the trees. The scene is portrayed as a highly detailed digital painting with a blend of realistic and fantastical elements. The overall lighting is a mix of soft moonlight and the ambient glow from the bioluminescent plants, creating a magical yet serene atmosphere.
+Seed: 487701904
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Werewolf, Unity

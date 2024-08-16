@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at twilight, set in the year 2120, bustling with advanced technology and diverse architecture. Skyscrapers with shimmering, holographic displays and sleek, aerodynamic vehicles glide through the air. On a rooftop garden terrace overlooking the city, a humanoid AI with a sleek, chrome exterior sits cross-legged, holding an antique pocket watch meticulously in its robotic hands, symbols of time and consciousness. The background features a sky with hues of deep purples and blues, illuminated by bioluminescent plants and floating drones casting soft, ambient light. The style is hyper-realistic with intricate attention to detail, capturing the textures of both organic and synthetic materials. The image is presented as a digital illustration, combining elements of cyberpunk and modernist art styles.
+Seed: 1319974626
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Watch, Conscious
