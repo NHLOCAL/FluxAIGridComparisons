@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape set on an alien planet adorned with bioluminescent plants. The sky is an iridescent shade of teal with swirling clouds of purple and pink gases, illuminated by multiple small moons casting a soft, ethereal glow. In the foreground, towering crystalline structures jut out of the ground, catching the moonlight and casting fractured light onto the landscape. Figures in sleek, metallic suits with glowing visors explore the terrain, examining specimens and collecting data with advanced tools. The scene is bathed in a serene, twilight light that enhances the vibrant colors of the flora. In the background, distant mountains with jagged peaks fade into a combination of mist and atmospheric haze. This image is rendered in the style of a highly detailed digital painting, emphasizing smooth gradients and crisp details.
+Seed: 1856236913
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Sky, Design

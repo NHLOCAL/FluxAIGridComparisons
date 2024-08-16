@@ -1,0 +1,7 @@
+Prompt: Create an oil painting of a vibrant, fantastical underwater scene. In the foreground, a group of three mermaids, each appearing to be in their early twenties, swim gracefully. The first mermaid has long, flowing red hair adorned with seashells, her tail shimmering in shades of emerald green. She wears a top made of delicate, pearlescent material. The second mermaid has curly, dark brown hair, her tail a deep sapphire blue with silver scales. She wears a top fashioned from seaweed and coral. The third mermaid has short, blonde hair, her tail a radiant gold with hints of orange. She wears a top made of turquoise fabric with starfish accents.
+
+The lighting is dappled, with beams of sunlight filtering through the water, casting an ethereal glow on the mermaids and their surroundings. The background is a colorful coral reef, teeming with marine life. Brightly colored fish, in hues of yellow, blue, and red, dart among the corals. Sea anemones and various underwater plants add to the rich tapestry of colors. In the distance, a sunken pirate ship partially covered in barnacles and seaweed can be seen, hinting at hidden treasures.
+
+The style of the painting is highly detailed and realistic, capturing the intricate textures of the mermaids' scales, the fluid motion of their hair, and the vibrant colors of the coral reef. The overall scene is one of dynamic movement and vivid color, creating a sense of wonder and enchantment.
+Seed: 1808183700
+Flux URL: https://fal.run/fal-ai/flux/schnell

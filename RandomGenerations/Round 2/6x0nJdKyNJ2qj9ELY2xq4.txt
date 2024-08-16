@@ -1,0 +1,4 @@
+Prompt: A futuristic lounge in an interstellar spaceship, depicted in a highly detailed digital art style. The lounge features sleek, curvilinear furniture with smooth, glowing edges. Several humanoid figures in sophisticated attire are seated on floating chairs around a transparent table, engaged in animated conversation. Through the large, curved window, an expansive view of a nebula, with vibrant hues of purple, blue, and pink, fills the background. Soft, ambient lighting suffuses the room, emanating from hidden sources within the walls and ceiling, casting a gentle glow on the occupants. One corner of the lounge has a compact bar area with a sleek metallic finish and holographic drink menus. The overall scene radiates advanced technology and modern luxury, capturing the captivating blend of high-tech surroundings with an enchanting view of space.
+Seed: 3772326346
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Charm, Lounge

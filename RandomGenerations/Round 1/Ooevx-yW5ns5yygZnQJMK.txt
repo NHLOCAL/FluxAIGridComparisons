@@ -1,0 +1,8 @@
+Prompt: Create an imaginative oil painting of a gymnasium transformed into a whimsical landscape. The gymnasium floor is made of giant sheets of lined paper, arranged in a mosaic pattern. The bleachers are constructed from stacks of oversized, colorful notebooks. In the background, paper airplanes of varying sizes soar and loop gracefully in the air, their shadows casting intricate patterns on the floor. The walls of the gym are adorned with massive, intricate origami figures standing as silent guardians. 
+
+A group of young children, dressed in futuristic athletic wear made from shiny, metallic fabrics, are energetically playing and interacting with the paper environment. The lighting is warm and golden, resembling an afternoon sun casting long, soft shadows, but it also has an ethereal glow as if coming from an unseen source, making the scene feel both nostalgic and otherworldly. 
+
+Around the scene, remnants of traditional gym equipment like basketball hoops and climbing ropes are intertwined with whimsical elements, such as vines made out of colored paper chains and a scoreboard displaying hand-drawn illustrations. The art style incorporates hyper-realistic elements with magical realism to create a sense of wonder and possibility.
+Seed: 1005073946
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Paper, Gymnasium

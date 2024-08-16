@@ -1,0 +1,4 @@
+Prompt: An expansive futuristic cityscape at dusk viewed from a high vantage point. Sleek, towering skyscrapers with gleaming surfaces reflect the setting sun, casting long shadows and an orange glow across the scene. Skybridges connect many of these buildings, bustling with humanoid robots and humans in advanced, stylish attire. The sky features floating vehicles and drones crisscrossing through air traffic lanes. In the foreground, a rooftop garden with lush, bioluminescent plants contrasts the metallic environment. The lighting is a blend of natural twilight and various neon lights illuminating the city below. The style is a highly detailed, hyper-realistic digital painting with intricate textures and vibrant colors. The background encompasses distant mountains barely visible through a layer of futuristic smog, hinting at the geographical boundaries.
+Seed: 2933718984
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Act, Criterion

@@ -1,0 +1,3 @@
+Prompt: Create an image of a stunning plateau under a vibrant sunset sky, with an archaeological site in the foreground. The plateau should have sheer cliffs and a flat top covered in sparse vegetation. The archaeological site should feature ancient ruins, such as crumbling stone structures, partially uncovered artifacts, and weathered statues. In the background, the sky should be a blend of warm oranges, pinks, and purples, with a few scattered clouds. The overall scene should evoke a sense of mystery and awe, highlighting the beauty of the natural landscape and the historical significance of the site.
+Seed: 17165881
+Flux URL: https://fal.run/fal-ai/flux/schnell

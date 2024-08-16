@@ -1,0 +1,5 @@
+Prompt: An 18th-century oil painting of a misty graveyard at dawn. The scene is dominated by ancient, weathered tombstones, some standing tall and others leaning or crumbling. In the foreground, a young girl of about 10 years old stands barefoot on the dew-covered grass. She has long, unkempt brown hair, a tattered white dress that looks hand-sewn, and dirt smudges on her face and hands. Next to her, an elderly man with a long, untrimmed white beard is hunched over, dressed in rags that barely cover his frail body. He clutches a wooden walking stick.
+
+In the background, opulent, well-maintained mausoleums with intricate carvings are visible, highlighted by the faint golden light of the rising sun cutting through the mist. The sky has a gradient from deep purple to pink, adding a surreal quality to the scene. Shadows from the gravestones and trees cast long, dark lines across the ground, emphasizing the contrast between the dilapidated and the pristine. The style of the painting is highly detailed with rich textures, capturing the disparity and quiet solemnity of the scene.
+Seed: 1759890507
+Flux URL: https://fal.run/fal-ai/flux/schnell

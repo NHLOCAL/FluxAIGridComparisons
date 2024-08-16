@@ -1,0 +1,9 @@
+Prompt: A fantastical oil painting of a grand voyage across a mystical sea. The scene features a majestic, ancient ship with billowing white sails adorned with golden symbols. The ship is helmed by an elderly captain with a long, silver beard and wise, piercing blue eyes. He wears a richly detailed navy-blue coat with gold epaulettes and a tricorn hat. Alongside him stands a young cabin boy, around 12 years old, with tousled brown hair, wearing simple, weathered clothes of beige and brown.
+
+The sea is a shimmering blend of deep blues and greens, with gentle waves that reflect the light of a setting sun, casting a warm, golden glow over the scene. In the background, distant, mystical islands rise from the water, covered in lush, vibrant foliage and crowned with ancient, crumbling ruins.
+
+The sky is a canvas of rich purples and oranges, dotted with fluffy clouds, and a few stars begin to peek through the twilight. A pod of dolphins leap joyfully alongside the ship, their sleek bodies catching the last light of the day.
+
+The painting style is highly detailed with a touch of the surreal, capturing the wonder and enormity of the journey. The lighting emphasizes the contrast between the warm glow of the setting sun and the cool tones of the encroaching night, highlighting the dreamlike quality of the voyage.
+Seed: 2460689645
+Flux URL: https://fal.run/fal-ai/flux/schnell

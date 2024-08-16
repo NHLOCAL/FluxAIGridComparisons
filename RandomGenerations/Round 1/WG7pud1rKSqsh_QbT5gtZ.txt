@@ -1,0 +1,4 @@
+Prompt: A futuristic riverbank where iridescent silver trees line the shore, their leaves glowing softly in the twilight. In the background, an advanced cityscape with sleek, towering skyscrapers made of transparent materials, reflecting the hues of the setting sun. Two humanoid robots stand at the water's edge, one holding an ancient parchment as if deciphering its secrets. The river itself is crystal clear, with bio-luminescent fish swimming beneath the surface, casting an otherworldly glow. The sky is a gradient of deep purples and pinks, with three moons visible, casting a gentle ambient light. This scene is depicted in a highly detailed digital illustration, akin to a high-definition concept art piece for a science fiction film.
+Seed: 2424043059
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Riverbank, Truth

@@ -1,0 +1,7 @@
+Prompt: A 19th-century village square at dusk, illuminated by the warm, flickering light of a large bonfire in the center. The bonfire's flames dance high, casting elongated shadows on the cobblestone ground. Around the bonfire, a group of villagers of various ages—ranging from children to elderly folks—are gathered. The children, around 8-10 years old, have wide eyes and open mouths, dressed in simple ragged clothes with patches. The elderly, with wrinkled faces and gray hair, wear layered, worn-out garments typical of the 1800s, including shawls and woolen hats. 
+
+Near the fire, a middle-aged man, perhaps in his 40s, stands tall wearing a tattered brown coat and a brimmed hat, holding a wooden staff. His face is rugged with a short beard, and his eyes reflect the firelight. Behind him, a young woman in her 20s with long, flowing hair tied in a braid, dressed in a plain, slightly dirty dress with an apron, sits on the ground with her hands clasped, staring intently at the flames. A wooden cart filled with hay is parked nearby, with a rustic stone well in the background.
+
+The surrounding buildings are old timber-framed structures with thatched roofs, slightly leaning from age. The sky is a deep, dark blue with a hint of stars beginning to appear. The scene is painted in a realistic style, with rich textures and detailed lighting that brings out the warmth of the fire contrasting with the cool tones of the approaching night.
+Seed: 4211004516
+Flux URL: https://fal.run/fal-ai/flux/schnell

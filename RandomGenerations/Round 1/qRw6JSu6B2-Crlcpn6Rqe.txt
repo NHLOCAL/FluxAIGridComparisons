@@ -1,0 +1,9 @@
+Prompt: Create an imaginative image of a vibrant, bustling marketplace set in a fantastical medieval town square at dawn. The scene is depicted as a highly detailed oil painting. The sky is a gradient of deep indigo transitioning to the soft pink of early morning light. Cobblestone streets are lined with various stalls displaying colorful fabrics, exotic fruits, and intricate trinkets. 
+
+In the foreground, a young woman around 25 years old with long, flowing auburn hair is dressed in a simple yet elegant green tunic with golden embroidery. She is handing a small, intricately crafted wooden box to a young boy, about 10 years old, with tousled brown hair and wearing a patched-up, oversized shirt and shorts, his eyes wide with curiosity. 
+
+Beside them, an elderly man with a long white beard and a wide-brimmed hat, dressed in long, flowing robes of deep blue and silver, is setting up a large, ancient-looking tome on his stall. The background features tall, ornate buildings with ivy creeping up the walls and a majestic castle with tall spires visible in the distance.
+
+The marketplace is illuminated by the soft, golden light of lanterns hanging from the stalls, contrasting with the cool, early morning light. The painting style is reminiscent of the works of the old masters, with rich textures and a focus on intricate details.
+Seed: 30219731
+Flux URL: https://fal.run/fal-ai/flux/schnell

@@ -1,0 +1,9 @@
+Prompt: A whimsical observatory perched atop a hill under a clear night sky filled with twinkling stars and a large, glowing crescent moon. The observatory is an intricate structure made of brass and glass, with multiple domes and telescopes extending outwards. Surrounding the observatory, a lush garden filled with glowing bioluminescent flowers and tall, swaying grasses. 
+
+In the foreground, a group of four people: two children, a boy and a girl around 10 years old, with tousled hair and wearing vintage-style pajamas, the boy in blue stripes and the girl in pink polka dots; an older man, around 60, with a silver beard and glasses, wearing a tweed jacket with elbow patches and a bow tie; and a woman in her 30s with long, flowing hair, dressed in an elegant, flowing white dress with lace details. 
+
+They are all gathered around a large, antique telescope positioned at the edge of the garden, gazing up at the night sky. The children point excitedly upwards, the man's eyes sparkle behind his glasses as he adjusts the telescope, and the woman holds a notebook and pen, ready to jot down observations. 
+
+Soft, warm lighting emanates from lanterns hanging around the observatory and fireflies floating in the air, casting a gentle glow on their faces and highlighting the joy and wonder in their expressions. The scene is painted in a semi-realistic, storybook illustration style, with rich, vibrant colors and intricate details that invite the viewer to explore the magical setting.
+Seed: 1004350757
+Flux URL: https://fal.run/fal-ai/flux/schnell

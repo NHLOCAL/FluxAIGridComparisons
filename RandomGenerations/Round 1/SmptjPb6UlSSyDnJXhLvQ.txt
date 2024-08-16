@@ -1,0 +1,4 @@
+Prompt: An expansive prairie under a vast, twilight sky. In the distance, a solitary, ancient tree stands tall with gnarled branches spreading wide, casting long, delicate shadows across the golden grasses that sway gently in the evening breeze. A group of ethereal, translucent figures in flowing robes gather in a circle around the tree, engaged in a quiet, sacred ritual. Soft beams of silvery moonlight filter down, illuminating the scene with a mystical glow that contrasts the deep, purplish-blue hues of the sky. The background features distant, rolling hills fading into mist, creating a sense of timeless openness. This scene is depicted in a hyper-realistic oil painting style, capturing every detail with profound clarity and texture, from the individual blades of prairie grass to the intricate spiritual symbols etched into the ground.
+Seed: 890749999
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Prairie, Spirituality

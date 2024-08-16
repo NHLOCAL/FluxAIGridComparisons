@@ -1,0 +1,4 @@
+Prompt: A high-tech cityscape from the future during nighttime, bathed in neon lights and holographic advertisements. Sleek, towering skyscrapers with digital billboards dominate the skyline, their reflections shimmering in the glassy water of a river that cuts through the city. The streets are bustling with futuristic vehicles hovering a few feet above the ground, and pedestrians dressed in high-tech attire, with augmented reality visors on their faces, walk along illuminated pathways. Fireworks explode in the sky above, casting an ethereal glow over the scene. The image is crafted in a style reminiscent of a highly detailed digital painting, with vibrant and contrasting colors enhancing the overall vibrancy of the environment. The background features a distant mountain range with wind turbines silhouetted against the starry sky, signifying the blend of technology and nature.
+Seed: 2427650622
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Result, Fire

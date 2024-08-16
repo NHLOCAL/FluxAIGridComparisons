@@ -1,0 +1,4 @@
+Prompt: An epic futuristic cityscape at midnight rendered in a highly detailed, realistic digital painting style. The scene features towering skyscrapers with neon lights in blue and purple hues. The sky is filled with glowing stars and the faint silhouette of a massive spaceship. In the foreground, there are two futuristic figures in sleek, armored suits, standing on a rooftop gazing out at the city. The background includes a sprawling metropolis with flying vehicles zooming between buildings. The scene is bathed in the cool, ambient glow of numerous holographic billboards. The lighting is dramatic, with areas of deep shadow contrasting with the stark, bright lights of the city.
+Seed: 4240116392
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Epic, Midnight

@@ -1,0 +1,4 @@
+Prompt: A futuristic urban landscape at dusk with neon lights casting vivid hues over sleek skyscrapers. In the foreground, a couple in stylish, form-fitting attire sits on a bench made of smooth, polished metal, their silhouettes softly outlined by the ambient glow. They face each other, holding hands, their expressions calm and focused. Surrounding them are small patches of greenery with luminous flowers, adding a touch of nature to the high-tech environment. The background features flying vehicles and floating billboards with vibrant advertisements. The sky transitions from a warm orange near the horizon to a deep indigo above, speckled with stars just beginning to emerge. This is a digital illustration rendered in a highly detailed, semi-realistic style, emphasizing crisp lines and vibrant colors.
+Seed: 3370196070
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Affection, Ideal

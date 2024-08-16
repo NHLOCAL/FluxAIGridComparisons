@@ -1,0 +1,4 @@
+Prompt: An oil painting depicting a serene, small village in the future. The focal point is a beautifully modernized church with sleek glass steeples and futuristic architecture, yet it maintains a touch of classical design, surrounded by tall, lush, and vibrant trees. The church is situated next to a clear, winding creek that glistens under the soft, golden rays of a setting sun. In the background, gentle rolling hills dotted with futuristic but rustic houses blend harmoniously with the landscape. People in sleek, high-tech attire stroll alongside the creek and sit together on modern yet subtly classical benches, enjoying the scenery. The lighting is warm and soft, casting long shadows and creating a peaceful, almost magical atmosphere. The style is hyper-realistic, with intricate details emphasizing the interplay between traditional and futuristic elements in the village.
+Seed: 1894933246
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Church, Creek

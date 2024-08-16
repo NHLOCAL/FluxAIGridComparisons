@@ -1,0 +1,8 @@
+Prompt: A futuristic cityscape at dusk, painted in the style of a surrealist oil painting. The horizon is dotted with towering skyscrapers made of transparent, crystalline materials that reflect the fading sunlight, casting a multitude of prismatic colors across the scene. Hovering transport vehicles with sleek, aerodynamic designs zip through the air between buildings, their trails leaving faint, luminous lines in the sky. 
+
+At street level, the city is bustling with activity: humanoid robots with intricate, gold and silver exteriors interact with human pedestrians dressed in ultramodern fashion, featuring metallic fabrics and elaborate accessories. Sidewalks are lined with luminescent trees and bioluminescent plants, casting a soft, ethereal glow. Floating digital billboards display vibrant advertisements and information in an array of languages.
+
+The background reveals a large, serene river that winds through the city, its water reflecting the myriad colors of the urban landscape. In the distance, majestic mountains rise, their peaks shrouded in wisps of neon-tinged mist. The scene is bathed in the warm, diffuse light of the setting sun mixed with the cool, artificial lights of the city, creating a harmonious blend of natural and technological beauty.
+Seed: 3726166183
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Story, Complexity

@@ -1,0 +1,4 @@
+Prompt: Generate an artistic oil painting of a surreal landscape set in the distant future. The central focus is a massive, crystal-clear waterfall cascading down from floating, luminescent rock formations, gently merging into a shimmering lake below. In the foreground, futuristic humanoid robots with sleek, silver exteriors collect water samples, their movements precise and fluid. The background features a sky bursting with swirling galaxies and distant nebulae, lit by the soft, golden light of twin suns setting on the horizon. The scene is illuminated with a soft, ethereal glow, giving the impression of an otherworldly paradise where nature and technology coexist harmoniously. The painting should use rich, vivid colors with intricate details that bring the fantastical elements to life.
+Seed: 2902172160
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Waterfall, Probability

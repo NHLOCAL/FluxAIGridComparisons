@@ -1,0 +1,4 @@
+Prompt: "A fantastical marina at dawn, set in the future, with sleek, futuristic yachts docked along bioluminescent waters that glow in shades of blue and green. The sky is painted in shades of lavender and pink, hinting at the rising sun, with elegant, minimalist skyscrapers in the background, showcasing advanced architecture with curved, organic lines. On the dock, several androids and humans, dressed in cutting-edge fashion, are interacting with each other and tending to the boats. Soft, ambient lights illuminate the scene, casting gentle reflections on the water. Render this as a highly detailed digital art piece, with sharp lines and vibrant colors to emphasize the futuristic setting."
+Seed: 3825553938
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Marina, Talent

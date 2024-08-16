@@ -1,0 +1,4 @@
+Prompt: A futuristic transportation depot in the year 2150, set against the backdrop of a sprawling megacity with towering, neon-lit skyscrapers and flying vehicles. The scene is an ultra-realistic digital painting, vividly capturing the intricacies of advanced machinery and bustling activity. In the forefront, sleek autonomous buses and hyper-loop portals are stationed, with humanoid robots assisting passengers. The sky features a gradient of twilight colors, transitioning from deep blue to dark purple, punctuated by glowing advertisements and drones. The streets are clean, lined with eco-friendly urban gardens, and pathways are illuminated by soft, programmable LED lights embedded in the pavement. The style emphasizes sharp, intricate details and a polished, high-tech aesthetic, exuding a sense of efficiency and high civilization.
+Seed: 2278980118
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Singularity, Depot

@@ -1,0 +1,8 @@
+Prompt: Create an intricately detailed oil painting capturing a moonlit scene of an ancient graveyard where a secretive medieval guild is performing a nocturnal ceremony. The graveyard is nestled in a secluded forest clearing, surrounded by towering, gnarled trees whose branches twist and turn under the pale, ghostly moonlight. Weathered tombstones with intricate carvings and moss-covered statues of angels and gargoyles stand sentinel throughout the scene. 
+
+A circle of cloaked guild members, faintly illuminated by flickering lanterns and the soft glow of the moon, reverently gather around an ancient, weathered stone altar at the center of the graveyard. Their detailed costumes, adorned with mysterious medallions and sigils, showcase their secretive and ancient traditions. The night sky above is filled with twinkling stars, casting a faint silvery light that adds an ethereal quality to the scene. Long shadows stretch across the uneven ground, where creeping mist weaves through the gravestones.
+
+In the background, the dense foliage of the forest appears almost impenetrable, with hints of distant ruins peeking through the trees. The lighting is soft yet eerie, enhancing the mystique of the midnight ritual. The overall style sticks closely to the realistic detail of an old master oil painting, with an emphasis on capturing the texture of stone, the movement of fabric, and the delicate interplay of light and shadow.
+Seed: 4006132192
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Graveyard, Guild

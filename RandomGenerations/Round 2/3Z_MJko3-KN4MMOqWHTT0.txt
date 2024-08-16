@@ -1,0 +1,4 @@
+Prompt: A vast, desolate landscape stretches out under an ominous, leaden sky, broken by the skeletal remains of once-great skyscrapers. The scene is set in a post-apocalyptic future, bathed in the harsh, cold light of a sun struggling to pierce through the thick, gray clouds that blanket the sky. Shadowy, tattered figures—survivors in ragged clothing and makeshift gear—trudge through the rubble-strewn streets, scavenging for remnants of the past. In the background, distant mountains loom over the ruined city, their peaks shrouded in mist. The image is rendered in a hyper-realistic digital art style, with meticulous detail given to the crumbling buildings, the cracked and overgrown pavement, and the weary determination etched into the faces of the survivors. The overall scene captures the stark contrast of human tenacity against a backdrop of desolation and decay.
+Seed: 1458776422
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Post-apocalyptic, Outcome

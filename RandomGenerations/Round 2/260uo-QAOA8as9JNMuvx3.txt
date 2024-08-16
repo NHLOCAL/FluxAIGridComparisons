@@ -1,0 +1,6 @@
+Prompt: Create an imaginative, breathtaking scene set in a futuristic landscape. Picture a sprawling city skyline filled with towering, gleaming skyscrapers that reflect the light of a setting sun, casting the entire city in warm, golden hues. Hovering vehicles glide smoothly along transparent, elevated pathways that crisscross between buildings. In the foreground, a lush park with trees of bioluminescent leaves glows softly, while people dressed in sleek, modern attire gather around futuristic sculptures that seem to defy gravity.
+
+The background features towering mountains with reflective surfaces that mirror the city, adding to the majestic atmosphere. The sky is a blend of deep oranges, purples, and pinks, with glimmers of stars starting to become visible as day transitions to night. The entire scene is bathed in rich, radiant light, with long shadows adding depth and texture. This image is rendered in a highly detailed, hyper-realistic digital art style that captures every intricate detail, making it almost lifelike in its portrayal of this imaginative future.
+Seed: 4137339404
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Truth, Breathtaking

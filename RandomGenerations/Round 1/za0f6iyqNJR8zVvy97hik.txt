@@ -1,0 +1,4 @@
+Prompt: A vast, futuristic cityscape at dusk with towering skyscrapers and intricate flying vehicles crisscrossing the sky. The scene takes place in the year 2155, with a crimson sun setting behind the skyline, casting long shadows and a warm, orange glow over the metallic surfaces of the buildings. Amidst the grandeur, a team of five uniformed engineers is on a rooftop working diligently on a complex piece of machinery, illuminating the importance of their task. The sky is clear, with stars starting to twinkle, signifying the transition from day to night. The style is hyper-realistic, rendered in a digital art format, with intricate details capturing the technological advancements and the sheer scale of the urban landscape. In the background, you can see a vast bridge connecting two separate megacities, emphasizing the magnitude of human expansion and engineering prowess.
+Seed: 1914972296
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Duty, Magnitude

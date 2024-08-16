@@ -1,0 +1,4 @@
+Prompt: A quaint, moonlit village nestled in a valley, with cobblestone streets winding between half-timbered houses. The scene is illuminated by soft, shimmering moonbeams and the warm, golden glow of antique street lamps. The night sky is clear, scattered with twinkling stars. In the background, a dense forest stretches up rolling hills, silhouetted against the night sky. A charming, old-fashioned inn stands at the center of the village, with gentle light spilling from its windows and a sign creaking softly in the breeze. In front of the inn, a few villagers dressed in 18th-century attire are seen bidding each other goodnight, their shadows long and soft under the lantern light. The ambiance is calm and serene. The style of the artwork is an oil painting with soft brush strokes, capturing the delicate interplay of light and shadow.
+Seed: 3133849131
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sleep, Charming

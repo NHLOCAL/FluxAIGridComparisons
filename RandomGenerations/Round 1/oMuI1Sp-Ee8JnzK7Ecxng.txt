@@ -1,0 +1,4 @@
+Prompt: Create an image of a futuristic city street at dusk in the style of a vibrant oil painting. The street is lined with towering, sleek skyscrapers adorned with bright neon lights that cast colorful reflections onto the wet pavement below. Advanced vehicles hover silently above the ground, and robots and humans in cutting-edge fashion styles walk along the sidewalks. Street vendors sell a variety of glowing, exotic foods displayed on minimalist carts. In the background, the sky is a mix of deep blues and purples from the setting sun, with a few stars starting to emerge. The lighting is a blend of natural twilight and the artificial glow of numerous digital billboards and advertisements.
+Seed: 3436373937
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Street, Dear

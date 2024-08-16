@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape where towering bioluminescent skyscrapers stretch into a twilight sky filled with faint glimmers of stars. The ground is crisscrossed with sleek, glowing trails that appear to be paths of energy, winding through a city made of translucent, crystalline structures. Robots and humans coexist, walking along these paths in smart, futuristic attire, their movements fluid and purposeful. The scene is bathed in the soft, ambient glow of the bioluminescence and the faint diffusion of streetlights integrated into the ground, casting elongated shadows. In the background, a colossal neon-lit structure in the shape of a tree towers, with branches extending and lighting up sporadically like synapses in a brain. The style is a hyper-realistic digital painting, with intricate attention to detail and a palette of vibrant, futuristic hues.
+Seed: 473232947
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Effect, Trail

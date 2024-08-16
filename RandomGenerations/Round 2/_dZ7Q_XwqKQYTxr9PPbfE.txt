@@ -1,0 +1,4 @@
+Prompt: A surreal, futuristic playground set in a sprawling, bioluminescent forest. The playground equipment is made from translucent, glowing materials and designed in abstract, organic shapes that resemble large, alien flora. Children in sleek, iridescent outfits are seen playing, their faces lit by the soft hues emanating from the surroundings. In the background, towering trees with luminous canopies stretch towards a night sky filled with vibrant, shifting galaxies and distant nebulae. The scene is illuminated by the ethereal, pulsating light of the bioluminescent plants, creating an otherworldly yet tranquil atmosphere. Render this scene as a hyper-realistic digital painting, capturing the intricate details and vivid colors with stunning clarity.
+Seed: 3003821711
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Murmur, Playground

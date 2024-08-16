@@ -1,0 +1,8 @@
+Prompt: Create an oil painting in the style of Claude Monet. The scene is an idyllic, serene landscape set in the late afternoon during spring. The background features rolling green hills dotted with vibrant wildflowers and a clear, blue sky with soft, wispy clouds. A large, majestic oak tree stands in the foreground, its branches providing a gentle canopy over a small, tranquil pond that reflects the colors of the sky and surrounding flora. 
+
+There are two people in the scene, a couple dressed in turn-of-the-century attire. They are sitting on a checked picnic blanket beside the pond, facing one another, sharing an intimate moment as they engage in conversation and enjoy a meal. The light is warm and golden, indicative of the setting sun that casts long, soft shadows across the landscape. 
+
+In the distance, a small, charming cottage with a thatched roof peeks out from behind a grove of trees, lending a sense of hominess and unity to the scene. A narrow dirt path, lined with blooming flowers, winds through the hills and leads up to the cottage, inviting the viewer to wander through the peaceful setting.
+Seed: 2269642430
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fondness, Unity

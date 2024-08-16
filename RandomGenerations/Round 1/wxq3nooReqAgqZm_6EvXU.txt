@@ -1,0 +1,10 @@
+Prompt: Create a surrealist oil painting that depicts a dream-like seascape, merging elements of the sea with the subconscious. In the foreground, large, perplexing coral formations blend seamlessly into abstract shapes and figures, representing elements of the human mind. Interspersed among the coral are semi-transparent clock faces and floating, ethereal books that appear to dissolve into the water.
+
+The background showcases an expansive, luminous sea illuminated by a full moon, casting an otherworldly glow. The horizon features distant, misty islands that seem to float above the water, connected by delicate tendrils of light. Suspended in the sky are massive, translucent jellyfish, their tentacles trailing down to gently touch the water’s surface.
+
+The lighting is mystical and soft, dominated by the cool blues and silvers of the moon, contrasting with the warmer hues of coral and other elements. This image has no human figures, only hints of humanity through the abstract shapes and symbols.
+
+The overall style should blend classic surrealism with elements of abstract expressionism, creating a sense of depth and interwoven realities. The painting should evoke a sense of wandering through an underwater landscape fused with a dream realm, full of intricate and mysterious details.
+Seed: 3557957803
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sea, Subconscious

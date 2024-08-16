@@ -1,0 +1,9 @@
+Prompt: Create an oil painting depicting a post-apocalyptic library scene. In the foreground, a young girl of about 10 years old with long, tangled brown hair and wearing a tattered blue dress kneels on the ground. Surrounding her are scattered, torn pages from books, their edges singed and yellowed. The girl is meticulously piecing together fragments of paper, her fingers stained with ink. 
+
+Behind her, an elderly man with a long white beard, dressed in a patched-up dark coat and worn-out boots, is seen trying to salvage books from broken shelves. His hands, gnarled and dirty, clutch a leather-bound tome with its cover half-torn off. 
+
+The library's walls are crumbling, with large cracks exposing the night sky outside, illuminated by a dim, eerie greenish light. Bookshelves are toppled over, and debris is scattered everywhere. A large, ornate chandelier lies shattered on the floor, its glass shards glinting faintly. 
+
+The painting uses a muted color palette with dark browns, grays, and faded hues to emphasize the desolation. The lighting is low and somber, with the greenish glow casting long shadows, creating an atmosphere of abandonment and decay. The style is highly detailed and realistic, capturing every texture and ruinous element in vivid clarity.
+Seed: 618650966
+Flux URL: https://fal.run/fal-ai/flux/schnell

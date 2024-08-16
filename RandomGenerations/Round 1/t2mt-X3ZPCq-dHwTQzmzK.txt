@@ -1,0 +1,9 @@
+Prompt: A surreal oil painting depicting a bustling, futuristic city square at twilight. In the center, a large, glowing tree with luminescent leaves stands, symbolizing the convergence of nature and technology. Around the tree, diverse groups of people of varying ages and ethnicities are engaged in animated discussions and activities. 
+
+A middle-aged woman with curly hair and round glasses, dressed in a sleek, silver jumpsuit, is showing a holographic map to a group of attentive teenagers clad in colorful, cyberpunk-style outfits. Nearby, an elderly man with a long white beard, wearing traditional robes with intricate patterns, is sitting cross-legged on a floating platform, holding an ancient book while young children gather around, listening intently.
+
+The lighting is a blend of the natural glow from the tree and the neon lights of the surrounding high-tech buildings. The background showcases towering skyscrapers with gardens on their terraces and flying vehicles zipping through the sky. The ground is a mosaic of solar panels interspersed with patches of green grass and blooming flowers.
+
+The painting style is hyper-realistic, with intricate details in the characters' expressions and attire, and the interplay of light creating a sense of depth and dimension in the scene.
+Seed: 614315891
+Flux URL: https://fal.run/fal-ai/flux/schnell

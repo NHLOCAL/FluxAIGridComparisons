@@ -1,0 +1,4 @@
+Prompt: A futuristic urban landscape at twilight, with towering skyscrapers featuring advanced holographic advertisements. The skyline is dotted with flying vehicles, leaving trails of neon light in their wake. In the foreground, a young woman stands alone on a rooftop garden filled with vibrant, bioluminescent plants. She gazes solemnly across the sprawling city, her figure illuminated by the soft blue glow of a nearby digital billboard. The city below is bustling with people, but the rooftop remains a serene, solitary space. The scene is rendered in a hyper-realistic digital art style, with meticulous attention to detail in the textures of the buildings and plants. The background shows the horizon gradually blending into a star-lit night sky, symbolizing a seamless blend of nature and technology.
+Seed: 328723702
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Yearning, Mind

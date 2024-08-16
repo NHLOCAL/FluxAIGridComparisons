@@ -1,0 +1,9 @@
+Prompt: Create an oil painting depicting a futuristic dance performance set on a grand stage. The stage is inside a high-tech auditorium with a dome-shaped ceiling displaying a swirling galaxy of stars, planets, and quantum particles in vibrant colors. 
+
+In the center of the stage, a group of five dancers, aged between 20 and 30, perform an intricate routine. The dancers are a mix of genders and ethnicities, each with a lean, athletic build. They wear sleek, metallic suits that glow softly with neon accents in shades of blue, purple, and green. The suits are adorned with intricate patterns resembling quantum circuits and particles.
+
+The lighting is dramatic, with spotlights casting sharp, focused beams that create contrasting shadows and highlights. Holographic projections of quantum particles and waveforms float around the dancers, synchronizing with their movements. The background features transparent screens displaying dynamic, colorful fractal patterns that shift and change in response to the dance.
+
+The painting style is hyper-realistic, capturing every detail of the dancers' costumes, the holograms, and the cosmic background with precision. The overall atmosphere is one of awe-inspiring complexity and futuristic elegance.
+Seed: 2388502273
+Flux URL: https://fal.run/fal-ai/flux/schnell
