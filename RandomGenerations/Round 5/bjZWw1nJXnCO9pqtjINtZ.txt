@@ -1,0 +1,8 @@
+Prompt: A gallery-worthy photograph depicts an abandoned Victorian-era greenhouse enveloped in an overgrown garden. The scene is captured during the golden hour, where soft, diffused sunlight bathes the crumbling structure, accentuating the intricate iron filigree, now rusted and fragile. The glass panels, some shattered and others streaked with dirt and age, cast fragmented reflections of the vibrant sunset, giving the scene an ethereal glow.
+
+The style of the photograph is hyper-realistic, capturing every detail with sharp clarity: the peeling paint on the wooden frames, the moss creeping up the walls, and the delicate tendrils of ivy that snake their way inside. In stark contrast to the decay, a swath of radiant silk fabric in deep emerald green dangles from one of the broken windows, flowing gracefully in the gentle breeze, its luxurious texture adding a touch of opulence amidst the ruin.
+
+The background features a dense canopy of ancient, gnarled trees, their leaves shimmering in the dappled light, creating a natural frame around the greenhouse. The ground is carpeted with a mix of dead leaves and blooming wildflowers, suggesting nature’s reclamation of the space. This photograph balances the themes of decay and persistence, with nature slowly but persistently enveloping what humanity has left behind.
+Seed: 2424123512
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Decay, Silk

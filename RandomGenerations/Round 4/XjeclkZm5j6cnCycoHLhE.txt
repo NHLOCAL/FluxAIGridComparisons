@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting captures a solemn underwater scene distinguished by the interplay of light and shadow. Central to the composition is a meticulously detailed fish, perhaps a sleek koi or an ethereal betta, with scales that glisten as if touched by the sun. It swims gracefully beside an ancient, overgrown shipwreck that serves as a memorial, its timbers encrusted with algae and barnacles. Delicate beams of sunlight filter through the water’s surface, illuminating sporadic dust particles and lending a silent, cathedral-like reverence to the atmosphere. In the background, the muted tones of the deep sea fade into darkness, suggesting depth and mystery, while scattered aquatic plants and corals add texture and natural intricacy to the underwater tableau.
+Seed: 2890884741
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fish, Memorial

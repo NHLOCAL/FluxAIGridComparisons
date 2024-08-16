@@ -1,0 +1,12 @@
+Prompt: A photograph captures a serene coastal village at dusk. The scene is set with traditional, white-washed homes nestled against steep, rolling hills that descend into a tranquil bay. Each home has tile roofs and wooden shutters, many of which are partially open, showing the signs of everyday life. The evening sky is painted with soft hues of lavender and orange, blending seamlessly into the darkening horizon. The village streets, paved with cobblestones, wind like ribbons through the quaint town, leading the eye to an ancient stone lighthouse perched on the edge of the cliff. Its light, though faint under the early evening sky, pulsates rhythmically, casting a gentle glow across the scene, creating a sense of time's passing.
+
+The lighting is natural and diffuse, provided by the setting sun, casting long, soft shadows that accentuate the textures of stone walls, rooftops, and rugged terrain. The windows from the homes reflect the last light of the day, adding a warm, inviting charm to the small community. Streetlamps, designed in a vintage style, begin to light up one by one, casting an amber hue onto the cobbled pathways. 
+
+The photograph is in vivid, high-definition detail, with an emphasis on capturing the crispness of the architectural elements and the subtle, glistening waves of the bay. The water shows gentle ripples, hinting at a distant boat making its way towards the shore, adding a dynamic element to the otherwise still composition. The movement of the waves contrasts with the stillness of the village, creating a sense of life within tranquility.
+
+In the background, the distant mountains rise, their peaks still holding onto the last remnants of daylight, contrasting against the deeper shadows in the valleys. The lush greenery of the hills transitions smoothly into the rocky coastline, where small patches of wildflowers add flecks of color to the muted landscape.
+
+The style of this piece is a finely detailed photograph with a touch of romanticism, evoking the timeless beauty of coastal living through precise depiction and masterful use of light. The viewer can discern the intricate details of each scene component, from the worn stones to the gentle rolling waves, making it a gallery-worthy portrayal of a peaceful seaside haven.
+Seed: 3387606523
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Modification, Movement

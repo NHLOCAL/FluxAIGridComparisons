@@ -1,0 +1,12 @@
+Prompt: A high-definition photograph captures the grandeur of a coastal landscape at dawn. The scene is framed from an elevated viewpoint, revealing a sweeping panoramic view of the ocean meeting the cliffs. In the foreground, a narrow, winding footpath (Lane) lined with rugged, windswept grasses leads the eye to the distance. The Scale is emphasized by the enormous, jagged cliffs that rise dramatically from the shoreline, dwarfing the tiny figures of hikers who can be seen exploring the path.
+
+In the background, the vast expanse of the ocean stretches infinitely, with gentle waves breaking against the rocky outcrops. The horizon glows with the first light of day, as the sun begins to lift above the water, casting a soft, golden hue across the scene. The sky is a gradient of pastel colors, transitioning from deep purples and blues of the receding night to the warm oranges and pinks of dawn.
+
+The lighting is natural and diffused, with the early morning light bathing the landscape in a delicate, ethereal glow. Shadows are long and soft, creating a sense of depth and texture in the rugged terrain. The overall style of the photograph is contemporary, with a crisp, lifelike rendering that highlights every detail, from the striations in the cliff face to the ripples on the water's surface.
+
+In the middle distance, a solitary lighthouse stands on the edge of one of the cliffs, its white and red structure providing a stark contrast against the earthy tones of the rock and the cool colors of the ocean. This element adds a focal point to the composition, reinforcing the vastness of the natural world in comparison to human-made structures.
+
+The photograph is devoid of any artificial elements, allowing the raw, untamed beauty of the landscape to dominate the scene. It captures a moment of serene stillness, where the immense Scale of nature is subtly highlighted by the modest human presence navigating the Lane along the cliffs.
+Seed: 2120227149
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Scale, Lane

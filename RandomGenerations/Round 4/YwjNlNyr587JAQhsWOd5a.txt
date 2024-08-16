@@ -1,0 +1,8 @@
+Prompt: An oil painting depicts a towering, ancient demon standing amidst the remnants of a once-great civilization. The demon’s skin is a textured mix of obsidian and crimson, with intricate, glowing runes etched into its body. Massive, jagged horns extend from its forehead, curving menacingly towards the sky. The background showcases crumbling stone buildings and shattered statues, remnants of the civilization's glory days now overtaken by dark, twisted vines and creeping moss.
+
+The scene is lit by an ominous, blood-red moon hanging low in the night sky, casting long, menacing shadows and bathing the entire landscape in a surreal, eerie glow. Flickering torches, held by ghostly, nearly-transparent figures of the civilization's former inhabitants, provide pockets of warm but feeble light. The style of the painting is painstakingly detailed, reminiscent of the Renaissance masters but with a dark, gothic twist.
+
+The ground is littered with broken relics, tarnished metal, and fragments of ancient texts, hinting at a time of lost knowledge and profound despair. In the distance, silhouette outlines of distant mountains frame the scene, adding depth and a sense of isolation to the once-thriving land now dominated by this infernal presence.
+Seed: 1118980672
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Demon, Civilization

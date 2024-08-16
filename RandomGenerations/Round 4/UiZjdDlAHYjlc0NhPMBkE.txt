@@ -1,0 +1,10 @@
+Prompt: A large, meticulously crafted oil painting on canvas, depicting a surreal cosmic scene. At the center of the composition is an ominous black hole, rendered in swirling tones of deep black, rich purples, and midnight blues. The black hole’s event horizon is intricately textured, with fine brushstrokes suggesting an intense gravitational pull that distorts light and space around it. Surrounding the black hole, the vastness of space is filled with ethereal, nebulous clouds in hues of iridescent greens, pinks, and blues, painted with a blend of realism and abstract fluidity. 
+
+Illuminated by the faint glow of distant stars and galaxies, the scene is lit with a soft, diffused light that highlights the contrasting darkness of the black hole against the shimmering backdrop. The background includes detailed star constellations and distant celestial bodies, executed in a combination of sharp and dreamy outlines to create depth and dimension. Tiny flecks of gold and silver leaf are applied sparingly to catch the light and add a luminescent quality to the stars.
+
+In the lower left foreground, an ancient, gnarled tree stretches its bare branches toward the black hole, its bark painted in painstaking detail with shades of brown and grey. The tree roots anchor into barren, cracked earth, symbolizing an earthly connection to the cosmic elements above. Shadows from the tree and cracks in the ground stretch out, subtly curving toward the black hole, subtly indicating its immense gravitational effect.
+
+The painting combines hyper-realistic attention to detail with surreal, dreamlike elements, creating a complex interplay between the known and the unknown, the tangible and the infinite.
+Seed: 3273345774
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Black hole, Understanding

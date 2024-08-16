@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting depicts a post-apocalyptic urban landscape bathed in an eerie twilight. The scene showcases the remnants of a once-bustling metropolis, now overgrown with nature reclaiming its territory. In the foreground, a lifelike android, styled with both sleek metallic elements and synthetic organic components, stands at the center. The android's eyes, glowing softly with a gentle blue hue, give an impression of sentient awareness as it examines a weathered, vintage photograph of the city in its prime, clutched delicately in its mechanical hand.
+
+The background features crumbling skyscrapers draped with ivy and moss, their glass windows shattered and edges softened by time. Utility poles and streetlights lean precariously, adorned with wildflowers and climbing vines. The ground is a rugged mix of cracked pavement and patches of untamed grass peppered with remnants of human life, such as broken bicycles, rusted cars, and faded billboards.
+
+The lighting is a dramatic interplay of shadows, with the last slivers of sunset casting long, amber beams through broken windows and gaping holes in the skyscrapers, illuminating the scene with a melancholic glow. Overhead, the sky transitions from the warm reds and oranges of dusk to the deep purples and blues of an encroaching night, dotted with early stars and a rising crescent moon.
+
+The painting's style is highly detailed and texturally rich, with meticulous attention given to the contrast between the cold, sleek surfaces of the android and the organic, chaotic elements of the natural and urban decay surrounding it. The realism is so profound that viewers might feel they could step into the scene and experience the quiet desolation firsthand.
+Seed: 3566613157
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Option, Android

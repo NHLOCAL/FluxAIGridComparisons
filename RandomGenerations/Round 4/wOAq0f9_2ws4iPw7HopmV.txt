@@ -1,0 +1,8 @@
+Prompt: A majestic oil painting capturing the colossal presence of a glacier at twilight. The scene is dominated by an immense glacier, its icy blue and white expanse sprawling across the canvas with intricate cracks and crevices. At the glacier’s base, jagged chunks of ice float in an ink-dark sea, hinting at the unforgiving cold. The glacier towers mightily against a backdrop of rugged, snow-capped mountains, their peaks bathed in the last golden rays of the setting sun.
+
+The sky above is a dramatic blend of deep indigo and streaks of fiery orange and pink, transitioning to the cold blue of impending night. Light from the sun’s last rays catches the glacier’s upper ridges, giving them an ethereal glow that contrasts starkly with the cold, shadowed blue of its lower reaches. The scene’s lighting is natural and dynamic, highlighting the glacier’s textures and the play of light and shadow on its surface.
+
+In the foreground, a few hardy alpine plants cling to life on the rocky shore, adding a touch of greenery to the otherwise icy palette. The artist's meticulous brushstrokes convey the weight and permanence of the glacier, while the rich, layered hues of the sky and water provide a vivid, immersive atmosphere. This oil painting, with its detailed textures and dramatic lighting, is museum or gallery-worthy, inviting viewers to marvel at the sheer might and beauty of nature's frozen titan.
+Seed: 2339692469
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Might, Glacier

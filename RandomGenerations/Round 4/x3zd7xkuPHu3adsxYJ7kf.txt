@@ -1,0 +1,12 @@
+Prompt: This image is an oil painting. The scene is set in a grand, decaying Gothic-style cathedral, with towering, intricately carved stone columns and pointed arches that reach toward a distant, shadowed ceiling. The lighting is dim, with shafts of eerie, diffused moonlight penetrating through cracked, stained glass windows, casting distorted, colorful patterns on the cold, stone floor.
+
+In the foreground, a robed figure stands rigidly at the center, framed by the architectural elements in perfect symmetry. The robe is a deep, somber purple, its heavy fabric folded in meticulous, straight lines. The figure’s head is slightly bowed, the face almost obscured by a hood, only the hint of pale, taut skin visible.
+
+Behind the figure, an altar is impeccably arranged with geometric precision, each candle lit and perfectly aligned, each shadow falling exactly as expected. Yet, amidst this rigid order, ominous dark shapes loom in the spaces between the columns, their presence only hinted at by subtle shifts in darkness, as though they are just beyond the edge of perception.
+
+In the background, the cathedral's apse is illuminated faintly, revealing further deatils in the Gothic architecture, but shrouded enough to suggest an endless, cavernous space beyond. The atmosphere is heavy, almost suffocating, and carries the weight of an ancient, unstated dread, juxtaposed against the almost obsessive structural harmony.
+
+The colors are muted, with dominance of ashen grays and twilight blues, highlighted by the stark purples and the faint blush of reds and greens from the stained glass. The brushstrokes are deliberate and precise, creating a lifelike texture to the stone, fabric, and wood, capturing minute details that draw the viewer into the silent, imposing calm of the scene.
+Seed: 485170181
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fear, Order

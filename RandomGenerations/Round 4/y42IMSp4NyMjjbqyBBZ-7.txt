@@ -1,0 +1,10 @@
+Prompt: A large, 24x36 inch oil painting on canvas capturing an intimate moment in a dimly lit, rustic, loft-style studio apartment. The room is visually rich with exposed brick walls, wooden beams, and large, industrial-style windows with black iron frames through which the faint glow of city lights filters in. A single vintage Edison bulb suspended by a thin cord in the center provides a warm, golden light that creates deep, dramatic shadows throughout the space. 
+
+In the foreground, a slender figure with slightly tousled, platinum blonde hair, styled asymmetrically, stands facing away, wrapped in a deep, forest-green velvet robe. Underneath the robe, a hint of high-contrast, black lace lingerie is visible, juxtaposing the softness of the velvet and the edginess of the lace. This subtle interplay creates a visual tension that draws viewers in. The person is captured just as they begin to turn their head slightly to the side, revealing a profile with high cheekbones and a defined jawline, a nose piercing adding a sharp glint to their otherwise soft, smooth skin.
+
+The background is detailed with eclectic elements: a black grand piano with sheet music scattered atop it, a large floor cushion with a bold, geometric pattern, and a wall adorned with a collection of black and white photographs and abstract paintings. A lush, oversized monstera plant is placed in the corner next to an open, overflowing bookcase filled with art books and curios, completing the scene with an effortlessly creative and lived-in feel.
+
+The painting uses a combination of thick and thin brushstrokes; the figure is rendered with smooth, precise lines while the background elements are expressed with more textured, impressionistic strokes, giving a sense of movement and depth. The overall palette is a mix of muted earth tones with occasional bursts of deep green and black, the colors blending harmoniously to create a sophisticated and alluring atmosphere.
+Seed: 393977833
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Alternative, Attraction

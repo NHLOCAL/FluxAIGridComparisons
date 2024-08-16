@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting capturing an ancient city bathed in the warm, golden light of the late afternoon sun. The foreground features a bustling market square with meticulously detailed vendors' stalls, showcasing a rich array of vibrant fruits, textiles, and crafts. The vendors, dressed in traditional garb, are rendered with such precision that their individual facial features and the textures of their clothing are distinctly visible. 
+
+In the background, grand, timeworn stone buildings with intricate carvings and statues rise majestically against a clear, azure sky. The light casts long, gentle shadows, accentuating the deep grooves and weathered surfaces of the architecture. 
+
+An ornate marble fountain adorned with classical sculptures is strategically placed in the center of the market square, with crystal-clear water sparkling in the sunlight as it cascades into the basin. 
+
+The painting's style is characterized by splendid attention to detail and a classical, almost Renaissance-like precision that imbues every element with a sense of life and presence. The overall composition leads the eye naturally through the scene, discovering new intricacies at every glance.
+Seed: 2947210053
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Console, Splendid

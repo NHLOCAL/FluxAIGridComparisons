@@ -1,0 +1,14 @@
+Prompt: Title: Cosmic Judgement
+
+Description: 
+
+In the foreground, a pristine marble statue of Lady Justice stands tall and resolute, her scales balanced evenly in one hand and sword held firmly in the other. Her blindfold is intricately detailed, emphasizing her impartiality. The surface of the scales glistens, hinting at precious metals. This statue sits on a raised ornate pedestal with ancient carvings and symbols embellishing its sides.
+
+The scene is illuminated by an ethereal, soft purple-blue light that originates from a swirling nebula in the background. The nebula, filled with stars and cosmic dust, spans the backdrop and adds depth and texture. Vibrant hues of magenta, indigo, and sapphire blend together seamlessly, creating a celestial tapestry that wraps around the figure of Lady Justice. 
+
+A contrasting silhouette of a barren, rocky landscape stretches out below the pedestal, fractured and uneven, hinting at the complex terrain that justice must navigate. Glowing veins pulsing with light snake through the ground, connecting the terrestrial plane to the celestial wonders above.
+
+This is a high-resolution photograph, captured with impeccable attention to detail. The lighting perfectly illuminates the statue, casting a magnificent glow that creates a contrast with the darker shadows of the rocky landscape. Each star in the nebula is distinct, contributing to the awe-inspiring beauty of the galactic scene. The image is a harmonious blend of reality and the fantastical, representative of the omnipresent nature of justice as it spans both earthly and cosmic realms.
+Seed: 3793086455
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Justice, Nebula

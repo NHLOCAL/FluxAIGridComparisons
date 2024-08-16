@@ -1,0 +1,4 @@
+Prompt: A striking photograph captures the cavernous interior of an abandoned aircraft hangar. Steel beams arch overhead, their industrial lines converging in an arresting geometric pattern. The space is vast, filled with layers of cold, echoing air, giving a palpable sense of its immense volume. Flickers of light pierce through broken windows high above, casting soft, diffused beams that play upon the dusty floor and illuminate the hanging cobwebs in the rafters. Shadows pool in the corners and against the dented walls, adding depth and a sense of mystery. Scattered across the concrete floor are relics of the hangar's past: rusted tools, fragmented machinery, and faded markings that hint at its former bustling activity. The composition balances elements of decay with meticulous structure, creating a harmonious interplay of light and shadow, texture and emptiness.
+Seed: 989314107
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Volume, Hangar

@@ -1,0 +1,12 @@
+Prompt: A hyper-realistic oil painting captures a moment of serene tranquility within an opulent lounge, bathed in the surreal light of a distant supernova. The scene is a luxurious room with deep burgundy walls adorned with intricate gold-leaf patterns. The rich hardwood floor gleams with a polished finish, reflecting the soft glow of an ornate chandelier hanging from the high ceiling. 
+
+The supernova’s radiant light enters the room through a large, arched window, casting an otherworldly luminescence that contrasts with the warm, ambient lighting within the lounge. This celestial light creates dramatic shadows and highlights, accentuating the plush velvet of the antique armchairs and the polished surfaces of a mahogany coffee table. 
+
+The background features a grand fireplace with a crackling fire, its flames flickering softly and adding a sense of warmth and comfort. Above the mantle hangs a large, gilded mirror that reflects both the supernova’s glow and the intimate setting of the lounge. 
+
+On the coffee table, a collection of leather-bound books and a crystal decanter with matching glasses are meticulously placed, suggesting quiet contemplation and refined taste. The detailed brushstrokes capture the textures and materials with remarkable precision, from the softness of the velvet to the metallic sheen of the chandelier.
+
+The overall composition melds the extraordinary astronomical event with the luxurious, timeless elegance of the lounge, creating a juxtaposition that commands attention and invites deeper contemplation.
+Seed: 501323945
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Supernova, Lounge

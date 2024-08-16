@@ -1,0 +1,6 @@
+Prompt: In a dimly lit room with soft, diffused lighting, the gentle glow of the setting sun filters through sheer white curtains, casting a warm, golden hue across the scene. The style is a high-resolution, gallery-worthy photograph that captures the essence of tranquility. In the foreground, a simple wooden table, worn yet polished, stands prominently. On the table, there is a single, delicate porcelain teacup filled with steaming herbal tea, wisps of steam curling upwards in a dance. Surrounding the teacup are a few scattered lavender sprigs and an open leather-bound book, its pages slightly yellowed with age, signaling frequent use.
+
+The background reveals a minimalist, tastefully decorated room; a single, elegant potted fern sits on a windowsill, its leaves gently swaying. The wooden floorboards reflect the golden light, creating a serene and cozy atmosphere. The walls are painted a muted, pastel shade, unadorned, except for a single, subtly textured canvas painting—a splash of abstract, earthy tones that echo the natural motifs present within the scene. The room exudes a sense of stillness, each element harmonizing with the others to create a unified motif of calm and timeless serenity.
+Seed: 4053876204
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Serenity, Motif

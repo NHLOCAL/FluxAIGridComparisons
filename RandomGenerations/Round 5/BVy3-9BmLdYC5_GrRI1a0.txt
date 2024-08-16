@@ -1,0 +1,6 @@
+Prompt: A hyper-realistic digital photograph captures an enigmatic night scene inside an abandoned, dilapidated theater. The focal point is a large, intricately detailed leather armchair positioned in the center of the stage, partially covered in a fine layer of dust. The armchair's rich, dark brown leather is weathered with visible age cracks, and the brass tacks along the edges reflect dim light. Behind it, the heavy theater curtains are torn, allowing fragments of moonlight to filter in, creating ghostly beams that highlight particles of dust in the air.
+
+Soft, ethereal lighting from hidden sources casts elongated shadows, enhancing the mysterious atmosphere. The brick walls of the theater are exposed, with peeling plaster revealing the passage of time, and faded, ornate wall sconces hinting at a once-glorious past. At the far end of the stage, vague, spectral silhouettes of old props and forgotten set pieces loom, blurred just enough to suggest faint phantoms lurking in the background. This digital photograph utilizes a meticulous composition and chiaroscuro lighting to imbue a sense of timelessness and otherworldly presence, making it a gallery-worthy piece of art.
+Seed: 2007103985
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Leather, Phantom

@@ -1,0 +1,10 @@
+Prompt: A large, meticulously detailed oil painting titled "Last Stand of Civilization." The foreground features a group of survivors standing atop a crumbling overpass that peers into the remnants of a once-bustling urban landscape. The adventurers are dressed in rugged, patched-up clothing equipped with a mix of primitive and high-tech gear, implying their resourcefulness and readiness. A rusted, skeletal structure of a skyscraper looms behind them, partially collapsed and overgrown with tenacious vines and foliage defying the bleak environment. 
+
+The ambiance is dominated by an eerie twilight, where the sun is setting in a hazy, burnt-orange sky streaked with ash and dark clouds. Shaft-like beams of weak sunlight penetrate the dusty air, cutting through with piercing clarity, casting long, dramatic shadows that emphasize the deteriorating world. Distant fires and smoke stacks punctuate the horizon, indicating ongoing destruction or the last vestiges of industrial activity.
+
+The style of the painting is hyper-realistic with meticulous attention to texture and detail—the cracked asphalt, the oxidized metal of abandoned vehicles, and the intricate play of light and shadow. The background exhibits a far-reaching, desolate cityscape with remnants of infrastructure being overtaken by nature—trees and shrubs growing through concrete cracks and birds circling above.
+
+The painting invokes a sense of imminent peril and tenuous hope through its precise, lifelike depiction of a world teetering on the brink, balanced by the determination and vigilance of the survivors, ready for whatever comes next.
+Seed: 1010196167
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Adventure, Apocalypse

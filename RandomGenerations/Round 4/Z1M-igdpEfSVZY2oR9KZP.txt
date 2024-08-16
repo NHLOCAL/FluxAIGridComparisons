@@ -1,0 +1,4 @@
+Prompt: A large, dramatic oil painting depicting a mythological scene of a Hydra's awakening in an ancient, mist-shrouded forest. The Hydra, with its multiple serpentine heads, is coiled around ancient, crumbling ruins, its scales gleaming in the low, ethereal light. Moonlight filters through the dense canopy, casting a soft, silvery glow across the scene, while shadows dance and flicker on the forest floor. The background features towering trees with twisted branches, and the remnants of a stone temple covered in moss and ivy. A stream of water flows from the temple, glistening under the moonlight, reflecting the eerie scene above. The style combines hyper-realistic details for the Hydra and ruins with a slightly impressionistic touch for the forest and lighting, blending the elements seamlessly into a captivating, otherworldly landscape.
+Seed: 686397785
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hydra, Awakening

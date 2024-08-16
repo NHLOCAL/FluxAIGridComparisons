@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting of a stormy night at the edge of a cliff, capturing the raw power of nature. The sky is a tumultuous blend of dark, swirling clouds tinged with streaks of lightning, illuminating the jagged rocks below in explosive flashes of light. The ocean roils with wild, towering waves that crash against the cliffside, sending up showers of spray that catch the intermittent lightning, creating a dazzling contrast.
+
+In the foreground, a solitary figure stands on the precipice, their silhouette sharply defined against the chaotic backdrop. The person is caught mid-action, with their arms outstretched and head thrown back as though screaming into the void, their mouth open wide and visible even from a distance. They wear a long, flowing coat that billows violently in the wind, adding a sense of dynamic energy to their stance.
+
+To the side of the painting, a twisted, gnarled tree stands on the brink of the cliff, its bare branches reaching out like skeletal fingers. Despite the storm, a single leaf clings to one of the branches, defying the overwhelming force surrounding it.
+
+The lighting is dramatic, with stark contrasts between the glowing flashes of lightning and the deep, foreboding shadows cast by the storm. The overall style of the painting is richly detailed and almost surreal, drawing the viewer into the raw intensity of the scene. The background is a vast, open sea under a chaotic sky, adding to the sense of endless possibility and impending turmoil.
+Seed: 513280258
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Possibility, Scream

@@ -1,0 +1,10 @@
+Prompt: Photograph depicting an old, rustic coffee shop located on a cobblestone street in a quaint European village at dusk. The exterior of the coffee shop is adorned with wrought-iron details and a wooden sign with faded golden lettering. Large windows reveal a cozy interior with wooden tables, vintage chairs, and a selection of pastries displayed on a marble counter. 
+
+The scene is bathed in soft, warm lighting from street lamps and the indoor lighting spilling out through the windows, creating a golden aura against the blueish hue of the twilight sky. The cobblestones reflect the glow, providing a shimmering effect that hints at a recent rain. 
+
+In the foreground, two elderly friends are captured, both impeccably dressed in vintage attire. One is holding a newspaper, the other a cup of freshly brewed coffee, creating an authentic snapshot of shared camaraderie. Their presence adds a lived-in, timeless quality to the scene, emphasizing life’s simple pleasures.
+
+The background features ivy-clad brick buildings with flower boxes on the windowsills, contributing to the charm and character of the setting. A bicycle leans casually against the coffee shop, adding a dynamic element and a sense of passage through time. This photograph, with its attention to detail and mastery of lighting, blends historical romanticism with present-day subtleties, making it a gallery-worthy piece.
+Seed: 4067737116
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Proficiency, Friend

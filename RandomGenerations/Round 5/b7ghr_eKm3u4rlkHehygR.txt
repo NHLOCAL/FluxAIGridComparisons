@@ -1,0 +1,10 @@
+Prompt: A mesmerizing gallery-worthy photograph captures the ethereal grandeur of a nebula-inspired architectural masterpiece. The structure, bathed in the captivating light of a simulated interstellar cloud, rises majestically against a background of deep, cosmic purples and blues, speckled with stars and celestial dust. 
+
+The building itself boasts sinuous, flowing lines and intricate detailing that mimics the gaseous formations of a nebula. With a facade made of reflective material, it catches and refracts the ambient lighting, giving off a shimmering effect as though it is part of the cosmic spectacle. Sharp, angular sections juxtapose smoothly curved surfaces, creating a harmonious blend of order and chaos that mirrors the natural beauty of space.
+
+Soft, diffused lighting emanates from concealed sources around the architecture, creating a halo effect that highlights the building's contours and casts gentle shadows, enhancing its depth and dimensionality. The ground is a sleek, glossy expanse that mirrors the nebula-like sky above, making it seem as if the structure is floating in the cosmos.
+
+In the background, distant futuristic buildings with similar architectural language can be seen through the vacuum of space, their lights twinkling faintly. The combination of extraordinary design, luminescence, and cosmic scenery renders this photograph a sublime fusion of human ingenuity and the infinite beauty of the universe.
+Seed: 296950718
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nebula, Architecture

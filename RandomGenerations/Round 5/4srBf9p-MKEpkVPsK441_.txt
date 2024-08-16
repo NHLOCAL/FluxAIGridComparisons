@@ -1,0 +1,4 @@
+Prompt: A photograph captures a bustling urban scene at the intersection of day and night in a narrow alleyway. The main subject is a weathered wooden bar door with a flickering neon sign that reads "Open." The brick walls of the alley are tagged with faded and fresh graffiti, telling stories of rebellion and neglect. The lighting is a stark contrast of harsh, artificial streetlights casting long, dramatic shadows, and the warm, inviting glow emanating from the bar's windows, hinting at a cozy, crowded interior. The wet pavement reflects these lights, adding a dynamic texture to the setting. In the background, towering, dilapidated buildings loom, their broken windows and chipped paint indicating years of abandonment. This scene blends gritty realism with a noir aesthetic, evoking the struggles and disparities of urban life.
+Seed: 3202282931
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Injustice, Bar

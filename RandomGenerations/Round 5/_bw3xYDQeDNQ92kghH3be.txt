@@ -1,0 +1,4 @@
+Prompt: A gallery-worthy photograph titled "Faith in Serenity": Capture an elderly woman dressed in traditional clothing, gracefully lit by the soft glow of early morning sunlight streaming through an ornate, stained glass window. She is seated on an intricately carved wooden bench inside an ancient, stone-walled chapel, surrounded by centuries-old religious relics. The background features the intricate detailing of the chapel walls, with sacred symbols and aged frescoes barely visible in the dim lighting. The ambient light gently illuminates the textures of her weathered skin and the delicate embroidery of her garments, casting subtle, dignified shadows. The style evokes a serene stillness reminiscent of classical realism, seamlessly blending the timeless essence of belief with the enduring beauty of masterful craftsmanship.
+Seed: 2858880967
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Belief, Style

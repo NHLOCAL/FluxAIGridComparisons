@@ -1,0 +1,12 @@
+Prompt: A grand, opulent room set within a neoclassical mansion captures attention in the form of a large oil painting. The scene centers on an intricately carved, gilded mirror that reflects the resplendent decadence of the room. Soft, golden light pours in from tall, arched windows dressed in heavy, crimson velvet drapes, casting gentle, elongated shadows that hint at the passing of late afternoon. 
+
+In the foreground, an elegantly dressed woman in a lavish, deep red gown stands with her back partially to the viewer, gazing into the mirror. The rich fabric of her dress cascades down in precise, flowing lines, the intricate patterns glinting subtly in the ambient light. Her hair, intricately styled, is adorned with sparkling jewels, echoing the grandeur of the room. 
+
+Around her, the marble floor is polished to a sheen, reflecting hints of the luxurious surroundings. Antique furniture, with its polished wood and plush upholstery, adds to the sense of affluence, while decadent tapestries depicting classical mythology drape the walls. 
+
+The background subtly blurs in contrast to the high detail of the foreground, with distant, ornate columns and chandeliers barely coming into focus, enhancing the depth of the scene. Above, the ceiling is adorned with delicate frescoes in soft pastels, depicting scenes of classical mythology and excess. Crystal chandeliers hang in intervals, their myriad facets catching the golden light, scattering it across the room in a dazzling display. 
+
+This oil painting captures a moment frozen in time, showcasing an almost tangible scene of luxury and grandeur, akin to a masterful blend of J.M.W. Turner’s attention to light and Michelangelo’s intricate detail.
+Seed: 976465039
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Capital, Lust

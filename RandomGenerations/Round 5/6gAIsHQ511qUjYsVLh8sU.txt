@@ -1,0 +1,10 @@
+Prompt: A captivating photograph captures the sheer power and pristine beauty of a secluded forest waterfall during early morning. The waterfall, centered in the frame, cascades down a rugged cliffside, sculpting the rocks into smooth, curved corridors over time. Each drop of water sparkles like a diamond as it plummets into the crystal-clear pool below. The lighting is natural, with the first rays of dawn piercing through the dense canopy overhead, casting dappled patterns of light and shadow on the waterfall and surrounding foliage. The mist rising from the pool catches the light, creating a subtle halo effect around the waterfall.
+
+In the foreground, partially submerged smooth stones and lush, green ferns frame the pool, drawing the eye toward the cascading water. To add a contemporary touch, a signal, in the form of a minimalist, metallic communication tower, rises from the distant background, partially hidden by the thick trees but unmistakably modern. This juxtaposition emphasizes the intersection of untouched nature and human technological advancement.
+
+The background showcases towering trees with thick trunks and an undergrowth of vibrant flora, creating a dense backdrop that enhances the focus on the waterfall. Vines hang gracefully from branches, and fallen leaves add rich texture to the forest floor, visible in patches where the light breaks through.
+
+The photograph is composed with professional, high-definition clarity, enabling viewers to see every droplet of water and every leaf in sharp detail. The overall style combines realism with a hint of surrealism, achieved through the play of natural light and mist, creating an otherworldly yet genuine scene.
+Seed: 1237625639
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Waterfall, Signal

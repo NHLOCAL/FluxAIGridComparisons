@@ -1,0 +1,4 @@
+Prompt: A photograph capturing an exquisite ballroom from the Gilded Age, adorned with intricate architectural details. The scene is lit by the golden glow of a cascading crystal chandelier, which casts delicate patterns across polished mahogany floors. Rich tapestries and velvet drapes are tastefully arranged, creating a lush backdrop. In the foreground, a grand piano with an ebony finish sits, poised under the twinkling lights. Near the piano, a vintage lace glove rests on a velvet-covered bench, hinting at a mysterious presence. The chiaroscuro lighting creates deep contrasts and subtle gradients of light and shadow, emphasizing the elegant curves of the decor and the polished surfaces. The photograph is characterized by a timeless style, capturing the essence of sophistication and an underlying sense of mystery.
+Seed: 725713365
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elegant, Enigma

@@ -1,0 +1,8 @@
+Prompt: Create an oil painting of a grand, cavernous space resembling a futuristic observatory. The scene is slightly darkened, illuminated by the ethereal, ghostly light emanating from a colossal, swirling black hole visible through a large, transparent dome ceiling. Scientists in white lab coats, positioned in various parts of the room, are depicted engaged in intense observation, each holding intricate devices resembling a blend of modern technology and steampunk apparatus. 
+
+To emphasize the concept of hearing, incorporate subtle details of advanced sound equipment—parabolic microphones, oscilloscopes displaying sound waves, and speakers emitting soft, visible sound waves. The figures are painted with meticulous realism, catching the faint reflections of the mysterious glow from the black hole. The furniture and walls have a sleek, metallic sheen, accented with cool blues and greys, blending modernism with a touch of retro-futurism.
+
+Lighting is primarily sourced from the mesmerizing black hole above, casting long, distorted shadows and creating a sense of depth and intrigue. The background comprises tall bookshelves filled with scientific manuals and star charts, adding layers of complexity and scholarly ambiance. This oil painting melds hyper-realistic detail and fantastical elements, making it a thought-provoking piece worthy of a prominent place in a museum or gallery.
+Seed: 3710592440
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hearing, Black hole

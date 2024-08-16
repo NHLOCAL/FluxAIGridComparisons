@@ -1,0 +1,12 @@
+Prompt: A gallery-worthy photograph captures an arid, desert-like district at the golden hour, just before dusk. The scene is framed with a wide-angle lens to encapsulate the vastness of the sandy terrain, stretching out endlessly with subtle, rolling dunes. The dunes are punctuated by sparse, hardy vegetation—spindly shrubs and small clusters of rough, sun-bleached grass.
+
+In the foreground, an old, weather-beaten signpost stands crooked, half-buried in the sand, its once-vibrant colors now faded almost entirely to shades of beige and rust. The sign bears witness to the passage of time, suggesting a once-inhabited settlement now long forgotten.
+
+Midway in the frame, a series of derelict, low-rise buildings form a broken line, their angular shadows cast dramatically against the dunes by the descending sun. These structures, constructed of pale adobe and marked with peeling paint and crumbling brickwork, tell a silent story of abandonment and resilience against the harsh environment.
+
+The background features a setting sun, painting the sky in a symphony of warm hues—deep oranges, fiery reds, and hints of soft pink that gradually fade into the purples and blues of the impending night. The lighting is soft and golden, illuminating the scene with a forgiving glow that accentuates the textures of the sand and the worn surfaces of the buildings.
+
+The photograph's style is stark yet immersive, drawing influence from both documentary and fine art photography traditions. The absence of human life in the image allows the viewer to focus on the intricate interplay between the natural and man-made elements, presenting a captured moment of serene desolation in a district sculpted by both time and nature.
+Seed: 3189782323
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: District, Sand

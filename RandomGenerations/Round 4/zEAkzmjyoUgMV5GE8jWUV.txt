@@ -1,0 +1,14 @@
+Prompt: Create a hyper-realistic oil painting titled "Guardians of the Eternal Dojo." This artwork depicts a grand dojo perched within a fortified citadel. The dojo, illuminated by an ethereal golden light as though the setting sun beams through a break in the clouds, stands at the highest point of the citadel, radiating an aura of ancient wisdom and mastery. 
+
+The dojo’s architecture is traditional, with a curved, sloping roof adorned with carefully etched dragons and phoenixes. The wooden panels and paper doors reflect a polished, dark mahogany hue, showing signs of meticulous care and age. The building appears calm and resolute, like a sentinel overlooking the sprawling citadel below.
+
+The citadel, sprawling outwards from the central dojo, has towering stone walls covered with creeping ivy and ancient runes. Beneath the walls, an array of smaller buildings and courtyards, each illuminated by warm lanterns, appear as a labyrinthine network leading up to the dojo, suggesting a thriving community dedicated to martial training and spiritual growth.
+
+The foreground is dominated by two figures in traditional martial arts attire, positioned in a dynamic sparring pose, their precise movements captured mid-action, the muscles taut and expressions focused. Their clothing, a deep but slightly muted blue and white, reflect the light, showing subtle folds and textures that suggest the quality of the fabric.
+
+The background features a sky gradually transitioning from a stormy gray to a serene twilight, with hints of purple and blue, suggesting the end of a passing storm. The clouds part slightly, allowing the soft twilight to cascade around the dojo and citadel, casting long shadows and giving a sense of mystique.
+
+The level of detail in this oil painting transcends mere depiction, wherein each element—from the weathered stone of the citadel walls to the fine grain of the wooden dojo structure—can be seen and felt. The overall composition portrays a blend of strength and tranquility, with the citadel embodying steadfast protection and the dojo representing a haven of mastery and peace.
+Seed: 3074024404
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dojo, Citadel

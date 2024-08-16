@@ -1,0 +1,8 @@
+Prompt: A photograph captures a solitary, weathered lighthouse perched on a rugged cliff, surrounded by the swirling mist of the early morning. The scene is shrouded in a delicate fog, partially obscuring the lighthouse and the jagged rocks below, creating an air of mystery. The sky above is painted in muted grays and soft blues, with the first light of dawn just beginning to break through, casting a gentle, diffused glow across the scene. The lighting is subdued and natural, with long shadows stretching across the landscape, adding depth and texture.
+
+The style of the photograph is minimalist, focusing on the stark contrasts between the rough textures of the rocky cliff, the smooth surface of the lighthouse, and the ethereal quality of the mist. The lighthouse itself is an old structure, its paint peeling and its windows dark, suggesting years of enduring the harsh coastal elements. In the background, the vast expanse of the ocean stretches out to the horizon, where it blends seamlessly with the misty sky, creating a sense of infinite space.
+
+A recurring motif of seagulls flying in and out of the frame adds a dynamic element to the otherwise still scene. The birds are captured mid-flight, their wings blurred by motion, contrasting with the static, timeless feel of the lighthouse and the cliff. The interplay between the solid forms and the fleeting birds underscores the themes of transience and permanence. This photograph evokes a sense of the unknown and the passage of time through its meticulous attention to detail, composition, and natural lighting.
+Seed: 798328500
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mystery, Motif

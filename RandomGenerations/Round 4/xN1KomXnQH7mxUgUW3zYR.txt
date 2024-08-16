@@ -1,0 +1,8 @@
+Prompt: A museum-worthy oil painting depicting an elderly woman sitting in a worn, yet regal armchair in a cozy, sunlit room. The woman is meticulously detailed, her face weathered with fine lines and creases, her gray hair neatly tied back in a bun. She wears a dark green dress with delicate lace trim at the collar and cuffs, reflecting light in subtle ways. Her hands rest calmly on her lap, one hand slightly over the other, showcasing delicate, pale-skinned fingers worn from years of diligent work.
+
+The room around her is filled with an air of cherished history. A wooden bookshelf behind her is filled with well-worn books, some stacked horizontally due to lack of space. A small round table sits beside her, supporting an ornate teapot and a single, well-used teacup. On the wall to the right, a window allows soft, golden afternoon light to pour in, casting gentle shadows and illuminating floating dust particles that add to the room's tangible sense of time. A pastel floral wallpaper, slightly faded, covers the walls, giving a sense of aged beauty.
+
+The painting’s style captures the realism of Dutch Golden Age portraiture, with painstaking detail in textures and light. The brushstrokes are masterful, adding depth and dimension to the elements in the scene. The interplay of light and shadow is rich and complex, enhancing the realism and drawing the viewer’s eye to the subtle details that tell a quiet story of a life lived with dignity and perseverance.
+Seed: 2485951213
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Intuition, Care

@@ -1,0 +1,12 @@
+Prompt: An oil painting depicts an eerily quiet forest clearing at twilight, bathed in the cold silvery light of a full moon. The sky above is a gradient of deep indigo blending into black, dotted with distant stars. Tall, skeletal trees, devoid of leaves, stand guard around the perimeter of the clearing, their twisted branches reaching out like ghostly fingers. The forest floor is blanketed in thick, tangled underbrush and scattered with fallen leaves, casting elongated shadows that appear almost alive in the moonlight. 
+
+In the center of the clearing stand two identical figures, ethereal and otherworldly, serene yet unsettling in their perfect symmetry. They are dressed in flowing, ancient robes of an almost luminescent fabric, subtly glowing in the moonlight. Their faces are partially obscured by the deep hoods of their cloaks, but their eyes shine with an intense, otherworldly light that pierces through the shadows. 
+
+The figures stand close, almost touching, with their hands gently extended towards each other but not quite meeting, as if an invisible barrier holds them apart. Around their feet, the ground appears charred and burnt, contrasting starkly with the rest of the forest floor.
+
+The background features dense, impenetrable woods enveloped in mist, making the scene feel both infinite and claustrophobic. The mist curls and swirls softly, adding a sense of movement to the otherwise still tableau. Small, almost imperceptible details—glowing fungi, hidden woodland creatures watching from the darkness, and faint trails of smoke rising from the charred ground—add layers of depth and mystery to the scene.
+
+The meticulous brushstrokes create a hyper-realistic texture, with the artist using a muted but striking palette to capture both the delicate luminescence of the figures and the cold, foreboding atmosphere of the forest. The interplay of light and shadow is masterfully rendered, emphasizing the unsettling beauty and eerie stillness of this haunted twilight scene.
+Seed: 1945937805
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creepy, Twin flame

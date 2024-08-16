@@ -1,0 +1,4 @@
+Prompt: A photograph captures a solitary wooden rowboat gently swaying on a pristine lake at dawn. The scene is bathed in the soft, early morning light, creating a delicate interplay of shadow and illumination. The water is like a mirror, reflecting a hazy sky awash in pastel hues of pink, lavender, and soft orange. The trees in the background are silhouetted against the rising sun, their forms indistinct yet elegant. The boat itself is weathered, its paint peeling but its structure robust, resting quietly as if in contemplation. Small ripples emanate from the boat, disturbing the otherwise glassy surface of the water, creating a subtle, rhythmic pattern. The photograph utilizes a minimalist style, with a focus on serene, natural beauty and simple, evocative elements. The overall atmosphere speaks to quiet reflection and the gentle whisper of the morning’s first stirrings.
+Seed: 2457311698
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Thought, Murmur

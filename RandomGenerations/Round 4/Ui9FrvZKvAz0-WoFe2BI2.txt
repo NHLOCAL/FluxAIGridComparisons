@@ -1,0 +1,4 @@
+Prompt: An oil painting of a serene, elderly woman with wise, deep-set eyes gazing into the distance, seated on a weathered, wooden bench in an ancient, overgrown garden. The soft, diffused sunlight filters through a thick canopy of leaves above, casting dappled shadows across her face and the richly textured ground below. The style is hyper-realistic with meticulous attention to detail, capturing every wrinkle and strand of silver hair. The background is a tapestry of lush, vibrant foliage and cascading ivy, with hints of a crumbling stone wall peeking through, suggesting a timeless, secluded retreat. This hyper-realism combined with the tranquility of the scene creates an image that is both captivating and profound, worthy of being showcased in a museum or gallery.
+Seed: 1387504534
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Attractive, Seer

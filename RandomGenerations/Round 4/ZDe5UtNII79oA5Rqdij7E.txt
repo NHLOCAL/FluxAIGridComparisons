@@ -1,0 +1,4 @@
+Prompt: A meticulously detailed oil painting capturing a stunning urban shrine at dusk. The scene centers on a grandiose shrine adorned with intricate carvings and gilded embellishments, standing tall amidst a bustling modern cityscape. The shrine's ancient architecture contrasts with the gleaming skyscrapers in the background, which are partially illuminated by the golden light of the setting sun. Street lamps begin to flicker on, casting a warm glow on the cobblestone streets that surround the shrine. Pedestrians in contemporary attire walk alongside traditional street vendors whose colorful stalls add vibrant splashes to the scene. The sky above is a gradient of deepening blues and purples, dotted with the first stars of the evening. The overall lighting emphasizes the juxtaposition of the ancient and the modern, creating a harmonious yet striking visual narrative.
+Seed: 1189565557
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shrine, City

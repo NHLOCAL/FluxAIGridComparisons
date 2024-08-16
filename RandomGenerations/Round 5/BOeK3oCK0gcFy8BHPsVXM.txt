@@ -1,0 +1,10 @@
+Prompt: In the center of the image, standing solemnly amidst a carefully tended garden, a grand mausoleum crafted from white marble exudes a quiet elegance. Its tall arched entrance, flanked by intricate Corinthian columns, frames a shadowy interior that invites ponderous curiosity. The mausoleum's surface, polished to a fine sheen, reflects the soft diffused light of the overcast sky above, muted and even, creating a subtle play of light and shadow across its surface. The style of the scene is photographic realism, capturing every detail with crisp precision.
+
+Surrounding the mausoleum, a carefully manicured lawn of lush, deep green grass, dotted with meticulously placed white flowers, spreads outward in a perfect circle, underscoring the symmetrical design of the garden. Pathways leading to the mausoleum are paved with weathered cobblestones, their jagged edges softened by the gentle encroachment of moss and small plants. In the background, tall, ancient trees with thick, gnarled branches rise toward the sky, their leaves a dense canopy that filters the light, casting dappled shadows on the ground.
+
+The overall palette is serene and soft, dominated by greens, whites, and the natural grays of stone and bark. The sky, painted with uniform clouds, provides a neutral backdrop that ensures the mausoleum remains the focal point of the scene. Occasional beams of sunlight break through the clouds, highlighting specific elements of the garden with a gentle, spotlight effect, drawing attention to the fine details of the marble carvings and the vibrant flora.
+
+This image is a high-resolution photograph. The composition is meticulously framed to capture the balance between nature and architecture, inviting viewers to ponder the quiet, eternal beauty of the setting.
+Seed: 1679202227
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mausoleum, Thought

@@ -1,0 +1,10 @@
+Prompt: A large, intricately designed cathedral fills the frame, its towering spires reaching toward the sky and casting dramatic, elongated shadows onto the cobblestone courtyard below. The cathedral's stained glass windows, meticulously detailed with scenes and symbols, capture the late afternoon sun in such a way that they create colorful, fragmented patterns on the ground.
+
+In stark contrast to the imposing structure, a small, wooden, weather-worn bench sits isolated in the courtyard's corner, partially illuminated by the same golden light that bathes the cathedral. The bench’s surface is rough, its paint chipped and peeling, giving it an almost neglected appearance.
+
+On one end of the bench, an ancient, leather-bound book lies open, pages fluttering gently in the breeze. The book is out of place, as though forgotten or abandoned, its presence on the decaying bench against the grandeur of the cathedral evokes a complex tension.
+
+The photograph, shot with a high-resolution DSLR camera, uses a shallow depth of field to blur the background, drawing the viewer's eye to the contrast between the detailed, ornate architecture and the humble bench and book. The lighting is soft yet directional, casting half of the scene in shadow while the rest is bathed in a warm glow, giving the image a timeless, almost ethereal quality.
+Seed: 2306267308
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Belief, Atheism

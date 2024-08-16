@@ -1,0 +1,4 @@
+Prompt: A stunning hyperrealistic oil painting features a bustling Parisian street market. The canvas captures the early morning hustle as sunlight breaks through the dense cobblestone alleyways, casting long, warm shadows. Stalls overflow with vibrant fruits, fresh bread, and flowers, drawing the eye with their riot of colors. The delicate brush strokes highlight the fine textures of wicker baskets, the soft petals of roses, and the rough edges of baguettes. Light glistens off dewdrops on the produce, enhancing the realism. In the background, iconic Parisian architecture, complete with wrought-iron balconies and clay roof tiles, frames the lively scene. Vintage street lamps and an ornate sign for a boulangerie add a historical touch, while vendors and patrons engaged in animated exchanges fill the foreground, grounding the composition in everyday life.
+Seed: 1668531723
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Excitement, Favor

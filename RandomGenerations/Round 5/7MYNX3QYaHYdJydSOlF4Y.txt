@@ -1,0 +1,4 @@
+Prompt: Imagine a black-and-white photograph capturing an endless marketplace stretching into the horizon. The scene is set under a vast tin roof, with slivers of sunlight piercing through small gaps, casting intricate patterns of light and shadow across stalls laden with a variety of goods – colorful vegetables, rustic pottery, and vintage antiques. The perspective creates a sense of infinity, as the stalls appear to continue endlessly, gradually fading into a soft blur in the distance. The lighting is natural yet stark, emphasizing the textures and details of the market's worn, wooden counters and the bustling movement of shoppers and vendors. The background consists of semi-opaque glass windows, slightly fogged, with abstract silhouettes of distant skyscrapers barely visible through them, hinting at the market's location within a sprawling urban environment.
+Seed: 131347427
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Market, Infinity

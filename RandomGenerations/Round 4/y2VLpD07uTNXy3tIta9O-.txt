@@ -1,0 +1,10 @@
+Prompt: A celestial oil painting captures the last instant of a massive, ancient photon just as it is swallowed by a swirling, cosmic wormhole. The wormhole in the center of the canvas is a chaotic vortex, painted in deep, swirling hues of indigo, violet, and black, giving the impression of an endless, unfathomable depth. The edges of the wormhole dissolve into the surrounding space with wisps of iridescent light, almost like solar flares, highlighting the immense gravitational pull. 
+
+Radiating from the wormhole, the surrounding space is a hazy, cosmic fog, made up of thousands of minute, shimmering stars painted in delicate specks of silver and gold. The background is a kaleidoscope of blurred galaxies in distant reds, blues, and purples, evoking a sense of boundless, infinite expanse. 
+
+Illuminating the scene is the giant photon, caught mid-destruction, its form stretched and twisted as it's drawn into the abyss. The photon itself is depicted as a brilliant, almost blinding, white light, with splinters of luminescent colors—rainbow-like shards— radiating from its core. The lighting in the painting is dramatic, spotlighting the photon and casting surreal, elongated shadows across the juxtaposed galaxies, emphasizing the photon’s final defiant moments against the consuming dark. 
+
+The overall style combines hyper-realism with abstract elements, invoking a sense of both the tangible and the otherworldly, making it an evocative piece worthy of both a museum's grand hall and the contemplative space of an art gallery.
+Seed: 1080622366
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wormhole, Photon

@@ -1,0 +1,10 @@
+Prompt: An opulent, high-ceilinged gallery room adorned with intricate gold moldings and decorated with large, floor-length arched windows, draped with rich velvet curtains in shades of deep crimson. The afternoon sun streams through the windows, casting long, dramatic shadows across the polished marble floor. This golden light illuminates a central piece that sits regally on an ornate easel: a grand-scale oil painting.
+
+The oil painting itself captures an ethereal scene of a courtroom, designed in a neoclassical style, with towering columns and intricate frescoes on the ceiling. The figures within the painting are depicted with lifelike detail: a stern, robed judge sitting high on a marble dais, surrounded by a semicircle of stained wooden benches filled with a diverse spectrum of people in period attire, who seem to represent different epochs and social strata, creating a timeless tableau.
+
+The lighting within the painting is a masterclass in chiaroscuro, with sharp contrasts between light and dark. The center of the courtroom is bathed in a celestial beam of light that pours in through a high-set stained glass window, casting a spectrum of colors onto the proceedings below. This light halo prominently highlights a standing figure, whose upraised hand holds a set of gilded scales, perfectly balanced. Their expression is meticulously crafted to reflect unwavering resolve and fairness.
+
+The background of the painting features a mural that blends into the architectural elements of the courtroom, depicting the goddess of justice, blindfolded and holding a sword, her powerful figure faded just enough to become one with the stone walls behind her. The ambiance in the gallery is almost reverent, with hushed whispers from onlookers adding a subtle layer of texture to the scene. The careful placement of soft uplighting under the painting and spotlighting from above accentuates its details, making it the focal point in a room filled with artistic treasures.
+Seed: 1114947662
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spectrum, Justice

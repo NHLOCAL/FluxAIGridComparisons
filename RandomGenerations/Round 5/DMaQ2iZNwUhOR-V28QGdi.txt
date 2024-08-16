@@ -1,0 +1,10 @@
+Prompt: A gallery-worthy photograph that captures the essence of the human form and draws influences from classical art. The scene is set in a spacious, dimly lit room with high ceilings and a single large window that allows a soft, diffused natural light to filter across the scene. The subject is a nude figure, gracefully posed on an ornate, vintage chaise lounge placed in the center of the room. The figure's skin tones vary from alabaster to honey, with the light creating gentle yet distinct highlights and shadows that accentuate the natural curves and musculature.
+
+The background is minimalist, with aged, cream-colored walls adorned with subtle, faded patterns, hinting at a bygone era. An old, baroque-style mirror with a tarnished gold frame leans against one wall, reflecting parts of the scene back into the composition, adding depth and intrigue. A richly textured Persian rug in muted earth tones lies beneath the chaise lounge, its intricate patterns providing a contrast to the simplicity of the walls.
+
+The lighting is natural and soft, casting gentle shadows that add a sense of depth and dimension to the contours of the figure. The style is a blend of realism and classical influences, with careful attention to detail and a harmonious balance between light and dark. Every element, from the texture of the chaise lounge's fabric to the faint lines in the figure's skin, is rendered with exquisite precision.
+
+This photograph captures the timeless beauty of the human form, meticulously composed to draw the viewer's eye to the interplay of light, shadow, and texture. It pays homage to the influences of classical art, while utilizing the unique qualities of modern photographic techniques to create a piece that is both contemporary and eternally classic.
+Seed: 3360110550
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Nude, Influence

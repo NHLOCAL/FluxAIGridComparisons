@@ -1,0 +1,12 @@
+Prompt: An oil painting titled "The Duel at Dawn," depicting two noblemen in mid-18th century attire on a misty, early morning battlefield. The scene is centered around the two figures who stand 10 paces apart, each holding a flintlock pistol. The man on the right has his pistol raised, arm extended with precise formality, while the other, on the left, appears ready to fire, his jacket partially open, revealing his white ruffled shirt.
+
+The background reveals rolling hills shrouded in creeping dawn mist, with the faint silhouette of a grand manor house in the far distance, suggesting a location of prestige and legacy. A thin line of trees, barely distinguishable through the haze, encloses the duels' sacred ground. 
+
+The lighting is ethereal, with the first light of day barely breaking through the overcast sky, casting long, diffused shadows. An almost imperceptible glow illuminates the subjects from one side, highlighting the tension in their postures and the fine details of their period-specific costumes, including gilt buttons, velvet, and lace.
+
+A cluster of onlookers in muted colors stands off to the side, blending into the background, their faces intent, creating a sense of grave attention and respect for the ritual of honor unfolding before them. At the edge of the canvas, a second stands with a silk scarf draped over one arm, acting as the silent arbitrator of this deadly contest.
+
+The style of the painting reflects the meticulous attention to detail found in classical realism, with an airbrushed smoothness to the textures and an almost photographic accuracy in the depiction of the human form and the ornately detailed costumes. The overall tone is one of solemn tradition and the heavy weight of historical protocol, captured through the soft, almost ghostly interplay of light and shadow.
+Seed: 2297260273
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Honor, Attraction

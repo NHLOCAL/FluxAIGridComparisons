@@ -1,0 +1,6 @@
+Prompt: A breathtaking photograph capturing the moment a supernova explodes in the vastness of space. The scene is set with the supernova at the center, a radiant explosion of light and color that bursts outward in a magnificent display of blues, purples, and whites, tinged with hints of gold. The lighting is intensely bright at the core, gradually transitioning to softer hues as it extends to the darker edges of the frame. The style is ultra-realistic, emphasizing the sheer scale and grandeur of the cosmic event with crisp, high-definition clarity. 
+
+Surrounding the supernova is a backdrop of the infinite universe, dotted with countless stars that vary in brightness and size, creating a sense of depth and immensity. Nebulae and galactic formations can be seen faintly in the distance, adding layers to the composition. The photograph conveys the raw beauty and violent energy of this celestial phenomenon, capturing a moment of cosmic transformation with immense detail and precision. This gallery-worthy image epitomizes the latest trends in astrophotography, blending scientific curiosity with artistic mastery.
+Seed: 1939920568
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Trend, Supernova

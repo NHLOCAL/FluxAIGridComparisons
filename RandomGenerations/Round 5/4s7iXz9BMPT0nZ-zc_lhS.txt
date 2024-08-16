@@ -1,0 +1,8 @@
+Prompt: A photograph capturing a serene riverbank during the golden hour just before sunset. The soft, warm light bathes the entire scene in hues of amber and gold, casting extended shadows that emphasize the textures of the landscape. The river meanders gently through the frame, its surface reflecting the radiant, low-angle sunlight creating a glittering pathway across the water. The riverbank is lined with tall, whispering grasses whose tips are kissed by the sunlight, and clusters of wildflowers add splashes of subtle color – pale purples, soft pinks, and delicate yellows.
+
+In the background, ancient willow trees with their trailing branches lightly touch the river’s edge, creating natural archways that give the scene depth and a sense of timelessness. The opposite bank rises into a textured landscape of rolling hills that fade softly into the distance under a sky transitioning from blue to a gentle twilight's purple and orange gradient. Wisps of cloud are painted across the sky, absorbing the light and adding a soft, dreamy quality to the horizon.
+
+The photograph is taken with a high-definition camera and presented in a large format to capture every minute detail, from the ripples in the water to the veins in the leaves. The overall style rivals that of a masterful oil painting with its rich depth, color, and texture, yet retains the crisp realism exclusive to the photographic medium. No signs of modern life are visible, creating a timeless and contemplative atmosphere that engages viewers to pause and immerse themselves in nature’s tranquil beauty.
+Seed: 3835284024
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Riverbank, Soul

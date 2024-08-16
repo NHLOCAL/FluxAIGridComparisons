@@ -1,0 +1,10 @@
+Prompt: A high-resolution photograph captures a hauntingly beautiful scene deep within an ancient, dense forest. The sight is ethereal, with towering, gnarled trees whose intertwining branches form a natural canopy that allows only specks of light to pierce through. The ground is covered in a thick blanket of emerald moss, dotted with clusters of luminescent mushrooms. At the center stands an enigmatic witch, dressed in flowing, tattered robes of deep indigo that blend seamlessly into the shadows. 
+
+The lighting is dim and mysterious, predominantly natural twilight seeping through the overhead leaves, casting dappled patterns of light and shadow. A soft, ghostly fog weaves between the trees, adding depth and layers to the composition. The witch's face is partially obscured by a hood, but the sharp glint of her eyes catches the light, hinting at an ancient wisdom. 
+
+The style is reminiscent of a chiaroscuro painting, with dramatic contrasts and an emphasis on the interplay between light and dark, but executed with the crisp clarity of a photograph. In the background, the ancient forest stretches indefinitely, with the faint silhouette of a ruined stone altar barely visible, suggesting a history long forgotten. 
+
+Every element in the scene is meticulously detailed: the texture of the witch's gnarled staff, the intricate patterns on her robe, the subtle movement of leaves in the gentle breeze. The photograph captures both the mystique of the witch and the timeless, almost otherworldly nature of the forest, inviting viewers to lose themselves in its depths.
+Seed: 2216428542
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sight, Witch

@@ -1,0 +1,10 @@
+Prompt: A breathtaking, gallery-worthy photograph of a lone conjurer standing on the shore of a tranquil, moonlit lake. The conjurer is dressed in flowing, dark robes adorned with subtle, glittering patterns reminiscent of ancient runes. Held high in one hand is a simple, wooden staff with a crystal orb at its tip, capturing and refracting the moonlight into dazzling patterns that dance across the calm water’s surface.
+
+The conjurer's silhouette is sharply contrasted against the luminous full moon, which hangs low in a clear, star-studded sky, casting a silvery glow over the entire scene. The light from the moon bathes everything in a serene, ethereal light, making the conjurer appear almost otherworldly. Subtle highlights from the moon and scattered reflections from the orb create a gentle interplay of light and shadow on the water, enhancing the depth and texture of the scene.
+
+The background features a dense, dark forest that frames the lake, with ancient, towering trees whose branches reach towards the sky as if beckoning to the stars. Mist rises from the surface of the water, swirling gently around the conjurer’s feet, adding an element of mystic ambiguity to the piece.
+
+Photographic style with a crisp, high-resolution finish. Each element from the intricate details on the conjurer’s robe to the delicate ripple on the water is captured with sharp clarity, making the viewer feel as though they are peering through a window into another world. The overall composition is deliberate, with a meticulous balance between the natural beauty of the landscape and the magical aura of the conjurer, creating a visually arresting and immersive piece.
+Seed: 1650139303
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Water, Conjurer

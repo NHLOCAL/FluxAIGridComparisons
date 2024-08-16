@@ -1,0 +1,8 @@
+Prompt: An oil painting capturing a serene, sunlit pond in a Japanese garden. The scene is defined by organic shapes, with a large, irregularly-shaped lily pad occupying the foreground, its edges gently curling. Delicate koi fish, with their sleek and elliptical bodies, glide beneath the water's glassy surface, casting subtle shadows on the pond bed. In the background, a gracefully arching wooden bridge, painted in deep cherry-red, spans the pond, leading to a cluster of bamboo that rises vertically like sentinel columns. The lighting is soft and dappled, with rays of sunlight filtering through the trees and creating a mosaic of light and shadow on the water. The overall composition balances light pastel greens and vibrant reds, with touches of gold from the sunlight reflecting off the water.
+
+Reflecting the classical technique of oil painting, the artist meticulously layers the paint to create texture and depth. The water appears almost translucent, with the koi fish and aquatic plants visible through its surface. The bamboo leaves in the background are rendered with fine, almost calligraphic strokes, emphasizing their slender forms. The bridge, meanwhile, stands out with its smooth, polished surface, the paint applied to mimic the look of lacquer.
+
+Set in a museum or gallery, the painting is framed in a simple, dark wood frame that complements the earthy tones of the artwork without distracting from it. The gallery's soft overhead lighting ensures that the painting's details and colors are perfectly illuminated, inviting viewers to step closer and appreciate the meticulous brushwork and tranquil beauty of the scene.
+Seed: 3676517197
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Shape, Terminal

@@ -1,0 +1,8 @@
+Prompt: In a medieval castle courtyard bathed in the soft, golden light of a setting sun, a solitary marble fountain stands in the center, its pristine waters sparkling like liquid jewels under the dying light. The courtyard's ancient stone walls, covered with creeping ivy, add a touch of timelessness and a whisper of forgotten tales. Behind the fountain, an ornate wrought-iron gate, slightly ajar, hints at hidden secrets and the promise of discovery beyond.
+
+The focal point of this photo-realistic painting is a young woman clad in an elegant, flowing gown of deep sapphire blue, adorned with silver embroidery that catches the light in stunning detail. She stands beside the fountain, fingers delicately tracing the rim, her gaze fixed on the horizon where the last rays of the sun meet the twilight. Her auburn hair cascades in loose waves, capturing flecks of gold from the setting sun, adding a magical touch to her figure.
+
+The sky, an intricate tapestry of purples, pinks, and oranges, enhances the ethereal atmosphere, as a few stars begin to punctuate the twilight. Soft shadows from the fountain and the woman stretch across the cobblestone ground, creating depth and a sense of longing. The interplay of light and shadow, combined with the meticulous detail in the stonework and the fabric of the woman's gown, elevates the scene from mere realism to a sense of enchantment. This image captures the essence of desire and magic through its intricate details and the interplay of light.
+Seed: 3904810724
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desire, Magic

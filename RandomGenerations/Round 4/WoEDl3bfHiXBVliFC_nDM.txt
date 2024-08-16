@@ -1,0 +1,12 @@
+Prompt: Create an oil painting of a zoo scene at dawn. The image is centered on an emerald-colored, lush enclosure with dense, exotic foliage, giving the viewer a sense of tropical opulence. The painting showcases the intricate details of leaves glistening with morning dew illuminated by the soft, golden light of the rising sun. Shadows from towering trees play across the ground, creating dappled patterns on the emerald grass. 
+
+In the foreground, paint a majestic emerald green peacock with its iridescent feathers fanned out, catching the early light and showcasing shades of green, blue, and gold. Near the peacock, show a sleek, motionless panther sitting gracefully, its velvety black fur creating a striking contrast against the verdant background. 
+
+The middle ground features a winding stone pathway that leads to a large, ancient, moss-covered banyan tree with intricately twisted roots and hanging vines. Populate the scene with various exotic birds perched on the vines and branches, each depicted with vibrant hues to complement the emerald setting.
+
+The background includes glimpses of other enclosures and zoo structures artfully obscured by a haze of mist that adds an ethereal quality to the scene. The architecture should be subtle and rustic, blending into the greenery rather than standing out.
+
+The overall lighting captures the softness of dawn, with beams of sunlight piercing through the canopy and creating a tranquil, almost mystical atmosphere. This is complemented by the detailed brushwork, with rich textures that bring each element, from the peacock’s feathers to the leaves of the trees, to life.
+Seed: 567592580
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Zoo, Emerald

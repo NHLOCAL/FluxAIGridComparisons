@@ -1,0 +1,12 @@
+Prompt: An oil painting in an impressionist style depicts a breathtaking scene at sunset along a rugged coastline. The sky is a canvas of warm oranges, pinks, and purples, blending harmoniously with splashes of gold from the setting sun. The sun itself is halfway below the horizon, casting elongated, soft shadows across the landscape. The water of the ocean gleams with a mirror-like quality, reflecting the colorful sky as gentle waves lap against the rocky shore.
+
+In the foreground, an assortment of jagged rocks and smooth pebbles is meticulously detailed, each with its own unique texture and coloration, providing a rich contrast to the luminous tones of the sky and sea. Among the rocks, tufts of hardy coastal grasses and wildflowers in shades of green, white, and yellow sprout, adding life and variety to the scene.
+
+The midground features the silhouette of a lone lighthouse standing resolutely on a cliff, its weathered surface painted with intricate precision to show years of standing guard against the elements. Light from the setting sun glints off its windows, creating small points of bright reflection. A winding, narrow path leads up to the lighthouse, bordered by more varied coastal vegetation.
+
+The background extends to the opposite side of the bay, where a small fishing village is nestled against the hillside. The village's rooftops and chimneys are painted in fine detail, with wisps of smoke rising lazily into the twilight sky, hinting at the warmth and activity within. The use of varied brushstrokes gives the painting a dynamic energy, capturing both the tranquility and the subtle movement within the landscape.
+
+The lighting is soft and diffuse, capturing the ephemeral quality of the golden hour, enhancing the hues and details of each element within the scene, from the rough texture of the rocks to the delicate petals of the wildflowers. This painting, with its harmonious blend of natural elements and masterful use of light and color, embodies the variety and richness of a coastal sunset, creating a scene that is both timeless and captivating.
+Seed: 3512056883
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sunset, Variety

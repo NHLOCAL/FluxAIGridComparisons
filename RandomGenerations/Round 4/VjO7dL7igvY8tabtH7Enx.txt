@@ -1,0 +1,12 @@
+Prompt: An oil painting depicting a serene lakeside scene at dawn. The foreground features a tranquil lake with water so clear and still it mirrors the sky perfectly. Light filters in gently from the horizon, casting a soft, golden glow across the water and rippling through the morning mist. On one side of the lake stands an elegant swan, its feathers detailed with delicate brushstrokes, slightly fluttered by a gentle breeze that disturbs the quiet surface of the lake just so.
+
+In the middle ground, tall, ancient trees with textured bark rise majestically, their branches laden with dew, shimmering subtly in the early light. The dense foliage thickens towards the sides of the painting, with skillfully applied layers of green, amber, and brown suggesting lushness and depth. Beyond these trees, quaint cottages with thatched roofs rest on the opposite side of the lake, illustrated with meticulous attention to the geometric precision of their architecture.
+
+The background extends into rolling hills painted with earthy tones, gradually fading into a soft blend of purples and blues as they meet the sky. The sky itself, an ombre of dawn colors transitioning from deep bluish-purple at the top to pale pink at the horizon, is captured in sweeping brushstrokes that add dynamic movement to the serene landscape below.
+
+The lighting in the scene is predominantly natural, with the early sunlight adding a touch of warmth and casting long, soft shadows that emphasize the textures and forms within the composition. There is a subtle use of chiaroscuro to highlight the contrast between light and shadow, enhancing the three-dimensionality of the elements in the painting.
+
+Overall, this oil painting's texture, composition, and ethereal quality would make it a captivating centerpiece in a museum or art gallery, demanding viewers' attention with its intricate details and masterful execution.
+Seed: 3560403114
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Matter, Impact

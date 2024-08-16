@@ -1,0 +1,8 @@
+Prompt: A meticulously crafted oil painting that presents a moonlit evening in an ornate, 18th-century European carnival fair. The scene is illuminated by the soft, ethereal glow of the full moon, casting long, silvery shadows over the intricately detailed cobblestone paths winding through the fairgrounds. Vibrant tents adorned with rich, deep colors like crimson, sapphire, and gold create striking contrasts with the muted, cool tones of the night. 
+
+In the foreground, a lavishly dressed couple is captured mid-dance, their clothing reflecting the opulence of the era with luxurious fabrics and elaborate designs. Surrounding them, fairgoers are depicted in various states of engagement; some are watching the dancers, others are interacting with fortune tellers, jugglers, and fire-breathers, all meticulously rendered with heightened attention to detail. 
+
+The background features the edge of a dense, ancient forest, its trees dark and brooding, slightly fading into the night sky which is scattered with shimmering stars. The painting employs a chiaroscuro technique, emphasizing the play of light and shadow to give depth and dimensionality to both the figures and the scene. The composition guides the viewer's eye across the canvas, drawing attention to the interplay between the vibrant activities at the fair and the serene, otherworldly atmosphere of the night.
+Seed: 3169856621
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fair, Passion

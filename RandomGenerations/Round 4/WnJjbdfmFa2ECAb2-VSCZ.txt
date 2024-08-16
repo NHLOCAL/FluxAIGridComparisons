@@ -1,0 +1,6 @@
+Prompt: An oil painting depicts a moonlit forest clearing, where the silver light from the full moon streams through the canopy of towering, ancient trees. The trees have gnarled, twisted branches that create an intricate latticework above, casting elongated and intricate shadows on the forest floor. In the center of the clearing stands a spectral figure, semi-transparent but lifelike, draped in a flowing, ethereal gown that blends with the mist swirling around their feet. This apparition seems to be caught mid-movement, as if reenacting a timeless episode from a forgotten legend.
+
+The painting features a rich, earthy palette, with deep greens and browns accented by the cool blues and silvers of the moonlight. The background is densely forested, with hints of distant underbrush rendered in soft focus, adding depth to the scene. The lighting is soft but dramatic, highlighting the spectral figure while leaving the edges of the canvas in shadow, creating a sense of depth and mystery. The style is reminiscent of the Romantic period, with an emphasis on nature's sublime beauty and the supernatural elements of the specter rendered in fine, delicate brushstrokes that invoke a sense of otherworldly grace.
+Seed: 2522304829
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Specter, Episode

@@ -1,0 +1,8 @@
+Prompt: A sleek photograph captures a high-rise rooftop in a bustling metropolis during the magical hour of twilight, images presented with impeccable clarity. The sky above is a gradient of indigo blending into warm hues of orange and pink as the sun sets, casting a serene yet vibrant ambiance over the scene. The rooftop is decorated for a celebration, with minimalistic yet elegant touches: slender glass vases with white lilies on sleek, dark wooden tables, and clusters of soft, ambient fairy lights draped thoughtfully along the edges, their soft glow contrasting with the growing darkness. 
+
+In the corner of the composition stands a striking glass sculpture, its modern lines reflecting the diminishing light, symbolizing a significant milestone, akin to an abstract representation of time and achievement. The cityscape in the background fades into bokeh, emphasizing the intimacy of the setting. The juxtaposition of the sharpness of the foreground elements against the softened, enchanting city lights in the distance evokes a sense of purpose and reflection.
+
+This photograph employs sophisticated, high-contrast lighting; the interplay between natural twilight and intentional artificial illumination creates a balanced scene that is both contemplative and celebratory. The style follows contemporary fine art photography, where every detail is crisply delineated. The background of the skyline, with its symphony of distant, blurred lights from windows and streetlamps, complements the foreground's precision, making the rooftop's quiet elegance appear as a centered sanctuary amidst the urban expanse.
+Seed: 1780308008
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Insight, Anniversary

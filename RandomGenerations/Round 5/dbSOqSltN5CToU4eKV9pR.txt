@@ -1,0 +1,10 @@
+Prompt: A high-resolution photograph capturing an urban scene at dusk, rendered in the style of hyperrealism. The focal point is a cobblestone street, glistening as if fresh from a summer rain. The buildings flanking the street are a mix of old, ivy-covered brownstones and modern glass structures. Their facades glow with a rich, sepia-toned hue, thanks to the warm, soft lighting of vintage street lamps that line the sidewalks. 
+
+The background features a sprawling cityscape, where the setting sun casts long shadows and bathes the skyline in a gradient of deep oranges fading into twilight blues. The sky, clear except for a few wispy clouds, serves as a backdrop, adding depth to the scene. 
+
+In the foreground, a street vendor's cart stands to the left, filled with an assortment of handcrafted wooden toys, its brass details gleaming under the lamplight. The right side of the image shows a small cafe with outdoor seating; tables are covered with checkered cloths, and chairs are wrought iron. Patrons are mid-conversation, steam gently rising from their coffee cups.
+
+The entire scene is alive with the richness of earthy brown tones, from the weathered wood of the vendor's cart to the reddish-brown bricks of the building façades, creating a harmonious balance between the elements. The photograph invites the viewer to take in every meticulous detail, capturing the very soul of an unhurried evening in the city.
+Seed: 2756942583
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Brown, Soul

@@ -1,0 +1,10 @@
+Prompt: A black velvet canvas stretches infinitely, set as the backdrop to an ethereal scene where the deep void of space meets a surreal landscape. Emerging from the lower right corner, a gnarled and leafless tree arches its twisted branches toward the center, as if yearning for something beyond reach. Its bark is textured with intricate detail, giving the appearance of decades, perhaps centuries of silent endurance.
+
+Dominating the central part of the image is a black hole, an ominous, perfectly round abyss that warps the surrounding space. The edges of the black hole are haloed with a glowing accretion disk, a luminous band of swirling gases in hues of electric blues and fiery oranges, creating a stark contrast against the inky black. The gravitational lensing effect near the black hole subtly distorts the starlit sky, bending light in a mesmerizing and disorienting manner.
+
+In the foreground, patches of cracked, parched earth highlight a land long-since abandoned by life, rendered with meticulous care. Light from the accretion disk provides the primary illumination, casting long, soft shadows that stretch across the landscape and adding a spectral glow to the scene. 
+
+The photograph is shot in ultra-high resolution, with a tilted perspective that enhances the sense of disorientation created by the black hole's presence. The overall composition confers a sense of finality and collapse, captured in a moment where time seems to stand still, as if witnessing the end of an epoch.
+Seed: 4247277511
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ending, Black hole

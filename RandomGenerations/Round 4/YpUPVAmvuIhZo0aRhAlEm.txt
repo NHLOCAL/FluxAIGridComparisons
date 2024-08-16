@@ -1,0 +1,8 @@
+Prompt: In the scene, a dramatic rocky coastline stretches into the ethereal horizon, bathed in the golden and crimson hues of a setting sun. Towering cliffs dominate the foreground, their jagged edges carved by countless years of wind and saltwater erosion. A collection of tide pools, filled with glistening water, reflect the fiery colors of the sky. 
+
+This is an oil painting, and the brushstrokes are both dense and textured, capturing the raw power of the ocean waves crashing into the shoreline with a sense of timelessness. The detailed play of light is masterful; the sun hangs low, casting long shadows that dance across the rugged terrain and illuminates the mist rising from the waves in a delicate, almost magical glow. Wisps of fog creep into the edges of the scene, adding a soft, mystic quality.
+
+In the background, the vast ocean stretches out to meet the sky, a deep, cobalt blue that seamlessly blends with the blazing orange and purple tones of the sunset. A lighthouse perches on a distant cliff, its beacon just beginning to shine, guiding unseen mariners. Seagulls are frozen in mid-flight, their wings catching the last light of day, adding a dynamic element to the otherwise monumental and still landscape.
+Seed: 2088224001
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elemental, Coast

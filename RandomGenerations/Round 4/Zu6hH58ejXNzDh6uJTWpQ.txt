@@ -1,0 +1,12 @@
+Prompt: A large oil painting fills the frame, depicting a grand, dimly-lit room reminiscent of a 19th-century European aristocratic mansion. Rich, dark mahogany paneling lines the walls, adorned with intricate gold moldings. In the center of the room stands a majestic, heavy oak table covered in deep red velvet cloth.
+
+Atop the table, a gleaming golden trophy stands prominently, exquisitely detailed with ornate patterns. The polished surface of the trophy reflects the modest light emanating from an elaborate, crystal chandelier hanging overhead. The chandelier's soft, golden glow softly illuminates the trophy, causing it to shimmer and casting delicate shadows across the room.
+
+On the left side of the painting, an elegant window draped with heavy, burgundy velvet curtains allows a sliver of moonlight to seep through, casting a cool, silvery beam across the opposite wall. The background reveals a large, floor-to-ceiling bookshelf filled with leather-bound volumes, meticulously arranged.
+
+The room is otherwise empty, apart from a polished, antique mahogany chair pulled slightly away from the table, as though someone had left in a hurry. The chair’s luxurious fabric, a deep emerald green, catches the chandelier’s light, adding a touch of color to the scene. On the table beside the trophy, a solitary leather-bound book lies open, pages fluttering, suggesting a recent presence.
+
+The overall style draws inspiration from Romanticism, with an emphasis on intricate detail and the interplay of light and shadow, contributing to the painting's timeless and contemplative resonance.
+Seed: 3740620995
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Longing, Trophy

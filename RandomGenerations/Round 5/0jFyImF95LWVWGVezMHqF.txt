@@ -1,0 +1,10 @@
+Prompt: A captivating gallery-worthy photograph features a mountainous landscape where a colossal granite peak looms majestically in the background, its jagged edges highlighted by the golden hues of a setting sun. The low-angled sunlight casts long, dramatic shadows on the mountainside, emphasizing the craggy textures and snow-capped summit. At the foot of the mountain, a pristine, aquamarine lake mirrors the grandeur above.
+
+In the foreground, a coral reef emerges from the waterline, blending two worlds in a surreal fusion. The reef is a riot of color, with branching corals in vivid reds, oranges, and purples, interspersed with the movement of tropical fish whose scales catch and reflect the sunlight like tiny, animate jewels. The clarity of the water allows the intricate patterns of the reef to be seen with startling sharpness, every detail crisply defined.
+
+The style of the photograph is high-definition realism, capturing every minutiae with impeccable sharpness and brilliant color authenticity. The deep sapphire of the sky, the rugged earth tones of the mountains, and the vibrant chromatic array of the reef create a harmonious yet contrasting palette.
+
+The background includes additional mountain peaks fading into a misty haze, giving a sense of depth and scale to the scene. Wisps of clouds hover close to the summits, barely tinged with the last light of day. The contrast between the rocky, arid heights and the lush, submerged reef highlights the coexistence of radically different natural worlds within a single, breathtaking frame.
+Seed: 81037456
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reef, Mountain

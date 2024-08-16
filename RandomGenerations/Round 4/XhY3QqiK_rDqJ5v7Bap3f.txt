@@ -1,0 +1,8 @@
+Prompt: A massive, ancient stone tower rises from the turbulent sea, its weathered surface encrusted with barnacles and seaweed. The tower, shrouded in mist, stands as an imposing and solitary structure. Wrapping around it, a colossal Kraken extends its numerous tentacles, each detailed with hundreds of powerful, suction-cupped appendages gripping the tower's rough surface. The sheer size of the Kraken is highlighted by the perspective, making the tower seem dwarfed in comparison. The ocean is dark and choppy, waves crashing violently against the base of the tower and the Kraken's tentacles.
+
+The lighting of the scene is dramatic, with a low, stormy sky casting a menacing glow. Lightning intermittently illuminates the Kraken, casting long shadows and highlighting the texture of its skin, covered in glistening scales and scars. The overall color palette is dominated by deep blues, grays, and silvers, creating a cold, menacing atmosphere. 
+
+This piece is an oil painting, masterfully capturing the fine details of the Kraken’s anatomy and the roughness of the sea and stone. The background features a distant, storm-torn horizon, with flashes of lightning and dark clouds roiling in an angry sky, enhancing the intensity and raw power of nature portrayed in the scene.
+Seed: 3155365330
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Kraken, Tower

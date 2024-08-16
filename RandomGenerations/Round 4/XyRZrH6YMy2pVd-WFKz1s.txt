@@ -1,0 +1,8 @@
+Prompt: A large oil painting depicts a weathered and dilapidated train depot set in the early 20th century. The depot building, constructed from long-abandoned wooden planks now darkened and split from years of neglect, sits prominently at the center of the composition with its missing shingles and shattered windows. The lighting is somber, as muted afternoon sunlight filters through heavy, overcast clouds, casting a desolate sepia tone over the entire scene.
+
+Surrounding the depot, the cracked, overgrown cobblestones of the once-bustling platform now host tufts of wild grass and scattered debris. In the foreground, a rusty, derailed train car rests at an angle, its paint long worn away to reveal patches of bare, corroded metal. Nearby, a group of shabbily dressed individuals, their clothes tattered and patched, crouches by a makeshift fire in a rusted oil barrel, seeking warmth. Their gaunt faces and sunken eyes reflect the harshness of their circumstances.
+
+In the background, partly obscured by a drifting fog, an array of rundown shacks made from corrugated iron and scraped wood stands huddled together, reinforcing the scene's atmosphere of abandonment and hardship. The color palette is dominated by earthy browns, muted grays, and faded blues, enhancing the sense of decay and struggle. The painting’s brushstrokes are bold and textured, giving depth to the peeling paint of the depot and the grain of the wooden structures, while finer strokes illustrate the individuals’ worn-out faces and clothing, capturing a stark time of poverty and survival.
+Seed: 3182202362
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Poverty, Depot

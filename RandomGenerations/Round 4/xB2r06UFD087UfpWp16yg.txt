@@ -1,0 +1,8 @@
+Prompt: An intricately detailed oil painting, the scene captures the bustling heart of a sprawling metropolis during the twilight hours. In the foreground, a crowded city street is portrayed with meticulous brushwork, each pedestrian and vehicle rendered with lifelike precision. The air appears thick and palpable, conveyed by faintly visible brushstrokes representing rising city smog and the subtle aroma of street food emanating from the nearby vendors.
+
+Streetlights cast a warm, golden hue across the scene, their soft glow contrasting with the cool, blue-tinted shadows of the impending night. Neon signs and billboards flash vibrantly, their reflections shimmering on the rain-soaked pavement, adding a dynamic yet controlled chaos to the composition. Skyscrapers loom in the background, each window a tiny vignette of urban life, painted with pinpoint accuracy. 
+
+To capture the myriad of scents typical to a metropolis, the artist layered various textures to simulate the olfactory mix of fresh bread from a corner bakery, the metallic tang of the subway grate, and the subtle hint of blooming urban greenery from strategically placed rooftop gardens. The background gradually fades into a hazy skyline, where the last vestiges of daylight give way to the illuminated outlines of towering buildings, creating a striking interplay between natural and artificial light.
+Seed: 4098121095
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Smell, Metropolis

@@ -1,0 +1,8 @@
+Prompt: A large, immersive oil painting in a contemporary realism style depicting an awe-inspiring mountain landscape at dawn. The painting captures the intricate details of a rugged mountain range with jagged peaks blanketed in snow. As the first light of day hits the mountains, the sunlight casts a golden glow on the snow, creating a sharp contrast between the light and the shadows that accentuate the textures of the rocky terrain.
+
+In the foreground, a lush, verdant valley adorned with a ravishing array of wildflowers in bloom, their vivid colors ranging from deep purples to bright yellows and reds. A crystal-clear river meanders through the valley, reflecting the colors of the sky and mountains. Along the riverbank, a burst of morning fog adds a mystic layer, gently diffusing the clarity of the scene.
+
+The background showcases layers of distant hills and a sky painted in gradients of soft pinks, oranges, and blues. Wisps of clouds catch the early sunlight, adding an ethereal quality. The painting meticulously captures the interplay of light and shadow, emphasizing the depth and scale of the landscape. The meticulous brushwork and use of rich, vibrant colors invite viewers to savor every fine detail and nature's harsh yet alluring beauty.
+Seed: 2832606560
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mountain, Ravishing

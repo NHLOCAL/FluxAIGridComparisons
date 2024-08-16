@@ -1,0 +1,10 @@
+Prompt: An oil painting depicting an ancient observatory at dusk, capturing a moment frozen in time as the last rays of the sun bathe the scene in a golden glow. The observatory, made of weathered stone with ivy creeping up its sides, stands amidst a rolling landscape of verdant hills that stretch to the horizon. The domed roof of the observatory is slightly ajar, revealing the silhouette of a large, intricate telescope peeking out, aimed towards a sky transitioning from twilight blues to the starry indigo of night.
+
+In the foreground, a cobblestone pathway lined with antique lanterns leads the viewer's eye to the grand structure. These lanterns are lit, casting warm, flickering pools of light that dance on the path, contrasting with the cool, ambient light of the evening. Alongside the path, delicate wildflowers in soft hues of lavender and white add a touch of natural beauty.
+
+Inside the observatory, visible through large, open windows, is a richly adorned interior, with the warm light from an intricately designed chandelier reflecting off polished brass instruments and the smooth surfaces of polished opal scattered throughout, casting prismatic colors into the dim interior. The sky is clear, and stars are beginning to emerge, with a particularly prominent celestial opal glistening directly above the observatory, hinting at its significance to the structure's design and purpose.
+
+The background is a serene expanse of gently rolling hills fading into the twilight, with a distant village nestled in a valley, its small lights like scattered jewels against the darkening land. There is no movement, no sign of life, only the quiet anticipation of nightfall, adding a timeless, almost eternal quality to the scene.
+Seed: 1155244391
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Observatory, Opal

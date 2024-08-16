@@ -1,0 +1,8 @@
+Prompt: A gallery-worthy photograph capturing the transformative beauty of a coastal landscape at dusk. The scene features an expansive shoreline where the sand meets the gentle ebb and flow of a receding tide. Silhouetted against the horizon is a rugged, rocky outcrop, partially cloaked in a fine mist that hints at the transition from day to night. On the left, an ancient, weathered lighthouse stands tall, its light beginning to come to life, casting a warm, protective glow across the darkening waters. In the foreground, smooth, sea-worn stones are scattered across the sand, their wet surfaces reflecting the pastel hues of the twilight sky.
+
+The lighting is a mix of natural and artificial sources, with the last vestiges of sunlight staining the edge of the horizon in shades of deep orange and purple. The interplay of soft twilight and the lighthouse's beam creates a contrast between the fading natural light and the emerging man-made illumination. 
+
+The style is photographic realism, emphasizing sharp, detailed textures from the grains of sand to the craggy surfaces of the rocks. The background features the vast, open sea, with gentle waves rippling outward, and the faint silhouettes of distant fishing boats barely visible against the darkening waters. Above, a sparse scattering of stars begins to emerge in the deepening indigo sky, with a crescent moon hanging just above the horizon, completing the scene of coastal transformation.
+Seed: 956253241
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Coast, Transformation

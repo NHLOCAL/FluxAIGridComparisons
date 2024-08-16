@@ -1,0 +1,8 @@
+Prompt: A dimly lit, cavernous crypt with ancient stone walls covered in intricate carvings and moss stands as the main focal point of the scene. The lighting is soft, emanating from iron sconces on the walls that hold flickering candles, casting long shadows that dance on the rough surfaces. The floor is made of worn cobblestones, slightly damp, with cracks and small puddles reflecting the flicker of the candlelight.
+
+In the center of the crypt, a marble sarcophagus stands, adorned with detailed engravings and symbols that suggest a passage of time and lost knowledge. Next to the sarcophagus, a lone figure dressed in 19th-century attire – a man wearing a dark, tailored suit with frayed edges and a top hat, representing the 'Husband' – stands in an expressionless, statuesque pose. His gloved hands rest gently on the edge of the sarcophagus, as if he is either guarding or mourning the crypt's occupant.
+
+The background reveals an arched doorway, barely visible in the shadows, that hints at deeper, unexplored passages within the crypt. Vines and old, brittle roots hang from the ceiling, adding to the sense of antiquity and abandonment. The style is that of a hyper-realistic oil painting, with meticulous attention to detail in the textures of the stone, the fabric of the man's clothing, and the subtle interplay of light and shadow, making every element lifelike and captivating.
+Seed: 1206597638
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Crypt, Husband

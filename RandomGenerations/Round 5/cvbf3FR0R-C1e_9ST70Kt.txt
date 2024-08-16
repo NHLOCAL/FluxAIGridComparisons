@@ -1,0 +1,8 @@
+Prompt: In the midst of an old, fog-laden graveyard, the scene is captured in a photograph with the crisp clarity of modern digital imaging. Weather-worn tombstones of various shapes and sizes rise from the earth like the fingers of forgotten souls, their surfaces etched with cracks and moss. The background reveals twisted, ancient trees, their gnarled branches bare and reaching skyward, casting intricate, vein-like shadows across the landscape. The moonlight filters through the dense fog, creating a soft, silvery glow that envelops the entire scene in a spectral ambiance.
+
+In the foreground, a solitary, ornate tombstone stands out, its edges smooth, adorned with intricate carvings of ivy and roses. The engravings are sharp, indicating the skill of an old-world craftsman. A faint mist hovers low to the ground, swirling gently around the gravestones, as if whispering tales of the past. The overall color palette is dominated by muted tones of grays, silvers, and deep greens, with the occasional glint of dew reflecting the moonlight.
+
+The lighting is meticulously planned; a single, diffused light placed high above mimics the ghostly glow of the moon, casting long, soft shadows. This creates depth and highlights the textures of the gravestones and the dampness of the earth. Background lighting is minimal, ensuring the focus remains on the detailed foreground, with just enough illumination to reveal the skeletal silhouettes of the trees in the distance. The atmosphere is one of stillness, every element conveying a sense of timelessness and quiet reverence, inviting viewers to contemplate the stories and the souls that lie in eternal rest beneath the ground.
+Seed: 569406791
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Graveyard, Soul

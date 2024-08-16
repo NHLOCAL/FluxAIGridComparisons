@@ -1,0 +1,8 @@
+Prompt: A high-resolution photograph of an old wooden dock stretching out into a calm, early-morning ocean. The scene is set at dawn, with the rising sun casting a golden light over the landscape. The dock is slightly weathered, with some planks split and showing signs of age. At the end of the dock, a lone fisherman in a weathered hat tends to his nets, which are half-draped over the edge. 
+
+The fishing boat, tied to the side of the dock, gently creaks with the movement of the tide. The water is a mirror, reflecting the soft pastel colors of the sunrise—pinks, oranges, and purples blending effortlessly. Seagulls can be seen in the distance, gliding smoothly over the water, some perched on the dock poles.
+
+The coastal background features hazy outlines of distant cliffs shrouded in mist, with tufts of sea-grass at the shoreline. The lighting is naturally diffused through thin clouds, providing a soft aura that harmonizes the rustic texture of the dock and the serene, almost dreamlike quality of the sea and sky.
+Seed: 2973834346
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Work, Coast

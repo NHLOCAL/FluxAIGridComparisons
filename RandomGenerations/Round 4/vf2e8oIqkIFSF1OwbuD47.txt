@@ -1,0 +1,4 @@
+Prompt: A large, oil painting captures a vast, sun-soaked vineyard unfolding across rolling hills under a clear azure sky. The scene is set in the golden hour, with the sun low, casting a warm, amber glow over the landscape, turning the green vines into varying hues of emerald and chartreuse. There is a winding dirt path cutting through the vineyard, leading the viewer's eye deeper into the lush expanse. Each vine is meticulously detailed, showcasing glistening clusters of ripe grapes. To the left, an ancient stone farmhouse with terracotta tiles and ivy climbing up its walls stands surrounded by towering cypress trees. The background reveals a distant mountain range, cloaked in soft lavender from the setting sun. The painting is executed with masterful brushstrokes, blending realism and impressionism, capturing the texture of the foliage and the softness of the light.
+Seed: 1848667056
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vineyard, Path

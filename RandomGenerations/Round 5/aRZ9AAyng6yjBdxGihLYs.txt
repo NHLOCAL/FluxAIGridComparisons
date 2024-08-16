@@ -1,0 +1,8 @@
+Prompt: A stunning photograph captures a solitary, desolate diner set amidst the barren, apocalyptic landscape. The diner, an old 1950s-style structure with a flickering neon sign that reads "EATS," stands out as the lone survivor in a sea of rubble and twisted metal. The sky above is tinged with a sickly orange and gray, filled with dense, murky clouds and faint traces of smoke. 
+
+The lighting is stark and dramatic, casting long, harsh shadows that emphasize the eerie stillness of the scene. Broken windows and a tattered awning flutter listlessly. The interior, visible through the remaining glass, shows overturned stools and tables, along with scattered debris, hinting at a hurried, chaotic abandonment. 
+
+The background features lifeless, skeletal trees and the remnants of once-tall buildings, now reduced to crumbled ruins. Far in the distance, a faded billboard stands torn, its message long forgotten. This meticulously composed photograph utilizes a high-contrast technique to highlight the stark contrasts between light and dark, evoking a sense of unease and abandonment in this post-apocalyptic setting.
+Seed: 3347162588
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Apocalypse, Diner

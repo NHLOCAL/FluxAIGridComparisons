@@ -1,0 +1,10 @@
+Prompt: A gallery-worthy oil painting captures a dimly lit, elegant exhibition room with a mysterious and enigmatic atmosphere. The primary subject is a grand, antique wooden table placed slightly off-center, adorned with intricate carvings that echo Renaissance craftsmanship. On the table rests an ancient, leather-bound book, its pages slightly ajar as if it has been recently examined. A single, almost imperceptible tear in the upper right corner of a page invites closer inspection.
+
+The background reveals a wall arrayed with shadowy but intricate tapestries depicting mythological scenes. Golden candle sconces attached to the wall provide the room’s primary light source, casting a warm, flickering glow that creates deep shadows and soft highlights, enhancing the room's rich textures. The interplay of light and dark areas adds a layer of depth and intrigue. 
+
+The overall style of the painting aligns with the Baroque period, characterized by dramatic lighting, rich colors, and a focus on fine details. Subtle reflections dance on the polished hardwood floor, and faint light filters through a partially opened, ornate pair of curtains on the left, suggesting an unseen source and furthering the sense of mystery.
+
+The foreground includes a tall, elegantly robed figure standing next to the table, their back to the viewer, obscured in shadow. Their posture and the positioning of their robed arm, somewhat reaching towards the book, evoke a sense of curiosity and reverence. A distant, blurred vignette effect subtly pulls focus towards the center of the scene, emphasizing both the secrecy of the text and the compelling ambiance of the exhibition room.
+Seed: 1070805574
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exhibition, Enigma

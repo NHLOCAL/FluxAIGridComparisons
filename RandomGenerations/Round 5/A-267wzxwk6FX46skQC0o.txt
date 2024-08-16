@@ -1,0 +1,12 @@
+Prompt: Create a photograph with the following scene:
+
+A vast, serene bog at the golden hour. The sun is low on the horizon, casting a warm, amber glow across the landscape. The light filters through a mist gently rising from the water, creating a soft, ethereal ambiance. The bog is dotted with clusters of lush green moss and small, twisted trees with bare branches. The trees cast long, soft shadows on the mirror-like surface of the still water, which is a deep, reflective blue with hints of gold from the setting sun.
+
+In the foreground, there is a wooden boardwalk that meanders through the bog, its weathered planks gray with age. The edges of the boardwalk are lined with sparse, tall grasses that sway gently in an unseen breeze. To one side, a lone egret stands silently in the shallow water, its white feathers contrasting starkly against the rich, organic backdrop.
+
+The photograph should be in sharp focus, allowing for the detailed textures of the moss, the rough bark of the trees, and the smooth, reflective quality of the water to stand out. The overall composition balances the natural elements with the empty spaces, creating a harmonious and tranquil scene. The colors are rich and natural, with an emphasis on the interplay between the warm tones of the sunset and the cool tones of the water and foliage. The style is realistic, capturing the untouched beauty of the natural world.
+
+The background fades into a soft blur where the trees and moss meet the horizon, keeping the viewer's focus on the intricate details of the foreground. The sense of depth is accentuated by the gradual fading of light and detail as the scene recedes, creating a feeling of vastness and solitude.
+Seed: 507471302
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Color, Bog

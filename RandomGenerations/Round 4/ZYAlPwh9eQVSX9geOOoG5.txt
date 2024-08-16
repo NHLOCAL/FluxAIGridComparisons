@@ -1,0 +1,16 @@
+Prompt: Title: "The Necromancer's Swamp"
+
+Medium: Oil painting
+
+Scene: The painting depicts a dark and foreboding swamp, teeming with an eerie, otherworldly presence. At the center, a figure stands cloaked in tattered, deep-purple robes—the necromancer. The swamp itself is dense with twisted, gnarled trees whose bare, skeletal branches stretch out like bony fingers. The ground is a thick, dark mire, punctuated by patches of ghostly, phosphorescent plants emitting a soft glow that barely illuminates the scene.
+
+Lighting: Moonlight filters weakly through an overcast sky, casting a cold, silvery light over the landscape. This light creates stark contrasts and sharp, unsettling shadows. The necromancer is faintly lit by an uncanny, emerald-green light emanating from a hovering ancient, rune-inscribed staff he holds triumphantly. The light from the staff flickers over his gaunt, determined face, casting deep-set shadows that accentuate his sharp features.
+
+Background: In the distance, the silhouette of an old, ruined stone castle is barely visible through the thick mist that perpetually cloaks the swamp. The castle is half-sunken into the mire, ancient and forgotten, with creeping vines and moss claiming its crumbling walls. Dark, spectral birds circle the castle’s highest towers, their forms indistinct in the dim, murky atmosphere.
+
+Style: The painting takes inspiration from the Romantic period, with an emphasis on dramatic, dark scenes and intricate details. The brushstrokes are deliberate and textured, capturing the sinister beauty of the decaying landscape. The color palette is dominated by deep blacks, haunting greens, and muted grays, creating a sense of oppressive mystery and cool, damp air. Each element, from the light's interaction with the mist to the details on the necromancer’s robe, is painted with meticulous precision.
+
+This piece, titled "The Necromancer's Swamp," presents an evocative, haunting landscape that masterfully blends elements of fantasy and dark realism, worthy of display in a prestigious gallery or museum.
+Seed: 1094983573
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Necromancer, Swamp

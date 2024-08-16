@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting capturing the quiet strength of an elderly fisherman standing at the prow of his modest wooden boat as the first light of dawn pierces through a heavy morning mist. The fisherman is depicted with weathered skin and calloused hands that tell stories of a life spent at sea. He is dressed in a faded yellow rain slicker with patches and stitches, indicating a history of wear and repair. In his hands, he holds a vintage fishing rod, its wood worn smooth and its line taut against the water.
+
+The lighting in the scene is a delicate interplay of the soft, golden hues of the rising sun struggling to penetrate the dense fog, creating a halo around the fisherman and casting gentle reflections on the still water. The background is a serene, fog-enshrouded seascape with hints of a distant shoreline and indistinct shapes of other fishing vessels barely visible through the mist. The water is calm, with only the slightest ripples disturbing its glass-like surface.
+
+The painting style emphasizes meticulous detail, with every wrinkle on the fisherman’s face, every knot in the wood of the boat, and every drop of dew on the fishing line rendered with precision. The artist’s skill is evident in the lifelike textures and the atmospheric depth conveyed through the layers of translucent fog and subtle lighting transitions. The overall composition captures a moment of poised anticipation, reflecting the enduring perseverance and intimate connection between the fisherman and the sea.
+Seed: 1826110678
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Issue, Skill

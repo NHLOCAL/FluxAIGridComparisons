@@ -1,0 +1,10 @@
+Prompt: In the center of the frame stands an ancient, towering oak tree, its gnarled branches twisting into the sky like fingers reaching for the heavens. The tree's bark is charred and covered in a fine layer of ash, evidence of a recent forest fire that has left the surrounding area a monochrome wasteland. The ground is a barren expanse of ashen earth, punctuated occasionally by the skeletal remains of other trees.
+
+Nestled against the base of the oak is a small family of deer, their coats a stark, glossy brown that contrasts with the muted gray of the background. The father deer stands alert, his antlers broad and majestic, while the mother deer nuzzles a young fawn, which looks up with wide, curious eyes. The lighting is soft and diffuse, as if filtered through a slightly overcast sky, casting gentle shadows that add depth without overwhelming the composition.
+
+The background is a sweep of desolate forest, where trees reduced to skeletal forms dot the landscape. The sky overhead is a pale, colorless hue, almost blending seamlessly with the smoke that lingers in the air, hinting at the devastation that has recently swept through.
+
+This is a high-resolution photograph, capturing the intricate details with crystalline clarity. The style is naturalistic, aiming to document the scene with an unembellished, almost reverent precision, highlighting the resilience of life in the aftermath of destruction.
+Seed: 986707953
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ash, Family

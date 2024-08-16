@@ -1,0 +1,10 @@
+Prompt: In the heart of an ancient, sprawling forest, a photograph captures two children—one boy and one girl, both around ten years old—standing at the mouth of a hidden cave. The children are dressed in simple, rugged clothing with earthy tones: the boy in worn denim overalls and the girl in a faded floral dress, both smeared with patches of dirt. The lighting is natural and diffused, with soft beams of late-afternoon sunlight filtering through the dense canopy of leaves above, casting dappled golden patterns on the forest floor.
+
+The surrounding foliage is lush and vibrant, featuring a myriad of greens and browns that create a rich tapestry against which the children stand out. Behind them, the cave entrance is dark and mysterious, framed by thick vines and roots that have draped down like ancient curtains. The texture of the cave's rocky exterior is rugged and detailed, drawing the eye to the intriguing, shadowy recess within.
+
+The photograph is highly detailed with a sense of timelessness, as if capturing a moment frozen in history. The background extends out to towering trees, their trunks thick and gnarled, hinting at the forest's age and the many secrets it holds. To the side, a small patch of wildflowers in shades of violet and yellow adds a touch of delicate color to the otherwise earthy scene.
+
+The style of the photograph is documentary yet artistically composed, with a focus on natural beauty and the intricate play of light and shadow. Every element in the image, from the children's worn clothes to the textured bark of the trees, is rendered with sharp clarity, immersing the viewer in the detailed and enchanting world of the forest.
+Seed: 2932453110
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Discovery, Friendship

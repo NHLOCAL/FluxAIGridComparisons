@@ -1,0 +1,10 @@
+Prompt: A high-resolution photograph depicting the quietude of a deserted coastal village at twilight. The sky is an ethereal gradient of indigo and blush pink, transitioning smoothly as the last light of the sun retreats. The village sits nestled at the base of craggy cliffs, with weather-beaten houses painted in muted tones of white and grey, their walls adorned with creeping vines. Each house is illuminated by multiple warm, golden lights from wrought-iron lamps affixed beside each door, casting long, soft shadows and a welcoming glow over cobblestone streets.
+
+At the foreground, an aged wooden pier extends into the tranquil, mirror-like sea, reflecting flickers of the lantern light. Shadows of the pier's vertical supports stretch into the waters, creating repeating patterns of lines and shapes that lead the eye further into the frame. The multiplicity of reflections and lights adds layers of depth and complexity to the scene. Boats, each uniquely weathered and tied to the pier, gently bob with the rhythm of small, lapping waves. Their surfaces capture and multiply the hues of the twilight sky and lantern lights, contributing to a cohesive, unified composition.
+
+Stark cliffs rise in the background, their rugged surfaces absorbing the remaining ambient light and presenting a strong, dark contrast to the illuminated village scene. An antique lighthouse perches atop the highest cliff, its beam making wide, rotating arcs that intermittently cast a sharp, bright path across the village and sea.
+
+In this photograph, the expertly balanced interplay of natural twilight and man-made light sources creates an evocative tapestry of transitions from day to night, crafting a visually striking portrayal of stillness and quiet activity.
+Seed: 3696340632
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Illumination, Multiplicity

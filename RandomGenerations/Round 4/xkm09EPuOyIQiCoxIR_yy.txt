@@ -1,0 +1,10 @@
+Prompt: An oil painting captures a high-stakes moment in a grand art gallery. The scene centers on a young girl, no more than ten years old, poised on the edge of a riverbank at twilight. She is on the brink of diving into the serene, yet ominous water, her lithe form outlined sharply against the golden glow of the setting sun. Surrounding her, the dense forest casts long, intricate shadows that creep towards the river’s edge, merging with the water’s surface.
+
+The girl’s slightly tensed muscles denote a mix of determination and hesitation, just at the cusp of action. Her eyes are focused intensely on the water, where the dim reflection of a distant castle appears almost hauntingly clear, suggesting a place she yearns to reach. The vivid details in her simple, white dress fluttering almost imperceptibly in the breeze contrast with the rough texture of the dark, ancient trees behind her.
+
+The background features a mountain range, their peaks piercing through low-hanging clouds with a soft yet striking chiaroscuro effect, emphasizing the dusk light slowly fading. The sky is a gradient from deep indigo at the top to warm amber near the horizon, dotted with the first stars of the evening.
+
+The technique used in the painting, rich with textured brushstrokes and a palette that explores both warm and cool tones, emphasizes the natural beauty of the scene, while the precise rendering of each element builds a palpable sense of expectation and uncertainty. Every aspect hints at the girl's internal struggle between the allure of the unknown and the comfort of safety, creating an artwork that captures potential and tension in its most visceral form.
+Seed: 101225550
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Potential, Tension

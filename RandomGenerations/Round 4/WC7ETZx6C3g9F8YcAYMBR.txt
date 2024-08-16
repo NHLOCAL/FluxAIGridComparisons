@@ -1,0 +1,8 @@
+Prompt: A large, dimly lit hospital ward is depicted, where the stillness of the scene is almost palpable. The main focus is a single, unoccupied white hospital bed with neatly folded, crisp sheets, located in the center of the room. The bed's metal frame gleams subtly under the soft, overhead fluorescent lights, which cast muted shadows across the floor. The walls are a sterile, light gray color, creating a stark, almost monochromatic backdrop that heightens the sense of silence and sterility. 
+
+This is an oil painting, rendered in a hyper-realistic style, capturing every minute detail—from the slight creases in the bed sheets to the reflective surface of medical equipment. Along the right side of the room, a series of empty chairs are lined up against the wall, their hard plastic surfaces adding to the cold, impersonal atmosphere. On the left, there is a window with blinds partially drawn, allowing a faint glow of moonlight to seep into the room, adding a subtle contrast to the artificial lighting.
+
+In the background, there are two closed doors, and beside one door, a wall-mounted clock indicates an ambiguous late hour, its second hand frozen in mid-tick, contributing to the perpetual sense of suspended time. An IV stand with an unused saline bag hangs next to the bed, and a whiteboard on the wall has no writing on it, emphasizing the emptiness and silence that dominates the scene. The overall composition and meticulous detail invite viewers to ponder the absent presence, the halted activity, and the profound stillness of this solitary hospital scene.
+Seed: 3975409502
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hospital, Silence

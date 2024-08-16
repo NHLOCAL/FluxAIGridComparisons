@@ -1,0 +1,8 @@
+Prompt: A stunning oil painting measuring 48 x 36 inches, displayed prominently in a modern art gallery. The scene captures a metropolis at night, viewed from a high vantage point, with sleek, futuristic skyscrapers adorned with glowing neon lights in shades of blue, purple, and green. In the foreground, a lone figure stands on a glass balcony, draped in a tailored suit with luminescent circuitry patterns that pulse with a soft white light, holding an old-fashioned, ornate book with delicate, gilded edges. The book's cover reads "Guidance Across the Ages" in intricate script.
+
+The background is a blend of abstract and hyper-realistic elements, with a digital sky full of swirling, binary numeral clouds interspersed with glowing, floating holographic screens displaying text in various languages. The lighting casts sharp, defined shadows, emphasizing the contrast between the real and digital aspects of the cityscape. Reflections of holograms and city lights glisten off the balcony's glass and metal railings. The painting employs a palette dominated by cool hues, punctuated by warm, golden glows from selective windows, giving a sense of depth and dimensionality to the cybernetic environment.
+
+The style is a fine blend of cyberpunk and contemporary realism, with highly detailed architecture and technology alongside expressive, loose brushstrokes that capture the energy and bustling essence of the urban sprawl below. The overall composition is dynamic but balanced, drawing the viewer’s eye from the detailed foreground to the expansive, almost infinite digital cityscape, creating a sense of both intimacy and vastness.
+Seed: 101634228
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cyberspace, Advice

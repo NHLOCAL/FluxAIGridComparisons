@@ -1,0 +1,8 @@
+Prompt: A high-resolution photograph capturing an intricately detailed scene where a luminous full moon bathes an ancient, dense forest in silvery-blue light. The tall, towering trees with their rugged bark and twisted limbs are shrouded in a delicate mist that softens their outlines and adds a dreamlike quality. Patches of moss and underbrush glisten with dew, hinting at the freshness of the night. As the focal point, a majestic white stag stands on a small, natural clearing surrounded by ferns. Its fur glows ethereally under the moonlight, and its antlers, which almost seem to reach for the sky, are adorned with hanging vines and small, blooming flowers. 
+
+The stag’s eyes, large and reflective, are alert but calm, imparting a sense of silent wisdom. In the background, the forest extends into shadowy depths, where occasional shafts of moonlight pierce through the canopy, creating a play of light and dark. The overall composition draws heavily on chiaroscuro, with dramatic contrasts between light and shadow to emphasize texture and depth. The style of the photograph is classical, echoing the painterly techniques of the Romantic period with an emphasis on the natural world's sublime, mysterious beauty.
+
+The lighting is naturally sourced, primarily from the moon, casting long, soft shadows that accentuate the rugged terrain and the stag’s graceful form. An additional subtle, warm light source comes from the ground, hinting at hidden bioluminescent fungi, adding an otherworldly glow to the scene. The textures are crisp, from the roughness of the tree bark to the delicate fronds of the ferns, inviting a tactile response.
+Seed: 1738309840
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Resonance, Animal

@@ -1,0 +1,8 @@
+Prompt: A grand oil painting captures an imperial-era mosque in its full splendor. The mosque stands proudly in the center of the composition, its towering minarets and intricately designed domes outlined against a twilight sky filled with deep blues, purples, and traces of lingering sunset. The intricate architecture showcases detailed patterns of arabesque and calligraphy, the golden accents shimmering as they catch the fading light. 
+
+The foreground is bathed in the gentle glow of lanterns lining a cobblestone path leading to the grand entrance, where shadows and light play gently against the stonework. In the mid-ground, a lush garden filled with exotic plants and fountains provides a touch of nature's tranquility, juxtaposed against the grandeur of the mosque. 
+
+In the background, distant mountains enveloped in a soft, indigo haze are visible, framing the scene and adding depth. The lighting is soft and diffused, as the day's last rays give way to the approaching night, casting long, elegant shadows and creating a serene, almost mystical atmosphere. The style of the painting leans towards realism, with meticulous attention to detail and texture, making the scene both majestic and inviting.
+Seed: 2619056692
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mosque, Empire

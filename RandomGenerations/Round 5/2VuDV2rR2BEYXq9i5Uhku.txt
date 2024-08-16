@@ -1,0 +1,4 @@
+Prompt: An elegant black and white photograph captures a delicate balance between light and shadow, evocative of the classic Hollywood portrait style. The subject is a poised woman, her skin glowing like an opal under the soft, diffused lighting. She stands against a rich velvet backdrop that absorbs the light, providing a deep, textural contrast to her luminous presence. Her gaze is directed slightly off-camera, eyes wide and reflective as if capturing a fleeting moment of introspection. The lighting is meticulously arranged to highlight the contours of her face and the subtle textures of her clothing, creating a gentle play of shadows that adds depth and dimension. This photograph showcases an intimate, timeless beauty that invites the viewer into a moment suspended outside of time.
+Seed: 340375569
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Opal, Gaze

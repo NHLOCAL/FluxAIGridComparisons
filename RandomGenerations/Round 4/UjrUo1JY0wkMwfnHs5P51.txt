@@ -1,0 +1,10 @@
+Prompt: In an award-winning oil painting, a grand medieval castle stands majestically on a rugged hillside, captured in painstakingly detailed realism. The structure, built of large, weather-worn stones, features soaring towers with pointed turrets, thick walls, and intricate arched windows. Each brick and crevice is rendered with meticulous precision, showing the passage of time. 
+
+The scene is bathed in the soft golden light of a setting sun, casting long shadows that accentuate the castle’s architectural features. The sky above is a brilliant canvas of warm oranges and purples blending seamlessly into the darker blues of the approaching night. 
+
+In the foreground, lush, overgrown gardens with winding cobblestone paths lead up to the massive wooden gate of the castle. A flag, intricately painted with heraldic symbols, flutters gently in the breeze atop the tallest tower. In the background, the landscape extends into rolling hills and distant forests, painted with gentle brush strokes that give a sense of depth and distance. 
+
+The painting exhibits a masterful use of lighting and shadow to bring a three-dimensional quality to the canvas, highlighting the texture of the stone and the verdant foliage surrounding the castle. This piece, framed in an ornate gold frame, exudes an aura of historical grandeur and meticulous artistry, demanding the viewer's attention in any museum or gallery setting.
+Seed: 1803807732
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Award, Castle

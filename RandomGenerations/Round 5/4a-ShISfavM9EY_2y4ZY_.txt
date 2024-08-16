@@ -1,0 +1,10 @@
+Prompt: In an expansive gallery, a high-definition photograph displayed in a minimalist frame captures a scene that juxtaposes the realms of the terrestrial and the cosmic. The landscape is an otherworldly exoplanet, with a sky dominated by celestial phenomena. A jagged mountain range splits the scene horizontally, with the peaks casting elongated shadows under the light of twin suns. The division between day and night adds a surreal light gradient to the scene, transitioning from harsh, bright whites and yellows on one side to deep, velvety purples and blues on the other. The surface features alien flora, bioluminescent and softly glowing against a dark, rocky terrain.
+
+In the foreground, alien structures resembling ancient ruins rise from the ground, their geometric shapes contrasting sharply against the organic forms of the plant life. These structures display an intricate architectural design of unknown origin, hinting at a lost civilization. 
+
+The photograph style captures hyper-realism, with razor-sharp detail in both the foreground and the spatial backdrop of the scene. Every grain of alien soil and every distant star in the sky is rendered with crystalline clarity. The background shows a vast expanse of the cosmos with swirling nebulae and distant galaxies, intensifying the sense of an infinite universe.
+
+Lighting in this scene plays a crucial role: the twin suns provide a dual light source, creating complex interplays of shadows and illuminated areas. Soft diffused lighting from the bioluminescent plants counterbalances the harsher celestial light, adding depth and dimension to the photograph.
+Seed: 1202304324
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Division, Exoplanet

@@ -1,0 +1,8 @@
+Prompt: A high-resolution photograph capturing an early 20th-century wooden farmhouse, weathered and beaten, in a rural landscape. The exterior shows layers of faded, cracked paint peeling off the walls, revealing the raw wood beneath. It sits isolated amidst a field of overgrown, untamed grass that stretches up to the horizon. The time of day is late afternoon, where long shadows begin to creep across the scene, cast by a sun descending towards a dense tree line in the background.
+
+The lighting is partly diffused through thin, wispy clouds, creating a soft, golden hue that bathes the entire landscape in a melancholy, nostalgic glow. The farmhouse windows are darkened, with drapes barely visible behind the glass, suggesting a place long abandoned but full of stories. In the foreground, a rusted, old farming tool leans against the wall of the house, appearing forgotten and unused for years. Further into the distance, power lines stretch towards the horizon, sagging slightly under the weight of time and neglect.
+
+Every element of the photograph is perfectly in focus, emphasizing the intricate textures of the cracking paint, the rust on the farming tool, and the blades of grass swaying gently in the wind. The composition leads the viewer's eye from the detailed foreground to the expansive, empty background, encapsulating a moment frozen in time where the stress of abandonment and the harsh, yet beautiful, tranquility of country life meet.
+Seed: 1924600039
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stress, Country

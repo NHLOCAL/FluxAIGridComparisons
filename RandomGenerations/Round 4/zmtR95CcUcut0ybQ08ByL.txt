@@ -1,0 +1,10 @@
+Prompt: A large-scale oil painting depicts a majestic waterfall cascading down rocky cliffs into a serene, sunlit basin. The waterfall dominates the center of the canvas, its white frothy water contrasting sharply against the deep, rugged gray of the rocks. To the left and right, the dense foliage of ancient evergreens frames the scene, their dark green needles providing a natural curtain that guides the viewer's eye towards the powerful flow of the water. 
+
+The background features a cloudless sky painted in delicate gradients of blue, hinting at a clear, bright day. Wisps of mist rise from where the water meets the rocks, catching the sunlight in a rainbow of translucent hues. Subtle brushstrokes expertly capture the texture of wet rock and the reflective shimmer of water, creating a sense of immersion and vivid realism.
+
+The lighting is masterfully handled, with the sun positioned high, casting natural light that enriches the vibrancy of the colors without creating harsh shadows. Light filters through the trees, dappling the scene with patches of gentle illumination. The surface of the water in the basin showcases an intricate blend of soft blue, green, and white, mirroring the sky and surrounding vegetation with a glass-like clarity.
+
+In the foreground, intricate details of the rocky terrain and lush plants are meticulously rendered, each stroke exhibiting a high level of precision and control. Small patches of wildflowers in red, yellow, and purple add occasional bursts of color against the backdrop of greens and grays. This painting displays a masterful command of technique, capturing both the grandeur and the delicate details of the natural world in a harmonious, museum-worthy composition.
+Seed: 4015147049
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Waterfall, Mastery

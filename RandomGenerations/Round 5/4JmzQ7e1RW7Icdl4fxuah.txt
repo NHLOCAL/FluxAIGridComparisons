@@ -1,0 +1,10 @@
+Prompt: A black-and-white photograph capturing the essence of a lonely coastal cliff at twilight. At the core of the frame, a weather-beaten, solitary lighthouse stands tall, its form defined against the gradient sky where dusk fades into night. The lighthouse's structure is sharp and detailed, with visible cracks and layers of peeling paint that speak to its endurance. The soft light from the setting sun casts long shadows, accentuating the cliff's rugged texture, which falls away sharply to a restless sea.
+
+In the background, the sky is a blurred mix of deep navy and fading purples, giving a sense of depth and transition. The horizon line is barely distinguishable, almost as if the sky and sea are a continuous element. A faint mist rises from the waves crashing against the base of the cliff, adding an ethereal quality to the scene.
+
+The lighting is naturally diffused, with the dim, ambient twilight providing a soft, even glow that contrasts with the stark, harsh beam of the lighthouse's light, cutting through the mist in a focused, linear path. The photograph is in high contrast, emphasizing the interplay between light and shadow, surface and depth.
+
+This artwork is strictly photo-realistic, with hyper-detailed textures and a pristine, high-definition quality that reveals the minutiae: rough grains of stone, weathered wood of the lighthouse, and the foamy crest of waves. The style leans towards documentary realism, capturing every detail faithfully, evoking a sense of timeless solitude and resilience in the face of nature’s indomitable force.
+Seed: 2900592128
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Core, Gravity

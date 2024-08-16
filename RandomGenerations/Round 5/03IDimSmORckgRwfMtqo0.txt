@@ -1,0 +1,8 @@
+Prompt: A large underwater photograph captures the intricate beauty of a coral reef sanctuary bathed in shimmering sunlight. The light, filtering down from above, creates beams that dance and sparkle through the crystal-clear water, casting soft patterns on the vibrant corals below. Bright, multicolored corals of varying textures and forms dominate the scene, ranging from delicate, feathery sea fans to robust, brain coral structures.
+
+In the foreground, a small, ancient sunken treasure chest, partially reclaimed by the corals, rests on a sandy patch. The chest is slightly ajar, with scattered, weathered gold coins spilling out, appearing as though a timeless offering to the reef. Surrounding the chest, schools of small, iridescent fish weave through the coral branches, their scales reflecting the ambient light in brilliant hues of blue, green, and silver.
+
+In the background, the reef slopes gently upward toward the surface, with larger fish and shadows of unseen creatures hinting at the wondrous life beyond the frame. The photograph is framed in such a way that the viewer feels immersed in the serene, delicate complexity of this underwater world, capturing both the reef's majesty and the mysterious allure of the age-old treasure it guards.
+Seed: 204554824
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reef, Offering

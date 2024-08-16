@@ -1,0 +1,12 @@
+Prompt: A meticulously detailed oil painting capturing a serene afternoon in an ancient, verdant forest. At the center of the scene stands a majestic, ancient oak tree with a thick, gnarled trunk, its vast network of branches stretching out protectively overhead. Nestled in the hollow of the tree is a beautifully ornate, vintage wooden box with intricate carvings that suggest it has been hidden here for centuries—a treasured gift waiting to be discovered.
+
+The background consists of a lush tapestry of dense foliage and wildflowers, painted in a myriad of rich greens, subtle yellows, and deep purples. Sunlight filters through the canopy, casting dappled patches of light and shade across the forest floor, enhancing the colors and adding depth to the scene. The light source is natural, coming from the high sun, suggesting it is early afternoon; this ambient light creates a warm, inviting atmosphere.
+
+In the foreground, at the base of the oak tree, lies a worn, weathered leather satchel, partially open with a few antique parchment scrolls spilling out of it—a symbol of a quest or a journey. The ground is covered in a thick carpet of moss, and a small, babbling brook winds its way through the underbrush, its clear waters reflecting the light and adding a sense of tranquility and continuity to the scene.
+
+The style of painting features hyper-realistic details combined with a touch of romanticism; every leaf, bark texture, and water ripple is rendered with painstaking accuracy, yet there's a magical quality to the composition, hinting at stories untold. The attachment to the oak tree and the hidden gift within it communicates a connection to history, nature, and the secrets it holds.
+
+This painting would be adorned with an ornate, antique gold frame, complementing the timeless quality of the artwork and enhancing its presence as a centerpiece in a museum or gallery.
+Seed: 3995774972
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Attachment

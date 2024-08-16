@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting captures a serene mountain landscape at dawn. The scene is dominated by towering, jagged peaks bathed in the soft, golden light of the rising sun, which casts long shadows and highlights the rugged texture of the rocky surfaces. Each slope and summit is meticulously detailed, emphasizing the scale and majesty of the mountain range. In the foreground, a clear, still mountain lake acts as a natural mirror, perfectly reflecting the sharp lines and illuminated crests of the peaks above. The water's surface is undisturbed, creating a sense of stillness and precision.
+
+The sky transitions from a deep, pre-dawn blue at the top of the canvas to a warm, gentle pink and gold near the horizon, hinting at the emerging day. The background features a dense forest of evergreens at the base of the mountains, painted with such fine detail that individual needles can be discerned. Soft mist wafts through the trees, diffusing the light and adding a layer of depth and mystery to the scene.
+
+The painting employs a masterful use of chiaroscuro, with sharp contrasts between the illuminated mountain tops and the shadowed valleys, lending a three-dimensional quality to the composition. The meticulous brushwork and the realistic portrayal of natural elements create an immersive and awe-inspiring representation of the mountain landscape, making it a centerpiece in any gallery or museum.
+Seed: 3324191772
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Measure, Mountain

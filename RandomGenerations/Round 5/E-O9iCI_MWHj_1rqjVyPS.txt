@@ -1,0 +1,4 @@
+Prompt: A black-and-white photograph captures an urban street at dawn. The street is wet from a recent rain, reflecting the old-fashioned street lamps that line both sides in a precise array. The lamps cast soft, diffused light over the cobblestones, creating a gentle interplay of light and shadow. The background features a row of historic buildings with ornate façades, their windows dark and empty, hinting at the early hour. A vintage car is parked along the curb, adding to the timeless feel of the scene. In the distance, the silhouette of a cathedral's steeple rises against the soft, cloudy sky. The composition is meticulously balanced, with lines of perspective leading the eye towards the vanishing point in the center, emphasizing the depth and quiet of the nearly empty street.
+Seed: 3683060297
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quantity, Array

@@ -1,0 +1,10 @@
+Prompt: A powerful oil painting showcases the moment after a forgotten battle from the Roman era. In the foreground, a lone, battered Roman centurion stands amidst the ruins of a conquered village. His armor is dented and covered in grime, a broken shield lies discarded at his feet. His posture is slumped, shoulders down, with his helmet held loosely in his hand, revealing a face marked by sweat, dirt, and the weariness of a prolonged fight. The expression on his face is vacant, staring into the distance.
+
+The lighting in the painting is dramatic and chiaroscuro, with a low, golden sunlight breaking through dark, tumultuous clouds, casting long shadows across the desolate landscape. The light enhances the textures of the broken buildings and the centurion's worn armor, emphasizing the sharp contrasts between darkness and light.
+
+In the background, scorched and broken remnants of the village are seen, with columns of smoke rising into the sky, blending into the low-hanging clouds. Among the debris, a tattered Roman standard bearing the emblem of a once-proud legion is barely standing, the cloth torn and singed.
+
+The style of the painting is hyper-realistic, with meticulous attention to detail, capturing the cracks in the bricks, the fibers in the standard, and the fatigue in the centurion's eyes. The colors are muted earth tones with stark, dark shadows, and the only vibrancy coming from the golden sunlight that symbolizes a brief moment of hope amidst overwhelming despair.
+Seed: 1229046476
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Defeat, Emblem

@@ -1,0 +1,8 @@
+Prompt: A large canvas featuring a classical oil painting depicting an ancient Roman bathhouse. The scene captures a group of finely detailed marble statues, lifelike in their anatomical perfection, posed in various states of undress, evoking a sense of refined nudity. In the foreground, a muscular male statue rests on a low marble bench, his body contoured with precise brushstrokes to emphasize the sinewy texture of his muscles. Nearby, a graceful female statue stands by a heated pool, her posture expertly crafted to convey an air of serene calmness.
+
+In the mid-ground, a dimly lit colonnade creates a spatial boundary, the tall marble columns receding into a calculated darkness, guiding the viewer's eye deeper into the painting. Scattered around are intricate mosaics, illustrated with mythical sea creatures, their colors rich and vivid despite the soft illumination. Occasionally, beams of gentle, golden sunlight breach the semi-open roof, casting elongated shadows and highlighting the textured surface of the worn stone tiles.
+
+In the background, hazy steam rises subtly from the thermal waters, blending seamlessly with the meticulously painted azure sky, punctuated by billowy, soft clouds. The painting captures an encounter of frozen figures amidst the serene chaos of an ancient bathhouse, rendered with a realism that blurs the line between art and life.
+Seed: 36153519
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Encounter, Nudity

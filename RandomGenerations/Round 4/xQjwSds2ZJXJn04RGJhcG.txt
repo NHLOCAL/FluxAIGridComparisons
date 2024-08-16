@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting capturing a powerful lion perched atop a rugged cliff, its piercing gaze directed towards the horizon. The lion’s mane is meticulously detailed, each hair rendered with precision, giving a sense of both wild strength and regal confidence. The cliff, jagged and imposing, is bathed in the golden light of a setting sun, casting long shadows that emphasize the rough texture of the rocks. In the background, a vast savanna stretches out, dotted with sparse trees and illuminated by the intense orange hues of the twilight sky. The sky itself is a tumultuous blend of dark storm clouds and vibrant streaks of red and yellow, suggesting an impending tempest. The overall composition of the piece commands attention, with the lion dominating the foreground, embodying the essence of raw power and mastery over its domain.
+Seed: 2405861792
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Domination, Yell

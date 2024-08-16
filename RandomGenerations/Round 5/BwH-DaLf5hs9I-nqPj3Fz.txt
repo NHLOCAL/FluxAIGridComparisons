@@ -1,0 +1,6 @@
+Prompt: A gallery-worthy photograph features a delicate, smooth silk gown draped elegantly over a marble statue in the center of a minimalist room. The statue, positioned slightly off-center, is illuminated by soft, diffused natural light streaming through large, frosted windows on the left side of the room. The lighting highlights the gown's subtle shifts in color, from pearl white to soft dove gray, and accentuates the folds and creases of the silk fabric as it flows over the statue's intricate contours. 
+
+The background is a stark, charcoal gray wall, providing a contrasting backdrop that brings the statue and the gown into sharp relief. The floor is polished concrete, reflecting the light and adding a contemporary edge to the scene. No additional objects or furniture are present, keeping the focus squarely on the interplay of textures and tones between the silk, the marble, and the gray wall. The photograph is executed in a high-resolution, hyper-realistic style, capturing every minute detail with crystalline clarity.
+Seed: 1522223030
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silk, Gray

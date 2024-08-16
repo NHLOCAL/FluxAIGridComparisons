@@ -1,0 +1,6 @@
+Prompt: In a dimly lit room with antique wood-paneling, a tall and elegantly designed glass display case stands as the focal point, illuminated by a single, overhead spotlight that casts dramatic shadows around its frame. Inside the display case rests a glistening golden trophy, meticulously polished so that even the finest details of its intricate engravings catch the light. 
+
+The background is adorned with softly lit vintage furniture and rich, dark paintings, all contributing to the room's luxurious and timeless ambiance. The lighting is slightly diffused, with the exception of the spotlight which highlights the trophy, creating a striking contrast. The style is a hyper-realistic photograph, capturing every texture and reflection with unparalleled clarity.
+Seed: 1879681410
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Trophy, Exquisite

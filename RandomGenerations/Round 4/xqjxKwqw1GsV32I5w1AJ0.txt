@@ -1,0 +1,4 @@
+Prompt: A masterfully executed oil painting capturing an intricate ballroom filled with elegantly dressed couples dancing. The scene is set in a grand hall adorned with crystal chandeliers that cast a warm, golden light over the polished marble floors. The walls are lined with large, gilded mirrors that reflect the vibrant colors of the dancers' attire, adding depth and dynamic movement to the scene. The background features intricately detailed frescoes depicting mythological scenes, meticulously painted with a sense of ancient grandeur. The artist's brushstrokes are both precise and expressive, showcasing an impressive talent for realism and fine detail. The lighting highlights the textures of luxurious fabrics and the graceful contours of the dancers' forms, creating a harmonious interplay of light and shadow.
+Seed: 49395642
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Certainty, Talent

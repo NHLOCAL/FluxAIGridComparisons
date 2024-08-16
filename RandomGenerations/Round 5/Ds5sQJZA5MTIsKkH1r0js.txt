@@ -1,0 +1,12 @@
+Prompt: A high-resolution photograph captures an ancient, moss-laden forest under the enveloping twilight. Towering trees with gnarled, thick trunks rise from a forest floor carpeted in vibrant, lush greenery. Interspersed among the trees, delicate ferns and undergrowth flourish, creating a rich tapestry of foliage. 
+
+In the center of the frame, partially enveloped by nature, stands a vintage, ornate game console, crafted from wood and embellished with tarnished brass. The console appears weathered, with signs of decay and history, giving it a mystical, timeworn quality. Intricate carvings cover its surface, almost blending seamlessly with the intricate patterns of the forest bark.
+
+The lighting is soft and dappled, with rays of the setting sun filtering through the dense canopy, casting elongated shadows and pools of golden light onto the forest floor and the console. A slight mist weaves through the scene, adding an ethereal quality and a sense of seclusion. 
+
+The background features a tapestry of trees extending into the depth of the forest, gradually dissolving into darker shades of green and brown, indicating the density and age of the woods. The photograph employs a high contrast technique to accentuate the textures and depth, lending it a hyper-realistic, almost painterly quality.
+
+No clear paths or human disturbances are visible, emphasizing the untamed, ancient essence of the forest and the enigmatic presence of the game console, as if it were an artifact from a forgotten era.
+Seed: 3972401235
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Forest, Console

@@ -1,0 +1,10 @@
+Prompt: Create an oil painting on a large canvas depicting an ancient library with towering bookshelves filled with leather-bound tomes. In the center, an elderly woman with silver hair meticulously styled into a bun is seated at a grand oak desk, her posture upright and dignified. She wears a flowing, deep burgundy robe with intricate golden embroidery. The desk is adorned with scrolls, an ornate ink pot, and an archaic-looking quill. Behind her, a tall stained-glass window casts a kaleidoscope of subdued, multi-colored light across the scene, creating intricate patterns on the polished wooden floor. 
+
+To her left, a muscular knight in full armor stands as if at ease, his hand resting on the hilt of a broad sword sheathed in a beautifully crafted scabbard decorated with ancient runes. His armor glistens slightly under the soft, ambient light from the window, showcasing the detailed etchings of mythical creatures and ancient symbols.
+
+The background consists of more bookshelves interspersed with busts of historical figures and potted plants with broad leaves. The lighting in the painting is primarily natural, coming from the stained-glass window, but augmented by several strategically placed candelabras that provide a warm, flickering glow. The overall style is highly detailed, with an emphasis on realism and texture, bringing the ancient, scholarly setting to life.
+
+The interplay of light and shadow is meticulously rendered to highlight the wrinkles and wisdom in the elderly woman's face, as well as the strength and readiness in the knight’s stance.
+Seed: 2591639242
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Counsel, Strength
