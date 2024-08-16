@@ -1,0 +1,4 @@
+Prompt: A surreal futuristic cityscape at twilight as seen from a high vantage point. This landscape combines advanced technology with lush, overgrown vegetation intertwining with sleek skyscrapers. Silhouettes of people in avant-garde attire walk through elevated transparent walkways that connect the buildings. The city glows with bioluminescent lights and holographic advertisements, while an immense, transparent dome protects the environment. The lighting is a blend of the deep purples and blues of twilight, contrasted with the vibrant neon lights of the city. In the background, tall mountains shrouded in mist stand against the horizon. The style of the art is a hyper-realistic digital painting, with intricate details that make the scene appear almost photographic yet otherworldly.
+Seed: 570383100
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Resonance, Alternative

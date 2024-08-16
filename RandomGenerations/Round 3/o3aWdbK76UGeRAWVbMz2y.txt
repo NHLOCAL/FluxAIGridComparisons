@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at sunset, depicted in a hyper-realistic digital painting style. The sky is awash with hues of orange, pink, and purple as the sun dips below the horizon, casting a warm golden light on the high-rise buildings made of glass and steel. In the foreground, a humanoid robot character with sleek, polished silver armor stands on a rooftop garden filled with bioluminescent plants that glow in shades of blue and green. The character's eyes emit a soft blue light as it gazes off into the distance. The background features flying cars zipping through the air and large holographic advertisements flickering on skyscrapers. Farther back, massive, futuristic bridges connect parts of the city over a calm river reflecting the colorful sky. The scene is both bustling with advanced technology and tranquil with the natural beauty of the sunset.
+Seed: 2812495089
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sunset, Character

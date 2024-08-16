@@ -1,0 +1,4 @@
+Prompt: Create an oil painting depicting a futuristic ranch in a surreal landscape. In the foreground, a vast, gleaming field of bioluminescent grass stretches under the twilight sky, with hues of violet and deep blue merging into the horizon.  A modern metallic ranch house with sleek, angular architecture sits to the left, its surface reflecting the last rays of the setting sun like a precious jewel. Robotic cattle graze calmly in the meadow, their silver bodies contrasting with the glowing grass. In the background, softly illuminated mountains covered in alien flora rise majestically, their peaks capped with glittering crystals that catch the moonlight. Above, the sky is dotted with vividly detailed stars and nebulae, adding to the otherworldly ambiance. The whole scene is bathed in ethereal, soft light, capturing the serene tranquility of this futuristic pastoral setting.
+Seed: 541742367
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Jewel, Ranch

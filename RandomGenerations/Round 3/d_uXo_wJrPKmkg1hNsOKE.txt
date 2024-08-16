@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at night bathed in a soft, diffused pearl white glow. Skyscrapers with sleek, curving lines and smooth, reflective surfaces stretch into the starry sky, their silhouette forming a harmonious blend of modern architecture and organic shapes. The streets below are bustling with a mix of humans and robots seamlessly interacting, all dressed in minimalist, high-tech attire. Hovering vehicles glide silently above the ground-level walkways. The backdrop features a tranquil river reflecting the city lights, with a distant horizon showing advanced wind turbines and lush green parks. The scene is depicted in a highly detailed digital painting style, emphasizing the crispness and clarity of each element while maintaining an ethereal, almost dreamlike quality.
+Seed: 897738513
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pearl, White

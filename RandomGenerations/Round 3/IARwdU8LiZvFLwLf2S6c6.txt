@@ -1,0 +1,4 @@
+Prompt: An oil painting of a futuristic seaside array on a sunny day: A high-tech array of sleek, modern wind turbines is situated on a narrow peninsula jutting out into the calm blue ocean. Each turbine gleams with metallic and glass surfaces, reflecting the sunlight. The peninsula is dotted with vibrant green vegetation, creating a stark contrast with the technological structures. A few scientists in futuristic white and blue uniforms are walking along a pathway that cuts through the vegetation, examining the turbines with handheld devices. The sky is a brilliant azure with a few fluffy white clouds. In the background, distant futuristic city skyscrapers with towering spires are visible on the horizon, hinting at a highly advanced civilization.
+Seed: 3074118394
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Array, Peninsula

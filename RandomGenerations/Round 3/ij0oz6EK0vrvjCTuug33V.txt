@@ -1,0 +1,4 @@
+Prompt: "A futuristic urban landscape at dusk, viewed from a low-angle perspective, with tall buildings featuring sleek, reflective surfaces that glimmer in the fading light. The sky is a swirl of deep purples and oranges as a gentle gale sweeps through, causing the few scattered leaves to dance in the air. In the foreground, a bustling street with people dressed in futuristic attire, including glowing accessories and transparent fabrics, crossing under neon-lit signs in various languages. Hover vehicles silently zip by overhead on magnetized tracks, casting elongated shadows. The background features a distant skyline with towering skyscrapers, some with rooftop gardens visible. This scene is depicted as a highly detailed digital painting, showcasing smooth brush strokes and vibrant, contrasting colors that add depth and dynamism to the image."
+Seed: 1558045331
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Angle, Gale

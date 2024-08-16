@@ -1,0 +1,4 @@
+Prompt: Prompt: Create a surreal landscape depicting a futuristic, neon-lit cityscape at night, where towering skyscrapers blend with ancient, colossal tomb structures. The scene should showcase a bustling metropolis with people wearing cutting-edge fashion, using advanced technology like holographic displays and flying vehicles. The city is illuminated by a mixture of glowing neon signs and streetlights, casting colorful reflections on wet streets. In the background, the sky is dotted with tall, glowing indicators and digital billboards. The ancient tombs, massive and weathered, stand as relics of the past, integrated seamlessly into the modern city’s architecture. This image should be rendered in a hyper-realistic digital art style, with immense attention to detail, highlighting the juxtaposition of old and new elements.
+Seed: 3938586625
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Indicator, Tomb

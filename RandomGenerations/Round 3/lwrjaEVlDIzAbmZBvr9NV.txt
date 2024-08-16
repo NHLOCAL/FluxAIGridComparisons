@@ -1,0 +1,4 @@
+Prompt: An oil painting set in a futuristic cityscape during dusk. Towering skyscrapers with intricate geometric designs and holographic advertisements dominate the scene. Suspended walkways and sleek maglev trains weaving between buildings add a sense of advanced technology. People in modern attire, some with augmented reality glasses, walk along bustling streets that are lined with neon-lit trees, food vendors, and robotic assistants. The sky is a gradient of deep blues and purples, dotted with flying vehicles. Soft, ambient light from the advertisements and street lamps creates an interplay of shadows and highlights, giving the city a lively yet organized appearance. In the background, a large digital clock tower displays the time with laser precision above a serene, artificial lake that reflects the glow of the skyscrapers.
+Seed: 2978322275
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Distinction, Structure

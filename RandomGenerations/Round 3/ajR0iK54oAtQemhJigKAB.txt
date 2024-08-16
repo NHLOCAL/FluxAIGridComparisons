@@ -1,0 +1,4 @@
+Prompt: Create an imaginative scene set in a landscape featuring a vast, alien-like desert under a twilight sky with deep purples and blues. In the foreground, a massive, iridescent geyser erupts, sending multicolored plumes high into the sky, illuminated by bioluminescent particles within. Sparse vegetation made of crystalline structures surrounds the geyser, casting captivating reflections on the sand. In the background, towering mesas with bizarre, otherworldly formations are shrouded in a light mist. A group of futuristic explorers, clad in sleek, reflective suits, stand in awe around the geyser, their equipment and gadgets giving off soft, ambient lights. The scene is portrayed in the style of a hyper-realistic digital painting, with meticulous attention to detail and vibrant, otherworldly colors.
+Seed: 2470379537
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Geyser, Association

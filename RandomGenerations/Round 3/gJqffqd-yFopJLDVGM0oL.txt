@@ -1,0 +1,4 @@
+Prompt: An oil painting depicting a futuristic landscape at dusk, with a serene, fog-filled bog in the foreground. The scene is set on an alien planet with bioluminescent plants casting a gentle greenish-blue glow across the water. A pair of humanoid figures, spouses dressed in intricate, high-tech attire, stand on a wooden footbridge that crosses the bog, holding hands and gazing into each other's eyes. The background features towering, metallic structures with an organic design, integrated into the surrounding nature. A large, distant moon hangs low in the sky, casting a soft silver light that mingles with the warm hues of the setting sun. The painting has detailed textures, with a blend of realism and surrealism, highlighting the intricate patterns of the plants and the sophisticated design of the clothing and architecture.
+Seed: 73250839
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spouse, Bog

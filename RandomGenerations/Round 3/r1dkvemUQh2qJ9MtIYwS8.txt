@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at sunset overlooking a towering waterfall that cascades into a crystal-clear river; in the foreground, children wearing colorful, glowing attire play with hovering toys that emit a soft, radiant light. The city is a harmonious blend of nature and technology, with glass skyscrapers entwined with lush greenery and bioluminescent plants. Background: majestic mountains with peaks kissing the vibrant hues of the setting sun, painting the sky in shades of orange, purple, and pink. The scene is depicted in a hyper-realistic, digitally-enhanced style, capturing both the intricate details of the natural elements and the sleek, modern architecture. The lighting is a warm, golden hour glow, casting long shadows and highlighting the interplay between the children and their environment.
+Seed: 3688597336
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Play, Balance

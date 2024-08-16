@@ -1,0 +1,4 @@
+Prompt: A lush and dense rainforest scene at dawn, trees covered in vibrant mosses and vines stretching high into the misty sky. Giant ferns and tropical flowers form a thick underbrush. In the center of the image is a small, crystal-clear pond reflecting the subdued light of an overcast sky. Soft beams of light pierce through the dense canopy, casting gentle, dappled shadows on the forest floor. There are no animals or people in sight, highlighting the pristine and untouched nature of the environment. The style is hyper-realistic digital art, with meticulously detailed foliage, bark textures, and water reflections. The background fades into the subtle mist, giving an impression of depth and seclusion. The overall scene is enveloped in a soft, serene silence, accentuated by the visual stillness and tranquility of the forest setting.
+Seed: 2855896507
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silence, Rainforest

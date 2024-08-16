@@ -1,0 +1,4 @@
+Prompt: A glamorous futuristic cityscape at night, with towering glass skyscrapers adorned with neon lights and holographic advertisements. The stars are visible in a clear night sky, while sleek, flying cars zip through the air between the buildings. The streets below have well-dressed people in fashionable, high-tech attire chatting, shopping, and enjoying the nightlife. There is a lush, green park with illuminated walkways and benches where couples stroll and families gather. The scene is bathed in a soft, cool blue glow from the neon lights and a warm golden hue from ornate street lamps. This image is captured as a highly detailed digital painting with a focus on intricate light reflections on glass surfaces and the vibrant dynamics of the city. The background features a distant view of a futuristic harbor with advanced ships docked, adding depth to the image.
+Seed: 1662244187
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fondness, Glamorous

@@ -1,0 +1,4 @@
+Prompt: A fantastical landscape bathed in the soft, golden light of a setting sun, featuring a serene meadow filled with vibrant, oversized flowers and luminous floating orbs. In the background, towering, otherworldly mountains capped with sparkling crystals stretch towards a sky painted in shades of purple and pink. At the center of the scene, an ancient stone observatory stands tall, its large telescope directed towards the horizon. Near the observatory, a lone mage dressed in intricate, flowing robes adorned with mystical symbols is seen performing a spell, with shimmering energy swirling around their staff. The image is rendered in the style of a highly-detailed oil painting, capturing the depth and richness of colors, with meticulous attention to texture and shadow.
+Seed: 2339863898
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Observe, Mage

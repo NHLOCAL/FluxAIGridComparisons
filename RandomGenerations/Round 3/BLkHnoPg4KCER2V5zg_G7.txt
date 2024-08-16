@@ -1,0 +1,4 @@
+Prompt: Prompt: A fantastical landscape set in a futuristic city nestled within a lush, verdant forest. Sleek, silver skyscrapers rise high, their surfaces reflecting the surrounding green hues of towering trees. At the base, a meandering river glistens under the bright mid-morning sun, casting a pristine light over the scene. Hovering vehicles traverse the skyways between the buildings. A group of individuals wearing futuristic, utilitarian clothing stands on a transparent walkway, each appearing engrossed in small, holographic screens emerging from their wrist devices. In the background, majestic mountains fade into a misty horizon. The style of the artwork resembles a highly detailed digital painting, with vibrant, hyper-realistic colors and sharp contrasts between technology and nature.
+Seed: 861073027
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tip, Boredom

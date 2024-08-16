@@ -1,0 +1,4 @@
+Prompt: An oil painting set in a futuristic landscape. The scene features a magnificent, highly advanced bridge spanning across a serene river filled with bioluminescent water. The bridge, made of sleek, transparent materials and incorporating intricate holographic generators, supports diverse generations of people in futuristic attire. The adults wear streamlined outfits with tech accessories, while children play with floating, interactive toys. In the background, towering skyscrapers of unconventional, fluid shapes glisten with neon lights. The sky above is a twilight gradient from deep blue to violet, dotted with stars and distant flying vehicles casting gentle trails of light. Glowing lanterns line the bridge, illuminating the scene with a soft, warm glow, and futuristic gardens with luminous plants dot both sides of the river, blending nature with high tech.
+Seed: 3660771277
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bridge, Generation

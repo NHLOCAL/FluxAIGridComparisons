@@ -1,0 +1,4 @@
+Prompt: "A surreal oil painting of a futuristic highway at twilight, with lanes that twist and spiral into the sky, merging with neon lights. The highway is eerily empty except for a single, old-fashioned ambulance that looks out of place, its once-bright red paint now faded and chipped. In the background, the cityscape is a mixture of towering, gleaming skyscrapers and derelict buildings, with holographic billboards flickering. The sky alternates between vibrant purples and deep blues, dotted with dark, ominous clouds. Hovering faintly above the highway are ghostly, semi-transparent figures that appear to be fading in and out, symbolizing the pervasive presence of an invisible illness. The painting features dramatic lighting, with sharp contrasts between shadows and the few artificial lights casting an eerie glow."
+Seed: 4080212658
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Illness, Highway

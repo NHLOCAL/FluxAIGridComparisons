@@ -1,0 +1,4 @@
+Prompt: A futuristic classroom filled with diverse students engrossed in interactive holographic lessons. The room is bathed in soft, ambient lighting that changes hues subtly, reflecting the various subjects they're learning. The background features sleek, high-tech equipment and large, panoramic windows showcasing a vibrant, utopian cityscape with floating vehicles and towering, eco-friendly skyscrapers. The teacher, an android with a friendly and approachable design, assists students individually. The style is hyper-realistic digital art, capturing intricate details in both the humans' attire and the futuristic technology surrounding them.
+Seed: 72786418
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Guidance, School

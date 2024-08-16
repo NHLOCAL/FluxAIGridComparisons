@@ -1,0 +1,4 @@
+Prompt: Prompt: A futuristic cityscape at twilight, where towering, sleek skyscrapers meet a sprawling, serene garden filled with bioluminescent plants. The sky is a cascade of deep purples and blues, illuminated by the glow of neon signs and floating drones. In the foreground, a diverse group of people clad in advanced, elegant attire engage in lively conversation around a majestic, iridescent fountain that stands as a symbol of union. The background showcases a horizon where the last rays of the setting sun are mirrored against the glass structures, making the city shimmer. The entire scene is rendered in the style of a hyper-realistic digital painting, capturing every fine detail and light reflection.
+Seed: 3327543776
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Splendid, Union

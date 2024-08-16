@@ -1,0 +1,4 @@
+Prompt: A futuristic urban landscape set during twilight, with metallic skyscrapers stretching into the sky, their windows aglow with soft, ambient lighting. The scene is bustling with humanoid robots and humans interacting on the streets, exchanging goods at floating market stalls lit by neon signs. The architecture blends sleek, modern designs with organic curves, giving it an otherworldly feel. Flying cars zip through the air above, creating trails of light behind them. In the background, a colossal, moon-like celestial body looms ominously close, casting a gentle, bluish luminescence over the entire city. The image should be created in the style of a hyper-realistic digital painting, with intricate details and vibrant colors. Shadows are deep and well-defined, accentuating the futuristic structures and giving the scene a sense of depth and complexity.
+Seed: 2212085544
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pity, Sensation

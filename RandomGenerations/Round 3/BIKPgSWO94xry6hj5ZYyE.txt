@@ -1,0 +1,4 @@
+Prompt: An expansive vineyard stretching to the horizon under a cerulean sky, dappled with soft, wispy clouds. Winding through the rows of grapevines, a cobblestone route meanders, invitingly lit by the gentle glow of a late afternoon sun. In the distance, a quaint, rustic farmhouse stands with terracotta rooftiles, nestled among the greenery. There are no people in sight, emphasizing the serene, untouched beauty of the landscape. The scene captures the serenity and timelessness of the present moment. The foreground features meticulously detailed grape leaves casting delicate shadows on the path. This setting is depicted in the style of a realistic oil painting, with rich, textured brushstrokes capturing the vibrant colors and intricate details of nature.
+Seed: 2328483615
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vineyard, Route

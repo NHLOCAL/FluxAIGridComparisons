@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk with towering skyscrapers made of chrome and glass, reflecting the last rays of the setting sun. Hovering vehicles move silently through the air, casting soft shadows on the streets below. In the foreground, a humanoid specter figure, translucent and ethereal, stands on a ledge overlooking the city. The specter is cloaked in flowing, ancient robes that contrast sharply with the ultra-modern surroundings. The style is a blend of photorealism and cyberpunk art, capturing intricate details and vibrant colors with a slightly surrealistic edge. Neon signs and holograms illuminate the background, casting a cascade of vivid, multi-colored lights across the scene. The entire image evokes an atmosphere of mystique and advanced technology, where the old world meets the new.
+Seed: 3437713737
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Specter, Authenticity

@@ -1,0 +1,4 @@
+Prompt: A vibrant, detailed oil painting set in an enchanted forest filled with towering, bioluminescent trees whose leaves glow in shades of blue and green. In the foreground, a charismatic young prince dressed in period attire is seen in mid-proposal to a fairy-like dwarven princess. She stands on a moss-covered boulder with intricately patterned wings that shimmer in the ambient light. The scene is lit by soft, diffused moonlight filtering through the trees, casting delicate shadows and giving the whole setting a magical glow. The background showcases an ancient, majestic castle partly covered in creeping vines and colorful flowers. The whole composition is imbued with a timeless, fairytale quality, drawing from fantastical, surreal elements to create a scene from a mythical past. The narrative and intricate details invite a sense of wonder and enchantment.
+Seed: 2377839647
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Wooing, Dwarf

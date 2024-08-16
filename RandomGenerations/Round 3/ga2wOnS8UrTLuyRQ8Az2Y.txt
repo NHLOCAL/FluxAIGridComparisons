@@ -1,0 +1,4 @@
+Prompt: A surreal futuristic cityscape merging ancient and modern architecture, with towering glass skyscrapers integrated seamlessly with ornate, ancient temples. In the foreground, two individuals—one dressed in traditional ancient robes and the other in a sleek, modern suit—stand side by side looking out over the city, symbolizing the collaboration between past and future. The sky is an amalgamation of deep purple and electric blue hues, illuminated by a dual sunset and glowing neon advertisements. The intricate details of the buildings are highlighted by golden light reflecting off both old sandstone and modern metal surfaces. This scene is rendered in the style of an elaborate oil painting, with rich textures and vibrant colors, giving it a timeless, dreamlike quality.
+Seed: 3540693424
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Norm, Partnership

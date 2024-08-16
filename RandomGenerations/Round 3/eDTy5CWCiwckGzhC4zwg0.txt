@@ -1,0 +1,4 @@
+Prompt: Create an oil painting titled "Epic Grace," depicting a vast celestial landscape from the distant future where sky islands float majestically above a shimmer of an infinite ocean. Each island is adorned with ancient, elegant alien architecture featuring soaring spires and delicate bridges connecting the landmasses. Inhabiting these islands are humanoid figures clad in ornate, flowing garments made of iridescent fabric. The scene is bathed in a gentle twilight with a giant, luminous nebula casting an ethereal glow across the composition. Stars and distant galaxies are visible in the background, blending seamlessly into the misty horizon. The painting captures a serene moment where advanced technology and natural beauty coexist harmoniously, illustrated with intricate detail and sweeping, grandiose strokes reminiscent of the Romantic era.
+Seed: 235289569
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Graceful, Epic

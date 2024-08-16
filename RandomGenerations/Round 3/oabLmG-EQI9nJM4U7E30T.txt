@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape set in a bustling spaceport on a distant planet, with towering silver and glass skyscrapers under a lavender sky filled with multiple moons and planets visible in the background. People of various species, including humans, robots, and aliens, walk and float around in advanced attire made of shimmering fabrics, some carrying futuristic gadgets. The scene is illuminated by both natural light from the celestial bodies and neon signs in multiple languages. In the foreground, there is a spaceship preparing to take off, with its sleek design and vibrant thrusters casting dynamic shadows. This image is an oil painting with meticulous attention to details, blending realism with sci-fi elements, and uses a broad spectrum of colors to create a rich, immersive atmosphere.
+Seed: 1852424708
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Probability, Adventure

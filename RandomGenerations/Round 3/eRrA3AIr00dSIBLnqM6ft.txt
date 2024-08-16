@@ -1,0 +1,4 @@
+Prompt: A futuristic metropolis at dusk, with towering skyscrapers made of reflective glass and bioluminescent plants that light up the walkways. In the foreground, there's a grand, open-air concert stage made of sleek, metallic materials, with an orchestra of robots playing various high-tech instruments under a glowing holographic canopy. The audience comprises diverse humans and androids, standing together and watching the performance. The scene is lit by the soft purple and orange hues of the setting sun, casting elongated shadows and creating a sense of calm anticipation. The backdrop features a sprawling cityscape with flying vehicles and distant, neon-lit billboards. This imaginative image should be depicted as a hyper-realistic digital painting, capturing every intricate detail of the futuristic environment.
+Seed: 2596154967
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Power, Music

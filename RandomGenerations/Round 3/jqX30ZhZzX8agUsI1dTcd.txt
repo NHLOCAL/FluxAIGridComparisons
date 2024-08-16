@@ -1,0 +1,4 @@
+Prompt: A futuristic underwater city illuminated by bioluminescent vegetation and neon lights, seen through the clear waters of a vast ocean. In the foreground, a mermaid with iridescent scales and flowing hair intricately woven with seaweed clasps hands with a human diver in a sleek, high-tech suit. They are posed gracefully, symbolizing a harmonious partnership. Around them, other mermaids and humans work together on advanced marine technology, while schools of fish and serene marine creatures glide by. The background reveals towering, transparent architecture blending seamlessly with coral formations. The scene is depicted in a hyper-realistic digital art style, capturing every detail down to the shimmering light reflections, the intricate textures of the scales, and the futuristic, yet organic design of the city buildings.
+Seed: 2953852293
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mermaid, Partnership

@@ -1,0 +1,4 @@
+Prompt: A futuristic, silver-hued cityscape in ruins, set in a vast, barren desert under an overcast sky. The remnants of towering skyscrapers, now twisted and broken, dominate the foreground, with metallic debris scattered across the sands. A few robotic figures, weathered and damaged, wander aimlessly among the wreckage. The lighting is dim and eerie, with flashes of distant lightning illuminating the scene sporadically. In the background, mountains encircle the desolate city, shrouded in mist. The scene is depicted in a hyper-realistic digital art style, capturing intricate details of the decaying architecture and remnants of advanced technology.
+Seed: 2492130439
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Silver, Ruin

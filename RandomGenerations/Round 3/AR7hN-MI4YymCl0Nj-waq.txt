@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape showcasing a vast, otherworldly library, where towering bookshelves made of crystal and metal spiral towards a starry sky. The scene is bathed in a soft, ethereal glow emanating from both bioluminescent plants and floating orbs of light. In the foreground, a wise old alchemist, dressed in intricate robes adorned with arcane symbols, is meticulously mixing potions at an ornate wooden table filled with ancient tomes and bubbling vials. The background reveals a panoramic window opening to an alien skyline dotted with hovering buildings and neon-lit zeppelins. This is an ultra-high definition digital art piece that masterfully blends elements of steampunk and fantasy, capturing intricate details and vivid colors.
+Seed: 1600097182
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Knowledge, Alchemist

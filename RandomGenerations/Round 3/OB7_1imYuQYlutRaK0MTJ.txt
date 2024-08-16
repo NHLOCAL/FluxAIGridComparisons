@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape with towering, sleek skyscrapers made of glass and metal under a twilight sky transitioning from blue to purple. The buildings have lush, vertical gardens adorning their facades, and skybridges with trees and flowers connecting them. Hovering vehicles glide smoothly through the air. On the ground, diverse people in ultra-modern, stylish attire walk along streets lined with bioluminescent pathways. In the background, a vast waterfall cascades from a cliff covered with dense, exotic jungle vegetation, illuminated by distant floating orbs of light. The scene is lit by the gentle, ambient glow of advanced holographic billboards and the soft light of bioluminescent plants. The overall style is a blend of hyper-realistic photography and digital painting.
+Seed: 2565479697
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Life, Exquisite

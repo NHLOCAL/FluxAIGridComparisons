@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk, with towering skyscrapers that have lush greenery cascading from their balconies and rooftops. In the background, an orange and purple sky is illuminated by the setting sun, casting long shadows and highlighting the chrome and glass structures. Hovering vehicles zip through the air on clearly marked sky lanes. The streets below are bustling with diverse people in avant-garde, high-tech fashion, interacting with holographic displays and robots. Floating above a city plaza, there's a massive digital gallery showing rotating displays of classic and contemporary artwork, vivid in detail. The scene is rendered in a hyper-realistic style, akin to a high-definition digital photograph, with sharp contrasts, intricate details, and vibrant colors that make every element of the scene pop.
+Seed: 603913077
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Display, Gallery

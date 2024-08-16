@@ -1,0 +1,4 @@
+Prompt: A futuristic steampunk orchard bathed in twilight, with towering fruit trees that have mechanical branches and leaves made of brass and copper. The sky is a mix of deep purples and oranges, casting a soft but vibrant glow over the scene. There are no people visible, but the presence of small steam-powered automatons picking fruit adds life and movement to the image. In the background, there are distant, hazy outlines of Victorian-era buildings with tall chimneys emitting soft white plumes of steam. The image is rendered in the rich, deep tones of an oil painting, with intricate details in the metal components of the trees and the gentle, diffused light bathing the entire scene.
+Seed: 4275700841
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Orchard, Steam

@@ -1,0 +1,4 @@
+Prompt: A futuristic city landscape during twilight, where colossal framework structures tower over a sprawling, vibrant marketplace. The structures are made of sleek, metallic materials with glowing blue lines, giving a cyberpunk aesthetic. Below, the marketplace is a hive of activity, with people dressed in a mix of high-tech gear and traditional harvest festival attire, symbolizing a blend of past and future. The lighting casts long shadows, blending the warm, golden hues of harvest-themed lanterns with the cool, neon lights from overhead drones. The background features distant futuristic skyscrapers with holographic billboards. This scene is depicted as a highly detailed digital painting.
+Seed: 86825780
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Framework, Harvest

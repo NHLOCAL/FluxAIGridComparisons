@@ -1,0 +1,10 @@
+Prompt: Create a surrealistic oil painting set in a future dystopian landscape where the remnants of a once-thriving city now lie in ruins. The sky is a haunting mix of dark purples and sickly greens, with patches of an unnatural, luminous fog hovering in the air. The scene is illuminated by an eerie, otherworldly light emanating from massive, floating crystal structures that hover above the decaying buildings. These crystal structures are intricately detailed, with sharp, angular facets that glow faintly as if housing an inner life force.
+
+In the foreground, human-like figures with elongated limbs and intricate, biomechanical exoskeletons wander through the rubble, scavenging for remnants of the past. The ground is littered with twisted metal, shattered glass, and the overgrown roots of bizarre, luminescent flora that choke the ruins with their serpertine vines.
+
+The background features towering, skeletal skyscrapers, their once-imposing structures now reclaimed by the wild. Strange, bird-like creatures with metallic feathers glide silently through the air, casting elongated shadows over the debris below. The edges of the painting have a soft, almost dreamlike blur, contrasting with the hyper-realistic detail of the central elements.
+
+This painting captures the essence of a world where technology and nature have fused into a new, alien existence, portraying the soul of a civilization caught in the twilight between collapse and rebirth.
+Seed: 1549193792
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Essence, Soul

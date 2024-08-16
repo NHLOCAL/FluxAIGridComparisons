@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk, captured as a hyper-realistic digital painting. The scene features towering skyscrapers with innovative, organic shapes that blend seamlessly with lush vertical gardens. The skyline is punctuated by floating platforms and airships, emphasizing human ingenuity and technological advancement. In the foreground, diverse groups of people in avant-garde attire walk along transparent promenades, some interacting with holographic devices that project vivid, three-dimensional information. The lighting is a mix of the warm, golden hues of the setting sun and the cool, neon glows from various electronic billboards and streetlights. The background reveals a serene, blue horizon transitioning to a star-filled sky, symbolizing the blend of nature with human invention.
+Seed: 2871726956
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Identity, Invention

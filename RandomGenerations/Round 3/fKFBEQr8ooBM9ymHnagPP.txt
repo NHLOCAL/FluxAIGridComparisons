@@ -1,0 +1,4 @@
+Prompt: A fortified castle perched on a cliff’s edge overlooking a vast, stormy ocean. At dawn, the sky is painted with hues of deep purples and soft pinks as the first light illuminates the dark, medieval fortress. An ornate stone statue, acting as a memorial, stands at the castle's entrance, depicting a knight in shining armor holding a large, intricately carved gift box. The scene is devoid of people, giving it a timeless and solemn atmosphere. In the distance, tall, jagged mountains rise from the mist, framing the scene. The image is created in the style of a hyper-realistic oil painting with rich textures and vivid details, capturing the interplay of light and shadow on the rugged landscape and ancient structure.
+Seed: 3927731362
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Memorial

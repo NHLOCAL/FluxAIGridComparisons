@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk seen from a high vantage point, oil painting style. The skyline features sleek, towering skyscrapers with neon-lit accents and rooftop gardens. Hover cars zip through sky bridges connecting buildings, occasionally pausing at floating traffic lights. On the ground, people in streamlined, metallic outfits walk along clean, organized streets with holographic billboards displaying vibrant advertisements. In the foreground, a group of engineers huddles around a holographic map, reorganizing routes as they prepare to overcome a major infrastructure hurdle: constructing a new energy-efficient transport hub. The sky is a gradient of deep purples and oranges as the sun sets, casting long shadows and highlighting the city in a warm, futuristic glow.
+Seed: 210201955
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hurdle, Organization

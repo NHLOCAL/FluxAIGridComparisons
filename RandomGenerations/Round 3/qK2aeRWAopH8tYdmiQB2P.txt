@@ -1,0 +1,4 @@
+Prompt: "A futuristic cityscape at dawn, set on a floating island above the clouds. Sleek, towering skyscrapers constructed from shimmering glass and metal reflect the rising sun's golden rays. Hover cars glide effortlessly between the buildings, leaving trails of light behind. In the foreground, a group of engineers in cutting-edge, high-tech uniforms are seen making adjustments to a massive, intricate energy generator, representing their commitment to innovation and progress. The sky is a canvas of soft pastel hues, blending oranges, pinks, and purples as the day begins. This scene is captured as a highly detailed digital painting, with vivid colors and sharp contrasts that balance the ethereal cloudscape with the futuristic architecture. The background features the cloud tops stretching out to infinity, giving a sense of boundless potential."
+Seed: 2037036578
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vow, Idea

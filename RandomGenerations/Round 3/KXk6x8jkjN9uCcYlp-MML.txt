@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape at sunset featuring a massive geyser erupting in the distance. The scene is filled with advanced, glowing technology embedded in the terrain, with holographic signs indicating a long-abandoned research facility. The intense orange and purple hues of the setting sun cast dramatic shadows over the cracked, dry earth and the shimmering, reflective surfaces of futuristic ruins. Robotic remnants and advanced machinery are scattered, partially overgrown with bioluminescent plants. In the foreground, a couple of explorers clad in high-tech exosuits stand on a crumbling metallic platform, gazing at the awe-inspiring geyser as it shoots high into the air, catching the last light of day. The scene is depicted in a highly detailed digital art style, balancing sharp, realistic elements with fantastical touches.
+Seed: 23590332
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ending, Geyser

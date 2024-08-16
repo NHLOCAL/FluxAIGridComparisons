@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape featuring a sprawling city built on floating platforms above a turquoise ocean. In the foreground, robotic humanoids with intricate designs are seen walking along sleek, metallic bridges connecting the platforms. The sky has a twilight hue with streaks of pink, orange, and deep blue, casting a serene glow over the scene. Advanced airships hover gracefully in the background, with towering, neon-lit skyscrapers that pierce the heavens. The city is alive with a medley of holographic advertisements and soft, ambient lights emanating from the buildings. The style of the image is hyper-realistic digital art, with sharp details and vibrant colors that make the scene pop. The overall lighting is a mix of natural twilight and artificial city lights, highlighting the advanced technology and the pristine beauty of the environment.
+Seed: 2674903944
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Variation, Prize

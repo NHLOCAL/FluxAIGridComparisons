@@ -1,0 +1,10 @@
+Prompt: Create an image of a large, ancient workshop belonging to a wise wizard set in a mystical forest during the twilight hours of the future. The workshop is built inside a colossal hollowed-out tree, its bark rough and gnarled with age. The interior is illuminated by a soft, ethereal blue glow from enchanted crystals embedded in the walls. 
+
+The wizard, a tall figure clad in flowing robes made of star-like material that shimmers subtly, is at his workbench covered with strange mechanical devices, alchemical equipment, and ancient books filled with runes. At the far end, a large, ornate window with intricate stained glass designs depicting celestial constellations allows the last light of the setting sun to filter through, casting colorful patterns on the wooden floor.
+
+In one corner, there are half-finished futuristic gadgets and mystical artifacts. Vines with glowing flowers intertwine throughout the space, bringing a touch of the natural world into the otherwise wizardly environment. 
+
+The image should have a surreal, dreamlike quality, as if it were an oil painting with rich, vibrant colors and fine details that invite the viewer to explore every nook and cranny of the magical workshop.
+Seed: 3025229525
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Workshop, Wizard

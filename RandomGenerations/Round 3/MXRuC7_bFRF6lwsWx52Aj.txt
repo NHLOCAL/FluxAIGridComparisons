@@ -1,0 +1,4 @@
+Prompt: A surreal garden in the style of a futuristic oil painting. The garden features lush, oversized plants with bioluminescent petals that emit a soft, glowing light. In the sky above, a supernova is captured mid-explosion, casting vibrant, swirling colors of purple, blue, and orange across the entire scene. The garden is dotted with futuristic, transparent structures that blend seamlessly with the natural elements. In the background, towering trees with silver bark and iridescent leaves sway gently. The lighting is a mix of the warm glow from the garden's bioluminescence and the stark, intense light from the supernova above, creating a striking contrast. No people are present, emphasizing the ethereal and untouched nature of this otherworldly landscape.
+Seed: 375424891
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Garden, Supernova

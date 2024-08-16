@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape set in a distant world, where towering, crystal-like skyscrapers made of shining, translucent jewels dominate the skyline. People are visible, wearing sleek, metallic garments that reflect the jewel-toned lights emanating from the buildings. The scene is lit by an enormous sun, setting on the horizon, casting long shadows and a golden glow over the landscape, mingling with the multiple hues of the crystal structures. The background features a distant range of mountains with peaks that also seem to be encrusted with jewels, under a sky gradually transitioning from a deep blue to a star-speckled expanse. The style is a highly detailed digital painting, with a focus on realism and intricate light refraction through the jewel-like structures, showcasing the power and advanced technology of this civilization.
+Seed: 2295574475
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Jewel, Power

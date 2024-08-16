@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at sunset with sleek, soaring skyscrapers of innovative designs. Hovering cars zip through the sky, and holographic advertisements project vibrant images above the bustling streets. The golden hues of the setting sun reflect off glass buildings, casting a warm, ethereal glow across the scene. In the foreground, a diverse crowd of people wearing futuristic clothing gather around a vibrant street market filled with exotic fruits, robotic vendors, and interactive art displays. The scene is depicted in highly detailed digital art, resembling a mix of cyberpunk and utopian styles, capturing the intricate details and vibrant atmosphere. Background includes distant mountains with floating wind turbines, shrouded in a slight mist, enhancing the sense of both wonder and delight.
+Seed: 3816317504
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Joy, Surprise

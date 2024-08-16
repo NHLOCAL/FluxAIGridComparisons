@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape scene where towering steel skyscrapers interlace with intricate networks of neon-lit skybridges. The architecture combines sleek, modern lines with elements of Art Deco, featuring metallic hues and glistening surfaces. In the foreground, shadowy figures wearing sophisticated, high-tech attire gather in small groups, suggesting clandestine meetings within an underground syndicate. The backdrop reveals a vast urban landscape, blending heavyweight steel structures with vibrant digital advertisements projected against building facades. The setting is cast in twilight, where the deep blues of the night sky fade into the city’s artificial lights, creating a striking contrast. The overall style is a hyper-detailed, digital illustration, capturing both the grand scale of the metropolis and the intricate details of technology and attire.
+Seed: 1804964493
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Syndicate, Steel

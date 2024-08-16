@@ -1,0 +1,8 @@
+Prompt: Create a surreal futuristic landscape showcasing a high-tech science laboratory set in a sprawling, open-air quarter of a futuristic city. The scene is set during a bright, clear daylight, with the sky a vibrant blue and a few high-tech drones zipping through the air. The background features towering skyscrapers with lush vertical gardens and floating walkways connecting them. 
+
+In the foreground, a glass dome encapsulates part of the lab, with holographic displays visible through the transparent walls. Scientists wearing sleek, metallic suits are interacting with advanced robotic assistants, while large screens show complex data visualizations. 
+
+The ground is a blend of verdant green parks interspersed with metallic pathways, and there are solar panels integrated into various surfaces. The style is highly detailed and futuristic, blending photorealism with elements of vibrant comic art, ensuring a dynamic and visually engaging composition.
+Seed: 14190587
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Science, Quarter

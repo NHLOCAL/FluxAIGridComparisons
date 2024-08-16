@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk featuring towering skyscrapers with glowing neon signs, flying cars zipping through the sky, and pedestrians on elevated walkways. The sky has hues of deep purple and pink as the sun sets behind the horizon. The architecture blends sleek, modern design with elements of cyberpunk. In the foreground, a young woman glances up at a holographic advertisement with a curious expression, while a sleek drone scans her face with precision, emitting a sharp laser light. The scene is intricately detailed, with the reflections of neon lights bouncing off metallic surfaces and rain-slicked streets. This image should be rendered in a hyper-realistic digital painting style, capturing the vibrancy and depth of this imagined future world.
+Seed: 3397427815
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glance, Laser

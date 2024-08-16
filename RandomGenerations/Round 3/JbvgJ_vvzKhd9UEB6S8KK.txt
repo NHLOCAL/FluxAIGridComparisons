@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at dusk, with towering skyscrapers made of iridescent glass and metal, casting long shadows on the ground. Neon lights illuminate the scene, with holographic advertisements floating in the air. In the center, a massive, high-tech firewall system is depicted as a glowing, translucent dome with intricate patterns of circuitry and energy flowing through it. People in sleek, modern attire walk around, some interacting with holographic interfaces. The sky is a gradient of deep blues and purples, with a few flying cars zipping through the air. The art style is hyper-realistic digital art with sharp, vibrant colors and detailed textures. In the background, a lush, vertical garden climbs one of the skyscrapers, adding a touch of nature to this advanced urban environment.
+Seed: 596909450
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Firewall, Theme

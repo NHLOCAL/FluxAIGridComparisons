@@ -1,0 +1,4 @@
+Prompt: An oil painting depicting a majestic medieval castle perched atop a lush green hill, surrounded by a vibrant forest in full bloom. The scene captures the early morning light as the sun rises, casting a golden hue over the landscape and creating long, soft shadows. In the foreground, villagers dressed in simple, yet colorful medieval attire are seen bringing baskets of fruits, flowers, and other goods towards the castle, symbolizing their appreciation and reverence. The castle itself is grand, with tall towers, fluttering pennants, and stone walls covered in ivy. In the background, the sky is a rich gradient of oranges, pinks, and purples, with wispy clouds that reflect the dawn's light. The overall style is realistic with an emphasis on rich colors and intricate details, reminiscent of the works of the Renaissance period.
+Seed: 2159291894
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Castle, Gratitude

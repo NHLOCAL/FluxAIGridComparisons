@@ -1,0 +1,8 @@
+Prompt: A fantastical underground dungeon scene set in a dark, cavernous expanse. The majority of the environment is illuminated by scattered, glowing bioluminescent mushrooms and magical runes carved into the stone walls, casting an ethereal blue and green light throughout the chamber. The architecture is a blend of gothic and ancient design, with tall, arched doorways and elaborately carved stone pillars adorned with intricate, timeworn glyphs. The dungeon is filled with detailed textures such as cracked stone floors, creeping vines, and moss-covered surfaces. 
+
+In the foreground, a noble deer stands majestically; its antlers are adorned with faintly glowing crystals, adding a mystical element to the creature. The deer has an otherworldly aura, contrasting against the dark, foreboding environment. The background features a large, ancient door with massive iron hinges and an ornate lock, hinting at treasures or dangers that lie beyond.
+
+This scene is envisioned as a highly detailed oil painting, with rich, vibrant colors and meticulously crafted shading that brings depth and realism to the fantasy setting. The light sources create dramatic shadows, emphasizing the textures and adding a sense of mystery and wonder to the picture.
+Seed: 1260632776
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Dungeon, Dear

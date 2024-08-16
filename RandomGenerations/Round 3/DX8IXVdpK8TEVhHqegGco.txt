@@ -1,0 +1,4 @@
+Prompt: A majestic, futuristic cityscape at dusk, viewed from a high vantage point. Skyscrapers with green rooftops and solar panels dominate the skyline, while flying vehicles zip through the sky. In the foreground, an advanced research library with a glowing holographic sign reading "Central Knowledge Repository" stands tall, surrounded by a lush park with citizens in sleek, modern attire walking, reading, and engaging in discussions. A group of individuals gathered around the statue of a loyal dog symbolizes the importance of loyalty. The scene is bathed in the warm, golden glow of the setting sun, casting long shadows and highlighting the intricate architecture. This photorealistic digital artwork captures the seamless blend of nature and technology, evoking a sense of harmony and progress.
+Seed: 3044612443
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Knowledge, Loyalty

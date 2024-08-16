@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic digital painting set in a futuristic, neon-lit urban street at night, featuring two fashion-forward individuals in the foreground. The scene is alive with vibrant colors: glowing billboards, holographic advertisements, and illuminated shop signs. The background showcases towering skyscrapers with massive digital screens. The two individuals are dressed in avant-garde, high-tech fashion, detailed with sharp lines, metallic textures, and dynamic LED patterns. The street beneath their feet is wet, reflecting the myriad of lights and adding a sense of depth and atmosphere. The overall scene has an energetic, bustling vibe, with crowds in the background and a few hovering drones capturing the hustle and bustle. The painting style focuses on meticulous detail, immersing the viewer in the futuristic setting.
+Seed: 2390134540
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fashion, Shout

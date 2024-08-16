@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at twilight, depicted as a highly detailed digital painting. The scene features towering skyscrapers with neon lights and holographic advertisements. People in sleek, high-tech clothing walk along elevated walkways. Flying cars zoom between the buildings, and robotic assistants accompany some of the pedestrians. The sky has a gradient from deep purple at the horizon to pitch black at the top, dotted with stars. The buildings are designed with a modern aesthetic, using a combination of glass, metal, and green foliage. Bright lights emanate from windows, streetlamps, and holograms, casting reflections on the wet surfaces from a fresh rain. In the background, a river winds through the city, with illuminated bridges crossing over it. The fidelity of the scene is high, capturing intricate architectural details and lifelike textures.
+Seed: 2207962863
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Light, Fidelity

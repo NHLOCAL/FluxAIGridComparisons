@@ -1,0 +1,4 @@
+Prompt: Create an imaginative scene set in an underwater workshop where a mermaid is crafting intricate, bioluminescent jewelry out of pearls and coral. The mermaid, with shimmering aqua-blue scales and flowing sea-green hair, sits at a coral workbench covered with various tools made from seashells and driftwood. The background reveals a vibrant underwater seascape with colorful coral reefs, swaying seaweed, and schools of tropical fish. The setting is illuminated by natural underwater light filtering down from the surface, enhanced by the gentle glow of bioluminescent marine organisms scattered around. In the distance, the silhouette of an ancient, sunken ship adds a touch of mystery. Painted in a detailed, realistic oil painting style, the scene captures every nuanced texture and color, from the mermaid's delicate scales to the rugged, time-worn wood of the shipwreck.
+Seed: 1381864454
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Workshop, Mermaid

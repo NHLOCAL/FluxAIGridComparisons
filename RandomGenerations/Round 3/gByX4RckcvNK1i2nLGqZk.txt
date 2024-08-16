@@ -1,0 +1,4 @@
+Prompt: An oil painting set in an ancient Grecian labyrinth during twilight. The scene depicts a massive, muscular Minotaur standing at the center, appearing fierce and menacing with glowing red eyes and flaring nostrils. The labyrinth is made of high, moss-covered stone walls, imbued with intricate engravings and ancient symbols. A dim, eerie light filters through the overcast sky, casting long, sinister shadows that stretch across the floor. The background shows hints of crumbled architecture and towering sculptures of Greek deities, partially reclaimed by nature. In the foreground, shattered weapons and armor pieces suggest a violent past. This image is devoid of humans; it focuses solely on the intimidating presence of the Minotaur in its dark, historical domain.
+Seed: 466828665
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Minotaur, Hate

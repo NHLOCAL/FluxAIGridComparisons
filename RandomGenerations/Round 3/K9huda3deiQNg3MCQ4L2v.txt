@@ -1,0 +1,4 @@
+Prompt: A futuristic coastal cityscape during a golden sunset, where towering skyscrapers blend with natural rock formations. In the sky, a spectacular, swirling black hole dominates the horizon, pulling in celestial debris with luminous trails. The city's sleek, reflective buildings have organic shapes, integrating seamlessly with the surrounding cliffs and beaches. On the shore, a diverse group of humans and humanoid robots interact harmoniously, with some participating in leisure activities like surfing on neon-glowing waves. The scene has a glowing, warm light with long shadows cast by the setting sun, reflecting off the water and city structures. The image is rendered as a highly detailed digital painting, with vibrant colors and intricate textures, balancing the natural and the artificial elements in a harmonious fusion.
+Seed: 80660235
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Black hole, Coast

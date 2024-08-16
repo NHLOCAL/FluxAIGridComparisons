@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape stretched across a barren desert under a star-studded night sky. In the foreground, a lone voyager dressed in sleek, high-tech gear holds a holographic map and stands beside a hovering, self-navigating vehicle with blue neon lights glowing softly. The voyager’s posture is upright and confident, firmly clutching the control interface of the vehicle. Further in the background, a colossal, gleaming city made of glass and metal towers looms with lights shimmering like a beacon, connected by floating highways. The scene is illuminated by both the moon and ambient light from the distant city, casting an azure glow over the terrain. The image is rendered in ultra-realistic detail as a high-resolution digital painting, showcasing intricate textures and lighting effects.
+Seed: 3015876002
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Journey, Control

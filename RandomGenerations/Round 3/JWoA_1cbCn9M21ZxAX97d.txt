@@ -1,0 +1,4 @@
+Prompt: "A futuristic cityscape at dusk, where towering skyscrapers with neon accents dominate the skyline. Hover cars zip through the air, creating light trails against the twilight sky. In the foreground, a suave man in an elegant suit and a high-tech smartwatch stands confidently on a balcony overlooking the bustling metropolis below. This image is an ultra-detailed digital painting, blending elements of cyberpunk and realism. The scene is bathed in a mix of natural twilight and artificial neon lights, casting dynamic shadows and vibrant reflections across the glass facades of the buildings. The background features an impressive suspension bridge and distant mountains, partially illuminated by the setting sun."
+Seed: 3482326416
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Suave, Alpha

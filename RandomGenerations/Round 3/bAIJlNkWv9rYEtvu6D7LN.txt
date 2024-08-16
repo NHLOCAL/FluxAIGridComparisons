@@ -1,0 +1,4 @@
+Prompt: A fantastical landscape set in the future: towering crystal formations emitting soft, multicolored glows cast an otherworldly light on the scene. The sky, a mix of twilight purples and deep blues, is punctuated with distant stars and two large moons. In the foreground, a group of humanoid explorers in sleek, high-tech suits equipped with translucent helmets examine a vibrant, bioluminescent plant life. The ground is a reflective, metallic surface, dotted with strange, pulsating fungi. In the background, a massive, futuristic city with spires and floating platforms is visible, outlined in neon lights. The entire scene is painted in a hyper-realistic oil painting style, with intricate details and deep contrasts.
+Seed: 601429890
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Advantage, Fantasy

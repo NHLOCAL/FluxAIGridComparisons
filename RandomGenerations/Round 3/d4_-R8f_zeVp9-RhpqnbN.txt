@@ -1,0 +1,4 @@
+Prompt: Create an oil painting of a futuristic landscape set in an alien world. In the foreground, a diverse group of explorers clad in advanced suits with illuminating gadgets is journeying toward a massive, swirling black hole visible in the sky. The terrain is rocky and filled with strange, glowing plants casting a dim blue light. The sky is a surreal mix of dark purples and blues, with distant stars and galaxies faintly visible. The black hole emits eerie streams of colored light, creating a cosmic dance above. In the background, towering, jagged mountains loom, their peaks shrouded in mists. The overall lighting is dark with an ethereal glow from the plants and the black hole's illumination, highlighting the explorers' path through this otherworldly scene.
+Seed: 173325034
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quest, Black hole

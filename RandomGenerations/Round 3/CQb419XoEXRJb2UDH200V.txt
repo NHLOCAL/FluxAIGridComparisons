@@ -1,0 +1,4 @@
+Prompt: Create an oil painting set in a future landscape where an ethereal hall of cherry blossom trees glows softly under a sky filled with bioluminescent stars. In the background, there are futuristic, transparent skyscrapers reaching towards the heavens. The scene is populated by people wearing elegant, flowing attire made of iridescent fabrics that shimmer as they walk paired in pairs, hand in hand, through the arched pathways of the hall. The lighting is otherworldly, with a gentle, radiant glow emanating from the blossoms, casting a serene and almost magical light on the figures below. The style is reminiscent of Romanticism, with detailed, lush environments and a focus on capturing the intricate beauty of nature and human interaction in an advanced, yet harmonious world.
+Seed: 856909934
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Infatuation, Hall

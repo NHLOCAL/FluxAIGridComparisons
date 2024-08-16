@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape during twilight, staged as a grand theater performance. The scene is lit by glowing neon lights and futuristic street lamps, casting a spectrum of colors onto the sleek, glass buildings. In the foreground, there's a high-tech stage with holographic performers dressed in avant-garde costumes, portraying an epic tale of a utopian society. The background features towering skyscrapers with lush vertical gardens and flying vehicles zipping through the sky. The audience, dressed in elegant futuristic attire, is seated in an outdoor amphitheater with transparent glass seats. The scene is rendered in high-definition, photorealistic style, capturing every intricate detail and reflection, creating a mesmerizing interplay of light and technology.
+Seed: 3862838244
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Theater, Outcome
