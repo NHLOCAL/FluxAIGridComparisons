@@ -1,0 +1,4 @@
+Prompt: A futuristic urban landscape set at dusk, with a vibrant skyline of sleek, towering buildings made of glass and metal, reflecting the last rays of the setting sun. In the foreground, a bustling crowd of people in modern, chic clothing walk along a pristine, tree-lined boulevard with advanced electric vehicles passing by silently. The scene features sophisticated streetlights that cast a soft, golden glow, enhancing the meticulous details of the architecture and the neatly paved road. The background showcases a large, central park with blooming, technicolor flowers and green spaces interspersed with innovative sculptures of abstract design. The style is a hyper-realistic digital rendering, with precise and vivid details, capturing the energy and sophistication of a highly advanced society.
+Seed: 2133152998
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Current, Medal

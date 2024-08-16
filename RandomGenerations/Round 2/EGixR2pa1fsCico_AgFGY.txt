@@ -1,0 +1,4 @@
+Prompt: Create an oil painting of a futuristic cityscape at dawn, where tall, sleek skyscrapers with greenery integrated into their architecture dominate the skyline. Monorail trains glide smoothly on elevated tracks between buildings. In the foreground, a small group of people stands on a rooftop garden, gazing at the city with a sense of wonder. The lighting is soft and golden, highlighting the vibrant greens of the plants and the glassy surfaces of the buildings. In the background, mountains can be faintly seen, hinting at a world where nature and technology coexist. The style of the painting is highly detailed and slightly surreal, capturing the intricate blend of modernity and nature.
+Seed: 1186081875
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Opportunity, Fondness

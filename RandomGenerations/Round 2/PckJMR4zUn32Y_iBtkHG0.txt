@@ -1,0 +1,4 @@
+Prompt: Prompt: "Illustrate a surreal, whimsical landscape set in a pastel-colored candy land, with rolling hills made of cotton candy, sparkling rivers of liquid chocolate, and giant lollipop trees under a sky of swirling sherbet clouds. Inhabit this scene with a group of small, adventurous animals wearing tiny explorer hats and carrying little maps, embarking on a voyage through this sweet terrain. Ensure the lighting is soft and golden, as if just before sunset, casting a warm glow over everything. The style should be reminiscent of a fantastical children’s book illustration, with bright, vivid details and an inviting, dreamlike quality. The background features towering candy mountains and a large, ornate gingerbread castle in the distance, framed by a colorful rainbow arching across the sky. Capture the scene as a highly detailed digital painting."
+Seed: 310374577
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Sweetness, Voyage

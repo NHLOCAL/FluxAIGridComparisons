@@ -1,0 +1,8 @@
+Prompt: Create an oil painting depicting a surreal, futuristic laboratory nestled in a vast, untouched natural landscape surrounded by dense, towering forests and majestic mountains in the background. The scene is bathed in the ethereal glow of aurora lights dancing in the night sky, casting a mix of turquoise and lavender hues over the environment. 
+
+Inside the laboratory, visible through large, transparent domes, intricate machines and glowing neon tubes interweave, displaying organic holographic projections. Scientists in sleek, white uniforms conduct experiments on a variety of hybrid plant and animal species, which exhibit peculiar characteristics such as luminous foliage and bioluminescent fur.
+
+The setting combines elements of pristine nature with cutting-edge technology, blending the organic and the synthetic seamlessly. The style is detailed and hyper-realistic, with careful attention to texture and color, creating a striking juxtaposition between the untamed wilderness and the sophisticated human endeavor within. The entire scene is enveloped in a sense of enigmatic complexity, inviting viewers to ponder the intertwining of nature, science, and the future.
+Seed: 1430289585
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Riddle, Genetic engineering

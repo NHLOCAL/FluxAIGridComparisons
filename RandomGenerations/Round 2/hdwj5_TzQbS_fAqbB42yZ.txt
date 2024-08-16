@@ -1,0 +1,4 @@
+Prompt: A mesmerizing oil painting set in a desolate, vast landscape at twilight. The central focus is an ancient, weathered tomb partially buried in the sands of time. Flickering flames from eternal torches, mounted on either side of the tomb’s entrance, cast dancing shadows on the stone facade, illuminating intricate hieroglyphs and carvings. The tomb is surrounded by scattered remnants of an ancient civilization – broken statues, crumbling pillars, and overgrown vegetation. In the far background, towering rocky cliffs loom under a darkening sky with hues of deep blue, purple, and hints of orange from the setting sun. The painting captures this frozen moment in time with meticulous detail in the textures of the stone and fire, evoking a sense of timeless mystery and the remnants of forgotten history. The scene is devoid of people, enhancing the sense of isolation and abandonment.
+Seed: 1273246186
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Tomb, Fire

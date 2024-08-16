@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at twilight, with sleek, towering structures made of glass and metal, seamlessly integrated with lush green vertical gardens. Hover cars move silently in the sky, while the streets below are almost empty, exuding a sense of stillness. The sky is painted in gradients of purple and deep blue, illuminated by the soft, ambient glow of neon signs and LED streetlights. In the background, distant mountains are silhouetted against the fading light. The scene is depicted in a highly detailed, realistic digital art style, capturing the sharp contrasts and reflective surfaces of the buildings, as well as the intricate details of the greenery interwoven with futuristic technology.
+Seed: 2131852579
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Twilight, Stillness

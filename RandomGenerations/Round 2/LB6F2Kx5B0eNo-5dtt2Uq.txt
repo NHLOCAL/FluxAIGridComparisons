@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at sunset where towering skyscrapers made of sleek chrome and glass reflect the deep red hues of the setting sun. The sky is an intense mix of dark oranges and fiery reds, with clouds appearing like strokes of charcoal. Below, people dressed in avant-garde, high-tech fashion walk on the bustling streets, illuminated by neon signs in bold crimson and magenta. Hovering vehicles zip through the air above magnetic rails. The scene is depicted in a detailed, hyper-realistic digital painting style, capturing each reflection and shadow with precision. In the background, there's an enormous digital billboard displaying a holographic projection of a celestial body, casting a subtle red and blue glow over the crowd. The lighting is dramatic, with sharp contrasts between areas bathed in the warm sunset glow and the cool artificial light of the city.
+Seed: 3169042534
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Red, Passion

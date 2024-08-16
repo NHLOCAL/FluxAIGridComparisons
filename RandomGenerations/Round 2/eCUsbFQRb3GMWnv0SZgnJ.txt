@@ -1,0 +1,4 @@
+Prompt: Create an oil painting that captures a futuristic dystopian cityscape at dusk. The scene should include towering skyscrapers with neon lights casting an eerie glow. In the foreground, an assembly of people dressed in worn-out, ragged clothes stands in a state of protest, holding makeshift banners and signs. The sky is filled with thick, dark clouds, punctuated by the occasional flash of lightning, illuminating the scene with brief, harsh light. The background should feature a massive digital screen on a building facade displaying cold, factual government propaganda messages. The overall atmosphere is tense and charged, with concrete rubble and debris scattered around, signifying recent turmoil. The painting should be highly detailed, with a blend of dark, muted colors and vibrant neon highlights, giving it a gritty, cyberpunk aesthetic.
+Seed: 710264608
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Fact, Anger

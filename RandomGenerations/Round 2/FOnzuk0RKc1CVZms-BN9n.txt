@@ -1,0 +1,4 @@
+Prompt: "Create a highly-detailed oil painting of a futuristic cityscape set at twilight. The skyline is dotted with sleek, towering skyscrapers adorned with glowing neon lights. At the center of the scene, a grand, shining pearl structure stands as a monumental piece of architecture, symbolizing unity and connectivity. Hundreds of people, dressed in futuristic attire with subtle metallic accents, gather in the central plaza below, engaging in lively exchanges and activities. Hovering vehicles glide smoothly through the air, casting soft reflections on the glass facades of the buildings. The sky transitions from deep blue to rich purple, with a few twinkling stars just beginning to appear. This visually stunning piece captures a harmonious blend of advanced technology and human interaction, bathed in the soft glow of urban lights."
+Seed: 1774852407
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Connection, Pearl

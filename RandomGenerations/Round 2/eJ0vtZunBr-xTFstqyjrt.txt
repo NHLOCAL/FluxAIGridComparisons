@@ -1,0 +1,4 @@
+Prompt: An oil painting of a futuristic cityscape at dawn, where towering skyscrapers with sleek, mirrored surfaces reflect the first light of day. In the foreground, a boutique cafe with an elegant, minimalist design featuring large glass windows and a small outdoor seating area with ornate wrought-iron furniture. A sharply dressed figure in a tailored suit stands near the entrance, exuding an air of authority. The streets are clean and lined with smart trees, which have integrated lighting pods glowing softly. In the background, an expansive park with neatly manicured lawns and abstract sculptures are visible. The overall lighting creates long shadows and a serene atmosphere, while the painting style emphasizes intricate details and sharp contrasts.
+Seed: 1055732686
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Authority, Boutique

@@ -1,0 +1,8 @@
+Prompt: A futuristic underwater cityscape at sunset, rendered in hyper-realistic digital art style. The scene features elegantly designed, bio-luminescent architecture resembling clusters of enormous pearls, softly glowing in various hues of blue and green. Streets are made of smooth, translucent materials that allow visibility of the vibrant marine life below. 
+
+People in sleek, streamlined suits with integrated breathing apparatuses walk along these pathways. In the background, vast, open oceans extend into the horizon, filled with coral reefs and schools of fish, adding depth and richness to the scene. The lighting is a golden-orange mix of the setting sun filtering through the water, casting enchanting shadows and reflections.
+
+The entire setting conveys a harmonious blend of nature and advanced technology, with a near-magical quality enhanced by various aquatic plants and underwater flora interwoven with the city's infrastructure.
+Seed: 3261507392
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Attraction, Pearl

@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at twilight, depicting towering structures of sleek, metallic architecture intertwined with organic, rock-like formations. The foreground showcases a massive, jagged rock, splitting the ground with raw, untamed energy. People in ultra-modern attire walk by, seemingly indifferent to the rock's imposing presence. Neon lights and holographic advertisements cast a cold, bluish glow, contrasting with the warm, natural hues of the rock. Dark storm clouds gather in the distance, hinting at impending chaos, while a sharp beam of light from a massive drone illuminates the scene with stark clarity. This surreal, dystopian landscape should be presented in the style of a hyper-realistic digital painting, emphasizing sharp contrasts and intricate details.
+Seed: 4290232855
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Rock, Hate

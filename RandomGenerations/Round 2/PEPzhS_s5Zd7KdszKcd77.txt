@@ -1,0 +1,4 @@
+Prompt: Create an image of a futuristic utopian city skyline at dawn. The landscape is a harmonious blend of nature and advanced technology, with towering glass skyscrapers intertwined with lush greenery and cascading waterfalls. In the foreground, a group of diverse people dressed in sleek, modern attire are engaging in various activities like meditative yoga and interactive holographic displays. The lighting captures the first light of morning, with soft golden rays illuminating the buildings and casting long, gentle shadows across the scene. The background features a serene river reflecting the vibrant colors of the emerging sunrise. This scene is presented in the style of a hyper-realistic digital painting, with meticulous attention to detail and vibrant, saturated colors that highlight the promise of a new, enlightened era.
+Seed: 860027048
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Promise, Enlightenment

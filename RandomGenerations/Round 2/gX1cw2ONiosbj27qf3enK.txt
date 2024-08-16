@@ -1,0 +1,4 @@
+Prompt: An enchanting cyberpunk cityscape at dusk, where neon lights reflect off wet streets. Tall, sleek skyscrapers with holographic billboards tower above, while flying cars navigate between them. Below, a bustling marketplace thrives with vendors selling futuristic gadgets, robotic assistants aiding people in their quests for the latest tech. In the foreground, a young woman in a stylish, high-tech outfit examines a sleek hoverboard with expert scrutiny, showcasing her tech-savvy competence. The scene is bathed in a mix of natural twilight and artificial neon glow. The backdrop includes a high-tech monorail snaking between the buildings, with a hint of a distant, futuristic skyline. The image should be in the style of a highly detailed digital painting, with sharp lines and vibrant colors that highlight the advanced technology and dynamic atmosphere.
+Seed: 2040203761
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Attraction, Competence

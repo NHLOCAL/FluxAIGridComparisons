@@ -1,0 +1,4 @@
+Prompt: A surreal futuristic cityscape at sunrise, where the skyline is adorned with towering skyscrapers made of glass and organic elements intertwined, designed with a harmonious blend of advanced technology and nature. The streets are bustling with people of diverse appearances, dressed in eclectic fashion that combines traditional attire with high-tech accessories, engaging in cooperative activities that emphasize unity and collective effort. The scene is bathed in a soft golden light from the rising sun, casting long shadows and warm hues on the buildings and green spaces. The background reveals distant mountains and a serene sea, seamlessly integrating the urban environment with the natural landscape. The style is a hyper-realistic oil painting, capturing intricate details of the architecture, the texture of the foliage, and the expressions of the individuals.
+Seed: 1383754394
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Talent, Union

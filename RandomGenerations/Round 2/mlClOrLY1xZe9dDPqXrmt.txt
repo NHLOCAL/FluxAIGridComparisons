@@ -1,0 +1,6 @@
+Prompt: Create an imaginative, surreal landscape oil painting. The scene is set in a futuristic underwater observatory embedded in a vibrant coral reef. The observatory is constructed from transparent, dome-like structures connected with sleek, tubular passageways. Inside, researchers in form-fitting, high-tech suits can be seen analyzing holographic data and observing marine life.
+
+The lighting is otherworldly, with bioluminescent flora casting a soft, ethereal glow in shades of blue, green, and purple, illuminating the coral structures and the observatory. The background features an expansive reef teeming with colorful aquatic creatures, including schools of fish and graceful manta rays gliding by. Sunlight from the surface penetrates the water, creating shimmering beams that add depth and contrast to the scene. The overall style should blend elements of realism with a touch of fantasy to enhance the futuristic and underwater aspects.
+Seed: 1396798950
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Observatory, Reef

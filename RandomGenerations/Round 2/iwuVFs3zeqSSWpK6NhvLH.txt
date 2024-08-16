@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape during a golden sunset, with towering, sleek skyscrapers made of glass and metal reflecting the warm light. The scene is bustling with people wearing advanced, stylish attire as they walk along elevated pathways and interact with holographic displays. In the foreground, a family of four stands together, their hands gently touching as they share an intimate moment while gazing at the view. In the background, flying vehicles zip through the air, leaving light trails behind. The style is a hyper-realistic digital painting, with intricate details and vibrant colors that highlight the advanced technology and serene environment. The lighting casts long shadows, giving the image a warm, inviting atmosphere.
+Seed: 370984354
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Attraction, Loyalty

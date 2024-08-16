@@ -1,0 +1,4 @@
+Prompt: A surreal oil painting of a small island in the middle of a vast desert. The island features tall, lush palm trees with vibrant green leaves and a small, crystal-clear pond reflecting the golden sunlight. In the background, the endless dunes of the desert roll under a sky painted with deep hues of oranges and purples as the sun sets. A single, ancient stone lighthouse stands on the island, weathered but still standing tall, with its light faintly beginning to shine. The lighting is low and golden, creating long shadows and a stark contrast between the arid desert landscape and the verdant island oasis. There are no people in the scene, emphasizing the solitary and untouched nature of the setting. The art style is highly detailed with a slight dreamlike quality, blending realism with fantasy elements.
+Seed: 2877486278
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Desert, Island

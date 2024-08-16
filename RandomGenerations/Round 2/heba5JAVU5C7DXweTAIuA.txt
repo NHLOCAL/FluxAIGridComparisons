@@ -1,0 +1,6 @@
+Prompt: Prompt: 
+
+An oil painting of a futuristic landscape where the sky blends in hues of deep purple and electric blue, dotted with shimmering stars and glowing nebulas. A colossal, intricately designed spaceship hovers just above the ground, casting a soft, ethereal light that illuminates the scene below. The terrain is a mix of bioluminescent alien flora and mysterious rock formations that spiral upwards in impossible angles. In the foreground, a group of explorers in sleek, high-tech suits examine a holographic map, their faces lit by the soft glow of their equipment. The background reveals a distant mountain range with floating islands, connected by a network of glowing, translucent bridges. The overall atmosphere is one of surreal tranquility and boundless possibility, inviting viewers to ponder the mysteries of a universe uncharted.
+Seed: 1989099929
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Dream, Exploration

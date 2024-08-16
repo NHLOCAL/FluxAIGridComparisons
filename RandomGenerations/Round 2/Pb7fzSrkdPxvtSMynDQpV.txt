@@ -1,0 +1,4 @@
+Prompt: "A lush, enchanted forest with towering, bioluminescent trees casting an otherworldly blue glow over the scene. Elves dressed in intricately designed, shimmering robes are scattered throughout, engaging in quiet conversation or examining the luminous plants. The ground is covered in a soft carpet of glowing moss and colorful, fantastical flowers. A crystal-clear stream winds its way through the forest, reflecting the serene light of bioluminescent plants. Hovering magical orbs illuminate the scene further, with a backdrop of distant, mystical mountains shrouded in a faint lavender mist. The scene is rendered as a highly detailed oil painting with an ethereal, fantastical style that emphasizes intricate details in the flora, fauna, and elfin attire. The lighting is soft and radiant, enhancing the dreamlike quality of this futurist, yet timeless landscape."
+Seed: 368746269
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Selection, Division

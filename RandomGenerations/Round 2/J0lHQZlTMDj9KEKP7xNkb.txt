@@ -1,0 +1,4 @@
+Prompt: A futuristic volcanic landscape with molten lava rivers flowing between jagged rock formations. In the foreground, a group of human explorers wearing high-tech space suits with illuminated visors are carefully navigating the rocky terrain. The sky is a deep, starry expanse with distant planets visible, casting a faint celestial glow that contrasts with the fiery red and orange hues of the lava below. The scene is lit by a combination of the glowing lava and the explorers' equipment, creating a dramatic interplay of light and shadow. The background features towering cliffs made of dark, igneous rock and billowing smoke rising from a distant, active volcano. This image is rendered in the style of a highly detailed digital illustration, capturing sharp lines and vivid colors.
+Seed: 324565798
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Option, Lava

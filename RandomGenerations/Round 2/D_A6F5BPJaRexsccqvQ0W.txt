@@ -1,0 +1,5 @@
+Prompt: Prompt: 
+Create a highly detailed oil painting of a futuristic cityscape at dawn, where the rising sun casts a golden hue over sleek, towering skyscrapers of glass and metal. In the foreground, a group of engineers in advanced, clean, and streamlined protective suits work diligently on a massive construction site filled with intricate machinery. They are installing a new floating platform that will become part of the city's airborne transit system. The sky is peppered with flying vehicles and drones, some capturing the moment with flashing lights. The background includes a distant glimpse of a sparkling ocean, reflecting the early morning light, with a combination of lush greenery and advanced technology bordering the landscape. The whole scene is infused with a sense of meticulous effort and breathtaking innovation, with every element meticulously rendered to evoke a sense of working awe at the marvels of human ingenuity.
+Seed: 189698315
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Astonishment, Work

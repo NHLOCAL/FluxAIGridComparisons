@@ -1,0 +1,4 @@
+Prompt: "A post-apocalyptic landscape during a raging blizzard, with the skeletal remains of skyscrapers jutting out from the snow-covered ground. The scene is devoid of people, giving it an eerie stillness. In the foreground, a rusted, abandoned car is half-buried in snowdrifts. The sky is a swirling mass of dark, heavy clouds, with barely any light piercing through, casting a monochromatic gray tone over the entire image. The piece is an oil painting, with thick brushstrokes giving texture to the snow and debris. The background shows a partially collapsed bridge, twisted metal and broken concrete looming ominously. The overall style is highly detailed and realistic, capturing the desolate beauty of a world frozen in time and decay."
+Seed: 4101795374
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Blizzard, Apocalypse

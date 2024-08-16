@@ -1,0 +1,4 @@
+Prompt: Create an imaginative digital artwork showcasing a futuristic cityscape at twilight, where towering glass and steel skyscrapers loom against a violet and indigo sky. In the foreground, a robotic street performer, with sleek chrome limbs and LED features, is juggling luminescent orbs amongst a small crowd of diverse onlookers, both human and android. Each building is adorned with vertical gardens, with vibrant flowers cascading down their facades, blending technology and nature. The background features a horizon peppered with flying vehicles and holographic advertisements. The lighting is soft yet dynamic, with neon lights casting a surreal glow on the wet, reflective streets. The style is highly detailed and photorealistic, bringing a sense of immersion and tangible reality to the futuristic scenario.
+Seed: 1379359969
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Act, Flower

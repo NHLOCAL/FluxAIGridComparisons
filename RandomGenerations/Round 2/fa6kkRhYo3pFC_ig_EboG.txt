@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at sunset, seen from a serene elevated park nestled between high-tech skyscrapers. The scene is bathed in warm, golden light, casting long shadows. The city is filled with lush greenery interwoven with sleek, metallic structures. A handful of people, dressed in minimalist, flowing attire, enjoy leisurely activities like reading or walking slowly on the gently curving pathways. The background features a sky with hues of pink, purple, and orange blending harmoniously, with an occasional futuristic aircraft gliding smoothly in the distance. The entire image is rendered in a hyper-realistic digital painting style, showcasing meticulous attention to detail in both the architectural elements and the natural surroundings.
+Seed: 3591291845
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Slowness, Technique

@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape featuring a towering, hyper-modern version of the Eiffel Tower rising in the background. In the foreground, sleek autonomous vehicles glide along transparent roads suspended above a bustling, pristine city. Neon signs in various languages illuminate the scene, casting vibrant colors onto the reflective surfaces of the buildings and streets. People, dressed in ultramodern attire with integrated technology, interact with holographic displays and robots. The sky is a mesmerizing gradient of purples and blues with flying drones dotting the skyline. This image is rendered in a hyper-realistic digital art style with sharp details and dynamic lighting, capturing the sleek sophistication and technological advancement of a futuristic Paris.
+Seed: 2446329596
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Landmark, Country

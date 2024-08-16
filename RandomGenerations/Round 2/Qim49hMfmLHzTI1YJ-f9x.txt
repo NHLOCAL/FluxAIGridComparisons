@@ -1,0 +1,8 @@
+Prompt: A highly detailed scene set in a post-apocalyptic future landscape, where the remnants of a great city lie in ruins. The scene is captured in an ultra-realistic, high-definition cinematographic style, akin to a blockbuster sci-fi film. The background includes the skeletal frames of skyscrapers, twisted metal, and crumbled concrete buildings overtaken by wild vegetation. The foreground features two human figures dressed in rugged, makeshift clothing scavenging for resources amidst the debris. They appear wary and alert, using makeshift tools to sift through the rubble.
+
+The sky is overcast, filled with dark, menacing clouds, hinting at an impending storm; occasional shafts of light pierce through, illuminating patches of the destroyed city. The lighting creates stark contrasts and deep shadows, enhancing the dramatic atmosphere of the scene. Numerous digital billboards, now defunct and overgrown with vines, display glitching remnants of advertisements, a silent testament to the humanity that once thrived. 
+
+In the middle ground, the cinematic composition highlights an old, partly-collapsed cinema marquee with the words "FINAL SHOW," encapsulating the essence of an era that has ceased to believe in higher powers or divine intervention. The attention to detail in the rubble, the dilapidated structures, and the characters’ attire create a vivid, immersive experience. The overall tone is one of survival and resilience, evident through the observable struggle and desolate beauty of the future landscape.
+Seed: 610553217
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Cinema, Atheism

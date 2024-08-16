@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at sunset, blending advanced technology with elements of nature. Towering skyscrapers with glass facades are intertwined with lush vertical gardens. Hovering vehicles glide effortlessly through the air, their lights reflecting off the glass structures. A couple stands on a balcony overlooking the city, wearing sleek, modern clothing with subtle glowing accents. They hold each other's hands, their postures perfectly aligned, indicating a deep connection. The lighting is warm and golden, casting long shadows and highlighting the greenery. The sky is a gradient of orange to purple, with a few stars starting to twinkle. The style is a highly detailed digital art, almost hyper-realistic, with vibrant colors and sharp contrasts. Holographic advertisements and drones are visible in the background, adding a sense of advanced, yet harmonious living.
+Seed: 3199901379
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Commendation, Soulmate

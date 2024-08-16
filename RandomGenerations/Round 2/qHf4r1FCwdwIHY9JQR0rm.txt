@@ -1,0 +1,4 @@
+Prompt: "A futuristic urban landscape at twilight featuring a quiet alleyway lined with neon-lit storefronts and glowing holographic billboards. The scene is an ultra-realistic digital painting seamlessly blending elements of cyberpunk and contemporary life. In the middle ground, a couple stands close together, their faces gently illuminated by the soft spill of pink and blue light from a nearby sign, creating a sense of closeness and communion. In the background, towering skyscrapers outlined in shimmering LED lights appear almost ethereal against the darkening sky. Tiny details, like the puddles on the cobblestone reflecting fragmented light, add depth and complexity. The atmosphere is intimate yet vast, with every small indicator—the couple’s subtle glances, the quiet hum of city energy—drawing you deeper into the scene."
+Seed: 278553328
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Intimacy, Indicator

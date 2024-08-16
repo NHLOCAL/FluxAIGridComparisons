@@ -1,0 +1,4 @@
+Prompt: A grand, futuristic cityscape with towering skyscrapers and flying vehicles, set at twilight with the first stars emerging in a deep blue sky. In the foreground, a monumental state cathedral made of sleek, reflective materials, blends ancient gothic architecture with modern design elements, illuminated by soft, ambient lighting highlighting intricate details and towering spires. Sidewalks are populated with people dressed in sophisticated, high-tech attire, some conversing in groups while others engage with holographic devices. The scene is depicted as a high-resolution digital painting, showcasing a blend of meticulous realism and imaginative design. The background reveals a sprawling, clean metropolis with greenery integrated into the architecture, and advanced public transportation systems seamlessly weaving through the cityscape.
+Seed: 862730695
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: State, Cathedral

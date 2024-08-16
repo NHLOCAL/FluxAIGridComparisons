@@ -1,0 +1,4 @@
+Prompt: Create a high-resolution digital painting depicting an enchanting evening scene in a lush, ethereal forest. In the foreground, there are several delicate and radiant nymphs emerging from a shimmering, moonlit pond. Their figures are slender and graceful, adorned with flowing garments made of soft, iridescent petals and delicate vines. The background features towering ancient trees with twisted branches and luminescent leaves that cast a gentle, magical glow. The twilight sky above is a gradient of deep purples and blues, speckled with twinkling stars and a prominent, full moon that bathes the scene in a soft, celestial light. This serene landscape combines elements from both a fantastical past and an otherworldly realm, capturing the timeless beauty and mystery of nature.
+Seed: 2954851106
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Evening, Nymph

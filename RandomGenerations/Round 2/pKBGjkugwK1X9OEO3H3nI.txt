@@ -1,0 +1,4 @@
+Prompt: A serene, futuristic landscape at sunset, painted in the style of an oil painting with meticulous detail. The scene is set in a tranquil, otherworldly forest where enormous, luminescent trees with bioluminescent leaves softly glow in shades of blue and purple. In the background, a towering, sleek cityscape with glistening buildings comprised of glass and metal rises above the horizon. Soft, golden light from the setting sun gently illuminates the clouds, casting a warm, ethereal glow over the entire scene. Among the trees, a clear, calm stream winds through the forest, reflecting the vibrant colors of the leaves and the sky above. A group of people dressed in elegant, minimalist clothing walks along a wooden path near the stream, quietly admiring the beauty around them. The air is still and quiet, with only the faint sound of water flowing and leaves rustling.
+Seed: 3683082207
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Pretty, Quiet

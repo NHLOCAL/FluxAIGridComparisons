@@ -1,0 +1,4 @@
+Prompt: A futuristic landscape rendered as a hyper-realistic oil painting. The scene is set on an alien planet with crystalline mountainous structures reflecting a kaleidoscope of colors under a tri-sun sky. In the mid-ground, transparent figures in sleek, form-fitting suits made of a plastic-like substance, appear to be conducting scientific research, surrounded by advanced, angular equipment. The lighting is a mixture of natural light from the three suns, casting elongated, iridescent shadows, and artificial light from the equipment, creating a sharp contrast of brightness and shadow. The background reveals a vibrant nebula, suggesting the idealized wonder and limitless potential of space exploration.
+Seed: 866008168
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Plastic, Ideal

@@ -1,0 +1,4 @@
+Prompt: An ultra-futuristic vineyard at sunset, set on terraced hillside bathed in golden and purple hues. Sleek, silver robotic workers harvest plump, iridescent grapes glowing faintly with bioluminescence. The vines, intertwining with intricate, transparent tubes transporting nutrients, stretch towards a sky where stars begin to emerge among pastel clouds. In the background, an advanced yet harmonious architectural estate with biodomes and hovering drones. The scene is rendered in highly detailed, hyper-realistic digital artwork, emphasizing both the natural beauty of the landscape and the advanced technology coexisting within it.
+Seed: 3844014205
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Vineyard, Singularity

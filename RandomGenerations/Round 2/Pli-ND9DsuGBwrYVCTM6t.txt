@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at twilight, where sleek, towering skyscrapers made of glass and silver reach towards the darkening sky. The scene is bustling with life, as people in stylish, futuristic attire walk on glowing sidewalks and hover vehicles zip through the air. Neon signs and holograms in vivid colors illuminate the city, casting an ethereal glow on everything. The sky above is dotted with drones and airships, while robotic assistants help individuals in their daily tasks. The backdrop features a distant, titanic waterfall cascading from a floating island, its mist shimmering in the artificial lights. The image is rendered in the style of a highly detailed digital painting, showcasing intricate textures and realistic lighting that highlights the advanced technology and dynamic atmosphere of this lively, futuristic world.
+Seed: 2816464166
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Skill, Life

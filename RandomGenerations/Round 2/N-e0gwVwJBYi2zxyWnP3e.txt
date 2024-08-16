@@ -1,0 +1,4 @@
+Prompt: Create a hyper-realistic digital painting of a futuristic Earth landscape that embodies respect for nature. The scene is set in a serene valley with lush, green forests and clear blue rivers. Advanced yet harmonious futuristic architecture integrates seamlessly into the natural surroundings, with buildings covered in living walls and solar panels. In the background, there are distant, majestic mountains softly lit by the golden glow of a setting sun. There are people dressed in eco-friendly clothing, engaging in activities like planting trees, harvesting crops, and studying wildlife, demonstrating a reverent relationship with the environment. The lighting is soft and warm, casting gentle shadows and highlighting the vibrant colors of the landscape. The style combines elements of realism and futuristic design, creating a visually captivating and inspiring scene.
+Seed: 1109727533
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Respect, Earth

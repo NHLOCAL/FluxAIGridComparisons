@@ -1,0 +1,4 @@
+Prompt: A sprawling post-apocalyptic landscape, featuring the ruins of a once-great city submerged in water, partially reclaimed by nature. In the foreground, a lone figure stands on a cliff edge, wearing tattered clothes and holding a makeshift staff. The figure gazes out over the scene, acknowledging the remnants of humanity's past triumphs now overtaken by decay. The background showcases crumbling skyscrapers, overgrown with vegetation, shrouded in mist. The sky above is painted with ominous storm clouds, casting a moody, dim light across the horizon. The scene is rendered as a highly detailed oil painting, capturing the textured surfaces of the dilapidated buildings and the reflective quality of the water. The overall style is hyper-realistic, emphasizing the contrast between humanity's lost grandeur and the resurgence of nature.
+Seed: 2948587985
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Acknowledgment, Apocalypse

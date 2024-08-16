@@ -1,0 +1,4 @@
+Prompt: "A futuristic urban landscape at twilight, with towering skyscrapers made of crystal and adorned with intricate filigree. The sky is a deep indigo with the last glimmers of sunset casting a sumptuous golden hue over the scenery. The glassy buildings reflect myriad colors, creating a kaleidoscope effect throughout the city. On the streets below, people dressed in elegant, flowing attire made of luminous fabrics are walking, some with personal hovering devices carrying them effortlessly. In the background, a distant horizon is filled with floating gardens and sleek hovercrafts moving gracefully. The entire scene is illuminated by a blend of soft, ambient lights and reflective surfaces, creating a magical, almost otherworldly glow. This image is represented as a hyper-realistic digital painting, capturing every detail with stunning clarity and depth."
+Seed: 3607290648
+Flux URL: https://fal.run/fal-ai/flux/dev
+Random Words: Sumptuous, Crystal
