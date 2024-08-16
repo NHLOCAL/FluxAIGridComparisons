@@ -1,0 +1,14 @@
+Prompt: Title: "New Dawn of the Syndicate"
+
+Oil painting on a large canvas. The scene is a dimly lit, opulent parlor with high, arched windows draped in dark red velvet curtains. Outside, the moon is full, casting pale light through the windows and illuminating the intricate patterns of the French lace curtains. 
+
+In the foreground, a meticulously detailed mahogany table with clawed feet is set for an elaborate feast. Glistening silverware and crystal goblets reflect the dim candlelight from the grand candelabras placed symmetrically along the table. The food on the table appears sumptuous yet unusual, with richly textured, dark, and glossy fruit resembling pomegranates, and decanters of a thick, crimson liquid.
+
+Seated around the table are members of the Vampire Syndicate, depicted with a striking Art Nouveau style that highlights their elegant attire. Their noble clothes, fitted with detailed lace, satin, and velvet, are designed to perfection, with hues of deep crimson, midnight black, and shimmering silver motifs. Their pale complexions contrast vividly with their dark, lustrous hair and the shadows cast by the candlelight. Their eyes are rendered with almost lifelike precision, glistening with an otherworldly sheen. 
+
+Behind the table, an ornate fireplace with a roaring fire reflects warm tones of orange and yellow, creating a dynamic contrast with the cool moonlight. Above the mantelpiece hangs a large gilt-framed portrait of an ancient vampire lord, painted in a heavily Baroque style, overlooking the room with an air of dominance and history.
+
+The background is a blend of deep shadows and rich textures, with a hint of old-world architecture visible through the dim light. Grand, intricate paneling lines the walls, and a grand chandelier with flickering candles hangs from the sculpted ceiling, adding to the rich, mysterious ambiance of the scene. The entire composition exudes a sense of timeless sophistication and dark allure.
+Seed: 2781081332
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Vampire, Syndicate

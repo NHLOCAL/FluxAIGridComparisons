@@ -1,0 +1,6 @@
+Prompt: Image Prompt:
+
+Create an oil painting set in an ancient Roman stadium during twilight hours. The scene captures the vast elegance of the marble structure, with towering columns and tiered seating extending into the background, partially illuminated by the dimming natural light. The light creates elongated shadows and highlights the intricate carvings and architectural details of the stadium, giving it a timeless and monumental feel. In the foreground, a lone gladiator stands still, dressed in historically accurate attire, bathed in an ethereal glow from a torch he holds. The crowd seats are sparsely occupied, with figures softly blurred to emphasize the gladiator's solitary presence. The twilight sky is painted in shades of dusky blues and purples, with the first stars beginning to emerge. The overall composition presents a harmonious balance between the grandeur of the architectural feat, the serenity of the dwindling light, and the stillness of the moment, evoking an awe-inspiring and contemplative atmosphere.
+Seed: 374666578
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stadium, Hush

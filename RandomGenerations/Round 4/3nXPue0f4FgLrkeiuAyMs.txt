@@ -1,0 +1,10 @@
+Prompt: A photograph captures a pristine coastal scene at the break of dawn. The camera faces eastward, framing an undisturbed beach where the tiny grains of sand are sharply detailed, leading your eye towards the glistening tide. The water is clear, a gradient of turquoise near the shore that deepens into a serene sapphire hue as it reaches the horizon. The sky above is painted with soft pastels, the rising sun just peeking over the horizon, casting long, delicate shadows and a gentle golden light across the scene. 
+
+In the foreground, an aged wooden fence runs along the edge of the sand dunes, its weathered texture telling tales of countless tides and storms endured. Each piece of driftwood on the fence is rough to the touch, contrasting with the smoothness of the rounded pebbles scattered along the shoreline. Further back, tufts of sea grass sway gently in the early morning breeze, their thin blades catching the light and creating a gentle rustling sound.
+
+To the left, a cluster of rock formations juts out into the water, encrusted with barnacles and seaweed, their rugged surfaces a stark contrast to the soft, wet sand. The lighting here casts a subtle shadow, adding depth and dimension. Far off in the background, a solitary lighthouse stands on a rocky promontory, its white surface glowing softly from the indirect illumination of the rising sun.
+
+The style of the photograph is hyper-realistic, capturing a moment that is both tranquil and richly detailed. The composition balances the tactile elements of the scene with the expansive, open space of the ocean and sky, inviting viewers to almost feel the cool moisture in the air and the gritty texture of the sand beneath their feet.
+Seed: 1819342077
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Touch, Coast

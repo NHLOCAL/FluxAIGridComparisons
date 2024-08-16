@@ -1,0 +1,8 @@
+Prompt: "Imagine a captivating landscape set in a surreal futuristic city, illuminated by the soft glow of neon lights in varying shades of blue and purple. The scene is a panoramic view, capturing a bustling urban environment with towering skyscrapers adorned with holographic advertisements and transparent sky bridges connecting them. In the foreground, an array of sleek, self-driving vehicles glide silently along floating roadways.
+
+Specters of future humans are visible throughout the cityscape, appearing as translucent, glowing figures engaged in daily activities—some are using augmented reality interfaces, while others are walking robotic pets. The sky above is a deep twilight, where stars and distant planets are visible, adding a cosmic layer to the urban setting. 
+
+The image is rendered in a hyper-realistic digital art style, with meticulous attention to detail in the textures of the buildings and the soft reflections of light on smooth surfaces. The overall ambience is enhanced by the interplay of light and shadow, creating an atmospheric scene that feels both futuristic and otherworldly."
+Seed: 3901196366
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Array, Specter

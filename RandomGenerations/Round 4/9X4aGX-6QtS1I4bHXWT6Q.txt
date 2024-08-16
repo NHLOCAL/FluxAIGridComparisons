@@ -1,0 +1,4 @@
+Prompt: Create an image that features a serene autumn landscape captured as an oil painting with intricate brushwork. In the foreground, a shallow bog reflects the overcast sky in muted silver tones, dotted with clusters of dull, yellowed reeds and fallen leaves floating on the water's surface. A narrow wooden footbridge arches gently over the bog, leading towards the middle ground where a grove of sugar maples stand, their crimson and amber leaves creating a vivid canopy. These vibrant, warm colors pop against the softer, cooler hues of the bog below. The background fades into a misty forest, where the tall, dark pines contrast sharply with the rich colors of the maples. The lighting is diffused, as if the scene is captured during early morning or late afternoon, casting soft shadows and imparting a gentle, subdued glow that unifies the composition.
+Seed: 3384303116
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sweetness, Bog

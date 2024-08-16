@@ -1,0 +1,10 @@
+Prompt: A large oil painting captures the scene at a secluded, mist-shrouded harbor at dawn. The composition highlights the contrast between the soft, ethereal mist and the robust, time-weathered boats anchored to the wooden piers. Each vessel possesses rugged textures depicted with masterful brushstrokes, showing rust, peeling paint, and heavy ropes coiled meticulously. The water is depicted with subtle rippling, showing reflections of the boats distorted through the early morning fog.
+
+The background showcases craggy cliffs that rise sharply from the edge of the harbor, their surfaces rugged and textured, hinting at the geological power that shaped them. Atop one of the cliffs, a lighthouse stands resolute, its light faintly glowing against the dissipating mist, meticulously detailed in its stonework and aged metal railings.
+
+The sky is a gradient of soft pastels, transitioning from muted purples and blues of the lingering night into the gentle oranges and yellows of the impending sunrise. The artist has employed a chiaroscuro technique, creating a striking interplay of light and shadow that enhances the scene’s depth, giving the entire piece a three-dimensional quality. The harbor itself is framed by thick, ancient trees on either side, gnarled and twisted, their silhouettes rendered in deep, dark greens and browns.
+
+This painting captures the raw, powerful essence of the sea and the steadfast harbor that shelters vessels from its might. The meticulous detail and controlled, yet expressive use of color and light evoke the tranquility and latent power of the scene, making the painting a compelling piece worthy of display in any prestigious museum or gallery.
+Seed: 2818969233
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Potency, Harbor

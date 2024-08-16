@@ -1,0 +1,10 @@
+Prompt: A dramatic oil painting set in a grand, historical medieval castle hall during the late afternoon. The scene captures an intense standoff between two regal figures: a king clad in ornate, golden armor and a rebellious knight wearing battle-worn yet dignified silver plate. Both figures are poised in aggressive yet noble stances, with the king wielding a jewel-encrusted scepter and the knight clutching a sword with a lion-emblazoned hilt. 
+
+The lighting is a stark contrast of golden hour sunlight slanting through tall, narrow stained-glass windows, casting intricate, multicolored reflections on the polished stone floor and creating long, dramatic shadows that lead the eye toward the central confrontation. 
+
+Background elements include richly detailed tapestries depicting historical battles, massive stone columns that rise majestically to a vaulted ceiling, and grandiose chandeliers hanging high, though dimmed by the encroaching dusk. A court of armored guards and nobles stands tensely to either side of the scene, captured in mid-gasp or whisper, with expressions of anticipation or dread sketched carefully on their faces.
+
+The style employs dramatic realism with painstaking attention to historical accuracy in the attire, architecture, and weaponry. Brushstrokes define the intricate details of the armor and the lush fabric of the tapestries, while smoother transitions in the background anchor the main focal points.
+Seed: 1753922288
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Conflict, Leadership

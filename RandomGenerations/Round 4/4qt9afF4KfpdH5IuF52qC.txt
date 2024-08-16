@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting captures an intimate moment in a dimly lit library, filled with an air of timeless knowledge and profound silence. The scene is set in early evening, with the warm golden hues of antique lamps casting a soft, diffused glow over the polished wooden tables and rich mahogany bookshelves. A few vintage globes and astrolabes are scattered around, adding to the intellectual ambiance.
+
+In the foreground, a solitary figure sits at a large oak table, engrossed in an old, weathered book. Their posture, slightly hunched, indicates deep concentration and immersion in the text. The intricate detailing of the book's leather cover and the delicate texture of its yellowing pages are meticulously rendered, showcasing the artist's skill in portraying fine details.
+
+The background features towering shelves, each densely packed with aging books, their spines a mosaic of muted reds, blues, and greens. A tall ladder, slightly askew, leans against one of the shelves, suggesting recent use. The walls are decorated with framed black-and-white photographs and sketches of historical figures and places, adding depth and context to the setting.
+
+The lighting is expertly handled, with the chiaroscuro effect emphasizing the contrast between the illuminated areas and the deep shadows, creating a sense of depth and realism. The overall composition draws the viewer in, making them feel as though they could step into the painting and explore the quiet sanctuary of knowledge it depicts.
+Seed: 935732592
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reality, Norm

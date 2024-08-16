@@ -1,0 +1,4 @@
+Prompt: Prompt: Create an image set in a futuristic cityscape during twilight, depicted in a highly detailed and vibrant digital art style. Tall, sleek skyscrapers with neon lights and holographic advertisements fill the background, casting colorful reflections onto the surrounding glass and metal surfaces. Streets are bustling with autonomous flying vehicles zipping through mid-air traffic lanes, and pedestrians in avant-garde attire walk along elevated walkways. A large, intricately designed fountain with water flowing in zero gravity stands prominently in the foreground. The scene is bathed in the soft hues of a setting sun, blending with the artificial lights to create a mesmerizing interplay of natural and synthetic illumination.
+Seed: 561680998
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Glance, Association

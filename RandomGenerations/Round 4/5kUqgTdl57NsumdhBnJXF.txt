@@ -1,0 +1,4 @@
+Prompt: A meticulously detailed oil painting on a grand canvas depicts an ethereal fusion of past and future. Central to the scene is a revolutionary scientist in vintage 19th-century attire, holding blueprints for a warp drive. His laboratory, filled with anachronistic gadgets and contemporary holographic displays, merges old wooden workbenches with sleek, futuristic machinery. Soft, ambient lighting reflects off polished steel and the scientist's antique brass instruments, casting delicate shadows that dance across the expansive room. The background reveals a misty view through towering Gothic windows, opening onto an otherworldly sky where nebulous galaxies and distant planets are visible. This juxtaposition of intricate realism and imaginative futuristic elements roots the piece firmly in the realm of both historical fantasy and speculative fiction.
+Seed: 1140780650
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Invention, Warp drive

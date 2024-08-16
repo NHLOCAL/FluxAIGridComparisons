@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting captures a late autumn scene in a dense, tranquil forest. Sunlight filters through a canopy of nearly bare branches, casting crisp, defined shadows on the forest floor blanketed in rich hues of amber, russet, and gold. The light falls at an angle, highlighting the delicate textures of fallen leaves and the gnarled, moss-covered roots. In the foreground, a solitary, timeworn bench made of dark, weathered wood sits with intricate carvings barely visible under layers of lichen and age. The background features a narrow, winding path that disappears into the dense thicket, drawing the viewer's eyes with an invitation to wander. The overall composition is lifelike with a meticulously detailed brushwork style that imbues the scene with startling clarity and subtle tension, as if capturing a single, fleeting moment in perfect stillness.
+Seed: 1404516719
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Tension

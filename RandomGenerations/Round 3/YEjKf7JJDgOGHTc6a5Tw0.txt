@@ -1,0 +1,4 @@
+Prompt: A futuristic outdoor café scene on the edge of a bustling metropolis, illuminated by the warm, golden hues of a setting sun that casts long shadows. The café is sleek and modern with minimalist design and transparent walls. Customers, depicted as a mix of humans and robots engaged in animated conversation, are seated at elegant metallic tables with touch-screen menus. In the background, towering skyscrapers with lush rooftop gardens create a striking skyline against a clear, pastel-colored sky. The streets are lined with trees whose leaves gently sway in a mild breeze, and advanced electric vehicles glide silently by. This scene is rendered in a highly detailed, hyper-realistic digital art style, capturing every element with vivid clarity.
+Seed: 1403351100
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Understanding, Café

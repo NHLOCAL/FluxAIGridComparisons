@@ -1,0 +1,4 @@
+Prompt: A futuristic city skyline at dusk, where towering skyscrapers with intricate, glowing neon designs are surrounded by flying cars and hovering drones. The sky is painted with deep shades of purple and orange as the sun sets, reflecting off the glass buildings. In the foreground, a group of people wearing sleek, high-tech outfits are gathered around a holographic map, planning their next move. The streets below are bustling with robots and holographic advertisements. The scene is illuminated by both the natural fading light and the vibrant artificial neon lights, casting a mix of warm and cool tones. The background features distant mountains barely visible through the glowing haze. Art style: hyper-realistic digital painting with intricate details and vibrant colors.
+Seed: 1430977336
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Clarity, Effect

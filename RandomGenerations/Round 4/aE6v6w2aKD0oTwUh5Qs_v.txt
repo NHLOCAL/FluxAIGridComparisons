@@ -1,0 +1,8 @@
+Prompt: Create a hyper-realistic oil painting that captures a dramatic scene of an expansive, desolate desert landscape at dusk. The canvas should be large, at least 6 feet by 4 feet, to emphasize the grandeur and isolation of the scene. In the center of the composition, a weather-beaten, ancient wooden fence divides the canvas vertically; its worn posts and wires struggle to remain upright against the harsh elements. The fence's shadow elongates across the undulating sands, drawing the viewer's eye deeper into the scene.
+
+On one side of the fence, the sand is pristine, undisturbed, appearing almost like meticulously raked zen garden. On the other side, the sand is tumultuous, filled with erratic footprints and the remnants of desert flora ravaged by the wind. The lighting is low and dramatic, with a deep, golden light from the setting sun capturing the texture and color of the sand dunes, contrasting sharply with the cool, blue shadows creeping in from the other side. The sky above is a masterpiece of color gradients – transitioning from deep purples to fiery oranges and soft pinks, dotted with a smattering of stars beginning to reveal themselves.
+
+There are no figures present, but focus in the background draws the viewer’s stare to a solitary, distant mountain range, faintly visible through the haze. The overall scene should feel meticulously detailed, with each grain of sand and splinter of wood rendered with incredible precision, creating a vivid and compelling representation of division within a majestic, yet unforgiving landscape.
+Seed: 610407590
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Division, Stare

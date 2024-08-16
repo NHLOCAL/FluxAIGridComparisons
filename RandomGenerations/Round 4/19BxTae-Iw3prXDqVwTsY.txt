@@ -1,0 +1,10 @@
+Prompt: A meticulously detailed oil painting on a grand canvas showcases the stark contrast between the natural world and the mysteries of the cosmos. Dominating the foreground is a colossal, twisted ancient tree whose gnarled roots and branches extend in an almost surreal manner. Each knot and crevice is intricately rendered, showing the passage of countless years. Surrounding the tree, the landscape is dotted with wisps of mist that creep low across the ground, hinting at an early dawn or dusk. 
+
+In the background, a vast, imposing mountain range stretches upwards, with snow-capped peaks just barely visible through the mist. Above these peaks, the night sky is portrayed in exquisite detail, with stars scattered densely across a velvety black canvas. The Milky Way spills across the scene, drawing the eye toward a gaping black hole painted with masterful strokes, making it appear as if it is both swallowing and emanating the starlight around it. 
+
+The light in the painting is a marriage of warm, golden hues from a setting or rising sun, casting long shadows from the tree and adding a tender glow to the mist. Cool, ethereal blues and purples from the night sky blend organically into this warm light, creating a surreal yet harmonious balance.
+
+The style of the painting can be described as hyper-realistic with an underlying touch of surrealism, capturing minute details with both precision and a touch of the fantastical. Each element, from the textured bark of the tree to the swirling gases around the black hole, is depicted with an intensity that makes them almost tactile, inviting viewers to explore the scene both visually and imaginatively.
+Seed: 1536378909
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Black hole, Scale

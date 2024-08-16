@@ -1,0 +1,8 @@
+Prompt: Create an oil painting that presents a juxtaposition of the digital and organic realms titled "Slumber in the Digital Age." In the foreground, depict a serene figure lying peacefully on a bed adorned with soft, intricately patterned blankets. The figure should be bathed in gentle, ambient light that emphasizes the contours of their relaxed form and the delicate fabric of the bedding. Surrounding the bed, incorporate a soft glow from myriad screens, holograms, and wires that weave seamlessly into the blanket pattern, suggesting a merging of sleep and cyberspace.
+
+In the background, portray a futuristic cityscape fading into twilight, with sleek skyscrapers and digital billboards illuminating the horizon. Integrate elements of nature, such as ivy or flowering vines, gently encroaching on the digital structures, hinting at a harmonious coexistence between technology and nature. The lighting should be a balance of the soft, warm hues of the setting sun and the cool, luminescent tones of the cyber landscape.
+
+The style should combine hyperrealism and surrealist elements, with precise detail in the portrayal of technological devices contrasted by dreamlike, fluid transitions between the organic and digital aspects. The overall composition should evoke the sense of a tranquil sanctuary within the vast expanse of a high-tech society, capturing the essence of repose amidst the constant digital hum.
+Seed: 2965497665
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cyberspace, Sleep

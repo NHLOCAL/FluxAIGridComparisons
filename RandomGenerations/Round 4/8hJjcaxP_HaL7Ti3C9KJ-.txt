@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting captures a serene, icy landscape at twilight in breathtaking detail. Crystal-clear, frozen water droplets shimmer like diamonds on the edge of delicate, frost-kissed branches. Encased in ice, an array of wildflowers in vibrant pinks, yellows, and blues are perfectly preserved, their petals juxtaposed against the frosty background. 
+
+A gentle stream, partially frozen over, snakes through the scene, its water barely visible beneath a glassy layer of ice. Majestic, snow-capped mountains rise in the distance, their rugged peaks bathed in the soft, purplish glow of the setting sun. A pale, crescent moon begins its ascent into the gradient sky, which transitions from an icy blue to a deep indigo.
+
+The lighting is ethereal, with the sun casting a delicate, golden hue that contrasts starkly against the frigid cold, making the ice sparkle with a hint of warmth. The background features towering pine trees dusted with snow, their dark green needles peeking through, creating a sense of depth and isolation.
+
+The overall effect of the painting is one of intricate detail and striking contrast, capturing the delicate, sweet beauty of life suspended in a cryogenic state of perpetual stillness. The painting is framed in an ornate, antique gold frame that enhances its gallery-worthy presentation.
+Seed: 3598693235
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sweetness, Cryogenics

@@ -1,0 +1,8 @@
+Prompt: A meticulously crafted oil painting captures the regal and stoic presence of a lion standing majestically in a savanna landscape. The lion is positioned in the center of the canvas, facing forward with a noble stance, its piercing eyes and detailed mane meticulously rendered with fine brushstrokes. The background features a sun setting behind a distant Acacia tree, casting long, dramatic shadows across the golden grasses. The painting is illuminated by natural, warm, late-afternoon light, enhancing the rich, earthy tones of the lion's fur and the surrounding landscape.
+
+The foreground includes subtle, intricate details such as small wildflowers and tufts of grass gently swaying in the breeze, showcasing the artist's attention to realism. To the right of the lion, a badge-shaped patch of distinctive tall grass catches the eye. This patch is subtly highlighted, creating a focal point that contrasts with the lion's regal stance.
+
+The sky transitions from a deep orange near the horizon to a dusky purple at the top of the canvas, hinting at the approaching twilight. This smooth gradient of hues in the background adds depth and richness to the overall composition. This oil painting's realistic style, combined with its attention to detail and natural lighting, makes it worthy of display in a prestigious gallery or museum.
+Seed: 2144959173
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Animal, Badge

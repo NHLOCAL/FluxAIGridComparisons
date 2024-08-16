@@ -1,0 +1,4 @@
+Prompt: A photograph captures a grand scale industrial setting within a cavernous, dimly-lit warehouse. The primary subject is a colossal mechanical structure, partially completed, with intricate gears, metallic limbs, and exposed wires. Scattered around it are various tools and blueprints, hinting at the ongoing process of creation. The lighting is a stark, focused beam from above, casting dramatic shadows that emphasize the imposing nature of the machinery and the vastness of the space. In the background, partially shrouded in darkness, a rival construct is visible, appearing menacing with sharp, angular features, almost as if it’s watching over the progress. The photograph uses a high-contrast, monochrome style to accentuate the textures of metal and to provide a timeless, somewhat apocalyptic atmosphere.
+Seed: 2693952200
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creation, Enemy

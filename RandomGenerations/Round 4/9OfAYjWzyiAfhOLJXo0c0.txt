@@ -1,0 +1,10 @@
+Prompt: In the center of a grandiose neoclassical room with towering marble columns and intricate gold leaf detailing, there stands a lone figure, a middle-aged woman dressed in a finely-tailored, austere black suit. The scene is captured in a large-scale oil painting, executed with the meticulous brushwork reminiscent of the Old Masters. The woman’s gaze is fixed unseeingly on the grand chandelier hanging above, her expression neutral and devoid of engagement.
+
+The lighting in the room is soft and diffused, sourced primarily from the tall, arched windows along one side, casting long, gentle shadows that dance across the polished, dark mahogany floor. The background showcases an opulent interior with regal crimson drapes partially pulled back to reveal rich tapestry wall hangings and elaborately framed classical portraits. A large, ornamental fireplace adorned with an intricately carved wooden mantel sits unlit, its cold, gray stone symbolizing lack of warmth and vitality.
+
+In the foreground, slightly to the left, there stands a vintage leather chair, empty, with its back facing the viewer—an unspoken invitation, yet eerily unoccupied. On the floor, a sprawling Persian rug with intricate patterns adds a layer of texture to the scene, its colors slightly muted by the overall subdued lighting.
+
+The painting's style is highly detailed, almost photographic in its realism, with a color palette dominated by deep reds, golds, and somber blacks, encapsulating a moment caught in time where the lavish environment's opulence contrasts starkly with the static, almost lifeless presence of the woman, suggesting an underlying tension between isolation and grandeur.
+Seed: 3269936944
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Boredom, Power

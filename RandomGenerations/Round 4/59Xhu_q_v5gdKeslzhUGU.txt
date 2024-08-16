@@ -1,0 +1,8 @@
+Prompt: An intricately detailed oil painting captures a serene night scene along an ancient cobblestone street in a quaint European village. The sky is a deep indigo, illuminated by a cascade of shimmering stars and a luminescent crescent moon hanging low. Dimly lit street lamps with wrought-iron frames cast warm, golden glows, creating pools of soft light that intermix with shadows. The shadows interplay along the uneven cobblestones, highlighting their texture and age. 
+
+Charming stone buildings with ivy-clad facades line the street, their windows softly glowing from within, hinting at life beyond the glass panes. An old-fashioned wooden cart with a few scattered autumn leaves is parked beside a small, inviting café whose entrance is adorned with blooming flower baskets and a wooden sign swaying gently in the night breeze. 
+
+In the background, towering above the silhouettes of the village homes, is the steeple of an ancient cathedral, its stained glass casting subtle hues onto the ground below. The scene is meticulously detailed, from the individual leaves rustling on the ground to the intricate carvings of the wooden doorways, each telling a story of history and tradition.
+Seed: 3601665672
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Night, Amount

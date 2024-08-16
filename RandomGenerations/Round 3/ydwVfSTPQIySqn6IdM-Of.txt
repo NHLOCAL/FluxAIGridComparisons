@@ -1,0 +1,4 @@
+Prompt: An otherworldly, futuristic cityscape bathed in the ethereal glow of twilight where buildings appear as if they are made of shimmering transparent antimatter and float above a reflective, crystalline surface. The architecture is sleek and intricate, with impossible geometry and luminous pathways connecting them. The sky is a deep indigo, dotted with stars that twinkle with an unnaturally bewitching sparkle, casting an enchanting light over the scene. In the foreground, humanoid figures in flowing, iridescent robes gather around what appears to be an antimatter fountain, which emits a soft, pulsating light. The atmosphere is one of awe-inspiring mystery and enigma. This image should be rendered in a surreal, highly detailed digital art style, capturing both the near-magical nature of the antimatter and the futuristic city.
+Seed: 3875956209
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Antimatter, Bewitching

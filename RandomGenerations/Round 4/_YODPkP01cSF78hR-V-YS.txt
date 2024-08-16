@@ -1,0 +1,12 @@
+Prompt: Create an oil painting on a large canvas that captures a druidic figure standing in an ancient forest glade at dusk. The forest is dense with towering oak and yew trees, their twisted trunks and sprawling branches forming a natural cathedral. The ground is carpeted with a rich layer of moss, ferns, and scattered leaves, glistening with the last light of day.
+
+The druid stands in the center of the glade, draped in long, earth-toned robes that blend organically with the surroundings. Their hair is braided with vines and leaves, and their hands hold an intricately carved wooden staff adorned with crystals and feathers. Surrounding the druid, a circle of glowing runestones is partially covered by moss, giving the sense they have been there for centuries.
+
+The lighting is natural and soft, originating from the setting sun that casts long, golden beams through the forest canopy, creating a warm, ethereal atmosphere. The background fades into darker tones of green and brown, as the dense foliage absorbs the diminishing light. Subtle fireflies dot the dimming landscape, adding tiny sparks of yellow to the scene.
+
+The painting style is detailed and realistic, with a high level of intricacy in the textures of the foliage, bark, and the druid's robes. The colors are rich and earthy, with shades of dark green, brown, and hints of twilight purple in the sky visible through the tree canopy. The foliage is thick and tactile, almost inviting the viewer to reach out and touch the leaves and stones.
+
+The overall composition draws the eye towards the druid, who stands as the focal point, and radiates a sense of unity with nature, suggesting a deep, almost sacred connection with the forest around them.
+Seed: 1817661220
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gratitude, Druid

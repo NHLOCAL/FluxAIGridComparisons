@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting features a sun-drenched, late-afternoon garden party set in the meticulously manicured grounds of a grand, turn-of-the-century estate. The painting captures an elongated wooden table laid elegantly with a white linen tablecloth, gleaming silverware, and fine china. Atop the table sits an array of colorful, elaborate dishes and a multi-tiered tray laden with intricately decorated pastries. Surrounding the table, a small gathering of well-dressed guests engage in animated conversation, glasses of sparkling champagne in hand. The guests wear a mix of summertime formal attire, featuring light fabrics in pastel hues. 
+
+The backdrop showcases the lush garden in full bloom, with vibrant roses, climbing ivy, and impeccably trimmed hedges. Tall, ancient oak trees cast dapples of soft, filtered sunlight across the scene. Behind the trees, the estate house stands in majestic detail with its stately columns, large windows, and intricate brickwork partially obscured by climbing vines.
+
+The lighting in the painting is warm and natural, with the golden hour sunlight casting elongated shadows and imparting a luminous quality to the scene. The artist's masterful brushstrokes render every leaf, petal, and fabric fold with intricate detail, creating a sense of both realism and idealized beauty.
+Seed: 3598606985
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Enjoyment

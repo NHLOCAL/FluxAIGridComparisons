@@ -1,0 +1,8 @@
+Prompt: A large oil painting capturing an intimate, yet sophisticated scene set in a dimly-lit, lavish 1940s Art Deco cinema. The central focus is a pair of elegantly dressed individuals, a man in a black tuxedo with a classic bow tie and a woman in a flowing, emerald green evening gown with intricate beadwork. They are seated side by side in plush, red velvet chairs. The man leans slightly towards the woman, his posture relaxed yet attentive, as he whispers something into her ear. She turns her head slightly towards him, her lips curved in a subtle, knowing smile, her eyes half-lidded under meticulously styled curls. 
+
+The lighting is sculptural, casting dramatic shadows and highlighting the rich textures of the scene — the opulence of the velvet chairs, the sheen of the woman's gown, and the polished surface of the man's patent leather shoes. An ornate chandelier, dimmed to a warm glow, hangs above them, casting a golden hue that adds to the romantic and glamorous atmosphere.
+
+The background features a large movie screen, faintly visible but dominated by the shadows and the subtle outlines of classic film characters in a grayscale. Luxurious draperies in deep burgundy with gold tassels frame the screen, adding to the sense of depth and elegance. The ambiance suggests a blend of anticipation and intrigue, inherently timeless and cinematic, with every detail meticulously captured by the artist's brushstrokes.
+Seed: 4099677508
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Cinema, Flirting

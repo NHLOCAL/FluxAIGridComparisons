@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at night with towering, sleek skyscrapers made of glass and metal, their surfaces reflecting a neon-lit sky filled with flying cars. In the foreground, a hologram of a shiny, intricate trophy hovers above a modern, minimalistic podium. The hologram glows with a spectrum of vibrant colors, casting a magical light on the nearby crowd of people in futuristic attire, who are gathered around with intrigued expressions. The streets are lined with augmented reality billboards and robotic street vendors. The atmosphere is illuminated by a blend of cool blue and purple hues from the neon lights, giving the scene a surreal, otherworldly glow. The whole image is done in a hyper-realistic digital art style.
+Seed: 1802102704
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Hologram, Trophy

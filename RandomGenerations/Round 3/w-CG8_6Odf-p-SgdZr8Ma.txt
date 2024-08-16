@@ -1,0 +1,4 @@
+Prompt: Create a futuristic cityscape at nighttime with towering skyscrapers made of black glass and neon lights of various colors illuminating the buildings and streets below. The scene is bustling with people dressed in sleek, high-tech clothing, walking on elevated walkways and hover cars flying through the air. The city is surrounded by a dark, star-filled sky with a moon and glowing planets visible in the background. The image should have a cyberpunk aesthetic with intricate details and sharp contrasts between light and shadow. Style this as a highly detailed, digital art piece with vibrant colors and realistic rendering.
+Seed: 3432778703
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fact, Black

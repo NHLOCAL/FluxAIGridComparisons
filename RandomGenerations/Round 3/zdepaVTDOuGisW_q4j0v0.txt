@@ -1,0 +1,4 @@
+Prompt: Create an imaginative image of a futuristic cityscape at sunset, blending science and pattern. The skyline is dominated by sleek, high-tech skyscrapers with geometric designs, intricate patterns of light circuits running along their surfaces. Floating platforms and aerial vehicles hover above in an organized grid pattern. A few people dressed in advanced, patterned attire with glowing elements walk along transparent walkways connecting the buildings. The scene is bathed in the warm, orange hues of the setting sun, contrasted by the cool, artificial light emanating from the buildings and vehicles. The background features a distant mountain range with scientific research stations visible in the peaks. The style is a hyper-realistic digital artwork, capturing every detail with precision.
+Seed: 3455758848
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Science, Pattern

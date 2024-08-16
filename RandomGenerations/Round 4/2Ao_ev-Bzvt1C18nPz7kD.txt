@@ -1,0 +1,8 @@
+Prompt: A museum-worthy oil painting depicts a highly detailed scene of a gnome's workshop nestled in the heart of an ancient, hollowed-out tree. The background shows the intricate, wood-grain textures of the tree's interior, how it's been smoothly worn down by centuries of use. Bits of moss and small fungi cling to the walls, adding a touch of vibrant green and muddy brown to the otherwise warm, amber wood tones.
+
+The gnome, characterized by his diminutive stature and long, white beard, stands focused at a cluttered wooden workbench. Delicate, hand-crafted tools and half-finished mechanical gadgets scatter across the table—tiny gears, springs, and cogs meticulously detailed in various metallic sheens. Alongside these, glowing crystal shards emit a soft luminescence, casting gentle, mystical shadows that intermingle with the warm golden light flowing from an overhead lantern. The lantern's light highlights the gnome's wise, age-weathered face and the intricate patterns on his patched-up, earthy-toned attire.
+
+The painting style employs rich, deep, and layered textures, emphasizing the nuanced interplay between light and shadow. Each brushstroke is deliberate, bringing forth the tactile presence of natural elements and manmade intricacies. In the background, deeper within the hollow tree, faintly indistinct shelves laden with jars, scrolls, and alchemical equipment suggest an environment steeped in both traditional craftsmanship and mysterious experimentation.
+Seed: 1259843689
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gnome, Matter

@@ -1,0 +1,4 @@
+Prompt: A futuristic village adorned with bright, organic orange architecture that seamlessly blends with the lush greenery around it. In the foreground, humans and robots are working together in harmony, tending to floating hydroponic gardens. The village is illuminated by a holographic, surreal sunset that casts a warm, orange glow over the entire scene. In the background, towering bio-domes and wind turbines rise above the treeline, creating an awe-inspiring skyline. The scene has a digitally-enhanced quality, rendered in hyper-realistic style, giving it a sharp yet fantastical visual appeal, like a still from a high-budget sci-fi movie.
+Seed: 3823102457
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Village, Orange

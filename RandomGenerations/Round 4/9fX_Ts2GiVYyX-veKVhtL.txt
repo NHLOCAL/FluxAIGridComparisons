@@ -1,0 +1,8 @@
+Prompt: A classical oil painting depicting a dimly lit, rustic European café-bar from the early 20th century. The scene is illuminated by the soft, warm glow of vintage sconces and a couple of antique chandeliers hanging from the high, wooden-beamed ceiling, casting gentle shadows and highlighting the rich textures and details. The bar area consists of dark, polished mahogany wood with brass accents, lined with an assortment of glass bottles and etched crystal decanters behind it, reflecting the light and adding a touch of elegance. 
+
+The foreground features several small, round wooden tables with intricate ironwork bases, clothed in deep burgundy and emerald green tablecloths, set with half-empty glasses, a flickering candle in a glass holder, and a few scattered playing cards and coins. Wooden chairs surround the tables, some occupied by patrons dressed in period-appropriate attire, including tailored suits, pocket watches, and elegant dresses. The background shows large, arched windows with wrought-iron grills, through which the faint outline of a cobblestone street and tall, narrow buildings can be seen under a night sky.
+
+In one corner, a pianist with a bowler hat sits at an upright piano, his hands mid-action over the keys, providing a sense of movement. Near the entrance, there's an old coat rack with a couple of hats and coats hanging, suggesting a busy, lively atmosphere beyond what's immediately visible. This oil painting captures the rich, detailed ambiance of a bygone era, transporting viewers to a timeless, enchanting setting.
+Seed: 3027380503
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bar, Café

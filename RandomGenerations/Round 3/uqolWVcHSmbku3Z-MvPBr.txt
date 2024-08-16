@@ -1,0 +1,4 @@
+Prompt: A futuristic, dystopian cityscape at night, illuminated by neon lights and towering holograms. Shadowy figures clad in tattered cyberpunk attire wander through narrow, rain-soaked alleyways lined with dingy bars and vending machines dispensing synthetic drugs. In the foreground, focus on a lone figure, hunched over and gripping a worn map, their face obscured by a hood. Surrounding them, high-tech skyscrapers loom with a mix of modern and decayed architecture, some sections overtaken by glowing graffiti. The sky is covered by a thick, polluted haze, barely allowing the radiance of moonlight to seep through. This is a digital artwork with hyper-realistic details, mimicking the style of cinematic concept art. The entire scene is bathed in an eerie, bluish-green tint, with stark contrasts of light and shadow, emphasizing the looming, oppressive atmosphere.
+Seed: 3622919170
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Journey, Addiction

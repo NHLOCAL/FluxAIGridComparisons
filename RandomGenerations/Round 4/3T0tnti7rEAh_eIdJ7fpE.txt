@@ -1,0 +1,8 @@
+Prompt: A large, oil painting captures a grand ballroom in the midst of a benevolent event, filled with elegantly dressed patrons. The scene is illuminated by an opulent crystal chandelier, casting a warm golden glow that shimmers off the polished wooden floor and reflects subtly on the rich, ruby-red drapes adorning the tall windows lining the walls. The style of the painting is realistic yet slightly impressionistic, where the fine details of individual faces meld into broader, expressive brushstrokes.
+
+In the foreground, a distinguished man in a meticulously tailored suit and white gloves hands over a large, ornamental cheque to a lady in a refined, sapphire-blue evening gown, their actions composed and deliberate. A small, polished plaque beside them indicates a substantial donation to a noble cause. The lady's posture is poised and graceful, her expression finely rendered to show a sense of solemn responsibility. Surrounding them are various onlookers, their finely crafted faces displaying silent acknowledgement and respect.
+
+The background is decorated with classical artwork and ornate, gilded architectural elements, lending an air of grandeur and timelessness to the scene. Framed portraits of historical figures and intricate tapestries hang on the walls, hinting at stories of past deeds and a legacy of duty. The painting’s light expertly balances, highlighting the central figures while casting softer shadows in the periphery to give depth and dimension. This masterpiece would find a revered place in a gallery, encapsulating the themes of duty and donation through its meticulous detail and powerful composition.
+Seed: 2189594713
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Duty, Donation

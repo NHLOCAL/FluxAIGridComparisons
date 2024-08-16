@@ -1,0 +1,6 @@
+Prompt: Title: "Laser Bonding"
+
+Prompt: An oil painting set within an advanced scientific laboratory. The focal point of the scene is a pair of scientists—one male, one female—hunched over a sleek console that controls a powerful laser. The room is enveloped in a dim, ambient twilight, with the only intense light source being the laser itself, casting a vivid, concentrated beam of blue light through a carefully prepared crystal. Behind the scientists, rows of meticulously organized equipment and futuristic apparatus include glass beakers, metal coils, and holographic monitors displaying complex data. The background features towering shelves filled with scientific volumes and a large window revealing a panoramic cityscape at dusk, with hi-tech skyscrapers and flying vehicles in the distance. The painting style is hyper-realistic, capturing fine details such as the glint of the laser on the crystal and the subtle reflections on the scientist's goggles.
+Seed: 4172744774
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Laser, Bonding

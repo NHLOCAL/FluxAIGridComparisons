@@ -1,0 +1,4 @@
+Prompt: A futuristic cityscape at sunset, seen from a high vantage point. The city is bustling with flying cars and ultra-modern skyscrapers with neon lights casting vibrant hues. The buildings have sleek, smooth designs with reflective surfaces that glisten in the fading daylight. In the foreground, a diverse group of people in futuristic attire is engaging in various activities, hinting at an advanced, interconnected society. The sky is a rich blend of oranges, pinks, and purples, with a setting sun that bathes the scene in a warm glow. In the background, towering structures stretch towards the horizon, where the sky meets the sea, dotted with futuristic boats. The style is hyper-realistic with fine details, capturing every element with clarity as if it were a high-definition photograph.
+Seed: 4148031839
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Theme, End

@@ -1,0 +1,10 @@
+Prompt: A large-scale oil painting captures the sheer raw power of nature, depicting an isolated, monolithic boulder dominating the landscape. The scene is set at twilight, the sky transitioning from a bruised orange to deep indigo, emphasizing the solitary grandeur of the stone. Stark, angular lines characterize the rocky surface, showing centuries of weathering and elemental exposure. The textures are intricately detailed, from rough, craggy outcroppings to smoother, time-worn facets, each stroke of the brush bringing out the unique qualities of the rock. 
+
+The background is an expansive, barren desert, stretching infinitely into the horizon. The sand is painted with earthy, muted tones—ochres, siennas, and umbers. Rendered in a hyper-realistic style, wisps of sand are shown being swept by a gentle but persistent wind, creating trails that highlight the passage of time. Shadows play across the landscape, deepening the contrasts and adding depth to the scene. 
+
+Lighting is natural and diffused, coming from the setting sun, casting long, dramatic shadows that emphasize the contours of the boulder and the ripples in the sand. In the distance, silhouetted against the fading light, are faint suggestions of distant mountains rendered in hazy blues and purples, giving a sense of scale and isolation.
+
+This image is more than just an observation; it's an invitation to witness the timeless dance between earth and sky, capturing a moment when the day's heat gives way to the night's cool embrace. The meticulous detail, combined with the grand, almost heroic scale of the subject, is intended to inspire awe at nature's enduring presence. This piece belongs in a gallery where viewers can appreciate the finely wrought balance between solidity and the ephemeral.
+Seed: 1958120665
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elemental, Zone

@@ -1,0 +1,4 @@
+Prompt: A photograph capturing the serene expanse of a historic port at twilight. The scene is illuminated by the soft, golden glow of the setting sun, casting elongated shadows and a spectrum of warm hues across the water. Old, weather-worn boats with chipped paint and tattered sails are anchored calmly, their reflections shimmering in the gently rippling waters. In the background, a cobblestone pathway leads to a series of aged brick warehouses with faded signage, evoking a sense of timelessness and the extent of years passed. The sky is a gradient of deep orange to dusky purple, with a few scattered clouds reflecting the closing light of the day. Fine details such as the rust on iron chains and the texture of the moss-covered stones add depth, making the photograph almost painterly in its composition.
+Seed: 1726815713
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Port, Extent

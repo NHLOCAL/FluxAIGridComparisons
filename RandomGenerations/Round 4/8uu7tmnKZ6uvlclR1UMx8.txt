@@ -1,0 +1,4 @@
+Prompt: Create an oil painting titled "Whispers of Antiquity," capturing an ancient, colossal library hall filled with towering wooden bookshelves adorned with gilded carvings. The background shows a grand edifice with intricate stone arches and high, barrel-vaulted ceilings painted with faded frescoes. Soft daylight filters through large stained glass windows, casting a mosaic of colors and subtle shadows across the marble floor. The scene incorporates hushed suggestion with scattered, half-opened scrolls and old tomes lying on a grand oak table in the foreground. The painting is rendered in the realist style with meticulous attention to texture and detail, allowing viewers to almost feel the weight of the centuries and the quiet imminence of wisdom within these walls.
+Seed: 1604995584
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Edifice, Suggestion

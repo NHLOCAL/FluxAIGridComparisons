@@ -1,0 +1,4 @@
+Prompt: A grand oil painting captures an expansive, ancient observatory perched on a craggy cliffside overlooking a tumultuous sea. The observatory, though in ruins, displays intricate details of its former grandeur; battered domes, crumbling spires, and rusting metallic telescopes that point toward the heavens. The painting has a hyper-realistic style with meticulous attention to detail. Moonlight streams through gaps in the broken domes, casting sharp, luminous beams and deep shadows, creating a dramatic interplay of light and dark. The rugged landscape behind the structure is dotted with overgrown vegetation and ancient, weather-worn stones. The sky above is a tumultuous swirl of dark clouds illuminated by sporadic stars, lending an air of timeless mystery and cosmic intrigue.
+Seed: 1627644995
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ruin, Observatory

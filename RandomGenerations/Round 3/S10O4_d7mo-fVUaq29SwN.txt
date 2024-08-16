@@ -1,0 +1,4 @@
+Prompt: A surreal forest landscape during a golden sunset in an impressionist oil painting style, with soft, swirling brushstrokes depicting a serene, ancient forest. At the center, a majestic Minotaur stands firmly on the forest ground, blending seamlessly with the towering, moss-covered trees. His posture is strong and balanced, emanating stability and strength. Scattered around him, the forest floor is covered with fallen leaves and small patches of colorful wildflowers. Gentle streams of warm, golden light filter through the dense canopy, casting dappled shadows and illuminating the earthy tones of the scene. In the distant background, hazy mountains rise, partially obscured by a thin layer of mist, enhancing the sense of timelessness and serenity in this mythical, yet grounded image.
+Seed: 1935404637
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Minotaur, Stability

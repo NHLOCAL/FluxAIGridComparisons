@@ -1,0 +1,4 @@
+Prompt: Create an oil painting depicting an ancient treasure buried deep within a dense, mystical forest. The forest is bathed in the dappled light of the setting sun, creating a warm, golden hue juxtaposed with the dark, shadowy underbrush. In the center of the scene, an overgrown stone chest partially emerges from the forest floor, its ornate carvings and jewels glinting in the fading light. Two adventurers dressed in tattered medieval garb are kneeling beside the chest, their expressions focused as they carefully clear away earth and vines. The background features towering trees with twisted branches, ivy-covered ruins suggesting a long-forgotten civilization, and a distant, ancient stone pathway. The style of the art is highly detailed and realistic, with rich, earthy tones and a strong emphasis on texture, capturing the age and mystery of the scene.
+Seed: 64261466
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Treasure, Past

@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting captures a futuristic observatory on an alien exoplanet under a stormy twilight sky. A gargantuan exoplanet looms in the background with jagged rings intersecting across a hazy, blood-red sky punctuated by flashes of electric purple lightning. The observatory built from gleaming, metallic alloys stands grounded atop a cliff of iridescent rocks that seem to shift color when viewed from different angles.
+
+Ground-level lights cast stark, angled shadows, emphasizing the severe architecture of the observatory, creating a sense of massive scale and isolation. Inside the panoramic glass dome of the observatory, scientists in sleek, reflective space suits hunch over advanced holographic displays, their figures illuminated by a blue glow that contrasts sharply with the menacing light from outside. The raw energy of the scene is mirrored in a churning, ink-black sea at the base of the cliff.
+
+The painter employs a vivid palette with layering techniques that juxtapose the cold, clinical environment of the observatory against the violent, unpredictable exoplanetary landscape. Textures are rendered with painstaking detail, from the pitted surfaces of the alien rocks to the smooth, polished mechanisms of the observatory equipment. The time and meticulous craftsmanship inherent in the artwork calls for inspection, making it an essential piece for a gallery or museum setting.
+Seed: 1027236556
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Exoplanet, Scream

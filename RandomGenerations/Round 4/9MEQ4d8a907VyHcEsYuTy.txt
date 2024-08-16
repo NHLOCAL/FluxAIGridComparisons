@@ -1,0 +1,10 @@
+Prompt: An exquisitely detailed oil painting captures a moment suspended in time within a dark, cavernous laboratory. The laboratory, filled with archaic and intricate scientific instruments, is dimly lit by flickering gas lamps that cast sporadic shadows, highlighting the aged wooden beams and brick walls in the background. A massive, solid oak table is the centerpiece of the room, cluttered with yellowing parchments, glass beakers with bubbling colorful liquids, and scattered metallic tools of various unknown purposes.
+
+In the foreground stands a figure engrossed in a groundbreaking but perilous experiment. He is an elderly scientist with wild, unkempt hair streaked with white, wearing a slightly tattered, long, dark coat. His face shows deep lines of meticulous concentration as he leans over a glass enclosure on the table. The focal point of the painting is within this glass enclosure, where a small, humanoid creature, a mutant, emerges. The creature's form is unsettling yet mesmerizing; it has translucent skin, showing glistening veins and muscles underneath, and its eyes are large and reflective, capturing the dim light with an almost ethereal glow.
+
+Hanging on the brick walls are large, worn-out canvases covered with complex equations and anatomical sketches, indicating years of relentless study and experimentation. The style of the painting is hyper-realistic, with an intense focus on textures and fine details, making every surface and item almost palpable. The muted color palette is interspersed with bursts of vibrant hues coming from the chemicals, creating a stark contrast that draws the viewer's eye across the painting.
+
+The background suggests an extensive, almost hidden place; rows of dusty bookshelves are barely visible through the shadows cast by the flickering lamps, giving a sense of depth and history. This combination of detailed realism and the fantastical element of the mutant creature creates a juxtaposition, making the painting a mesmerizing piece worthy of any prestigious museum or gallery.
+Seed: 400974467
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Outcome, Mutant

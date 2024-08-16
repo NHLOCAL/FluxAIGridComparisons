@@ -1,0 +1,10 @@
+Prompt: An oil painting depicts a serene coastal landscape at dawn. The composition is marked by its precision, showcasing a blend of realism and impressionism. The foreground features a rugged cliff edge adorned with hardy coastal vegetation, each leaf and petal meticulously detailed, capturing the essence of the area’s flora. Below the cliff, the ocean stretches out, its waves painted with delicate brushstrokes to convey both the fluidity and power of the sea. The water is a gradient of deep blues and shimmering lighter hues, reflecting the subtle light of early morning.
+
+In the midground, a solitary wooden sailboat with tattered sails is anchored near a small, weathered dock made of driftwood. The boat and dock are portrayed with a high level of craftsmanship, emphasizing the grain of the wood and the dents from years of use. Small seabirds are perched on the dock, each feather and beak rendered with precision.
+
+The sky is a masterpiece of colors, transitioning from the darker remnants of night on the left to the awakening hues of dawn on the right. The sun is just beginning to rise, casting a golden spill of light that dances across the water’s surface and highlights the edges of the clouds, which are painted with a soft pink and purple palette. The background features a distant shoreline with faint outlines of a sleepy fishing village, its details blurred to suggest depth and distance.
+
+The lighting of the scene is natural and gentle, with a subtle play of shadows indicating the position of the rising sun. The overall effect is calming and meticulously accurate, each element factually representing its real-world counterpart, yet harmoniously combined to create an exquisite depiction worthy of a gallery.
+Seed: 3577556006
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fact, Exquisite

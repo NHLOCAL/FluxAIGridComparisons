@@ -1,0 +1,8 @@
+Prompt: An oil painting depicts a grand, sunlit room within a historic European mansion, rendered in exquisite Baroque style. The primary focus is a detailed portrayal of a mother and child, captured mid-interaction in the act of passing a small, intricately wrapped gift. The mother, dressed in a flowing amber gown adorned with delicate embroidery, extends the shimmering package towards her child, whose eyes are wide with anticipation. The child's small hands reach out eagerly to touch the gift, his attire a delicate blend of pastel blue and white, accentuated with soft lace.
+
+The lighting is natural and soft, streaming through tall, arched windows that line the back wall, casting gentle shadows which emphasize the intricate designs of the room’s opulent decor. Behind the figures, an ornate fireplace is adorned with a marble mantelpiece, upon which rests a gilded mirror reflecting fragments of the scene and the glow of a low-hanging chandelier, which adds warm highlights to the room.
+
+The background subtly features a meticulously painted tapestry hanging above an antique wooden table set against the left wall, exuding stories of ancient myths and traditions in muted tones. The room is rich with detail, from the polished wood floor with a slight gleam, showing signs of careful upkeep, to the elegant floral patterns etched into the high ceiling. The composition is finely balanced, drawing the eye to the center of the action while allowing the surrounding luxury to envelope and enhance the intimate moment shared between mother and child.
+Seed: 3011582582
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Reward, Touch

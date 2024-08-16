@@ -1,0 +1,10 @@
+Prompt: An oil painting captures a grand, sunlit ballroom that glows under the light of a golden chandelier. The chandelier, a complex matrix of crystal prisms, hangs from an intricately decorated ceiling adorned with baroque-style paintings of mythological figures. The ceiling's artistry reflects in the polished marble floor beneath, creating an interplay of light and shadow that enhances the room's opulence.
+
+In the foreground, near the bottom right corner, stands a magnificent, intricately crafted table showcasing a gleaming silver trophy, the prize of a recent prestigious event. The trophy's polished surface reflects the ambient light, creating dazzling patterns. The table itself is covered with a richly embroidered cloth, its deep blues and golds complementing the room's grandeur.
+
+Tall windows lined with heavy, velvet drapes form the backdrop, allowing beams of natural light to stream into the room, casting long, dramatic shadows. Beyond the windows, a well-manicured garden is visible, a hint of lush green contrasting with the interior's luxurious color palette.
+
+The painting's style is reminiscent of the old masters, with meticulous attention to detail and a rich, warm color scheme that enhances the depth and perspective of the ballroom. In the background, elegantly dressed figures mingle, their forms softly blurred to maintain focus on the centerpiece trophy, yet detailed enough to distinguish their high-quality garments and sophisticated demeanor.
+Seed: 1269253067
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Prize, Matrix

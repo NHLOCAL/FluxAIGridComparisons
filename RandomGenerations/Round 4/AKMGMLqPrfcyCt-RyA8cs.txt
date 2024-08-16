@@ -1,0 +1,4 @@
+Prompt: An oil painting captures a lively street in a historic borough at dusk. The scene is a cobblestone street lined with 19th-century brownstone buildings adorned with wrought-iron balconies. The street is populated by elegantly dressed figures from various eras, suggesting a timeless attraction to this place. Golden street lamps cast warm, inviting pools of light on the damp cobblestones, contrasting beautifully with the cool, blue twilight sky. Background storefronts feature painted wooden signs and large, inviting windows filled with books, antiques, and pastries, creating a sense of community and culture. The painting uses a realistic style with meticulous details in the textures of the stone, wood, and fabric, while soft brushstrokes depict the gentle glow of hidden lights within the buildings.
+Seed: 2952147678
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Attraction, Borough

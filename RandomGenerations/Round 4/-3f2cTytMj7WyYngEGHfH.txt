@@ -1,0 +1,4 @@
+Prompt: A meticulously crafted oil painting depicting an ancient, spiraling stone staircase in an old, abandoned library. The spiral staircase is intricately detailed, with each step and worn balustrade bearing the marks of countless years. Golden shafts of afternoon sunlight stream through broken, high arched windows, casting intricate patterns on the dust-saturated air and the timeworn steps. In the mid-ground, a lone, shadowed figure is seen ascending the staircase, almost melting into the surrounding darkness, symbolizing the act of discovery and the unknown. The background showcases tall, towering bookshelves, filled with age-old tomes and scrolls, hinting at secrets yet to be unveiled. The overall ambiance is a juxtaposition of light and shadow, creating a sense of infinite depth and timeless mystery.
+Seed: 1297368018
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Discovery, Staircase

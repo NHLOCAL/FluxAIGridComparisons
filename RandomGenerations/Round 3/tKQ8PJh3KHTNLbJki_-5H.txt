@@ -1,0 +1,4 @@
+Prompt: A whimsical fantasy landscape set during a vibrant springtime afternoon with a crystal-clear brook meandering through lush, rolling green hills. Majestic cherry blossom trees in full bloom line the banks of the brook, their pink petals delicately floating on the water's surface. Captured in the style of an intricate oil painting, the sunlight filters through the foliage, casting a warm, golden glow over the entire scene. In the background, a distant range of snow-capped mountains completes the idyllic setting. A family of deer drinks from the brook, and a pair of bluebirds swoop gracefully between the branches. The scene is awash with rich color and intricate detail, evoking a sense of wonder and natural harmony.
+Seed: 2160723923
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Brook, Spring

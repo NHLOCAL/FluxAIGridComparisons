@@ -1,0 +1,6 @@
+Prompt: An oil painting titled "Epoch Mirage" featuring a vast, arid desert landscape captured in the golden hour. The foreground presents an ancient, weathered stone structure partially buried in shifting sands; remnants of an epoch long past. The structure’s surface is intricately carved with enigmatic glyphs and symbols, hinting at a forgotten civilization. Mirroring pools of water, almost too clear to be real, shift around the ruins, casting ethereal reflections as if the scene itself is a mirage.
+
+The light is soft, casting elongated shadows that stretch towards the horizon, giving a sense of the last moments of daylight. The sky is a vivid gradient from deep orange near the horizon to a tranquil indigo above, peppered with a few scattered, wispy clouds. In the background, distant, hazy silhouettes of monumental sand dunes fade into an indistinct horizon, their peaks catching the last glimmers of sunlight. The style embraces realism with hyper-detailed textures in the sand, stone, and water reflections, yet the surreal elements of the mirages lend an otherworldly feel. The meticulous brushwork captures the interplay of light and shadow, the age etched into the stones, and the ephemeral nature of the mirages.
+Seed: 1645294585
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Epoch, Mirage

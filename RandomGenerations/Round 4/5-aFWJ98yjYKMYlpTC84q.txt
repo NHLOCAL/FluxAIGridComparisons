@@ -1,0 +1,4 @@
+Prompt: An oil painting capturing a moment in monochrome. The scene is set in a modest, dimly-lit room painted in shades of grey. At the center is an old wooden table, its texture meticulously detailed with cracks and scratches. On the table lies a single, intricately wrapped gift, its delicate ribbons and patterns highlighted by the soft, diffused light filtering in from a small window at the back. The background shows peeling wallpaper, suggesting a space worn by time. Nearby, a simple wooden chair is slightly pulled out, casting a faint shadow on the worn wooden floor. The overall lighting evokes a sense of quiet anticipation, with subtle contrasts between light and shadow emphasizing the intricate details of the objects in the room.
+Seed: 862596298
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Gift, Monochrome

@@ -1,0 +1,10 @@
+Prompt: An oil painting depicting two distinct realms divided by a jagged, rocky chasm running through the center of the canvas. On the left side, a modern family home stands in a suburban neighborhood, bathed in warm, golden sunlight that suggests late afternoon. The house is two stories with large windows, and the front yard features a white picket fence and children playing on a green, well-manicured lawn. Trees with vibrant autumn leaves frame the scene, their shadows stretching towards the chasm.
+
+On the right side of the divide, an ancient tribal village is portrayed with huts made of thatch and clay. This side is illuminated by the cooler, bluish light of dawn, its softer light adding an ethereal quality. Tribal members are shown in traditional attire, gathered around a fire pit preparing a communal meal. The background features dense jungle foliage, with towering, moss-covered trees and a river winding into the distance.
+
+In the foreground, reaching across the chasm, is a bridge made of intertwined vines and wooden planks. It connects the two worlds, and on the bridge stands a pair of figures—one from each side—extending hands towards each other, symbolizing a moment of connection and bridging of different eras and lifestyles.
+
+The background is detailed with contrasting skies: a clear, blue sky with few clouds over the suburban scene and a partially cloudy sky with the beginnings of a sunrise over the tribal setting. The painting employs a realistic style with meticulous attention to detail and vibrant, saturated colors to emphasize the contrast and unity between the two sides.
+Seed: 2799601794
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Division, Family

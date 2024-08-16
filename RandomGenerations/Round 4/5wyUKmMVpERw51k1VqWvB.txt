@@ -1,0 +1,4 @@
+Prompt: An oil painting captures the intense moment of two rival samurai warriors on a forested hill at twilight. Their silhouette forms a stark contrast against the horizon, which is painted in hues of deep orange and amber, as the sun sets behind them. The intricate details of their traditional armor, with engravings and textures painstakingly rendered, highlight their imposing presence. The trees around them cast long, jagged shadows and their leaves, touched by the orange light, seem to smolder in the evening glow. The background features rolling hills leading into a distant, dimly-lit village, with faint lanterns flickering like stars. The artist employs a combination of sharp, angular strokes for the warriors and soft, flowing brushwork for the natural elements, creating a tension-filled, almost surreal atmosphere.
+Seed: 2928181352
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Orange, Conflict

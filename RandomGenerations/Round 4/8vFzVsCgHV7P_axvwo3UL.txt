@@ -1,0 +1,4 @@
+Prompt: An oil painting portraying an ancient, dense forest with towering, gnarled trees whose twisted branches form a natural canopy overhead. Sunlight filters through the leaves, casting a soft, dappled light that creates a tapestry of light and shadow on the forest floor. The painting uses a realistic style, with intricate details that bring each leaf, bark texture, and undergrowth to life. In the background, a silver thread of a stream meanders, reflecting the muted greens and browns of the environment. The scene is completed with patches of colorful wildflowers and moss-covered stones. The lighting captures the essence of a mid-morning glow, transitioning from the cool tones of dawn to the warmer hues of approaching noon, suggesting an untouched, timeless natural sanctuary.
+Seed: 3119031160
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Guidance, Extent

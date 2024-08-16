@@ -1,0 +1,4 @@
+Prompt: A futuristic scene showcasing a tumultuous ocean battling a severe blizzard. Towering waves, rendered with hyper-realistic detail, crash against an iceberg-laden shoreline, where the icy structures gleam under diffused, cold bluish-gray light filtering through thick, swirling snow. The backdrop reveals a sprawling, frozen landscape that extends to the horizon, disappearing into the snowstorm. No people are present, emphasizing the raw and untamed nature of the environment. The sky is a tumultuous mix of dark storm clouds and the occasional eerie light from an unseen moon. The artwork is a digital painting, with intricate detailing that captures the rugged textures of the icy waves, the intricate patterns of falling snowflakes, and the sharp edges of the icebergs glistening under the harsh conditions.
+Seed: 1769526244
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Ocean, Blizzard

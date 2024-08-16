@@ -1,0 +1,4 @@
+Prompt: A futuristic scene set on a vast, icy tundra during a sunset. The sun hovers low on the horizon, casting long, cold shadows and painting the snow and ice in hues of orange and pink. In the foreground, a group of explorers in high-tech suits with glowing blue accents are gathered around a large, advanced piece of machinery embedded in the ice, possibly a research station or a drilling rig. The sky features swirling auroras in shades of green and blue, adding to the surreal atmosphere. In the distance, towering ice formations and jagged glaciers rise majestically, their edges glinting in the waning light. The style resembles a highly detailed oil painting, capturing the crispness of the icy landscape and the sleekness of the futuristic technology with intricate brushwork and rich, vibrant colors.
+Seed: 4249456199
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Event, Tundra

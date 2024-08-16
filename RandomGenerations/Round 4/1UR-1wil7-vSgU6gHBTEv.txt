@@ -1,0 +1,12 @@
+Prompt: A captivating oil painting depicts an ancient, overgrown garden bathed in the soft glow of twilight. The scene is framed by majestic, weathered stone pillars partly covered in lush, climbing ivy, creating a sense of both grandeur and decay. The foreground showcases a cobblestone path winding through an assortment of vibrant, blooming flowers in deep purples and blues, interspersed with wild, unmanicured greenery that hints at long years of natural growth.
+
+The light in the painting effortlessly captures the golden hour, with the sun just barely slipping below the horizon, casting long shadows and a warm, amber hue over the scene. This delicate lighting enhances the texture of the cobblestones and the smooth surfaces of the ancient pillars, offering a soft contrast between the different materials.
+
+In the background, tall, dense trees form a natural wall, their dark green foliage a perfect backdrop that emphasizes the brighter flowers in the foreground. A slight, ethereal mist rises from the ground, giving a sense of mystery and timelessness to the setting. 
+
+The art style is meticulously detailed, with brushstrokes that give life-like realism to the individual petals, leaves, and stones. The palette is rich and inviting, yet subdued enough to highlight the nuanced variations in light and shadow. The painting draws the viewer's eye through its careful composition, leading one to imagine the quiet rustle of leaves and the delicate scent of flowers.
+
+This artwork is both a testament to the eternal cycle of growth and decay and a masterful study in natural beauty and classical architecture.
+Seed: 1584459488
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stadium, Instinct

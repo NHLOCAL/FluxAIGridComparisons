@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting capturing an abandoned, once grand library. The room is vast, its high ceilings adorned with faded frescoes hinting at a bygone era of opulence. Shelves, some collapsed and others leaning precariously, stretch across the scene, filled with crumbling, dust-covered books. In the center, a large wooden table stands, its surface strewn with yellowed papers and ancient manuscripts. The lighting is stark; a single, narrow beam of sunlight pierces through a broken stained-glass window at the far end of the room, casting sharp shadows and illuminating specks of dust suspended in the air. The dark corners of the room are shrouded in an inky blackness, giving the space a forgotten, eerie aura. The background consists of peeling wallpaper and cracked, ornate moldings, suggesting a slow decay over decades, yet whispering tales of a rich history.
+Seed: 2836732732
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fact, Dark

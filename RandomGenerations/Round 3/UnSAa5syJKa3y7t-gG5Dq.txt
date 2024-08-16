@@ -1,0 +1,4 @@
+Prompt: An intricate oil painting depicting a futuristic saga on an alien planet. The scene captures a group of explorers, dressed in advanced, sleek space suits, trekking along a serpentine trail through a rugged, alien landscape. Towering in the background are colossal, bioluminescent mushrooms and crystalline structures glimmering under twin suns. The sky above is a mesmerizing blend of twilight purples and oranges, with distant stars and small, unfamiliar planets visible. The explorers' helmets have integrated lights, casting defined, elongated shadows on the uneven ground, revealing the effort in each step. The trail is lined with peculiar flora, their colors and forms unlike anything on Earth, giving the sense of discovery and uncharted adventure. The painting style emphasizes detail and realism, making the alien world both breathtaking and plausible.
+Seed: 2714283334
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Saga, Trail

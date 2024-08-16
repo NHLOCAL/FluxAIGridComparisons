@@ -1,0 +1,8 @@
+Prompt: In a grand and elegantly lit gallery, an elaborate oil painting commands attention. The scene portrays a regal, opulent ballroom from the Victorian era, captured in exquisite detail. Rich, golden chandeliers hang from a high, vaulted ceiling, each crystal sparkling like diamonds under the ambient light, casting a warm and inviting glow. The light creates intricate shadow patterns on the ornate walls, which are adorned with elaborate gold moldings and soft, velvet tapestries in deep crimson and royal purple. 
+
+In the center of the frame, a group of formally dressed aristocrats engages in a graceful waltz. The women’s ballroom gowns shimmer with intricate embroidery and tiny beadwork, catching the light just so, while the men’s tailored suits are crisp and immaculate. The floor beneath their delicate steps is a polished marble, reflecting the dancers like a mirror. 
+
+The background reveals an array of grand archways supported by marble columns, leading to a lush garden bathed in moonlight. Through the arches, the viewer can catch glimpses of meticulously manicured topiary and the soft, silvery sheen of a distant fountain. The painting captures minute details such as the glint of jewels, the texture of the fabrics, and the intricate designs of the ballroom décor. This piece seamlessly blends realism with an idealized aesthetic, providing a timeless and luxurious snapshot of a bygone era.
+Seed: 3969815970
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Command, Diamond

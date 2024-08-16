@@ -1,0 +1,8 @@
+Prompt: A grand oil painting set in a mystical forest clearing at twilight. The focal point is an awe-inspiring basilisk, its serpentine body coiled intricately around an ancient, moss-covered stone altar. The basilisk's scales shimmer with iridescent hues of emerald and sapphire, reflecting the last rays of the setting sun that filter through the dense canopy above. The creature's eyes are large, glowing orbs that pierce through the semi-darkness, their luminescence casting an eerie yet captivating light on the surrounding flora. 
+
+In the background, towering trees with twisted, gnarled branches reach skyward, their leaves forming a dense tapestry of greens, purples, and blues. Delicate wisps of fog weave through the trees, adding an ethereal quality to the scene. The forest floor is a bed of lush ferns and scattered, luminescent mushrooms that emit a soft, bluish glow, adding to the otherworldly atmosphere. 
+
+The lighting is a masterful interplay between the soft, natural twilight and the supernatural glow from the basilisk’s eyes, creating dramatic contrasts and shadows. The painting style is highly detailed realism, with meticulous attention to texture and color, making the scene almost lifelike despite its fantastical elements. This piece would be a captivating centerpiece in a gallery, inviting viewers into an enchanted world balanced between beauty and peril.
+Seed: 643648178
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fantasy, Basilisk

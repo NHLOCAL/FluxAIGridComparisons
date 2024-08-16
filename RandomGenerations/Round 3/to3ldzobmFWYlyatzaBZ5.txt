@@ -1,0 +1,6 @@
+Prompt: An arresting oil painting depicts a grand, futuristic gallery set amidst a majestic mountain landscape. The gallery building is a stunning fusion of ancient architecture and advanced technology, with towering marble columns juxtaposed against sleek, transparent walls that showcase the surrounding peaks. Futuristic sculptures and paintings adorn the interior, bathed in the soft, warm glow of ambient lighting that filters in from strategically placed skylights. 
+
+In the foreground, a diverse group of adventurers, attired in an eclectic mix of medieval armor and high-tech gear, stand in awe, examining a central exhibit – a holographic map that seems to depict an epic quest. The scene captures a moment of discovery and intrigue, with detailed brushstrokes highlighting the intricate designs on their attire and the meticulous details of the gallery artifacts. The background showcases the breathtaking mountains, their snow-capped peaks and lush valleys painted with such realism that they almost appear to be a photograph. The setting sun casts a golden hue over the entire scene, enhancing the ethereal and enchanting quality of the gallery and its visitors.
+Seed: 2809092110
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quest, Gallery

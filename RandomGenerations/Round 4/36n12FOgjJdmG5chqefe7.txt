@@ -1,0 +1,12 @@
+Prompt: A haunting oil painting captures a sinister yet captivating scene. Set in a secluded bay under a twilight sky, the water is eerily still, mirroring the purples and deep blues of the dying light. In the background, craggy cliffs rise ominously, their jagged edges softened by a shroud of creeping mist. The cliffs are painted in a somber palette of grays and blacks, enhancing the foreboding atmosphere.
+
+At the center of the composition, the focal point is a demonic figure emerging from the water. The creature's skin is a sickly, mottled green, rendered in painstaking detail with coarse brushstrokes to highlight its rough, almost scaly texture. Its eyes, glowing a menacing red, pierce through the darkness, creating a chilling contrast against the dark surroundings. Wisps of dark, tangled hair frame its grotesque, contorted face.
+
+The lighting is stark and dramatic, with the fading twilight casting long, deep shadows across the bay. The demon is partially illuminated by an unnatural, spectral glow that seems to emanate from within, suggesting an otherworldly presence. This eerie light reflects in the calm water, adding an additional layer of menace to the stillness of the bay. 
+
+In the foreground, a dilapidated rowboat lies abandoned on the shore, its peeling paint and weathered wood meticulously depicted to convey age and neglect. This small detail anchors the scene in a tangible reality, despite the fantastical elements.
+
+The overall style of the painting is hyper-realistic with elements of Gothic horror, using intricate details and a dark, muted color palette to create a scene that is both mesmerizing and deeply unsettling.
+Seed: 3973661296
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bay, Demon

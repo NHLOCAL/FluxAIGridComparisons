@@ -1,0 +1,10 @@
+Prompt: A large, expertly composed oil painting on canvas captures a serene and picturesque riverbank scene during the golden hour just before sunset. The mission is to transport viewers to an untouched natural paradise. The lighting bathes the entire landscape in warm, golden hues, with the sun hanging low in the sky, casting long and gentle shadows. The rich, earthy aroma of damp earth and fresh foliage is almost tangible.
+
+In the foreground, tall cattails and rushes sway lightly in the breeze, their feathery tops catching the light. To the left, a sturdy wooden rowboat rests half in the water, its weathered wood reflecting the twilight glow. The surface of the river is a mirror, capturing the lush green of overhanging willow trees and the sky's gradient of soft oranges and pinks. Dappled light filters through the trees, creating intricate patterns on the water and on the mossy stones lining the shore.
+
+The background reveals a dense, untouched forest, with a mix of evergreens and deciduous trees. The details are precise, down to the texture of the bark and the subtle color variations in the leaves. Through a clearing in the trees, a distant mountain range stands majestically, their peaks softened by the haze of the evening light. Small, delicate wildflowers dot the grassy areas, adding splashes of color to the otherwise green tableau.
+
+The style is hyper-realistic, with meticulous attention to detail and texture that draws viewers into the scene. Every leaf, ripple in the water, and ray of light is rendered with precision, making the painting almost photographic in its realism. Yet the artist's touch is evident in the harmony of colors and the idealized yet believable composition, creating a scene that invites viewers to linger and explore its beauty. The overall effect is both tranquil and awe-inspiring, a testament to the untouched splendor of the natural world.
+Seed: 3459145558
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mission, Aroma

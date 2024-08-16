@@ -1,0 +1,9 @@
+Prompt: A large oil painting on a 48x36 inch canvas depicting a vintage classroom set in the 1950s. The classroom is filled with wooden desks arranged in neat rows and a large chalkboard that dominates the front wall, covered in neatly written math equations and diagrams. The teacher, a stern-looking woman in a modest dress and spectacles, stands near the chalkboard with an open book in one hand, pointing to a diagram with a long wooden ruler. The students, a mix of children wearing 1950s attire, are focused on their work, some looking up at the teacher, others scribbling in their notebooks. One student near the window is glancing outside with a thoughtful expression. 
+
+The lighting is warm and natural, streaming through large windows on one side of the classroom, casting long, gentle shadows that stretch across the wooden floor. The windows themselves are partially open, allowing a gentle breeze to flow. The back wall is decorated with student artwork, maps, and various educational posters. The painting style is realistic with meticulous attention to detail, capturing the textures of the wood, the grain of the chalkboard, and the fabric of the children's clothing. The colors are rich and slightly muted, evoking a sense of nostalgia.
+
+In the background, a large wooden door stands ajar, hinting at the hallway beyond, which is subtly blurred to keep the focus on the classroom scene. The composition guides the viewer’s eye from the teacher to the students, encouraging an exploration of the details laid out in the painting. 
+
+Seed: 1629076211
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: School, Adjustment

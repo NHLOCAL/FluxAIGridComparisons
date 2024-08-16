@@ -1,0 +1,4 @@
+Prompt: An intricately detailed oil painting set in a grand medieval castle hall. The scene captures a lone mage, aged and wise, standing before an ornate arched window with a dramatic full moon casting a single, strong beam of silvery light upon him. His flowing robes, adorned with ancient runes and mystical symbols, flutter as if a gentle breeze passes through. The castle's interior walls are decorated with rich tapestries and intricate stone carvings depicting battles and mythical creatures. In the background, shelves filled with ancient scrolls and potions can be seen, with flickering candlelight adding warmth to the otherwise cool moonlit ambiance. The overall composition combines Realism and Baroque styles, using sharp detail and dramatic lighting to emphasize the grandeur and mystique of the scene.
+Seed: 1827574795
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Mage, Quantity

@@ -1,0 +1,12 @@
+Prompt: A hyper-realistic oil painting depicting a serene coastal scene at sunrise. In the foreground, detailed with fine brushwork, are soft, golden sand dunes interspersed with clusters of hardy grasses swaying gently in the morning breeze. Small shells and pebbles scatter across the sand, painted with such precision that their textures and forms are palpable. 
+
+The mid-ground features the calm, reflective ocean, its surface a blend of soft blues and subtle greens, with delicate, silvery waves accentuated by gentle highlights. The water's near-transparency reveals the darker hues of the submerged sands and occasional fish darting close to the shore, all rendered with lifelike clarity.
+
+In the background, the horizon line is a masterful gradient of soft pinks, oranges, and purples as the sun begins to rise, its radiant light casting a warm, golden glow across the entire scene. Wisps of cloud, thin and ethereal, stretch across the sky, their edges tinged with the first light of dawn.
+
+Lighting within the painting is meticulously rendered to capture the early morning atmosphere, with shadows long and soft, and the interplay of light creating a natural depth that draws the eye into the vast openness of the scene. 
+
+The piece exudes a sense of invitation to explore and experience the tranquil environment, encouraging viewers to immerse themselves in the beauty of nature's quiet moments. The artist's technique showcases an exceptional level of detail and realism, making the painting a deserving centerpiece in any gallery or museum exhibit focused on contemporary realism and natural beauty.
+Seed: 3384147870
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Indicator, Openness

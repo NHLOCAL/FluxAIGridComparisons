@@ -1,0 +1,10 @@
+Prompt: Create an oil painting titled "Eternal Passage." This artwork captures an ancient, cobblestone street in a forgotten European village at twilight. The air is dense, carrying the weight of history, as centuries of footsteps seem to echo with every brush stroke. Heavy fog rolls in, blurring the distant outlines of the stone houses that flank the winding path. Lanterns attached to weathered wooden posts cast a warm, golden glow, breaking through the murkiness and creating long shadows that stretch across the uneven ground.
+
+The foreground features a meticulously detailed antique wooden cart carrying barrels and crates, its wheels slightly sunk into the softened cobblestones, as if to portray the passage of time. The artist uses thick layers of oil paint to create texture, enhancing the sense of tangibility and age. Moss grows between the stones, each leaf painted with precise strokes that speak to the passage of hundreds of seasons.
+
+In the background, a small square is visible, where aged brick buildings loom with their worn facades. They stand silently, their presence like an old song heard faintly in the distance. A fountain of carved stone stands at the center, its basin filled with rainwater that glints subtly under the lantern light, creating a soft, constant murmur. 
+
+Above, the sky is painted in deep indigos and purples with patches of fading light, suggesting a quiet hush has fallen over the village, broken occasionally by the distant sound of an owl. The use of chiaroscuro enhances the contrasts in the scene, emphasizing the depth and the layers of history embedded in the setting.
+Seed: 3763787284
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Weight, Sound

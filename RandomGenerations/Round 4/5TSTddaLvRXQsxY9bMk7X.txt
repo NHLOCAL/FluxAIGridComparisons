@@ -1,0 +1,8 @@
+Prompt: An oil painting titled "Garden of Knowledge," showcasing an aged library in a state of natural reclamation. In the foreground, an elegantly carved wooden table is strewn with ancient, yellowed scrolls and open leather-bound volumes. Vines and creeping ivy have encroached upon the scene, their tendrils interweaving with the table legs and winding up to bookshelves. The shelves themselves, packed with dusty tomes, are partially obscured by foliage, suggesting a seamless blend between human knowledge and nature’s persistence. 
+
+The lighting is diffused through a large, arched, stained-glass window on the left side of the painting, casting a soft, colorful glow across the room. This creates dynamic interplay between light and shadow, highlighting the texture of the worn wood and the glossy leaves. The style of the painting is highly detailed with a focus on realism, bringing out the rich textures and intricate details of both the man-made and natural elements in the room. 
+
+The background features a high vaulted ceiling with beams partly covered in moss, emphasizing the theme of development over time and the harmony found in the blend of human creation and natural growth. An antique globe sits in the corner, partially enveloped by more vegetation, suggesting the broader world outside the depicted scene.
+Seed: 3927287848
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Development, Harmony

@@ -1,0 +1,8 @@
+Prompt: A hyperrealistic oil painting captures a serene moment at dawn in a cozy, rustic kitchen. Soft, golden light filters through a window with sheer, lace curtains, casting a gentle glow on the scene. In the foreground, an old wooden table is covered with a neatly arranged breakfast for two: a teapot with delicate, steam rising, two mismatched ceramic mugs, a loaf of freshly baked bread, and a small vase with wildflowers. 
+
+Seated at the table, an elderly couple facing each other, their hands lightly touching in the center. She wears a simple floral dress with a cardigan, her gray hair pinned up in a loose bun. He is dressed in a well-worn plaid shirt with suspenders, his glasses resting low on his nose as he looks lovingly at her. The background shows an open kitchen with vintage cabinets, pots and pans hanging neatly, and a cluttered but charming countertop. 
+
+The overall lighting is soft and warm, enhancing the intimacy of the space and highlighting the fine details of the subjects' expressions and their environment. The painting exudes an atmosphere of tranquility and timelessness, capturing the beauty of a shared, everyday moment in exquisite detail.
+Seed: 1574472753
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Tenderness, Union

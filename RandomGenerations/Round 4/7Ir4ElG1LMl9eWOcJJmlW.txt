@@ -1,0 +1,8 @@
+Prompt: An intricate oil painting depicts a rugged mountain range under a dynamic sky. The jagged peaks are rendered with meticulous attention to detail, their rocky surfaces showcased in shades of grey and brown, highlighted by streaks of snow that catch the sunlight. The lighting in the painting is a sublime interplay of late afternoon sun and heavy shadows, giving the mountains a three-dimensional and almost tactile quality. The sky above is dramatic, filled with swirling clouds in hues of deep blue, purple, and gold, suggesting an approaching storm. 
+
+In the foreground, a narrow, winding trail can be seen, leading the viewer's eye deeper into the mountainous terrain. Tiny, precisely painted figures of mountaineers are visible on the path, their gear depicted with such competence that the texture of ropes and the shine of metal buckles are discernible. These figures add a sense of scale to the vastness of the landscape. 
+
+The background features distant, mist-filled valleys that fade into soft gradients of color, adding depth and a sense of infinite space. The painting’s style exudes realism, combined with a romantic depth that highlights the sublime power and beauty of nature, while also hinting at the skill and resilience required to navigate such formidable terrain.
+Seed: 2439303895
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sublime, Competence

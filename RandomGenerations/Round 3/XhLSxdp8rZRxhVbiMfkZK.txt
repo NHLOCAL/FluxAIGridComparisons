@@ -1,0 +1,8 @@
+Prompt: Create an imaginative scene set in a post-apocalyptic future where nature has reclaimed much of the world. The setting is a vast, overgrown landscape filled with towering trees, vines, and dense foliage. Between the greenery, glimpses of ancient, crumbling stone buildings can be seen, partially enveloped by ivy and moss. In the center of the scene is a large, sacred-looking stone structure, almost like a temple, with engravings worn by time but still discernible. This structure stands on a small, overgrown island surrounded by clear water. The lighting is soft and ethereal, with rays of sunlight breaking through the dense canopy above, creating a serene and mystical atmosphere.
+
+In the foreground, a group of people in tattered, makeshift clothing are seen gathered around an old, rusted control panel — a relic of the past era. They seem to be working together, carefully analyzing and attempting to operate the ancient machinery. Surrounding them, the flora flourishes, showcasing brightly colored flowers and lush greenery indicative of a rebirth of nature. 
+
+Beyond this scene, the background fades into a picturesque landscape of rolling hills and remnants of skyscrapers overtaken by vegetation. The style of this artwork is a hyper-realistic digital painting, capturing intricate details with lifelike perfection.
+Seed: 1959312069
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stone, Control

@@ -1,0 +1,10 @@
+Prompt: An oil painting captures a timeless scene of a grand ballroom from the Victorian era. The canvas spans a large frame, drawing viewers into the opulent world within. The room is lit by elaborate chandeliers that cast a warm, golden glow throughout the space, highlighting the intricate details of the high, vaulted ceiling adorned with frescoes. 
+
+In the foreground, a distinguished gentleman in a meticulously tailored black tuxedo with a white bow tie extends a hand in a graceful gesture towards a lady dressed in an exquisite, deep crimson gown. Her dress flows like cascading silk, shimmering subtly under the light. The gentleman's eyes are fixed intently on her, his posture upright and poised, exuding a sense of purpose and determination. The lady is mid-motion, her gloved hand just beginning to reach out, her head slightly tilted as her rich curls cascade down her shoulders, catching the light. 
+
+Surrounding them, guests attired in luxurious garments engage in spirited conversations, their faces and gestures captured with fine detail, evoking a sense of liveliness and interaction. The expansive background reveals tall, arched windows with velvet drapes, allowing hints of a twilight sky to be visible. The polished marble floor reflects the lights from above, adding depth and richness to the scene.
+
+Each brushstroke is deliberate, the texture of the oil paint adding layers and dimension, making the scene almost tangible. This painting, with its fusion of meticulous detail, elegant characters, and a richly designed setting, is a striking example of artistry worthy of a prestigious museum or gallery.
+Seed: 1296533219
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Agency, Amour

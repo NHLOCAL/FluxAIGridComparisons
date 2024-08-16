@@ -1,0 +1,12 @@
+Prompt: In the heart of the gallery, an oil painting dominates the space, capturing the viewer's gaze with its vivid and intricate detail. The scene is set against a deep, velvety backdrop of cascading cosmic space, rich with midnight blues and purples that almost blend into black, speckled with minute, shimmering stars. At the center of the canvas, a supernova blooms like an immense, celestial flower, its core bursting with dazzling light in shades of white, gold, and fiery orange, radiating outwards in a brilliant halo. The artist's strokes are bold yet precise, creating a palpable sense of explosive energy and light that draws the eye into the painting's depths.
+
+Surrounding the supernova, the remnants of a star's life drift elegantly across the canvas, rendered in delicate, almost ethereal wisps of sky blue and soft lavender, interspersed with specks of glittering interstellar dust. These elements create a stark contrast to the intense brightness of the supernova, giving the piece a dynamic balance between light and dark, chaos and calm.
+
+The background, though predominantly dark, is alive with nebulae and faraway galaxies, painted with fine detail to suggest unimaginable distance. The stars range from tiny pinpricks to slightly larger points of light, each meticulously placed to convey the vast scale of the cosmos.
+
+The lighting within the painting is masterful; the core of the supernova is the primary source, casting a warm, radiant glow that gradually fades into cooler tones as it reaches the edges of the painting. Reflected light subtly illuminates some of the surrounding space debris, giving them a soft, almost ghostly appearance.
+
+The piece stands out for its technical prowess and the artist's ability to convey the grandeur and scale of a cosmic event. The meticulous application of oil paint and the layering techniques used create a three-dimensional effect, with the supernova almost seeming to burst forth from the flat surface of the canvas, making it an arresting visual experience for any gallery-goer.
+Seed: 649255008
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Supernova, Dear

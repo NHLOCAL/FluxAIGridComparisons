@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting depicts a massive, roaring polar bear standing on the edge of a jagged ice floe that juts out into a dark, stormy sea. The bear’s fur is meticulously detailed, with individual hairs catching the faint, cold glow of a distant, low-hanging sun that struggles to penetrate thick, swirling clouds. Its powerful jaws are open, revealing sharp teeth, and its eyes are fiercely focused. The surrounding ice is a stark white, cracked and textured, contrasting sharply with the deep blues and blacks of the turbulent water below. Frost and snowflakes cling to the bear’s fur and the ice around it. In the background, distant mountains of ice loom under the heavy, brooding sky, their peaks partially obscured by swirling snow and mist. The lighting is stark and high-contrast, casting deep shadows and emphasizing the harsh, unforgiving environment.
+Seed: 724290554
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Roar, Ice

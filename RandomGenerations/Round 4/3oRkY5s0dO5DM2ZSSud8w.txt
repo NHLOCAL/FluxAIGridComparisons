@@ -1,0 +1,8 @@
+Prompt: In an opulent gallery stands an oil painting on a grand canvas, capturing a vibrant outdoor scene. The setting is a lush, sunlit park in full bloom, with towering trees casting dappled shadows onto a winding cobblestone path. The background showcases a crystal-clear pond reflecting an azure sky scattered with fluffy, white clouds. 
+
+In the foreground, a couple is seated on a wooden bench, their hands interlocked, symbolizing connection and unity. Nearby, children are seen playing joyfully, their movements rendered with brisk, lively brushstrokes, illustrating their vigorous energy. Rich green tones of meticulously detailed grass stretch across the scene, punctuated by bursts of color from flowerbeds teeming with roses, tulips, and daisies. 
+
+The sunlight filters through the leaves, creating a golden glow that bathes everything in a warm, inviting light. The painter's style is impressionistic, with soft, fluid brushwork that captures the fleeting beauty of the moment and the intricate play of light and shadow.
+Seed: 2686171549
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Heart, Joy

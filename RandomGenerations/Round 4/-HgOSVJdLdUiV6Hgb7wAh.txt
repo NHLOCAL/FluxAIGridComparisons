@@ -1,0 +1,8 @@
+Prompt: A large oil painting rendered in the style of classic Realism, depicting a knight in full, gleaming armor standing guard before the entrance of an ancient, weather-worn castle. The knight's armor is intricately detailed, showcasing every dent and scratch from past battles, symbolizing resilience and unwavering duty. He holds a polished sword with both hands, the blade pointed downwards and resting lightly upon the stone cobbles of the castle courtyard, indicating watchful readiness.
+
+Behind the knight, the massive wooden doors of the castle are fortified with iron reinforcements, hinting at the strength and history of the fortress he protects. Above the doors, aged stone gargoyles peer menacingly, their carved eyes following the movements below. Vines and moss creep up the stone walls, suggesting the passage of time and the knight's long-standing post.
+
+The background sky is a dusky twilight, with hints of deep purple and dark blue hues blending together, punctuated by a few early stars twinkling faintly. Golden torchlight flickers around the courtyard, casting warm, dancing shadows on the cobblestones and the imposing stone walls of the castle. The overall composition combines precise, lifelike detail with a sense of timeless guardianship, culminating in a scene that both honors and immortalizes the steadfast nature of loyalty in stone.
+Seed: 3879582353
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Loyalty, Stone

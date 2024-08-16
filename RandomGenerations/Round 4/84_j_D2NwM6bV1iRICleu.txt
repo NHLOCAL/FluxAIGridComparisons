@@ -1,0 +1,12 @@
+Prompt: A meticulously detailed oil painting depicts a serene, early morning scene in a rustic French village. The cobblestone street, still damp from the morning dew, glistens subtly under the soft, golden light of the rising sun. The buildings on either side of the street are charmingly weathered, their pastel-colored facades showing signs of age and history, with ivy climbing artfully over timeworn stone walls. Wooden shutters, some slightly ajar, hint at the awakening village life inside.
+
+The sky overhead is painted in gradients of soft pinks and blues transitioning into the deeper hues of morning. A single wrought-iron lamppost stands elegantly to the side, its glass panes slightly fogged, not yet needed in the growing daylight. In the distance, gently rolling hills dotted with vineyards and occasional farmhouses provide a picturesque backdrop, fading subtly into a light haze.
+
+The painting's lighting is carefully composed, with the warm sunlight casting long, gentle shadows that play across the street and buildings. The textures of the cobblestones and aged plaster walls are rendered with exquisite detail, inviting viewers to imagine the tactile sensation of running their fingers over each surface. The careful brushwork and rich, layered colors add a sense of depth and realism, making the scene almost lifelike.
+
+In the center of this quaint street, a vintage bicycle, painted in a charming robin's egg blue, leans casually against a stone wall, with a wicker basket attached to the front, filled with freshly picked lavender and a baguette peeking out. This small detail adds an element of life and narrative to the scene, suggesting the daily routines of the village inhabitants.
+
+The overall style is reminiscent of the Impressionists, with a modern twist in its hyper-realistic attention to detail and texture. The warm light, rich textures, and exquisite composition make this painting a stunning and worthy piece for any gallery or museum.
+Seed: 44532790
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Style, Weight

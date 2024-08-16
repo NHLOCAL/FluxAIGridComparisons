@@ -1,0 +1,4 @@
+Prompt: A large, well-lit oil painting captures a vibrant scene of a ballet performance in the middle of a majestic, golden ballroom. The dancers are captured mid-movement, their elegant forms accentuated by the careful brushstrokes that create a sense of fluid motion. Each dancer's costume is a masterpiece of detail, with flowing, shimmering fabrics that reflect the warm, diffused lighting emanating from the grand chandeliers above. The background reveals a lavish, historically-styled ballroom with opulent, gilded decorations and large, arched windows that let in soft moonlight. The polished wooden floor mirrors the dancers' every move, adding a layer of depth and realism to the piece. The entire composition embodies a moment frozen in time, where every element comes together in perfect harmony, celebrating the beauty and grace of the dance.
+Seed: 734028319
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fulfillment, Dance

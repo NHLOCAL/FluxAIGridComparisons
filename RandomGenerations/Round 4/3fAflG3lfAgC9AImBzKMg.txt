@@ -1,0 +1,4 @@
+Prompt: An oil painting capturing a grand and opulent ballroom lit by chandeliers that cast a warm, golden glow over the scene. The focal point is a charismatic gentleman in an elaborate 18th-century costume, performing a theatrical dance at the center, his coattails and feathered hat in mid-motion. Surrounding him is an audience of elegantly dressed attendees, their faces and posture attentive and admiring, each captured in intricate detail. The background features ornately decorated walls with large, gilt-framed mirrors and intricate moldings. Lush, heavy drapes, slightly parted, reveal glimpses of a starlit garden outside. The painting showcases masterful brushwork, emphasizing the texture of fabrics, the play of light, and the grandeur of the setting.
+Seed: 1861661704
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Performance, Wooing

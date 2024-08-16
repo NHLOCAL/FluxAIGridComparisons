@@ -1,0 +1,10 @@
+Prompt: An oil painting depicts a serene and nurturing healthcare clinic set amidst rolling, verdant hills. In the foreground, a diverse group of people of various ages and backgrounds gather around a modern, open-air pavilion constructed from sustainable materials, such as bamboo and reclaimed wood. The architecture, characterized by clean lines and large glass panes, blends harmoniously with the natural surroundings. A canopy of lush, green leaves filters the sunlight, casting a dappled, warm glow over the scene, creating an atmosphere of calm and well-being.
+
+Adjacent to the pavilion, a well-kept garden flourishes with medicinal plants and herbs, meticulously labeled in elegant, handwritten signs. The wooden pathway leading through the garden is bordered by vibrant flowers in full bloom. In the midground, compassionate healthcare professionals in crisp, clean uniforms attend to their patients with attentive care, utilizing state-of-the-art, yet minimally invasive, medical equipment.
+
+The background features a panoramic view of gently sloping hills bathed in late afternoon sunlight, with distant mountains adding depth to the vista. A winding path leading up a hill hints at a small, peaceful village in the distance, its white-washed houses with terracotta roofs providing a subtle contrast to the verdant landscape.
+
+The style of the painting is reminiscent of the Hudson River School, marked by detailed and realistic landscape portrayal, yet infused with a modern sensibility that emphasizes sustainability and community health. The composition and lighting are meticulously crafted to spotlight the agency and self-reliance of the individuals, their collaborative efforts in fostering a healthy, supportive environment.
+Seed: 1858147110
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Health, Agency

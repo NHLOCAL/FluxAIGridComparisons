@@ -1,0 +1,8 @@
+Prompt: A photograph captures a windswept coastal landscape at sunrise. The foreground features fine, golden sand forming gentle, undulating dunes. Each ridge of sand casts delicate, elongated shadows under the low, warm light of the early morning sun. Sparkling granules within the sand catch the light, subtly glimmering. In the midground, tall, slender reeds stand resiliently, their tips catching the first light, creating faint silhouettes against the brightening sky. 
+
+The background consists of a serene, azure ocean where gentle waves lap intermittently at the shore, extending into the horizon. The sky above transitions from deep purples and blues to soft pinks and oranges, indicating the dawning day. The photograph employs a shallow depth of field, creating a soft blur in the background that contrasts sharply with the crisply defined details of the sand and reeds in the foreground. 
+
+The lighting is natural and diffused, giving the scene a tranquil and ethereal quality, highlighting the textures and contours of the sand and the delicate structure of the reeds. The overall style of the photograph is minimalist yet evocative, emphasizing the purity of the natural elements and the expansive sense of space typical of coastal zones.
+Seed: 1408126757
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Sand, Zone

@@ -1,0 +1,8 @@
+Prompt: An oil painting depicting an ancient, grand library, intricately detailed with towering wooden bookshelves that stretch to a vaulted ceiling adorned with classical frescoes. The scene is set at twilight, where the last golden rays of the sun filter through a large, stained-glass window, casting a warm, almost sacred glow across the room. At the center of the painting, a large, ornate table lies cluttered with ancient scrolls, maps, and an hourglass, its sand close to running out. Beside the table, a carved mahogany armchair sits vacant, its cushions deeply creased from years of use.
+
+In the background, a massive, roaring fireplace dominates the scene, flanked by two grand, marble statues of Greek scholars locked in eternal debate. Dark shadows dance on the walls, punctuated by flickers of red and orange light. The flames in the fireplace are depicted with meticulous attention, capturing the lick and curl of the fire as it hungrily consumes a log, symbolizing the concept of Fire. Suspended above the mantle is a large, intricate clock, its pendulum frozen at the 12 o’clock position, the hands forming an Omega symbol, representing the end or finality.
+
+The painting’s style is hyper-realistic, with each brushstroke emphasizing the textures of worn leather, aged paper, and polished wood. The lighting contrasts sharply between the twilight filtering through the stained glass and the dynamic, almost hypnotic illumination from the fireplace, creating a dramatic ambiance.
+Seed: 2021492442
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fire, Omega

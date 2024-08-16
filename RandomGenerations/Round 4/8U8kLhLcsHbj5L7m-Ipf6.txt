@@ -1,0 +1,10 @@
+Prompt: A hyperrealistic oil painting captures an intricate and dynamic scene within an expansive, modern living room filled with lush greenery. The room is designed with open concept architecture, characterized by expansive floor-to-ceiling windows that allow natural light to flood into the space, casting soft, diffused shadows and subtle highlights across the room. The backdrop outside the windows reveals a meticulously landscaped garden with various exotic plants, artfully arranged to create an almost otherworldly feel.
+
+In the center of the room stands a grand, white marble dining table draped with a richly textured, dark green tablecloth that cascades to the floor. Atop the table, an array of objects are laid out with meticulous precision: an antique brass candelabra with half-melted candles, a vintage crystal decanter filled with a deep amber liquid, an assortment of fine bone china plates and bowls stacked haphazardly, each with intricate blue and gold patterns. Scattered among these items are fresh, vividly colored fruits—pomegranates, figs, and grapes—adding to the scene's lush complexity.
+
+The painting style showcases meticulous attention to detail, capturing the reflective surfaces and tiny textures in a way that almost blurs the line between painting and photograph. The room's background includes an elaborate, wall-mounted bookshelf, filled with a mix of leather-bound volumes, modern art pieces, and small, delicate sculptures. The light filtering through the windows imbues the entire scene with a gentle, golden glow, casting intricate patterns on the hardwood floor.
+
+Capturing the essence of "Being," the painting pulls the observer into the minutiae of everyday life, portraying the complexity and richness of the scene through detailed, layered compositions and subtle interplay of light and shadow.
+Seed: 3613010060
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Being, Complexity

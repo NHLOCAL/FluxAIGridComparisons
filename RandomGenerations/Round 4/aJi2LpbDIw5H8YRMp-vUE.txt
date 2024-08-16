@@ -1,0 +1,4 @@
+Prompt: A large oil painting depicts an ancient, towering oak tree standing solitary in the center of a meadow. The scene captures late afternoon light, with warm, golden hues illuminating the tree's gnarled branches and casting long, soft shadows across the verdant grass. In the background, a range of rolling hills transitions from lush green to a deep, twilight blue as they fade into the distance, perfectly balancing the composition. The sky above is a seamless gradient from the warm orange of the setting sun on the horizon to the tranquil indigo of dusk, dotted with the first few stars. There is no sign of human presence, emphasizing the timeless, untouched beauty of nature. The meticulous detailing in the leaves, bark, and grass, combined with the rich, layered textures of oil paint, creates a lifelike yet slightly idealized vision of natural harmony.
+Seed: 1575528185
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fact, Balance

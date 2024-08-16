@@ -1,0 +1,10 @@
+Prompt: An oil painting titled "Phantom of the Rails" captures a moment frozen in time at the heart of an early 20th-century industrial metropolis. The scene is set in a sprawling, dimly lit railway station at dusk. The station's vast iron and glass canopy stretches across the top of the canvas, its steel beams creating intricate shadows that lace the floor below. Puffs of steam and smoke from locomotives diffuse the golden light of hanging lanterns, casting an ephemeral, almost ghostly glow throughout the space. Rays of this warm, flickering light strike the polished surfaces of the old iron trains, producing sharp reflections and a mesmerizing interplay between light and shadow.
+
+In the foreground, two steam locomotives are caught racing side by side, their iron frameworks blurred slightly to convey their startling speed. The wheels appear almost like spinning, silver discs, and trails of smoke billow backward, blending into the murky background. The passengers on the platform are depicted with meticulous detail, their period-appropriate clothing fluttering in delay of the locomotives' passage. Faces are caught mid-turn, hats barely clinging to heads, coats and dresses whipping in the railway wind.
+
+The background showcases a blend of art deco and gothic architecture, towering grey structures with elaborate ironwork balconies and arched windows, shrouded in the steam. Far above, the sky is almost barren except for a few translucent clouds that catch the last pinkish hues of the setting sun. The geometry of the architecture alongside the organic curves and chaos of the smoke and steam creates a sharp contrast, adding layers of intrigue to every corner of the painting.
+
+Every detail in "Phantom of the Rails" is meticulously crafted to encapsulate a sense of bewildering rapidity and the haunting beauty of industrial age marvels, making it a timeless masterpiece worthy of any prestigious gallery or museum.
+Seed: 3997603558
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Bewildering, Speed

@@ -1,0 +1,4 @@
+Prompt: An alien landscape set in the distant future depicts a grand cathedral made entirely out of glowing crystalline structures towering against the horizon. It is twilight with a deep, indigo sky adorned with unfamiliar constellations and two large moons. The cathedral, with its intricate spires and vast arches, creates a stark contrast against the barren, rocky terrain peppered with bioluminescent plants. No people are present, but robotic drones hover around the cathedral, performing maintenance. The scene is captured in the style of a hyper-realistic digital painting, blending both sharp details and ethereal light effects. The background features distant jagged mountains and a shimmering, almost translucent mist. Individual beams of artificial light illuminate portions of the cathedral from various angles, casting scattered, colorful reflections across the landscape.
+Seed: 2054849
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Norm, Cathedral

@@ -1,0 +1,12 @@
+Prompt: A vividly detailed oil painting captures the interior of a grand, timeworn library. This scene is filled with towering mahogany bookshelves that stretch up to a lofty, ornate ceiling adorned with golden stuccoes. Soft sunlight pours through tall, arched windows with intricate stained-glass patterns, casting dappled hues of blue, red, and green on the polished wooden floor. 
+
+In the foreground, an elderly scholar is seated at a sturdy oak table cluttered with ancient manuscripts and inkpots. His focused eyes peer through thin, gold-rimmed spectacles as he meticulously scribbles in a large, weathered journal with a quill pen. Every wrinkle and strand of his silver hair is meticulously rendered, showcasing the passage of time.
+
+The room is filled with a controlled sense of order and magnitude; each book is carefully placed, each object methodically arranged. Behind the scholar, a grand fireplace stands unlit, its mantel adorned with antique clocks and bronze statuettes. The walls are lined with faded portraits of historical figures whose gazes seem to follow you, further emphasizing the richness in history and knowledge that the library holds.
+
+The lighting is soft yet deliberate, highlighting the textures of old leather-bound books and the scholar’s concentrated expression. Shadows play gently around the space, creating a serene but purposeful atmosphere. The background reveals a few more patrons lost in silent study, creating a sense of quiet respect and intellectual curiosity.
+
+The style of art is hyper-realistic with every detail approached with meticulous care, ensuring that the viewer can almost feel the texture of the pages and the quiet ambiance of the room. This painting emanates a sense of timeless knowledge and the disciplined pursuit of understanding, making it a fitting piece for any distinguished gallery or museum.
+Seed: 1019317155
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Awareness, Control

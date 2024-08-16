@@ -1,0 +1,6 @@
+Prompt: An oil painting capturing a lively Parisian street café at dusk. The scene is bathed in the warm, golden glow of the setting sun, casting long shadows and enveloping the café in a romantic ambiance. In the foreground, a young couple is seated at a small, round table adorned with a single candle. The woman, dressed in a flowing, burgundy dress, lightly touches the man's hand as she offers a coy smile, her eyes subtly glancing upwards beneath dark lashes. The man, in an open-necked white shirt and tailored blazer, leans in slightly, a hint of a grin on his face as he listens intently. 
+
+On the table, an untouched glass of red wine refracts the light, revealing its deep hues. Nearby, a silver tray holds a small silver tip that catches the light just so, signifying a respectful gesture to the waiter who is captured mid-stride, balancing another tray of espresso cups and pastries. The background features a cobblestone street dappled with the last light of day, flanked by buildings with ornate wrought-iron balconies. Strings of fairy lights crisscross above, creating a canopy of gentle illumination. Through the café’s open windows, one can see shelves filled with colorful bottles and ornate mirrors reflecting the intimate scene.
+Seed: 572818593
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Flirting, Tip

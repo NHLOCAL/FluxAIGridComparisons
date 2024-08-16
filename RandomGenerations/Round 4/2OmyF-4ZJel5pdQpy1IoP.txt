@@ -1,0 +1,8 @@
+Prompt: An oil painting showcases an elaborately designed, spiraling grand staircase made of dark mahogany wood, its railings intricately carved with botanical motifs. The staircase ascends in graceful curves through the center of the artwork, reaching towards an unseen upper level. Each step is adorned with a rich crimson carpet, bordered with gold tassels, giving a sense of opulence. Positioned at the base of the staircase is a polished marble floor that reflects the grandeur above. 
+
+Overhead, a grand chandelier with countless crystal drops scatters light, casting shimmering reflections and soft shadows across the scene. The lighting itself is a warm blend of ambient light from unseen windows, suggesting large, arching windows just out of the frame. The light source is natural midday sunlight, creating gentle contrasts and highlighting the depth of the wood grain on the staircase.
+
+The background consists of elegant wallpaper in a muted damask pattern, with hints of gold-leaf accents, and vintage portrait paintings ornately framed in gold, symmetrically aligned on the walls leading up the staircase. A glimpse of an arched doorway at the top of the stairs hints at further luxurious rooms, suggesting continuation beyond the visible frame. The entire scene is enveloped in a rich, timeless classicism, evoking a sense of captured elegance and historical grandeur.
+Seed: 869274045
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Staircase, Effect

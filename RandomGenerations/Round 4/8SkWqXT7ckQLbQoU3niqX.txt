@@ -1,0 +1,12 @@
+Prompt: A finely detailed oil painting captures a midnight street in an old European town, illuminated by a solitary, flickering gas lamp that casts long shadows across the cobblestone pathway. The scene is set under a brooding, cloud-laden sky, with the moon peeking through occasionally, adding a pale, ethereal glow to the surroundings. The buildings lining the street are centuries-old, their facades showing signs of age and history, with ivy creeping up the walls and windows slightly ajar.
+
+In the foreground, a lone figure—a stranger cloaked in a long, dark coat and hat—walks with a measured pace, their footsteps almost visible on the damp stones. The stranger's face is obscured, adding an air of mystery to their presence. 
+
+Behind the stranger, emerging subtly from the shadows, is a translucent, half-visible ghost floating just off the ground. The ghost is dressed in tattered, historical attire, with an indistinct face that seems to blur into the background. Its presence is almost imperceptible, blending seamlessly with the environment, as though part of the scene rather than an otherworldly being.
+
+The painting's style emphasizes realism with meticulous attention to texture and light. The use of chiaroscuro creates a stark contrast between light and dark areas, highlighting the ghostly figure while maintaining the overall somber, haunting atmosphere. The background features the narrow alleyway fading into darkness, with the distant silhouette of a cathedral spire barely visible through the mist.
+
+This oil painting's composition and play of light and shadow draw the viewer into a moment frozen in time, where the boundaries between the living and the spectral are subtly blurred.
+Seed: 1664182880
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Stranger, Ghost

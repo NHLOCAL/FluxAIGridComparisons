@@ -1,0 +1,8 @@
+Prompt: A large oil painting depicts a bustling construction site in the midst of a vibrant spring day. In the foreground, workers in brightly colored safety vests and hard hats are diligently operating heavy machinery and assembling the skeletal frame of a building. A large crane reaches up towards the sky, its arm extending over the half-built structure. Surrounding the immediate construction area, a lush, green field is dotted with blooming wildflowers in hues of yellow, pink, and blue, suggesting the untamed beauty of the season encroaching on human progress.
+
+In the background, vivid trees are adorned with fresh, light green leaves, swaying gently in a soft breeze. The sky is a brilliant cerulean blue, with fluffy white clouds lazily drifting by, casting soft, diffuse shadows on the ground. The lighting in the scene is natural and bright, illuminating the earthy tones of the construction materials and the vibrant colors of the flora with equal clarity.
+
+The painter's style is realistic with a hint of impressionism, capturing fine details of both the industrial activity and the surrounding spring landscape while employing brushstrokes that convey the lively motion of the workers and the gentle, swirling growth of the plants. The juxtaposition of the structured, metallic elements of the construction site against the organic, pastel tones of the spring environment creates a harmonious yet contrasting visual narrative.
+Seed: 3441555362
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Spring, Construction

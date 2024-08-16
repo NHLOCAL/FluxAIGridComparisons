@@ -1,0 +1,10 @@
+Prompt: An oil painting titled "The Dream of Power" captures a surrealist landscape. The foreground features a massive, ancient oak tree with sinuous branches, its roots breaking through the ground as if grasping for dominance. The trunk and branches are gnarled and thick, suggesting age and strength, and the bark is textured with intricate patterns that almost resemble eyes watching from all directions. Perched among the branches is a regal lion, its mane flowing in an ethereal breeze.
+
+The lion’s eyes are sharp, with a piercing gaze fixed on the horizon, and it stands majestically, as if surveying its realm. The musculature of the lion is meticulously detailed, exuding latent strength and confidence. Below the tree, the earth is cracked and arid, with patches of lush grass mysteriously sprouting near the roots, indicating a juxtaposition of thriving power amidst prevailing desolation.
+
+In the background, rolling hills fade into a surreal, dream-like haze, with soft pastel colors blending into each other, creating an ethereal atmosphere. A distant mountain range looms, pyramid-like, touching the sky painted with streaks of twilight purples and golden hues, which cast an ambient, almost divine light across the scene. The sky is dotted with both stars and faint, wispy clouds, suggesting the boundary between night and day, reality and dream.
+
+The lighting emanates from an unseen source beyond the horizon, drenching the scene in a warm, golden glow that highlights the textures and shadows with high contrast, emphasizing the form and volume of each element. The painting is rich in detail yet imbued with the mystique of an otherworldly vision, encapsulating the blend of formidable strength and fantastical dream within a pristinely composed and visually arresting tableau.
+Seed: 3804619657
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Power, Dream

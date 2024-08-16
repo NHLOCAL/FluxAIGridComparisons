@@ -1,0 +1,10 @@
+Prompt: An oil painting depicts a quaint, centuries-old village nestled within rolling hills that stretch toward the horizon under a sky just beginning to blush with the hues of dusk. The scene is set in autumn, with trees shedding golden and red leaves that scatter across cobblestone streets. The lighting in the painting is soft and warm, casting long shadows from the low angle of the setting sun, which bathes the village in a golden glow. 
+
+In the foreground, three artisans are deeply engrossed in their tasks: a blacksmith hammering a glowing piece of metal on an anvil outside a forge, indicated by the specks of orange sparks flying into the air, a weaver meticulously working a loom under the shelter of a thatched-roof veranda, and a baker seen through an open window, kneading dough in a flour-dusted apron. Each character is intricately detailed, emphasizing the richness of their traditional attire and the tools of their trade.
+
+The background consists of weathered stone houses with ivy creeping up their walls, thatched roofs and small, curtained windows standing snugly side by side. A narrow, winding path leads up a gentle hill to an old church with a bell tower, which is softly illuminated by the golden hour light.
+
+The style of the painting is realistic with a hint of romanticism, bringing out the rustic charm and simple beauty of village life. The overall composition balances the intimate activity in the foreground with the expansive, serene landscape in the background, creating a harmonious scene that invites viewers to immerse themselves in another time and place.
+Seed: 4186430677
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Village, Task

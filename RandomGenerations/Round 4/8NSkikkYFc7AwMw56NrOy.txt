@@ -1,0 +1,4 @@
+Prompt: An expansive desert landscape under an alien sky, oil painting. The foreground features vast, rolling sand dunes with intricate patterns created by the wind. Fossilized bones of ancient creatures half-buried in the sand add a sense of deep history. To the left, a solitary, gnarled tree with twisted branches stands resilient against the harsh environment. In the background, towering rock formations and mesas with weathered, striated layers give a geological timeline of the planet's history. The sky dominates the scene with swirling, otherworldly hues of purple and orange, scattered with two large, pale moons and a nebula visibly stretching across the horizon. The lighting is dramatic and low, simulating the late golden hour, casting elongated shadows and bathed in a warm, ethereal glow that contrasts against the cool tones of the sky.
+Seed: 3390523135
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Desert, Planet

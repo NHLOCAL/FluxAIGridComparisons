@@ -1,0 +1,12 @@
+Prompt: Prompt: 
+
+An oil painting on a large canvas depicts a powerful coastal scene where nature's raw strength is showcased against human vulnerability. The foreground features the craggy, weather-worn rocks of a cliff, coated with patches of vibrant green moss and scattered with salt-worn pebbles. Sitting on the edge of the cliff is an ancient, weather-beaten lighthouse; its white paint is faded, almost completely peeled away, revealing the gray stone beneath. Several windows are cracked or broken, and rust streaks the metal components, highlighting its battle against relentless sea spray and howling winds. 
+
+The background is dominated by a tumultuous ocean under a stormy sky. Enormous waves crash violently against the cliffside, their whitecaps producing plumes of mist that merge with the dark clouds overhead. The sea itself is rendered in deep blues and grays, almost black, reflecting the ominous heavy clouds that swirl above. Occasional lightning bolts pierce through the sky, casting fleeting moments of bright, sharp illumination that contrast starkly with the otherwise dim, oppressive atmosphere. 
+
+The light in the painting is dynamic, predominantly natural, with the flashes of lightning and the diffused twilight providing the contours and shadows that shape the scene. The details in the wind-swept grass and the almost skeletal remains of a lifeboat washed ashore add layers to the narrative, emphasizing the relentless struggle and frailty against the elemental forces of nature.
+
+The style of the painting is hyper-realistic with meticulous attention to details, from the individual droplets of sea spray caught mid-air to the fine cracks in the lighthouse’s decrepit facade. This oil painting is both awe-inspiring and humbling, worthy of a prominent place in any museum or gallery for its masterful portrayal of the ceaseless clash between human-made constructs and the elements.
+Seed: 3414010291
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Elemental, Weakness

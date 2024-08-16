@@ -1,0 +1,4 @@
+Prompt: "A futuristic cityscape at dawn, with towering skyscrapers of glass and metal reflecting the first light of the sun. Hovering vehicles zooming through aerial highways, and people in stylish, high-tech attire walking on elevated sidewalks, showcasing a world of rapid progress and innovation. The golden light bathes the city in a warm glow, casting long shadows and creating an atmosphere of anticipation. In the background, a colossal construction site where an advanced architectural marvel is taking shape, symbolizing constant development. This is an ultra-modern, highly detailed digital painting."
+Seed: 2199509891
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Excitement, Change

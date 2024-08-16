@@ -1,0 +1,8 @@
+Prompt: A hyper-realistic oil painting depicts an ancient medieval town at dusk. In the foreground, cobblestone streets meander through quaint, centuries-old buildings with ivy climbing up weathered stone walls and rustic wooden doors adorned with iron knockers. The golden light of the setting sun bathes the scene in a warm, amber glow, casting long shadows that stretch across the ground. 
+
+Dominating the background stands a towering Gothic clock tower, its intricate stonework and pointed arches meticulously detailed, reaching high into the sky. The tower's clock face is subtly illuminated, creating a focal point that contrasts brilliantly against the deepening twilight. A soft, lavender hue begins to envelop the sky, merging seamlessly with the receding sunlight.
+
+Lanterns along the street begin to flicker to life, their soft, glowing orbs reflecting off the cobblestones and creating a gentle, inviting ambiance. The town appears deceptively quiet, with only a few silhouettes of townsfolk seen in the distance, emphasizing the town's timelessness and mystery. The meticulous brushstrokes and layered textures capture the essence of a serene, historical moment frozen in time, offering viewers a breathtaking glimpse into a world both familiar and fantastical.
+Seed: 2241521363
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Town, Tower

@@ -1,0 +1,4 @@
+Prompt: Oil painting of an opulent 1920s jazz club. The scene is rich with variety, showcasing diverse attendees dressed in period-specific clothing. Men in tailored suits and women in elegant flapper dresses are engaged in animated conversations, some holding champagne glasses. The focal point is a grand piano with a skilled pianist at the keys, accompanied by a jazz band playing brass instruments. Ambient lighting is warm and golden, emanating from ornate chandeliers, casting soft shadows that create a sense of depth. The background features luxurious red velvet drapes and intricate Art Deco patterns on the walls, interspersed with hanging framed paintings. The polished wooden floor reflects the soft glow from the chandeliers, adding to the overall richness of the scene.
+Seed: 384924582
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Club, Variety

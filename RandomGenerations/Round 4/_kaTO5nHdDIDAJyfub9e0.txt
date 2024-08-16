@@ -1,0 +1,4 @@
+Prompt: This image is an oil painting. At the center is an old wooden boat resting on a tranquil, glass-like lake under a starry night sky. The boat’s weathered texture and chipped paint detail its long years of service, now peacefully retired. The water is so still that it reflects the boat and stars above with perfect clarity, blending the line between reality and reflection. Surrounding the lake, tall pine trees stand still, their dark silhouettes creating a natural frame. The sky is a deep midnight blue, studded with stars that shine with quiet brilliance, their light subtly interacting with the faint outline of distant mountains. In the background, the horizon glows softly from the hidden moon, casting a gentle, silvery light over the entire scene, evoking a timeless, serene ambiance.
+Seed: 3653035457
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Quiet, Project

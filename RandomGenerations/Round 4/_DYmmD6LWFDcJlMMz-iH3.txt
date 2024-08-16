@@ -1,0 +1,10 @@
+Prompt: A grandiose, museum-quality oil painting captures an immense, ancient citadel perched atop a rugged mountain range. The citadel, rendered in painstaking detail, dominates the scene with its high towers and formidable walls constructed from large, dark stones worn smooth by the centuries. 
+
+The sky is a dramatic backdrop of swirling storm clouds illuminated by flashes of lightning, casting an eerie, otherworldly light across the landscape. The light source is primarily from the stormy sky, creating stark contrasts with deep shadows and sharp highlights on the citadel's stone surfaces. 
+
+In the foreground, a path lined with twisted, leafless trees and thick, overgrown thorny bushes leads the viewer's eye towards the looming structure. The twisted branches and thorns are meticulously detailed, each element contributing to a sense of impenetrability and ancient timelessness. 
+
+The style of the painting is hyper-realistic, with exceptional attention to detail and texture, allowing viewers to almost feel the roughness of the stones and the chill of the stormy air. This painstaking realism, combined with the epic scale of the citadel and the dramatic, tempestuous background, evokes a powerful sense of awe and grandeur.
+Seed: 1414619353
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Impact, Citadel

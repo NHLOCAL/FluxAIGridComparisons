@@ -1,0 +1,8 @@
+Prompt: A captivating, large-scale oil painting dominates the canvas with a surreal underwater scene. At the center of the composition, an intricately detailed koi fish with shimmering scales of gold and midnight blue glides gracefully, its long, flowing fins and tail trailing like delicate, translucent ribbons. The background features an ethereal seascape, where twisting aquatic plants with hues of emerald and jade intertwine with mysterious coral formations in shades of deep crimson and soft lavender.
+
+The lighting is meticulously crafted to simulate the dappled sunlight that penetrates through the water's surface, casting dancing patterns of light and shadow across the scene. This lighting enhances the fish’s iridescent scales, causing them to gleam mesmerizingly and almost appear to glow from within. The water itself is painted with layers of fluid, swirling blues and greens, creating an illusion of movement that adds to the painting's enchantment.
+
+In the distance, the faint silhouettes of other marine creatures can be seen, indistinct but suggestive of a hidden, vibrant world. The use of fine brushstrokes and a rich color palette convey an extraordinary sense of depth and realism, blurring the line between fantasy and reality. The painting is mounted in an ornate gold frame, its intricate designs reflecting the artwork's intricate details, enhancing its allure and bewitching presence. This masterful piece would be at home in any esteemed art gallery or museum, drawing viewers into its spellbinding underwater realm.
+Seed: 1376050528
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Fish, Bewitching

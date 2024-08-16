@@ -1,0 +1,10 @@
+Prompt: An intricate oil painting on a large canvas, capturing the moment of an early 20th-century Arctic expedition. The scene is set in the expansive, icy expanse of the Arctic Circle during the twilight hours where the sky is painted with hues of lavender and deep blue, indicating the impending polar night. The foreground features a team of explorers in period-specific, meticulously detailed, fur-lined attire, setting up a camp. Their gear, including sleds loaded with crates, wooden skis, and brass compasses, is carefully depicted.
+
+The lighting in the image is soft and diffused, emanating predominantly from the pale, fading sunlight on the horizon, casting long shadows and a subtle, ethereal glow over the snow. A single brass lantern near the explorers' campsite offers a warm, contrasting light, highlighting their determined faces and creating a sense of contrast against the cool background.
+
+In the middle ground, a few hardy dogs, equipped with harnesses, are seen resting on the snow, their breath visible in the cold air, adding life and movement to the scene. The background stretches into a desolate, white tundra punctuated by icebergs and the faint silhouette of distant mountains. Above, the sky is streaked with delicate wisps of cirrus clouds and an emerging blanket of stars.
+
+The painting style is realistic, capturing fine details such as the frost clinging to the explorers’ beards and the intricate patterns of the ice. Every element, from the textures of the explorers’ clothing to the meticulously rendered ice and snow, contributes to the authenticity of the expedition’s stark, yet grand, setting. The piece communicates a sense of human endeavor and the raw, untouched beauty of nature, showcasing the products and tools of exploration in a moment frozen in time.
+Seed: 4293306088
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Expedition, Product

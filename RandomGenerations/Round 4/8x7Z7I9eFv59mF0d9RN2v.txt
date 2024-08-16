@@ -1,0 +1,8 @@
+Prompt: An oil painting depicts an idyllic riverside scene during the golden hour, with the setting sun casting a warm, amber glow over the landscape. The river, painted with layers of rich blues and greens, winds gracefully through the canvas, reflecting the soft light and creating a gentle shimmer on the water's surface. The edges of the river are framed by tall, slender trees with lush foliage, their leaves subtly tinged with the day’s last light. In the background, distant rolling hills fade into the horizon, their outlines softened by a gentle haze.
+
+The style of the painting is reminiscent of the Barbizon school's focus on nature and light, with delicate but defined brushstrokes that capture the textural nuances of the scene. The trees along the riverbank are rendered with meticulous attention to detail, each leaf and branch carefully articulated. On one side of the river, a weathered, wooden footbridge spans the water, its timbers casting intricate shadows on the river below, enhancing the composition's depth and structure. Patches of wildflowers in vibrant hues of yellow, purple, and pink dot the riverbanks, adding pops of color that contrast beautifully with the tranquil blues and greens of the water and foliage.
+
+The framework of the painting is natural yet deliberate, guiding the viewer’s eye along the curve of the river and through the verdant woodland, inviting further exploration of this serene, timeless landscape.
+Seed: 3715188652
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: River, Framework

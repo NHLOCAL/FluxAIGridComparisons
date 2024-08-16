@@ -1,0 +1,8 @@
+Prompt: An oil painting captures the moment of a sprawling, desolate cosmic landscape. The foreground hosts the skeletal remains of long-forgotten structures, ancient and grand, their crumbling ruins hinting at a civilization wiped out eons ago. These skeletal remains are bathed in a soft, eerie twilight, cast by the distant remnants of a dying star, while shadows stretch long, emphasizing the structure's once-majestic architecture.
+
+Dominating the background is a breathtaking supernova, caught in mid-explosion, its brilliant radiance contrasting starkly with the cold, dark void of space. The supernova's tendrils of plasma and gas spiral outward, vivid shades of blue, purple, and fiery orange intermingling and illuminating the scene with an ethereal, almost otherworldly light. Tiny asteroids and debris float aimlessly, caught in the gravitational pull of this cosmic event.
+
+The painting style combines realistic detailing with imaginative elements, focusing on the intricacy of the ruins and the explosive chaos of the supernova. The sky around the supernova sparkles with countless stars, their light dimming in comparison to the cosmic eruption. Despite the dynamic background, a haunting serenity blankets the scene, evoking a sense of timelessness and the thin line between life's brief existence and the unfathomable expanses of the universe.
+Seed: 3789121678
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Existence, Supernova

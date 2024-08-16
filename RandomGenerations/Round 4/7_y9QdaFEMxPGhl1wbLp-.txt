@@ -1,0 +1,10 @@
+Prompt: In the dimly lit cavernous expanse of an art gallery, a large oil painting looms on the focal wall. The scene captures an alchemical workshop from the Renaissance era, teeming with scientific apparatus—retorts, flasks, and beakers lit in the warm, flickering glow of candlelight. 
+
+At the center of this stage, a gaunt, bearded alchemist, his face etched with years of obsessive labor, leans intently over a large, ancient manuscript spread open on a cluttered wooden table. His eyes are wide with a frenzied focus, fixated on the text as though decoding the very secrets of the universe. His ink-stained fingers grip a quill with unyielding tension, poised in mid-air. 
+
+Behind him, shelves overloaded with dusty tomes and jars filled with mysterious ingredients line the stone walls, each meticulously arranged yet chaotic in their abundance. Shadows dance across the scene, creating an almost hypnotic play between light and darkness, emphasizing the alchemist's isolation in his relentless pursuit.
+
+The background fades into a deeper darkness, adding a sense of depth and confinement, broken only by the occasional glint of a metallic instrument or the dull shimmer of a chemical solution. The interplay of light and shadow, alongside the vivid details of the alchemist's obsession, pulls viewers into a world where creation and addiction meld into a single consuming force.
+Seed: 43583794
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Creation, Addiction

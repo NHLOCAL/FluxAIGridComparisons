@@ -1,0 +1,4 @@
+Prompt: A bustling future-tech market district set in the evening, with the last light of the sunset casting long shadows and illuminating high-tech, neon-lit stalls and buildings. Sleek, futuristic skyscrapers loom in the background with rooftop gardens visible, interspersed with holographic advertisements floating in the air. The streets are crowded with a diverse mix of humans and humanoid robots, all clad in innovative and stylish attire. Street vendors sell exotic fruits and high-tech gadgets from illuminated stalls. The scene is depicted in a hyper-realistic digital painting style, with intricate detail on the market stalls, people’s attire, and the ambient lighting creating a vibrant yet mysterious atmosphere.
+Seed: 1284696592
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Evening, District

@@ -1,0 +1,8 @@
+Prompt: A large-scale, hyper-realistic oil painting capturing a clandestine moment in an opulent 18th-century ballroom. At the center of the canvas, a young couple is engaged in an intense, covert interaction. The woman, dressed in a flowing, crimson silk gown, stands close to a man in an elaborate, black-and-gold suit. The folds of her dress catch and reflect the flickering light from a massive crystal chandelier overhead, which casts a warm, golden light, creating a series of intricate shadows on the polished wooden floor. The man's hand gently grazes the woman's, their fingertips just barely touching, generating an almost palpable tension between them.
+
+The backdrop is a grandiose room filled with gilded mirrors, sweeping tapestries, and towering marble columns, all detailed with painstaking accuracy. In the background, other elegantly dressed couples engage in lively conversation and dance, but their forms blur slightly, emphasizing the central focus on the couple. Candle-lit wall sconces add depth and multiple light sources, creating an aura of both opulence and intimacy.
+
+The painter employs a rich, warm palette dominated by deep reds, golds, and dark shadows to emphasize the fiery, intense connection between the couple. Subtle textures in fabrics and fine details, like the glint of a jeweled necklace or the intricate embroidery on garments, add a layer of realism. The entire scene is suffused with an almost tangible warmth, like the soft glow of an ember, subtly highlighting the electrifying yet secret bond shared by the two figures.
+Seed: 3997111615
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Infatuation, Flame

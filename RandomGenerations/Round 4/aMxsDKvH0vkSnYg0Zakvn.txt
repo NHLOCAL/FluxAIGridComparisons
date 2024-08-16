@@ -1,0 +1,4 @@
+Prompt: A hyper-realistic oil painting depicts a minimalist coastal scene at dawn, where the horizon is sharply defined against the soft gradient of the morning sky. The sea is calm, its surface reflecting the light like a mirror. A gentle breeze disturbs the leaves of a solitary, ancient tree growing from a rocky outcrop in the foreground, its gnarled branches reaching toward the sky with certainty. Fine details of the tree bark and leaves are painted with meticulous precision, while the background showcases a palette of pastel blues and pinks melding seamlessly. The lighting is delicate yet clear, capturing the first rays of sunlight breaking through the horizon, casting long, soft shadows across the scene. The background merges into a vast expanse of the serene sea that meets the sky at an indiscernible point, creating an infinite sense of space and tranquility.
+Seed: 604398516
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Certainty, Breeze

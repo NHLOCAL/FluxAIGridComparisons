@@ -1,0 +1,4 @@
+Prompt: An oil painting captures the majestic essence of a lion poised on a prominent rock formation, in the golden hour of late afternoon. The light bathes the scene in a warm, golden hue, casting long, dramatic shadows that emphasize the lion’s musculature and the rugged texture of the ancient stone beneath its paws. The rock formation is weathered, with cracks and crevices that tell a tale of countless seasons past, partially covered in patches of green moss and lichen. Behind the lion, the landscape extends to a horizon of rolling savannah plains dotted with acacia trees, under a vast sky painted in gradients of orange, pink, and purple as the sun begins its descent. The painting uses a realistic style, with careful attention to detail and texture, making every whisker of the lion and every stone in the rock feel lifelike.
+Seed: 3019416119
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Animal, Stone

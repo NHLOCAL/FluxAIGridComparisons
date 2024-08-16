@@ -1,0 +1,10 @@
+Prompt: A black and white photograph capturing an early morning scene in an abandoned, run-down boxing gym. The gym, with its worn wooden floors and peeling paint on the walls, stands as a silent testament to a bygone era. Dust particles, visible in the soft rays of morning light streaming through cracked and grimy windows, give the atmosphere a hazy, almost ethereal quality. 
+
+At the center, an old, frayed boxing ring is illuminated by a single, hanging lamp, casting a stark yet gentle light that creates deep shadows and highlights the textures of the well-used ropes and corner pads. Faded posters of past championships and illustrious boxers adorn the walls, their edges curling and colors pale with age. 
+
+In one corner, an ancient punching bag hangs still, its leather surface cracked and worn from countless strikes, while a pair of vintage leather gloves rest on a nearby wooden bench, untouched and covered in a fine layer of dust. The gym's silence is almost palpable, highlighting the absence of the once vigorous activity and vibrant energy that these walls enclosed.
+
+This photograph, with its rich contrasts and historical textures, masterfully captures the solemn beauty and silent history of a place that once hummed with life and competition.
+Seed: 529758635
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: League, Silence

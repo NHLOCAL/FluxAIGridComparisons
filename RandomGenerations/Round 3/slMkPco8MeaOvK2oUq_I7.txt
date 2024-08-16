@@ -1,0 +1,4 @@
+Prompt: A futuristic lounge set inside a sleek spaceship with large, transparent walls offering a mesmerizing view of deep space scattered with colorful nebulas and distant stars. The scene is painted in an avant-garde, surrealistic style using vivid colors and abstract forms. In the foreground, a group of humanoid aliens with intricate, bioluminescent tattoos are casually seated on minimalist, ergonomic furniture, engaging in animated conversation while sipping on glowing, otherworldly beverages. The lounge is softly illuminated by a mix of ambient lighting and the ethereal glow from the warp drive mechanism visible in the background, which appears to warp the space around it in a beautiful, swirling pattern. The furniture and decor are inspired by modern designs but with a futuristic twist, featuring metallic finishes and holographic elements.
+Seed: 3982130438
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Lounge, Warp drive

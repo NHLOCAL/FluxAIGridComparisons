@@ -1,0 +1,10 @@
+Prompt: A grand oil painting titled "Forgotten Guardian," depicting a monumental, abandoned castle forged from iron. The scene captures the castle in exquisite detail, with its massive iron towers and rusted parapets standing defiantly against the elements. Painted in a hyper-realistic style, the dense layers of ironwork are intricately detailed with signs of age, erosion, and weathering.
+
+The lighting is dramatic, with the late afternoon sun casting long, sharp shadows across the scene. The sunlight illuminates the iron edifice, reflecting off its metallic surfaces and highlighting the textures of rust and decay. In contrast, parts of the castle remain cloaked in deep shadow, adding depth and a sense of mystery to the painting.
+
+The background is a stark, desolate landscape of rocky outcrops and dry, cracked earth, further emphasizing the castle's isolation. A distant mountain range under a pale, clouded sky frames the iron fortress, presenting a stark contrast between the natural and the man-made. The painting's palette is dominated by muted earth tones and weathered grays, with occasional flashes of orange rust and glints of light catching on the iron surfaces.
+
+"Forgotten Guardian" stands as a testament to both human ingenuity and the relentless passage of time, portrayed through masterful brushwork and an eye for architectural grandeur.
+Seed: 3917734320
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Iron, Edifice

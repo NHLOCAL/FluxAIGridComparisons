@@ -1,0 +1,10 @@
+Prompt: A hyper-realistic oil painting captures a bustling city street in Paris at dusk. The scene is both grand and intimate, with vibrant details and a rich color palette. Fluttering streetlamps cast a warm, golden glow that mingles with the twilight sky, painted in shades of deep purples and blues. The city's classic architecture frames the background, with French windows, ornate balconies, and historical facades meticulously rendered.
+
+In the foreground, a chic Parisian cafe spills out onto the sidewalk, tables adorned with crisp white tablecloths and small floral arrangements. The glossy sheen of wine glasses and the delicate steam of freshly served coffee are captured in exquisite detail. Diners engage in lively discussions, their figures masterfully painted to show detailed attire and exquisite textures.
+
+The mid-ground of the painting showcases a street market, with an array of vibrant fruits, vegetables, and artisanal breads. Vendors enthusiastically engage with patrons, their expressions captured through realistic brush strokes. 
+
+The painting uses high contrasts of light and shadow to enhance depth, and details like the cobblestone streets wet from an earlier rain create a tactile sense of place. The carefully cropped scene allows viewers an intimate glimpse into Parisian life, while the background maintains the grandeur of the city's skyline, with the iconic Eiffel Tower subtly illuminated in the distance. This masterful composition makes the scene gallery-worthy, inviting viewers to savor every intricate detail and flavor of Paris.
+Seed: 3527466148
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Flavor, Crop

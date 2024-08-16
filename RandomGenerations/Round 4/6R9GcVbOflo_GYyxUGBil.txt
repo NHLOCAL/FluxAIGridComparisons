@@ -1,0 +1,12 @@
+Prompt: A masterful oil painting of a dramatic volcanic eruption, capturing the moment in exquisite, painstaking detail. The volcano dominates the center of the composition, with its jagged edges outlined against a sky transitioning from twilight to night. The sky is painted with deep purples and midnight blues, pierced by twinkling stars. Lava cascades down the sides of the volcano in glowing, vivid reds, oranges, and yellows, illuminating the scene with a fiery, incandescent light.
+
+In the foreground, the molten lava splashes and crackles, and dark volcanic rocks are scattered, their rough textures contrasting with the smooth, flowing lava. Small tendrils of smoke and ash rise into the air, rendered in soft, swirling grays and blacks. The painting portrays the ground with a rich mix of earth tones, from charred blacks to deep browns, showing the effects of the heat and molten rock.
+
+To the left of the painting, a large, ancient tree stands resiliently, its branches twisted and bark scorched, yet with small patches of green leaves clinging to life, creating a contrast between destruction and endurance. In the top corner of the canvas, there are faint, almost ghostly figures of birds in flight, their silhouettes adding a sense of fleeting movement.
+
+The lighting in the painting is dramatic and high-contrast, with the intense brightness of the lava casting long, eerie shadows across the ground and mountains. This interplay of light and shadow adds depth and texture to every element, from the smallest pebbles in the foreground to the swirling smoke against the sky.
+
+The background includes distant mountain ranges, shadowed and majestic, partially obscured by the haze from the eruption. Farther back, you can see a vast expanse of dense forest, painted in dark greens and blues, gradually fading into the horizon.
+Seed: 3795003011
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Volcano, Chuckle

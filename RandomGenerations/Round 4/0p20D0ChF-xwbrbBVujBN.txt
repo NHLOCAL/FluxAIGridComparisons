@@ -1,0 +1,8 @@
+Prompt: An exquisite oil painting exuding a sense of serenity and classical beauty, displayed as a centerpiece in a high-end art gallery. The scene depicts a flourishing botanical garden at the height of spring. A cobblestone path meanders through the lush greenery, flanked by an array of vibrant flowers in full bloom—roses, tulips, and daffodils, their petals almost tangible in their richness and detail. A crystalline fountain stands at the far end, water cascading gracefully from the mouths of intricately sculpted cherubs, catching the dappled sunlight that filters through a canopy of ancient oak trees.
+
+The lighting in the painting focuses on the natural sunlight, creating a warm, golden hue that infuses the entire setting with a soft, idyllic glow. Delicate shadows of leaves dance on the mossy ground, reflecting the gentle breeze that rustles through the garden. The background reveals an elegantly designed greenhouse made of wrought iron and glass, partially obscured by climbing ivy and delicate ferns. 
+
+The painting style is reminiscent of Impressionism, with a focus on capturing the light and natural beauty in loose, yet deliberate brushstrokes. The colors are rich and lush, with a harmonious palette that enhances the sense of vitality and well-being. The entire composition is balanced and inviting, reflecting a timeless celebration of nature’s splendor and the quiet health of a well-tended garden.
+Seed: 4138384379
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Pretty, Health

@@ -1,0 +1,12 @@
+Prompt: Create an oil painting titled "Silent Captivity." The scene features an elegant parlor room frozen in time, capturing a moment after a lavish evening gathering. A large, ornate chandelier hangs from the ceiling, its crystals catching and diffusing soft, golden light that fills the room. The room's rich velvet drapes, in shades of deep burgundy, are drawn halfway, allowing a glimpse of a moonlit garden outside, casting a silvery glow through the large, arched windows.
+
+In the center of the room, a grand, circular wooden table with inlaid designs sits surrounded by high-backed chairs, their cushions showing signs of recent use. The table is adorned with remnants of an opulent dinner: silverware askew, half-empty wine glasses reflecting the chandelier's light, and a centerpiece of wilting white lilies. 
+
+To one side of the room, an elegant grand piano is partially open, its sleek black finish contrasting with the antique furniture. An intricately carved marble fireplace opposite the windows, with a gently crackling fire, adds warmth and an amber hue to one side of the scene. Above the fireplace hangs a large, gilded mirror, reflecting parts of the room and adding depth to the composition.
+
+The walls are adorned with classical art pieces in gilded frames, each meticulously detailed. Plush Persian carpets cover the hardwood floor, muffling any sound, enhancing the sense of quiet that pervades the room. A solitary cage with an open door rests on one side, its occupant long gone, hinting at a past presence.
+
+The painting employs a realistic style with meticulous attention to textures and light, capturing every detail from the intricate patterns on the carpet to the delicate lace of the tablecloth. The overall ambiance conveys a sense of stillness and abandonment, with the room's opulence speaking to a time that was vibrant but is now subdued into silence.
+Seed: 521893254
+Flux URL: https://fal.run/fal-ai/flux/schnell
+Random Words: Captivity, Hush
